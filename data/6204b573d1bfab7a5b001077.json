@@ -1,0 +1,808 @@
+{
+  "topicId": "6204b573d1bfab7a5b001077",
+  "title": "CONJUNCTIONS - Practice 1",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001273",
+        "questionNumber": 1,
+        "questionText": "You need to contact your supervisor ________ you are late to work.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "despite",
+            "raw": "A. despite ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "often",
+            "raw": "B. often",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "if",
+            "raw": "C. if",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "according to",
+            "raw": "D. according to",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'You need to contact your supervisor ________ you are late to work.' requires a conjunction that introduces a condition. The sentence means that contacting your supervisor is necessary in the event that you are late to work. The correct conjunction to express this condition is 'if'.<br><ul><li><b>despite</b> (preposition): 'Despite' is a preposition used to show contrast, meaning 'in spite of'. It is not used to introduce a condition.</li><li><b>often</b> (adverb): 'Often' is an adverb of frequency, meaning 'many times' or 'frequently'. It does not fit grammatically in this context.</li><li><b>if</b> (conjunction): 'If' is a conjunction used to introduce a condition, meaning 'in the event that'. It is the correct choice here.</li><li><b>according to</b> (prepositional phrase): 'According to' is a prepositional phrase used to refer to a source or authority. It cannot be used to introduce a condition.</li></ul><b>Related structure or vocabulary:</b> Conditional sentences: 'if' is used to introduce a condition. Structure: if + subject + verb, ...<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'You need to contact your supervisor ________ you are late to work.' cần một liên từ để diễn đạt điều kiện. Câu này có nghĩa là bạn cần liên hệ với người giám sát trong trường hợp bạn đi làm muộn. Liên từ phù hợp để diễn đạt điều kiện này là 'if'.<br><ul><li><b>despite</b> (giới từ): 'Despite' là giới từ dùng để diễn đạt sự tương phản, nghĩa là 'mặc dù'. Không dùng để diễn đạt điều kiện.</li><li><b>often</b> (trạng từ): 'Often' là trạng từ chỉ tần suất, nghĩa là 'thường xuyên'. Không phù hợp về mặt ngữ pháp trong ngữ cảnh này.</li><li><b>if</b> (liên từ): 'If' là liên từ dùng để diễn đạt điều kiện, nghĩa là 'nếu'. Đây là lựa chọn đúng trong trường hợp này.</li><li><b>according to</b> (cụm giới từ): 'According to' là cụm giới từ dùng để dẫn nguồn hoặc ý kiến. Không dùng để diễn đạt điều kiện.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện: 'if' dùng để diễn đạt điều kiện. Cấu trúc: if + chủ ngữ + động từ, ...<br><br><b>Tạm dịch:</b> Bạn cần liên hệ với người giám sát nếu bạn đi làm muộn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'You need to contact your supervisor ________ you are late to work.' requires a conjunction that introduces a condition. The sentence means that contacting your supervisor is necessary in the event that you are late to work. The correct conjunction to express this condition is 'if'.<br><ul><li><b>despite</b> (preposition): 'Despite' is a preposition used to show contrast, meaning 'in spite of'. It is not used to introduce a condition.</li><li><b>often</b> (adverb): 'Often' is an adverb of frequency, meaning 'many times' or 'frequently'. It does not fit grammatically in this context.</li><li><b>if</b> (conjunction): 'If' is a conjunction used to introduce a condition, meaning 'in the event that'. It is the correct choice here.</li><li><b>according to</b> (prepositional phrase): 'According to' is a prepositional phrase used to refer to a source or authority. It cannot be used to introduce a condition.</li></ul><b>Related structure or vocabulary:</b> Conditional sentences: 'if' is used to introduce a condition. Structure: if + subject + verb, ...<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001274",
+        "questionNumber": 2,
+        "questionText": "________ he joined our company, Mr. Park has been working in the sales team.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Since",
+            "raw": "A. Since",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "During",
+            "raw": "B. During",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Within",
+            "raw": "C. Within ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Due to",
+            "raw": "D. Due to",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a conjunction or preposition that introduces a time clause. The sentence describes an action that started in the past and continues to the present, so we need a word that can connect the two clauses in this way. 'Since' is used to indicate the starting point of an action that continues up to now.<br><ul><li><b>Since</b> (conjunction/preposition): Used to indicate the starting point of an action or event that continues up to the present.</li><li><b>During</b> (preposition): Used to refer to a period of time in which something happens, not the starting point.</li><li><b>Within</b> (preposition): Used to indicate something happens inside a period of time, not from a starting point.</li><li><b>Due to</b> (prepositional phrase): Used to show the reason for something, not time.</li></ul><b>Related structure or vocabulary:</b> since + clause: used to show when something started and continues to now (present perfect tense).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một liên từ hoặc giới từ để nối mệnh đề chỉ thời gian. Câu này mô tả một hành động bắt đầu trong quá khứ và vẫn tiếp diễn đến hiện tại, nên cần một từ chỉ điểm bắt đầu của hành động đó. 'Since' được dùng để chỉ mốc thời gian bắt đầu của một hành động kéo dài đến hiện tại.<br><ul><li><b>Since</b> (liên từ/giới từ): Dùng để chỉ mốc thời gian bắt đầu của một hành động hoặc sự kiện kéo dài đến hiện tại.</li><li><b>During</b> (giới từ): Dùng để chỉ một khoảng thời gian mà trong đó điều gì đó xảy ra, không phải mốc bắt đầu.</li><li><b>Within</b> (giới từ): Dùng để chỉ điều gì đó xảy ra trong một khoảng thời gian, không phải từ mốc bắt đầu.</li><li><b>Due to</b> (cụm giới từ): Dùng để chỉ nguyên nhân, không phải thời gian.</li></ul><b>Cấu trúc và từ vựng:</b> since + mệnh đề: dùng để chỉ thời điểm bắt đầu và kéo dài đến hiện tại (thì hiện tại hoàn thành).<br><br><b>Tạm dịch:</b> Kể từ khi ông ấy gia nhập công ty chúng ta, ông Park đã làm việc trong đội ngũ bán hàng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a conjunction or preposition that introduces a time clause. The sentence describes an action that started in the past and continues to the present, so we need a word that can connect the two clauses in this way. 'Since' is used to indicate the starting point of an action that continues up to now.<br><ul><li><b>Since</b> (conjunction/preposition): Used to indicate the starting point of an action or event that continues up to the present.</li><li><b>During</b> (preposition): Used to refer to a period of time in which something happens, not the starting point.</li><li><b>Within</b> (preposition): Used to indicate something happens inside a period of time, not from a starting point.</li><li><b>Due to</b> (prepositional phrase): Used to show the reason for something, not time.</li></ul><b>Related structure or vocabulary:</b> since + clause: used to show when something started and continues to now (present perfect tense).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001275",
+        "questionNumber": 3,
+        "questionText": "________ the internship period has ended, you will get a chance to be hired as a full-time employee.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Beyond",
+            "raw": "A. Beyond ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "During",
+            "raw": "B. During",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Between",
+            "raw": "C. Between ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "After",
+            "raw": "D. After",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that indicates the time when something happens in relation to the internship period. The sentence is: '________ the internship period has ended, you will get a chance to be hired as a full-time employee.' The correct word should show that the opportunity comes after the internship is finished.<br><ul><li><b>Beyond</b> (preposition): Means 'further than' or 'outside the limits of.' It is not used to indicate time immediately after an event.</li><li><b>During</b> (preposition): Means 'throughout the duration of.' It refers to something happening in the middle of an event, not after it.</li><li><b>Between</b> (preposition): Means 'in the space separating two points, objects, or periods.' It is used for two things or periods, not for indicating time after an event.</li><li><b>After</b> (preposition): Means 'following in time; at a later time than.' It is used to indicate that something happens later than another event.</li></ul><b>Related structure or vocabulary:</b> after + clause: used to show that one event happens later than another event. Example: After you finish your homework, you can watch TV.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ chỉ thời gian để diễn tả sự việc xảy ra sau khi kỳ thực tập kết thúc. Câu đầy đủ là: '________ the internship period has ended, you will get a chance to be hired as a full-time employee.' Từ đúng phải thể hiện rằng cơ hội được tuyển dụng đến sau khi kỳ thực tập kết thúc.<br><ul><li><b>Beyond</b> (giới từ): Có nghĩa là 'vượt ra ngoài' hoặc 'ngoài giới hạn của.' Không dùng để chỉ thời điểm ngay sau một sự kiện.</li><li><b>During</b> (giới từ): Có nghĩa là 'trong suốt thời gian.' Dùng để chỉ sự việc xảy ra trong quá trình một sự kiện, không phải sau đó.</li><li><b>Between</b> (giới từ): Có nghĩa là 'giữa hai điểm, vật hoặc khoảng thời gian.' Dùng cho hai sự vật hoặc hai khoảng thời gian, không dùng để chỉ thời điểm sau một sự kiện.</li><li><b>After</b> (giới từ): Có nghĩa là 'sau khi.' Dùng để chỉ một sự việc xảy ra sau một sự kiện khác.</li></ul><b>Cấu trúc và từ vựng:</b> after + mệnh đề: dùng để chỉ một sự việc xảy ra sau một sự kiện khác. Ví dụ: After you finish your homework, you can watch TV.<br><br><b>Tạm dịch:</b> Sau khi kỳ thực tập kết thúc, bạn sẽ có cơ hội được tuyển dụng làm nhân viên chính thức.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that indicates the time when something happens in relation to the internship period. The sentence is: '________ the internship period has ended, you will get a chance to be hired as a full-time employee.' The correct word should show that the opportunity comes after the internship is finished.<br><ul><li><b>Beyond</b> (preposition): Means 'further than' or 'outside the limits of.' It is not used to indicate time immediately after an event.</li><li><b>During</b> (preposition): Means 'throughout the duration of.' It refers to something happening in the middle of an event, not after it.</li><li><b>Between</b> (preposition): Means 'in the space separating two points, objects, or periods.' It is used for two things or periods, not for indicating time after an event.</li><li><b>After</b> (preposition): Means 'following in time; at a later time than.' It is used to indicate that something happens later than another event.</li></ul><b>Related structure or vocabulary:</b> after + clause: used to show that one event happens later than another event. Example: After you finish your homework, you can watch TV.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001276",
+        "questionNumber": 4,
+        "questionText": "You are not allowed to renew the books ________ other patrons are waiting for them.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "due to",
+            "raw": "A. due to ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "because of",
+            "raw": "B. because of",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "because",
+            "raw": "C. because",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "from",
+            "raw": "D. from",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or preposition that explains the reason why you are not allowed to renew the books. The clause after the blank ('other patrons are waiting for them') is a complete sentence, so we need a conjunction that can connect two clauses and show cause. 'Because' is the correct conjunction to use in this context.<br><ul><li><b>due to</b> (preposition): A preposition, used before a noun or noun phrase to show the reason for something. It cannot be used before a clause.</li><li><b>because of</b> (preposition): A preposition, used before a noun or noun phrase to show the reason for something. It cannot be used before a clause.</li><li><b>because</b> (conjunction): A conjunction, used to connect two clauses and show the reason for something.</li><li><b>from</b> (preposition): A preposition, used to indicate the starting point of something. It does not fit the meaning of the sentence.</li></ul><b>Related structure or vocabulary:</b> because + clause: used to give a reason; because of/due to + noun/noun phrase: used to give a reason before a noun or noun phrase<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ hoặc giới từ để giải thích lý do tại sao bạn không được phép gia hạn sách. Mệnh đề sau chỗ trống ('other patrons are waiting for them') là một câu hoàn chỉnh, vì vậy chúng ta cần một liên từ để nối hai mệnh đề và chỉ nguyên nhân. 'Because' là liên từ phù hợp trong trường hợp này.<br><ul><li><b>due to</b> (giới từ): Giới từ, dùng trước danh từ hoặc cụm danh từ để chỉ nguyên nhân. Không dùng trước một mệnh đề.</li><li><b>because of</b> (giới từ): Giới từ, dùng trước danh từ hoặc cụm danh từ để chỉ nguyên nhân. Không dùng trước một mệnh đề.</li><li><b>because</b> (liên từ): Liên từ, dùng để nối hai mệnh đề và chỉ nguyên nhân.</li><li><b>from</b> (giới từ): Giới từ, dùng để chỉ điểm bắt đầu của một sự việc. Không phù hợp với nghĩa của câu.</li></ul><b>Cấu trúc và từ vựng:</b> because + mệnh đề: dùng để đưa ra lý do; because of/due to + danh từ/cụm danh từ: dùng để đưa ra lý do trước danh từ hoặc cụm danh từ<br><br><b>Tạm dịch:</b> Bạn không được phép gia hạn sách vì những người đọc khác đang chờ chúng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or preposition that explains the reason why you are not allowed to renew the books. The clause after the blank ('other patrons are waiting for them') is a complete sentence, so we need a conjunction that can connect two clauses and show cause. 'Because' is the correct conjunction to use in this context.<br><ul><li><b>due to</b> (preposition): A preposition, used before a noun or noun phrase to show the reason for something. It cannot be used before a clause.</li><li><b>because of</b> (preposition): A preposition, used before a noun or noun phrase to show the reason for something. It cannot be used before a clause.</li><li><b>because</b> (conjunction): A conjunction, used to connect two clauses and show the reason for something.</li><li><b>from</b> (preposition): A preposition, used to indicate the starting point of something. It does not fit the meaning of the sentence.</li></ul><b>Related structure or vocabulary:</b> because + clause: used to give a reason; because of/due to + noun/noun phrase: used to give a reason before a noun or noun phrase<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001277",
+        "questionNumber": 5,
+        "questionText": "________ we receive your orders, we will check our inventory to fill your orders.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "During",
+            "raw": "A. During ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Sometimes",
+            "raw": "B. Sometimes",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Once",
+            "raw": "C. Once",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Often",
+            "raw": "D. Often",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or adverb that indicates when the action will happen. The sentence '________ we receive your orders, we will check our inventory to fill your orders.' means that after receiving the orders, the company will check their inventory. The correct word should show that the second action happens after the first one is completed.<br><ul><li><b>During</b> (preposition): Means 'while something is happening.' It is used to indicate something happening at the same time as another event.</li><li><b>Sometimes</b> (adverb): Means 'occasionally, not always.' It is used to talk about frequency.</li><li><b>Once</b> (conjunction): Means 'as soon as' or 'after something has happened.' It is used to show that one action happens immediately after another.</li><li><b>Often</b> (adverb): Means 'frequently, many times.' It is used to talk about frequency.</li></ul><b>Related structure or vocabulary:</b> Once + subject + verb, subject + will + verb: This structure is used to indicate that one action will happen immediately after another action is completed.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ hoặc trạng từ chỉ thời gian để diễn tả khi nào hành động xảy ra. Câu '________ we receive your orders, we will check our inventory to fill your orders.' có nghĩa là sau khi nhận được đơn hàng, công ty sẽ kiểm tra kho để đáp ứng đơn hàng đó. Từ đúng cần điền phải thể hiện hành động thứ hai xảy ra sau khi hành động thứ nhất hoàn thành.<br><ul><li><b>During</b> (giới từ): Có nghĩa là 'trong khi điều gì đó đang xảy ra.' Dùng để chỉ hai hành động xảy ra đồng thời.</li><li><b>Sometimes</b> (trạng từ): Có nghĩa là 'thỉnh thoảng, không phải lúc nào cũng vậy.' Dùng để nói về tần suất.</li><li><b>Once</b> (liên từ): Có nghĩa là 'ngay khi' hoặc 'sau khi điều gì đó đã xảy ra.' Dùng để chỉ một hành động xảy ra ngay sau khi hành động khác hoàn thành.</li><li><b>Often</b> (trạng từ): Có nghĩa là 'thường xuyên, nhiều lần.' Dùng để nói về tần suất.</li></ul><b>Cấu trúc và từ vựng:</b> Once + chủ ngữ + động từ, chủ ngữ + will + động từ: Cấu trúc này dùng để diễn tả một hành động xảy ra ngay sau khi hành động khác hoàn thành.<br><br><b>Tạm dịch:</b> Ngay khi chúng tôi nhận được đơn đặt hàng của bạn, chúng tôi sẽ kiểm tra kho để đáp ứng đơn hàng đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or adverb that indicates when the action will happen. The sentence '________ we receive your orders, we will check our inventory to fill your orders.' means that after receiving the orders, the company will check their inventory. The correct word should show that the second action happens after the first one is completed.<br><ul><li><b>During</b> (preposition): Means 'while something is happening.' It is used to indicate something happening at the same time as another event.</li><li><b>Sometimes</b> (adverb): Means 'occasionally, not always.' It is used to talk about frequency.</li><li><b>Once</b> (conjunction): Means 'as soon as' or 'after something has happened.' It is used to show that one action happens immediately after another.</li><li><b>Often</b> (adverb): Means 'frequently, many times.' It is used to talk about frequency.</li></ul><b>Related structure or vocabulary:</b> Once + subject + verb, subject + will + verb: This structure is used to indicate that one action will happen immediately after another action is completed.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001278",
+        "questionNumber": 6,
+        "questionText": "_________ the recent high interest rates, there are many people to apply for a loan.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Despite",
+            "raw": "A. Despite",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Unless",
+            "raw": "B. Unless ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Although",
+            "raw": "C. Although ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "While",
+            "raw": "D. While",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a connector that shows contrast between the recent high interest rates and the fact that many people are still applying for loans. The correct connector should indicate that, even though interest rates are high, people are still applying for loans.<br><ul><li><b>Despite</b> (Preposition): Used to show contrast. It is followed by a noun or noun phrase, not a full clause.</li><li><b>Unless</b> (Conjunction): Means 'if not'. Used to introduce a condition, not contrast.</li><li><b>Although</b> (Conjunction): Used to show contrast, but it must be followed by a clause (subject + verb), not just a noun phrase.</li><li><b>While</b> (Conjunction): Used to show contrast or time, but usually followed by a clause (subject + verb).</li></ul><b>Related structure or vocabulary:</b> Despite + noun/noun phrase: used to show contrast. Example: Despite the rain, we went outside.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ nối thể hiện sự tương phản giữa việc lãi suất gần đây cao và việc vẫn có nhiều người nộp đơn vay tiền. Từ nối đúng phải chỉ ra rằng, mặc dù lãi suất cao, nhưng vẫn có nhiều người nộp đơn vay.<br><ul><li><b>Despite</b> (Giới từ): Dùng để thể hiện sự tương phản. Theo sau là danh từ hoặc cụm danh từ, không phải mệnh đề.</li><li><b>Unless</b> (Liên từ): Có nghĩa là 'nếu không'. Dùng để đưa ra điều kiện, không phải sự tương phản.</li><li><b>Although</b> (Liên từ): Dùng để thể hiện sự tương phản, nhưng phải theo sau là một mệnh đề (chủ ngữ + động từ), không phải cụm danh từ.</li><li><b>While</b> (Liên từ): Dùng để thể hiện sự tương phản hoặc thời gian, nhưng thường theo sau là một mệnh đề (chủ ngữ + động từ).</li></ul><b>Cấu trúc và từ vựng:</b> Despite + danh từ/cụm danh từ: dùng để thể hiện sự tương phản. Ví dụ: Despite the rain, we went outside.<br><br><b>Tạm dịch:</b> Mặc dù lãi suất gần đây cao, vẫn có nhiều người nộp đơn vay tiền.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a connector that shows contrast between the recent high interest rates and the fact that many people are still applying for loans. The correct connector should indicate that, even though interest rates are high, people are still applying for loans.<br><ul><li><b>Despite</b> (Preposition): Used to show contrast. It is followed by a noun or noun phrase, not a full clause.</li><li><b>Unless</b> (Conjunction): Means 'if not'. Used to introduce a condition, not contrast.</li><li><b>Although</b> (Conjunction): Used to show contrast, but it must be followed by a clause (subject + verb), not just a noun phrase.</li><li><b>While</b> (Conjunction): Used to show contrast or time, but usually followed by a clause (subject + verb).</li></ul><b>Related structure or vocabulary:</b> Despite + noun/noun phrase: used to show contrast. Example: Despite the rain, we went outside.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001279",
+        "questionNumber": 7,
+        "questionText": "Refunds will be given only _________ the period of 30 days from the purchase.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "because",
+            "raw": "A. because ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "although",
+            "raw": "B. although",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "for",
+            "raw": "C. for",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "while",
+            "raw": "D. while",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Refunds will be given only _________ the period of 30 days from the purchase.' requires a preposition that indicates a time limit or duration. The correct preposition to use when referring to a period of time is 'for.' The phrase 'for the period of 30 days' means that refunds are available during the 30 days after purchase.<br><ul><li><b>because</b> (conjunction): 'Because' is a conjunction used to show reason or cause, not to indicate time duration.</li><li><b>although</b> (conjunction): 'Although' is a conjunction used to show contrast, not suitable for expressing time duration.</li><li><b>for</b> (preposition): 'For' is a preposition used to indicate a period of time, which fits the context of the sentence.</li><li><b>while</b> (conjunction): 'While' is a conjunction used to indicate two actions happening at the same time, not to specify a time period.</li></ul><b>Related structure or vocabulary:</b> for + period of time: used to indicate the duration of an action or state (e.g., for two weeks, for a year, for 30 days)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Refunds will be given only _________ the period of 30 days from the purchase.' cần một giới từ chỉ khoảng thời gian. Giới từ đúng để dùng khi nói về một khoảng thời gian là 'for.' Cụm 'for the period of 30 days' có nghĩa là hoàn tiền chỉ được thực hiện trong vòng 30 ngày kể từ khi mua hàng.<br><ul><li><b>because</b> (liên từ): 'Because' là liên từ dùng để chỉ nguyên nhân, không dùng để chỉ khoảng thời gian.</li><li><b>although</b> (liên từ): 'Although' là liên từ dùng để chỉ sự tương phản, không phù hợp để diễn đạt khoảng thời gian.</li><li><b>for</b> (giới từ): 'For' là giới từ dùng để chỉ một khoảng thời gian, phù hợp với ngữ cảnh của câu.</li><li><b>while</b> (liên từ): 'While' là liên từ dùng để chỉ hai hành động xảy ra đồng thời, không dùng để chỉ một khoảng thời gian cụ thể.</li></ul><b>Cấu trúc và từ vựng:</b> for + khoảng thời gian: dùng để chỉ thời gian kéo dài của một hành động hoặc trạng thái (ví dụ: for two weeks, for a year, for 30 days)<br><br><b>Tạm dịch:</b> Hoàn tiền chỉ được thực hiện trong vòng 30 ngày kể từ khi mua hàng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Refunds will be given only _________ the period of 30 days from the purchase.' requires a preposition that indicates a time limit or duration. The correct preposition to use when referring to a period of time is 'for.' The phrase 'for the period of 30 days' means that refunds are available during the 30 days after purchase.<br><ul><li><b>because</b> (conjunction): 'Because' is a conjunction used to show reason or cause, not to indicate time duration.</li><li><b>although</b> (conjunction): 'Although' is a conjunction used to show contrast, not suitable for expressing time duration.</li><li><b>for</b> (preposition): 'For' is a preposition used to indicate a period of time, which fits the context of the sentence.</li><li><b>while</b> (conjunction): 'While' is a conjunction used to indicate two actions happening at the same time, not to specify a time period.</li></ul><b>Related structure or vocabulary:</b> for + period of time: used to indicate the duration of an action or state (e.g., for two weeks, for a year, for 30 days)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b00127a",
+        "questionNumber": 8,
+        "questionText": "The City Museum will be open _________ the scheduled renovation.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "once",
+            "raw": "A. once ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "because",
+            "raw": "B. because",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "while",
+            "raw": "C. while ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "after",
+            "raw": "D. after",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<p data-pm-slice=\"0 0 []\"><strong>Detailed Explanation:</strong></p>\n\n<p>The sentence refers to the time when the museum will open in relation to the scheduled renovation. From a logical point of view, the museum can only open after the renovation is completed, because during the renovation period it cannot operate normally.</p>\n\n<ul>\n\t<li>after: is used to indicate a point in time following the completion of an event, which perfectly matches the meaning of the sentence.</li>\n</ul>\n\n<p><strong>A. once</strong></p>\n\n<p>Once means as soon as. Although it can be grammatically correct in some contexts, in this sentence after is clearer and more natural, especially in academic writing or standardized test contexts.</p>\n\n<p><strong>B. because</strong></p>\n\n<p>Because is used to express a reason. However, the sentence is about time, not cause, so this option is incorrect.</p>\n\n<p><strong>C. while</strong></p>\n\n<p>While means during the time that. If while were used, the sentence would suggest that the museum is open during the renovation, which is not logically realistic.</p>\n\n<p><strong>&rArr; Correct answer: D. after</strong></p>\n\n<p><strong>Structure and vocabulary:</strong></p>\n\n<p>Time conjunctions: <strong>after </strong>is used to indicate that one action happens after another action has been completed.</p>\n",
+        "explanationViHtml": "<p><b>Giải th&iacute;ch chi tiết:</b></p>\n\n<p data-pm-slice=\"0 0 []\">C&acirc;u n&oacute;i về thời điểm bảo t&agrave;ng mở cửa so với việc cải tạo đ&atilde; được l&ecirc;n kế hoạch. Về mặt logic, bảo t&agrave;ng chỉ c&oacute; thể mở cửa sau khi việc cải tạo ho&agrave;n tất, v&igrave; trong thời gian sửa chữa th&igrave; kh&ocirc;ng thể hoạt động b&igrave;nh thường.</p>\n\n<ul>\n\t<li>&nbsp;after: d&ugrave;ng để chỉ thời điểm sau khi một sự việc kết th&uacute;c &rarr; ho&agrave;n to&agrave;n ph&ugrave; hợp với &yacute; nghĩa của c&acirc;u.</li>\n</ul>\n\n<p data-pm-slice=\"0 0 []\"><strong>A. once</strong></p>\n\n<p>Once c&oacute; nghĩa l&agrave; ngay khi. Mặc d&ugrave; về mặt ngữ ph&aacute;p c&oacute; thể d&ugrave;ng trong một số ngữ cảnh, nhưng trong c&acirc;u n&agrave;y after diễn đạt r&otilde; r&agrave;ng v&agrave; tự nhi&ecirc;n hơn, đặc biệt trong văn phong học thuật/đề thi chuẩn.</p>\n\n<p><strong>B. because</strong></p>\n\n<p>Because d&ugrave;ng để chỉ nguy&ecirc;n nh&acirc;n (bởi v&igrave;), trong khi c&acirc;u hỏi đang n&oacute;i về thời gian, kh&ocirc;ng phải l&yacute; do &rarr; sai nghĩa.</p>\n\n<p><strong>C. while</strong></p>\n\n<p>While nghĩa l&agrave; trong khi. Nếu d&ugrave;ng while, c&acirc;u sẽ mang nghĩa bảo t&agrave;ng mở cửa trong l&uacute;c đang cải tạo, điều n&agrave;y kh&ocirc;ng hợp l&yacute; về mặt thực tế.</p>\n\n<p><strong>=&gt; Đ&aacute;p &aacute;n đ&uacute;ng: D. After&nbsp;</strong></p>\n\n<p><b>Cấu tr&uacute;c v&agrave; từ vựng:</b> Li&ecirc;n từ chỉ thời gian: &#39;after&#39; d&ugrave;ng để chỉ một h&agrave;nh động kh&aacute;c xảy ra sau khi h&agrave;nh động n&agrave;y ho&agrave;n tất.&nbsp;<br />\n<br />\n<b>Tạm dịch:</b> Bảo t&agrave;ng th&agrave;nh phố sẽ mở cửa sau thời gian tu sửa theo lịch tr&igrave;nh.</p>\n\n<p>&nbsp;</p>\n",
+        "transcriptHtml": "<p data-pm-slice=\"0 0 []\"><strong>Detailed Explanation:</strong></p>\n\n<p>The sentence refers to the time when the museum will open in relation to the scheduled renovation. From a logical point of view, the museum can only open after the renovation is completed, because during the renovation period it cannot operate normally.</p>\n\n<ul>\n\t<li>after: is used to indicate a point in time following the completion of an event, which perfectly matches the meaning of the sentence.</li>\n</ul>\n\n<p><strong>A. once</strong></p>\n\n<p>Once means as soon as. Although it can be grammatically correct in some contexts, in this sentence after is clearer and more natural, especially in academic writing or standardized test contexts.</p>\n\n<p><strong>B. because</strong></p>\n\n<p>Because is used to express a reason. However, the sentence is about time, not cause, so this option is incorrect.</p>\n\n<p><strong>C. while</strong></p>\n\n<p>While means during the time that. If while were used, the sentence would suggest that the museum is open during the renovation, which is not logically realistic.</p>\n\n<p><strong>&rArr; Correct answer: D. after</strong></p>\n\n<p><strong>Structure and vocabulary:</strong></p>\n\n<p>Time conjunctions: <strong>after </strong>is used to indicate that one action happens after another action has been completed.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b00127b",
+        "questionNumber": 9,
+        "questionText": "The commuter train service has been suspended _________ a technical problem.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "because",
+            "raw": "A. because ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "while",
+            "raw": "B. while",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "unless",
+            "raw": "C. unless ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "because of",
+            "raw": "D. because of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a preposition or conjunction to show the reason for the suspension of the train service. The correct answer is 'because of', which is a preposition used before a noun or noun phrase to indicate the reason for something.<br><ul><li><b>because</b> (conjunction): A conjunction used to introduce a clause giving the reason for something. It must be followed by a subject and verb, not just a noun or noun phrase.</li><li><b>while</b> (conjunction): A conjunction used to indicate two actions happening at the same time, or to contrast two ideas. It does not indicate reason.</li><li><b>unless</b> (conjunction): A conjunction meaning 'except if'. It is used to introduce a condition, not a reason.</li><li><b>because of</b> (preposition): A preposition used before a noun or noun phrase to give the reason for something.</li></ul><b>Related structure or vocabulary:</b> because of + noun/noun phrase: used to give the reason for something. Example: The flight was delayed because of bad weather.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một giới từ hoặc liên từ để chỉ lý do cho việc tạm dừng dịch vụ tàu. Đáp án đúng là 'because of', đây là một giới từ dùng trước danh từ hoặc cụm danh từ để chỉ nguyên nhân của sự việc.<br><ul><li><b>because</b> (liên từ): Liên từ dùng để giới thiệu một mệnh đề chỉ lý do. Phải theo sau bởi chủ ngữ và động từ, không dùng trước danh từ/cụm danh từ.</li><li><b>while</b> (liên từ): Liên từ dùng để chỉ hai hành động xảy ra cùng lúc hoặc để đối lập hai ý. Không dùng để chỉ lý do.</li><li><b>unless</b> (liên từ): Liên từ mang nghĩa 'trừ khi', dùng để đưa ra điều kiện, không phải lý do.</li><li><b>because of</b> (giới từ): Giới từ dùng trước danh từ hoặc cụm danh từ để chỉ nguyên nhân của sự việc.</li></ul><b>Cấu trúc và từ vựng:</b> because of + danh từ/cụm danh từ: dùng để chỉ nguyên nhân của sự việc. Ví dụ: The flight was delayed because of bad weather.<br><br><b>Tạm dịch:</b> Dịch vụ tàu đi làm đã bị tạm dừng vì một sự cố kỹ thuật.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a preposition or conjunction to show the reason for the suspension of the train service. The correct answer is 'because of', which is a preposition used before a noun or noun phrase to indicate the reason for something.<br><ul><li><b>because</b> (conjunction): A conjunction used to introduce a clause giving the reason for something. It must be followed by a subject and verb, not just a noun or noun phrase.</li><li><b>while</b> (conjunction): A conjunction used to indicate two actions happening at the same time, or to contrast two ideas. It does not indicate reason.</li><li><b>unless</b> (conjunction): A conjunction meaning 'except if'. It is used to introduce a condition, not a reason.</li><li><b>because of</b> (preposition): A preposition used before a noun or noun phrase to give the reason for something.</li></ul><b>Related structure or vocabulary:</b> because of + noun/noun phrase: used to give the reason for something. Example: The flight was delayed because of bad weather.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b00127c",
+        "questionNumber": 10,
+        "questionText": "The new office can accommodate 1,000 people _________ the advertisement.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "according to",
+            "raw": "A. according to",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "because",
+            "raw": "B. because",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "while",
+            "raw": "C. while ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "before",
+            "raw": "D. before",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a phrase that connects the information about the office's capacity with the source of that information. The phrase 'according to' is used to indicate the source of information or a statement. The other options do not fit the context: 'because' is used to show reason, 'while' is used to show contrast or simultaneous actions, and 'before' is used to indicate time.<br><ul><li><b>according to</b> (prepositional phrase): Used to indicate the source of information or a statement.</li><li><b>because</b> (conjunction): Used to show the reason for something.</li><li><b>while</b> (conjunction): Used to show contrast or that two things happen at the same time.</li><li><b>before</b> (conjunction/preposition): Used to indicate that something happens earlier than another event.</li></ul><b>Related structure or vocabulary:</b> according to + noun phrase: used to report what someone or something has said.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một cụm từ để liên kết thông tin về sức chứa của văn phòng với nguồn thông tin đó. 'According to' được dùng để chỉ nguồn thông tin hoặc lời phát biểu. Các lựa chọn khác không phù hợp với ngữ cảnh: 'because' dùng để chỉ lý do, 'while' dùng để chỉ sự tương phản hoặc hai hành động xảy ra đồng thời, còn 'before' dùng để chỉ thời gian.<br><ul><li><b>according to</b> (cụm giới từ): Dùng để chỉ nguồn thông tin hoặc lời phát biểu.</li><li><b>because</b> (liên từ): Dùng để chỉ lý do cho một việc gì đó.</li><li><b>while</b> (liên từ): Dùng để chỉ sự tương phản hoặc hai hành động xảy ra cùng lúc.</li><li><b>before</b> (liên từ/giới từ): Dùng để chỉ một việc xảy ra trước một sự kiện khác.</li></ul><b>Cấu trúc và từ vựng:</b> according to + danh từ/cụm danh từ: dùng để tường thuật lại điều ai đó hoặc cái gì đó đã nói.<br><br><b>Tạm dịch:</b> Văn phòng mới có thể chứa được 1.000 người theo như quảng cáo.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a phrase that connects the information about the office's capacity with the source of that information. The phrase 'according to' is used to indicate the source of information or a statement. The other options do not fit the context: 'because' is used to show reason, 'while' is used to show contrast or simultaneous actions, and 'before' is used to indicate time.<br><ul><li><b>according to</b> (prepositional phrase): Used to indicate the source of information or a statement.</li><li><b>because</b> (conjunction): Used to show the reason for something.</li><li><b>while</b> (conjunction): Used to show contrast or that two things happen at the same time.</li><li><b>before</b> (conjunction/preposition): Used to indicate that something happens earlier than another event.</li></ul><b>Related structure or vocabulary:</b> according to + noun phrase: used to report what someone or something has said.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b00127d",
+        "questionNumber": 11,
+        "questionText": "_________ your order was placed after the deadline, no discount will be given.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "However",
+            "raw": "A. However ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "During",
+            "raw": "B. During",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Because",
+            "raw": "C. Because",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Despite",
+            "raw": "D. Despite",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or linking word to show the relationship between the two clauses: 'your order was placed after the deadline' and 'no discount will be given.' The second clause is a result of the first, so we need a word that expresses cause and effect.<br><ul><li><b>However</b> (Conjunction/Adverb): Used to introduce a statement that contrasts with or seems to contradict something that has been said previously. It is not used to show cause and effect.</li><li><b>During</b> (Preposition): A preposition used to indicate a period of time in which something happens. It does not connect two clauses.</li><li><b>Because</b> (Conjunction): A conjunction used to introduce a reason or cause for something. It is used to show cause and effect between two clauses.</li><li><b>Despite</b> (Preposition): A preposition used to show contrast, meaning 'in spite of.' It is not followed by a clause, but by a noun or gerund.</li></ul><b>Related structure or vocabulary:</b> Because + clause: used to give a reason for something. Example: Because it was raining, we stayed inside.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ hoặc từ nối để thể hiện mối quan hệ giữa hai mệnh đề: 'đơn hàng của bạn được đặt sau hạn chót' và 'sẽ không được giảm giá.' Mệnh đề thứ hai là kết quả của mệnh đề đầu tiên, nên cần một từ diễn tả nguyên nhân - kết quả.<br><ul><li><b>However</b> (Liên từ/Trạng từ): Dùng để giới thiệu một ý trái ngược hoặc mâu thuẫn với ý trước đó. Không dùng để chỉ nguyên nhân - kết quả.</li><li><b>During</b> (Giới từ): Giới từ dùng để chỉ khoảng thời gian xảy ra sự việc. Không dùng để nối hai mệnh đề.</li><li><b>Because</b> (Liên từ): Liên từ dùng để đưa ra lý do hoặc nguyên nhân cho một sự việc. Dùng để nối hai mệnh đề theo quan hệ nguyên nhân - kết quả.</li><li><b>Despite</b> (Giới từ): Giới từ dùng để chỉ sự tương phản, nghĩa là 'mặc dù.' Không theo sau bởi mệnh đề mà là danh từ hoặc động từ thêm -ing.</li></ul><b>Cấu trúc và từ vựng:</b> Because + mệnh đề: dùng để đưa ra lý do cho một sự việc. Ví dụ: Because it was raining, we stayed inside.<br><br><b>Tạm dịch:</b> Vì đơn hàng của bạn được đặt sau hạn chót, sẽ không được giảm giá.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or linking word to show the relationship between the two clauses: 'your order was placed after the deadline' and 'no discount will be given.' The second clause is a result of the first, so we need a word that expresses cause and effect.<br><ul><li><b>However</b> (Conjunction/Adverb): Used to introduce a statement that contrasts with or seems to contradict something that has been said previously. It is not used to show cause and effect.</li><li><b>During</b> (Preposition): A preposition used to indicate a period of time in which something happens. It does not connect two clauses.</li><li><b>Because</b> (Conjunction): A conjunction used to introduce a reason or cause for something. It is used to show cause and effect between two clauses.</li><li><b>Despite</b> (Preposition): A preposition used to show contrast, meaning 'in spite of.' It is not followed by a clause, but by a noun or gerund.</li></ul><b>Related structure or vocabulary:</b> Because + clause: used to give a reason for something. Example: Because it was raining, we stayed inside.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b00127e",
+        "questionNumber": 12,
+        "questionText": "_________ the recent increase in sales, we decided to hire more sales personnel.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Due to",
+            "raw": "A. Due to",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "In fact",
+            "raw": "B. In fact",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "While",
+            "raw": "C. While ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Because",
+            "raw": "D. Because",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a phrase that explains the reason for the decision to hire more sales personnel. The correct answer should introduce the cause of the action in the main clause.<br><ul><li><b>Due to</b> (preposition): Used to introduce the reason for something; followed by a noun or noun phrase.</li><li><b>In fact</b> (phrase/adverb): Used to emphasize the truth of a statement, often to add information or clarify.</li><li><b>While</b> (conjunction): Used to show contrast or two actions happening at the same time.</li><li><b>Because</b> (conjunction): Used to introduce the reason for something; followed by a clause (subject + verb).</li></ul><b>Related structure or vocabulary:</b> due to + noun/noun phrase: used to show the reason for something<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một cụm từ để giải thích lý do cho quyết định tuyển thêm nhân viên bán hàng. Đáp án đúng phải là cụm từ diễn đạt nguyên nhân của hành động trong mệnh đề chính.<br><ul><li><b>Due to</b> (giới từ): Dùng để đưa ra lý do cho một việc gì đó; theo sau là danh từ hoặc cụm danh từ.</li><li><b>In fact</b> (cụm từ/trạng từ): Dùng để nhấn mạnh sự thật của một phát biểu, thường để bổ sung hoặc làm rõ thông tin.</li><li><b>While</b> (liên từ): Dùng để diễn tả sự tương phản hoặc hai hành động xảy ra cùng lúc.</li><li><b>Because</b> (liên từ): Dùng để đưa ra lý do cho một việc gì đó; theo sau là một mệnh đề (chủ ngữ + động từ).</li></ul><b>Cấu trúc và từ vựng:</b> due to + danh từ/cụm danh từ: dùng để chỉ nguyên nhân của một sự việc<br><br><b>Tạm dịch:</b> Do sự gia tăng doanh số bán hàng gần đây, chúng tôi đã quyết định tuyển thêm nhân viên bán hàng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a phrase that explains the reason for the decision to hire more sales personnel. The correct answer should introduce the cause of the action in the main clause.<br><ul><li><b>Due to</b> (preposition): Used to introduce the reason for something; followed by a noun or noun phrase.</li><li><b>In fact</b> (phrase/adverb): Used to emphasize the truth of a statement, often to add information or clarify.</li><li><b>While</b> (conjunction): Used to show contrast or two actions happening at the same time.</li><li><b>Because</b> (conjunction): Used to introduce the reason for something; followed by a clause (subject + verb).</li></ul><b>Related structure or vocabulary:</b> due to + noun/noun phrase: used to show the reason for something<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b00127f",
+        "questionNumber": 13,
+        "questionText": "The feedback from our customers are great _________ a few bad comments.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "although",
+            "raw": "A. although ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "because",
+            "raw": "B. because",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "once",
+            "raw": "C. once ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "despite",
+            "raw": "D. despite",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The feedback from our customers are great _________ a few bad comments.' requires a connector that shows contrast between two ideas: most feedback is great, but there are a few bad comments. The correct connector for this contrast is 'despite', which means 'in spite of'.<br><ul><li><b>although</b> (conjunction): A conjunction used to introduce a subordinate clause expressing contrast. It is usually followed by a subject and verb, not a noun phrase.</li><li><b>because</b> (conjunction): A conjunction used to show reason or cause. It does not express contrast.</li><li><b>once</b> (conjunction/adverb): A conjunction or adverb meaning 'as soon as' or 'after'. It does not fit the context of contrast.</li><li><b>despite</b> (preposition): A preposition used to show contrast, followed by a noun or noun phrase.</li></ul><b>Related structure or vocabulary:</b> despite + noun/noun phrase: used to show contrast between two ideas.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The feedback from our customers are great _________ a few bad comments.' cần một từ nối để thể hiện sự tương phản giữa hai ý: phần lớn phản hồi là tốt, nhưng vẫn có một vài bình luận xấu. Từ nối phù hợp để diễn đạt sự tương phản này là 'despite', nghĩa là 'mặc dù'.<br><ul><li><b>although</b> (liên từ): Liên từ dùng để mở đầu một mệnh đề phụ diễn tả sự tương phản. Thường theo sau là một chủ ngữ và động từ, không phải cụm danh từ.</li><li><b>because</b> (liên từ): Liên từ dùng để chỉ nguyên nhân hoặc lý do. Không diễn đạt sự tương phản.</li><li><b>once</b> (liên từ/trạng từ): Liên từ hoặc trạng từ mang nghĩa 'ngay khi' hoặc 'sau khi'. Không phù hợp với ngữ cảnh diễn đạt sự tương phản.</li><li><b>despite</b> (giới từ): Giới từ dùng để diễn đạt sự tương phản, theo sau là danh từ hoặc cụm danh từ.</li></ul><b>Cấu trúc và từ vựng:</b> despite + danh từ/cụm danh từ: dùng để diễn đạt sự tương phản giữa hai ý.<br><br><b>Tạm dịch:</b> Phản hồi từ khách hàng của chúng tôi rất tốt mặc dù có một vài bình luận xấu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The feedback from our customers are great _________ a few bad comments.' requires a connector that shows contrast between two ideas: most feedback is great, but there are a few bad comments. The correct connector for this contrast is 'despite', which means 'in spite of'.<br><ul><li><b>although</b> (conjunction): A conjunction used to introduce a subordinate clause expressing contrast. It is usually followed by a subject and verb, not a noun phrase.</li><li><b>because</b> (conjunction): A conjunction used to show reason or cause. It does not express contrast.</li><li><b>once</b> (conjunction/adverb): A conjunction or adverb meaning 'as soon as' or 'after'. It does not fit the context of contrast.</li><li><b>despite</b> (preposition): A preposition used to show contrast, followed by a noun or noun phrase.</li></ul><b>Related structure or vocabulary:</b> despite + noun/noun phrase: used to show contrast between two ideas.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001280",
+        "questionNumber": 14,
+        "questionText": "_________ the government takes effective measures, the unemployment rate will continue to rise.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Unless",
+            "raw": "A. Unless",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Also",
+            "raw": "B. Also",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Except",
+            "raw": "C. Except ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "However",
+            "raw": "D. However",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that introduces a condition. The sentence means that if the government does not take effective measures, the unemployment rate will continue to rise. The correct conjunction to express this negative condition is 'Unless', which means 'if not'.<br><ul><li><b>Unless</b> (conjunction): Used to introduce the only situation in which something will not happen; means 'if not'.</li><li><b>Also</b> (adverb): Means 'in addition' or 'too', used to add information.</li><li><b>Except</b> (preposition/conjunction): Means 'not including' or 'other than'.</li><li><b>However</b> (adverb): Used to introduce a statement that contrasts with or seems to contradict something that has been said previously.</li></ul><b>Related structure or vocabulary:</b> Unless + clause: used to introduce the only situation in which something will not happen. Example: Unless you study, you will fail the exam.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để diễn đạt điều kiện. Câu này có nghĩa là nếu chính phủ không thực hiện các biện pháp hiệu quả, tỷ lệ thất nghiệp sẽ tiếp tục tăng. Liên từ phù hợp để diễn đạt điều kiện phủ định là 'Unless', nghĩa là 'nếu không'.<br><ul><li><b>Unless</b> (liên từ): Dùng để giới thiệu điều kiện duy nhất mà điều gì đó sẽ không xảy ra; nghĩa là 'nếu không'.</li><li><b>Also</b> (trạng từ): Nghĩa là 'cũng', dùng để bổ sung thông tin.</li><li><b>Except</b> (giới từ/liên từ): Nghĩa là 'ngoại trừ', 'không kể đến'.</li><li><b>However</b> (trạng từ): Dùng để giới thiệu một ý trái ngược hoặc mâu thuẫn với ý trước đó.</li></ul><b>Cấu trúc và từ vựng:</b> Unless + mệnh đề: dùng để diễn đạt điều kiện phủ định. Ví dụ: Unless you study, you will fail the exam. (Nếu bạn không học, bạn sẽ trượt kỳ thi.)<br><br><b>Tạm dịch:</b> Nếu chính phủ không thực hiện các biện pháp hiệu quả, tỷ lệ thất nghiệp sẽ tiếp tục tăng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that introduces a condition. The sentence means that if the government does not take effective measures, the unemployment rate will continue to rise. The correct conjunction to express this negative condition is 'Unless', which means 'if not'.<br><ul><li><b>Unless</b> (conjunction): Used to introduce the only situation in which something will not happen; means 'if not'.</li><li><b>Also</b> (adverb): Means 'in addition' or 'too', used to add information.</li><li><b>Except</b> (preposition/conjunction): Means 'not including' or 'other than'.</li><li><b>However</b> (adverb): Used to introduce a statement that contrasts with or seems to contradict something that has been said previously.</li></ul><b>Related structure or vocabulary:</b> Unless + clause: used to introduce the only situation in which something will not happen. Example: Unless you study, you will fail the exam.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001281",
+        "questionNumber": 15,
+        "questionText": "Overall profits of our company increased by more than 10 percent _________ Ms. Serena was serving as sales manager.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "during",
+            "raw": "A. during ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "because of",
+            "raw": "B. because of",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "despite",
+            "raw": "C. despite ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "while",
+            "raw": "D. while",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or preposition that correctly links the two clauses: 'Overall profits of our company increased by more than 10 percent _________ Ms. Serena was serving as sales manager.' The sentence is talking about the time when Ms. Serena was serving as sales manager and the company's profits increased. The correct word should show that these two actions happened at the same time.<br><ul><li><b>during</b> (preposition): A preposition used to indicate a period of time in which something happens. However, 'during' is not followed by a subject and verb, but rather by a noun or noun phrase.</li><li><b>because of</b> (prepositional phrase): A prepositional phrase used to show reason or cause. It is followed by a noun or noun phrase, not a clause with a subject and verb.</li><li><b>despite</b> (preposition): A preposition used to show contrast. It is followed by a noun or noun phrase, not a clause.</li><li><b>while</b> (conjunction): A conjunction used to indicate that two actions are happening at the same time. It is followed by a subject and verb.</li></ul><b>Related structure or vocabulary:</b> while + subject + verb: used to show two actions happening at the same time.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ hoặc giới từ để liên kết đúng hai mệnh đề: 'Overall profits of our company increased by more than 10 percent _________ Ms. Serena was serving as sales manager.' Câu này nói về thời gian khi bà Serena làm quản lý kinh doanh và lợi nhuận công ty tăng lên. Từ đúng phải thể hiện hai hành động này xảy ra cùng lúc.<br><ul><li><b>during</b> (giới từ): Giới từ dùng để chỉ khoảng thời gian mà điều gì đó xảy ra. Tuy nhiên, 'during' không đi với mệnh đề có chủ ngữ và động từ, mà đi với danh từ hoặc cụm danh từ.</li><li><b>because of</b> (cụm giới từ): Cụm giới từ dùng để chỉ nguyên nhân hoặc lý do. Nó đi với danh từ hoặc cụm danh từ, không đi với mệnh đề.</li><li><b>despite</b> (giới từ): Giới từ dùng để chỉ sự tương phản. Nó đi với danh từ hoặc cụm danh từ, không đi với mệnh đề.</li><li><b>while</b> (liên từ): Liên từ dùng để chỉ hai hành động xảy ra đồng thời. Nó đi với mệnh đề có chủ ngữ và động từ.</li></ul><b>Cấu trúc và từ vựng:</b> while + chủ ngữ + động từ: dùng để chỉ hai hành động xảy ra cùng lúc.<br><br><b>Tạm dịch:</b> Lợi nhuận tổng thể của công ty chúng ta đã tăng hơn 10% trong khi bà Serena làm quản lý kinh doanh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or preposition that correctly links the two clauses: 'Overall profits of our company increased by more than 10 percent _________ Ms. Serena was serving as sales manager.' The sentence is talking about the time when Ms. Serena was serving as sales manager and the company's profits increased. The correct word should show that these two actions happened at the same time.<br><ul><li><b>during</b> (preposition): A preposition used to indicate a period of time in which something happens. However, 'during' is not followed by a subject and verb, but rather by a noun or noun phrase.</li><li><b>because of</b> (prepositional phrase): A prepositional phrase used to show reason or cause. It is followed by a noun or noun phrase, not a clause with a subject and verb.</li><li><b>despite</b> (preposition): A preposition used to show contrast. It is followed by a noun or noun phrase, not a clause.</li><li><b>while</b> (conjunction): A conjunction used to indicate that two actions are happening at the same time. It is followed by a subject and verb.</li></ul><b>Related structure or vocabulary:</b> while + subject + verb: used to show two actions happening at the same time.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001282",
+        "questionNumber": 16,
+        "questionText": "The restaurant still tries to improve its quality and service ________ they usually receive excellent feedback from customers.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "such as",
+            "raw": "A. such as ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "in addition to",
+            "raw": "B. in addition to",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "by means of",
+            "raw": "C. by means of ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "even though",
+            "raw": "D. even though",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows contrast between two clauses: the restaurant tries to improve its quality and service, and they usually receive excellent feedback. The correct conjunction to express this contrast is 'even though', which means 'despite the fact that'.<br><ul><li><b>such as</b> (preposition): Used to introduce examples, not to show contrast.</li><li><b>in addition to</b> (prepositional phrase): Means 'as well as' or 'besides', used to add information, not to show contrast.</li><li><b>by means of</b> (prepositional phrase): Means 'using' or 'with the help of', used to show method, not contrast.</li><li><b>even though</b> (conjunction): Means 'despite the fact that', used to introduce a contrast between two clauses.</li></ul><b>Related structure or vocabulary:</b> even though + clause: used to introduce a subordinate clause that contrasts with the main clause.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để thể hiện sự tương phản giữa hai mệnh đề: nhà hàng cố gắng cải thiện chất lượng và dịch vụ, trong khi họ thường nhận được phản hồi xuất sắc từ khách hàng. Liên từ đúng để diễn đạt sự tương phản này là 'even though', nghĩa là 'mặc dù'.<br><ul><li><b>such as</b> (giới từ): Dùng để đưa ra ví dụ, không dùng để thể hiện sự tương phản.</li><li><b>in addition to</b> (cụm giới từ): Có nghĩa là 'ngoài ra' hoặc 'bên cạnh đó', dùng để bổ sung thông tin, không phải để thể hiện sự tương phản.</li><li><b>by means of</b> (cụm giới từ): Có nghĩa là 'bằng cách', dùng để chỉ phương pháp, không phải để thể hiện sự tương phản.</li><li><b>even though</b> (liên từ): Có nghĩa là 'mặc dù', dùng để nối hai mệnh đề có ý nghĩa trái ngược nhau.</li></ul><b>Cấu trúc và từ vựng:</b> even though + mệnh đề: dùng để nối mệnh đề phụ thể hiện sự tương phản với mệnh đề chính.<br><br><b>Tạm dịch:</b> Nhà hàng vẫn cố gắng cải thiện chất lượng và dịch vụ MẶC DÙ họ thường nhận được phản hồi xuất sắc từ khách hàng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows contrast between two clauses: the restaurant tries to improve its quality and service, and they usually receive excellent feedback. The correct conjunction to express this contrast is 'even though', which means 'despite the fact that'.<br><ul><li><b>such as</b> (preposition): Used to introduce examples, not to show contrast.</li><li><b>in addition to</b> (prepositional phrase): Means 'as well as' or 'besides', used to add information, not to show contrast.</li><li><b>by means of</b> (prepositional phrase): Means 'using' or 'with the help of', used to show method, not contrast.</li><li><b>even though</b> (conjunction): Means 'despite the fact that', used to introduce a contrast between two clauses.</li></ul><b>Related structure or vocabulary:</b> even though + clause: used to introduce a subordinate clause that contrasts with the main clause.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001283",
+        "questionNumber": 17,
+        "questionText": "The new convention center will not open until next January ________ yesterday’s press release.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "as",
+            "raw": "A. as ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "so that",
+            "raw": "B. so that",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "instead",
+            "raw": "C. instead ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "according to",
+            "raw": "D. according to",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence comes before 'yesterday’s press release.' We need a phrase that connects the information about the convention center's opening with the source of the information. The correct phrase is 'according to,' which is used to indicate the source of information or a statement.<br><ul><li><b>as</b> (conjunction/preposition): Used to show reason or comparison, but does not fit the context of citing a source.</li><li><b>so that</b> (conjunction): Used to express purpose, not suitable for indicating the source of information.</li><li><b>instead</b> (adverb): Used to show replacement or alternative, not for citing sources.</li><li><b>according to</b> (preposition): Used to indicate the source of information or statement.</li></ul><b>Related structure or vocabulary:</b> according to + noun phrase: used to report what someone or something has said.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu đứng trước 'yesterday’s press release.' Ta cần một cụm từ để liên kết thông tin về việc trung tâm hội nghị mới sẽ mở cửa với nguồn thông tin. 'According to' là cụm từ đúng, dùng để chỉ nguồn thông tin hoặc lời phát biểu.<br><ul><li><b>as</b> (liên từ/giới từ): Dùng để chỉ lý do hoặc so sánh, không phù hợp với ngữ cảnh trích dẫn nguồn.</li><li><b>so that</b> (liên từ): Dùng để chỉ mục đích, không phù hợp để chỉ nguồn thông tin.</li><li><b>instead</b> (trạng từ): Dùng để chỉ sự thay thế, không dùng để trích dẫn nguồn.</li><li><b>according to</b> (giới từ): Dùng để chỉ nguồn thông tin hoặc lời phát biểu.</li></ul><b>Cấu trúc và từ vựng:</b> according to + danh từ/cụm danh từ: dùng để tường thuật lại thông tin từ ai đó hoặc từ nguồn nào đó.<br><br><b>Tạm dịch:</b> Trung tâm hội nghị mới sẽ không mở cửa cho đến tháng 1 năm sau theo thông cáo báo chí ngày hôm qua.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence comes before 'yesterday’s press release.' We need a phrase that connects the information about the convention center's opening with the source of the information. The correct phrase is 'according to,' which is used to indicate the source of information or a statement.<br><ul><li><b>as</b> (conjunction/preposition): Used to show reason or comparison, but does not fit the context of citing a source.</li><li><b>so that</b> (conjunction): Used to express purpose, not suitable for indicating the source of information.</li><li><b>instead</b> (adverb): Used to show replacement or alternative, not for citing sources.</li><li><b>according to</b> (preposition): Used to indicate the source of information or statement.</li></ul><b>Related structure or vocabulary:</b> according to + noun phrase: used to report what someone or something has said.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001284",
+        "questionNumber": 18,
+        "questionText": "________ the six month's internship period is completed, all participants will be eligible to get a raise.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Once",
+            "raw": "A. Once",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Soon",
+            "raw": "B. Soon",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Then",
+            "raw": "C. Then ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Later",
+            "raw": "D. Later",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or adverb that indicates when the six month's internship period is completed. The sentence structure suggests that the action (being eligible to get a raise) happens after the internship period is finished. The correct word should introduce a time clause indicating this sequence.<br><ul><li><b>Once</b> (conjunction): Means 'as soon as' or 'when' something has happened. Used to introduce a time clause.</li><li><b>Soon</b> (adverb): Means 'in a short time from now.' It is an adverb, not used to introduce a clause.</li><li><b>Then</b> (adverb): Means 'at that time' or 'after that.' It is an adverb, not used to introduce a clause.</li><li><b>Later</b> (adverb): Means 'afterwards' or 'at a time in the future.' It is an adverb, not used to introduce a clause.</li></ul><b>Related structure or vocabulary:</b> Time clauses: 'Once' is used to introduce a time clause to indicate that something will happen after another event is completed. Structure: Once + subject + verb, main clause.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ hoặc trạng từ chỉ thời gian để diễn tả khi nào kỳ thực tập sáu tháng kết thúc. Cấu trúc câu cho thấy hành động (được tăng lương) sẽ xảy ra sau khi kỳ thực tập kết thúc. Từ đúng phải dùng để mở đầu một mệnh đề chỉ thời gian.<br><ul><li><b>Once</b> (liên từ): Có nghĩa là 'ngay khi' hoặc 'khi' một việc gì đó đã xảy ra. Dùng để mở đầu mệnh đề chỉ thời gian.</li><li><b>Soon</b> (trạng từ): Có nghĩa là 'sớm', 'trong thời gian ngắn nữa'. Là trạng từ, không dùng để mở đầu mệnh đề.</li><li><b>Then</b> (trạng từ): Có nghĩa là 'sau đó', 'lúc đó'. Là trạng từ, không dùng để mở đầu mệnh đề.</li><li><b>Later</b> (trạng từ): Có nghĩa là 'sau này', 'về sau'. Là trạng từ, không dùng để mở đầu mệnh đề.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề chỉ thời gian: 'Once' dùng để mở đầu mệnh đề chỉ thời gian, diễn tả một hành động xảy ra sau khi một sự việc khác đã hoàn thành. Cấu trúc: Once + chủ ngữ + động từ, mệnh đề chính.<br><br><b>Tạm dịch:</b> Khi kỳ thực tập sáu tháng kết thúc, tất cả các thành viên tham gia sẽ đủ điều kiện để được tăng lương.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or adverb that indicates when the six month's internship period is completed. The sentence structure suggests that the action (being eligible to get a raise) happens after the internship period is finished. The correct word should introduce a time clause indicating this sequence.<br><ul><li><b>Once</b> (conjunction): Means 'as soon as' or 'when' something has happened. Used to introduce a time clause.</li><li><b>Soon</b> (adverb): Means 'in a short time from now.' It is an adverb, not used to introduce a clause.</li><li><b>Then</b> (adverb): Means 'at that time' or 'after that.' It is an adverb, not used to introduce a clause.</li><li><b>Later</b> (adverb): Means 'afterwards' or 'at a time in the future.' It is an adverb, not used to introduce a clause.</li></ul><b>Related structure or vocabulary:</b> Time clauses: 'Once' is used to introduce a time clause to indicate that something will happen after another event is completed. Structure: Once + subject + verb, main clause.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001285",
+        "questionNumber": 19,
+        "questionText": "Dr. Kim's new study indicates ________ people are willing to spend money on career development.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "while",
+            "raw": "A. while ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "on",
+            "raw": "C. on ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "however",
+            "raw": "D. however ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Dr. Kim's new study indicates ________ people are willing to spend money on career development.' requires a word or phrase that connects the verb 'indicates' to the clause 'people are willing to spend money on career development.' In English, after verbs like 'indicate,' 'say,' 'show,' etc., we often use 'that' to introduce a noun clause (a clause that acts as the object of the verb).<br><ul><li><b>while</b> (conjunction): 'While' is a conjunction used to show contrast or to mean 'during the time that.' It does not fit here because we need a word to introduce a noun clause, not to show contrast or time.</li><li><b>that</b> (conjunction): 'That' is a conjunction used to introduce a noun clause, which is exactly what is needed after 'indicates.'</li><li><b>on</b> (preposition): 'On' is a preposition, and it does not make sense in this context because we are not indicating a location or topic, but introducing a clause.</li><li><b>however</b> (adverb): 'However' is an adverb used to show contrast, usually at the beginning of a sentence or clause. It does not fit grammatically in this sentence.</li></ul><b>Related structure or vocabulary:</b> Verb + that + clause: After reporting verbs like 'indicate,' 'say,' 'show,' 'think,' etc., we use 'that' to introduce a noun clause.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Dr. Kim's new study indicates ________ people are willing to spend money on career development.' cần một từ hoặc cụm từ để nối động từ 'indicates' với mệnh đề 'people are willing to spend money on career development.' Trong tiếng Anh, sau các động từ như 'indicate', 'say', 'show'..., chúng ta thường dùng 'that' để giới thiệu một mệnh đề danh từ (mệnh đề đóng vai trò là tân ngữ của động từ).<br><ul><li><b>while</b> (liên từ): 'While' là liên từ dùng để chỉ sự tương phản hoặc nghĩa là 'trong khi.' Không phù hợp ở đây vì chúng ta cần một từ để giới thiệu mệnh đề danh từ, không phải để chỉ sự tương phản hay thời gian.</li><li><b>that</b> (liên từ): 'That' là liên từ dùng để giới thiệu mệnh đề danh từ, rất phù hợp sau 'indicates.'</li><li><b>on</b> (giới từ): 'On' là giới từ, không phù hợp trong ngữ cảnh này vì chúng ta không chỉ vị trí hay chủ đề, mà cần giới thiệu một mệnh đề.</li><li><b>however</b> (trạng từ): 'However' là trạng từ dùng để chỉ sự tương phản, thường đứng đầu câu hoặc mệnh đề. Không phù hợp về mặt ngữ pháp trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ + that + mệnh đề: Sau các động từ tường thuật như 'indicate', 'say', 'show', 'think'..., ta dùng 'that' để giới thiệu mệnh đề danh từ.<br><br><b>Tạm dịch:</b> Nghiên cứu mới của Tiến sĩ Kim chỉ ra rằng mọi người sẵn sàng chi tiền cho phát triển sự nghiệp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Dr. Kim's new study indicates ________ people are willing to spend money on career development.' requires a word or phrase that connects the verb 'indicates' to the clause 'people are willing to spend money on career development.' In English, after verbs like 'indicate,' 'say,' 'show,' etc., we often use 'that' to introduce a noun clause (a clause that acts as the object of the verb).<br><ul><li><b>while</b> (conjunction): 'While' is a conjunction used to show contrast or to mean 'during the time that.' It does not fit here because we need a word to introduce a noun clause, not to show contrast or time.</li><li><b>that</b> (conjunction): 'That' is a conjunction used to introduce a noun clause, which is exactly what is needed after 'indicates.'</li><li><b>on</b> (preposition): 'On' is a preposition, and it does not make sense in this context because we are not indicating a location or topic, but introducing a clause.</li><li><b>however</b> (adverb): 'However' is an adverb used to show contrast, usually at the beginning of a sentence or clause. It does not fit grammatically in this sentence.</li></ul><b>Related structure or vocabulary:</b> Verb + that + clause: After reporting verbs like 'indicate,' 'say,' 'show,' 'think,' etc., we use 'that' to introduce a noun clause.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc13d1bfab7a5b001286",
+        "questionNumber": 20,
+        "questionText": "The travel company introduced a new travel package _________ includes round-trip airfare and accommodation.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "due to",
+            "raw": "A. due to ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "what",
+            "raw": "B. what",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "since",
+            "raw": "C. since ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "that",
+            "raw": "D. that",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to introduce a relative clause that gives more information about 'a new travel package'. The correct relative pronoun to use for things (not people) is 'that'.<br><ul><li><b>due to</b> (preposition): A preposition meaning 'because of'. It cannot be used to introduce a clause.</li><li><b>what</b> (pronoun): A pronoun used to refer to things in indirect questions or to mean 'the thing(s) that'. It does not fit the structure here.</li><li><b>since</b> (conjunction): A conjunction meaning 'because' or 'from a time in the past'. It is not used to introduce a relative clause.</li><li><b>that</b> (relative pronoun): A relative pronoun used to introduce a defining relative clause for things or people.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: Use 'that' to introduce a defining relative clause for things.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ để giới thiệu mệnh đề quan hệ, bổ sung thông tin cho 'a new travel package'. Đại từ quan hệ đúng dùng cho vật (không phải người) là 'that'.<br><ul><li><b>due to</b> (giới từ): Giới từ mang nghĩa 'bởi vì'. Không dùng để giới thiệu một mệnh đề.</li><li><b>what</b> (đại từ): Đại từ dùng trong câu hỏi gián tiếp hoặc mang nghĩa 'điều gì/những gì'. Không phù hợp với cấu trúc câu này.</li><li><b>since</b> (liên từ): Liên từ mang nghĩa 'bởi vì' hoặc 'kể từ khi'. Không dùng để giới thiệu mệnh đề quan hệ.</li><li><b>that</b> (đại từ quan hệ): Đại từ quan hệ dùng để giới thiệu mệnh đề quan hệ xác định cho vật hoặc người.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ: Dùng 'that' để giới thiệu mệnh đề quan hệ xác định cho vật.<br><br><b>Tạm dịch:</b> Công ty du lịch đã giới thiệu một gói du lịch mới bao gồm vé máy bay khứ hồi và chỗ ở.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to introduce a relative clause that gives more information about 'a new travel package'. The correct relative pronoun to use for things (not people) is 'that'.<br><ul><li><b>due to</b> (preposition): A preposition meaning 'because of'. It cannot be used to introduce a clause.</li><li><b>what</b> (pronoun): A pronoun used to refer to things in indirect questions or to mean 'the thing(s) that'. It does not fit the structure here.</li><li><b>since</b> (conjunction): A conjunction meaning 'because' or 'from a time in the past'. It is not used to introduce a relative clause.</li><li><b>that</b> (relative pronoun): A relative pronoun used to introduce a defining relative clause for things or people.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: Use 'that' to introduce a defining relative clause for things.<br><br>"
+      }
+    }
+  ]
+}

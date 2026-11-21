@@ -1,0 +1,688 @@
+{
+  "topicId": "622484f683f28145bcbb43ae",
+  "title": "IMPERATIVE PASSIVE AND SPECIAL PASSIVE CASES - Practice 4",
+  "totalCards": 17,
+  "totalQuestions": 17,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43b2",
+        "questionNumber": 1,
+        "questionText": "Whatever you do, don't let yourself _______(cheat).",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "cheat",
+            "raw": "A. cheat ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "be cheated",
+            "raw": "B. be cheated",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "to be cheated",
+            "raw": "C. to be cheated ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to cheat",
+            "raw": "D. to cheat",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Whatever you do, don't let yourself _______(cheat),' the verb 'let' is a causative verb. After 'let,' we use the bare infinitive (the base form of the verb without 'to') when it is followed by an object. The structure is: let + object + bare infinitive. Therefore, the correct answer is 'be cheated.'<br><ul><li><b>cheat</b> (verb (bare infinitive)): Bare infinitive (V): to act dishonestly or unfairly in order to gain an advantage.</li><li><b>be cheated</b> (passive verb (bare infinitive)): Passive bare infinitive: to be deceived or tricked by someone.</li><li><b>to be cheated</b> (passive verb (to infinitive)): Passive infinitive: incorrect after 'let' because 'let' is followed by the bare infinitive, not 'to infinitive.'</li><li><b>to cheat</b> (verb (to infinitive)): Infinitive: incorrect after 'let' because 'let' is followed by the bare infinitive, not 'to infinitive.'</li></ul><b>Related structure or vocabulary:</b> Causative verb 'let' + object + bare infinitive (active) or bare infinitive passive (be + V3). Example: Don't let yourself be cheated.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Whatever you do, don't let yourself _______(cheat),' động từ 'let' là động từ gây khiến (causative verb). Sau 'let', chúng ta dùng động từ nguyên thể không 'to' (bare infinitive) khi theo sau là tân ngữ. Cấu trúc là: let + object + bare infinitive. Vì vậy, đáp án đúng là 'be cheated' (bị lừa).<br><ul><li><b>cheat</b> (động từ (nguyên thể không 'to')): Động từ nguyên thể không 'to' (V): gian lận, lừa đảo.</li><li><b>be cheated</b> (động từ bị động (nguyên thể không 'to')): Động từ nguyên thể bị động không 'to': bị lừa, bị gian lận.</li><li><b>to be cheated</b> (động từ bị động (nguyên thể có 'to')): Động từ nguyên thể bị động có 'to': sai vì sau 'let' không dùng 'to'.</li><li><b>to cheat</b> (động từ (nguyên thể có 'to')): Động từ nguyên thể có 'to': sai vì sau 'let' không dùng 'to'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc động từ gây khiến 'let' + tân ngữ + động từ nguyên thể không 'to' (chủ động) hoặc bị động (be + V3). Ví dụ: Don't let yourself be cheated.<br><br><b>Tạm dịch:</b> Dù bạn làm gì, đừng để bản thân bị lừa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Whatever you do, don't let yourself _______(cheat),' the verb 'let' is a causative verb. After 'let,' we use the bare infinitive (the base form of the verb without 'to') when it is followed by an object. The structure is: let + object + bare infinitive. Therefore, the correct answer is 'be cheated.'<br><ul><li><b>cheat</b> (verb (bare infinitive)): Bare infinitive (V): to act dishonestly or unfairly in order to gain an advantage.</li><li><b>be cheated</b> (passive verb (bare infinitive)): Passive bare infinitive: to be deceived or tricked by someone.</li><li><b>to be cheated</b> (passive verb (to infinitive)): Passive infinitive: incorrect after 'let' because 'let' is followed by the bare infinitive, not 'to infinitive.'</li><li><b>to cheat</b> (verb (to infinitive)): Infinitive: incorrect after 'let' because 'let' is followed by the bare infinitive, not 'to infinitive.'</li></ul><b>Related structure or vocabulary:</b> Causative verb 'let' + object + bare infinitive (active) or bare infinitive passive (be + V3). Example: Don't let yourself be cheated.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43b3",
+        "questionNumber": 2,
+        "questionText": "Many people claimed ______ (see) unidentified flying objects.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to see",
+            "raw": "A. to see ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to have seen",
+            "raw": "B. to have seen",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "to had seen",
+            "raw": "C. to had seen ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "see",
+            "raw": "D. see ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the verb 'claimed' is followed by an infinitive structure. However, when we want to express that the action happened before the verb 'claimed', we use the perfect infinitive (to have + past participle). Therefore, 'to have seen' is used to show that people saw the unidentified flying objects before they claimed it.<br><ul><li><b>to see</b> (infinitive): Infinitive form, used when the action happens at the same time or after the main verb.</li><li><b>to have seen</b> (perfect infinitive): Perfect infinitive, used to indicate that the action (seeing) happened before the main verb (claimed).</li><li><b>to had seen</b> (incorrect form): Incorrect form. 'Had' cannot be used after 'to'. The correct form is 'to have seen'.</li><li><b>see</b> (bare infinitive): Bare infinitive, not used after 'claimed'.</li></ul><b>Related structure or vocabulary:</b> claim + to infinitive / to have + past participle (perfect infinitive): used to show the action happened before the main verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, động từ 'claimed' thường được theo sau bởi động từ nguyên mẫu có 'to'. Tuy nhiên, khi muốn diễn đạt hành động xảy ra trước hành động 'claimed', ta sử dụng động từ nguyên mẫu hoàn thành (to have + V3/ed). Vì vậy, 'to have seen' được dùng để chỉ rằng mọi người đã nhìn thấy vật thể bay không xác định trước khi họ nói rằng mình đã nhìn thấy.<br><ul><li><b>to see</b> (động từ nguyên mẫu): Động từ nguyên mẫu, dùng khi hành động xảy ra cùng lúc hoặc sau động từ chính.</li><li><b>to have seen</b> (động từ nguyên mẫu hoàn thành): Động từ nguyên mẫu hoàn thành, dùng để chỉ hành động (nhìn thấy) xảy ra trước động từ chính (claimed).</li><li><b>to had seen</b> (dạng sai): Sai ngữ pháp. Không dùng 'had' sau 'to'. Dạng đúng là 'to have seen'.</li><li><b>see</b> (động từ nguyên mẫu không 'to'): Động từ nguyên mẫu không 'to', không dùng sau 'claimed'.</li></ul><b>Cấu trúc và từ vựng:</b> claim + to infinitive / to have + past participle (động từ nguyên mẫu hoàn thành): dùng để diễn đạt hành động xảy ra trước động từ chính.<br><br><b>Tạm dịch:</b> Nhiều người cho rằng họ đã nhìn thấy vật thể bay không xác định.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the verb 'claimed' is followed by an infinitive structure. However, when we want to express that the action happened before the verb 'claimed', we use the perfect infinitive (to have + past participle). Therefore, 'to have seen' is used to show that people saw the unidentified flying objects before they claimed it.<br><ul><li><b>to see</b> (infinitive): Infinitive form, used when the action happens at the same time or after the main verb.</li><li><b>to have seen</b> (perfect infinitive): Perfect infinitive, used to indicate that the action (seeing) happened before the main verb (claimed).</li><li><b>to had seen</b> (incorrect form): Incorrect form. 'Had' cannot be used after 'to'. The correct form is 'to have seen'.</li><li><b>see</b> (bare infinitive): Bare infinitive, not used after 'claimed'.</li></ul><b>Related structure or vocabulary:</b> claim + to infinitive / to have + past participle (perfect infinitive): used to show the action happened before the main verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43b4",
+        "questionNumber": 3,
+        "questionText": "Some film stars _____ difficult to work with.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are said be",
+            "raw": "A. are said be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are said to be",
+            "raw": "B. are said to be",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "say to be",
+            "raw": "C. say to be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "said to be",
+            "raw": "D. said to be ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a passive structure to express what people generally say about film stars. The correct structure is 'are said to be', which is the passive form of 'people say (that) film stars are difficult to work with.'<br><ul><li><b>are said be</b> (incorrect phrase): Missing 'to' after 'said'. The correct passive infinitive structure is 'to be'.</li><li><b>are said to be</b> (passive verb phrase): Correct passive structure: 'are said to be' means 'people say that they are'.</li><li><b>say to be</b> (incorrect verb phrase): Incorrect structure. 'Say' is not used in passive here and lacks a subject.</li><li><b>said to be</b> (incorrect passive phrase): Missing the verb 'are'. Needs to be 'are said to be' for correct passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice with reporting verbs: S + am/is/are + said/thought/believed + to V (infinitive). Used to report general opinions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền cấu trúc bị động để diễn đạt ý 'người ta nói rằng các ngôi sao điện ảnh khó làm việc cùng'. Cấu trúc đúng là 'are said to be', đây là dạng bị động của câu 'people say (that) film stars are difficult to work with.'<br><ul><li><b>are said be</b> (cụm sai): Thiếu 'to' sau 'said'. Cấu trúc bị động đúng phải là 'to be'.</li><li><b>are said to be</b> (cụm động từ bị động): Cấu trúc bị động đúng: 'are said to be' nghĩa là 'người ta nói rằng họ là...'.</li><li><b>say to be</b> (cụm động từ sai): Cấu trúc sai. 'Say' không dùng ở bị động trong trường hợp này và thiếu chủ ngữ.</li><li><b>said to be</b> (cụm bị động sai): Thiếu động từ 'are'. Phải là 'are said to be' mới đúng cấu trúc bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ tường thuật: S + am/is/are + said/thought/believed + to V (nguyên thể). Dùng để diễn đạt ý kiến chung.<br><br><b>Tạm dịch:</b> Các ngôi sao điện ảnh được cho là khó làm việc cùng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a passive structure to express what people generally say about film stars. The correct structure is 'are said to be', which is the passive form of 'people say (that) film stars are difficult to work with.'<br><ul><li><b>are said be</b> (incorrect phrase): Missing 'to' after 'said'. The correct passive infinitive structure is 'to be'.</li><li><b>are said to be</b> (passive verb phrase): Correct passive structure: 'are said to be' means 'people say that they are'.</li><li><b>say to be</b> (incorrect verb phrase): Incorrect structure. 'Say' is not used in passive here and lacks a subject.</li><li><b>said to be</b> (incorrect passive phrase): Missing the verb 'are'. Needs to be 'are said to be' for correct passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice with reporting verbs: S + am/is/are + said/thought/believed + to V (infinitive). Used to report general opinions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43b5",
+        "questionNumber": 4,
+        "questionText": "John _____ last week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had his house painted",
+            "raw": "A. had his house painted",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "had painted his house",
+            "raw": "B. had painted his house",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had his father to paint",
+            "raw": "C. had his father to paint ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had his house paint",
+            "raw": "D. had his house paint",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'John _____ last week.' requires a verb phrase that fits the context and is grammatically correct. The most suitable structure here is the causative form 'have + object + past participle', which is used when someone arranges for someone else to do something for them. In this case, 'had his house painted' means John arranged for someone to paint his house last week.<br><ul><li><b>had his house painted</b> (verb phrase (causative)): This is the correct causative structure: 'have + object + past participle', meaning John arranged for someone to paint his house.</li><li><b>had painted his house</b> (verb phrase (past perfect)): This is the past perfect tense, meaning John himself painted his house before another event in the past. However, the sentence does not indicate another past event, and the structure does not fit the intended meaning.</li><li><b>had his father to paint</b> (verb phrase (incorrect causative)): This is incorrect because after 'have' in the causative form, we use the bare infinitive (paint), not 'to paint'. Also, the structure should be 'had his father paint his house' if we want to say his father did the action.</li><li><b>had his house paint</b> (verb phrase (incorrect form)): This is incorrect because after 'have', we need the past participle 'painted', not the base form 'paint'.</li></ul><b>Related structure or vocabulary:</b> Causative form: have/get + object + past participle (to say someone arranges for something to be done by someone else).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'John _____ last week.' cần một cụm động từ phù hợp với ngữ cảnh và đúng ngữ pháp. Ở đây, cấu trúc phù hợp nhất là dạng câu khiến (causative): 'have + tân ngữ + quá khứ phân từ', dùng khi ai đó nhờ hoặc thuê người khác làm việc gì cho mình. 'Had his house painted' nghĩa là John đã thuê hoặc nhờ ai đó sơn nhà cho mình vào tuần trước.<br><ul><li><b>had his house painted</b> (cụm động từ (câu khiến)): Đây là cấu trúc câu khiến đúng: 'have + tân ngữ + quá khứ phân từ', nghĩa là John đã nhờ/thuê ai đó sơn nhà cho mình.</li><li><b>had painted his house</b> (cụm động từ (quá khứ hoàn thành)): Đây là thì quá khứ hoàn thành, nghĩa là John tự sơn nhà trước một sự kiện khác trong quá khứ. Tuy nhiên, câu không có dấu hiệu của một sự kiện khác và cấu trúc này không phù hợp với ý nghĩa cần truyền đạt.</li><li><b>had his father to paint</b> (cụm động từ (câu khiến sai)): Cấu trúc này sai vì sau 'have' trong câu khiến phải dùng động từ nguyên mẫu không 'to' (paint), không dùng 'to paint'. Nếu muốn nói bố của John làm việc này thì phải là 'had his father paint his house'.</li><li><b>had his house paint</b> (cụm động từ (dạng sai)): Cấu trúc này sai vì sau 'have' phải dùng quá khứ phân từ 'painted', không dùng động từ nguyên mẫu 'paint'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu khiến: have/get + tân ngữ + quá khứ phân từ (dùng khi ai đó nhờ/thuê người khác làm việc gì cho mình).<br><br><b>Tạm dịch:</b> John đã nhờ/thuê người khác sơn nhà cho mình vào tuần trước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'John _____ last week.' requires a verb phrase that fits the context and is grammatically correct. The most suitable structure here is the causative form 'have + object + past participle', which is used when someone arranges for someone else to do something for them. In this case, 'had his house painted' means John arranged for someone to paint his house last week.<br><ul><li><b>had his house painted</b> (verb phrase (causative)): This is the correct causative structure: 'have + object + past participle', meaning John arranged for someone to paint his house.</li><li><b>had painted his house</b> (verb phrase (past perfect)): This is the past perfect tense, meaning John himself painted his house before another event in the past. However, the sentence does not indicate another past event, and the structure does not fit the intended meaning.</li><li><b>had his father to paint</b> (verb phrase (incorrect causative)): This is incorrect because after 'have' in the causative form, we use the bare infinitive (paint), not 'to paint'. Also, the structure should be 'had his father paint his house' if we want to say his father did the action.</li><li><b>had his house paint</b> (verb phrase (incorrect form)): This is incorrect because after 'have', we need the past participle 'painted', not the base form 'paint'.</li></ul><b>Related structure or vocabulary:</b> Causative form: have/get + object + past participle (to say someone arranges for something to be done by someone else).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43b6",
+        "questionNumber": 5,
+        "questionText": "Do you get your car_____ every year?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "checking",
+            "raw": "A. checking ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "check",
+            "raw": "B. check",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "be checked",
+            "raw": "C. be checked ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "checked",
+            "raw": "D. checked",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Do you get your car_____ every year?' requires the past participle form (V-ed/3) because of the causative structure 'get + object + past participle'. This structure is used when someone arranges for another person to do something for them. In this case, it means you arrange for someone else to check your car.<br><ul><li><b>checking</b> (V-ing): V-ing form, used for continuous tenses or as a gerund, not suitable after 'get' in the causative structure.</li><li><b>check</b> (bare infinitive): Bare infinitive, not used after 'get' in the causative structure.</li><li><b>be checked</b> (passive infinitive): Passive infinitive, not the correct form after 'get' in the causative structure.</li><li><b>checked</b> (past participle): Past participle (V-ed/3), used in the causative structure 'get + object + past participle'.</li></ul><b>Related structure or vocabulary:</b> Causative structure: get/have + object + past participle (V-ed/3). Example: I get my hair cut every month. (I arrange for someone to cut my hair.)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Do you get your car_____ every year?' cần điền dạng quá khứ phân từ (V-ed/3) vì đây là cấu trúc câu nhờ ai đó làm gì cho mình: 'get + tân ngữ + quá khứ phân từ'. Cấu trúc này dùng khi bạn nhờ hoặc thuê ai đó làm việc gì cho mình. Trong trường hợp này, nghĩa là bạn nhờ ai đó kiểm tra xe cho bạn.<br><ul><li><b>checking</b> (V-ing): Dạng V-ing, thường dùng cho thì tiếp diễn hoặc làm danh động từ, không phù hợp sau 'get' trong cấu trúc này.</li><li><b>check</b> (động từ nguyên thể): Động từ nguyên thể không 'to', không dùng sau 'get' trong cấu trúc này.</li><li><b>be checked</b> (bị động nguyên thể): Dạng bị động nguyên thể, không phải dạng đúng sau 'get' trong cấu trúc này.</li><li><b>checked</b> (quá khứ phân từ): Quá khứ phân từ (V-ed/3), dùng đúng trong cấu trúc 'get + tân ngữ + quá khứ phân từ'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc nhờ ai làm gì: get/have + tân ngữ + quá khứ phân từ (V-ed/3). Ví dụ: I get my hair cut every month. (Tôi nhờ người khác cắt tóc cho tôi mỗi tháng.)<br><br><b>Tạm dịch:</b> Bạn có nhờ kiểm tra xe của mình mỗi năm không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Do you get your car_____ every year?' requires the past participle form (V-ed/3) because of the causative structure 'get + object + past participle'. This structure is used when someone arranges for another person to do something for them. In this case, it means you arrange for someone else to check your car.<br><ul><li><b>checking</b> (V-ing): V-ing form, used for continuous tenses or as a gerund, not suitable after 'get' in the causative structure.</li><li><b>check</b> (bare infinitive): Bare infinitive, not used after 'get' in the causative structure.</li><li><b>be checked</b> (passive infinitive): Passive infinitive, not the correct form after 'get' in the causative structure.</li><li><b>checked</b> (past participle): Past participle (V-ed/3), used in the causative structure 'get + object + past participle'.</li></ul><b>Related structure or vocabulary:</b> Causative structure: get/have + object + past participle (V-ed/3). Example: I get my hair cut every month. (I arrange for someone to cut my hair.)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43b7",
+        "questionNumber": 6,
+        "questionText": "Claude Jennings is said _____ his memory.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to have been lost",
+            "raw": "A. to have been lost ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to be lost",
+            "raw": "B. to be lost",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to have lost",
+            "raw": "C. to have lost",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "lose",
+            "raw": "D. lose ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Claude Jennings is said _____ his memory.' requires a verb form that fits the structure 'is said + to have + past participle' when referring to a past action or state. This structure is used to report something that happened in the past, especially when the subject is not the doer of the action (passive reporting structure).<br><ul><li><b>to have been lost</b> (Passive perfect infinitive): This is the passive perfect infinitive form, used when the subject is the receiver of the action and the action happened in the past.</li><li><b>to be lost</b> (Passive infinitive): This is the passive infinitive, used for present or general situations, not for actions completed in the past.</li><li><b>to have lost</b> (Active perfect infinitive): This is the active perfect infinitive, used when the subject is the doer of the action in the past.</li><li><b>lose</b> (Base verb): This is the base form of the verb, which is not grammatically correct after 'is said'.</li></ul><b>Related structure or vocabulary:</b> Structure: 'is said + to have + past participle' (active perfect infinitive) is used to report what someone did in the past. Example: 'He is said to have invented the device.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Claude Jennings is said _____ his memory.' cần một dạng động từ phù hợp với cấu trúc 'is said + to have + past participle' khi nói về một hành động hoặc trạng thái đã xảy ra trong quá khứ. Cấu trúc này dùng để tường thuật lại điều gì đó đã xảy ra trong quá khứ, đặc biệt khi chủ ngữ là người thực hiện hành động (cấu trúc tường thuật chủ động).<br><ul><li><b>to have been lost</b> (Động từ nguyên mẫu hoàn thành bị động): Đây là dạng bị động hoàn thành của động từ nguyên mẫu, dùng khi chủ ngữ là người chịu tác động của hành động và hành động đã xảy ra trong quá khứ.</li><li><b>to be lost</b> (Động từ nguyên mẫu bị động): Đây là dạng bị động của động từ nguyên mẫu, dùng cho các tình huống hiện tại hoặc chung chung, không dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>to have lost</b> (Động từ nguyên mẫu hoàn thành chủ động): Đây là dạng chủ động hoàn thành của động từ nguyên mẫu, dùng khi chủ ngữ là người thực hiện hành động trong quá khứ.</li><li><b>lose</b> (Động từ nguyên thể): Đây là dạng nguyên thể của động từ, không đúng ngữ pháp khi đứng sau 'is said'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: 'is said + to have + past participle' (động từ nguyên mẫu hoàn thành chủ động) dùng để tường thuật lại điều ai đó đã làm trong quá khứ. Ví dụ: 'He is said to have invented the device.'<br><br><b>Tạm dịch:</b> Claude Jennings được cho là đã mất trí nhớ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Claude Jennings is said _____ his memory.' requires a verb form that fits the structure 'is said + to have + past participle' when referring to a past action or state. This structure is used to report something that happened in the past, especially when the subject is not the doer of the action (passive reporting structure).<br><ul><li><b>to have been lost</b> (Passive perfect infinitive): This is the passive perfect infinitive form, used when the subject is the receiver of the action and the action happened in the past.</li><li><b>to be lost</b> (Passive infinitive): This is the passive infinitive, used for present or general situations, not for actions completed in the past.</li><li><b>to have lost</b> (Active perfect infinitive): This is the active perfect infinitive, used when the subject is the doer of the action in the past.</li><li><b>lose</b> (Base verb): This is the base form of the verb, which is not grammatically correct after 'is said'.</li></ul><b>Related structure or vocabulary:</b> Structure: 'is said + to have + past participle' (active perfect infinitive) is used to report what someone did in the past. Example: 'He is said to have invented the device.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43b8",
+        "questionNumber": 7,
+        "questionText": "Mr. Pike ____________the most famous archaeologist in our city.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "says to be",
+            "raw": "A. says to be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is said to be",
+            "raw": "B. is said to be",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "is said that",
+            "raw": "C. is said that ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "said to be",
+            "raw": "D. said to be ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a passive structure to express what people say about Mr. Pike. The correct structure is 'is said to be', which means 'people say that Mr. Pike is...'.<br><ul><li><b>says to be</b> (verb phrase): 'says' is an active verb and does not fit the passive structure needed here.</li><li><b>is said to be</b> (passive verb phrase): This is the correct passive structure: 'is said to be' means 'people say that he is...'.</li><li><b>is said that</b> (passive verb phrase): 'is said that' is incorrect because after 'is said', we need 'to + verb' or 'that + clause', but the sentence structure here requires 'to be'.</li><li><b>said to be</b> (verb phrase): Missing the auxiliary verb 'is', so the structure is incomplete.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structure: Subject + is/are said to + verb (to be + noun/adjective). Example: He is said to be a good teacher.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền một cấu trúc bị động để diễn đạt ý 'người ta nói rằng ông Pike là...'. Cấu trúc đúng là 'is said to be', mang nghĩa 'người ta nói rằng ông Pike là...'.<br><ul><li><b>says to be</b> (cụm động từ): 'says' là động từ chủ động, không phù hợp với cấu trúc bị động cần dùng ở đây.</li><li><b>is said to be</b> (cụm động từ bị động): Đây là cấu trúc bị động đúng: 'is said to be' nghĩa là 'người ta nói rằng ông ấy là...'.</li><li><b>is said that</b> (cụm động từ bị động): 'is said that' không đúng vì sau 'is said' cần 'to + động từ' hoặc 'that + mệnh đề', nhưng cấu trúc câu này cần 'to be'.</li><li><b>said to be</b> (cụm động từ): Thiếu động từ to be 'is', nên cấu trúc chưa hoàn chỉnh.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động tường thuật: Chủ ngữ + is/are said to + động từ (to be + danh từ/tính từ). Ví dụ: He is said to be a good teacher.<br><br><b>Tạm dịch:</b> Ông Pike được cho là nhà khảo cổ học nổi tiếng nhất ở thành phố của chúng ta.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a passive structure to express what people say about Mr. Pike. The correct structure is 'is said to be', which means 'people say that Mr. Pike is...'.<br><ul><li><b>says to be</b> (verb phrase): 'says' is an active verb and does not fit the passive structure needed here.</li><li><b>is said to be</b> (passive verb phrase): This is the correct passive structure: 'is said to be' means 'people say that he is...'.</li><li><b>is said that</b> (passive verb phrase): 'is said that' is incorrect because after 'is said', we need 'to + verb' or 'that + clause', but the sentence structure here requires 'to be'.</li><li><b>said to be</b> (verb phrase): Missing the auxiliary verb 'is', so the structure is incomplete.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structure: Subject + is/are said to + verb (to be + noun/adjective). Example: He is said to be a good teacher.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43ba",
+        "questionNumber": 8,
+        "questionText": "John ____________ the Great Pyramid of Giza.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "said to have been visited",
+            "raw": "A. said to have been visited ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is said to have visited",
+            "raw": "B. is said to have visited",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "is said to have been visited",
+            "raw": "C. is said to have been visited ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "said to have visited.",
+            "raw": "D. said to have visited. ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'John ____________ the Great Pyramid of Giza.' requires a passive reporting structure. The phrase 'is said to have visited' is used to report what people say about someone's past action. The structure is: Subject + is said to have + past participle (V3). This means people say that John visited the Great Pyramid of Giza in the past.<br><ul><li><b>A. said to have been visited</b> (verb phrase (passive)): Missing the subject 'is' and uses the passive voice, which would mean 'John was visited by the Great Pyramid,' which is incorrect.</li><li><b>B. is said to have visited</b> (verb phrase (reporting passive)): Correct structure for reporting what people say someone did in the past: 'John is said to have visited.'</li><li><b>C. is said to have been visited</b> (verb phrase (passive)): Passive structure, meaning 'John is said to have been visited by the Great Pyramid,' which is illogical.</li><li><b>D. said to have visited</b> (verb phrase (reporting, incomplete)): Missing the auxiliary verb 'is,' so the sentence is grammatically incomplete.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structure: Subject + is/are said to have + past participle (V3). Used to report what people say about someone's past actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'John ____________ the Great Pyramid of Giza.' cần một cấu trúc bị động tường thuật. Cụm 'is said to have visited' được dùng để tường thuật lại điều người ta nói về một hành động đã xảy ra trong quá khứ của ai đó. Cấu trúc là: Chủ ngữ + is said to have + V3 (quá khứ phân từ). Điều này có nghĩa là người ta nói rằng John đã từng đến thăm Kim tự tháp Giza.<br><ul><li><b>A. said to have been visited</b> (cụm động từ (bị động)): Thiếu động từ 'is' và dùng thể bị động, nghĩa là 'John được Kim tự tháp đến thăm', không hợp lý.</li><li><b>B. is said to have visited</b> (cụm động từ (bị động tường thuật)): Cấu trúc đúng để tường thuật điều người ta nói ai đó đã làm trong quá khứ: 'John is said to have visited.'</li><li><b>C. is said to have been visited</b> (cụm động từ (bị động)): Cấu trúc bị động, nghĩa là 'John được cho là đã được Kim tự tháp đến thăm', không hợp lý.</li><li><b>D. said to have visited</b> (cụm động từ (tường thuật, thiếu thành phần)): Thiếu động từ 'is', câu không hoàn chỉnh về mặt ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động tường thuật: Chủ ngữ + is/are said to have + V3. Dùng để tường thuật điều người ta nói về hành động trong quá khứ của ai đó.<br><br><b>Tạm dịch:</b> John is said to have visited the Great Pyramid of Giza. --> Người ta nói rằng John đã từng đến thăm Kim tự tháp Giza.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'John ____________ the Great Pyramid of Giza.' requires a passive reporting structure. The phrase 'is said to have visited' is used to report what people say about someone's past action. The structure is: Subject + is said to have + past participle (V3). This means people say that John visited the Great Pyramid of Giza in the past.<br><ul><li><b>A. said to have been visited</b> (verb phrase (passive)): Missing the subject 'is' and uses the passive voice, which would mean 'John was visited by the Great Pyramid,' which is incorrect.</li><li><b>B. is said to have visited</b> (verb phrase (reporting passive)): Correct structure for reporting what people say someone did in the past: 'John is said to have visited.'</li><li><b>C. is said to have been visited</b> (verb phrase (passive)): Passive structure, meaning 'John is said to have been visited by the Great Pyramid,' which is illogical.</li><li><b>D. said to have visited</b> (verb phrase (reporting, incomplete)): Missing the auxiliary verb 'is,' so the sentence is grammatically incomplete.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structure: Subject + is/are said to have + past participle (V3). Used to report what people say about someone's past actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43bb",
+        "questionNumber": 9,
+        "questionText": "More than ten victims___________ missing in the storm last week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are reported to be",
+            "raw": "A. are reported to be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are reported to have been",
+            "raw": "B. are reported to have been",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "are reporting to have been",
+            "raw": "C. are reporting to have been ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "are reporting to be",
+            "raw": "D. are reporting to be",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a passive infinitive or perfect infinitive structure because the sentence is in the passive voice and refers to a past event. The phrase 'are reported to have been' is used to indicate that, according to reports, more than ten victims went missing in the past (last week). The structure 'are reported to have been + past participle' is commonly used to report past events in the passive voice.<br><ul><li><b>are reported to be</b> (Passive infinitive): Present passive infinitive. Used to report a current state, not a past event.</li><li><b>are reported to have been</b> (Perfect passive infinitive): Perfect passive infinitive. Used to report something that happened in the past, which fits the context of 'last week'.</li><li><b>are reporting to have been</b> (Present continuous active): Active present continuous. Incorrect because 'are reporting' refers to the subject doing the reporting, not being reported.</li><li><b>are reporting to be</b> (Present continuous active): Active present continuous. Incorrect for the same reason as above.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structures: S + be + reported/said/thought + to have + past participle (to report past events in the passive voice).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cấu trúc bị động ở dạng động từ nguyên mẫu hoàn thành (perfect infinitive) vì câu này ở thể bị động và nói về một sự kiện đã xảy ra trong quá khứ. Cụm 'are reported to have been' được dùng để diễn đạt rằng theo các báo cáo, hơn mười nạn nhân đã mất tích trong quá khứ (tuần trước). Cấu trúc 'are reported to have been + V3' thường được dùng để tường thuật lại sự việc đã xảy ra trong quá khứ ở thể bị động.<br><ul><li><b>are reported to be</b> (Động từ nguyên mẫu bị động): Động từ nguyên mẫu bị động ở hiện tại. Dùng để nói về trạng thái hiện tại, không phù hợp với sự kiện đã xảy ra trong quá khứ.</li><li><b>are reported to have been</b> (Động từ nguyên mẫu hoàn thành bị động): Động từ nguyên mẫu hoàn thành bị động. Dùng để nói về sự việc đã xảy ra trong quá khứ, phù hợp với ngữ cảnh 'tuần trước'.</li><li><b>are reporting to have been</b> (Hiện tại tiếp diễn chủ động): Thì hiện tại tiếp diễn chủ động. Không đúng vì 'are reporting' nói về chủ ngữ đang báo cáo, không phải bị báo cáo.</li><li><b>are reporting to be</b> (Hiện tại tiếp diễn chủ động): Thì hiện tại tiếp diễn chủ động. Sai vì lý do tương tự ở trên.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động tường thuật: S + be + reported/said/thought + to have + V3 (dùng để tường thuật sự việc đã xảy ra trong quá khứ ở thể bị động).<br><br><b>Tạm dịch:</b> Hơn mười nạn nhân được báo cáo là đã mất tích trong cơn bão tuần trước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a passive infinitive or perfect infinitive structure because the sentence is in the passive voice and refers to a past event. The phrase 'are reported to have been' is used to indicate that, according to reports, more than ten victims went missing in the past (last week). The structure 'are reported to have been + past participle' is commonly used to report past events in the passive voice.<br><ul><li><b>are reported to be</b> (Passive infinitive): Present passive infinitive. Used to report a current state, not a past event.</li><li><b>are reported to have been</b> (Perfect passive infinitive): Perfect passive infinitive. Used to report something that happened in the past, which fits the context of 'last week'.</li><li><b>are reporting to have been</b> (Present continuous active): Active present continuous. Incorrect because 'are reporting' refers to the subject doing the reporting, not being reported.</li><li><b>are reporting to be</b> (Present continuous active): Active present continuous. Incorrect for the same reason as above.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structures: S + be + reported/said/thought + to have + past participle (to report past events in the passive voice).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43bc",
+        "questionNumber": 10,
+        "questionText": "I'm having my hair _______ tomorrow.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "cutting",
+            "raw": "A. cutting ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "cut",
+            "raw": "B. cut",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "to have cut",
+            "raw": "C. to have cut ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to be cut",
+            "raw": "D. to be cut",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the structure 'have/get + something + past participle' is used to indicate that someone arranges for another person to do something for them. Here, 'I'm having my hair _______ tomorrow' means that I will arrange for someone (like a hairdresser) to cut my hair. The correct form after 'have' in this causative structure is the past participle (V3), which is 'cut'.<br><ul><li><b>cutting</b> (V-ing): Present participle/gerund form. Not used in the causative structure 'have/get + object + V3'.</li><li><b>cut</b> (V3 (past participle)): Past participle form. Correct form for the causative structure 'have/get + object + V3'.</li><li><b>to have cut</b> (to-infinitive): Infinitive phrase. Not used after 'have' in this structure.</li><li><b>to be cut</b> (to be + V3): Passive infinitive. Not used in the causative structure here.</li></ul><b>Related structure or vocabulary:</b> Causative structure: have/get + object + past participle (V3) is used to express that someone arranges for another person to do something for them.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, cấu trúc 'have/get + something + past participle' (câu nhờ vả/thuê ai làm gì cho mình) được sử dụng để diễn tả ai đó sắp xếp cho người khác làm việc gì cho mình. Ở đây, 'I'm having my hair _______ tomorrow' nghĩa là tôi sẽ nhờ ai đó (thợ cắt tóc) cắt tóc cho mình vào ngày mai. Dạng đúng sau 'have' trong cấu trúc này là quá khứ phân từ (V3), đó là 'cut'.<br><ul><li><b>cutting</b> (V-ing): Dạng V-ing (hiện tại phân từ/động danh từ). Không dùng trong cấu trúc nhờ vả 'have/get + object + V3'.</li><li><b>cut</b> (V3 (quá khứ phân từ)): Dạng quá khứ phân từ (V3). Đây là dạng đúng trong cấu trúc nhờ vả 'have/get + object + V3'.</li><li><b>to have cut</b> (to-infinitive): Cụm động từ nguyên mẫu. Không dùng sau 'have' trong cấu trúc này.</li><li><b>to be cut</b> (to be + V3): Dạng bị động của động từ nguyên mẫu. Không dùng trong cấu trúc nhờ vả ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc nhờ vả (Causative): have/get + object + past participle (V3) dùng để diễn tả ai đó nhờ/thuê người khác làm gì cho mình.<br><br><b>Tạm dịch:</b> Tôi sẽ nhờ người khác cắt tóc cho mình vào ngày mai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the structure 'have/get + something + past participle' is used to indicate that someone arranges for another person to do something for them. Here, 'I'm having my hair _______ tomorrow' means that I will arrange for someone (like a hairdresser) to cut my hair. The correct form after 'have' in this causative structure is the past participle (V3), which is 'cut'.<br><ul><li><b>cutting</b> (V-ing): Present participle/gerund form. Not used in the causative structure 'have/get + object + V3'.</li><li><b>cut</b> (V3 (past participle)): Past participle form. Correct form for the causative structure 'have/get + object + V3'.</li><li><b>to have cut</b> (to-infinitive): Infinitive phrase. Not used after 'have' in this structure.</li><li><b>to be cut</b> (to be + V3): Passive infinitive. Not used in the causative structure here.</li></ul><b>Related structure or vocabulary:</b> Causative structure: have/get + object + past participle (V3) is used to express that someone arranges for another person to do something for them.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43bd",
+        "questionNumber": 11,
+        "questionText": "These flowers need ________",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "watered",
+            "raw": "A. watered ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "watering",
+            "raw": "B. watering",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "to water",
+            "raw": "C. to water ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "be watered",
+            "raw": "D. be watered ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'These flowers need ________', the verb 'need' can be followed by either a gerund (V-ing) or a passive infinitive (to be + V3/ed) when the subject is an object (not a person). Here, 'these flowers' are objects, so we use the gerund form to indicate that the flowers require the action of watering. The correct structure is 'need + V-ing' to express that something needs to be done to the subject.<br><ul><li><b>watered</b> (past participle): Past participle (V3/ed) form, usually used in passive voice after 'be', not directly after 'need'.</li><li><b>watering</b> (gerund): Gerund (V-ing) form, used after 'need' when the subject is an object, meaning 'need to be watered'.</li><li><b>to water</b> (infinitive): Infinitive form, used when the subject is a person who needs to do the action, not suitable here.</li><li><b>be watered</b> (passive infinitive): Passive infinitive, but after 'need', we do not use 'be watered' directly.</li></ul><b>Related structure or vocabulary:</b> need + V-ing: used when the subject is an object and means 'need to be done'. For example: The car needs washing. = The car needs to be washed.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, 'These flowers need ________', động từ 'need' có thể đi với dạng V-ing (gerund) hoặc động từ nguyên mẫu bị động (to be + V3/ed) khi chủ ngữ là vật (không phải người). Ở đây, 'these flowers' là vật, nên ta dùng dạng V-ing để diễn tả rằng những bông hoa này cần được tưới nước. Cấu trúc đúng là 'need + V-ing' để diễn đạt rằng một hành động cần được thực hiện với chủ ngữ.<br><ul><li><b>watered</b> (quá khứ phân từ): Dạng quá khứ phân từ (V3/ed), thường dùng trong câu bị động sau 'be', không dùng trực tiếp sau 'need'.</li><li><b>watering</b> (danh động từ): Dạng V-ing (gerund), dùng sau 'need' khi chủ ngữ là vật, mang nghĩa 'cần được tưới'.</li><li><b>to water</b> (động từ nguyên mẫu): Động từ nguyên mẫu, dùng khi chủ ngữ là người cần làm hành động đó, không phù hợp ở đây.</li><li><b>be watered</b> (động từ nguyên mẫu bị động): Động từ nguyên mẫu bị động, nhưng sau 'need' không dùng trực tiếp 'be watered'.</li></ul><b>Cấu trúc và từ vựng:</b> need + V-ing: dùng khi chủ ngữ là vật, mang nghĩa 'cần được làm gì đó'. Ví dụ: The car needs washing. = The car needs to be washed.<br><br><b>Tạm dịch:</b> These flowers need watering. --> Những bông hoa này cần được tưới nước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'These flowers need ________', the verb 'need' can be followed by either a gerund (V-ing) or a passive infinitive (to be + V3/ed) when the subject is an object (not a person). Here, 'these flowers' are objects, so we use the gerund form to indicate that the flowers require the action of watering. The correct structure is 'need + V-ing' to express that something needs to be done to the subject.<br><ul><li><b>watered</b> (past participle): Past participle (V3/ed) form, usually used in passive voice after 'be', not directly after 'need'.</li><li><b>watering</b> (gerund): Gerund (V-ing) form, used after 'need' when the subject is an object, meaning 'need to be watered'.</li><li><b>to water</b> (infinitive): Infinitive form, used when the subject is a person who needs to do the action, not suitable here.</li><li><b>be watered</b> (passive infinitive): Passive infinitive, but after 'need', we do not use 'be watered' directly.</li></ul><b>Related structure or vocabulary:</b> need + V-ing: used when the subject is an object and means 'need to be done'. For example: The car needs washing. = The car needs to be washed.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43be",
+        "questionNumber": 12,
+        "questionText": "My children had many photos ________ while we were on our vacation.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "taking",
+            "raw": "A. taking ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "take",
+            "raw": "B. take ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "taken",
+            "raw": "C. taken",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "took",
+            "raw": "D. took",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My children had many photos ________ while we were on our vacation.' requires a past participle (V-ed/3) to form a passive meaning. The structure 'have/get + something + past participle' is used to indicate that someone arranges for something to be done by someone else. In this case, it means the children arranged for someone to take photos of them.<br><ul><li><b>taking</b> (V-ing): Present participle (V-ing), used for active meaning or continuous actions, not suitable here.</li><li><b>take</b> (V (bare infinitive)): Bare infinitive (V), not used after 'had' in this structure.</li><li><b>taken</b> (V-ed/3 (past participle)): Past participle (V-ed/3), used in passive structures like 'have/get something done'. Correct choice.</li><li><b>took</b> (V2 (past simple)): Past simple (V2), not used after 'had' in this structure.</li></ul><b>Related structure or vocabulary:</b> have/get + object + past participle: to arrange for someone to do something for you (causative form)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'My children had many photos ________ while we were on our vacation.' cần một phân từ quá khứ (V-ed/3) để tạo nghĩa bị động. Cấu trúc 'have/get + something + past participle' dùng để diễn tả ai đó nhờ hoặc sắp xếp cho người khác làm gì cho mình. Trong trường hợp này, nghĩa là các con đã nhờ ai đó chụp ảnh cho mình.<br><ul><li><b>taking</b> (V-ing): Hiện tại phân từ (V-ing), dùng cho nghĩa chủ động hoặc hành động đang diễn ra, không phù hợp ở đây.</li><li><b>take</b> (V (nguyên thể)): Động từ nguyên thể không 'to' (V), không dùng sau 'had' trong cấu trúc này.</li><li><b>taken</b> (V-ed/3 (phân từ quá khứ)): Phân từ quá khứ (V-ed/3), dùng trong cấu trúc bị động như 'have/get something done'. Đây là đáp án đúng.</li><li><b>took</b> (V2 (quá khứ đơn)): Quá khứ đơn (V2), không dùng sau 'had' trong cấu trúc này.</li></ul><b>Cấu trúc và từ vựng:</b> have/get + tân ngữ + phân từ quá khứ: nhờ ai đó làm gì cho mình (câu bị động nhờ vả)<br><br><b>Tạm dịch:</b> Các con tôi đã nhờ chụp rất nhiều ảnh khi chúng tôi đi nghỉ mát.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My children had many photos ________ while we were on our vacation.' requires a past participle (V-ed/3) to form a passive meaning. The structure 'have/get + something + past participle' is used to indicate that someone arranges for something to be done by someone else. In this case, it means the children arranged for someone to take photos of them.<br><ul><li><b>taking</b> (V-ing): Present participle (V-ing), used for active meaning or continuous actions, not suitable here.</li><li><b>take</b> (V (bare infinitive)): Bare infinitive (V), not used after 'had' in this structure.</li><li><b>taken</b> (V-ed/3 (past participle)): Past participle (V-ed/3), used in passive structures like 'have/get something done'. Correct choice.</li><li><b>took</b> (V2 (past simple)): Past simple (V2), not used after 'had' in this structure.</li></ul><b>Related structure or vocabulary:</b> have/get + object + past participle: to arrange for someone to do something for you (causative form)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43bf",
+        "questionNumber": 13,
+        "questionText": "Socially, a married couple ______ the basic unit of society.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "thinks to be",
+            "raw": "A. thinks to be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is thought of being",
+            "raw": "B. is thought of being",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is thought to be",
+            "raw": "C. is thought to be",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "is thinking to be",
+            "raw": "D. is thinking to be ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a passive construction because the subject 'a married couple' is not doing the action, but rather, is being considered as something by others. The correct passive structure is 'is thought to be,' which means 'people think that a married couple is the basic unit of society.'<br><ul><li><b>thinks to be</b> (verb phrase): 'Thinks to be' is incorrect because 'think' is not used in this structure. We need a passive form, not an active verb.</li><li><b>is thought of being</b> (verb phrase): 'Is thought of being' is incorrect because after 'thought of,' we use a noun or gerund, not an infinitive. The correct structure is 'is thought to be.'</li><li><b>is thought to be</b> (verb phrase): 'Is thought to be' is the correct passive structure. It means 'people think that...'.</li><li><b>is thinking to be</b> (verb phrase): 'Is thinking to be' is incorrect because 'is thinking' is a present continuous form and does not fit the passive meaning required here.</li></ul><b>Related structure or vocabulary:</b> Passive structure: S + is/are + thought + to + V (bare infinitive). This structure is used to express what people generally think or believe about the subject.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền một cấu trúc bị động vì chủ ngữ 'a married couple' (một cặp vợ chồng) không thực hiện hành động mà là đối tượng được người khác nghĩ đến. Cấu trúc bị động đúng là 'is thought to be', nghĩa là 'mọi người cho rằng một cặp vợ chồng là đơn vị cơ bản của xã hội'.<br><ul><li><b>thinks to be</b> (cụm động từ): 'Thinks to be' không đúng vì 'think' không dùng trong cấu trúc này. Ở đây cần dạng bị động, không phải chủ động.</li><li><b>is thought of being</b> (cụm động từ): 'Is thought of being' không đúng vì sau 'thought of' phải là danh từ hoặc V-ing, không phải động từ nguyên mẫu. Cấu trúc đúng là 'is thought to be'.</li><li><b>is thought to be</b> (cụm động từ): 'Is thought to be' là cấu trúc bị động đúng. Nghĩa là 'mọi người cho rằng...'.</li><li><b>is thinking to be</b> (cụm động từ): 'Is thinking to be' không đúng vì 'is thinking' là thì hiện tại tiếp diễn và không phù hợp với ý nghĩa bị động cần dùng ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động: S + is/are + thought + to + V (động từ nguyên mẫu). Cấu trúc này dùng để diễn đạt điều mà mọi người thường nghĩ hoặc tin về chủ ngữ.<br><br><b>Tạm dịch:</b> Về mặt xã hội, một cặp vợ chồng được cho là đơn vị cơ bản của xã hội.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a passive construction because the subject 'a married couple' is not doing the action, but rather, is being considered as something by others. The correct passive structure is 'is thought to be,' which means 'people think that a married couple is the basic unit of society.'<br><ul><li><b>thinks to be</b> (verb phrase): 'Thinks to be' is incorrect because 'think' is not used in this structure. We need a passive form, not an active verb.</li><li><b>is thought of being</b> (verb phrase): 'Is thought of being' is incorrect because after 'thought of,' we use a noun or gerund, not an infinitive. The correct structure is 'is thought to be.'</li><li><b>is thought to be</b> (verb phrase): 'Is thought to be' is the correct passive structure. It means 'people think that...'.</li><li><b>is thinking to be</b> (verb phrase): 'Is thinking to be' is incorrect because 'is thinking' is a present continuous form and does not fit the passive meaning required here.</li></ul><b>Related structure or vocabulary:</b> Passive structure: S + is/are + thought + to + V (bare infinitive). This structure is used to express what people generally think or believe about the subject.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43c0",
+        "questionNumber": 14,
+        "questionText": "Tony Blair is believed __________ for Liverpool last week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "having left",
+            "raw": "A. having left ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to have left",
+            "raw": "B. to have left",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "to leave",
+            "raw": "C. to leave ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "leaving",
+            "raw": "D. leaving ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Tony Blair is believed __________ for Liverpool last week.' requires the correct verb form after the passive structure 'is believed.' In English, after passive reporting verbs like 'is believed,' we use the structure 'to have + past participle' to refer to an action that happened in the past, especially when the action happened before the time of reporting.<br><ul><li><b>having left</b> (V-ing (perfect participle)): This is the perfect participle (V-ing), but it is not used after passive reporting verbs like 'is believed.'</li><li><b>to have left</b> (perfect infinitive): This is the perfect infinitive, which is used after passive reporting verbs to indicate a completed action in the past.</li><li><b>to leave</b> (infinitive): This is the simple infinitive, used for actions happening at the same time as the reporting verb, not for actions completed in the past.</li><li><b>leaving</b> (V-ing (present participle)): This is the present participle (V-ing), not used after passive reporting verbs in this context.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs (e.g., is believed, is said, is thought) + to have + past participle: used to report actions that happened before the time of reporting.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Tony Blair is believed __________ for Liverpool last week.' cần điền đúng dạng động từ sau cấu trúc bị động 'is believed.' Trong tiếng Anh, sau các động từ tường thuật ở dạng bị động như 'is believed,' ta dùng cấu trúc 'to have + quá khứ phân từ' để nói về một hành động đã xảy ra trong quá khứ, đặc biệt là khi hành động đó xảy ra trước thời điểm tường thuật.<br><ul><li><b>having left</b> (V-ing (phân từ hoàn thành)): Đây là dạng phân từ hoàn thành (V-ing), nhưng không dùng sau các động từ tường thuật ở dạng bị động như 'is believed.'</li><li><b>to have left</b> (động từ nguyên mẫu hoàn thành): Đây là dạng động từ nguyên mẫu hoàn thành, được dùng sau các động từ tường thuật ở dạng bị động để chỉ hành động đã hoàn thành trong quá khứ.</li><li><b>to leave</b> (động từ nguyên mẫu): Đây là động từ nguyên mẫu đơn, dùng cho hành động xảy ra cùng thời điểm với động từ tường thuật, không phải cho hành động đã hoàn thành trong quá khứ.</li><li><b>leaving</b> (V-ing (hiện tại phân từ)): Đây là dạng hiện tại phân từ (V-ing), không dùng sau động từ tường thuật ở dạng bị động trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc động từ tường thuật ở dạng bị động (is believed, is said, is thought,...) + to have + quá khứ phân từ: dùng để tường thuật hành động đã xảy ra trước thời điểm nói.<br><br><b>Tạm dịch:</b> Tony Blair is believed to have left for Liverpool last week. --> Người ta tin rằng Tony Blair đã rời đến Liverpool vào tuần trước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Tony Blair is believed __________ for Liverpool last week.' requires the correct verb form after the passive structure 'is believed.' In English, after passive reporting verbs like 'is believed,' we use the structure 'to have + past participle' to refer to an action that happened in the past, especially when the action happened before the time of reporting.<br><ul><li><b>having left</b> (V-ing (perfect participle)): This is the perfect participle (V-ing), but it is not used after passive reporting verbs like 'is believed.'</li><li><b>to have left</b> (perfect infinitive): This is the perfect infinitive, which is used after passive reporting verbs to indicate a completed action in the past.</li><li><b>to leave</b> (infinitive): This is the simple infinitive, used for actions happening at the same time as the reporting verb, not for actions completed in the past.</li><li><b>leaving</b> (V-ing (present participle)): This is the present participle (V-ing), not used after passive reporting verbs in this context.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs (e.g., is believed, is said, is thought) + to have + past participle: used to report actions that happened before the time of reporting.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43c1",
+        "questionNumber": 15,
+        "questionText": "This carpet really needs ___________. Can you do it for me, son?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "cleaned",
+            "raw": "A. cleaned ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "clean",
+            "raw": "B. clean",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "cleaning",
+            "raw": "C. cleaning",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "being cleaned",
+            "raw": "D. being cleaned",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the verb 'needs'. The structure 'need + V-ing' is commonly used in English to express that something requires a particular action to be done to it. This is a passive meaning structure, similar to 'need to be + past participle'. Therefore, the correct form to fill in the blank is the gerund (V-ing) form: 'cleaning'.<br><ul><li><b>cleaned</b> (V-ed (past participle)): Past participle form, usually used in passive voice (e.g., 'to be cleaned'). Not correct here because 'needs' does not take a past participle directly.</li><li><b>clean</b> (bare infinitive (V)): Base form of the verb. Not correct because after 'needs', we do not use the base form directly.</li><li><b>cleaning</b> (V-ing (gerund)): Gerund (V-ing) form. Correct because 'need + V-ing' expresses that something requires the action.</li><li><b>being cleaned</b> (V-ing (passive participle)): 'Being cleaned' is the present participle passive form. Not correct here because 'needs' is not followed by this structure.</li></ul><b>Related structure or vocabulary:</b> need + V-ing: something requires the action to be done (passive meaning). Also, 'need to be + past participle' can be used with similar meaning.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống đứng sau động từ 'needs'. Cấu trúc 'need + V-ing' thường được dùng trong tiếng Anh để diễn tả rằng một vật gì đó cần được thực hiện hành động nào đó (nghĩa bị động). Cấu trúc này tương đương với 'need to be + V-ed'. Vì vậy, dạng đúng để điền vào chỗ trống là dạng V-ing: 'cleaning'.<br><ul><li><b>cleaned</b> (V-ed (quá khứ phân từ)): Dạng quá khứ phân từ, thường dùng trong câu bị động (ví dụ: 'to be cleaned'). Không đúng ở đây vì 'needs' không đi với dạng này trực tiếp.</li><li><b>clean</b> (động từ nguyên thể (V)): Dạng nguyên thể của động từ. Không đúng vì sau 'needs' không dùng dạng nguyên thể trực tiếp.</li><li><b>cleaning</b> (V-ing (động danh từ)): Dạng V-ing (động danh từ). Đúng vì 'need + V-ing' diễn tả rằng vật đó cần được làm gì.</li><li><b>being cleaned</b> (V-ing (phân từ bị động)): 'Being cleaned' là dạng hiện tại phân từ bị động. Không đúng ở đây vì 'needs' không đi với cấu trúc này.</li></ul><b>Cấu trúc và từ vựng:</b> need + V-ing: diễn tả vật cần được làm gì (nghĩa bị động). Ngoài ra, có thể dùng 'need to be + V-ed' với ý nghĩa tương tự.<br><br><b>Tạm dịch:</b> Tấm thảm này thực sự cần được làm sạch. Con có thể làm giúp mẹ không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the verb 'needs'. The structure 'need + V-ing' is commonly used in English to express that something requires a particular action to be done to it. This is a passive meaning structure, similar to 'need to be + past participle'. Therefore, the correct form to fill in the blank is the gerund (V-ing) form: 'cleaning'.<br><ul><li><b>cleaned</b> (V-ed (past participle)): Past participle form, usually used in passive voice (e.g., 'to be cleaned'). Not correct here because 'needs' does not take a past participle directly.</li><li><b>clean</b> (bare infinitive (V)): Base form of the verb. Not correct because after 'needs', we do not use the base form directly.</li><li><b>cleaning</b> (V-ing (gerund)): Gerund (V-ing) form. Correct because 'need + V-ing' expresses that something requires the action.</li><li><b>being cleaned</b> (V-ing (passive participle)): 'Being cleaned' is the present participle passive form. Not correct here because 'needs' is not followed by this structure.</li></ul><b>Related structure or vocabulary:</b> need + V-ing: something requires the action to be done (passive meaning). Also, 'need to be + past participle' can be used with similar meaning.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43c2",
+        "questionNumber": 16,
+        "questionText": "The factory is said _________ in a fire two years ago.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "being destroyed",
+            "raw": "A. being destroyed ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to be destroyed",
+            "raw": "B. to be destroyed",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to have destroyed",
+            "raw": "C. to have destroyed ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to have been destroyed",
+            "raw": "D. to have been destroyed",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the structure 'is said to have been...' is used to report a past event that happened before the present moment. The passive infinitive perfect form 'to have been + past participle' is required to indicate that the factory was destroyed (the action was completed) in the past (two years ago).<br><ul><li><b>being destroyed</b> (V-ing (present participle, passive)): Present participle passive form, used after prepositions or certain verbs, not suitable after 'is said'.</li><li><b>to be destroyed</b> (to-infinitive (passive)): Passive infinitive, used for actions happening at the same time or after the reporting verb, not for actions completed in the past.</li><li><b>to have destroyed</b> (to have + past participle (active)): Perfect infinitive active, used when the subject performed the action, but here the factory received the action.</li><li><b>to have been destroyed</b> (to have been + past participle (passive)): Perfect infinitive passive, used to show that the action (being destroyed) was completed in the past before now.</li></ul><b>Related structure or vocabulary:</b> Reported speech with passive infinitive: S + is/are said + to have been + past participle (for actions completed in the past).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, cấu trúc 'is said to have been...' được dùng để tường thuật lại một sự việc đã xảy ra trong quá khứ. Dạng bị động của động từ nguyên mẫu hoàn thành 'to have been + quá khứ phân từ' được sử dụng để chỉ rằng nhà máy đã bị phá hủy (hành động đã hoàn thành) cách đây hai năm.<br><ul><li><b>being destroyed</b> (V-ing (hiện tại phân từ, bị động)): Dạng hiện tại phân từ bị động, thường dùng sau giới từ hoặc một số động từ nhất định, không phù hợp sau 'is said'.</li><li><b>to be destroyed</b> (to-infinitive (bị động)): Động từ nguyên mẫu bị động, dùng cho hành động xảy ra đồng thời hoặc sau động từ tường thuật, không dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>to have destroyed</b> (to have + quá khứ phân từ (chủ động)): Động từ nguyên mẫu hoàn thành chủ động, dùng khi chủ ngữ thực hiện hành động, nhưng ở đây nhà máy là đối tượng bị tác động.</li><li><b>to have been destroyed</b> (to have been + quá khứ phân từ (bị động)): Động từ nguyên mẫu hoàn thành bị động, dùng để chỉ hành động (bị phá hủy) đã hoàn thành trong quá khứ trước thời điểm hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Câu tường thuật với động từ nguyên mẫu bị động: S + is/are said + to have been + quá khứ phân từ (dùng cho hành động đã hoàn thành trong quá khứ).<br><br><b>Tạm dịch:</b> Nhà máy được cho là đã bị phá hủy trong một vụ cháy cách đây hai năm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the structure 'is said to have been...' is used to report a past event that happened before the present moment. The passive infinitive perfect form 'to have been + past participle' is required to indicate that the factory was destroyed (the action was completed) in the past (two years ago).<br><ul><li><b>being destroyed</b> (V-ing (present participle, passive)): Present participle passive form, used after prepositions or certain verbs, not suitable after 'is said'.</li><li><b>to be destroyed</b> (to-infinitive (passive)): Passive infinitive, used for actions happening at the same time or after the reporting verb, not for actions completed in the past.</li><li><b>to have destroyed</b> (to have + past participle (active)): Perfect infinitive active, used when the subject performed the action, but here the factory received the action.</li><li><b>to have been destroyed</b> (to have been + past participle (passive)): Perfect infinitive passive, used to show that the action (being destroyed) was completed in the past before now.</li></ul><b>Related structure or vocabulary:</b> Reported speech with passive infinitive: S + is/are said + to have been + past participle (for actions completed in the past).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224850283f28145bcbb43c3",
+        "questionNumber": 17,
+        "questionText": "According to this newspaper, John is said ____ a new record for the long jump.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "establishing",
+            "raw": "A. establishing ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to be establish",
+            "raw": "B. to be establish",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "established",
+            "raw": "C. established ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to have established",
+            "raw": "D. to have established ",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the structure 'is said to have + past participle' is used to report something that people say someone did in the past. The phrase 'According to this newspaper, John is said ____ a new record for the long jump.' requires the correct form after 'is said'. The correct answer is 'to have established', which means that it is reported that John established a new record in the past.<br><ul><li><b>establishing</b> (V-ing): Present participle/gerund form. Not used after 'is said' in this passive reporting structure.</li><li><b>to be establish</b> (to + V (bare infinitive, but wrong form here)): Incorrect infinitive form. 'Establish' should be in the past participle form after 'to have' if referring to a past action.</li><li><b>established</b> (V-ed (past participle)): Past participle, but missing the necessary 'to have' to fit the reporting structure.</li><li><b>to have established</b> (to have + V-ed (perfect infinitive)): Perfect infinitive. Used after passive reporting verbs (is said) to refer to a completed action in the past.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: is said to have + past participle (used to report what people say someone did in the past).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, cấu trúc 'is said to have + past participle' được dùng để tường thuật lại điều mà người khác nói ai đó đã làm trong quá khứ. Cụm 'According to this newspaper, John is said ____ a new record for the long jump.' cần điền đúng dạng động từ sau 'is said'. Đáp án đúng là 'to have established', mang nghĩa là người ta nói rằng John đã lập kỷ lục mới trong quá khứ.<br><ul><li><b>establishing</b> (V-ing): Dạng V-ing (hiện tại phân từ/động danh từ). Không dùng sau 'is said' trong cấu trúc bị động tường thuật này.</li><li><b>to be establish</b> (to + V (nguyên thể, nhưng sai ở đây)): Dạng động từ nguyên thể không đúng. 'Establish' cần ở dạng quá khứ phân từ sau 'to have' nếu nói về hành động đã hoàn thành.</li><li><b>established</b> (V-ed (quá khứ phân từ)): Dạng quá khứ phân từ, nhưng thiếu 'to have' để phù hợp với cấu trúc tường thuật.</li><li><b>to have established</b> (to have + V-ed (nguyên thể hoàn thành)): Dạng động từ nguyên thể hoàn thành. Được dùng sau động từ bị động tường thuật (is said) để nói về hành động đã hoàn thành trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động tường thuật: is said to have + past participle (dùng để tường thuật lại điều người ta nói ai đó đã làm trong quá khứ).<br><br><b>Tạm dịch:</b> Theo tờ báo này, người ta nói rằng John đã lập một kỷ lục mới cho môn nhảy xa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the structure 'is said to have + past participle' is used to report something that people say someone did in the past. The phrase 'According to this newspaper, John is said ____ a new record for the long jump.' requires the correct form after 'is said'. The correct answer is 'to have established', which means that it is reported that John established a new record in the past.<br><ul><li><b>establishing</b> (V-ing): Present participle/gerund form. Not used after 'is said' in this passive reporting structure.</li><li><b>to be establish</b> (to + V (bare infinitive, but wrong form here)): Incorrect infinitive form. 'Establish' should be in the past participle form after 'to have' if referring to a past action.</li><li><b>established</b> (V-ed (past participle)): Past participle, but missing the necessary 'to have' to fit the reporting structure.</li><li><b>to have established</b> (to have + V-ed (perfect infinitive)): Perfect infinitive. Used after passive reporting verbs (is said) to refer to a completed action in the past.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: is said to have + past participle (used to report what people say someone did in the past).<br><br>"
+      }
+    }
+  ]
+}

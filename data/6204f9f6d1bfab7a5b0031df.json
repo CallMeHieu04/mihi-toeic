@@ -1,0 +1,784 @@
+{
+  "topicId": "6204f9f6d1bfab7a5b0031df",
+  "title": "FUTURE SIMPLE TENSE - Practice 2",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032e2",
+        "questionNumber": 1,
+        "questionText": "The news will ____ released as soon as possible.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "be",
+            "raw": "A. be",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "are",
+            "raw": "C. are",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "been",
+            "raw": "D. been",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The news will ____ released as soon as possible.' requires the correct verb form after the modal verb 'will'. After modal verbs (such as will, can, must), we use the base form of the verb. In this case, the passive voice is needed because 'the news' is the receiver of the action. The passive structure with modal verbs is: modal + be + past participle. Therefore, the correct answer is 'be'.<br><ul><li><b>be</b> (verb (base form)): Base form of the verb 'to be', used after modal verbs to form the passive voice.</li><li><b>is</b> (verb (present simple)): Present simple form of 'to be', not used after modal verbs.</li><li><b>are</b> (verb (present simple, plural)): Present simple plural form of 'to be', not used after modal verbs and 'news' is singular.</li><li><b>been</b> (verb (past participle)): Past participle of 'to be', used after 'have/has/had', not after modal verbs.</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: modal + be + past participle (e.g., will be released, can be done, must be finished).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The news will ____ released as soon as possible.' cần điền dạng đúng của động từ sau động từ khiếm khuyết 'will'. Sau các động từ khiếm khuyết (will, can, must...), ta dùng động từ nguyên thể không 'to'. Trong trường hợp này, câu ở thể bị động vì 'the news' là đối tượng nhận hành động. Cấu trúc bị động với động từ khiếm khuyết là: modal + be + quá khứ phân từ. Vì vậy, đáp án đúng là 'be'.<br><ul><li><b>be</b> (động từ (nguyên thể)): Động từ nguyên thể, dùng sau động từ khiếm khuyết để tạo câu bị động.</li><li><b>is</b> (động từ (hiện tại đơn)): Động từ 'to be' ở thì hiện tại đơn, không dùng sau động từ khiếm khuyết.</li><li><b>are</b> (động từ (hiện tại đơn, số nhiều)): Động từ 'to be' ở thì hiện tại đơn số nhiều, không dùng sau động từ khiếm khuyết và 'news' là danh từ số ít.</li><li><b>been</b> (động từ (quá khứ phân từ)): Quá khứ phân từ của 'to be', dùng sau 'have/has/had', không dùng sau động từ khiếm khuyết.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ khiếm khuyết: modal + be + quá khứ phân từ (ví dụ: will be released, can be done, must be finished).<br><br><b>Tạm dịch:</b> Tin tức sẽ được phát hành sớm nhất có thể.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The news will ____ released as soon as possible.' requires the correct verb form after the modal verb 'will'. After modal verbs (such as will, can, must), we use the base form of the verb. In this case, the passive voice is needed because 'the news' is the receiver of the action. The passive structure with modal verbs is: modal + be + past participle. Therefore, the correct answer is 'be'.<br><ul><li><b>be</b> (verb (base form)): Base form of the verb 'to be', used after modal verbs to form the passive voice.</li><li><b>is</b> (verb (present simple)): Present simple form of 'to be', not used after modal verbs.</li><li><b>are</b> (verb (present simple, plural)): Present simple plural form of 'to be', not used after modal verbs and 'news' is singular.</li><li><b>been</b> (verb (past participle)): Past participle of 'to be', used after 'have/has/had', not after modal verbs.</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: modal + be + past participle (e.g., will be released, can be done, must be finished).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032e3",
+        "questionNumber": 2,
+        "questionText": "If you hurry, you _____ overtake him.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would",
+            "raw": "A. would",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "shall",
+            "raw": "B. shall",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "would have",
+            "raw": "C. would have",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will",
+            "raw": "D. will",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If you hurry, you _____ overtake him.' requires the correct verb form to match the first conditional structure. The first conditional is used to talk about real and possible situations in the future. The structure is: If + present simple, will + base verb.<br><ul><li><b>would</b> (modal verb): 'Would' is used in the second conditional (If + past simple, would + base verb) to talk about unreal or hypothetical situations.</li><li><b>shall</b> (modal verb): 'Shall' is a modal verb, but it is rarely used in modern English for making predictions, especially with 'you'.</li><li><b>would have</b> (modal verb phrase): 'Would have' is used in the third conditional (If + past perfect, would have + past participle) to talk about unreal situations in the past.</li><li><b>will</b> (modal verb): 'Will' is used in the first conditional to express a real possibility in the future.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used for real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If you hurry, you _____ overtake him.' cần một động từ phù hợp với cấu trúc câu điều kiện loại 1. Câu điều kiện loại 1 dùng để nói về những tình huống có thể xảy ra trong tương lai. Cấu trúc: If + hiện tại đơn, will + động từ nguyên thể.<br><ul><li><b>would</b> (động từ khuyết thiếu): 'Would' dùng trong câu điều kiện loại 2 (If + quá khứ đơn, would + động từ nguyên thể) để nói về những tình huống không có thật hoặc giả định.</li><li><b>shall</b> (động từ khuyết thiếu): 'Shall' là động từ khuyết thiếu, nhưng hiện nay ít dùng trong tiếng Anh hiện đại để diễn tả dự đoán, đặc biệt với chủ ngữ 'you'.</li><li><b>would have</b> (cụm động từ khuyết thiếu): 'Would have' dùng trong câu điều kiện loại 3 (If + quá khứ hoàn thành, would have + quá khứ phân từ) để nói về những tình huống không có thật trong quá khứ.</li><li><b>will</b> (động từ khuyết thiếu): 'Will' dùng trong câu điều kiện loại 1 để diễn tả khả năng thực sự có thể xảy ra trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể. Dùng để nói về những tình huống thực tế, có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Nếu bạn nhanh lên, bạn sẽ bắt kịp anh ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If you hurry, you _____ overtake him.' requires the correct verb form to match the first conditional structure. The first conditional is used to talk about real and possible situations in the future. The structure is: If + present simple, will + base verb.<br><ul><li><b>would</b> (modal verb): 'Would' is used in the second conditional (If + past simple, would + base verb) to talk about unreal or hypothetical situations.</li><li><b>shall</b> (modal verb): 'Shall' is a modal verb, but it is rarely used in modern English for making predictions, especially with 'you'.</li><li><b>would have</b> (modal verb phrase): 'Would have' is used in the third conditional (If + past perfect, would have + past participle) to talk about unreal situations in the past.</li><li><b>will</b> (modal verb): 'Will' is used in the first conditional to express a real possibility in the future.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used for real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032e4",
+        "questionNumber": 3,
+        "questionText": "You can try asking Martin for help but ____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "it won’t do you any good",
+            "raw": "A. it won’t do you any good",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "it’s not doing you any good",
+            "raw": "B. it’s not doing you any good",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "it won’t be doing you any good",
+            "raw": "C. it won’t be doing you any good",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "it doesn’t do you any good",
+            "raw": "D. it doesn’t do you any good",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'You can try asking Martin for help but ____' requires a clause that expresses the idea that asking Martin will not be beneficial. The phrase 'but' introduces a contrast, so we need a clause that shows a negative result or lack of benefit in the future. The correct structure is 'it won't do you any good', which means 'it will not help you'.<br><ul><li><b>it won’t do you any good</b> (clause (future simple)): This is a fixed expression meaning 'it will not help you' or 'it will not be beneficial for you'. The use of 'won’t' (will not) indicates the future, which matches the context of trying something in the future.</li><li><b>it’s not doing you any good</b> (clause (present continuous)): This is present continuous tense, meaning 'it is not helping you right now'. It does not fit the context because the action (asking Martin) has not happened yet.</li><li><b>it won’t be doing you any good</b> (clause (future continuous)): This is future continuous tense, which is not commonly used in this fixed expression. It sounds awkward and is not idiomatic in this context.</li><li><b>it doesn’t do you any good</b> (clause (present simple)): This is present simple tense, meaning 'it is not helpful in general'. However, the context is about a specific future action, so this is not the best choice.</li></ul><b>Related structure or vocabulary:</b> Fixed expression: 'do someone any good' = to be beneficial to someone. Structure: 'won’t do you any good' is used to say that an action will not help.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'You can try asking Martin for help but ____' cần một mệnh đề diễn tả ý việc nhờ Martin giúp sẽ không mang lại lợi ích. Từ 'but' dùng để nối hai ý trái ngược, nên cần một mệnh đề thể hiện kết quả tiêu cực hoặc không có lợi trong tương lai. Cấu trúc đúng là 'it won’t do you any good', nghĩa là 'nó sẽ không giúp ích gì cho bạn'.<br><ul><li><b>it won’t do you any good</b> (mệnh đề (thì tương lai đơn)): Đây là một cụm cố định, nghĩa là 'nó sẽ không giúp ích gì cho bạn' hoặc 'nó sẽ không có lợi cho bạn'. Việc dùng 'won’t' (will not) chỉ thì tương lai, phù hợp với ngữ cảnh thử làm một việc trong tương lai.</li><li><b>it’s not doing you any good</b> (mệnh đề (thì hiện tại tiếp diễn)): Đây là thì hiện tại tiếp diễn, nghĩa là 'nó không giúp ích gì cho bạn ngay lúc này'. Không phù hợp vì hành động (nhờ Martin) chưa xảy ra.</li><li><b>it won’t be doing you any good</b> (mệnh đề (thì tương lai tiếp diễn)): Đây là thì tương lai tiếp diễn, không thường dùng trong cụm cố định này và nghe không tự nhiên trong ngữ cảnh này.</li><li><b>it doesn’t do you any good</b> (mệnh đề (thì hiện tại đơn)): Đây là thì hiện tại đơn, nghĩa là 'nó không có ích nói chung'. Tuy nhiên, ngữ cảnh là về một hành động cụ thể trong tương lai nên không phù hợp nhất.</li></ul><b>Cấu trúc và từ vựng:</b> Cụm cố định: 'do someone any good' = có lợi cho ai đó. Cấu trúc: 'won’t do you any good' dùng để nói một hành động sẽ không giúp ích gì.<br><br><b>Tạm dịch:</b> Bạn có thể thử nhờ Martin giúp đỡ nhưng nó sẽ không giúp ích gì cho bạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'You can try asking Martin for help but ____' requires a clause that expresses the idea that asking Martin will not be beneficial. The phrase 'but' introduces a contrast, so we need a clause that shows a negative result or lack of benefit in the future. The correct structure is 'it won't do you any good', which means 'it will not help you'.<br><ul><li><b>it won’t do you any good</b> (clause (future simple)): This is a fixed expression meaning 'it will not help you' or 'it will not be beneficial for you'. The use of 'won’t' (will not) indicates the future, which matches the context of trying something in the future.</li><li><b>it’s not doing you any good</b> (clause (present continuous)): This is present continuous tense, meaning 'it is not helping you right now'. It does not fit the context because the action (asking Martin) has not happened yet.</li><li><b>it won’t be doing you any good</b> (clause (future continuous)): This is future continuous tense, which is not commonly used in this fixed expression. It sounds awkward and is not idiomatic in this context.</li><li><b>it doesn’t do you any good</b> (clause (present simple)): This is present simple tense, meaning 'it is not helpful in general'. However, the context is about a specific future action, so this is not the best choice.</li></ul><b>Related structure or vocabulary:</b> Fixed expression: 'do someone any good' = to be beneficial to someone. Structure: 'won’t do you any good' is used to say that an action will not help.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032e5",
+        "questionNumber": 4,
+        "questionText": "Butter ____ if you leave it out in the sun.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "melt",
+            "raw": "A. melt",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "melted",
+            "raw": "B. melted",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will melt",
+            "raw": "C. will melt",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "would melt",
+            "raw": "D. would melt",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Butter ____ if you leave it out in the sun.' requires the correct verb tense to match the conditional structure. The sentence describes a general truth or scientific fact (butter melts when left in the sun), so we use the simple present tense in the main clause. In first conditional sentences about general truths, the 'if' clause uses the present simple, and the main clause also uses the present simple.<br><ul><li><b>melt</b> (verb (base form)): Base form of the verb, used for the present simple tense with plural subjects or 'I/you/we/they'. Here, 'butter' is an uncountable noun (singular), so we need 'melts', not 'melt'.</li><li><b>melted</b> (verb (past tense/past participle)): Past tense or past participle form of 'melt'. Not suitable here because the sentence is not in the past tense.</li><li><b>will melt</b> (verb (future simple)): Future simple tense. Used for predictions or future events, but the sentence is about a general truth, not a specific future event.</li><li><b>would melt</b> (modal verb (conditional)): Conditional form (would + base verb), used for unreal or hypothetical situations. The sentence is about a real, general fact.</li></ul><b>Related structure or vocabulary:</b> Zero conditional: If + present simple, present simple. Used for general truths and scientific facts.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Butter ____ if you leave it out in the sun.' cần một động từ đúng thì để phù hợp với cấu trúc câu điều kiện. Câu này diễn tả một sự thật hiển nhiên hoặc một hiện tượng khoa học (bơ sẽ tan chảy khi để ngoài nắng), vì vậy ta dùng thì hiện tại đơn ở mệnh đề chính. Trong câu điều kiện loại 0 (zero conditional) nói về sự thật hiển nhiên, cả mệnh đề 'if' và mệnh đề chính đều dùng thì hiện tại đơn.<br><ul><li><b>melt</b> (động từ (nguyên thể)): Động từ nguyên thể, dùng cho thì hiện tại đơn với chủ ngữ số nhiều hoặc 'I/you/we/they'. Ở đây, 'butter' là danh từ không đếm được (số ít), nên cần dùng 'melts' chứ không phải 'melt'.</li><li><b>melted</b> (động từ (quá khứ/quá khứ phân từ)): Dạng quá khứ hoặc quá khứ phân từ của 'melt'. Không phù hợp vì câu không nói về quá khứ.</li><li><b>will melt</b> (động từ (tương lai đơn)): Thì tương lai đơn. Dùng để dự đoán hoặc nói về sự việc trong tương lai, nhưng câu này nói về sự thật hiển nhiên, không phải sự việc cụ thể trong tương lai.</li><li><b>would melt</b> (động từ khuyết thiếu (điều kiện)): Dạng điều kiện (would + động từ nguyên thể), dùng cho tình huống không có thật hoặc giả định. Câu này nói về sự thật hiển nhiên.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 0: If + hiện tại đơn, hiện tại đơn. Dùng cho sự thật hiển nhiên, hiện tượng khoa học.<br><br><b>Tạm dịch:</b> Bơ sẽ tan chảy nếu bạn để nó ngoài nắng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Butter ____ if you leave it out in the sun.' requires the correct verb tense to match the conditional structure. The sentence describes a general truth or scientific fact (butter melts when left in the sun), so we use the simple present tense in the main clause. In first conditional sentences about general truths, the 'if' clause uses the present simple, and the main clause also uses the present simple.<br><ul><li><b>melt</b> (verb (base form)): Base form of the verb, used for the present simple tense with plural subjects or 'I/you/we/they'. Here, 'butter' is an uncountable noun (singular), so we need 'melts', not 'melt'.</li><li><b>melted</b> (verb (past tense/past participle)): Past tense or past participle form of 'melt'. Not suitable here because the sentence is not in the past tense.</li><li><b>will melt</b> (verb (future simple)): Future simple tense. Used for predictions or future events, but the sentence is about a general truth, not a specific future event.</li><li><b>would melt</b> (modal verb (conditional)): Conditional form (would + base verb), used for unreal or hypothetical situations. The sentence is about a real, general fact.</li></ul><b>Related structure or vocabulary:</b> Zero conditional: If + present simple, present simple. Used for general truths and scientific facts.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032e6",
+        "questionNumber": 5,
+        "questionText": "If you take my advice, you _____ problems any more.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "aren’t having",
+            "raw": "A. aren’t having",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "don’t have",
+            "raw": "B. don’t have",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "didn’t have",
+            "raw": "C. didn’t have",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "won’t have",
+            "raw": "D. won’t have",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'If you take my advice, you _____ problems any more.', the structure is a first conditional. The first conditional is used to talk about real and possible situations in the future. The 'if' clause uses the present simple tense ('take'), and the main clause uses 'will' + base verb. Therefore, the correct answer should be 'won’t have' (will not have).<br><ul><li><b>aren’t having</b> (verb phrase): Present continuous negative form. Not suitable here because we do not use present continuous in the main clause of the first conditional.</li><li><b>don’t have</b> (verb phrase): Present simple negative form. This is not correct for the main clause of the first conditional, which requires 'will' + base verb.</li><li><b>didn’t have</b> (verb phrase): Past simple negative form. This is used for the second conditional or past situations, not for the first conditional.</li><li><b>won’t have</b> (verb phrase): Future simple negative form. This is the correct form for the main clause in the first conditional.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, 'If you take my advice, you _____ problems any more.', cấu trúc được sử dụng là câu điều kiện loại 1. Câu điều kiện loại 1 dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai. Mệnh đề 'if' sử dụng thì hiện tại đơn ('take'), còn mệnh đề chính sử dụng 'will' + động từ nguyên thể. Vì vậy, đáp án đúng là 'won’t have' (will not have).<br><ul><li><b>aren’t having</b> (cụm động từ): Dạng phủ định của thì hiện tại tiếp diễn. Không phù hợp vì không dùng thì hiện tại tiếp diễn ở mệnh đề chính của câu điều kiện loại 1.</li><li><b>don’t have</b> (cụm động từ): Dạng phủ định của thì hiện tại đơn. Không đúng vì mệnh đề chính của câu điều kiện loại 1 cần dùng 'will' + động từ nguyên thể.</li><li><b>didn’t have</b> (cụm động từ): Dạng phủ định của thì quá khứ đơn. Dùng cho câu điều kiện loại 2 hoặc nói về quá khứ, không phù hợp với câu điều kiện loại 1.</li><li><b>won’t have</b> (cụm động từ): Dạng phủ định của thì tương lai đơn. Đây là đáp án đúng cho mệnh đề chính trong câu điều kiện loại 1.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể. Dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Nếu bạn nghe lời khuyên của tôi, bạn sẽ không còn gặp vấn đề nữa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'If you take my advice, you _____ problems any more.', the structure is a first conditional. The first conditional is used to talk about real and possible situations in the future. The 'if' clause uses the present simple tense ('take'), and the main clause uses 'will' + base verb. Therefore, the correct answer should be 'won’t have' (will not have).<br><ul><li><b>aren’t having</b> (verb phrase): Present continuous negative form. Not suitable here because we do not use present continuous in the main clause of the first conditional.</li><li><b>don’t have</b> (verb phrase): Present simple negative form. This is not correct for the main clause of the first conditional, which requires 'will' + base verb.</li><li><b>didn’t have</b> (verb phrase): Past simple negative form. This is used for the second conditional or past situations, not for the first conditional.</li><li><b>won’t have</b> (verb phrase): Future simple negative form. This is the correct form for the main clause in the first conditional.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032e7",
+        "questionNumber": 6,
+        "questionText": "It isn’t quite certain that he _____ be present at the meeting.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will",
+            "raw": "A. will",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "shall",
+            "raw": "B. shall",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "would",
+            "raw": "C. would",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "is",
+            "raw": "D. is",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the phrase 'It isn’t quite certain that he _____ be present at the meeting.' requires a modal verb to express possibility or certainty about a future event. The correct modal verb to use here is 'will', which is commonly used to talk about future events or actions that are likely or certain to happen. The phrase 'isn’t quite certain' suggests that there is some doubt, so 'will' fits best to indicate the possibility of his presence.<br><ul><li><b>will</b> (modal verb): 'Will' is a modal verb used to express future actions or events, especially when talking about what is likely or certain to happen.</li><li><b>shall</b> (modal verb): 'Shall' is also a modal verb, but it is mainly used in formal or legal contexts, or with 'I' and 'we' to make offers or suggestions. It is not commonly used with 'he' in modern English for predictions.</li><li><b>would</b> (modal verb): 'Would' is the past tense of 'will' and is used for hypothetical situations, polite requests, or conditional sentences. It does not fit the context of expressing future possibility here.</li><li><b>is</b> (verb (to be)): 'Is' is the present tense of the verb 'to be', and does not fit grammatically after 'that he' when talking about a future event.</li></ul><b>Related structure or vocabulary:</b> Modal verbs (will, shall, would) are used to express possibility, certainty, or future actions. 'Will' is the most common modal verb for talking about future events or predictions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, cụm từ 'It isn’t quite certain that he _____ be present at the meeting.' cần một động từ khuyết thiếu (modal verb) để diễn tả khả năng hoặc sự chắc chắn về một sự kiện trong tương lai. Động từ khuyết thiếu phù hợp nhất ở đây là 'will', thường được dùng để nói về các sự kiện hoặc hành động trong tương lai có khả năng hoặc chắc chắn xảy ra. Cụm 'isn’t quite certain' cho thấy có sự nghi ngờ, vì vậy 'will' là lựa chọn phù hợp nhất để diễn tả khả năng anh ấy sẽ có mặt.<br><ul><li><b>will</b> (động từ khuyết thiếu): 'Will' là động từ khuyết thiếu dùng để diễn tả hành động hoặc sự kiện trong tương lai, đặc biệt khi nói về điều có khả năng hoặc chắc chắn xảy ra.</li><li><b>shall</b> (động từ khuyết thiếu): 'Shall' cũng là động từ khuyết thiếu, nhưng chủ yếu dùng trong ngữ cảnh trang trọng hoặc pháp lý, hoặc với 'I' và 'we' để đưa ra đề nghị hoặc gợi ý. Không thường dùng với 'he' trong tiếng Anh hiện đại để dự đoán.</li><li><b>would</b> (động từ khuyết thiếu): 'Would' là thì quá khứ của 'will', thường dùng cho các tình huống giả định, yêu cầu lịch sự hoặc câu điều kiện. Không phù hợp để diễn tả khả năng trong tương lai ở đây.</li><li><b>is</b> (động từ (to be)): 'Is' là thì hiện tại của động từ 'to be', không phù hợp về mặt ngữ pháp sau 'that he' khi nói về sự kiện trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu (will, shall, would) dùng để diễn tả khả năng, sự chắc chắn hoặc hành động trong tương lai. 'Will' là động từ khuyết thiếu phổ biến nhất để nói về sự kiện hoặc dự đoán trong tương lai.<br><br><b>Tạm dịch:</b> Câu: 'It isn’t quite certain that he will be present at the meeting.' có nghĩa là: 'Chưa hoàn toàn chắc chắn rằng anh ấy sẽ có mặt tại cuộc họp.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the phrase 'It isn’t quite certain that he _____ be present at the meeting.' requires a modal verb to express possibility or certainty about a future event. The correct modal verb to use here is 'will', which is commonly used to talk about future events or actions that are likely or certain to happen. The phrase 'isn’t quite certain' suggests that there is some doubt, so 'will' fits best to indicate the possibility of his presence.<br><ul><li><b>will</b> (modal verb): 'Will' is a modal verb used to express future actions or events, especially when talking about what is likely or certain to happen.</li><li><b>shall</b> (modal verb): 'Shall' is also a modal verb, but it is mainly used in formal or legal contexts, or with 'I' and 'we' to make offers or suggestions. It is not commonly used with 'he' in modern English for predictions.</li><li><b>would</b> (modal verb): 'Would' is the past tense of 'will' and is used for hypothetical situations, polite requests, or conditional sentences. It does not fit the context of expressing future possibility here.</li><li><b>is</b> (verb (to be)): 'Is' is the present tense of the verb 'to be', and does not fit grammatically after 'that he' when talking about a future event.</li></ul><b>Related structure or vocabulary:</b> Modal verbs (will, shall, would) are used to express possibility, certainty, or future actions. 'Will' is the most common modal verb for talking about future events or predictions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032e8",
+        "questionNumber": 7,
+        "questionText": "If ill-treated, a child ______ develop personality problems.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "shall",
+            "raw": "A. shall",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will",
+            "raw": "C. will",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "do",
+            "raw": "D. do",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If ill-treated, a child ______ develop personality problems.' requires the correct verb form to complete the first conditional structure. The first conditional is used to talk about real and possible situations in the future. The structure is: If + present simple, ... will + base verb. Here, 'If ill-treated' is a passive form meaning 'If a child is treated badly'. Therefore, the correct verb to use is 'will' to indicate a possible future result.<br><ul><li><b>shall</b> (modal verb): 'Shall' is sometimes used for offers or suggestions, mainly with 'I' or 'we', and is not commonly used with 'a child' in modern English for predictions.</li><li><b>is</b> (verb (present simple)): 'Is' is the present simple form of 'to be', but it does not fit the structure of the first conditional, which requires 'will' in the main clause.</li><li><b>will</b> (modal verb): 'Will' is the modal verb used in the main clause of the first conditional to express a future possibility or result.</li><li><b>do</b> (verb (base form)): 'Do' is the base form of the verb, but it does not fit grammatically in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, ... will + base verb. Passive voice: If + subject + is/are + past participle.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If ill-treated, a child ______ develop personality problems.' cần điền đúng dạng động từ để hoàn thành cấu trúc câu điều kiện loại 1. Câu điều kiện loại 1 dùng để nói về những tình huống có thể xảy ra trong tương lai. Cấu trúc là: If + hiện tại đơn, ... will + động từ nguyên thể. Ở đây, 'If ill-treated' là dạng bị động, nghĩa là 'Nếu một đứa trẻ bị đối xử tệ'. Do đó, động từ đúng cần dùng là 'will' để chỉ kết quả có thể xảy ra trong tương lai.<br><ul><li><b>shall</b> (động từ khuyết thiếu): 'Shall' đôi khi dùng để đề nghị hoặc gợi ý, chủ yếu với 'I' hoặc 'we', và không thường dùng với 'a child' trong tiếng Anh hiện đại để diễn tả dự đoán.</li><li><b>is</b> (động từ (hiện tại đơn)): 'Is' là thì hiện tại đơn của động từ 'to be', nhưng không phù hợp với cấu trúc câu điều kiện loại 1, vốn cần 'will' ở mệnh đề chính.</li><li><b>will</b> (động từ khuyết thiếu): 'Will' là động từ khuyết thiếu dùng trong mệnh đề chính của câu điều kiện loại 1 để diễn tả khả năng hoặc kết quả trong tương lai.</li><li><b>do</b> (động từ (nguyên thể)): 'Do' là động từ nguyên thể, nhưng không phù hợp về mặt ngữ pháp trong cấu trúc câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, ... will + động từ nguyên thể. Câu bị động: If + chủ ngữ + is/are + quá khứ phân từ.<br><br><b>Tạm dịch:</b> Nếu bị đối xử tệ, một đứa trẻ sẽ phát triển các vấn đề về nhân cách.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If ill-treated, a child ______ develop personality problems.' requires the correct verb form to complete the first conditional structure. The first conditional is used to talk about real and possible situations in the future. The structure is: If + present simple, ... will + base verb. Here, 'If ill-treated' is a passive form meaning 'If a child is treated badly'. Therefore, the correct verb to use is 'will' to indicate a possible future result.<br><ul><li><b>shall</b> (modal verb): 'Shall' is sometimes used for offers or suggestions, mainly with 'I' or 'we', and is not commonly used with 'a child' in modern English for predictions.</li><li><b>is</b> (verb (present simple)): 'Is' is the present simple form of 'to be', but it does not fit the structure of the first conditional, which requires 'will' in the main clause.</li><li><b>will</b> (modal verb): 'Will' is the modal verb used in the main clause of the first conditional to express a future possibility or result.</li><li><b>do</b> (verb (base form)): 'Do' is the base form of the verb, but it does not fit grammatically in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, ... will + base verb. Passive voice: If + subject + is/are + past participle.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032e9",
+        "questionNumber": 8,
+        "questionText": "You _____ tired tomorrow if you don’t go to bed soon.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be",
+            "raw": "A. will be",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "were",
+            "raw": "C. were",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "would be",
+            "raw": "D. would be",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that matches the future time reference 'tomorrow' and the conditional 'if you don’t go to bed soon.' In conditional sentences of type 1 (real present/future), we use 'will + base verb' in the main clause and present simple in the if-clause.<br><ul><li><b>will be</b> (verb (future simple)): 'Will be' is the future simple tense, used to talk about something that will happen in the future.</li><li><b>are</b> (verb (present simple)): 'Are' is the present simple form of 'to be', used for present situations.</li><li><b>were</b> (verb (past simple)): 'Were' is the past simple form of 'to be', used for past situations.</li><li><b>would be</b> (verb (conditional)): 'Would be' is used in second conditional sentences (unreal present/future), not suitable here.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ phù hợp với mốc thời gian tương lai 'tomorrow' và mệnh đề điều kiện 'if you don’t go to bed soon.' Trong câu điều kiện loại 1 (diễn tả sự việc có thể xảy ra ở hiện tại hoặc tương lai), ta dùng 'will + động từ nguyên mẫu' ở mệnh đề chính và hiện tại đơn ở mệnh đề if.<br><ul><li><b>will be</b> (động từ (tương lai đơn)): 'Will be' là thì tương lai đơn, dùng để nói về điều sẽ xảy ra trong tương lai.</li><li><b>are</b> (động từ (hiện tại đơn)): 'Are' là thì hiện tại đơn của 'to be', dùng cho các tình huống ở hiện tại.</li><li><b>were</b> (động từ (quá khứ đơn)): 'Were' là thì quá khứ đơn của 'to be', dùng cho các tình huống trong quá khứ.</li><li><b>would be</b> (động từ (câu điều kiện)): 'Would be' dùng trong câu điều kiện loại 2 (không có thật ở hiện tại/tương lai), không phù hợp ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên mẫu. Dùng để nói về những tình huống thực tế, có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Bạn sẽ mệt vào ngày mai nếu bạn không đi ngủ sớm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that matches the future time reference 'tomorrow' and the conditional 'if you don’t go to bed soon.' In conditional sentences of type 1 (real present/future), we use 'will + base verb' in the main clause and present simple in the if-clause.<br><ul><li><b>will be</b> (verb (future simple)): 'Will be' is the future simple tense, used to talk about something that will happen in the future.</li><li><b>are</b> (verb (present simple)): 'Are' is the present simple form of 'to be', used for present situations.</li><li><b>were</b> (verb (past simple)): 'Were' is the past simple form of 'to be', used for past situations.</li><li><b>would be</b> (verb (conditional)): 'Would be' is used in second conditional sentences (unreal present/future), not suitable here.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032ea",
+        "questionNumber": 9,
+        "questionText": "She ____ completely different if she cuts her hair.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is looking",
+            "raw": "A. is looking",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "look",
+            "raw": "B. look",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "looked",
+            "raw": "C. looked",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will look",
+            "raw": "D. will look",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She ____ completely different if she cuts her hair.' requires a verb that matches the future conditional structure. The sentence uses 'if she cuts her hair,' which is a present simple verb in the if-clause. According to the first conditional structure, the main clause should use 'will' + base verb to talk about a possible future result.<br><ul><li><b>is looking</b> (verb (present continuous)): 'is looking' is the present continuous tense, which is not used in the main clause of a first conditional sentence.</li><li><b>look</b> (verb (base form)): 'look' is the base form of the verb, but it is not correct here because the main clause of the first conditional needs 'will' + base verb.</li><li><b>looked</b> (verb (past simple)): 'looked' is the past simple tense, which is used in the second conditional, not the first conditional.</li><li><b>will look</b> (verb (future simple)): 'will look' is the correct form for the main clause in a first conditional sentence, indicating a future result.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'She ____ completely different if she cuts her hair.' cần một động từ phù hợp với cấu trúc câu điều kiện loại 1. Mệnh đề 'if she cuts her hair' sử dụng thì hiện tại đơn. Theo cấu trúc câu điều kiện loại 1, mệnh đề chính sẽ dùng 'will' + động từ nguyên thể để nói về kết quả có thể xảy ra trong tương lai.<br><ul><li><b>is looking</b> (động từ (hiện tại tiếp diễn)): 'is looking' là thì hiện tại tiếp diễn, không dùng trong mệnh đề chính của câu điều kiện loại 1.</li><li><b>look</b> (động từ (nguyên thể)): 'look' là động từ nguyên thể, nhưng không phù hợp vì mệnh đề chính của câu điều kiện loại 1 cần 'will' + động từ nguyên thể.</li><li><b>looked</b> (động từ (quá khứ đơn)): 'looked' là thì quá khứ đơn, dùng trong câu điều kiện loại 2 chứ không phải loại 1.</li><li><b>will look</b> (động từ (tương lai đơn)): 'will look' là thì tương lai đơn, đúng với mệnh đề chính trong câu điều kiện loại 1, diễn tả kết quả trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể. Dùng để nói về tình huống thực tế, có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Cô ấy sẽ trông hoàn toàn khác nếu cô ấy cắt tóc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She ____ completely different if she cuts her hair.' requires a verb that matches the future conditional structure. The sentence uses 'if she cuts her hair,' which is a present simple verb in the if-clause. According to the first conditional structure, the main clause should use 'will' + base verb to talk about a possible future result.<br><ul><li><b>is looking</b> (verb (present continuous)): 'is looking' is the present continuous tense, which is not used in the main clause of a first conditional sentence.</li><li><b>look</b> (verb (base form)): 'look' is the base form of the verb, but it is not correct here because the main clause of the first conditional needs 'will' + base verb.</li><li><b>looked</b> (verb (past simple)): 'looked' is the past simple tense, which is used in the second conditional, not the first conditional.</li><li><b>will look</b> (verb (future simple)): 'will look' is the correct form for the main clause in a first conditional sentence, indicating a future result.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032eb",
+        "questionNumber": 10,
+        "questionText": "The final performance of the play will____ place on Monday.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "take",
+            "raw": "A. take",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "taken",
+            "raw": "B. taken",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "takes",
+            "raw": "C. takes",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "took",
+            "raw": "D. took",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The final performance of the play will____ place on Monday.' requires a verb in its base form because it follows the modal verb 'will'. Modal verbs (such as will, can, must, should, etc.) are always followed by the base form of the verb (bare infinitive).<br><ul><li><b>take</b> (verb (bare infinitive)): Base form of the verb 'to take', which means 'to happen' or 'to occur' in the phrase 'take place'.</li><li><b>taken</b> (verb (past participle)): Past participle form of 'take', used in perfect tenses or passive voice, not after modal verbs.</li><li><b>takes</b> (verb (present simple, 3rd person singular)): Third person singular present form of 'take', used with he/she/it in the present simple tense.</li><li><b>took</b> (verb (past simple)): Past simple form of 'take', used to describe actions completed in the past.</li></ul><b>Related structure or vocabulary:</b> Modal verbs (will, can, must, etc.) + base form of verb (bare infinitive). The phrase 'take place' means 'to happen' or 'to occur'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The final performance of the play will____ place on Monday.' cần một động từ nguyên thể vì nó đứng sau động từ khuyết thiếu 'will'. Các động từ khuyết thiếu (như will, can, must, should,...) luôn đi kèm với động từ nguyên thể không 'to' (bare infinitive).<br><ul><li><b>take</b> (động từ nguyên thể): Động từ nguyên thể của 'take', trong cụm 'take place' có nghĩa là 'diễn ra' hoặc 'xảy ra'.</li><li><b>taken</b> (động từ quá khứ phân từ): Dạng quá khứ phân từ của 'take', dùng trong thì hoàn thành hoặc bị động, không dùng sau động từ khuyết thiếu.</li><li><b>takes</b> (động từ hiện tại đơn (ngôi thứ ba số ít)): Dạng hiện tại đơn ngôi thứ ba số ít của 'take', dùng với he/she/it ở thì hiện tại đơn.</li><li><b>took</b> (động từ quá khứ đơn): Dạng quá khứ đơn của 'take', dùng để diễn tả hành động đã hoàn thành trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu (will, can, must,...) + động từ nguyên thể không 'to' (bare infinitive). Cụm từ 'take place' nghĩa là 'diễn ra' hoặc 'xảy ra'.<br><br><b>Tạm dịch:</b> Buổi biểu diễn cuối cùng của vở kịch sẽ DIỄN RA vào thứ Hai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The final performance of the play will____ place on Monday.' requires a verb in its base form because it follows the modal verb 'will'. Modal verbs (such as will, can, must, should, etc.) are always followed by the base form of the verb (bare infinitive).<br><ul><li><b>take</b> (verb (bare infinitive)): Base form of the verb 'to take', which means 'to happen' or 'to occur' in the phrase 'take place'.</li><li><b>taken</b> (verb (past participle)): Past participle form of 'take', used in perfect tenses or passive voice, not after modal verbs.</li><li><b>takes</b> (verb (present simple, 3rd person singular)): Third person singular present form of 'take', used with he/she/it in the present simple tense.</li><li><b>took</b> (verb (past simple)): Past simple form of 'take', used to describe actions completed in the past.</li></ul><b>Related structure or vocabulary:</b> Modal verbs (will, can, must, etc.) + base form of verb (bare infinitive). The phrase 'take place' means 'to happen' or 'to occur'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032ec",
+        "questionNumber": 11,
+        "questionText": "He____ asleep unless he is kept active continuously.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "shall fall",
+            "raw": "A. shall fall",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "fall",
+            "raw": "B. fall",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "falling",
+            "raw": "C. falling",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will fall",
+            "raw": "D. will fall",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'He____ asleep unless he is kept active continuously.' requires the correct verb form to complete the first conditional sentence. The structure for the first conditional is: If/Unless + present simple, will + base verb. Here, 'unless' means 'if not', and the main clause should use 'will' + base verb to indicate a future result.<br><ul><li><b>shall fall</b> (modal verb + base verb): 'Shall' is rarely used with 'he' in modern English for predictions; it is more common with 'I' or 'we'.</li><li><b>fall</b> (base verb): This is the base form of the verb, but the sentence requires a future tense in the main clause.</li><li><b>falling</b> (present participle): This is the present participle (V-ing) form, which does not fit the sentence structure.</li><li><b>will fall</b> (modal verb + base verb): 'Will fall' is the correct future simple tense, used in the main clause of a first conditional sentence.</li></ul><b>Related structure or vocabulary:</b> First conditional: If/Unless + present simple, will + base verb. 'Unless' means 'if not'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'He____ asleep unless he is kept active continuously.' cần điền đúng dạng động từ để hoàn thành câu điều kiện loại 1. Cấu trúc câu điều kiện loại 1 là: If/Unless + hiện tại đơn, will + động từ nguyên thể. Ở đây, 'unless' có nghĩa là 'nếu không', và mệnh đề chính cần dùng 'will' + động từ nguyên thể để chỉ kết quả trong tương lai.<br><ul><li><b>shall fall</b> (động từ khuyết thiếu + động từ nguyên thể): 'Shall' hiếm khi được dùng với 'he' trong tiếng Anh hiện đại để diễn tả dự đoán; thường dùng với 'I' hoặc 'we'.</li><li><b>fall</b> (động từ nguyên thể): Đây là động từ nguyên thể, nhưng câu cần thì tương lai đơn ở mệnh đề chính.</li><li><b>falling</b> (hiện tại phân từ): Đây là dạng hiện tại phân từ (V-ing), không phù hợp với cấu trúc câu.</li><li><b>will fall</b> (động từ khuyết thiếu + động từ nguyên thể): 'Will fall' là thì tương lai đơn đúng, dùng ở mệnh đề chính của câu điều kiện loại 1.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If/Unless + hiện tại đơn, will + động từ nguyên thể. 'Unless' nghĩa là 'nếu không'.<br><br><b>Tạm dịch:</b> Anh ấy sẽ ngủ gật nếu không được giữ cho hoạt động liên tục.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'He____ asleep unless he is kept active continuously.' requires the correct verb form to complete the first conditional sentence. The structure for the first conditional is: If/Unless + present simple, will + base verb. Here, 'unless' means 'if not', and the main clause should use 'will' + base verb to indicate a future result.<br><ul><li><b>shall fall</b> (modal verb + base verb): 'Shall' is rarely used with 'he' in modern English for predictions; it is more common with 'I' or 'we'.</li><li><b>fall</b> (base verb): This is the base form of the verb, but the sentence requires a future tense in the main clause.</li><li><b>falling</b> (present participle): This is the present participle (V-ing) form, which does not fit the sentence structure.</li><li><b>will fall</b> (modal verb + base verb): 'Will fall' is the correct future simple tense, used in the main clause of a first conditional sentence.</li></ul><b>Related structure or vocabulary:</b> First conditional: If/Unless + present simple, will + base verb. 'Unless' means 'if not'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032ed",
+        "questionNumber": 12,
+        "questionText": "The news ____ as soon as possible.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be released",
+            "raw": "A. will be released",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "careless",
+            "raw": "B. careless",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will release",
+            "raw": "C. will release",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have been released",
+            "raw": "D. will have been released",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The news ____ as soon as possible.' requires a passive verb form because 'the news' is the subject receiving the action (being released). In English, the passive voice is formed with 'will be' + past participle (V3) for future simple passive, or 'will have been' + past participle for future perfect passive. The context suggests the news will be released soon, so the future simple passive is most appropriate.<br><ul><li><b>will be released</b> (verb phrase): Future simple passive: 'will be' + past participle (released). Used when something will happen to the subject in the future.</li><li><b>careless</b> (adjective): An adjective meaning 'not careful'. Grammatically incorrect in this context.</li><li><b>will release</b> (verb phrase): Future simple active: 'will' + base verb (release). Used when the subject does the action, but 'the news' cannot release itself.</li><li><b>will have been released</b> (verb phrase): Future perfect passive: 'will have been' + past participle (released). Used to indicate that something will be completed before a specific time in the future. Not suitable here because 'as soon as possible' refers to a near future, not a completed action before another future event.</li></ul><b>Related structure or vocabulary:</b> Passive voice in the future: will be + past participle (V3). Used when the subject receives the action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The news ____ as soon as possible.' cần một động từ ở dạng bị động vì 'the news' (tin tức) là chủ ngữ chịu tác động (được phát hành). Ở thì tương lai đơn, câu bị động được hình thành với 'will be' + động từ phân từ hai (V3). Cụm 'as soon as possible' (càng sớm càng tốt) cho thấy hành động sẽ xảy ra trong tương lai gần, nên thì tương lai đơn bị động là phù hợp nhất.<br><ul><li><b>will be released</b> (cụm động từ): Thì tương lai đơn bị động: 'will be' + động từ phân từ hai (released). Dùng khi chủ ngữ là đối tượng chịu tác động trong tương lai.</li><li><b>careless</b> (tính từ): Tính từ mang nghĩa 'không cẩn thận'. Không phù hợp về mặt ngữ pháp trong câu này.</li><li><b>will release</b> (cụm động từ): Thì tương lai đơn chủ động: 'will' + động từ nguyên thể (release). Dùng khi chủ ngữ thực hiện hành động, nhưng 'the news' không thể tự phát hành.</li><li><b>will have been released</b> (cụm động từ): Thì tương lai hoàn thành bị động: 'will have been' + động từ phân từ hai (released). Dùng để chỉ hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Không phù hợp vì 'as soon as possible' chỉ thời điểm gần, không phải hoàn thành trước một mốc tương lai khác.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì tương lai đơn: will be + V3 (phân từ hai). Dùng khi chủ ngữ là đối tượng chịu tác động.<br><br><b>Tạm dịch:</b> Tin tức sẽ được phát hành càng sớm càng tốt.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The news ____ as soon as possible.' requires a passive verb form because 'the news' is the subject receiving the action (being released). In English, the passive voice is formed with 'will be' + past participle (V3) for future simple passive, or 'will have been' + past participle for future perfect passive. The context suggests the news will be released soon, so the future simple passive is most appropriate.<br><ul><li><b>will be released</b> (verb phrase): Future simple passive: 'will be' + past participle (released). Used when something will happen to the subject in the future.</li><li><b>careless</b> (adjective): An adjective meaning 'not careful'. Grammatically incorrect in this context.</li><li><b>will release</b> (verb phrase): Future simple active: 'will' + base verb (release). Used when the subject does the action, but 'the news' cannot release itself.</li><li><b>will have been released</b> (verb phrase): Future perfect passive: 'will have been' + past participle (released). Used to indicate that something will be completed before a specific time in the future. Not suitable here because 'as soon as possible' refers to a near future, not a completed action before another future event.</li></ul><b>Related structure or vocabulary:</b> Passive voice in the future: will be + past participle (V3). Used when the subject receives the action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032ee",
+        "questionNumber": 13,
+        "questionText": "Tomorrow I ________ all day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be painting",
+            "raw": "A. will be painting",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will paint",
+            "raw": "B. will paint",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will be paint",
+            "raw": "C. will be paint",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'Tomorrow I ________ all day.', we are talking about an action that will be happening over a period of time in the future. The correct tense to use for an action that will be in progress at a specific time in the future is the Future Continuous tense: 'will be + V-ing'.<br><ul><li><b>will be painting</b> (verb phrase): Future Continuous tense: used to describe an action that will be ongoing at a specific time in the future.</li><li><b>will paint</b> (verb phrase): Simple Future tense: used for actions that will happen in the future, but does not emphasize the duration or continuity.</li><li><b>will be paint</b> (incorrect verb phrase): Incorrect structure: 'be' must be followed by the verb in the -ing form (present participle), not the base form.</li></ul><b>Related structure or vocabulary:</b> Future Continuous tense: will be + V-ing. Used to describe an action that will be in progress at a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Tomorrow I ________ all day.', chúng ta đang nói về một hành động sẽ diễn ra liên tục trong một khoảng thời gian ở tương lai. Thì phù hợp để diễn tả hành động đang xảy ra tại một thời điểm xác định trong tương lai là thì Tương lai tiếp diễn: 'will be + V-ing'.<br><ul><li><b>will be painting</b> (cụm động từ): Thì Tương lai tiếp diễn: dùng để diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.</li><li><b>will paint</b> (cụm động từ): Thì Tương lai đơn: dùng để nói về hành động sẽ xảy ra trong tương lai, nhưng không nhấn mạnh vào sự liên tục hay kéo dài.</li><li><b>will be paint</b> (cụm động từ sai): Cấu trúc sai: 'be' phải đi với động từ dạng V-ing (hiện tại phân từ), không phải dạng nguyên thể.</li></ul><b>Cấu trúc và từ vựng:</b> Thì Tương lai tiếp diễn: will be + V-ing. Dùng để diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Ngày mai tôi sẽ đang sơn cả ngày.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'Tomorrow I ________ all day.', we are talking about an action that will be happening over a period of time in the future. The correct tense to use for an action that will be in progress at a specific time in the future is the Future Continuous tense: 'will be + V-ing'.<br><ul><li><b>will be painting</b> (verb phrase): Future Continuous tense: used to describe an action that will be ongoing at a specific time in the future.</li><li><b>will paint</b> (verb phrase): Simple Future tense: used for actions that will happen in the future, but does not emphasize the duration or continuity.</li><li><b>will be paint</b> (incorrect verb phrase): Incorrect structure: 'be' must be followed by the verb in the -ing form (present participle), not the base form.</li></ul><b>Related structure or vocabulary:</b> Future Continuous tense: will be + V-ing. Used to describe an action that will be in progress at a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032ef",
+        "questionNumber": 14,
+        "questionText": "I ________  you at 3:00 PM tomorrow.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will see",
+            "raw": "A. will see",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "see",
+            "raw": "B. see",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will be seeing",
+            "raw": "C. will be seeing",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ________ you at 3:00 PM tomorrow.' requires a verb form that expresses a future action. Since the sentence refers to a specific time in the future (3:00 PM tomorrow), we need to use a future tense. Both 'will see' and 'will be seeing' are grammatically correct for future events, but 'will see' is the most natural and commonly used form for scheduled or planned actions. 'Will be seeing' (future continuous) is used to emphasize the ongoing nature of the action at a specific time in the future, but in this context, 'will see' is preferred.<br><ul><li><b>will see</b> (verb phrase): Simple future tense, used to express a definite action that will happen in the future.</li><li><b>see</b> (verb): Simple present tense, usually used for habitual actions or general truths, not for scheduled future events.</li><li><b>will be seeing</b> (verb phrase): Future continuous tense, used to describe an action that will be in progress at a specific time in the future.</li></ul><b>Related structure or vocabulary:</b> Simple future tense (will + base verb) is used for decisions, predictions, and scheduled events in the future. Future continuous (will be + V-ing) is used for actions that will be ongoing at a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I ________ you at 3:00 PM tomorrow.' cần một dạng động từ diễn tả hành động sẽ xảy ra trong tương lai. Vì câu nói về một thời điểm cụ thể trong tương lai (3 giờ chiều ngày mai), chúng ta cần dùng thì tương lai. Cả 'will see' và 'will be seeing' đều đúng ngữ pháp để diễn tả hành động trong tương lai, nhưng 'will see' là cách dùng tự nhiên và phổ biến nhất cho các hành động đã lên lịch hoặc dự định. 'Will be seeing' (thì tương lai tiếp diễn) dùng để nhấn mạnh hành động đang diễn ra tại một thời điểm xác định trong tương lai, nhưng trong ngữ cảnh này, 'will see' là lựa chọn phù hợp hơn.<br><ul><li><b>will see</b> (cụm động từ): Thì tương lai đơn, dùng để diễn tả hành động chắc chắn sẽ xảy ra trong tương lai.</li><li><b>see</b> (động từ): Thì hiện tại đơn, thường dùng cho thói quen hoặc sự thật chung, không dùng cho sự kiện đã lên lịch trong tương lai.</li><li><b>will be seeing</b> (cụm động từ): Thì tương lai tiếp diễn, dùng để diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn (will + động từ nguyên mẫu) dùng cho quyết định, dự đoán, hoặc sự kiện đã lên lịch trong tương lai. Thì tương lai tiếp diễn (will be + V-ing) dùng cho hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Tôi sẽ gặp bạn lúc 3 giờ chiều ngày mai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ________ you at 3:00 PM tomorrow.' requires a verb form that expresses a future action. Since the sentence refers to a specific time in the future (3:00 PM tomorrow), we need to use a future tense. Both 'will see' and 'will be seeing' are grammatically correct for future events, but 'will see' is the most natural and commonly used form for scheduled or planned actions. 'Will be seeing' (future continuous) is used to emphasize the ongoing nature of the action at a specific time in the future, but in this context, 'will see' is preferred.<br><ul><li><b>will see</b> (verb phrase): Simple future tense, used to express a definite action that will happen in the future.</li><li><b>see</b> (verb): Simple present tense, usually used for habitual actions or general truths, not for scheduled future events.</li><li><b>will be seeing</b> (verb phrase): Future continuous tense, used to describe an action that will be in progress at a specific time in the future.</li></ul><b>Related structure or vocabulary:</b> Simple future tense (will + base verb) is used for decisions, predictions, and scheduled events in the future. Future continuous (will be + V-ing) is used for actions that will be ongoing at a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032f0",
+        "questionNumber": 15,
+        "questionText": "After we finish this video, I ________  all of this director’s movies.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will see",
+            "raw": "A. will see",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will be seeing",
+            "raw": "B. will be seeing",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have seen",
+            "raw": "C. will have seen",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'After we finish this video, I ________ all of this director’s movies.' requires a verb tense that shows an action will be completed before a specific point in the future. The phrase 'After we finish this video' indicates a future time, so we need a tense that expresses an action completed before that future moment. The correct tense is the future perfect (will have + past participle), which is used to show that something will be finished before a certain time in the future.<br><ul><li><b>will see</b> (verb phrase): Simple future tense, used for actions that will happen in the future, but does not emphasize completion before another future event.</li><li><b>will be seeing</b> (verb phrase): Future continuous tense, used for actions that will be in progress at a specific time in the future.</li><li><b>will have seen</b> (verb phrase): Future perfect tense, used to show that an action will be completed before a certain time in the future.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to express that an action will be completed before a specific time or event in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'After we finish this video, I ________ all of this director’s movies.' cần một thì động từ diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Cụm 'After we finish this video' chỉ một thời điểm trong tương lai, vì vậy ta cần dùng thì diễn tả hành động hoàn thành trước thời điểm đó. Thì phù hợp là thì tương lai hoàn thành (will have + quá khứ phân từ), dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm trong tương lai.<br><ul><li><b>will see</b> (cụm động từ): Thì tương lai đơn, dùng để nói về hành động sẽ xảy ra trong tương lai, nhưng không nhấn mạnh việc hoàn thành trước một hành động khác.</li><li><b>will be seeing</b> (cụm động từ): Thì tương lai tiếp diễn, dùng để nói về hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.</li><li><b>will have seen</b> (cụm động từ): Thì tương lai hoàn thành, dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm hoặc sự kiện trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm hoặc sự kiện trong tương lai.<br><br><b>Tạm dịch:</b> Sau khi chúng ta xem xong video này, tôi sẽ ĐÃ XEM tất cả các bộ phim của đạo diễn này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'After we finish this video, I ________ all of this director’s movies.' requires a verb tense that shows an action will be completed before a specific point in the future. The phrase 'After we finish this video' indicates a future time, so we need a tense that expresses an action completed before that future moment. The correct tense is the future perfect (will have + past participle), which is used to show that something will be finished before a certain time in the future.<br><ul><li><b>will see</b> (verb phrase): Simple future tense, used for actions that will happen in the future, but does not emphasize completion before another future event.</li><li><b>will be seeing</b> (verb phrase): Future continuous tense, used for actions that will be in progress at a specific time in the future.</li><li><b>will have seen</b> (verb phrase): Future perfect tense, used to show that an action will be completed before a certain time in the future.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to express that an action will be completed before a specific time or event in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032f1",
+        "questionNumber": 16,
+        "questionText": "She doesn’t realize what kind of person he is, but she ________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will find out",
+            "raw": "A. will find out",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will be finding out",
+            "raw": "B. will be finding out",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have found out",
+            "raw": "C. will have found out",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'She doesn’t realize what kind of person he is, but she ________.' describes a situation where the subject (she) does not know something now, but will know it in the future. The blank requires a verb form that expresses a future result or realization. 'Will find out' is the simple future tense, used for actions that will happen in the future. 'Will be finding out' is the future continuous, used for actions that will be ongoing at a specific time in the future, which does not fit the context here. 'Will have found out' is the future perfect, used to indicate that something will be completed before a specific time in the future, but there is no reference to a specific future time here. Therefore, the correct answer is 'will find out.'<br><ul><li><b>will find out</b> (verb phrase): Simple future tense; used to express an action that will happen in the future.</li><li><b>will be finding out</b> (verb phrase): Future continuous tense; used for actions that will be ongoing at a specific time in the future.</li><li><b>will have found out</b> (verb phrase): Future perfect tense; used to show that an action will be completed before a certain time in the future.</li></ul><b>Related structure or vocabulary:</b> Simple future tense (will + base verb) is used to talk about actions or events that will happen in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'She doesn’t realize what kind of person he is, but she ________.' mô tả tình huống chủ ngữ (cô ấy) hiện tại chưa biết điều gì đó, nhưng sẽ biết trong tương lai. Chỗ trống cần một động từ diễn tả hành động sẽ xảy ra trong tương lai. 'Will find out' là thì tương lai đơn, dùng để nói về hành động sẽ xảy ra trong tương lai. 'Will be finding out' là thì tương lai tiếp diễn, dùng cho hành động đang diễn ra tại một thời điểm xác định trong tương lai, không phù hợp với ngữ cảnh này. 'Will have found out' là thì tương lai hoàn thành, dùng để chỉ hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai, nhưng ở đây không có mốc thời gian cụ thể nào được đề cập. Vì vậy, đáp án đúng là 'will find out.'<br><ul><li><b>will find out</b> (cụm động từ): Thì tương lai đơn; dùng để diễn tả hành động sẽ xảy ra trong tương lai.</li><li><b>will be finding out</b> (cụm động từ): Thì tương lai tiếp diễn; dùng cho hành động đang diễn ra tại một thời điểm xác định trong tương lai.</li><li><b>will have found out</b> (cụm động từ): Thì tương lai hoàn thành; dùng để chỉ hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn (will + động từ nguyên mẫu) dùng để nói về hành động hoặc sự kiện sẽ xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Cô ấy không nhận ra anh ta là người như thế nào, nhưng cô ấy sẽ biết thôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'She doesn’t realize what kind of person he is, but she ________.' describes a situation where the subject (she) does not know something now, but will know it in the future. The blank requires a verb form that expresses a future result or realization. 'Will find out' is the simple future tense, used for actions that will happen in the future. 'Will be finding out' is the future continuous, used for actions that will be ongoing at a specific time in the future, which does not fit the context here. 'Will have found out' is the future perfect, used to indicate that something will be completed before a specific time in the future, but there is no reference to a specific future time here. Therefore, the correct answer is 'will find out.'<br><ul><li><b>will find out</b> (verb phrase): Simple future tense; used to express an action that will happen in the future.</li><li><b>will be finding out</b> (verb phrase): Future continuous tense; used for actions that will be ongoing at a specific time in the future.</li><li><b>will have found out</b> (verb phrase): Future perfect tense; used to show that an action will be completed before a certain time in the future.</li></ul><b>Related structure or vocabulary:</b> Simple future tense (will + base verb) is used to talk about actions or events that will happen in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032f2",
+        "questionNumber": 17,
+        "questionText": "A: Your dad has made a terrible mess in the kitchen. B: Don’t worry, mum. I ______ up immediately.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am going to clear",
+            "raw": "A. am going to clear",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will clear",
+            "raw": "B. will clear",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "clear",
+            "raw": "C. clear",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "am clearing",
+            "raw": "D. am clearing",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, B is responding to A's statement about a mess in the kitchen. The phrase 'Don’t worry, mum. I ______ up immediately.' is a promise or an offer made at the moment of speaking. In English, when we make a decision or offer to do something at the moment of speaking (especially as a promise), we use 'will' + base verb. Therefore, the correct answer is 'will clear'.<br><ul><li><b>am going to clear</b> (future intention): 'am going to' is used for plans or intentions decided before the moment of speaking, not for immediate offers or promises.</li><li><b>will clear</b> (future simple): 'will' is used for promises, offers, or decisions made at the moment of speaking.</li><li><b>clear</b> (bare infinitive): The base form 'clear' alone is not grammatically correct in this context.</li><li><b>am clearing</b> (present continuous): 'am clearing' (present continuous) is used for actions happening right now or around now, but not for promises or offers.</li></ul><b>Related structure or vocabulary:</b> Use 'will' + base verb for promises, offers, or decisions made at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, B đang đáp lại lời của A về việc bố đã làm bừa bộn trong bếp. Cụm 'Don’t worry, mum. I ______ up immediately.' là một lời hứa hoặc đề nghị được đưa ra ngay tại thời điểm nói. Trong tiếng Anh, khi chúng ta đưa ra quyết định hoặc đề nghị làm gì đó ngay tại thời điểm nói (đặc biệt là lời hứa), chúng ta dùng 'will' + động từ nguyên thể. Vì vậy, đáp án đúng là 'will clear'.<br><ul><li><b>am going to clear</b> (diễn đạt dự định tương lai): 'am going to' dùng cho các kế hoạch hoặc ý định đã được quyết định trước thời điểm nói, không dùng cho lời hứa hoặc đề nghị ngay lập tức.</li><li><b>will clear</b> (thì tương lai đơn): 'will' dùng cho lời hứa, đề nghị hoặc quyết định được đưa ra ngay tại thời điểm nói.</li><li><b>clear</b> (động từ nguyên thể): Dạng nguyên thể 'clear' đứng một mình không đúng ngữ pháp trong trường hợp này.</li><li><b>am clearing</b> (thì hiện tại tiếp diễn): 'am clearing' (thì hiện tại tiếp diễn) dùng cho hành động đang xảy ra ngay lúc nói, không dùng cho lời hứa hoặc đề nghị.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: will + động từ nguyên thể dùng cho lời hứa, đề nghị hoặc quyết định ngay tại thời điểm nói.<br><br><b>Tạm dịch:</b> A: Bố đã làm bừa bộn khủng khiếp trong bếp. B: Đừng lo, mẹ ơi. Con sẽ dọn ngay lập tức.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, B is responding to A's statement about a mess in the kitchen. The phrase 'Don’t worry, mum. I ______ up immediately.' is a promise or an offer made at the moment of speaking. In English, when we make a decision or offer to do something at the moment of speaking (especially as a promise), we use 'will' + base verb. Therefore, the correct answer is 'will clear'.<br><ul><li><b>am going to clear</b> (future intention): 'am going to' is used for plans or intentions decided before the moment of speaking, not for immediate offers or promises.</li><li><b>will clear</b> (future simple): 'will' is used for promises, offers, or decisions made at the moment of speaking.</li><li><b>clear</b> (bare infinitive): The base form 'clear' alone is not grammatically correct in this context.</li><li><b>am clearing</b> (present continuous): 'am clearing' (present continuous) is used for actions happening right now or around now, but not for promises or offers.</li></ul><b>Related structure or vocabulary:</b> Use 'will' + base verb for promises, offers, or decisions made at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032f3",
+        "questionNumber": 18,
+        "questionText": "A: The alarm’s going. It’s making an awful noise. B: OK, I ____ it off.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am switching",
+            "raw": "A. am switching",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will switch",
+            "raw": "B. will switch",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "am going to switch",
+            "raw": "C. am going to switch",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "switch",
+            "raw": "D. switch",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this context, person B is responding to an unexpected situation (the alarm going off) and is making a decision at the moment of speaking. In English, when we decide to do something at the moment of speaking (a spontaneous decision), we use 'will' + base verb. Therefore, the correct answer is 'will switch'.<br><ul><li><b>am switching</b> (verb (present continuous)): Present continuous tense, used for actions happening right now or planned future actions. Not suitable here because the decision is made at the moment of speaking, not before.</li><li><b>will switch</b> (verb (future simple)): Future simple tense, used for spontaneous decisions, promises, or offers made at the moment of speaking. This fits the context.</li><li><b>am going to switch</b> (verb (be going to future)): 'Be going to' is used for planned actions or predictions based on evidence. Here, there is no prior plan, so it's not the best choice.</li><li><b>switch</b> (verb (base form)): Base form of the verb, not grammatically correct in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> Use 'will' + base verb for decisions made at the moment of speaking (spontaneous decisions).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong ngữ cảnh này, người B đang phản ứng với một tình huống bất ngờ (chuông báo động kêu) và đưa ra quyết định ngay tại thời điểm nói. Trong tiếng Anh, khi chúng ta quyết định làm gì đó ngay lúc nói (quyết định bộc phát), ta dùng 'will' + động từ nguyên thể. Vì vậy, đáp án đúng là 'will switch'.<br><ul><li><b>am switching</b> (động từ (hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra hoặc kế hoạch đã định trước. Không phù hợp vì quyết định được đưa ra ngay lúc nói, không phải đã lên kế hoạch.</li><li><b>will switch</b> (động từ (tương lai đơn)): Thì tương lai đơn, dùng cho quyết định bộc phát, lời hứa hoặc đề nghị tại thời điểm nói. Phù hợp với ngữ cảnh.</li><li><b>am going to switch</b> (động từ (tương lai gần với 'be going to')): 'Be going to' dùng cho hành động đã lên kế hoạch hoặc dự đoán dựa trên bằng chứng. Ở đây không có kế hoạch trước nên không phù hợp.</li><li><b>switch</b> (động từ (nguyên thể)): Động từ nguyên thể, không đúng ngữ pháp trong cấu trúc câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'will' + động từ nguyên thể cho quyết định được đưa ra ngay tại thời điểm nói (quyết định bộc phát).<br><br><b>Tạm dịch:</b> A: Chuông báo động đang kêu. Nó phát ra tiếng ồn kinh khủng. B: Được rồi, tôi sẽ tắt nó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this context, person B is responding to an unexpected situation (the alarm going off) and is making a decision at the moment of speaking. In English, when we decide to do something at the moment of speaking (a spontaneous decision), we use 'will' + base verb. Therefore, the correct answer is 'will switch'.<br><ul><li><b>am switching</b> (verb (present continuous)): Present continuous tense, used for actions happening right now or planned future actions. Not suitable here because the decision is made at the moment of speaking, not before.</li><li><b>will switch</b> (verb (future simple)): Future simple tense, used for spontaneous decisions, promises, or offers made at the moment of speaking. This fits the context.</li><li><b>am going to switch</b> (verb (be going to future)): 'Be going to' is used for planned actions or predictions based on evidence. Here, there is no prior plan, so it's not the best choice.</li><li><b>switch</b> (verb (base form)): Base form of the verb, not grammatically correct in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> Use 'will' + base verb for decisions made at the moment of speaking (spontaneous decisions).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032f4",
+        "questionNumber": 19,
+        "questionText": "I wonder if he ____ the job.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "takes",
+            "raw": "A. takes",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will take",
+            "raw": "B. will take",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "would take",
+            "raw": "C. would take",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has taken",
+            "raw": "D. has taken ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I wonder if he ____ the job.' requires the correct verb tense after 'if' in an indirect question. The verb 'wonder' expresses uncertainty about a future event. In English, after 'if' in this context, we use the future simple tense ('will + verb') to talk about future possibilities.<br><ul><li><b>takes</b> (verb (present simple)): Present simple tense. Used for general truths or regular actions, not for future possibilities after 'if' in this context.</li><li><b>will take</b> (verb (future simple)): Future simple tense. Used to express a future action or possibility, especially after 'if' in indirect questions.</li><li><b>would take</b> (verb (conditional)): Conditional tense. Used for hypothetical or unreal situations, not suitable here because the sentence is not conditional.</li><li><b>has taken</b> (verb (present perfect)): Present perfect tense. Used to talk about actions that happened at an unspecified time before now, not suitable for future possibilities.</li></ul><b>Related structure or vocabulary:</b> After 'wonder if', use 'will + verb' to talk about future possibilities. Structure: wonder if + subject + will + verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I wonder if he ____ the job.' cần một thì động từ phù hợp sau 'if' trong câu gián tiếp. Động từ 'wonder' diễn tả sự không chắc chắn về một sự việc trong tương lai. Trong tiếng Anh, sau 'if' trong trường hợp này, ta dùng thì tương lai đơn ('will + động từ nguyên mẫu') để nói về khả năng xảy ra trong tương lai.<br><ul><li><b>takes</b> (động từ (hiện tại đơn)): Thì hiện tại đơn. Dùng cho sự thật chung hoặc hành động lặp đi lặp lại, không phù hợp để diễn tả khả năng trong tương lai sau 'if' trong trường hợp này.</li><li><b>will take</b> (động từ (tương lai đơn)): Thì tương lai đơn. Dùng để diễn tả hành động hoặc khả năng sẽ xảy ra trong tương lai, đặc biệt sau 'if' trong câu gián tiếp.</li><li><b>would take</b> (động từ (điều kiện)): Thì điều kiện. Dùng cho tình huống giả định hoặc không có thật, không phù hợp vì câu này không phải câu điều kiện.</li><li><b>has taken</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành. Dùng để nói về hành động đã xảy ra tại một thời điểm không xác định trước hiện tại, không phù hợp để nói về khả năng trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Sau 'wonder if', dùng 'will + động từ nguyên mẫu' để nói về khả năng xảy ra trong tương lai. Cấu trúc: wonder if + chủ ngữ + will + động từ.<br><br><b>Tạm dịch:</b> Tôi tự hỏi liệu anh ấy có nhận công việc đó không.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I wonder if he ____ the job.' requires the correct verb tense after 'if' in an indirect question. The verb 'wonder' expresses uncertainty about a future event. In English, after 'if' in this context, we use the future simple tense ('will + verb') to talk about future possibilities.<br><ul><li><b>takes</b> (verb (present simple)): Present simple tense. Used for general truths or regular actions, not for future possibilities after 'if' in this context.</li><li><b>will take</b> (verb (future simple)): Future simple tense. Used to express a future action or possibility, especially after 'if' in indirect questions.</li><li><b>would take</b> (verb (conditional)): Conditional tense. Used for hypothetical or unreal situations, not suitable here because the sentence is not conditional.</li><li><b>has taken</b> (verb (present perfect)): Present perfect tense. Used to talk about actions that happened at an unspecified time before now, not suitable for future possibilities.</li></ul><b>Related structure or vocabulary:</b> After 'wonder if', use 'will + verb' to talk about future possibilities. Structure: wonder if + subject + will + verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc7cd1bfab7a5b0032f5",
+        "questionNumber": 20,
+        "questionText": "It didn’t rain in the spring. I think we ____ water next summer.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will run out of",
+            "raw": "A. will run out of",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "are going to run out of",
+            "raw": "B. are going to run out of",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have run out of",
+            "raw": "C. have run out of",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "run out of",
+            "raw": "D. run out of",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb phrase that expresses a future prediction based on present evidence. The sentence 'It didn’t rain in the spring. I think we ____ water next summer.' shows a cause (no rain in spring) and an effect (possible lack of water in the future). The phrase 'are going to run out of' is used to express a prediction based on evidence or something we see is likely to happen.<br><ul><li><b>will run out of</b> (verb phrase): Simple future tense, used for predictions or decisions made at the moment of speaking, but less strong when there is clear evidence.</li><li><b>are going to run out of</b> (verb phrase): Be going to + verb is used for predictions based on present evidence or something we see is likely to happen.</li><li><b>have run out of</b> (verb phrase): Present perfect tense, used for actions that have happened up to now, not suitable for future predictions.</li><li><b>run out of</b> (verb phrase): Base form of the verb, not correct for this sentence structure.</li></ul><b>Related structure or vocabulary:</b> Be going to + verb: used for predictions based on evidence. Example: Look at those clouds! It is going to rain.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm động từ diễn tả dự đoán trong tương lai dựa trên bằng chứng hiện tại. Câu 'It didn’t rain in the spring. I think we ____ water next summer.' cho thấy nguyên nhân (không mưa vào mùa xuân) và kết quả (có thể thiếu nước vào mùa hè tới). Cụm 'are going to run out of' được dùng để diễn tả dự đoán dựa trên bằng chứng hoặc điều gì đó mà chúng ta thấy có khả năng xảy ra.<br><ul><li><b>will run out of</b> (cụm động từ): Thì tương lai đơn, dùng cho dự đoán hoặc quyết định tại thời điểm nói, nhưng không mạnh bằng khi có bằng chứng rõ ràng.</li><li><b>are going to run out of</b> (cụm động từ): 'Be going to + động từ' dùng để dự đoán dựa trên bằng chứng hiện tại hoặc điều gì đó có khả năng xảy ra.</li><li><b>have run out of</b> (cụm động từ): Thì hiện tại hoàn thành, dùng cho hành động đã xảy ra cho đến hiện tại, không phù hợp để dự đoán tương lai.</li><li><b>run out of</b> (cụm động từ): Dạng nguyên thể của động từ, không phù hợp với cấu trúc câu này.</li></ul><b>Cấu trúc và từ vựng:</b> 'Be going to + động từ': dùng để dự đoán dựa trên bằng chứng. Ví dụ: Nhìn những đám mây kia kìa! Trời sắp mưa rồi.<br><br><b>Tạm dịch:</b> Trời không mưa vào mùa xuân. Tôi nghĩ chúng ta sẽ bị hết nước vào mùa hè tới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb phrase that expresses a future prediction based on present evidence. The sentence 'It didn’t rain in the spring. I think we ____ water next summer.' shows a cause (no rain in spring) and an effect (possible lack of water in the future). The phrase 'are going to run out of' is used to express a prediction based on evidence or something we see is likely to happen.<br><ul><li><b>will run out of</b> (verb phrase): Simple future tense, used for predictions or decisions made at the moment of speaking, but less strong when there is clear evidence.</li><li><b>are going to run out of</b> (verb phrase): Be going to + verb is used for predictions based on present evidence or something we see is likely to happen.</li><li><b>have run out of</b> (verb phrase): Present perfect tense, used for actions that have happened up to now, not suitable for future predictions.</li><li><b>run out of</b> (verb phrase): Base form of the verb, not correct for this sentence structure.</li></ul><b>Related structure or vocabulary:</b> Be going to + verb: used for predictions based on evidence. Example: Look at those clouds! It is going to rain.<br><br>"
+      }
+    }
+  ]
+}

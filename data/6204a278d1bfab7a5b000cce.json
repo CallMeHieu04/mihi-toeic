@@ -1,0 +1,768 @@
+{
+  "topicId": "6204a278d1bfab7a5b000cce",
+  "title": "PRONOUNS - Practice 5",
+  "totalCards": 19,
+  "totalQuestions": 19,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d22",
+        "questionNumber": 1,
+        "questionText": "I highly recommend your products to __________",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "other",
+            "raw": "A. other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "another",
+            "raw": "B. another",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "others",
+            "raw": "C. others",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "the other",
+            "raw": "D. the other",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I highly recommend your products to __________' requires a pronoun that refers to people. The phrase 'recommend ... to' is commonly followed by a plural pronoun when talking about people in general. 'Others' is the correct plural pronoun to refer to other people in this context.<br><ul><li><b>other</b> (adjective): 'Other' is an adjective and cannot stand alone as a pronoun in this context.</li><li><b>another</b> (pronoun/adjective): 'Another' is a singular pronoun or adjective, meaning 'one more' or 'an additional one', which does not fit here because we are talking about people in general (plural).</li><li><b>others</b> (pronoun): 'Others' is a plural pronoun, meaning 'other people' or 'other ones', which fits the context of recommending products to other people.</li><li><b>the other</b> (pronoun/adjective): 'The other' is used to refer to the second of two items or people, or the remaining one, which is not suitable here.</li></ul><b>Related structure or vocabulary:</b> recommend ... to + pronoun (others); 'others' as a plural pronoun referring to people in general<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I highly recommend your products to __________' cần một đại từ chỉ người. Cụm 'recommend ... to' thường được theo sau bởi một đại từ số nhiều khi nói về người nói chung. 'Others' là đại từ số nhiều phù hợp để chỉ những người khác trong ngữ cảnh này.<br><ul><li><b>other</b> (tính từ): 'Other' là tính từ, không thể đứng một mình như một đại từ trong trường hợp này.</li><li><b>another</b> (đại từ/tính từ): 'Another' là đại từ hoặc tính từ số ít, nghĩa là 'một cái/người khác', không phù hợp vì ở đây nói về nhiều người (số nhiều).</li><li><b>others</b> (đại từ): 'Others' là đại từ số nhiều, nghĩa là 'những người khác', phù hợp với ngữ cảnh giới thiệu sản phẩm cho những người khác.</li><li><b>the other</b> (đại từ/tính từ): 'The other' dùng để chỉ cái/người còn lại trong hai cái/người, không phù hợp trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> recommend ... to + đại từ (others); 'others' là đại từ số nhiều chỉ người nói chung<br><br><b>Tạm dịch:</b> Tôi rất khuyến khích sản phẩm của bạn tới những người khác.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I highly recommend your products to __________' requires a pronoun that refers to people. The phrase 'recommend ... to' is commonly followed by a plural pronoun when talking about people in general. 'Others' is the correct plural pronoun to refer to other people in this context.<br><ul><li><b>other</b> (adjective): 'Other' is an adjective and cannot stand alone as a pronoun in this context.</li><li><b>another</b> (pronoun/adjective): 'Another' is a singular pronoun or adjective, meaning 'one more' or 'an additional one', which does not fit here because we are talking about people in general (plural).</li><li><b>others</b> (pronoun): 'Others' is a plural pronoun, meaning 'other people' or 'other ones', which fits the context of recommending products to other people.</li><li><b>the other</b> (pronoun/adjective): 'The other' is used to refer to the second of two items or people, or the remaining one, which is not suitable here.</li></ul><b>Related structure or vocabulary:</b> recommend ... to + pronoun (others); 'others' as a plural pronoun referring to people in general<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d24",
+        "questionNumber": 2,
+        "questionText": "Although the most valuable scholarship has belonged to Victoria, __________ are still available.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "other",
+            "raw": "A. other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "others",
+            "raw": "B. others",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "the other",
+            "raw": "C. the other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "another",
+            "raw": "D. another",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a pronoun that refers to 'scholarships' in general, except for the one that already belongs to Victoria. The word 'other' can be used as an adjective before a noun, while 'others' is a pronoun that stands alone and refers to other items in the same group. Since the sentence does not repeat the noun 'scholarships' after the blank, we need a pronoun. Therefore, 'others' is the correct choice.<br><ul><li><b>other</b> (adjective): 'Other' is an adjective and must be followed by a noun (e.g., other scholarships). It cannot stand alone.</li><li><b>others</b> (pronoun): 'Others' is a pronoun that refers to other things or people in a group and can stand alone.</li><li><b>the other</b> (adjective/pronoun): 'The other' is used to refer to the last remaining item in a group of two or more, but it is usually followed by a noun or used when only one item is left.</li><li><b>another</b> (adjective/pronoun): 'Another' means 'one more' or 'an additional one' and is used with singular countable nouns.</li></ul><b>Related structure or vocabulary:</b> Use 'others' as a pronoun to refer to additional items in a group when the noun is not repeated. Structure: 'some... others...'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ thay thế cho 'scholarships' (học bổng) nói chung, ngoại trừ học bổng đã thuộc về Victoria. 'Other' là tính từ, phải đi kèm với danh từ phía sau (ví dụ: other scholarships). 'Others' là đại từ, có thể đứng một mình để chỉ những cái khác trong cùng nhóm. Vì sau chỗ trống không lặp lại danh từ 'scholarships', ta cần một đại từ. Do đó, 'others' là đáp án đúng.<br><ul><li><b>other</b> (tính từ): 'Other' là tính từ, phải đi kèm với danh từ (ví dụ: other scholarships). Không thể đứng một mình.</li><li><b>others</b> (đại từ): 'Others' là đại từ, dùng để chỉ những cái khác trong cùng nhóm và có thể đứng một mình.</li><li><b>the other</b> (tính từ/đại từ): 'The other' dùng để chỉ cái còn lại cuối cùng trong nhóm hai hoặc nhiều hơn, thường đi với danh từ hoặc khi chỉ còn một cái duy nhất.</li><li><b>another</b> (tính từ/đại từ): 'Another' nghĩa là 'một cái nữa' hoặc 'một cái bổ sung', dùng với danh từ đếm được số ít.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'others' như một đại từ để thay thế cho các danh từ số nhiều đã được nhắc đến trước đó mà không cần lặp lại. Cấu trúc: 'some... others...'.<br><br><b>Tạm dịch:</b> Mặc dù học bổng giá trị nhất đã thuộc về Victoria, những học bổng khác vẫn còn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a pronoun that refers to 'scholarships' in general, except for the one that already belongs to Victoria. The word 'other' can be used as an adjective before a noun, while 'others' is a pronoun that stands alone and refers to other items in the same group. Since the sentence does not repeat the noun 'scholarships' after the blank, we need a pronoun. Therefore, 'others' is the correct choice.<br><ul><li><b>other</b> (adjective): 'Other' is an adjective and must be followed by a noun (e.g., other scholarships). It cannot stand alone.</li><li><b>others</b> (pronoun): 'Others' is a pronoun that refers to other things or people in a group and can stand alone.</li><li><b>the other</b> (adjective/pronoun): 'The other' is used to refer to the last remaining item in a group of two or more, but it is usually followed by a noun or used when only one item is left.</li><li><b>another</b> (adjective/pronoun): 'Another' means 'one more' or 'an additional one' and is used with singular countable nouns.</li></ul><b>Related structure or vocabulary:</b> Use 'others' as a pronoun to refer to additional items in a group when the noun is not repeated. Structure: 'some... others...'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d25",
+        "questionNumber": 3,
+        "questionText": "Comparing 2 projects, this one is worth investing in rather than __________",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "others",
+            "raw": "A. others",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "other",
+            "raw": "B. other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "another",
+            "raw": "C. another ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "the other",
+            "raw": "D. the other",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after the phrase 'rather than', which is used to compare two things. In this context, we are comparing 'this project' with another project or other projects. The correct word should fit grammatically and logically after 'rather than'.<br><ul><li><b>others</b> (pronoun): 'Others' is a pronoun meaning 'other people or things'. It is used when referring to several other items in general.</li><li><b>other</b> (adjective): 'Other' is an adjective and needs to modify a noun (e.g., 'other projects'). It cannot stand alone after 'rather than' in this sentence.</li><li><b>another</b> (determiner/pronoun): 'Another' is a determiner meaning 'one more' or 'an additional one'. It is used with singular countable nouns or can stand alone to mean 'one more thing/person'.</li><li><b>the other</b> (determiner/pronoun): 'The other' refers to the second of two things or people already mentioned. It is used when there are only two items being compared.</li></ul><b>Related structure or vocabulary:</b> rather than + noun/pronoun: used to compare two or more things. 'Others' is used as a pronoun to refer to other projects in general.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống nằm sau cụm 'rather than', được dùng để so sánh hai đối tượng. Trong ngữ cảnh này, chúng ta đang so sánh 'dự án này' với các dự án khác. Từ điền vào phải phù hợp về ngữ pháp và ý nghĩa.<br><ul><li><b>others</b> (đại từ): 'Others' là đại từ, nghĩa là 'những cái khác' hoặc 'những người khác'. Dùng khi nói chung về nhiều đối tượng khác.</li><li><b>other</b> (tính từ): 'Other' là tính từ, cần đứng trước danh từ (ví dụ: 'other projects'). Không thể đứng một mình sau 'rather than' trong câu này.</li><li><b>another</b> (từ xác định/đại từ): 'Another' là từ xác định, nghĩa là 'một cái khác' hoặc 'thêm một cái nữa'. Dùng với danh từ đếm được số ít hoặc có thể đứng một mình để chỉ 'một cái nữa'.</li><li><b>the other</b> (từ xác định/đại từ): 'The other' dùng để chỉ cái thứ hai trong hai đối tượng đã được nhắc đến. Dùng khi chỉ có hai đối tượng để so sánh.</li></ul><b>Cấu trúc và từ vựng:</b> rather than + danh từ/đại từ: dùng để so sánh hai hoặc nhiều đối tượng. 'Others' dùng như đại từ để chỉ các dự án khác nói chung.<br><br><b>Tạm dịch:</b> So sánh hai dự án, dự án này đáng đầu tư hơn những dự án khác.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after the phrase 'rather than', which is used to compare two things. In this context, we are comparing 'this project' with another project or other projects. The correct word should fit grammatically and logically after 'rather than'.<br><ul><li><b>others</b> (pronoun): 'Others' is a pronoun meaning 'other people or things'. It is used when referring to several other items in general.</li><li><b>other</b> (adjective): 'Other' is an adjective and needs to modify a noun (e.g., 'other projects'). It cannot stand alone after 'rather than' in this sentence.</li><li><b>another</b> (determiner/pronoun): 'Another' is a determiner meaning 'one more' or 'an additional one'. It is used with singular countable nouns or can stand alone to mean 'one more thing/person'.</li><li><b>the other</b> (determiner/pronoun): 'The other' refers to the second of two things or people already mentioned. It is used when there are only two items being compared.</li></ul><b>Related structure or vocabulary:</b> rather than + noun/pronoun: used to compare two or more things. 'Others' is used as a pronoun to refer to other projects in general.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d23",
+        "questionNumber": 4,
+        "questionText": "If you don’t pay the loan in time, you will get a bad credit history, which makes it difficult for you to borrow __________ loan next time.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "another",
+            "raw": "A. another",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "other",
+            "raw": "B. other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "others",
+            "raw": "C. others ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "the others",
+            "raw": "D. the others",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a word to describe 'loan' (a countable singular noun). The correct choice is 'another' because 'another' is used before a singular countable noun to mean 'one more' or 'an additional one.'<br><ul><li><b>another</b> (determiner): Used before a singular countable noun to mean 'one more' or 'an additional one.'</li><li><b>other</b> (determiner/pronoun): Used before plural countable nouns or uncountable nouns, or as a pronoun, but not directly before a singular countable noun without 'the.'</li><li><b>others</b> (pronoun): A pronoun meaning 'other people or things,' not used before a noun.</li><li><b>the others</b> (noun phrase): A phrase used to refer to the remaining people or things in a group, not used before a singular noun.</li></ul><b>Related structure or vocabulary:</b> another + singular countable noun: one more of the same kind<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ để bổ nghĩa cho 'loan' (danh từ đếm được số ít). Đáp án đúng là 'another' vì 'another' được dùng trước danh từ đếm được số ít để chỉ 'một cái nữa' hoặc 'một cái khác'.<br><ul><li><b>another</b> (từ xác định): Dùng trước danh từ đếm được số ít để chỉ 'một cái nữa' hoặc 'một cái khác'.</li><li><b>other</b> (từ xác định/đại từ): Dùng trước danh từ đếm được số nhiều hoặc danh từ không đếm được, hoặc làm đại từ, nhưng không dùng trực tiếp trước danh từ đếm được số ít nếu không có 'the'.</li><li><b>others</b> (đại từ): Đại từ chỉ 'những người khác' hoặc 'những cái khác', không dùng trước danh từ.</li><li><b>the others</b> (cụm danh từ): Cụm từ dùng để chỉ những người hoặc vật còn lại trong một nhóm, không dùng trước danh từ số ít.</li></ul><b>Cấu trúc và từ vựng:</b> another + danh từ đếm được số ít: một cái nữa, một cái khác<br><br><b>Tạm dịch:</b> Nếu bạn không trả khoản vay đúng hạn, bạn sẽ có lịch sử tín dụng xấu, điều này khiến bạn khó vay một khoản vay khác vào lần sau.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a word to describe 'loan' (a countable singular noun). The correct choice is 'another' because 'another' is used before a singular countable noun to mean 'one more' or 'an additional one.'<br><ul><li><b>another</b> (determiner): Used before a singular countable noun to mean 'one more' or 'an additional one.'</li><li><b>other</b> (determiner/pronoun): Used before plural countable nouns or uncountable nouns, or as a pronoun, but not directly before a singular countable noun without 'the.'</li><li><b>others</b> (pronoun): A pronoun meaning 'other people or things,' not used before a noun.</li><li><b>the others</b> (noun phrase): A phrase used to refer to the remaining people or things in a group, not used before a singular noun.</li></ul><b>Related structure or vocabulary:</b> another + singular countable noun: one more of the same kind<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d26",
+        "questionNumber": 5,
+        "questionText": "Through social network, users have new ways to connect to __________",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the other",
+            "raw": "A. the other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "the others",
+            "raw": "B. the others",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "other",
+            "raw": "C. other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "one another",
+            "raw": "D. one another",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Through social network, users have new ways to connect to __________' requires a phrase or word that correctly completes the idea of people connecting with each other. The phrase 'connect to' is typically followed by a noun or pronoun referring to people. In this context, 'one another' is the most appropriate because it means 'each other', emphasizing mutual connection among users.<br><ul><li><b>the other</b> (pronoun/adjective): 'The other' is used to refer to the second of two things or people, or the remaining one in a specific group. It is not suitable here because the sentence refers to users in general, not just two people.</li><li><b>the others</b> (pronoun): 'The others' refers to the remaining people or things in a group. It is usually used when the group is already specified. In this context, it is not as natural as 'one another' for expressing mutual connections.</li><li><b>other</b> (adjective): 'Other' is an adjective meaning 'different or additional'. It cannot stand alone after 'to' in this sentence.</li><li><b>one another</b> (reciprocal pronoun): 'One another' is a reciprocal pronoun used to indicate that each member of a group does something to or for the other members. It is the best choice here to express mutual connection among users.</li></ul><b>Related structure or vocabulary:</b> Reciprocal pronouns: 'each other' and 'one another' are used to show that two or more people do the same thing to each other. Structure: connect to one another = connect with each other.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Through social network, users have new ways to connect to __________' cần một từ hoặc cụm từ phù hợp để hoàn thành ý nghĩa về việc người dùng kết nối với nhau. Cụm 'connect to' thường đi với danh từ hoặc đại từ chỉ người. Trong trường hợp này, 'one another' là lựa chọn phù hợp nhất vì nó mang nghĩa 'lẫn nhau', nhấn mạnh sự kết nối qua lại giữa các người dùng.<br><ul><li><b>the other</b> (đại từ/tính từ): 'The other' dùng để chỉ người hoặc vật còn lại trong hai người/vật, hoặc người/vật còn lại trong một nhóm đã xác định. Không phù hợp ở đây vì câu nói về người dùng nói chung, không chỉ hai người.</li><li><b>the others</b> (đại từ): 'The others' dùng để chỉ những người/vật còn lại trong một nhóm đã xác định. Tuy nhiên, trong ngữ cảnh này, nó không tự nhiên bằng 'one another' khi diễn đạt sự kết nối qua lại.</li><li><b>other</b> (tính từ): 'Other' là tính từ mang nghĩa 'khác' hoặc 'bổ sung'. Không thể đứng một mình sau 'to' trong câu này.</li><li><b>one another</b> (đại từ phản thân): 'One another' là đại từ phản thân dùng để chỉ sự tác động qua lại giữa các thành viên trong một nhóm. Đây là lựa chọn tốt nhất để diễn đạt sự kết nối lẫn nhau giữa các người dùng.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ phản thân: 'each other' và 'one another' dùng để chỉ hai hoặc nhiều người cùng làm điều gì đó cho nhau. Cấu trúc: connect to one another = kết nối với nhau.<br><br><b>Tạm dịch:</b> Thông qua mạng xã hội, người dùng có những cách mới để kết nối với nhau.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Through social network, users have new ways to connect to __________' requires a phrase or word that correctly completes the idea of people connecting with each other. The phrase 'connect to' is typically followed by a noun or pronoun referring to people. In this context, 'one another' is the most appropriate because it means 'each other', emphasizing mutual connection among users.<br><ul><li><b>the other</b> (pronoun/adjective): 'The other' is used to refer to the second of two things or people, or the remaining one in a specific group. It is not suitable here because the sentence refers to users in general, not just two people.</li><li><b>the others</b> (pronoun): 'The others' refers to the remaining people or things in a group. It is usually used when the group is already specified. In this context, it is not as natural as 'one another' for expressing mutual connections.</li><li><b>other</b> (adjective): 'Other' is an adjective meaning 'different or additional'. It cannot stand alone after 'to' in this sentence.</li><li><b>one another</b> (reciprocal pronoun): 'One another' is a reciprocal pronoun used to indicate that each member of a group does something to or for the other members. It is the best choice here to express mutual connection among users.</li></ul><b>Related structure or vocabulary:</b> Reciprocal pronouns: 'each other' and 'one another' are used to show that two or more people do the same thing to each other. Structure: connect to one another = connect with each other.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d27",
+        "questionNumber": 6,
+        "questionText": "The spreading of disease in Columbia is higher than ____________ in Brazil.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "this",
+            "raw": "A. this",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "these",
+            "raw": "C. these",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "those",
+            "raw": "D. those",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the spreading of disease in Columbia with that in Brazil. When making comparisons, especially when referring to a previously mentioned noun (in this case, 'the spreading of disease'), we use 'that' as a pronoun to avoid repetition. 'That' refers back to 'the spreading of disease' in Brazil.<br><ul><li><b>this</b> (pronoun): 'This' is a demonstrative pronoun used to refer to something near in time or space, but it is not used for comparisons like this.</li><li><b>that</b> (pronoun): 'That' is a demonstrative pronoun used to refer to something previously mentioned or at a distance. In comparisons, 'that' is used to avoid repeating a singular noun phrase.</li><li><b>these</b> (pronoun): 'These' is the plural form of 'this', used for plural nouns, which does not fit here because 'the spreading of disease' is singular.</li><li><b>those</b> (pronoun): 'Those' is the plural form of 'that', used for plural nouns, which does not fit here because 'the spreading of disease' is singular.</li></ul><b>Related structure or vocabulary:</b> In comparisons, use 'that' to refer back to a singular noun and 'those' for plural nouns to avoid repetition. Example: The price of this car is higher than that of the other car.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang so sánh mức độ lây lan của dịch bệnh ở Columbia với ở Brazil. Khi so sánh như vậy, đặc biệt khi muốn nhắc lại một danh từ đã đề cập trước đó (ở đây là 'the spreading of disease'), ta dùng đại từ 'that' để tránh lặp lại. 'That' ở đây thay thế cho cụm danh từ 'the spreading of disease' ở Brazil.<br><ul><li><b>this</b> (đại từ): 'This' là đại từ chỉ định dùng để chỉ vật gần về không gian hoặc thời gian, nhưng không dùng trong so sánh như trường hợp này.</li><li><b>that</b> (đại từ): 'That' là đại từ chỉ định dùng để chỉ vật đã nhắc đến trước đó hoặc ở xa. Trong so sánh, 'that' được dùng để thay thế cho một cụm danh từ số ít nhằm tránh lặp lại.</li><li><b>these</b> (đại từ): 'These' là dạng số nhiều của 'this', dùng cho danh từ số nhiều, không phù hợp vì 'the spreading of disease' là danh từ số ít.</li><li><b>those</b> (đại từ): 'Those' là dạng số nhiều của 'that', dùng cho danh từ số nhiều, không phù hợp vì 'the spreading of disease' là danh từ số ít.</li></ul><b>Cấu trúc và từ vựng:</b> Trong so sánh, dùng 'that' để thay thế cho danh từ số ít và 'those' cho danh từ số nhiều nhằm tránh lặp lại. Ví dụ: The price of this car is higher than that of the other car.<br><br><b>Tạm dịch:</b> Mức độ lây lan của dịch bệnh ở Columbia cao hơn mức độ lây lan ở Brazil.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the spreading of disease in Columbia with that in Brazil. When making comparisons, especially when referring to a previously mentioned noun (in this case, 'the spreading of disease'), we use 'that' as a pronoun to avoid repetition. 'That' refers back to 'the spreading of disease' in Brazil.<br><ul><li><b>this</b> (pronoun): 'This' is a demonstrative pronoun used to refer to something near in time or space, but it is not used for comparisons like this.</li><li><b>that</b> (pronoun): 'That' is a demonstrative pronoun used to refer to something previously mentioned or at a distance. In comparisons, 'that' is used to avoid repeating a singular noun phrase.</li><li><b>these</b> (pronoun): 'These' is the plural form of 'this', used for plural nouns, which does not fit here because 'the spreading of disease' is singular.</li><li><b>those</b> (pronoun): 'Those' is the plural form of 'that', used for plural nouns, which does not fit here because 'the spreading of disease' is singular.</li></ul><b>Related structure or vocabulary:</b> In comparisons, use 'that' to refer back to a singular noun and 'those' for plural nouns to avoid repetition. Example: The price of this car is higher than that of the other car.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d28",
+        "questionNumber": 7,
+        "questionText": "It is suggested that soldiers, especially ________ who are from rural areas, could be given an allowance.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "this",
+            "raw": "A. this",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "these",
+            "raw": "C. these",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "those",
+            "raw": "D. those",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It is suggested that soldiers, especially ________ who are from rural areas, could be given an allowance.' requires a pronoun to refer to 'soldiers' in a way that matches both number and context. 'Soldiers' is a plural noun, so the pronoun must also be plural. The correct demonstrative pronoun to refer to a plural noun that has already been mentioned is 'those.'<br><ul><li><b>this</b> (pronoun): 'This' is a singular demonstrative pronoun, used to refer to one thing or person that is near in space or time.</li><li><b>that</b> (pronoun): 'That' is also a singular demonstrative pronoun, used to refer to one thing or person that is farther away in space or time.</li><li><b>these</b> (pronoun): 'These' is a plural demonstrative pronoun, used to refer to multiple things or people that are near in space or time.</li><li><b>those</b> (pronoun): 'Those' is a plural demonstrative pronoun, used to refer to multiple things or people that are farther away in space or time, or to refer back to a previously mentioned group.</li></ul><b>Related structure or vocabulary:</b> Demonstrative pronouns: this/that (singular), these/those (plural). 'Those who' is a common structure to refer to a specific group of people previously mentioned.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'It is suggested that soldiers, especially ________ who are from rural areas, could be given an allowance.' cần một đại từ để thay thế cho 'soldiers' sao cho phù hợp về số và ngữ cảnh. 'Soldiers' là danh từ số nhiều, nên đại từ thay thế cũng phải là số nhiều. Đại từ chỉ định đúng để thay thế cho danh từ số nhiều đã được nhắc đến trước đó là 'those'.<br><ul><li><b>this</b> (đại từ): 'This' là đại từ chỉ định số ít, dùng để chỉ một người hoặc vật ở gần về không gian hoặc thời gian.</li><li><b>that</b> (đại từ): 'That' cũng là đại từ chỉ định số ít, dùng để chỉ một người hoặc vật ở xa hơn về không gian hoặc thời gian.</li><li><b>these</b> (đại từ): 'These' là đại từ chỉ định số nhiều, dùng để chỉ nhiều người hoặc vật ở gần về không gian hoặc thời gian.</li><li><b>those</b> (đại từ): 'Those' là đại từ chỉ định số nhiều, dùng để chỉ nhiều người hoặc vật ở xa hơn về không gian hoặc thời gian, hoặc để nhắc lại một nhóm đã được đề cập trước đó.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ chỉ định: this/that (số ít), these/those (số nhiều). Cấu trúc 'those who' thường dùng để chỉ một nhóm người cụ thể đã được nhắc đến.<br><br><b>Tạm dịch:</b> Người ta đề xuất rằng các binh sĩ, đặc biệt là những người đến từ vùng nông thôn, có thể được nhận một khoản trợ cấp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It is suggested that soldiers, especially ________ who are from rural areas, could be given an allowance.' requires a pronoun to refer to 'soldiers' in a way that matches both number and context. 'Soldiers' is a plural noun, so the pronoun must also be plural. The correct demonstrative pronoun to refer to a plural noun that has already been mentioned is 'those.'<br><ul><li><b>this</b> (pronoun): 'This' is a singular demonstrative pronoun, used to refer to one thing or person that is near in space or time.</li><li><b>that</b> (pronoun): 'That' is also a singular demonstrative pronoun, used to refer to one thing or person that is farther away in space or time.</li><li><b>these</b> (pronoun): 'These' is a plural demonstrative pronoun, used to refer to multiple things or people that are near in space or time.</li><li><b>those</b> (pronoun): 'Those' is a plural demonstrative pronoun, used to refer to multiple things or people that are farther away in space or time, or to refer back to a previously mentioned group.</li></ul><b>Related structure or vocabulary:</b> Demonstrative pronouns: this/that (singular), these/those (plural). 'Those who' is a common structure to refer to a specific group of people previously mentioned.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d29",
+        "questionNumber": 8,
+        "questionText": "The interest rate of JDC is much higher than __________ of SDF.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "this",
+            "raw": "A. this ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "these",
+            "raw": "C. these ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "those",
+            "raw": "D. those",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The interest rate of JDC is much higher than __________ of SDF.' requires a word that refers back to 'the interest rate' to avoid repetition. In English, when comparing singular countable nouns, we use 'that' to refer to the singular noun mentioned earlier. 'Those' is used for plural nouns, while 'this' and 'these' are demonstratives used to indicate something near in distance or time, not for comparisons like this.<br><ul><li><b>this</b> (demonstrative pronoun): 'This' is a demonstrative pronoun used to indicate something close in distance or time. It is not used for comparisons in this context.</li><li><b>that</b> (demonstrative pronoun): 'That' is a demonstrative pronoun used to refer back to a singular noun previously mentioned, especially in comparisons to avoid repetition.</li><li><b>these</b> (demonstrative pronoun): 'These' is the plural form of 'this', used for plural nouns close in distance or time. It is not suitable here because 'interest rate' is singular.</li><li><b>those</b> (demonstrative pronoun): 'Those' is the plural form of 'that', used for plural nouns previously mentioned. It is not suitable here because 'interest rate' is singular.</li></ul><b>Related structure or vocabulary:</b> In comparisons, 'that' is used to refer to a singular noun mentioned earlier to avoid repetition. Structure: ... higher than that of ... (singular); ... higher than those of ... (plural).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The interest rate of JDC is much higher than __________ of SDF.' cần một từ thay thế cho 'the interest rate' để tránh lặp lại. Trong tiếng Anh, khi so sánh danh từ đếm được số ít, ta dùng 'that' để thay thế cho danh từ số ít đã nhắc đến trước đó. 'Those' dùng cho danh từ số nhiều, còn 'this' và 'these' là các đại từ chỉ định dùng để chỉ vật ở gần về khoảng cách hoặc thời gian, không phù hợp trong so sánh như thế này.<br><ul><li><b>this</b> (đại từ chỉ định): 'This' là đại từ chỉ định dùng để chỉ vật ở gần về khoảng cách hoặc thời gian. Không dùng trong so sánh như trường hợp này.</li><li><b>that</b> (đại từ chỉ định): 'That' là đại từ chỉ định dùng để thay thế cho danh từ số ít đã nhắc đến trước đó, đặc biệt trong so sánh để tránh lặp lại.</li><li><b>these</b> (đại từ chỉ định): 'These' là dạng số nhiều của 'this', dùng cho danh từ số nhiều ở gần về khoảng cách hoặc thời gian. Không phù hợp vì 'interest rate' là danh từ số ít.</li><li><b>those</b> (đại từ chỉ định): 'Those' là dạng số nhiều của 'that', dùng cho danh từ số nhiều đã nhắc đến trước đó. Không phù hợp vì 'interest rate' là danh từ số ít.</li></ul><b>Cấu trúc và từ vựng:</b> Trong so sánh, 'that' dùng để thay thế cho danh từ số ít đã nhắc đến trước đó để tránh lặp lại. Cấu trúc: ... higher than that of ... (số ít); ... higher than those of ... (số nhiều).<br><br><b>Tạm dịch:</b> Tỷ lệ lãi suất của JDC cao hơn nhiều so với tỷ lệ của SDF.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The interest rate of JDC is much higher than __________ of SDF.' requires a word that refers back to 'the interest rate' to avoid repetition. In English, when comparing singular countable nouns, we use 'that' to refer to the singular noun mentioned earlier. 'Those' is used for plural nouns, while 'this' and 'these' are demonstratives used to indicate something near in distance or time, not for comparisons like this.<br><ul><li><b>this</b> (demonstrative pronoun): 'This' is a demonstrative pronoun used to indicate something close in distance or time. It is not used for comparisons in this context.</li><li><b>that</b> (demonstrative pronoun): 'That' is a demonstrative pronoun used to refer back to a singular noun previously mentioned, especially in comparisons to avoid repetition.</li><li><b>these</b> (demonstrative pronoun): 'These' is the plural form of 'this', used for plural nouns close in distance or time. It is not suitable here because 'interest rate' is singular.</li><li><b>those</b> (demonstrative pronoun): 'Those' is the plural form of 'that', used for plural nouns previously mentioned. It is not suitable here because 'interest rate' is singular.</li></ul><b>Related structure or vocabulary:</b> In comparisons, 'that' is used to refer to a singular noun mentioned earlier to avoid repetition. Structure: ... higher than that of ... (singular); ... higher than those of ... (plural).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d2a",
+        "questionNumber": 9,
+        "questionText": "Only __________ with VVIP ticket have the opportunity to be invited to the stage.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "this",
+            "raw": "A. this ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "these",
+            "raw": "C. these ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "those",
+            "raw": "D. those",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a demonstrative pronoun that refers to people who have VVIP tickets. Since 'people' is plural, we need a plural demonstrative pronoun. The correct plural demonstrative pronouns in English are 'these' (for things/people near the speaker) and 'those' (for things/people far from the speaker). In this context, 'those' is used to refer to a specific group of people (those with VVIP tickets) who are distinguished from others.<br><ul><li><b>this</b> (pronoun): Singular demonstrative pronoun, used for one thing/person near the speaker.</li><li><b>that</b> (pronoun): Singular demonstrative pronoun, used for one thing/person far from the speaker.</li><li><b>these</b> (pronoun): Plural demonstrative pronoun, used for things/people near the speaker.</li><li><b>those</b> (pronoun): Plural demonstrative pronoun, used for things/people far from the speaker or to specify a particular group.</li></ul><b>Related structure or vocabulary:</b> Demonstrative pronouns: this/that (singular), these/those (plural). Structure: Only those with [something] have [opportunity/permission].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ chỉ định dùng để chỉ những người có vé VVIP. Vì 'người' ở đây là số nhiều, ta cần dùng đại từ chỉ định số nhiều. Trong tiếng Anh, đại từ chỉ định số nhiều là 'these' (chỉ người/vật ở gần) và 'those' (chỉ người/vật ở xa hoặc một nhóm cụ thể). Trong ngữ cảnh này, 'those' được dùng để chỉ một nhóm người cụ thể (những người có vé VVIP) được phân biệt với những người khác.<br><ul><li><b>this</b> (đại từ): Đại từ chỉ định số ít, dùng cho một người/vật ở gần người nói.</li><li><b>that</b> (đại từ): Đại từ chỉ định số ít, dùng cho một người/vật ở xa người nói.</li><li><b>these</b> (đại từ): Đại từ chỉ định số nhiều, dùng cho người/vật ở gần người nói.</li><li><b>those</b> (đại từ): Đại từ chỉ định số nhiều, dùng cho người/vật ở xa hoặc để chỉ một nhóm cụ thể.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ chỉ định: this/that (số ít), these/those (số nhiều). Cấu trúc: Only those with [something] have [opportunity/permission].<br><br><b>Tạm dịch:</b> Chỉ những người có vé VVIP mới có cơ hội được mời lên sân khấu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a demonstrative pronoun that refers to people who have VVIP tickets. Since 'people' is plural, we need a plural demonstrative pronoun. The correct plural demonstrative pronouns in English are 'these' (for things/people near the speaker) and 'those' (for things/people far from the speaker). In this context, 'those' is used to refer to a specific group of people (those with VVIP tickets) who are distinguished from others.<br><ul><li><b>this</b> (pronoun): Singular demonstrative pronoun, used for one thing/person near the speaker.</li><li><b>that</b> (pronoun): Singular demonstrative pronoun, used for one thing/person far from the speaker.</li><li><b>these</b> (pronoun): Plural demonstrative pronoun, used for things/people near the speaker.</li><li><b>those</b> (pronoun): Plural demonstrative pronoun, used for things/people far from the speaker or to specify a particular group.</li></ul><b>Related structure or vocabulary:</b> Demonstrative pronouns: this/that (singular), these/those (plural). Structure: Only those with [something] have [opportunity/permission].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d2b",
+        "questionNumber": 10,
+        "questionText": "It is proved that children in families which adopt pets are friendlier and smarter than __________ who do not.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "this",
+            "raw": "A. this ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "anyone",
+            "raw": "B. anyone ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "that",
+            "raw": "C. that ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "those",
+            "raw": "D. those",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a pronoun that refers to 'children in families which adopt pets' and is used for comparison with another group. In English, when comparing groups of people, we use 'those' as a plural demonstrative pronoun. The sentence structure is: '...children in families which adopt pets are friendlier and smarter than those who do not.'<br><ul><li><b>this</b> (pronoun): 'This' is a singular demonstrative pronoun, used to refer to a single object or person close to the speaker. It cannot be used to refer to a plural group in this context.</li><li><b>anyone</b> (pronoun): 'Anyone' is an indefinite pronoun, used to refer to any person, but it is singular and does not fit the plural comparison needed here.</li><li><b>that</b> (pronoun): 'That' is a singular demonstrative pronoun, used for singular nouns or groups, not appropriate for plural comparison.</li><li><b>those</b> (pronoun): 'Those' is a plural demonstrative pronoun, used to refer to a group of people or things previously mentioned or implied. It is the correct choice for comparing two groups of people.</li></ul><b>Related structure or vocabulary:</b> Use of 'those' as a plural demonstrative pronoun for comparison: '... than those who ...'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu yêu cầu một đại từ dùng để chỉ 'children in families which adopt pets' và dùng để so sánh với một nhóm khác. Trong tiếng Anh, khi so sánh giữa các nhóm người, ta dùng 'those' như một đại từ chỉ định số nhiều. Cấu trúc câu là: '...children in families which adopt pets are friendlier and smarter than those who do not.'<br><ul><li><b>this</b> (đại từ): 'This' là đại từ chỉ định số ít, dùng để chỉ một vật hoặc người gần người nói. Không thể dùng để chỉ một nhóm số nhiều trong trường hợp này.</li><li><b>anyone</b> (đại từ): 'Anyone' là đại từ bất định, dùng để chỉ bất kỳ ai, nhưng là số ít và không phù hợp với so sánh số nhiều ở đây.</li><li><b>that</b> (đại từ): 'That' là đại từ chỉ định số ít, dùng cho danh từ hoặc nhóm số ít, không phù hợp với so sánh số nhiều.</li><li><b>those</b> (đại từ): 'Those' là đại từ chỉ định số nhiều, dùng để chỉ một nhóm người hoặc vật đã được nhắc đến hoặc ngụ ý trước đó. Đây là lựa chọn đúng để so sánh hai nhóm người.</li></ul><b>Cấu trúc và từ vựng:</b> Cách dùng 'those' làm đại từ chỉ định số nhiều trong so sánh: '... than those who ...'<br><br><b>Tạm dịch:</b> Câu hỏi: It is proved that children in families which adopt pets are friendlier and smarter than __________ who do not. \nĐáp án đúng là D. those. \nGiải thích: Chỗ trống cần một đại từ chỉ định số nhiều để so sánh hai nhóm trẻ em: nhóm có nuôi thú cưng và nhóm không nuôi. 'Those' là đại từ chỉ định số nhiều, phù hợp để so sánh hai nhóm người trong câu này. Các lựa chọn khác đều là đại từ số ít hoặc không phù hợp với ngữ cảnh so sánh nhóm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a pronoun that refers to 'children in families which adopt pets' and is used for comparison with another group. In English, when comparing groups of people, we use 'those' as a plural demonstrative pronoun. The sentence structure is: '...children in families which adopt pets are friendlier and smarter than those who do not.'<br><ul><li><b>this</b> (pronoun): 'This' is a singular demonstrative pronoun, used to refer to a single object or person close to the speaker. It cannot be used to refer to a plural group in this context.</li><li><b>anyone</b> (pronoun): 'Anyone' is an indefinite pronoun, used to refer to any person, but it is singular and does not fit the plural comparison needed here.</li><li><b>that</b> (pronoun): 'That' is a singular demonstrative pronoun, used for singular nouns or groups, not appropriate for plural comparison.</li><li><b>those</b> (pronoun): 'Those' is a plural demonstrative pronoun, used to refer to a group of people or things previously mentioned or implied. It is the correct choice for comparing two groups of people.</li></ul><b>Related structure or vocabulary:</b> Use of 'those' as a plural demonstrative pronoun for comparison: '... than those who ...'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d2c",
+        "questionNumber": 11,
+        "questionText": "Your interests dominate __________ the public.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "them of",
+            "raw": "A. them of ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "this of",
+            "raw": "B. this of ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "that of",
+            "raw": "C. that of ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "those of",
+            "raw": "D. those of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing 'your interests' with 'the interests of the public.' When comparing a plural noun (interests) with another group, we use 'those of' to refer back to the plural noun. The structure is: [plural noun] + those of + [group].<br><ul><li><b>them of</b> (pronoun + preposition): 'Them' is a pronoun, but it cannot be used with 'of' in this structure to refer to plural nouns in comparisons.</li><li><b>this of</b> (demonstrative pronoun + preposition): 'This' is a singular demonstrative pronoun, which does not match the plural noun 'interests.'</li><li><b>that of</b> (demonstrative pronoun + preposition): 'That of' is used to refer to a singular noun, but 'interests' is plural, so it is not correct here.</li><li><b>those of</b> (demonstrative pronoun + preposition): 'Those of' is the correct phrase to refer back to a plural noun (interests) in comparisons.</li></ul><b>Related structure or vocabulary:</b> When comparing nouns, use 'that of' for singular nouns and 'those of' for plural nouns. Example: 'The opinions of the committee differ from those of the public.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang so sánh 'your interests' (những lợi ích của bạn) với 'the interests of the public' (lợi ích của công chúng). Khi so sánh một danh từ số nhiều (interests) với một nhóm khác, ta dùng 'those of' để thay thế cho danh từ số nhiều đã nhắc đến trước đó. Cấu trúc là: [danh từ số nhiều] + those of + [nhóm].<br><ul><li><b>them of</b> (đại từ + giới từ): 'Them' là đại từ, nhưng không thể dùng với 'of' trong cấu trúc này để thay thế cho danh từ số nhiều khi so sánh.</li><li><b>this of</b> (đại từ chỉ định + giới từ): 'This' là đại từ chỉ định số ít, không phù hợp với danh từ số nhiều 'interests'.</li><li><b>that of</b> (đại từ chỉ định + giới từ): 'That of' dùng để thay thế cho danh từ số ít, nhưng 'interests' là danh từ số nhiều nên không đúng.</li><li><b>those of</b> (đại từ chỉ định + giới từ): 'Those of' là cụm từ đúng để thay thế cho danh từ số nhiều (interests) trong so sánh.</li></ul><b>Cấu trúc và từ vựng:</b> Khi so sánh các danh từ, dùng 'that of' cho danh từ số ít và 'those of' cho danh từ số nhiều. Ví dụ: 'The opinions of the committee differ from those of the public.' (Ý kiến của ủy ban khác với ý kiến của công chúng.)<br><br><b>Tạm dịch:</b> Lợi ích của bạn chiếm ưu thế so với lợi ích của công chúng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing 'your interests' with 'the interests of the public.' When comparing a plural noun (interests) with another group, we use 'those of' to refer back to the plural noun. The structure is: [plural noun] + those of + [group].<br><ul><li><b>them of</b> (pronoun + preposition): 'Them' is a pronoun, but it cannot be used with 'of' in this structure to refer to plural nouns in comparisons.</li><li><b>this of</b> (demonstrative pronoun + preposition): 'This' is a singular demonstrative pronoun, which does not match the plural noun 'interests.'</li><li><b>that of</b> (demonstrative pronoun + preposition): 'That of' is used to refer to a singular noun, but 'interests' is plural, so it is not correct here.</li><li><b>those of</b> (demonstrative pronoun + preposition): 'Those of' is the correct phrase to refer back to a plural noun (interests) in comparisons.</li></ul><b>Related structure or vocabulary:</b> When comparing nouns, use 'that of' for singular nouns and 'those of' for plural nouns. Example: 'The opinions of the committee differ from those of the public.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d2d",
+        "questionNumber": 12,
+        "questionText": "The birth rate of Cambodia is lower than __________ of Portugal.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that",
+            "raw": "A. that",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "these",
+            "raw": "B. these ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "those",
+            "raw": "C. those ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "this",
+            "raw": "D. this",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the birth rate of Cambodia with that of Portugal. When comparing singular countable nouns (like 'birth rate'), we use 'that' to avoid repeating the noun. The correct structure is: 'the birth rate of Cambodia is lower than that of Portugal.'<br><ul><li><b>that</b> (pronoun): 'That' is a pronoun used to refer back to a singular noun mentioned earlier, in this case, 'birth rate.'</li><li><b>these</b> (pronoun): 'These' is a demonstrative pronoun used for plural nouns, not suitable here because 'birth rate' is singular.</li><li><b>those</b> (pronoun): 'Those' is a demonstrative pronoun used for plural nouns, not suitable here because 'birth rate' is singular.</li><li><b>this</b> (pronoun): 'This' is a demonstrative pronoun used for singular nouns, but it refers to something close in time or space, not for comparisons like this.</li></ul><b>Related structure or vocabulary:</b> When comparing the same noun for two different subjects, use 'that' for singular nouns and 'those' for plural nouns. Example: 'The population of Vietnam is larger than that of Laos.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang so sánh tỉ lệ sinh của Campuchia với tỉ lệ sinh của Bồ Đào Nha. Khi so sánh các danh từ đếm được số ít (như 'birth rate'), ta dùng 'that' để tránh lặp lại danh từ. Cấu trúc đúng là: 'the birth rate of Cambodia is lower than that of Portugal.'<br><ul><li><b>that</b> (đại từ): 'That' là đại từ dùng để thay thế cho danh từ số ít đã được nhắc đến trước đó, ở đây là 'birth rate'.</li><li><b>these</b> (đại từ): 'These' là đại từ chỉ định dùng cho danh từ số nhiều, không phù hợp vì 'birth rate' là danh từ số ít.</li><li><b>those</b> (đại từ): 'Those' là đại từ chỉ định dùng cho danh từ số nhiều, không phù hợp vì 'birth rate' là danh từ số ít.</li><li><b>this</b> (đại từ): 'This' là đại từ chỉ định dùng cho danh từ số ít, nhưng thường dùng để chỉ cái gì đó gần về không gian hoặc thời gian, không dùng trong so sánh như trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Khi so sánh cùng một danh từ của hai chủ thể khác nhau, dùng 'that' cho danh từ số ít và 'those' cho danh từ số nhiều. Ví dụ: 'The population of Vietnam is larger than that of Laos.'<br><br><b>Tạm dịch:</b> Tỉ lệ sinh của Campuchia thấp hơn tỉ lệ sinh của Bồ Đào Nha.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the birth rate of Cambodia with that of Portugal. When comparing singular countable nouns (like 'birth rate'), we use 'that' to avoid repeating the noun. The correct structure is: 'the birth rate of Cambodia is lower than that of Portugal.'<br><ul><li><b>that</b> (pronoun): 'That' is a pronoun used to refer back to a singular noun mentioned earlier, in this case, 'birth rate.'</li><li><b>these</b> (pronoun): 'These' is a demonstrative pronoun used for plural nouns, not suitable here because 'birth rate' is singular.</li><li><b>those</b> (pronoun): 'Those' is a demonstrative pronoun used for plural nouns, not suitable here because 'birth rate' is singular.</li><li><b>this</b> (pronoun): 'This' is a demonstrative pronoun used for singular nouns, but it refers to something close in time or space, not for comparisons like this.</li></ul><b>Related structure or vocabulary:</b> When comparing the same noun for two different subjects, use 'that' for singular nouns and 'those' for plural nouns. Example: 'The population of Vietnam is larger than that of Laos.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d2f",
+        "questionNumber": 13,
+        "questionText": "Kasper Montana shared that the unlimited imagination from childhood inspired ________ to write her best-seller book.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "she",
+            "raw": "A. she ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "her",
+            "raw": "B. her",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "hers",
+            "raw": "C. hers ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "herself",
+            "raw": "D. herself",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Kasper Montana shared that the unlimited imagination from childhood inspired ________ to write her best-seller book.' requires an object pronoun because it is the object of the verb 'inspired.' The subject 'the unlimited imagination from childhood' inspired someone, and that someone is Kasper Montana (a female, as indicated by 'her best-seller book'). The correct object pronoun for a female is 'her.'<br><ul><li><b>she</b> (subject pronoun): 'She' is a subject pronoun, used as the subject of a sentence (e.g., She writes books). It cannot be used as the object of a verb.</li><li><b>her</b> (object pronoun): 'Her' is an object pronoun, used as the object of a verb or preposition (e.g., I saw her). It is the correct choice here.</li><li><b>hers</b> (possessive pronoun): 'Hers' is a possessive pronoun, used to show ownership (e.g., The book is hers). It cannot be used as the object of a verb.</li><li><b>herself</b> (reflexive pronoun): 'Herself' is a reflexive pronoun, used when the subject and object are the same person (e.g., She did it herself). It is not appropriate here.</li></ul><b>Related structure or vocabulary:</b> Object pronouns (me, you, him, her, it, us, them) are used as the object of a verb or preposition.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Kasper Montana shared that the unlimited imagination from childhood inspired ________ to write her best-seller book.' cần một đại từ tân ngữ vì nó là tân ngữ của động từ 'inspired.' Chủ ngữ 'the unlimited imagination from childhood' đã truyền cảm hứng cho ai đó, và người đó là Kasper Montana (nữ, thể hiện qua 'her best-seller book'). Đại từ tân ngữ phù hợp cho nữ là 'her.'<br><ul><li><b>she</b> (đại từ chủ ngữ): 'She' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu (ví dụ: She writes books). Không thể dùng làm tân ngữ của động từ.</li><li><b>her</b> (đại từ tân ngữ): 'Her' là đại từ tân ngữ, dùng làm tân ngữ của động từ hoặc giới từ (ví dụ: I saw her). Đây là đáp án đúng.</li><li><b>hers</b> (đại từ sở hữu): 'Hers' là đại từ sở hữu, dùng để chỉ quyền sở hữu (ví dụ: The book is hers). Không thể dùng làm tân ngữ của động từ.</li><li><b>herself</b> (đại từ phản thân): 'Herself' là đại từ phản thân, dùng khi chủ ngữ và tân ngữ là cùng một người (ví dụ: She did it herself). Không phù hợp trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ tân ngữ (me, you, him, her, it, us, them) được dùng làm tân ngữ của động từ hoặc giới từ.<br><br><b>Tạm dịch:</b> Kasper Montana chia sẻ rằng trí tưởng tượng không giới hạn từ thời thơ ấu đã truyền cảm hứng cho cô ấy để viết cuốn sách bán chạy nhất của mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Kasper Montana shared that the unlimited imagination from childhood inspired ________ to write her best-seller book.' requires an object pronoun because it is the object of the verb 'inspired.' The subject 'the unlimited imagination from childhood' inspired someone, and that someone is Kasper Montana (a female, as indicated by 'her best-seller book'). The correct object pronoun for a female is 'her.'<br><ul><li><b>she</b> (subject pronoun): 'She' is a subject pronoun, used as the subject of a sentence (e.g., She writes books). It cannot be used as the object of a verb.</li><li><b>her</b> (object pronoun): 'Her' is an object pronoun, used as the object of a verb or preposition (e.g., I saw her). It is the correct choice here.</li><li><b>hers</b> (possessive pronoun): 'Hers' is a possessive pronoun, used to show ownership (e.g., The book is hers). It cannot be used as the object of a verb.</li><li><b>herself</b> (reflexive pronoun): 'Herself' is a reflexive pronoun, used when the subject and object are the same person (e.g., She did it herself). It is not appropriate here.</li></ul><b>Related structure or vocabulary:</b> Object pronouns (me, you, him, her, it, us, them) are used as the object of a verb or preposition.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d30",
+        "questionNumber": 14,
+        "questionText": "The manager appreciated her dedication for the company and offer ________ a pay raise.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "B",
+            "text": "hers",
+            "raw": "B. hers ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "her",
+            "raw": "C. her",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "him",
+            "raw": "D. him",
+            "isCorrect": false
+          },
+          {
+            "letter": "A",
+            "text": "she",
+            "raw": "a. she ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the verb 'offer,' which requires an object pronoun to indicate to whom the pay raise is being offered. The correct object pronoun for 'her' is 'her.'<br><ul><li><b>hers</b> (possessive pronoun): 'Hers' is a possessive pronoun, used to indicate possession, not as an object of a verb.</li><li><b>her</b> (object pronoun): 'Her' is an object pronoun, used as the object of a verb or preposition.</li><li><b>him</b> (object pronoun): 'Him' is an object pronoun, but refers to a male, while the subject is 'her.'</li><li><b>she</b> (subject pronoun): 'She' is a subject pronoun, used as the subject of a sentence, not as an object.</li></ul><b>Related structure or vocabulary:</b> Verb + object pronoun: After verbs like 'offer,' we use an object pronoun to indicate the receiver of the action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống đứng sau động từ 'offer' (đề nghị), cần một đại từ tân ngữ để chỉ người nhận sự tăng lương. Đại từ tân ngữ phù hợp cho 'her' là 'her'.<br><ul><li><b>hers</b> (đại từ sở hữu): 'Hers' là đại từ sở hữu, dùng để chỉ sự sở hữu, không dùng làm tân ngữ cho động từ.</li><li><b>her</b> (đại từ tân ngữ): 'Her' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ.</li><li><b>him</b> (đại từ tân ngữ): 'Him' là đại từ tân ngữ nhưng dùng cho nam giới, trong khi chủ ngữ ở đây là nữ.</li><li><b>she</b> (đại từ chủ ngữ): 'She' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không dùng làm tân ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ + đại từ tân ngữ: Sau các động từ như 'offer', ta dùng đại từ tân ngữ để chỉ người nhận hành động.<br><br><b>Tạm dịch:</b> Người quản lý đánh giá cao sự cống hiến của cô ấy cho công ty và đề nghị TĂNG LƯƠNG cho cô ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the verb 'offer,' which requires an object pronoun to indicate to whom the pay raise is being offered. The correct object pronoun for 'her' is 'her.'<br><ul><li><b>hers</b> (possessive pronoun): 'Hers' is a possessive pronoun, used to indicate possession, not as an object of a verb.</li><li><b>her</b> (object pronoun): 'Her' is an object pronoun, used as the object of a verb or preposition.</li><li><b>him</b> (object pronoun): 'Him' is an object pronoun, but refers to a male, while the subject is 'her.'</li><li><b>she</b> (subject pronoun): 'She' is a subject pronoun, used as the subject of a sentence, not as an object.</li></ul><b>Related structure or vocabulary:</b> Verb + object pronoun: After verbs like 'offer,' we use an object pronoun to indicate the receiver of the action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d31",
+        "questionNumber": 15,
+        "questionText": "Employees in the factory are encouraged to improve ________ productivity.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "their",
+            "raw": "A. their",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "them",
+            "raw": "B. them ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "they",
+            "raw": "C. they ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "themselves",
+            "raw": "D. themselves",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Employees in the factory are encouraged to improve ________ productivity.' requires a possessive adjective to show that the productivity belongs to the employees. The possessive adjective 'their' is used to indicate possession for plural nouns like 'employees'.<br><ul><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective used to show that something belongs to 'them' (plural). In this context, it refers to the productivity of the employees.</li><li><b>them</b> (object pronoun): 'Them' is an object pronoun, used as the object of a verb or preposition, not to show possession.</li><li><b>they</b> (subject pronoun): 'They' is a subject pronoun, used as the subject of a sentence, not to show possession.</li><li><b>themselves</b> (reflexive pronoun): 'Themselves' is a reflexive pronoun, used to refer back to the subject, not to show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relationship.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Employees in the factory are encouraged to improve ________ productivity.' cần một tính từ sở hữu để chỉ rằng năng suất thuộc về các nhân viên. 'Their' là tính từ sở hữu dùng cho danh từ số nhiều như 'employees'.<br><ul><li><b>their</b> (tính từ sở hữu): 'Their' là tính từ sở hữu, dùng để chỉ sự sở hữu của 'họ' (số nhiều). Trong trường hợp này, nó chỉ năng suất của các nhân viên.</li><li><b>them</b> (đại từ tân ngữ): 'Them' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ, không dùng để chỉ sự sở hữu.</li><li><b>they</b> (đại từ chủ ngữ): 'They' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không dùng để chỉ sự sở hữu.</li><li><b>themselves</b> (đại từ phản thân): 'Themselves' là đại từ phản thân, dùng để nhấn mạnh hoặc chỉ chính chủ ngữ, không dùng để chỉ sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) được dùng trước danh từ để chỉ sự sở hữu hoặc mối quan hệ.<br><br><b>Tạm dịch:</b> Nhân viên trong nhà máy được khuyến khích cải thiện năng suất của họ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Employees in the factory are encouraged to improve ________ productivity.' requires a possessive adjective to show that the productivity belongs to the employees. The possessive adjective 'their' is used to indicate possession for plural nouns like 'employees'.<br><ul><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective used to show that something belongs to 'them' (plural). In this context, it refers to the productivity of the employees.</li><li><b>them</b> (object pronoun): 'Them' is an object pronoun, used as the object of a verb or preposition, not to show possession.</li><li><b>they</b> (subject pronoun): 'They' is a subject pronoun, used as the subject of a sentence, not to show possession.</li><li><b>themselves</b> (reflexive pronoun): 'Themselves' is a reflexive pronoun, used to refer back to the subject, not to show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relationship.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d32",
+        "questionNumber": 16,
+        "questionText": "Gilbert had to cope with the problems by ________ as he promised to take all the responsibility for this project.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "him",
+            "raw": "A. him ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "his",
+            "raw": "B. his ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "he",
+            "raw": "C. he ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "himself",
+            "raw": "D. himself",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a reflexive pronoun because the subject 'Gilbert' is performing the action on himself. The phrase 'cope with the problems by ________' needs a reflexive pronoun to indicate that Gilbert is managing the problems by relying on himself, especially since he promised to take all the responsibility.<br><ul><li><b>him</b> (pronoun): Object pronoun, used as the object of a verb or preposition, not suitable after 'by' to indicate reflexive action.</li><li><b>his</b> (possessive adjective): Possessive adjective, used to show ownership, not appropriate here.</li><li><b>he</b> (pronoun): Subject pronoun, used as the subject of a sentence, not after a preposition.</li><li><b>himself</b> (reflexive pronoun): Reflexive pronoun, used when the subject and the object are the same person. Correct choice after 'by' to show that Gilbert is coping by relying on himself.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) are used when the subject and the object of the verb are the same person or thing. The structure 'by + reflexive pronoun' means 'alone' or 'without help from others'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ phản thân vì chủ ngữ 'Gilbert' đang thực hiện hành động lên chính bản thân mình. Cụm từ 'cope with the problems by ________' cần một đại từ phản thân để chỉ rằng Gilbert đang tự mình giải quyết các vấn đề, đặc biệt là khi anh ấy đã hứa sẽ chịu toàn bộ trách nhiệm cho dự án này.<br><ul><li><b>him</b> (đại từ): Đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ, không phù hợp sau 'by' để chỉ hành động phản thân.</li><li><b>his</b> (tính từ sở hữu): Tính từ sở hữu, dùng để chỉ sự sở hữu, không phù hợp trong trường hợp này.</li><li><b>he</b> (đại từ): Đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không dùng sau giới từ.</li><li><b>himself</b> (đại từ phản thân): Đại từ phản thân, dùng khi chủ ngữ và tân ngữ là cùng một người. Đáp án đúng sau 'by' để chỉ rằng Gilbert tự mình đối mặt với vấn đề.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ phản thân (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) được dùng khi chủ ngữ và tân ngữ là cùng một người hoặc vật. Cấu trúc 'by + đại từ phản thân' mang nghĩa 'một mình' hoặc 'không có sự giúp đỡ của ai khác'.<br><br><b>Tạm dịch:</b> Gilbert đã phải đối mặt với các vấn đề bằng cách tự mình giải quyết như anh ấy đã hứa sẽ chịu toàn bộ trách nhiệm cho dự án này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a reflexive pronoun because the subject 'Gilbert' is performing the action on himself. The phrase 'cope with the problems by ________' needs a reflexive pronoun to indicate that Gilbert is managing the problems by relying on himself, especially since he promised to take all the responsibility.<br><ul><li><b>him</b> (pronoun): Object pronoun, used as the object of a verb or preposition, not suitable after 'by' to indicate reflexive action.</li><li><b>his</b> (possessive adjective): Possessive adjective, used to show ownership, not appropriate here.</li><li><b>he</b> (pronoun): Subject pronoun, used as the subject of a sentence, not after a preposition.</li><li><b>himself</b> (reflexive pronoun): Reflexive pronoun, used when the subject and the object are the same person. Correct choice after 'by' to show that Gilbert is coping by relying on himself.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) are used when the subject and the object of the verb are the same person or thing. The structure 'by + reflexive pronoun' means 'alone' or 'without help from others'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d33",
+        "questionNumber": 17,
+        "questionText": "The interviewers are eliminating ________ who were unqualified for the position.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "them",
+            "raw": "A. them ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "themselves",
+            "raw": "B. themselves ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "those",
+            "raw": "C. those",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "that",
+            "raw": "D. that",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The interviewers are eliminating ________ who were unqualified for the position.' requires a word that refers to people and can be followed by a relative clause ('who were unqualified for the position'). In English, 'those' is used to refer to people in a general sense, especially when followed by a relative clause. Therefore, 'those' is the correct choice.<br><ul><li><b>them</b> (pronoun): 'Them' is an object pronoun and cannot be followed directly by a relative clause ('who were unqualified...').</li><li><b>themselves</b> (reflexive pronoun): 'Themselves' is a reflexive pronoun and is not used as a subject or to introduce a relative clause.</li><li><b>those</b> (demonstrative pronoun): 'Those' is a demonstrative pronoun that can refer to people and can be followed by a relative clause ('those who...').</li><li><b>that</b> (demonstrative/relative pronoun): 'That' is a demonstrative pronoun or a relative pronoun, but in this context, it cannot refer to people in the plural form.</li></ul><b>Related structure or vocabulary:</b> those who + relative clause: used to refer to people in general. Example: Those who arrive late will not be admitted.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The interviewers are eliminating ________ who were unqualified for the position.' cần một từ chỉ người và có thể đứng trước mệnh đề quan hệ ('who were unqualified for the position'). Trong tiếng Anh, 'those' được dùng để chỉ người một cách chung chung, đặc biệt khi theo sau là mệnh đề quan hệ. Vì vậy, 'those' là đáp án đúng.<br><ul><li><b>them</b> (đại từ tân ngữ): 'Them' là đại từ tân ngữ và không thể đứng trước mệnh đề quan hệ ('who were unqualified...').</li><li><b>themselves</b> (đại từ phản thân): 'Themselves' là đại từ phản thân, không dùng làm chủ ngữ hoặc để giới thiệu mệnh đề quan hệ.</li><li><b>those</b> (đại từ chỉ định): 'Those' là đại từ chỉ định, có thể dùng để chỉ người và đứng trước mệnh đề quan hệ ('those who...').</li><li><b>that</b> (đại từ chỉ định/đại từ quan hệ): 'That' là đại từ chỉ định hoặc đại từ quan hệ, nhưng trong trường hợp này không dùng để chỉ người ở dạng số nhiều.</li></ul><b>Cấu trúc và từ vựng:</b> those who + mệnh đề quan hệ: dùng để chỉ một nhóm người chung chung. Ví dụ: Those who arrive late will not be admitted.<br><br><b>Tạm dịch:</b> Các nhà phỏng vấn đang loại bỏ những người không đủ điều kiện cho vị trí này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The interviewers are eliminating ________ who were unqualified for the position.' requires a word that refers to people and can be followed by a relative clause ('who were unqualified for the position'). In English, 'those' is used to refer to people in a general sense, especially when followed by a relative clause. Therefore, 'those' is the correct choice.<br><ul><li><b>them</b> (pronoun): 'Them' is an object pronoun and cannot be followed directly by a relative clause ('who were unqualified...').</li><li><b>themselves</b> (reflexive pronoun): 'Themselves' is a reflexive pronoun and is not used as a subject or to introduce a relative clause.</li><li><b>those</b> (demonstrative pronoun): 'Those' is a demonstrative pronoun that can refer to people and can be followed by a relative clause ('those who...').</li><li><b>that</b> (demonstrative/relative pronoun): 'That' is a demonstrative pronoun or a relative pronoun, but in this context, it cannot refer to people in the plural form.</li></ul><b>Related structure or vocabulary:</b> those who + relative clause: used to refer to people in general. Example: Those who arrive late will not be admitted.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d34",
+        "questionNumber": 18,
+        "questionText": "Mathew is thinking about quitting his job and start ________ business.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "he",
+            "raw": " C. he ",
+            "isCorrect": false
+          },
+          {
+            "letter": "A",
+            "text": "its",
+            "raw": "A. its ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "himself",
+            "raw": "B. himself",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "his own",
+            "raw": "D. his own",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mathew is thinking about quitting his job and start ________ business.' requires a possessive adjective to show ownership of the business. The correct phrase is 'his own business,' which means a business that belongs to him. This is a common English expression used to indicate that someone wants to start a business for themselves.<br><ul><li><b>he</b> (pronoun): 'He' is a subject pronoun and cannot be used to show possession or ownership in this context.</li><li><b>its</b> (possessive adjective): 'Its' is a possessive adjective used for things or animals, not for people.</li><li><b>himself</b> (reflexive pronoun): 'Himself' is a reflexive pronoun, used for emphasis or to refer back to the subject, not to show possession.</li><li><b>his own</b> (possessive adjective phrase): 'His own' is a possessive adjective phrase, correctly showing that the business belongs to Mathew.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) + 'own' are used to emphasize ownership. Common phrase: 'start his own business' means to begin a business that belongs to oneself.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mathew is thinking about quitting his job and start ________ business.' cần một tính từ sở hữu để thể hiện quyền sở hữu doanh nghiệp. Cụm từ đúng là 'his own business', nghĩa là một doanh nghiệp thuộc về anh ấy. Đây là một cách diễn đạt phổ biến trong tiếng Anh để nói ai đó muốn tự mình bắt đầu kinh doanh.<br><ul><li><b>he</b> (đại từ): 'He' là đại từ chủ ngữ, không dùng để chỉ quyền sở hữu trong trường hợp này.</li><li><b>its</b> (tính từ sở hữu): 'Its' là tính từ sở hữu dùng cho vật hoặc động vật, không dùng cho người.</li><li><b>himself</b> (đại từ phản thân): 'Himself' là đại từ phản thân, dùng để nhấn mạnh hoặc ám chỉ lại chủ ngữ, không dùng để chỉ quyền sở hữu.</li><li><b>his own</b> (cụm tính từ sở hữu): 'His own' là cụm tính từ sở hữu, đúng ngữ pháp để chỉ doanh nghiệp thuộc về Mathew.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) + 'own' dùng để nhấn mạnh quyền sở hữu. Cụm từ phổ biến: 'start his own business' nghĩa là bắt đầu một doanh nghiệp của riêng mình.<br><br><b>Tạm dịch:</b> Mathew đang nghĩ đến việc nghỉ việc và bắt đầu một doanh nghiệp của riêng mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mathew is thinking about quitting his job and start ________ business.' requires a possessive adjective to show ownership of the business. The correct phrase is 'his own business,' which means a business that belongs to him. This is a common English expression used to indicate that someone wants to start a business for themselves.<br><ul><li><b>he</b> (pronoun): 'He' is a subject pronoun and cannot be used to show possession or ownership in this context.</li><li><b>its</b> (possessive adjective): 'Its' is a possessive adjective used for things or animals, not for people.</li><li><b>himself</b> (reflexive pronoun): 'Himself' is a reflexive pronoun, used for emphasis or to refer back to the subject, not to show possession.</li><li><b>his own</b> (possessive adjective phrase): 'His own' is a possessive adjective phrase, correctly showing that the business belongs to Mathew.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) + 'own' are used to emphasize ownership. Common phrase: 'start his own business' means to begin a business that belongs to oneself.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2d2d1bfab7a5b000d35",
+        "questionNumber": 19,
+        "questionText": "The line of products they launched last summer is the most advanced product line of ________ kind.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "hers",
+            "raw": "A. hers ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "ours",
+            "raw": "B. ours ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "yours",
+            "raw": "C. yours ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "their",
+            "raw": "D. their",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a possessive pronoun to indicate ownership of the product line. The phrase 'of ________ kind' means 'of their kind', referring to the type or category of the product line. Since the subject is 'the line of products they launched', the correct possessive pronoun to refer back to 'they' is 'their'.<br><ul><li><b>hers</b> (possessive pronoun): Possessive pronoun for 'she', used to indicate something belongs to a female person.</li><li><b>ours</b> (possessive pronoun): Possessive pronoun for 'we', used to indicate something belongs to the speaker and others.</li><li><b>yours</b> (possessive pronoun): Possessive pronoun for 'you', used to indicate something belongs to the person being spoken to.</li><li><b>their</b> (possessive pronoun): Possessive pronoun for 'they', used to indicate something belongs to a group of people or things.</li></ul><b>Related structure or vocabulary:</b> Possessive pronouns are used to show ownership. The structure 'of + possessive pronoun + kind' is commonly used to compare or specify types.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ sở hữu để chỉ quyền sở hữu của dòng sản phẩm. Cụm từ 'of ________ kind' có nghĩa là 'của loại của họ', ám chỉ loại hoặc nhóm của dòng sản phẩm. Vì chủ ngữ là 'the line of products they launched' (dòng sản phẩm họ đã ra mắt), đại từ sở hữu phù hợp để thay thế cho 'they' là 'their'.<br><ul><li><b>hers</b> (đại từ sở hữu): Đại từ sở hữu của 'she', dùng để chỉ vật thuộc về một người nữ.</li><li><b>ours</b> (đại từ sở hữu): Đại từ sở hữu của 'we', dùng để chỉ vật thuộc về người nói và những người khác.</li><li><b>yours</b> (đại từ sở hữu): Đại từ sở hữu của 'you', dùng để chỉ vật thuộc về người được nói đến.</li><li><b>their</b> (đại từ sở hữu): Đại từ sở hữu của 'they', dùng để chỉ vật thuộc về một nhóm người hoặc vật.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ sở hữu (possessive pronouns) dùng để chỉ quyền sở hữu. Cấu trúc 'of + đại từ sở hữu + kind' thường được dùng để so sánh hoặc xác định loại.<br><br><b>Tạm dịch:</b> Dòng sản phẩm mà họ ra mắt mùa hè năm ngoái là dòng sản phẩm tiên tiến nhất trong số các dòng sản phẩm cùng loại của họ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a possessive pronoun to indicate ownership of the product line. The phrase 'of ________ kind' means 'of their kind', referring to the type or category of the product line. Since the subject is 'the line of products they launched', the correct possessive pronoun to refer back to 'they' is 'their'.<br><ul><li><b>hers</b> (possessive pronoun): Possessive pronoun for 'she', used to indicate something belongs to a female person.</li><li><b>ours</b> (possessive pronoun): Possessive pronoun for 'we', used to indicate something belongs to the speaker and others.</li><li><b>yours</b> (possessive pronoun): Possessive pronoun for 'you', used to indicate something belongs to the person being spoken to.</li><li><b>their</b> (possessive pronoun): Possessive pronoun for 'they', used to indicate something belongs to a group of people or things.</li></ul><b>Related structure or vocabulary:</b> Possessive pronouns are used to show ownership. The structure 'of + possessive pronoun + kind' is commonly used to compare or specify types.<br><br>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b141",
+  "title": "Từ vựng: Banking",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b241",
+        "questionNumber": 1,
+        "questionText": "Accept",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev241.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/accept.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To receive; to respond favorably",
+            "raw": "To receive; to respond favorably",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The receptionist <strong>accepted</strong> the package from the courier.</p>\n",
+        "explanationViHtml": "<p>Nh&acirc;n vi&ecirc;n lễ t&acirc;n đ&atilde; <strong>nhận</strong> g&oacute;i h&agrave;ng từ người chuyển ph&aacute;t.</p>\n",
+        "transcriptHtml": "<p>The receptionist <strong>accepted</strong> the package from the courier.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b242",
+        "questionNumber": 2,
+        "questionText": "Balance",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev242.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/balance.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The remainder; to compute the difference between credits and debits of an account",
+            "raw": "The remainder; to compute the difference between credits and debits of an account",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>His healthy bank <strong>balance</strong> showed a long habit of savings.</p>\n",
+        "explanationViHtml": "<p><strong>Số dư</strong> ng&acirc;n h&agrave;ng dồi d&agrave;o của &ocirc;ng cho thấy &ocirc;ng c&oacute; th&oacute;i quen tiết kiệm l&acirc;u d&agrave;i.</p>\n",
+        "transcriptHtml": "<p>His healthy bank <strong>balance</strong> showed a long habit of savings.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b243",
+        "questionNumber": 3,
+        "questionText": "Borrow",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev243.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/borrow.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To use temporarily",
+            "raw": "To use temporarily",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Do you want to <strong>borrow</strong> a pen?</p>\n",
+        "explanationViHtml": "<p>Bạn c&oacute; muốn <strong>mượn</strong> b&uacute;t kh&ocirc;ng?</p>\n",
+        "transcriptHtml": "<p>Do you want to <strong>borrow</strong> a pen?</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b244",
+        "questionNumber": 4,
+        "questionText": "Cautiously",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev244.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/cautiously.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "arefully, warily",
+            "raw": "Carefully, warily",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>She looked <strong>cautiously</strong> around and then walked away from the house.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; ấy <strong>thận trọng</strong> nh&igrave;n xung quanh rồi bước ra khỏi nh&agrave;.</p>\n",
+        "transcriptHtml": "<p>She looked <strong>cautiously</strong> around and then walked away from the house.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b245",
+        "questionNumber": 5,
+        "questionText": "Deduct",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev245.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/deduct.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To take away from a total; to subtract",
+            "raw": "To take away from a total; to subtract",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Before computing his taxes, Christophe remembered to <strong>deduct</strong> allowable home improvement expenses.</p>\n",
+        "explanationViHtml": "<p>Trước khi t&iacute;nh thuế, Christophe đ&atilde; nhớ trừ c&aacute;c khoản chi ph&iacute; cải tạo nh&agrave; được ph&eacute;p <strong>khấu trừ</strong>.</p>\n",
+        "transcriptHtml": "<p>Before computing his taxes, Christophe remembered to <strong>deduct</strong> allowable home improvement expenses.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b246",
+        "questionNumber": 6,
+        "questionText": "Dividend",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev246.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/dividend.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "share in a distribution",
+            "raw": "A share in a distribution",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The stockholders were outraged when their quarterly <strong>dividends</strong> were so small.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c cổ đ&ocirc;ng v&ocirc; c&ugrave;ng phẫn nộ khi <strong>cổ tức</strong> h&agrave;ng qu&yacute; của họ lại qu&aacute; nhỏ.</p>\n",
+        "transcriptHtml": "<p>The stockholders were outraged when their quarterly <strong>dividends</strong> were so small.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b247",
+        "questionNumber": 7,
+        "questionText": "Down payment",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev247.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/down payment.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n initial partial payment",
+            "raw": "An initial partial payment",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>By making a large <strong>down payment</strong>,&nbsp;the couple saved a great deal in mortgage interest.</p>\n",
+        "explanationViHtml": "<p>Bằng c&aacute;ch <strong>trả trước</strong> một khoản tiền lớn, cặp đ&ocirc;i n&agrave;y đ&atilde; tiết kiệm được một khoản tiền lớn tiền l&atilde;i thế chấp.</p>\n",
+        "transcriptHtml": "<p>By making a large <strong>down payment</strong>,&nbsp;the couple saved a great deal in mortgage interest.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b248",
+        "questionNumber": 8,
+        "questionText": "Mortgage",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev248.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mortgage.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The amount due on a property; to borrow money with your house as collateral",
+            "raw": "The amount due on a property; to borrow money with your house as collateral",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Due to low interest rates, Sheila moved quickly to find a good deal on a <strong>mortgage</strong>.</p>\n",
+        "explanationViHtml": "<p>Do l&atilde;i suất thấp, Sheila đ&atilde; nhanh ch&oacute;ng t&igrave;m được một <strong>khoản thế chấp</strong> tốt</p>\n",
+        "transcriptHtml": "<p>Due to low interest rates, Sheila moved quickly to find a good deal on a <strong>mortgage</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b249",
+        "questionNumber": 9,
+        "questionText": "Restricted",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev249.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/restricted.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Limited",
+            "raw": "Limited",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Building in this&nbsp;area&nbsp;of&nbsp;town&nbsp;is <strong>restricted</strong>.</p>\n",
+        "explanationViHtml": "<p>Việc x&acirc;y dựng ở khu vực n&agrave;y của thị trấn <strong>bị hạn chế</strong>.</p>\n",
+        "transcriptHtml": "<p>Building in this&nbsp;area&nbsp;of&nbsp;town&nbsp;is <strong>restricted</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b24a",
+        "questionNumber": 10,
+        "questionText": "Signature",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev250.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/signature.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The name of a person written by the person",
+            "raw": "The name of a person written by the person",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Once we have your <strong>signature</strong>, the contract will be complete.</p>\n",
+        "explanationViHtml": "<p>Sau khi c&oacute; <strong>chữ k&yacute;</strong> của bạn, hợp đồng sẽ ho&agrave;n tất.</p>\n",
+        "transcriptHtml": "<p>Once we have your <strong>signature</strong>, the contract will be complete.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b24b",
+        "questionNumber": 11,
+        "questionText": "Take out",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev251.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/take out.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Withdraw; remove",
+            "raw": "Withdraw; remove",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My checking account allows me to <strong>take out</strong> money at any bank branch without a fee.</p>\n",
+        "explanationViHtml": "<p>T&agrave;i khoản thanh to&aacute;n của t&ocirc;i cho ph&eacute;p t&ocirc;i <strong>r&uacute;t tiền</strong> tại bất kỳ chi nh&aacute;nh ng&acirc;n h&agrave;ng n&agrave;o m&agrave; kh&ocirc;ng mất ph&iacute;.</p>\n",
+        "transcriptHtml": "<p>My checking account allows me to <strong>take out</strong> money at any bank branch without a fee.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b24c",
+        "questionNumber": 12,
+        "questionText": "Transaction",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev252.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/transaction.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "business deal",
+            "raw": "A business deal",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Banking <strong>transactions</strong> will appear on your monthly statement.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c <strong>giao dịch</strong> ng&acirc;n h&agrave;ng sẽ hiển thị tr&ecirc;n sao k&ecirc; h&agrave;ng th&aacute;ng của bạn.</p>\n",
+        "transcriptHtml": "<p>Banking <strong>transactions</strong> will appear on your monthly statement.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b241",
+      "word": "Accept",
+      "phonetic": "/əkˈsept/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev241.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/accept.mp3",
+      "meaningVi": "nhận",
+      "meaningEn": "To receive; to respond favorably",
+      "exampleEnHtml": "<p>The receptionist <strong>accepted</strong> the package from the courier.</p>\n",
+      "exampleViHtml": "<p>Nh&acirc;n vi&ecirc;n lễ t&acirc;n đ&atilde; <strong>nhận</strong> g&oacute;i h&agrave;ng từ người chuyển ph&aacute;t.</p>\n",
+      "exampleEn": "The receptionist accepted the package from the courier.",
+      "exampleVi": "Nhân viên lễ tân đã nhận gói hàng từ người chuyển phát."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b242",
+      "word": "Balance",
+      "phonetic": "/ˈbæləns/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev242.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/balance.mp3",
+      "meaningVi": "Số dư",
+      "meaningEn": "The remainder; to compute the difference between credits and debits of an account",
+      "exampleEnHtml": "<p>His healthy bank <strong>balance</strong> showed a long habit of savings.</p>\n",
+      "exampleViHtml": "<p><strong>Số dư</strong> ng&acirc;n h&agrave;ng dồi d&agrave;o của &ocirc;ng cho thấy &ocirc;ng c&oacute; th&oacute;i quen tiết kiệm l&acirc;u d&agrave;i.</p>\n",
+      "exampleEn": "His healthy bank balance showed a long habit of savings.",
+      "exampleVi": "Số dư ngân hàng dồi dào của ông cho thấy ông có thói quen tiết kiệm lâu dài."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b243",
+      "word": "Borrow",
+      "phonetic": "/ˈbɑːroʊ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev243.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/borrow.mp3",
+      "meaningVi": "mượn",
+      "meaningEn": "To use temporarily",
+      "exampleEnHtml": "<p>Do you want to <strong>borrow</strong> a pen?</p>\n",
+      "exampleViHtml": "<p>Bạn c&oacute; muốn <strong>mượn</strong> b&uacute;t kh&ocirc;ng?</p>\n",
+      "exampleEn": "Do you want to borrow a pen?",
+      "exampleVi": "Bạn có muốn mượn bút không?"
+    },
+    {
+      "id": "61c14bee92d7f67f5140b244",
+      "word": "Cautiously",
+      "phonetic": "/ˈkɔːʃəsli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev244.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/cautiously.mp3",
+      "meaningVi": "thận trọng",
+      "meaningEn": "Carefully, warily",
+      "exampleEnHtml": "<p>She looked <strong>cautiously</strong> around and then walked away from the house.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; ấy <strong>thận trọng</strong> nh&igrave;n xung quanh rồi bước ra khỏi nh&agrave;.</p>\n",
+      "exampleEn": "She looked cautiously around and then walked away from the house.",
+      "exampleVi": "Cô ấy thận trọng nhìn xung quanh rồi bước ra khỏi nhà."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b245",
+      "word": "Deduct",
+      "phonetic": "/dɪˈdʌkt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev245.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/deduct.mp3",
+      "meaningVi": "khấu trừ",
+      "meaningEn": "To take away from a total; to subtract",
+      "exampleEnHtml": "<p>Before computing his taxes, Christophe remembered to <strong>deduct</strong> allowable home improvement expenses.</p>\n",
+      "exampleViHtml": "<p>Trước khi t&iacute;nh thuế, Christophe đ&atilde; nhớ trừ c&aacute;c khoản chi ph&iacute; cải tạo nh&agrave; được ph&eacute;p <strong>khấu trừ</strong>.</p>\n",
+      "exampleEn": "Before computing his taxes, Christophe remembered to deduct allowable home improvement expenses.",
+      "exampleVi": "Trước khi tính thuế, Christophe đã nhớ trừ các khoản chi phí cải tạo nhà được phép khấu trừ."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b246",
+      "word": "Dividend",
+      "phonetic": "/ˈdɪvɪdend/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev246.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/dividend.mp3",
+      "meaningVi": "cổ tức",
+      "meaningEn": "A share in a distribution",
+      "exampleEnHtml": "<p>The stockholders were outraged when their quarterly <strong>dividends</strong> were so small.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c cổ đ&ocirc;ng v&ocirc; c&ugrave;ng phẫn nộ khi <strong>cổ tức</strong> h&agrave;ng qu&yacute; của họ lại qu&aacute; nhỏ.</p>\n",
+      "exampleEn": "The stockholders were outraged when their quarterly dividends were so small.",
+      "exampleVi": "Các cổ đông vô cùng phẫn nộ khi cổ tức hàng quý của họ lại quá nhỏ."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b247",
+      "word": "Down payment",
+      "phonetic": "/ˌdaʊn ˈpeɪ.mənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev247.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/down payment.mp3",
+      "meaningVi": "trả trước",
+      "meaningEn": "An initial partial payment",
+      "exampleEnHtml": "<p>By making a large <strong>down payment</strong>,&nbsp;the couple saved a great deal in mortgage interest.</p>\n",
+      "exampleViHtml": "<p>Bằng c&aacute;ch <strong>trả trước</strong> một khoản tiền lớn, cặp đ&ocirc;i n&agrave;y đ&atilde; tiết kiệm được một khoản tiền lớn tiền l&atilde;i thế chấp.</p>\n",
+      "exampleEn": "By making a large down payment, the couple saved a great deal in mortgage interest.",
+      "exampleVi": "Bằng cách trả trước một khoản tiền lớn, cặp đôi này đã tiết kiệm được một khoản tiền lớn tiền lãi thế chấp."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b248",
+      "word": "Mortgage",
+      "phonetic": "/ˈmɔːrɡɪdʒ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev248.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mortgage.mp3",
+      "meaningVi": "khoản thế chấp",
+      "meaningEn": "The amount due on a property; to borrow money with your house as collateral",
+      "exampleEnHtml": "<p>Due to low interest rates, Sheila moved quickly to find a good deal on a <strong>mortgage</strong>.</p>\n",
+      "exampleViHtml": "<p>Do l&atilde;i suất thấp, Sheila đ&atilde; nhanh ch&oacute;ng t&igrave;m được một <strong>khoản thế chấp</strong> tốt</p>\n",
+      "exampleEn": "Due to low interest rates, Sheila moved quickly to find a good deal on a mortgage.",
+      "exampleVi": "Do lãi suất thấp, Sheila đã nhanh chóng tìm được một khoản thế chấp tốt"
+    },
+    {
+      "id": "61c14bee92d7f67f5140b249",
+      "word": "Restricted",
+      "phonetic": "/rɪˈstrɪktɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev249.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/restricted.mp3",
+      "meaningVi": "bị hạn chế",
+      "meaningEn": "Limited",
+      "exampleEnHtml": "<p>Building in this&nbsp;area&nbsp;of&nbsp;town&nbsp;is <strong>restricted</strong>.</p>\n",
+      "exampleViHtml": "<p>Việc x&acirc;y dựng ở khu vực n&agrave;y của thị trấn <strong>bị hạn chế</strong>.</p>\n",
+      "exampleEn": "Building in this area of town is restricted.",
+      "exampleVi": "Việc xây dựng ở khu vực này của thị trấn bị hạn chế."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b24a",
+      "word": "Signature",
+      "phonetic": "/ˈsɪɡnətʃər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev250.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/signature.mp3",
+      "meaningVi": "chữ ký",
+      "meaningEn": "The name of a person written by the person",
+      "exampleEnHtml": "<p>Once we have your <strong>signature</strong>, the contract will be complete.</p>\n",
+      "exampleViHtml": "<p>Sau khi c&oacute; <strong>chữ k&yacute;</strong> của bạn, hợp đồng sẽ ho&agrave;n tất.</p>\n",
+      "exampleEn": "Once we have your signature, the contract will be complete.",
+      "exampleVi": "Sau khi có chữ ký của bạn, hợp đồng sẽ hoàn tất."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b24b",
+      "word": "Take out",
+      "phonetic": "/teɪk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev251.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/take out.mp3",
+      "meaningVi": "rút tiền",
+      "meaningEn": "Withdraw; remove",
+      "exampleEnHtml": "<p>My checking account allows me to <strong>take out</strong> money at any bank branch without a fee.</p>\n",
+      "exampleViHtml": "<p>T&agrave;i khoản thanh to&aacute;n của t&ocirc;i cho ph&eacute;p t&ocirc;i <strong>r&uacute;t tiền</strong> tại bất kỳ chi nh&aacute;nh ng&acirc;n h&agrave;ng n&agrave;o m&agrave; kh&ocirc;ng mất ph&iacute;.</p>\n",
+      "exampleEn": "My checking account allows me to take out money at any bank branch without a fee.",
+      "exampleVi": "Tài khoản thanh toán của tôi cho phép tôi rút tiền tại bất kỳ chi nhánh ngân hàng nào mà không mất phí."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b24c",
+      "word": "Transaction",
+      "phonetic": "/trænˈzækʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev252.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/transaction.mp3",
+      "meaningVi": "giao dịch",
+      "meaningEn": "A business deal",
+      "exampleEnHtml": "<p>Banking <strong>transactions</strong> will appear on your monthly statement.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c <strong>giao dịch</strong> ng&acirc;n h&agrave;ng sẽ hiển thị tr&ecirc;n sao k&ecirc; h&agrave;ng th&aacute;ng của bạn.</p>\n",
+      "exampleEn": "Banking transactions will appear on your monthly statement.",
+      "exampleVi": "Các giao dịch ngân hàng sẽ hiển thị trên sao kê hàng tháng của bạn."
+    }
+  ],
+  "totalFlashcards": 12
+}

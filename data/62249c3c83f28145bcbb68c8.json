@@ -1,0 +1,608 @@
+{
+  "topicId": "62249c3c83f28145bcbb68c8",
+  "title": "VERBS - Practice 2",
+  "totalCards": 15,
+  "totalQuestions": 15,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a05",
+        "questionNumber": 1,
+        "questionText": "Is it true that you_______ making a trip to Africa next week?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are",
+            "raw": "A. are",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was",
+            "raw": "C. was\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were",
+            "raw": "D. were",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Is it true that you_______ making a trip to Africa next week?' requires the correct form of the verb 'to be' to match the subject 'you' in the present continuous tense. The present continuous tense is formed with 'am/is/are + V-ing'. Since the subject is 'you', the correct form is 'are'.<br><ul><li><b>are</b> (verb (present tense)): 'are' is the present tense form of 'to be' used with 'you', 'we', and 'they'.</li><li><b>is</b> (verb (present tense)): 'is' is the present tense form of 'to be' used with 'he', 'she', and 'it'.</li><li><b>was</b> (verb (past tense)): 'was' is the past tense form of 'to be' used with 'I', 'he', 'she', and 'it'.</li><li><b>were</b> (verb (past tense)): 'were' is the past tense form of 'to be' used with 'you', 'we', and 'they'.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. Used to talk about actions happening now or in the near future (plans).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Is it true that you_______ making a trip to Africa next week?' cần điền đúng dạng của động từ 'to be' phù hợp với chủ ngữ 'you' ở thì hiện tại tiếp diễn. Thì hiện tại tiếp diễn được hình thành với 'am/is/are + V-ing'. Vì chủ ngữ là 'you', nên dùng 'are' là đúng.<br><ul><li><b>are</b> (động từ (thì hiện tại)): 'are' là dạng hiện tại của động từ 'to be', dùng với 'you', 'we', và 'they'.</li><li><b>is</b> (động từ (thì hiện tại)): 'is' là dạng hiện tại của động từ 'to be', dùng với 'he', 'she', và 'it'.</li><li><b>was</b> (động từ (thì quá khứ)): 'was' là dạng quá khứ của động từ 'to be', dùng với 'I', 'he', 'she', và 'it'.</li><li><b>were</b> (động từ (thì quá khứ)): 'were' là dạng quá khứ của động từ 'to be', dùng với 'you', 'we', và 'they'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + V-ing. Dùng để nói về hành động đang xảy ra hoặc kế hoạch trong tương lai gần.<br><br><b>Tạm dịch:</b> Có đúng là bạn sẽ đi du lịch châu Phi vào tuần tới không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Is it true that you_______ making a trip to Africa next week?' requires the correct form of the verb 'to be' to match the subject 'you' in the present continuous tense. The present continuous tense is formed with 'am/is/are + V-ing'. Since the subject is 'you', the correct form is 'are'.<br><ul><li><b>are</b> (verb (present tense)): 'are' is the present tense form of 'to be' used with 'you', 'we', and 'they'.</li><li><b>is</b> (verb (present tense)): 'is' is the present tense form of 'to be' used with 'he', 'she', and 'it'.</li><li><b>was</b> (verb (past tense)): 'was' is the past tense form of 'to be' used with 'I', 'he', 'she', and 'it'.</li><li><b>were</b> (verb (past tense)): 'were' is the past tense form of 'to be' used with 'you', 'we', and 'they'.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. Used to talk about actions happening now or in the near future (plans).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a06",
+        "questionNumber": 2,
+        "questionText": "She_______ come yet; we're still waiting for her.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "don't",
+            "raw": "A. don't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "doesn't",
+            "raw": "B. doesn't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "hasn't",
+            "raw": "C. hasn't",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "didn't",
+            "raw": "D. didn't",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She_______ come yet; we're still waiting for her.' requires the present perfect tense because the word 'yet' is used to indicate that something has not happened up to the present moment. The present perfect is formed with 'has/have' + past participle. Since the subject is 'she', we use 'has' + 'not' (hasn't) + come.<br><ul><li><b>don't</b> (auxiliary verb (present simple negative)): 'Don't' is the contraction of 'do not', used with plural subjects or 'I/you/we/they' in the present simple tense. It is not correct here.</li><li><b>doesn't</b> (auxiliary verb (present simple negative)): 'Doesn't' is the contraction of 'does not', used with singular third person subjects in the present simple tense. It is not correct here because the sentence requires the present perfect tense.</li><li><b>hasn't</b> (auxiliary verb (present perfect negative)): 'Hasn't' is the contraction of 'has not', used with singular third person subjects in the present perfect tense. This is the correct answer.</li><li><b>didn't</b> (auxiliary verb (past simple negative)): 'Didn't' is the contraction of 'did not', used in the past simple tense. It is not correct here because the sentence refers to an action that has not happened up to now.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. 'Yet' is often used in negative sentences and questions in the present perfect tense to talk about something that has not happened up to now.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'She_______ come yet; we're still waiting for her.' cần sử dụng thì hiện tại hoàn thành vì từ 'yet' được dùng để chỉ một việc chưa xảy ra cho đến thời điểm hiện tại. Thì hiện tại hoàn thành được hình thành bởi 'has/have' + động từ phân từ II (past participle). Chủ ngữ là 'she' nên dùng 'has' + 'not' (hasn't) + come.<br><ul><li><b>don't</b> (trợ động từ (phủ định thì hiện tại đơn)): 'Don't' là dạng rút gọn của 'do not', dùng với các chủ ngữ số nhiều hoặc 'I/you/we/they' ở thì hiện tại đơn. Không phù hợp trong trường hợp này.</li><li><b>doesn't</b> (trợ động từ (phủ định thì hiện tại đơn)): 'Doesn't' là dạng rút gọn của 'does not', dùng với chủ ngữ số ít ngôi thứ ba ở thì hiện tại đơn. Không phù hợp vì câu này cần thì hiện tại hoàn thành.</li><li><b>hasn't</b> (trợ động từ (phủ định thì hiện tại hoàn thành)): 'Hasn't' là dạng rút gọn của 'has not', dùng với chủ ngữ số ít ngôi thứ ba ở thì hiện tại hoàn thành. Đây là đáp án đúng.</li><li><b>didn't</b> (trợ động từ (phủ định thì quá khứ đơn)): 'Didn't' là dạng rút gọn của 'did not', dùng ở thì quá khứ đơn. Không phù hợp vì câu này nói về hành động chưa xảy ra cho đến hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + động từ phân từ II. 'Yet' thường dùng trong câu phủ định và nghi vấn ở thì hiện tại hoàn thành để nói về việc chưa xảy ra cho đến hiện tại.<br><br><b>Tạm dịch:</b> Cô ấy vẫn chưa đến; chúng tôi vẫn đang chờ cô ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She_______ come yet; we're still waiting for her.' requires the present perfect tense because the word 'yet' is used to indicate that something has not happened up to the present moment. The present perfect is formed with 'has/have' + past participle. Since the subject is 'she', we use 'has' + 'not' (hasn't) + come.<br><ul><li><b>don't</b> (auxiliary verb (present simple negative)): 'Don't' is the contraction of 'do not', used with plural subjects or 'I/you/we/they' in the present simple tense. It is not correct here.</li><li><b>doesn't</b> (auxiliary verb (present simple negative)): 'Doesn't' is the contraction of 'does not', used with singular third person subjects in the present simple tense. It is not correct here because the sentence requires the present perfect tense.</li><li><b>hasn't</b> (auxiliary verb (present perfect negative)): 'Hasn't' is the contraction of 'has not', used with singular third person subjects in the present perfect tense. This is the correct answer.</li><li><b>didn't</b> (auxiliary verb (past simple negative)): 'Didn't' is the contraction of 'did not', used in the past simple tense. It is not correct here because the sentence refers to an action that has not happened up to now.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. 'Yet' is often used in negative sentences and questions in the present perfect tense to talk about something that has not happened up to now.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a07",
+        "questionNumber": 3,
+        "questionText": "The car_______ not stolen.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was",
+            "raw": "A. was",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "has",
+            "raw": "B. has\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "does",
+            "raw": "C. does\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had",
+            "raw": "D. had",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The car_______ not stolen.' requires an auxiliary verb to form the passive voice in the past simple tense. In passive voice, the structure is: Subject + was/were + past participle. Here, 'the car' is singular, so we use 'was'.<br><ul><li><b>was</b> (verb (auxiliary)): Past simple form of 'to be', used to form the passive voice for singular subjects.</li><li><b>has</b> (verb (auxiliary)): Present perfect auxiliary verb, used with 'been' to form the present perfect passive (has been stolen).</li><li><b>does</b> (verb (auxiliary)): Present simple auxiliary verb, used for questions or negatives in the present simple tense (does not steal).</li><li><b>had</b> (verb (auxiliary)): Past perfect auxiliary verb, used with 'been' to form the past perfect passive (had been stolen).</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + was/were + past participle (for past simple passive)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The car_______ not stolen.' cần một trợ động từ để tạo thành câu bị động ở thì quá khứ đơn. Ở thể bị động, cấu trúc là: Chủ ngữ + was/were + động từ phân từ II. Ở đây, 'the car' là danh từ số ít nên dùng 'was'.<br><ul><li><b>was</b> (động từ (trợ động từ)): 'Was' là động từ to be ở thì quá khứ đơn, dùng để tạo câu bị động cho chủ ngữ số ít.</li><li><b>has</b> (động từ (trợ động từ)): 'Has' là trợ động từ thì hiện tại hoàn thành, dùng với 'been' để tạo bị động hiện tại hoàn thành (has been stolen).</li><li><b>does</b> (động từ (trợ động từ)): 'Does' là trợ động từ thì hiện tại đơn, dùng cho câu hỏi hoặc phủ định ở thì hiện tại đơn (does not steal).</li><li><b>had</b> (động từ (trợ động từ)): 'Had' là trợ động từ thì quá khứ hoàn thành, dùng với 'been' để tạo bị động quá khứ hoàn thành (had been stolen).</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: Chủ ngữ + was/were + động từ phân từ II (bị động thì quá khứ đơn)<br><br><b>Tạm dịch:</b> The car was not stolen. --> Chiếc xe đã không bị đánh cắp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The car_______ not stolen.' requires an auxiliary verb to form the passive voice in the past simple tense. In passive voice, the structure is: Subject + was/were + past participle. Here, 'the car' is singular, so we use 'was'.<br><ul><li><b>was</b> (verb (auxiliary)): Past simple form of 'to be', used to form the passive voice for singular subjects.</li><li><b>has</b> (verb (auxiliary)): Present perfect auxiliary verb, used with 'been' to form the present perfect passive (has been stolen).</li><li><b>does</b> (verb (auxiliary)): Present simple auxiliary verb, used for questions or negatives in the present simple tense (does not steal).</li><li><b>had</b> (verb (auxiliary)): Past perfect auxiliary verb, used with 'been' to form the past perfect passive (had been stolen).</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + was/were + past participle (for past simple passive)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a08",
+        "questionNumber": 4,
+        "questionText": "The test_______ written.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will not be",
+            "raw": "A. will not be",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "are not",
+            "raw": "B. are not\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "won't",
+            "raw": "D. won't",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The test_______ written.' requires a verb form that fits the passive voice in the correct tense. The subject 'The test' is singular, and the verb 'written' is the past participle, indicating a passive construction. The most suitable answer is 'will not be,' which forms the future simple passive: 'will not be written.'<br><ul><li><b>will not be</b> (auxiliary verb + be + past participle): This is the correct form for the future simple passive voice: 'will not be + past participle.'</li><li><b>are not</b> (auxiliary verb + not): This is the present simple passive form for plural subjects, but 'The test' is singular.</li><li><b>has</b> (auxiliary verb): This is the present perfect auxiliary for singular subjects, but it is not used in passive voice without 'been.'</li><li><b>won't</b> (auxiliary verb (contraction)): This is a contraction of 'will not,' but it is incomplete without 'be' for the passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice in future simple: will not be + past participle<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The test_______ written.' cần một động từ phù hợp với câu bị động ở thì tương lai đơn. Chủ ngữ 'The test' là số ít, và 'written' là quá khứ phân từ, cho thấy đây là cấu trúc bị động. Đáp án phù hợp nhất là 'will not be', tạo thành câu bị động ở thì tương lai đơn: 'will not be written.'<br><ul><li><b>will not be</b> (trợ động từ + be + quá khứ phân từ): Đây là dạng đúng của câu bị động ở thì tương lai đơn: 'will not be + quá khứ phân từ.'</li><li><b>are not</b> (trợ động từ + not): Đây là dạng bị động ở thì hiện tại đơn cho chủ ngữ số nhiều, nhưng 'The test' là số ít.</li><li><b>has</b> (trợ động từ): Đây là trợ động từ thì hiện tại hoàn thành cho chủ ngữ số ít, nhưng không dùng trong câu bị động nếu không có 'been.'</li><li><b>won't</b> (trợ động từ (viết tắt)): Đây là dạng rút gọn của 'will not', nhưng chưa đầy đủ vì thiếu 'be' trong câu bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì tương lai đơn: will not be + quá khứ phân từ<br><br><b>Tạm dịch:</b> Bài kiểm tra sẽ không được viết.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The test_______ written.' requires a verb form that fits the passive voice in the correct tense. The subject 'The test' is singular, and the verb 'written' is the past participle, indicating a passive construction. The most suitable answer is 'will not be,' which forms the future simple passive: 'will not be written.'<br><ul><li><b>will not be</b> (auxiliary verb + be + past participle): This is the correct form for the future simple passive voice: 'will not be + past participle.'</li><li><b>are not</b> (auxiliary verb + not): This is the present simple passive form for plural subjects, but 'The test' is singular.</li><li><b>has</b> (auxiliary verb): This is the present perfect auxiliary for singular subjects, but it is not used in passive voice without 'been.'</li><li><b>won't</b> (auxiliary verb (contraction)): This is a contraction of 'will not,' but it is incomplete without 'be' for the passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice in future simple: will not be + past participle<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a09",
+        "questionNumber": 5,
+        "questionText": "The train_______just arrived.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "does",
+            "raw": "B. does\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have",
+            "raw": "C. have\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has",
+            "raw": "D. has",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'The train_______just arrived.', we need to choose the correct auxiliary verb to form the present perfect tense. The present perfect tense is formed with 'has/have + past participle'. 'The train' is a singular noun, so we use 'has' with singular subjects.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in the present simple tense for plural subjects or 'I/you', not for the present perfect tense.</li><li><b>does</b> (auxiliary verb): 'Does' is used as an auxiliary verb in the present simple tense for singular subjects, not for the present perfect tense.</li><li><b>have</b> (auxiliary verb): 'Have' is used as an auxiliary verb in the present perfect tense for plural subjects or 'I/you', not for singular nouns like 'the train'.</li><li><b>has</b> (auxiliary verb): 'Has' is the correct auxiliary verb for the present perfect tense with singular subjects like 'the train'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. Use 'has' with singular subjects and 'have' with plural subjects or 'I/you'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'The train_______just arrived.', chúng ta cần chọn trợ động từ đúng để tạo thì hiện tại hoàn thành. Thì hiện tại hoàn thành được hình thành với 'has/have + quá khứ phân từ'. 'The train' là danh từ số ít, nên chúng ta dùng 'has' với chủ ngữ số ít.<br><ul><li><b>do</b> (trợ động từ): 'Do' được dùng làm trợ động từ ở thì hiện tại đơn với chủ ngữ số nhiều hoặc 'I/you', không dùng cho thì hiện tại hoàn thành.</li><li><b>does</b> (trợ động từ): 'Does' được dùng làm trợ động từ ở thì hiện tại đơn với chủ ngữ số ít, không dùng cho thì hiện tại hoàn thành.</li><li><b>have</b> (trợ động từ): 'Have' được dùng làm trợ động từ ở thì hiện tại hoàn thành với chủ ngữ số nhiều hoặc 'I/you', không dùng cho danh từ số ít như 'the train'.</li><li><b>has</b> (trợ động từ): 'Has' là trợ động từ đúng cho thì hiện tại hoàn thành với chủ ngữ số ít như 'the train'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + quá khứ phân từ. Dùng 'has' với chủ ngữ số ít và 'have' với chủ ngữ số nhiều hoặc 'I/you'.<br><br><b>Tạm dịch:</b> The train has just arrived. --> Chuyến tàu vừa mới đến.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'The train_______just arrived.', we need to choose the correct auxiliary verb to form the present perfect tense. The present perfect tense is formed with 'has/have + past participle'. 'The train' is a singular noun, so we use 'has' with singular subjects.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in the present simple tense for plural subjects or 'I/you', not for the present perfect tense.</li><li><b>does</b> (auxiliary verb): 'Does' is used as an auxiliary verb in the present simple tense for singular subjects, not for the present perfect tense.</li><li><b>have</b> (auxiliary verb): 'Have' is used as an auxiliary verb in the present perfect tense for plural subjects or 'I/you', not for singular nouns like 'the train'.</li><li><b>has</b> (auxiliary verb): 'Has' is the correct auxiliary verb for the present perfect tense with singular subjects like 'the train'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. Use 'has' with singular subjects and 'have' with plural subjects or 'I/you'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a0a",
+        "questionNumber": 6,
+        "questionText": "They_________been learning English for two years.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "does",
+            "raw": "B. does\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have",
+            "raw": "C. have",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "has",
+            "raw": "D. has",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the subject 'They' and before 'been learning English for two years.' The structure here is the present perfect continuous tense, which is formed as: Subject + have/has + been + V-ing. For the subject 'They' (which is plural), we use 'have' as the auxiliary verb.<br><ul><li><b>do</b> (verb (auxiliary)): 'Do' is the base form of the verb, used as an auxiliary in present simple tense, not suitable for present perfect continuous.</li><li><b>does</b> (verb (auxiliary)): 'Does' is the third person singular form of 'do', used in present simple tense, not suitable here.</li><li><b>have</b> (verb (auxiliary)): 'Have' is the correct auxiliary verb for present perfect (and present perfect continuous) with plural subjects like 'they'.</li><li><b>has</b> (verb (auxiliary)): 'Has' is the third person singular form of 'have', used with 'he/she/it', not with 'they'.</li></ul><b>Related structure or vocabulary:</b> Present perfect continuous tense: Subject + have/has + been + V-ing. Use 'have' with plural subjects (I, you, we, they); use 'has' with singular third person (he, she, it).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống nằm sau chủ ngữ 'They' và trước 'been learning English for two years.' Đây là cấu trúc thì hiện tại hoàn thành tiếp diễn, được hình thành như sau: Chủ ngữ + have/has + been + V-ing. Với chủ ngữ 'They' (số nhiều), ta dùng 'have' làm trợ động từ.<br><ul><li><b>do</b> (động từ (trợ động từ)): 'Do' là dạng nguyên thể, thường dùng làm trợ động từ ở thì hiện tại đơn, không phù hợp với thì hiện tại hoàn thành tiếp diễn.</li><li><b>does</b> (động từ (trợ động từ)): 'Does' là dạng số ít ngôi thứ ba của 'do', dùng ở thì hiện tại đơn, không phù hợp ở đây.</li><li><b>have</b> (động từ (trợ động từ)): 'Have' là trợ động từ đúng dùng cho thì hiện tại hoàn thành (và hiện tại hoàn thành tiếp diễn) với các chủ ngữ số nhiều như 'they'.</li><li><b>has</b> (động từ (trợ động từ)): 'Has' là dạng số ít ngôi thứ ba của 'have', dùng với 'he/she/it', không dùng với 'they'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành tiếp diễn: Chủ ngữ + have/has + been + V-ing. Dùng 'have' với các chủ ngữ số nhiều (I, you, we, they); dùng 'has' với chủ ngữ số ít ngôi thứ ba (he, she, it).<br><br><b>Tạm dịch:</b> They have been learning English for two years. --> Họ đã học tiếng Anh được hai năm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the subject 'They' and before 'been learning English for two years.' The structure here is the present perfect continuous tense, which is formed as: Subject + have/has + been + V-ing. For the subject 'They' (which is plural), we use 'have' as the auxiliary verb.<br><ul><li><b>do</b> (verb (auxiliary)): 'Do' is the base form of the verb, used as an auxiliary in present simple tense, not suitable for present perfect continuous.</li><li><b>does</b> (verb (auxiliary)): 'Does' is the third person singular form of 'do', used in present simple tense, not suitable here.</li><li><b>have</b> (verb (auxiliary)): 'Have' is the correct auxiliary verb for present perfect (and present perfect continuous) with plural subjects like 'they'.</li><li><b>has</b> (verb (auxiliary)): 'Has' is the third person singular form of 'have', used with 'he/she/it', not with 'they'.</li></ul><b>Related structure or vocabulary:</b> Present perfect continuous tense: Subject + have/has + been + V-ing. Use 'have' with plural subjects (I, you, we, they); use 'has' with singular third person (he, she, it).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a0b",
+        "questionNumber": 7,
+        "questionText": "My uncle__________not eat fish.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "does",
+            "raw": "B. does",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "have",
+            "raw": "C. have\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has",
+            "raw": "D. has",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'My uncle__________not eat fish.', we need to fill in the blank with the correct auxiliary verb to form the negative present simple tense. The subject 'My uncle' is a singular third person, so we use 'does not' (doesn't) for negative sentences in the present simple tense with he/she/it or singular nouns.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb for negative sentences with 'I', 'you', 'we', 'they' in the present simple tense, not with third person singular subjects.</li><li><b>does</b> (auxiliary verb): 'Does' is the correct auxiliary verb for negative sentences with third person singular subjects (he, she, it, or singular nouns like 'my uncle') in the present simple tense.</li><li><b>have</b> (main verb / auxiliary verb): 'Have' is a main verb meaning 'to possess' or an auxiliary verb for perfect tenses, not used to form negatives in the present simple tense.</li><li><b>has</b> (main verb / auxiliary verb): 'Has' is the third person singular form of 'have', used as a main verb or auxiliary in perfect tenses, not for forming negatives in the present simple tense.</li></ul><b>Related structure or vocabulary:</b> Present Simple Tense: Negative form with third person singular (he/she/it or singular nouns): Subject + does not (doesn't) + base verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'My uncle__________not eat fish.', chúng ta cần điền vào chỗ trống trợ động từ phù hợp để tạo thành câu phủ định ở thì hiện tại đơn. Chủ ngữ 'My uncle' là danh từ số ít ngôi thứ ba, vì vậy ta dùng 'does not' (hoặc viết tắt là 'doesn't') để tạo câu phủ định ở thì hiện tại đơn với các chủ ngữ he/she/it hoặc danh từ số ít.<br><ul><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng cho các chủ ngữ I, you, we, they trong câu phủ định thì hiện tại đơn, không dùng với chủ ngữ số ít ngôi thứ ba.</li><li><b>does</b> (trợ động từ): 'Does' là trợ động từ đúng dùng cho câu phủ định thì hiện tại đơn với chủ ngữ số ít ngôi thứ ba (he, she, it hoặc danh từ số ít như 'my uncle').</li><li><b>have</b> (động từ chính / trợ động từ): 'Have' là động từ chính mang nghĩa 'có' hoặc là trợ động từ cho thì hoàn thành, không dùng để tạo câu phủ định ở thì hiện tại đơn.</li><li><b>has</b> (động từ chính / trợ động từ): 'Has' là dạng số ít ngôi thứ ba của 'have', dùng làm động từ chính hoặc trợ động từ trong thì hoàn thành, không dùng để tạo câu phủ định ở thì hiện tại đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn: Câu phủ định với chủ ngữ số ít ngôi thứ ba (he/she/it hoặc danh từ số ít): Chủ ngữ + does not (doesn't) + động từ nguyên mẫu.<br><br><b>Tạm dịch:</b> Chú tôi không ăn cá.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'My uncle__________not eat fish.', we need to fill in the blank with the correct auxiliary verb to form the negative present simple tense. The subject 'My uncle' is a singular third person, so we use 'does not' (doesn't) for negative sentences in the present simple tense with he/she/it or singular nouns.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb for negative sentences with 'I', 'you', 'we', 'they' in the present simple tense, not with third person singular subjects.</li><li><b>does</b> (auxiliary verb): 'Does' is the correct auxiliary verb for negative sentences with third person singular subjects (he, she, it, or singular nouns like 'my uncle') in the present simple tense.</li><li><b>have</b> (main verb / auxiliary verb): 'Have' is a main verb meaning 'to possess' or an auxiliary verb for perfect tenses, not used to form negatives in the present simple tense.</li><li><b>has</b> (main verb / auxiliary verb): 'Has' is the third person singular form of 'have', used as a main verb or auxiliary in perfect tenses, not for forming negatives in the present simple tense.</li></ul><b>Related structure or vocabulary:</b> Present Simple Tense: Negative form with third person singular (he/she/it or singular nouns): Subject + does not (doesn't) + base verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a0c",
+        "questionNumber": 8,
+        "questionText": "I_________not live here.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "does",
+            "raw": "B. does\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have",
+            "raw": "C. have\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has",
+            "raw": "D. has",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _________ not live here.' requires an auxiliary verb to form the negative present simple tense. For the subject 'I', the correct auxiliary verb is 'do'. The structure is: Subject + do/does + not + base verb. 'Do' is used with 'I', 'you', 'we', 'they'; 'does' is used with 'he', 'she', 'it'.<br><ul><li><b>do</b> (auxiliary verb): Auxiliary verb used with 'I', 'you', 'we', 'they' in present simple negative sentences.</li><li><b>does</b> (auxiliary verb): Auxiliary verb used with 'he', 'she', 'it' in present simple negative sentences.</li><li><b>have</b> (main verb / auxiliary verb): Main verb meaning 'to possess' or auxiliary verb for present perfect tense.</li><li><b>has</b> (main verb / auxiliary verb): Third person singular form of 'have', used with 'he', 'she', 'it'.</li></ul><b>Related structure or vocabulary:</b> Present simple negative: Subject + do/does + not + base verb<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I _________ not live here.' cần một trợ động từ để tạo thành câu phủ định ở thì hiện tại đơn. Với chủ ngữ 'I', trợ động từ đúng là 'do'. Cấu trúc là: Chủ ngữ + do/does + not + động từ nguyên thể. 'Do' dùng với 'I', 'you', 'we', 'they'; 'does' dùng với 'he', 'she', 'it'.<br><ul><li><b>do</b> (trợ động từ): Trợ động từ dùng với 'I', 'you', 'we', 'they' trong câu phủ định thì hiện tại đơn.</li><li><b>does</b> (trợ động từ): Trợ động từ dùng với 'he', 'she', 'it' trong câu phủ định thì hiện tại đơn.</li><li><b>have</b> (động từ chính / trợ động từ): Động từ chính nghĩa là 'có' hoặc trợ động từ trong thì hiện tại hoàn thành.</li><li><b>has</b> (động từ chính / trợ động từ): Dạng số ít ngôi thứ ba của 'have', dùng với 'he', 'she', 'it'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu phủ định thì hiện tại đơn: Chủ ngữ + do/does + not + động từ nguyên thể<br><br><b>Tạm dịch:</b> Tôi không sống ở đây.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _________ not live here.' requires an auxiliary verb to form the negative present simple tense. For the subject 'I', the correct auxiliary verb is 'do'. The structure is: Subject + do/does + not + base verb. 'Do' is used with 'I', 'you', 'we', 'they'; 'does' is used with 'he', 'she', 'it'.<br><ul><li><b>do</b> (auxiliary verb): Auxiliary verb used with 'I', 'you', 'we', 'they' in present simple negative sentences.</li><li><b>does</b> (auxiliary verb): Auxiliary verb used with 'he', 'she', 'it' in present simple negative sentences.</li><li><b>have</b> (main verb / auxiliary verb): Main verb meaning 'to possess' or auxiliary verb for present perfect tense.</li><li><b>has</b> (main verb / auxiliary verb): Third person singular form of 'have', used with 'he', 'she', 'it'.</li></ul><b>Related structure or vocabulary:</b> Present simple negative: Subject + do/does + not + base verb<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a0d",
+        "questionNumber": 9,
+        "questionText": "_________anybody rung up for me?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Do",
+            "raw": "A. Do\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Does",
+            "raw": "B. Does\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Have",
+            "raw": "C. Have\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Has",
+            "raw": "D. Has",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_________anybody rung up for me?' requires an auxiliary verb to form the present perfect tense. The present perfect is formed with 'have/has' + past participle (here: 'rung'). The subject 'anybody' is singular and indefinite, so we use 'has' with it.<br><ul><li><b>Do</b> (auxiliary verb): Present simple auxiliary verb, used with plural subjects or 'I/you'. Not used for present perfect.</li><li><b>Does</b> (auxiliary verb): Present simple auxiliary verb, used with singular third person subjects. Not used for present perfect.</li><li><b>Have</b> (auxiliary verb): Present perfect auxiliary verb, used with plural subjects or 'I/you'.</li><li><b>Has</b> (auxiliary verb): Present perfect auxiliary verb, used with singular third person subjects like 'anybody'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. 'Anybody' is treated as a singular subject, so we use 'has'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '_________anybody rung up for me?' cần một trợ động từ để tạo thì hiện tại hoàn thành. Thì hiện tại hoàn thành được hình thành bởi 'have/has' + quá khứ phân từ (ở đây là 'rung'). Chủ ngữ 'anybody' là số ít và không xác định, nên ta dùng 'has' với nó.<br><ul><li><b>Do</b> (trợ động từ): Trợ động từ thì hiện tại đơn, dùng với chủ ngữ số nhiều hoặc 'I/you'. Không dùng cho thì hiện tại hoàn thành.</li><li><b>Does</b> (trợ động từ): Trợ động từ thì hiện tại đơn, dùng với chủ ngữ số ít ngôi thứ ba. Không dùng cho thì hiện tại hoàn thành.</li><li><b>Have</b> (trợ động từ): Trợ động từ thì hiện tại hoàn thành, dùng với chủ ngữ số nhiều hoặc 'I/you'.</li><li><b>Has</b> (trợ động từ): Trợ động từ thì hiện tại hoàn thành, dùng với chủ ngữ số ít ngôi thứ ba như 'anybody'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + quá khứ phân từ. 'Anybody' được coi là chủ ngữ số ít nên dùng 'has'.<br><br><b>Tạm dịch:</b> Câu đầy đủ: Has anybody rung up for me? --> Có ai đã gọi cho tôi không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_________anybody rung up for me?' requires an auxiliary verb to form the present perfect tense. The present perfect is formed with 'have/has' + past participle (here: 'rung'). The subject 'anybody' is singular and indefinite, so we use 'has' with it.<br><ul><li><b>Do</b> (auxiliary verb): Present simple auxiliary verb, used with plural subjects or 'I/you'. Not used for present perfect.</li><li><b>Does</b> (auxiliary verb): Present simple auxiliary verb, used with singular third person subjects. Not used for present perfect.</li><li><b>Have</b> (auxiliary verb): Present perfect auxiliary verb, used with plural subjects or 'I/you'.</li><li><b>Has</b> (auxiliary verb): Present perfect auxiliary verb, used with singular third person subjects like 'anybody'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. 'Anybody' is treated as a singular subject, so we use 'has'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a0e",
+        "questionNumber": 10,
+        "questionText": "I_________not working today.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am",
+            "raw": "A. am",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "were",
+            "raw": "C. were\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was",
+            "raw": "D. was",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I_________not working today.' requires the correct form of the verb 'to be' to match the subject 'I' in the present continuous tense. The present continuous tense is formed with 'am/is/are + V-ing'. For the subject 'I', the correct form is 'am'.<br><ul><li><b>am</b> (verb (to be, present, first person singular)): 'am' is the present tense form of 'to be' used with the subject 'I'.</li><li><b>is</b> (verb (to be, present, third person singular)): 'is' is the present tense form of 'to be' used with singular third person subjects (he, she, it).</li><li><b>were</b> (verb (to be, past, plural/subjunctive)): 'were' is the past tense form of 'to be' used with plural subjects and 'you/we/they', and also with 'I' in the subjunctive mood.</li><li><b>was</b> (verb (to be, past, singular)): 'was' is the past tense form of 'to be' used with singular first and third person subjects (I, he, she, it).</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I_________not working today.' cần điền đúng dạng của động từ 'to be' phù hợp với chủ ngữ 'I' ở thì hiện tại tiếp diễn. Thì hiện tại tiếp diễn được hình thành với 'am/is/are + V-ing'. Với chủ ngữ 'I', ta dùng 'am'.<br><ul><li><b>am</b> (động từ (to be, hiện tại, ngôi thứ nhất số ít)): 'am' là dạng hiện tại của động từ 'to be' dùng với chủ ngữ 'I'.</li><li><b>is</b> (động từ (to be, hiện tại, ngôi thứ ba số ít)): 'is' là dạng hiện tại của động từ 'to be' dùng với chủ ngữ số ít ngôi thứ ba (he, she, it).</li><li><b>were</b> (động từ (to be, quá khứ, số nhiều/giả định)): 'were' là dạng quá khứ của động từ 'to be' dùng với các chủ ngữ số nhiều và 'you/we/they', hoặc với 'I' trong câu điều kiện giả định.</li><li><b>was</b> (động từ (to be, quá khứ, số ít)): 'was' là dạng quá khứ của động từ 'to be' dùng với chủ ngữ số ít ngôi thứ nhất và thứ ba (I, he, she, it).</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + V-ing<br><br><b>Tạm dịch:</b> Tôi không làm việc hôm nay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I_________not working today.' requires the correct form of the verb 'to be' to match the subject 'I' in the present continuous tense. The present continuous tense is formed with 'am/is/are + V-ing'. For the subject 'I', the correct form is 'am'.<br><ul><li><b>am</b> (verb (to be, present, first person singular)): 'am' is the present tense form of 'to be' used with the subject 'I'.</li><li><b>is</b> (verb (to be, present, third person singular)): 'is' is the present tense form of 'to be' used with singular third person subjects (he, she, it).</li><li><b>were</b> (verb (to be, past, plural/subjunctive)): 'were' is the past tense form of 'to be' used with plural subjects and 'you/we/they', and also with 'I' in the subjunctive mood.</li><li><b>was</b> (verb (to be, past, singular)): 'was' is the past tense form of 'to be' used with singular first and third person subjects (I, he, she, it).</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a0f",
+        "questionNumber": 11,
+        "questionText": "When her father came home, she_______talking on the phone.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was",
+            "raw": "A. was",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "had been",
+            "raw": "B. had been\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is",
+            "raw": "C. is\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have been",
+            "raw": "D. have been",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'When her father came home, she_______talking on the phone.' requires a verb tense that shows an action in progress at a specific time in the past. The correct tense for this situation is the past continuous (was/were + V-ing), which is used to describe an action that was happening at a particular moment in the past.<br><ul><li><b>was</b> (verb (auxiliary)): Past simple form of 'to be', used with V-ing to form the past continuous tense.</li><li><b>had been</b> (verb (auxiliary)): Past perfect continuous auxiliary, used with V-ing to show an action that started before another action in the past and continued up to that point.</li><li><b>is</b> (verb (auxiliary)): Present simple form of 'to be', used with V-ing to form the present continuous tense.</li><li><b>have been</b> (verb (auxiliary)): Present perfect continuous auxiliary, used with V-ing to show an action that started in the past and continues to the present.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing is used to describe an action that was happening at a specific time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'When her father came home, she_______talking on the phone.' cần một thì động từ diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ. Thì phù hợp nhất là thì quá khứ tiếp diễn (was/were + V-ing), dùng để mô tả hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ.<br><ul><li><b>was</b> (động từ (trợ động từ)): 'Was' là động từ to be ở thì quá khứ đơn, dùng với V-ing để tạo thành thì quá khứ tiếp diễn.</li><li><b>had been</b> (động từ (trợ động từ)): 'Had been' là trợ động từ của thì quá khứ hoàn thành tiếp diễn, dùng với V-ing để diễn tả hành động bắt đầu trước một hành động khác trong quá khứ và kéo dài đến thời điểm đó.</li><li><b>is</b> (động từ (trợ động từ)): 'Is' là động từ to be ở thì hiện tại đơn, dùng với V-ing để tạo thành thì hiện tại tiếp diễn.</li><li><b>have been</b> (động từ (trợ động từ)): 'Have been' là trợ động từ của thì hiện tại hoàn thành tiếp diễn, dùng với V-ing để diễn tả hành động bắt đầu trong quá khứ và vẫn còn tiếp tục đến hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn: was/were + V-ing dùng để diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ.<br><br><b>Tạm dịch:</b> Khi cha cô ấy về nhà, cô ấy đang nói chuyện điện thoại.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'When her father came home, she_______talking on the phone.' requires a verb tense that shows an action in progress at a specific time in the past. The correct tense for this situation is the past continuous (was/were + V-ing), which is used to describe an action that was happening at a particular moment in the past.<br><ul><li><b>was</b> (verb (auxiliary)): Past simple form of 'to be', used with V-ing to form the past continuous tense.</li><li><b>had been</b> (verb (auxiliary)): Past perfect continuous auxiliary, used with V-ing to show an action that started before another action in the past and continued up to that point.</li><li><b>is</b> (verb (auxiliary)): Present simple form of 'to be', used with V-ing to form the present continuous tense.</li><li><b>have been</b> (verb (auxiliary)): Present perfect continuous auxiliary, used with V-ing to show an action that started in the past and continues to the present.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing is used to describe an action that was happening at a specific time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a10",
+        "questionNumber": 12,
+        "questionText": "When I arrived at the party, Jane_________already gone home.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has",
+            "raw": "A. has\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "did",
+            "raw": "B. did\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had",
+            "raw": "C. had",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "no answer is correct",
+            "raw": "D. no answer is correct",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action 'Jane had already gone home' happened before the action 'I arrived at the party.' To show that one past action happened before another past action, we use the past perfect tense (had + past participle).<br><ul><li><b>has</b> (verb (present perfect)): 'Has' is the present perfect tense, which is used for actions that happened at an unspecified time before now. It is not correct here because both actions happened in the past.</li><li><b>did</b> (verb (simple past)): 'Did' is the simple past tense, which is used for actions that happened at a specific time in the past. It does not show the sequence of two past actions.</li><li><b>had</b> (auxiliary verb (past perfect)): 'Had' is used here as the auxiliary verb for the past perfect tense (had + past participle). It shows that Jane went home before I arrived.</li><li><b>no answer is correct</b> (phrase): This option is incorrect because there is a correct answer among the choices.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle is used to show that one action happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, hành động 'Jane đã về nhà' xảy ra trước hành động 'Tôi đến bữa tiệc'. Để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ).<br><ul><li><b>has</b> (động từ (hiện tại hoàn thành)): 'Has' là thì hiện tại hoàn thành, dùng cho hành động xảy ra trước thời điểm hiện tại nhưng không xác định rõ thời gian. Không phù hợp vì cả hai hành động đều xảy ra trong quá khứ.</li><li><b>did</b> (động từ (quá khứ đơn)): 'Did' là thì quá khứ đơn, dùng cho hành động xảy ra tại một thời điểm xác định trong quá khứ. Không thể hiện được thứ tự hai hành động trong quá khứ.</li><li><b>had</b> (trợ động từ (quá khứ hoàn thành)): 'Had' ở đây là trợ động từ dùng cho thì quá khứ hoàn thành (had + quá khứ phân từ), diễn tả hành động Jane về nhà xảy ra trước khi tôi đến.</li><li><b>no answer is correct</b> (cụm từ): Phương án này không đúng vì trong các lựa chọn đã có đáp án đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ, dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Khi tôi đến bữa tiệc, Jane đã về nhà rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action 'Jane had already gone home' happened before the action 'I arrived at the party.' To show that one past action happened before another past action, we use the past perfect tense (had + past participle).<br><ul><li><b>has</b> (verb (present perfect)): 'Has' is the present perfect tense, which is used for actions that happened at an unspecified time before now. It is not correct here because both actions happened in the past.</li><li><b>did</b> (verb (simple past)): 'Did' is the simple past tense, which is used for actions that happened at a specific time in the past. It does not show the sequence of two past actions.</li><li><b>had</b> (auxiliary verb (past perfect)): 'Had' is used here as the auxiliary verb for the past perfect tense (had + past participle). It shows that Jane went home before I arrived.</li><li><b>no answer is correct</b> (phrase): This option is incorrect because there is a correct answer among the choices.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle is used to show that one action happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a11",
+        "questionNumber": 13,
+        "questionText": "Who_________eaten my biscuits?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is",
+            "raw": "A. is\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "has",
+            "raw": "B. has",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "are",
+            "raw": "C. are\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Who_________eaten my biscuits?' requires the correct auxiliary verb to form the present perfect tense. The present perfect tense is formed with 'has/have' + past participle (eaten). 'Who' can be singular or plural, but in questions like this, it is usually treated as singular, referring to the person who has done the action.<br><ul><li><b>is</b> (verb (to be)): 'Is' is the present tense of the verb 'to be' and cannot be used with the past participle 'eaten' to form the present perfect tense.</li><li><b>has</b> (auxiliary verb): 'Has' is the correct auxiliary verb for the present perfect tense when the subject is third person singular (he, she, it, or 'who' when referring to one person).</li><li><b>are</b> (verb (to be)): 'Are' is the present tense of the verb 'to be' for plural subjects and cannot be used with 'eaten' to form the present perfect tense.</li><li><b>have</b> (auxiliary verb): 'Have' is the auxiliary verb for the present perfect tense with plural subjects or 'I/you/we/they', but with 'who' as a singular subject, 'has' is preferred.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. 'Who' as a subject in questions usually takes 'has' when referring to a single person.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'Who_________eaten my biscuits?' cần điền trợ động từ đúng để tạo thì hiện tại hoàn thành. Thì hiện tại hoàn thành được hình thành với 'has/have' + quá khứ phân từ (eaten). 'Who' có thể là số ít hoặc số nhiều, nhưng trong các câu hỏi như thế này, thường được coi là số ít, ám chỉ người đã thực hiện hành động.<br><ul><li><b>is</b> (động từ (to be)): 'Is' là thì hiện tại của động từ 'to be' và không thể dùng với quá khứ phân từ 'eaten' để tạo thì hiện tại hoàn thành.</li><li><b>has</b> (trợ động từ): 'Has' là trợ động từ đúng cho thì hiện tại hoàn thành khi chủ ngữ là ngôi thứ ba số ít (he, she, it, hoặc 'who' khi ám chỉ một người).</li><li><b>are</b> (động từ (to be)): 'Are' là thì hiện tại của động từ 'to be' cho chủ ngữ số nhiều và không thể dùng với 'eaten' để tạo thì hiện tại hoàn thành.</li><li><b>have</b> (trợ động từ): 'Have' là trợ động từ cho thì hiện tại hoàn thành với chủ ngữ số nhiều hoặc 'I/you/we/they', nhưng với 'who' là chủ ngữ số ít, 'has' là lựa chọn đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + quá khứ phân từ. 'Who' làm chủ ngữ trong câu hỏi thường dùng 'has' khi ám chỉ một người.<br><br><b>Tạm dịch:</b> Ai đã ăn bánh quy của tôi vậy?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Who_________eaten my biscuits?' requires the correct auxiliary verb to form the present perfect tense. The present perfect tense is formed with 'has/have' + past participle (eaten). 'Who' can be singular or plural, but in questions like this, it is usually treated as singular, referring to the person who has done the action.<br><ul><li><b>is</b> (verb (to be)): 'Is' is the present tense of the verb 'to be' and cannot be used with the past participle 'eaten' to form the present perfect tense.</li><li><b>has</b> (auxiliary verb): 'Has' is the correct auxiliary verb for the present perfect tense when the subject is third person singular (he, she, it, or 'who' when referring to one person).</li><li><b>are</b> (verb (to be)): 'Are' is the present tense of the verb 'to be' for plural subjects and cannot be used with 'eaten' to form the present perfect tense.</li><li><b>have</b> (auxiliary verb): 'Have' is the auxiliary verb for the present perfect tense with plural subjects or 'I/you/we/they', but with 'who' as a singular subject, 'has' is preferred.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. 'Who' as a subject in questions usually takes 'has' when referring to a single person.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a12",
+        "questionNumber": 14,
+        "questionText": "It __________not matter.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is",
+            "raw": "A. is\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "does",
+            "raw": "B. does",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "do",
+            "raw": "D. do",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It __________ not matter.' requires the correct auxiliary verb to form the negative present simple tense. In English, when making negative statements in the present simple tense (except for the verb 'to be'), we use 'do/does + not + base verb'. Since the subject is 'It' (third person singular), we use 'does not' before the base verb 'matter'.<br><ul><li><b>is</b> (verb (to be)): 'Is' is the present simple form of the verb 'to be'. It is not used to form negatives with other verbs.</li><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used with third person singular subjects (he, she, it) to form questions and negatives in the present simple tense.</li><li><b>has</b> (verb (to have)): 'Has' is the present simple form of the verb 'to have' for third person singular subjects. It is not used to form negatives with other verbs.</li><li><b>do</b> (auxiliary verb): 'Do' is the auxiliary verb used with plural subjects and 'I/you/we/they' in the present simple tense. It is not correct for 'it'.</li></ul><b>Related structure or vocabulary:</b> Present Simple Negative: Subject + does not + base verb (for he/she/it). Example: It does not matter.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'It __________ not matter.' cần một trợ động từ phù hợp để tạo thành câu phủ định ở thì hiện tại đơn. Trong tiếng Anh, khi tạo câu phủ định ở thì hiện tại đơn (trừ động từ 'to be'), ta dùng 'do/does + not + động từ nguyên thể'. Vì chủ ngữ là 'It' (ngôi thứ ba số ít), ta dùng 'does not' trước động từ nguyên thể 'matter'.<br><ul><li><b>is</b> (động từ (to be)): 'Is' là động từ 'to be' ở thì hiện tại đơn. Không dùng 'is' để tạo câu phủ định với các động từ khác.</li><li><b>does</b> (trợ động từ): 'Does' là trợ động từ dùng với chủ ngữ ngôi thứ ba số ít (he, she, it) để tạo câu hỏi và câu phủ định ở thì hiện tại đơn.</li><li><b>has</b> (động từ (to have)): 'Has' là động từ 'to have' ở thì hiện tại đơn cho ngôi thứ ba số ít. Không dùng 'has' để tạo câu phủ định với các động từ khác.</li><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng với các chủ ngữ số nhiều và 'I/you/we/they' ở thì hiện tại đơn. Không đúng với 'it'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu phủ định thì hiện tại đơn: Chủ ngữ + does not + động từ nguyên thể (với he/she/it). Ví dụ: It does not matter.<br><br><b>Tạm dịch:</b> It does not matter. --> Điều đó không quan trọng/không thành vấn đề.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It __________ not matter.' requires the correct auxiliary verb to form the negative present simple tense. In English, when making negative statements in the present simple tense (except for the verb 'to be'), we use 'do/does + not + base verb'. Since the subject is 'It' (third person singular), we use 'does not' before the base verb 'matter'.<br><ul><li><b>is</b> (verb (to be)): 'Is' is the present simple form of the verb 'to be'. It is not used to form negatives with other verbs.</li><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used with third person singular subjects (he, she, it) to form questions and negatives in the present simple tense.</li><li><b>has</b> (verb (to have)): 'Has' is the present simple form of the verb 'to have' for third person singular subjects. It is not used to form negatives with other verbs.</li><li><b>do</b> (auxiliary verb): 'Do' is the auxiliary verb used with plural subjects and 'I/you/we/they' in the present simple tense. It is not correct for 'it'.</li></ul><b>Related structure or vocabulary:</b> Present Simple Negative: Subject + does not + base verb (for he/she/it). Example: It does not matter.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249cec83f28145bcbb6a13",
+        "questionNumber": 15,
+        "questionText": "What music_______played?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be",
+            "raw": "A. will be",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "won't",
+            "raw": "B. won't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "would",
+            "raw": "C. would\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had be",
+            "raw": "D. had be",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What music_______played?' requires a verb form that fits the passive voice in a question. In passive voice questions, the structure is: 'What + be (in the correct tense) + past participle?' Since there is no specific time mentioned, the most natural choice is the future simple passive: 'will be played.'<br><ul><li><b>will be</b> (auxiliary verb + be): This is the correct form for the future simple passive voice: 'will be + past participle.'</li><li><b>won't</b> (auxiliary verb (negative)): This is the contracted form of 'will not,' which is negative and incomplete for the passive structure.</li><li><b>would</b> (modal verb): 'Would' is used for conditional or polite requests, but here it is incomplete for the passive structure.</li><li><b>had be</b> (auxiliary verb (incorrect form)): 'Had be' is grammatically incorrect; the correct past perfect passive would be 'had been played.'</li></ul><b>Related structure or vocabulary:</b> Passive voice in questions: What + will be + past participle?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'What music_______played?' cần một động từ phù hợp với câu bị động ở dạng câu hỏi. Cấu trúc câu bị động ở dạng câu hỏi là: 'What + be (ở thì phù hợp) + quá khứ phân từ?' Vì không có thời gian cụ thể, lựa chọn tự nhiên nhất là thì tương lai đơn bị động: 'will be played.'<br><ul><li><b>will be</b> (trợ động từ + be): Đây là dạng đúng của thì tương lai đơn bị động: 'will be + quá khứ phân từ.'</li><li><b>won't</b> (trợ động từ (phủ định)): Đây là dạng rút gọn của 'will not', mang nghĩa phủ định và không đầy đủ cho cấu trúc bị động.</li><li><b>would</b> (động từ khuyết thiếu): 'Would' dùng cho câu điều kiện hoặc yêu cầu lịch sự, nhưng ở đây không đủ cấu trúc bị động.</li><li><b>had be</b> (trợ động từ (sai cấu trúc)): 'Had be' là sai ngữ pháp; dạng đúng của quá khứ hoàn thành bị động là 'had been played.'</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở dạng câu hỏi: What + will be + quá khứ phân từ?<br><br><b>Tạm dịch:</b> Câu hỏi: What music will be played? --> Âm nhạc nào sẽ được chơi?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What music_______played?' requires a verb form that fits the passive voice in a question. In passive voice questions, the structure is: 'What + be (in the correct tense) + past participle?' Since there is no specific time mentioned, the most natural choice is the future simple passive: 'will be played.'<br><ul><li><b>will be</b> (auxiliary verb + be): This is the correct form for the future simple passive voice: 'will be + past participle.'</li><li><b>won't</b> (auxiliary verb (negative)): This is the contracted form of 'will not,' which is negative and incomplete for the passive structure.</li><li><b>would</b> (modal verb): 'Would' is used for conditional or polite requests, but here it is incomplete for the passive structure.</li><li><b>had be</b> (auxiliary verb (incorrect form)): 'Had be' is grammatically incorrect; the correct past perfect passive would be 'had been played.'</li></ul><b>Related structure or vocabulary:</b> Passive voice in questions: What + will be + past participle?<br><br>"
+      }
+    }
+  ]
+}

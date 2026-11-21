@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b158",
+  "title": "Từ vựng: Doctor's Office",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b324",
+        "questionNumber": 1,
+        "questionText": "annually",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev541.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/annually.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "once a year",
+            "raw": "once a year",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Your&nbsp;starting&nbsp;salary&nbsp;is &pound;23,000&nbsp;per&nbsp;annum&nbsp;and will be&nbsp;reviewed&nbsp;<strong>annually</strong>.</p>\n",
+        "explanationViHtml": "<p>Mức lương khởi điểm của bạn l&agrave; 23000 bảng mỗi năm v&agrave; sẽ được xem x&eacute;t lại <strong>h&agrave;ng năm</strong>.</p>\n",
+        "transcriptHtml": "<p>Your&nbsp;starting&nbsp;salary&nbsp;is &pound;23,000&nbsp;per&nbsp;annum&nbsp;and will be&nbsp;reviewed&nbsp;<strong>annually</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b325",
+        "questionNumber": 2,
+        "questionText": "appointment",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev542.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/appointment.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "rrangements for a meeting; a position in a profession",
+            "raw": "arrangements for a meeting; a position in a profession",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>To get the most out of your <strong>appointment</strong>, keep a log of your symptoms and concerns.</p>\n",
+        "explanationViHtml": "<p>Để tận dụng tối đa <strong>buổi hẹn</strong>, h&atilde;y lưu lại c&aacute;c triệu chứng v&agrave; mối lo ngại của bạn.</p>\n",
+        "transcriptHtml": "<p>To get the most out of your <strong>appointment</strong>, keep a log of your symptoms and concerns.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b326",
+        "questionNumber": 3,
+        "questionText": "assess",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev543.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assess.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to determine the value or rate of something",
+            "raw": "to determine the value or rate of something",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The physical therapist <strong>assessed</strong> the amount of mobility Ms. Crowl had lost after her stroke.</p>\n",
+        "explanationViHtml": "<p>Chuy&ecirc;n vi&ecirc;n vật l&yacute; trị liệu đ&atilde; <strong>đ&aacute;nh gi&aacute;</strong> mức độ suy giảm khả năng vận động của c&ocirc; Crowl sau cơn đột quỵ.</p>\n",
+        "transcriptHtml": "<p>The physical therapist <strong>assessed</strong> the amount of mobility Ms. Crowl had lost after her stroke.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b327",
+        "questionNumber": 4,
+        "questionText": "diagnose",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev544.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/diagnose.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to recognize a disease; to analyze the nature of something",
+            "raw": "to recognize a disease; to analyze the nature of something",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>After considering the patient&rsquo;s symptoms and looking at his test results, the doctor <strong>diagnosed</strong> the lump as benign.</p>\n",
+        "explanationViHtml": "<p>Sau khi xem x&eacute;t c&aacute;c triệu chứng của bệnh nh&acirc;n v&agrave; kết quả x&eacute;t nghiệm, b&aacute;c sĩ <strong>chẩn đo&aacute;n</strong> khối u l&agrave; l&agrave;nh t&iacute;nh.</p>\n",
+        "transcriptHtml": "<p>After considering the patient&rsquo;s symptoms and looking at his test results, the doctor <strong>diagnosed</strong> the lump as benign.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b328",
+        "questionNumber": 5,
+        "questionText": "effective",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev545.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/effective.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "producing the desired effect: being in effect",
+            "raw": "producing the desired effect: being in effect",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Anna was pleased to find that the diet recommended by her doctor was quite <strong>effective</strong>.</p>\n",
+        "explanationViHtml": "<p>Anna rất vui khi nhận thấy rằng chế độ ăn ki&ecirc;ng do b&aacute;c sĩ khuy&ecirc;n d&ugrave;ng kh&aacute; <strong>hiệu quả</strong>.</p>\n",
+        "transcriptHtml": "<p>Anna was pleased to find that the diet recommended by her doctor was quite <strong>effective</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b329",
+        "questionNumber": 6,
+        "questionText": "instrument",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev546.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/instrument.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "tool for precise work; the means whereby something is achieved",
+            "raw": "a tool for precise work; the means whereby something is achieved",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The pediatrician tried not to frighten the children with her strange-looking <strong>instruments</strong></p>\n",
+        "explanationViHtml": "<p>B&aacute;c sĩ nhi khoa cố gắng kh&ocirc;ng l&agrave;m bọn trẻ sợ h&atilde;i với những <strong>dụng cụ</strong> tr&ocirc;ng lạ mắt của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>The pediatrician tried not to frighten the children with her strange-looking <strong>instruments</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b32a",
+        "questionNumber": 7,
+        "questionText": "manage",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev547.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/manage.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to handle; to deal with; to guide",
+            "raw": "to handle; to deal with; to guide",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The head nurse&rsquo;s ability to <strong>manage</strong> her staff through a difficult time caught the hospital administrator&rsquo;s attention.</p>\n",
+        "explanationViHtml": "<p>Năng lực <strong>quản l&yacute;</strong> nh&acirc;n vi&ecirc;n vượt qua giai đoạn kh&oacute; khăn của y t&aacute; trưởng đ&atilde; thu h&uacute;t sự ch&uacute; &yacute; của quản l&yacute; bệnh viện.</p>\n",
+        "transcriptHtml": "<p>The head nurse&rsquo;s ability to <strong>manage</strong> her staff through a difficult time caught the hospital administrator&rsquo;s attention.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b32b",
+        "questionNumber": 8,
+        "questionText": "prevent",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev548.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/prevent.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to keep from happening; to hinder",
+            "raw": "to keep from happening; to hinder",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>By encouraging teenagers not to smoke. doctors are hoping to <strong>prevent</strong> many cases of cancer.</p>\n",
+        "explanationViHtml": "<p>Bằng c&aacute;ch khuyến kh&iacute;ch thanh thiếu ni&ecirc;n kh&ocirc;ng h&uacute;t thuốc, c&aacute;c b&aacute;c sĩ hy vọng <strong>ngăn ngừa</strong> được nhiều trường hợp ung thư.</p>\n",
+        "transcriptHtml": "<p>By encouraging teenagers not to smoke. doctors are hoping to <strong>prevent</strong> many cases of cancer.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b32c",
+        "questionNumber": 9,
+        "questionText": "recommendation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev549.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/recommendation.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "dvice; endorsement",
+            "raw": "advice; endorsement",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I&nbsp;bought&nbsp;this&nbsp;computer&nbsp;on&nbsp;John&#39;s <strong>recommendation.</strong></p>\n",
+        "explanationViHtml": "<p>T&ocirc;i đ&atilde; mua chiếc m&aacute;y t&iacute;nh n&agrave;y theo <strong>đề xuất</strong> của John.</p>\n",
+        "transcriptHtml": "<p>I&nbsp;bought&nbsp;this&nbsp;computer&nbsp;on&nbsp;John&#39;s <strong>recommendation.</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b32d",
+        "questionNumber": 10,
+        "questionText": "record",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev550.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/record.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to set down in writing; an official copy of documents",
+            "raw": "to set down in writing; an official copy of documents",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Ms. Han typed a written request for her medical <strong>records</strong>.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; Han đ&atilde; đ&aacute;nh m&aacute;y một y&ecirc;u cầu bằng văn bản để xin <strong>hồ sơ</strong> bệnh &aacute;n của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>Ms. Han typed a written request for her medical <strong>records</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b32e",
+        "questionNumber": 11,
+        "questionText": "refer",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev551.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/refer.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to direct for treatment or information; to mention",
+            "raw": "to direct for treatment or information; to mention",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I was <strong>referred</strong> to this specialist by the family practice nurse.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i được y t&aacute; tại ph&ograve;ng kh&aacute;m gia đ&igrave;nh <strong>giới thiệu</strong> đến chuy&ecirc;n gia n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>I was <strong>referred</strong> to this specialist by the family practice nurse.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b32f",
+        "questionNumber": 12,
+        "questionText": "serious",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev552.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/serious.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "weighty",
+            "raw": "weighty",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The impact of the <strong>serious</strong> news could be read on everyone&rsquo;s face.</p>\n",
+        "explanationViHtml": "<p>Ảnh hưởng của tin tức <strong>nghi&ecirc;m trọng</strong> c&oacute; thể thấy r&otilde; tr&ecirc;n gương mặt của mọi người.</p>\n",
+        "transcriptHtml": "<p>The impact of the <strong>serious</strong> news could be read on everyone&rsquo;s face.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b324",
+      "word": "annually",
+      "phonetic": "/ˈænjuəli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev541.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/annually.mp3",
+      "meaningVi": "hàng năm",
+      "meaningEn": "once a year",
+      "exampleEnHtml": "<p>Your&nbsp;starting&nbsp;salary&nbsp;is &pound;23,000&nbsp;per&nbsp;annum&nbsp;and will be&nbsp;reviewed&nbsp;<strong>annually</strong>.</p>\n",
+      "exampleViHtml": "<p>Mức lương khởi điểm của bạn l&agrave; 23000 bảng mỗi năm v&agrave; sẽ được xem x&eacute;t lại <strong>h&agrave;ng năm</strong>.</p>\n",
+      "exampleEn": "Your starting salary is £23,000 per annum and will be reviewed annually.",
+      "exampleVi": "Mức lương khởi điểm của bạn là 23000 bảng mỗi năm và sẽ được xem xét lại hàng năm."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b325",
+      "word": "appointment",
+      "phonetic": "/əˈpɔɪntmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev542.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/appointment.mp3",
+      "meaningVi": "buổi hẹn",
+      "meaningEn": "arrangements for a meeting; a position in a profession",
+      "exampleEnHtml": "<p>To get the most out of your <strong>appointment</strong>, keep a log of your symptoms and concerns.</p>\n",
+      "exampleViHtml": "<p>Để tận dụng tối đa <strong>buổi hẹn</strong>, h&atilde;y lưu lại c&aacute;c triệu chứng v&agrave; mối lo ngại của bạn.</p>\n",
+      "exampleEn": "To get the most out of your appointment, keep a log of your symptoms and concerns.",
+      "exampleVi": "Để tận dụng tối đa buổi hẹn, hãy lưu lại các triệu chứng và mối lo ngại của bạn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b326",
+      "word": "assess",
+      "phonetic": "/əˈses/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev543.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assess.mp3",
+      "meaningVi": "đánh giá",
+      "meaningEn": "to determine the value or rate of something",
+      "exampleEnHtml": "<p>The physical therapist <strong>assessed</strong> the amount of mobility Ms. Crowl had lost after her stroke.</p>\n",
+      "exampleViHtml": "<p>Chuy&ecirc;n vi&ecirc;n vật l&yacute; trị liệu đ&atilde; <strong>đ&aacute;nh gi&aacute;</strong> mức độ suy giảm khả năng vận động của c&ocirc; Crowl sau cơn đột quỵ.</p>\n",
+      "exampleEn": "The physical therapist assessed the amount of mobility Ms. Crowl had lost after her stroke.",
+      "exampleVi": "Chuyên viên vật lý trị liệu đã đánh giá mức độ suy giảm khả năng vận động của cô Crowl sau cơn đột quỵ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b327",
+      "word": "diagnose",
+      "phonetic": "/ˌdaɪəɡˈnoʊs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev544.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/diagnose.mp3",
+      "meaningVi": "chẩn đoán",
+      "meaningEn": "to recognize a disease; to analyze the nature of something",
+      "exampleEnHtml": "<p>After considering the patient&rsquo;s symptoms and looking at his test results, the doctor <strong>diagnosed</strong> the lump as benign.</p>\n",
+      "exampleViHtml": "<p>Sau khi xem x&eacute;t c&aacute;c triệu chứng của bệnh nh&acirc;n v&agrave; kết quả x&eacute;t nghiệm, b&aacute;c sĩ <strong>chẩn đo&aacute;n</strong> khối u l&agrave; l&agrave;nh t&iacute;nh.</p>\n",
+      "exampleEn": "After considering the patient’s symptoms and looking at his test results, the doctor diagnosed the lump as benign.",
+      "exampleVi": "Sau khi xem xét các triệu chứng của bệnh nhân và kết quả xét nghiệm, bác sĩ chẩn đoán khối u là lành tính."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b328",
+      "word": "effective",
+      "phonetic": "/ɪˈfektɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev545.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/effective.mp3",
+      "meaningVi": "hiệu quả",
+      "meaningEn": "producing the desired effect: being in effect",
+      "exampleEnHtml": "<p>Anna was pleased to find that the diet recommended by her doctor was quite <strong>effective</strong>.</p>\n",
+      "exampleViHtml": "<p>Anna rất vui khi nhận thấy rằng chế độ ăn ki&ecirc;ng do b&aacute;c sĩ khuy&ecirc;n d&ugrave;ng kh&aacute; <strong>hiệu quả</strong>.</p>\n",
+      "exampleEn": "Anna was pleased to find that the diet recommended by her doctor was quite effective.",
+      "exampleVi": "Anna rất vui khi nhận thấy rằng chế độ ăn kiêng do bác sĩ khuyên dùng khá hiệu quả."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b329",
+      "word": "instrument",
+      "phonetic": "/ˈɪnstrəmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev546.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/instrument.mp3",
+      "meaningVi": "dụng cụ",
+      "meaningEn": "a tool for precise work; the means whereby something is achieved",
+      "exampleEnHtml": "<p>The pediatrician tried not to frighten the children with her strange-looking <strong>instruments</strong></p>\n",
+      "exampleViHtml": "<p>B&aacute;c sĩ nhi khoa cố gắng kh&ocirc;ng l&agrave;m bọn trẻ sợ h&atilde;i với những <strong>dụng cụ</strong> tr&ocirc;ng lạ mắt của m&igrave;nh.</p>\n",
+      "exampleEn": "The pediatrician tried not to frighten the children with her strange-looking instruments",
+      "exampleVi": "Bác sĩ nhi khoa cố gắng không làm bọn trẻ sợ hãi với những dụng cụ trông lạ mắt của mình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b32a",
+      "word": "manage",
+      "phonetic": "/ˈmænɪdʒ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev547.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/manage.mp3",
+      "meaningVi": "quản lý",
+      "meaningEn": "to handle; to deal with; to guide",
+      "exampleEnHtml": "<p>The head nurse&rsquo;s ability to <strong>manage</strong> her staff through a difficult time caught the hospital administrator&rsquo;s attention.</p>\n",
+      "exampleViHtml": "<p>Năng lực <strong>quản l&yacute;</strong> nh&acirc;n vi&ecirc;n vượt qua giai đoạn kh&oacute; khăn của y t&aacute; trưởng đ&atilde; thu h&uacute;t sự ch&uacute; &yacute; của quản l&yacute; bệnh viện.</p>\n",
+      "exampleEn": "The head nurse’s ability to manage her staff through a difficult time caught the hospital administrator’s attention.",
+      "exampleVi": "Năng lực quản lý nhân viên vượt qua giai đoạn khó khăn của y tá trưởng đã thu hút sự chú ý của quản lý bệnh viện."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b32b",
+      "word": "prevent",
+      "phonetic": "/prɪˈvent/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev548.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/prevent.mp3",
+      "meaningVi": "ngăn ngừa",
+      "meaningEn": "to keep from happening; to hinder",
+      "exampleEnHtml": "<p>By encouraging teenagers not to smoke. doctors are hoping to <strong>prevent</strong> many cases of cancer.</p>\n",
+      "exampleViHtml": "<p>Bằng c&aacute;ch khuyến kh&iacute;ch thanh thiếu ni&ecirc;n kh&ocirc;ng h&uacute;t thuốc, c&aacute;c b&aacute;c sĩ hy vọng <strong>ngăn ngừa</strong> được nhiều trường hợp ung thư.</p>\n",
+      "exampleEn": "By encouraging teenagers not to smoke. doctors are hoping to prevent many cases of cancer.",
+      "exampleVi": "Bằng cách khuyến khích thanh thiếu niên không hút thuốc, các bác sĩ hy vọng ngăn ngừa được nhiều trường hợp ung thư."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b32c",
+      "word": "recommendation",
+      "phonetic": "/ˌrekəmenˈdeɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev549.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/recommendation.mp3",
+      "meaningVi": "đề xuất",
+      "meaningEn": "advice; endorsement",
+      "exampleEnHtml": "<p>I&nbsp;bought&nbsp;this&nbsp;computer&nbsp;on&nbsp;John&#39;s <strong>recommendation.</strong></p>\n",
+      "exampleViHtml": "<p>T&ocirc;i đ&atilde; mua chiếc m&aacute;y t&iacute;nh n&agrave;y theo <strong>đề xuất</strong> của John.</p>\n",
+      "exampleEn": "I bought this computer on John's recommendation.",
+      "exampleVi": "Tôi đã mua chiếc máy tính này theo đề xuất của John."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b32d",
+      "word": "record",
+      "phonetic": "/ˈrekərd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev550.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/record.mp3",
+      "meaningVi": "hồ sơ",
+      "meaningEn": "to set down in writing; an official copy of documents",
+      "exampleEnHtml": "<p>Ms. Han typed a written request for her medical <strong>records</strong>.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; Han đ&atilde; đ&aacute;nh m&aacute;y một y&ecirc;u cầu bằng văn bản để xin <strong>hồ sơ</strong> bệnh &aacute;n của m&igrave;nh.</p>\n",
+      "exampleEn": "Ms. Han typed a written request for her medical records.",
+      "exampleVi": "Cô Han đã đánh máy một yêu cầu bằng văn bản để xin hồ sơ bệnh án của mình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b32e",
+      "word": "refer",
+      "phonetic": "/rɪˈfɜːr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev551.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/refer.mp3",
+      "meaningVi": "giới thiệu",
+      "meaningEn": "to direct for treatment or information; to mention",
+      "exampleEnHtml": "<p>I was <strong>referred</strong> to this specialist by the family practice nurse.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i được y t&aacute; tại ph&ograve;ng kh&aacute;m gia đ&igrave;nh <strong>giới thiệu</strong> đến chuy&ecirc;n gia n&agrave;y.</p>\n",
+      "exampleEn": "I was referred to this specialist by the family practice nurse.",
+      "exampleVi": "Tôi được y tá tại phòng khám gia đình giới thiệu đến chuyên gia này."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b32f",
+      "word": "serious",
+      "phonetic": "/ˈsɪriəs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev552.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/serious.mp3",
+      "meaningVi": "nghiêm trọng",
+      "meaningEn": "weighty",
+      "exampleEnHtml": "<p>The impact of the <strong>serious</strong> news could be read on everyone&rsquo;s face.</p>\n",
+      "exampleViHtml": "<p>Ảnh hưởng của tin tức <strong>nghi&ecirc;m trọng</strong> c&oacute; thể thấy r&otilde; tr&ecirc;n gương mặt của mọi người.</p>\n",
+      "exampleEn": "The impact of the serious news could be read on everyone’s face.",
+      "exampleVi": "Ảnh hưởng của tin tức nghiêm trọng có thể thấy rõ trên gương mặt của mọi người."
+    }
+  ],
+  "totalFlashcards": 12
+}

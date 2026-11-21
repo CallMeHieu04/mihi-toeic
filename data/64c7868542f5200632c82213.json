@@ -1,0 +1,1594 @@
+{
+  "topicId": "64c7868542f5200632c82213",
+  "title": "Part 3: Conversations - Test 21",
+  "totalCards": 13,
+  "totalQuestions": 39,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c82214",
+      "audioUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/27/70107173.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<strong>Transcript:</strong><br>W: Hi, I'm calling to find out if your restaurant can accommodate a group of sixty people. <strong>(Q1) My company gives out awards every year, and l'm in charge of organizing the event.</strong><br>M: Hmm ... I don't know whether <strong>(Q2) our chef would be comfortable handling such a large group at once.</strong> <strong>(Q3) I’ll talk to him and see what he thinks.</strong><br>W: All right. Here is my phone number, 501-2458792. And could you call me back after lunch time? <strong>(Q3) I have a client meeting this morning</strong>.<br>M: Sure. Thanks for considering us.",
+      "transcriptViHtml": "<strong>Transcript:</strong><br>W: Xin chào, tôi gọi để hỏi xem nhà hàng của anh có thể phục vụ nhóm sáu mươi người không. <strong>(Q1) Công ty tôi sẽ có lễ trao giải thưởng hàng năm và tôi phụ trách tổ chức sự kiện này.</strong><br>M: Ừm ... Tôi không chắc liệu <strong>(Q2) bếp trưởng của chúng tôi có tự tin làm tốt việc phục vụ một nhóm lớn như vậy cùng một lúc không.</strong> <strong>(Q3) Tôi sẽ nói chuyện với anh ấy và xem anh ấy nghĩ gì.</strong><br>W: Được rồi. Đây là số điện thoại của tôi, 501-2458792. Anh có thể gọi lại cho tôi sau giờ ăn trưa không? <strong>(Q3) Tôi có cuộc họp với khách hàng vào sáng nay</strong>.<br>M: Chắc chắn rồi. Cảm ơn cô đã cân nhắc lựa chọn nhà hàng chúng tôi.",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82221",
+          "questionNumber": 1,
+          "questionText": "What event is the woman organizing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/27/70107173.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "An awards dinner",
+              "raw": "(A) An awards dinner",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "A company picnic",
+              "raw": "(B) A company picnic",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "An orientation session",
+              "raw": "(C) An orientation session",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A visit from VIP guests",
+              "raw": "(D) A visit from VIP guests",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<strong>Transcript:</strong><br>W: Xin chào, tôi gọi để hỏi xem nhà hàng của anh có thể phục vụ nhóm sáu mươi người không. <strong>(Q1) Công ty tôi sẽ có lễ trao giải thưởng hàng năm và tôi phụ trách tổ chức sự kiện này.</strong><br>M: Ừm ... Tôi không chắc liệu <strong>(Q2) bếp trưởng của chúng tôi có tự tin làm tốt việc phục vụ một nhóm lớn như vậy cùng một lúc không.</strong> <strong>(Q3) Tôi sẽ nói chuyện với anh ấy và xem anh ấy nghĩ gì.</strong><br>W: Được rồi. Đây là số điện thoại của tôi, 501-2458792. Anh có thể gọi lại cho tôi sau giờ ăn trưa không? <strong>(Q3) Tôi có cuộc họp với khách hàng vào sáng nay</strong>.<br>M: Chắc chắn rồi. Cảm ơn cô đã cân nhắc lựa chọn nhà hàng chúng tôi.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82222",
+          "questionNumber": 2,
+          "questionText": "What does the man plan to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/27/70107173.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Check a booking form",
+              "raw": "(A) Check a booking form",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Speak to a chef",
+              "raw": "(B) Speak to a chef",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Make a list of dishes",
+              "raw": "(C) Make a list of dishes",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Rearrange some tables",
+              "raw": "(D) Rearrange some tables",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<strong>Transcript:</strong><br>W: Xin chào, tôi gọi để hỏi xem nhà hàng của anh có thể phục vụ nhóm sáu mươi người không. <strong>(Q1) Công ty tôi sẽ có lễ trao giải thưởng hàng năm và tôi phụ trách tổ chức sự kiện này.</strong><br>M: Ừm ... Tôi không chắc liệu <strong>(Q2) bếp trưởng của chúng tôi có tự tin làm tốt việc phục vụ một nhóm lớn như vậy cùng một lúc không.</strong> <strong>(Q3) Tôi sẽ nói chuyện với anh ấy và xem anh ấy nghĩ gì.</strong><br>W: Được rồi. Đây là số điện thoại của tôi, 501-2458792. Anh có thể gọi lại cho tôi sau giờ ăn trưa không? <strong>(Q3) Tôi có cuộc họp với khách hàng vào sáng nay</strong>.<br>M: Chắc chắn rồi. Cảm ơn cô đã cân nhắc lựa chọn nhà hàng chúng tôi.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82223",
+          "questionNumber": 3,
+          "questionText": "What will the woman do this morning?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/27/70107173.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Update a computer",
+              "raw": "(A) Update a computer",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Give a presentation",
+              "raw": "(B) Give a presentation",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Meet a client",
+              "raw": "(C) Meet a client",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Send a package",
+              "raw": "(D) Send a package",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<strong>Transcript:</strong><br>W: Xin chào, tôi gọi để hỏi xem nhà hàng của anh có thể phục vụ nhóm sáu mươi người không. <strong>(Q1) Công ty tôi sẽ có lễ trao giải thưởng hàng năm và tôi phụ trách tổ chức sự kiện này.</strong><br>M: Ừm ... Tôi không chắc liệu <strong>(Q2) bếp trưởng của chúng tôi có tự tin làm tốt việc phục vụ một nhóm lớn như vậy cùng một lúc không.</strong> <strong>(Q3) Tôi sẽ nói chuyện với anh ấy và xem anh ấy nghĩ gì.</strong><br>W: Được rồi. Đây là số điện thoại của tôi, 501-2458792. Anh có thể gọi lại cho tôi sau giờ ăn trưa không? <strong>(Q3) Tôi có cuộc họp với khách hàng vào sáng nay</strong>.<br>M: Chắc chắn rồi. Cảm ơn cô đã cân nhắc lựa chọn nhà hàng chúng tôi.",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c82215",
+      "audioUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/27/91936217.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nM: Excuse me. <strong>(Q4) Does your theater have a lost and found box?</strong><br />\nW: I&#39;m sorry. We don&#39;t, but there might be something that I can help.<br />\nM: Well, I got out of the Scott Viego film about half an hour ago, but <strong>(Q5) I realized I don&#39;t have my sweater with me. I don&#39;t know where it is, but I think I must have left it on my seat.</strong><br />\nW: <strong>(Q6) If you show me your ticket, I can see where you were sitting and go check around that area.</strong> I think our crew is still tidying there.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin lỗi. <strong>(Q4) Rạp chiếu phim này có hộp đựng đồ thất lạc không?</strong><br />\nW: Tôi xin lỗi. Chúng tôi không có, nhưng có thể có điều gì đó tôi có thể giúp anh được.<br />\nM: Vâng, tôi đã ra khỏi rạp sau khi xem bộ phim Scott Viego cách đây khoảng nửa giờ, nhưng <strong>(Q5) Tôi nhận ra mình không mang theo áo len. Tôi không biết nó ở đâu, nhưng tôi nghĩ mình đã để nó trên ghế.</strong><br />\nW: <strong>(Q6) Nếu anh cho tôi xem vé của anh, tôi có thể biết anh đã ngồi ở đâu và đi kiểm tra xung quanh khu vực đó.</strong> Tôi nghĩ các nhân viên rạp của chiếu phim vẫn đang dọn dẹp ở đó.</p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82227",
+          "questionNumber": 4,
+          "questionText": "Where is the conversation taking place?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/27/91936217.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At a movie theater",
+              "raw": "(A) At a movie theater",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "At a supermarket",
+              "raw": "(B) At a supermarket",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At a gallery",
+              "raw": "(C) At a gallery",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "At a department store",
+              "raw": "(D) At a department store",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin lỗi. <strong>(Q4) Rạp chiếu phim này có hộp đựng đồ thất lạc không?</strong><br />\nW: Tôi xin lỗi. Chúng tôi không có, nhưng có thể có điều gì đó tôi có thể giúp anh được.<br />\nM: Vâng, tôi đã ra khỏi rạp sau khi xem bộ phim Scott Viego cách đây khoảng nửa giờ, nhưng <strong>(Q5) Tôi nhận ra mình không mang theo áo len. Tôi không biết nó ở đâu, nhưng tôi nghĩ mình đã để nó trên ghế.</strong><br />\nW: <strong>(Q6) Nếu anh cho tôi xem vé của anh, tôi có thể biết anh đã ngồi ở đâu và đi kiểm tra xung quanh khu vực đó.</strong> Tôi nghĩ các nhân viên rạp của chiếu phim vẫn đang dọn dẹp ở đó.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82228",
+          "questionNumber": 5,
+          "questionText": "What problem does the man mention?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/27/91936217.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He forgot his discount coupon.",
+              "raw": "(A) He forgot his discount coupon.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "He cannot find his sweater.",
+              "raw": "(B) He cannot find his sweater.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "His credit card is not working.",
+              "raw": "(C) His credit card is not working.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "His items are damaged.",
+              "raw": "(D) His items are damaged.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin lỗi. <strong>(Q4) Rạp chiếu phim này có hộp đựng đồ thất lạc không?</strong><br />\nW: Tôi xin lỗi. Chúng tôi không có, nhưng có thể có điều gì đó tôi có thể giúp anh được.<br />\nM: Vâng, tôi đã ra khỏi rạp sau khi xem bộ phim Scott Viego cách đây khoảng nửa giờ, nhưng <strong>(Q5) Tôi nhận ra mình không mang theo áo len. Tôi không biết nó ở đâu, nhưng tôi nghĩ mình đã để nó trên ghế.</strong><br />\nW: <strong>(Q6) Nếu anh cho tôi xem vé của anh, tôi có thể biết anh đã ngồi ở đâu và đi kiểm tra xung quanh khu vực đó.</strong> Tôi nghĩ các nhân viên rạp của chiếu phim vẫn đang dọn dẹp ở đó.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82229",
+          "questionNumber": 6,
+          "questionText": "What is the man asked to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/27/91936217.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Stop by later",
+              "raw": "(A) Stop by later",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Provide contact information",
+              "raw": "(B) Provide contact information",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Fill out a form",
+              "raw": "(C) Fill out a form",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Show a ticket",
+              "raw": "(D) Show a ticket",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin lỗi. <strong>(Q4) Rạp chiếu phim này có hộp đựng đồ thất lạc không?</strong><br />\nW: Tôi xin lỗi. Chúng tôi không có, nhưng có thể có điều gì đó tôi có thể giúp anh được.<br />\nM: Vâng, tôi đã ra khỏi rạp sau khi xem bộ phim Scott Viego cách đây khoảng nửa giờ, nhưng <strong>(Q5) Tôi nhận ra mình không mang theo áo len. Tôi không biết nó ở đâu, nhưng tôi nghĩ mình đã để nó trên ghế.</strong><br />\nW: <strong>(Q6) Nếu anh cho tôi xem vé của anh, tôi có thể biết anh đã ngồi ở đâu và đi kiểm tra xung quanh khu vực đó.</strong> Tôi nghĩ các nhân viên rạp của chiếu phim vẫn đang dọn dẹp ở đó.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c82216",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/51952603.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: Good morning, Reggie. It&#39;s great to see you again, and <strong>(Q7) I&rsquo;m pleased to officially welcome you to Tennyson Real Estate. (Q8) We&#39;re excited for you to be joining our team.</strong><br />\nM1: Thank you. <strong>(Q8) I&#39;m pleased to be working here.</strong><br />\nW: That&#39;s wonderful. Let me introduce you to Joshua. He has a lot of experience, so we have him train all new staff members. Joshua, this is Reggie.<br />\nM2: Nice to meet you. <strong>(Q9) To start out, we&#39;ll go through the photo gallery of the properties we have available now.</strong> That&#39;ll give you a general feel for our target clients.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Chào buổi sáng, Reggie. Thật tuyệt khi được gặp lại anh, và <strong>(Q7) Tôi rất vui mừng được chính thức chào đón anh đến với Tennyson Real Estate. (Q8) Chúng tôi rất vui mừng khi anh gia nhập nhóm của chúng tôi.</strong><br />\nM1: Cảm ơn cô. <strong>(Q8) Tôi rất vui khi được làm việc ở đây.</strong><br />\nW: Thật tuyệt. Để tôi giới thiệu với anh với Joshua. Anh ấy có rất nhiều kinh nghiệm, vì vậy chúng tôi thường nhờ anh ấy đào tạo tất cả các nhân viên mới. Joshua, đây là Reggie.<br />\nM2: Rất vui được gặp anh. <strong>(Q9) Để bắt đầu, hãy cùng xem qua bộ sưu tập các dự án bất động sản mà chúng ta hiện đang cung cấp.</strong> Điều đó sẽ giúp anh có cái nhìn tổng quan về khách hàng mục tiêu của chúng ta.</p>\n\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82224",
+          "questionNumber": 7,
+          "questionText": "What kind of business does the woman work for?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/51952603.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A software company",
+              "raw": "(A) A software company",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A magazine publisher",
+              "raw": "(B) A magazine publisher",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A real estate agency",
+              "raw": "(C) A real estate agency",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "An accounting firm",
+              "raw": "(D) An accounting firm",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Chào buổi sáng, Reggie. Thật tuyệt khi được gặp lại anh, và <strong>(Q7) Tôi rất vui mừng được chính thức chào đón anh đến với Tennyson Real Estate. (Q8) Chúng tôi rất vui mừng khi anh gia nhập nhóm của chúng tôi.</strong><br />\nM1: Cảm ơn cô. <strong>(Q8) Tôi rất vui khi được làm việc ở đây.</strong><br />\nW: Thật tuyệt. Để tôi giới thiệu với anh với Joshua. Anh ấy có rất nhiều kinh nghiệm, vì vậy chúng tôi thường nhờ anh ấy đào tạo tất cả các nhân viên mới. Joshua, đây là Reggie.<br />\nM2: Rất vui được gặp anh. <strong>(Q9) Để bắt đầu, hãy cùng xem qua bộ sưu tập các dự án bất động sản mà chúng ta hiện đang cung cấp.</strong> Điều đó sẽ giúp anh có cái nhìn tổng quan về khách hàng mục tiêu của chúng ta.</p>\n\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82225",
+          "questionNumber": 8,
+          "questionText": "Who most likely is Reggie?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/51952603.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A branch manager",
+              "raw": "(A) A branch manager",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A job candidate",
+              "raw": "(B) A job candidate",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A new employee",
+              "raw": "(C) A new employee",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A potential investor",
+              "raw": "(D) A potential investor",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Chào buổi sáng, Reggie. Thật tuyệt khi được gặp lại anh, và <strong>(Q7) Tôi rất vui mừng được chính thức chào đón anh đến với Tennyson Real Estate. (Q8) Chúng tôi rất vui mừng khi anh gia nhập nhóm của chúng tôi.</strong><br />\nM1: Cảm ơn cô. <strong>(Q8) Tôi rất vui khi được làm việc ở đây.</strong><br />\nW: Thật tuyệt. Để tôi giới thiệu với anh với Joshua. Anh ấy có rất nhiều kinh nghiệm, vì vậy chúng tôi thường nhờ anh ấy đào tạo tất cả các nhân viên mới. Joshua, đây là Reggie.<br />\nM2: Rất vui được gặp anh. <strong>(Q9) Để bắt đầu, hãy cùng xem qua bộ sưu tập các dự án bất động sản mà chúng ta hiện đang cung cấp.</strong> Điều đó sẽ giúp anh có cái nhìn tổng quan về khách hàng mục tiêu của chúng ta.</p>\n\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82226",
+          "questionNumber": 9,
+          "questionText": "What will the men most likely do next?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/51952603.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Pick up ID badges",
+              "raw": "(A) Pick up ID badges",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "View some images",
+              "raw": "(B) View some images",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Sign a contract",
+              "raw": "(C) Sign a contract",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Take a building tour",
+              "raw": "(D) Take a building tour",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Chào buổi sáng, Reggie. Thật tuyệt khi được gặp lại anh, và <strong>(Q7) Tôi rất vui mừng được chính thức chào đón anh đến với Tennyson Real Estate. (Q8) Chúng tôi rất vui mừng khi anh gia nhập nhóm của chúng tôi.</strong><br />\nM1: Cảm ơn cô. <strong>(Q8) Tôi rất vui khi được làm việc ở đây.</strong><br />\nW: Thật tuyệt. Để tôi giới thiệu với anh với Joshua. Anh ấy có rất nhiều kinh nghiệm, vì vậy chúng tôi thường nhờ anh ấy đào tạo tất cả các nhân viên mới. Joshua, đây là Reggie.<br />\nM2: Rất vui được gặp anh. <strong>(Q9) Để bắt đầu, hãy cùng xem qua bộ sưu tập các dự án bất động sản mà chúng ta hiện đang cung cấp.</strong> Điều đó sẽ giúp anh có cái nhìn tổng quan về khách hàng mục tiêu của chúng ta.</p>\n\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c82217",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/29633576.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: <strong>(Q10) You&#39;ve reached Elite Accessories. </strong>This is Fabian. How may I help you?<br />\nW: Hello. I ordered a set of luggage by rush delivery yesterday. <strong>(Q11) It was supposed to be delivered this morning, but now it&#39;s four o&#39;clock and I still don&#39;t have my items.</strong><br />\nM: I apologize for the inconvenience, ma&#39;am. A few of our drivers are absent today. The others are still out on their routes.<br />\nW: Well, can you guarantee that l&#39;ll get my items today? <strong>(Q12) leaving for a vacation tomorrow, so I need those bags.</strong><br />\nM: If you tell me your order number, <strong>(Q10) I&rsquo;ll check the status right away.</strong></p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: <strong>(Q10) Elite Accessories xin nghe. </strong>Đây là Fabian. Tôi có thể giúp gì cho quý khách?<br />\nW: Xin chào. Tôi đã đặt dịch vụ giao hàng hoả tốc cho một bộ hành lý vào hôm qua. <strong>(Q11) Đáng lẽ nó phải được giao vào sáng nay, nhưng giờ đã bốn tiếng đồng hồ trôi qua rồi mà tôi vẫn chưa nhận được hàng.</strong><br />\nM: Tôi xin lỗi vì sự bất tiện này, thưa bà. Có một số tài xế xin nghỉ làm vào hôm nay. Một số người khác thì vẫn đang trên đường giao hàng.<br />\nW: Vâng, anh có thể đảm bảo rằng tôi sẽ nhận được hàng trong hôm nay chứ? <strong>(Q12) Ngày mai tôi sẽ đi nghỉ mát, vì vậy tôi cần những chiếc túi đó.</strong><br />\nM: Nếu bà cho tôi biết mã vận đơn của đơn hàng, <strong>(Q10) tôi sẽ kiểm tra trạng thái giao hàng ngay lập tức.</strong></p>\n\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82230",
+          "questionNumber": 10,
+          "questionText": "What most likely is the man's job?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/29633576.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Driving instructor",
+              "raw": "(A) Driving instructor",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Customer service agent",
+              "raw": "(B) Customer service agent",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Car rental firm employee",
+              "raw": "(C) Car rental firm employee",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Computer repair technician",
+              "raw": "(D) Computer repair technician",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: <strong>(Q10) Elite Accessories xin nghe. </strong>Đây là Fabian. Tôi có thể giúp gì cho quý khách?<br />\nW: Xin chào. Tôi đã đặt dịch vụ giao hàng hoả tốc cho một bộ hành lý vào hôm qua. <strong>(Q11) Đáng lẽ nó phải được giao vào sáng nay, nhưng giờ đã bốn tiếng đồng hồ trôi qua rồi mà tôi vẫn chưa nhận được hàng.</strong><br />\nM: Tôi xin lỗi vì sự bất tiện này, thưa bà. Có một số tài xế xin nghỉ làm vào hôm nay. Một số người khác thì vẫn đang trên đường giao hàng.<br />\nW: Vâng, anh có thể đảm bảo rằng tôi sẽ nhận được hàng trong hôm nay chứ? <strong>(Q12) Ngày mai tôi sẽ đi nghỉ mát, vì vậy tôi cần những chiếc túi đó.</strong><br />\nM: Nếu bà cho tôi biết mã vận đơn của đơn hàng, <strong>(Q10) tôi sẽ kiểm tra trạng thái giao hàng ngay lập tức.</strong></p>\n\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82231",
+          "questionNumber": 11,
+          "questionText": "Why does the man say, \"A few of our drivers are absent today\"?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/29633576.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To ask the woman to call back later",
+              "raw": "(A) To ask the woman to call back later",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To recommend changing to a different service",
+              "raw": "(B) To recommend changing to a different service",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To inform the woman of a job opening",
+              "raw": "(C) To inform the woman of a job opening",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To explain the reason for a schedule change",
+              "raw": "(D) To explain the reason for a schedule change",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: <strong>(Q10) Elite Accessories xin nghe. </strong>Đây là Fabian. Tôi có thể giúp gì cho quý khách?<br />\nW: Xin chào. Tôi đã đặt dịch vụ giao hàng hoả tốc cho một bộ hành lý vào hôm qua. <strong>(Q11) Đáng lẽ nó phải được giao vào sáng nay, nhưng giờ đã bốn tiếng đồng hồ trôi qua rồi mà tôi vẫn chưa nhận được hàng.</strong><br />\nM: Tôi xin lỗi vì sự bất tiện này, thưa bà. Có một số tài xế xin nghỉ làm vào hôm nay. Một số người khác thì vẫn đang trên đường giao hàng.<br />\nW: Vâng, anh có thể đảm bảo rằng tôi sẽ nhận được hàng trong hôm nay chứ? <strong>(Q12) Ngày mai tôi sẽ đi nghỉ mát, vì vậy tôi cần những chiếc túi đó.</strong><br />\nM: Nếu bà cho tôi biết mã vận đơn của đơn hàng, <strong>(Q10) tôi sẽ kiểm tra trạng thái giao hàng ngay lập tức.</strong></p>\n\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82232",
+          "questionNumber": 12,
+          "questionText": "What does the woman plan to do tomorrow?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/29633576.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Cancel an order",
+              "raw": "(A) Cancel an order",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Go on vacation",
+              "raw": "(B) Go on vacation",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Start a new job",
+              "raw": "(C) Start a new job",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Move to a new city",
+              "raw": "(D) Move to a new city",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: <strong>(Q10) Elite Accessories xin nghe. </strong>Đây là Fabian. Tôi có thể giúp gì cho quý khách?<br />\nW: Xin chào. Tôi đã đặt dịch vụ giao hàng hoả tốc cho một bộ hành lý vào hôm qua. <strong>(Q11) Đáng lẽ nó phải được giao vào sáng nay, nhưng giờ đã bốn tiếng đồng hồ trôi qua rồi mà tôi vẫn chưa nhận được hàng.</strong><br />\nM: Tôi xin lỗi vì sự bất tiện này, thưa bà. Có một số tài xế xin nghỉ làm vào hôm nay. Một số người khác thì vẫn đang trên đường giao hàng.<br />\nW: Vâng, anh có thể đảm bảo rằng tôi sẽ nhận được hàng trong hôm nay chứ? <strong>(Q12) Ngày mai tôi sẽ đi nghỉ mát, vì vậy tôi cần những chiếc túi đó.</strong><br />\nM: Nếu bà cho tôi biết mã vận đơn của đơn hàng, <strong>(Q10) tôi sẽ kiểm tra trạng thái giao hàng ngay lập tức.</strong></p>\n\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c82218",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/26572743.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nM1: Good morning, and <strong>(Q13) welcome to Pro Print Shop.</strong><br />\nW: Hello. I noticed this morning that there&#39;s a problem with one of the custom banners you printed.<br />\nM1: Is that the banner there?<br />\nW: Yes, I brought it with me. As you can see, the corner is badly torn<strong>. (Q14) My company is relocating to a store downtown next week, so we had these banners printed.</strong> l&#39;d like to get a refund on this one. M1: Hmm ... <strong>(Q15) our business doesn&#39;t usually permit refunds on custom items.</strong> But let me talk to my manager. Mr. Curtis, according to our store policy, can customers return custom items if they&#39;re damaged?<br />\nM2: Yes, Eric. That&#39;s because the problem was caused by us.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM1: Chào buổi sáng, và <strong>(Q13) chào mừng đến với Pro Print Shop.</strong><br />\nW: Xin chào. Sáng nay tôi nhận thấy vấn đề ở một trong số những tấm biểu ngữ mà tôi đã đặt anh in riêng.<br />\nM1: Có phải tấm biểu ngữ kia không?<br />\nW: Đúng vậy, tôi đã mang nó theo. Như anh thấy, góc bị rách rất nặng.<strong> (Q14) Công ty tôi sẽ mở lại một cửa hàng ở trung tâm thành phố vào tuần tới, vậy nên chúng tôi mới in những biểu ngữ này.</strong> Tôi muốn được hoàn lại tiền cho vấn đề này. M1: Ừm ... <strong>(Q15) công ty chúng tôi thường không cho phép hoàn lại tiền cho các sản phẩm đặt in riêng.</strong> Nhưng hãy để tôi thử nói chuyện với quản lý của tôi. Ông Curtis này, theo chính sách của cửa hàng chúng ta, khách hàng có thể được hoàn trả tiền nếu các sản phẩm được đặt in riêng bị hỏng không?<br />\nM2: Có đó, Eric. Vì đó sự cố là do chúng ta gây ra.</p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c8222d",
+          "questionNumber": 13,
+          "questionText": "Where are the speakers?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/26572743.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At a print shop",
+              "raw": "(A) At a print shop",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "At a financial institution",
+              "raw": "(B) At a financial institution",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At a fitness facility",
+              "raw": "(C) At a fitness facility",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "At a post office",
+              "raw": "(D) At a post office",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM1: Chào buổi sáng, và <strong>(Q13) chào mừng đến với Pro Print Shop.</strong><br />\nW: Xin chào. Sáng nay tôi nhận thấy vấn đề ở một trong số những tấm biểu ngữ mà tôi đã đặt anh in riêng.<br />\nM1: Có phải tấm biểu ngữ kia không?<br />\nW: Đúng vậy, tôi đã mang nó theo. Như anh thấy, góc bị rách rất nặng.<strong> (Q14) Công ty tôi sẽ mở lại một cửa hàng ở trung tâm thành phố vào tuần tới, vậy nên chúng tôi mới in những biểu ngữ này.</strong> Tôi muốn được hoàn lại tiền cho vấn đề này. M1: Ừm ... <strong>(Q15) công ty chúng tôi thường không cho phép hoàn lại tiền cho các sản phẩm đặt in riêng.</strong> Nhưng hãy để tôi thử nói chuyện với quản lý của tôi. Ông Curtis này, theo chính sách của cửa hàng chúng ta, khách hàng có thể được hoàn trả tiền nếu các sản phẩm được đặt in riêng bị hỏng không?<br />\nM2: Có đó, Eric. Vì đó sự cố là do chúng ta gây ra.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c8222e",
+          "questionNumber": 14,
+          "questionText": "What will the woman's company do next week?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/26572743.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Hold an annual sale",
+              "raw": "(A) Hold an annual sale",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Launch a new product",
+              "raw": "(B) Launch a new product",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Have a prize drawing",
+              "raw": "(C) Have a prize drawing",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Move to a new location",
+              "raw": "(D) Move to a new location",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM1: Chào buổi sáng, và <strong>(Q13) chào mừng đến với Pro Print Shop.</strong><br />\nW: Xin chào. Sáng nay tôi nhận thấy vấn đề ở một trong số những tấm biểu ngữ mà tôi đã đặt anh in riêng.<br />\nM1: Có phải tấm biểu ngữ kia không?<br />\nW: Đúng vậy, tôi đã mang nó theo. Như anh thấy, góc bị rách rất nặng.<strong> (Q14) Công ty tôi sẽ mở lại một cửa hàng ở trung tâm thành phố vào tuần tới, vậy nên chúng tôi mới in những biểu ngữ này.</strong> Tôi muốn được hoàn lại tiền cho vấn đề này. M1: Ừm ... <strong>(Q15) công ty chúng tôi thường không cho phép hoàn lại tiền cho các sản phẩm đặt in riêng.</strong> Nhưng hãy để tôi thử nói chuyện với quản lý của tôi. Ông Curtis này, theo chính sách của cửa hàng chúng ta, khách hàng có thể được hoàn trả tiền nếu các sản phẩm được đặt in riêng bị hỏng không?<br />\nM2: Có đó, Eric. Vì đó sự cố là do chúng ta gây ra.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c8222f",
+          "questionNumber": 15,
+          "questionText": "Why does Eric talk to his manager?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/26572743.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To request a rush order",
+              "raw": "(A) To request a rush order",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To assign a task",
+              "raw": "(B) To assign a task",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To check a policy",
+              "raw": "(C) To check a policy",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "To change a design",
+              "raw": "(D) To change a design",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM1: Chào buổi sáng, và <strong>(Q13) chào mừng đến với Pro Print Shop.</strong><br />\nW: Xin chào. Sáng nay tôi nhận thấy vấn đề ở một trong số những tấm biểu ngữ mà tôi đã đặt anh in riêng.<br />\nM1: Có phải tấm biểu ngữ kia không?<br />\nW: Đúng vậy, tôi đã mang nó theo. Như anh thấy, góc bị rách rất nặng.<strong> (Q14) Công ty tôi sẽ mở lại một cửa hàng ở trung tâm thành phố vào tuần tới, vậy nên chúng tôi mới in những biểu ngữ này.</strong> Tôi muốn được hoàn lại tiền cho vấn đề này. M1: Ừm ... <strong>(Q15) công ty chúng tôi thường không cho phép hoàn lại tiền cho các sản phẩm đặt in riêng.</strong> Nhưng hãy để tôi thử nói chuyện với quản lý của tôi. Ông Curtis này, theo chính sách của cửa hàng chúng ta, khách hàng có thể được hoàn trả tiền nếu các sản phẩm được đặt in riêng bị hỏng không?<br />\nM2: Có đó, Eric. Vì đó sự cố là do chúng ta gây ra.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c82219",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/45916636.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nW: After three years in business, <strong>(Q16) the office software produced by our company is finally starting to build a solid reputation. (Q17) think it&#39;s the perfect time to start selling it in other countries.</strong><br />\nM: That would be a great way to increase our customer base. We&#39;d have to have some of the instructions and prompts translated into other languages, though.<br />\nW: <strong>(Q18) There&#39;s a place called A to Z Translation, which provided services for my former company. I</strong> <strong>still have their business card.</strong><br />\nM: Great! <strong>(Q18) If you give that to me, I&#39;ll call them today.</strong></p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Sau ba năm kinh doanh, <strong>(Q16) phần mềm văn phòng do công ty chúng ta sản xuất cuối cùng cũng bắt đầu gây dựng được danh tiếng vững chắc. (Q17) Tôi nghĩ rằng đây là thời điểm hoàn hảo để bắt đầu bán nó ở các quốc gia khác.</strong><br />\nM: Đó sẽ là một cách tuyệt vời để mở rộng mạng lưới khách hàng của chúng ta. Tuy nhiên, chúng ta sẽ phải dịch các hướng dẫn và lời nhắc nhở sang các ngôn ngữ khác nhau.<br />\nW: <strong>(Q18) Có một công ty tên là A to Z Translation, nơi này đã cung cấp dịch vụ cho công ty cũ của tôi. Tôi</strong> <strong>vẫn còn giữ danh thiếp của họ.</strong><br />\nM: Tuyệt! <strong>(Q18) Nếu cô đưa cho tôi số của họ, tôi sẽ gọi cho họ ngay trong ngày hôm nay.</strong></p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c8222a",
+          "questionNumber": 16,
+          "questionText": "What does the speakers' company produce?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/45916636.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Food",
+              "raw": "(A) Food",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Software",
+              "raw": "(B) Software",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Furniture",
+              "raw": "(C) Furniture",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Medicine",
+              "raw": "(D) Medicine",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Sau ba năm kinh doanh, <strong>(Q16) phần mềm văn phòng do công ty chúng ta sản xuất cuối cùng cũng bắt đầu gây dựng được danh tiếng vững chắc. (Q17) Tôi nghĩ rằng đây là thời điểm hoàn hảo để bắt đầu bán nó ở các quốc gia khác.</strong><br />\nM: Đó sẽ là một cách tuyệt vời để mở rộng mạng lưới khách hàng của chúng ta. Tuy nhiên, chúng ta sẽ phải dịch các hướng dẫn và lời nhắc nhở sang các ngôn ngữ khác nhau.<br />\nW: <strong>(Q18) Có một công ty tên là A to Z Translation, nơi này đã cung cấp dịch vụ cho công ty cũ của tôi. Tôi</strong> <strong>vẫn còn giữ danh thiếp của họ.</strong><br />\nM: Tuyệt! <strong>(Q18) Nếu cô đưa cho tôi số của họ, tôi sẽ gọi cho họ ngay trong ngày hôm nay.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c8222b",
+          "questionNumber": 17,
+          "questionText": "What does the woman propose doing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/45916636.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Lowering the price of a product",
+              "raw": "(A) Lowering the price of a product",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Training workers more rigorously",
+              "raw": "(B) Training workers more rigorously",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Expanding to other countries",
+              "raw": "(C) Expanding to other countries",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Providing a feedback option",
+              "raw": "(D) Providing a feedback option",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Sau ba năm kinh doanh, <strong>(Q16) phần mềm văn phòng do công ty chúng ta sản xuất cuối cùng cũng bắt đầu gây dựng được danh tiếng vững chắc. (Q17) Tôi nghĩ rằng đây là thời điểm hoàn hảo để bắt đầu bán nó ở các quốc gia khác.</strong><br />\nM: Đó sẽ là một cách tuyệt vời để mở rộng mạng lưới khách hàng của chúng ta. Tuy nhiên, chúng ta sẽ phải dịch các hướng dẫn và lời nhắc nhở sang các ngôn ngữ khác nhau.<br />\nW: <strong>(Q18) Có một công ty tên là A to Z Translation, nơi này đã cung cấp dịch vụ cho công ty cũ của tôi. Tôi</strong> <strong>vẫn còn giữ danh thiếp của họ.</strong><br />\nM: Tuyệt! <strong>(Q18) Nếu cô đưa cho tôi số của họ, tôi sẽ gọi cho họ ngay trong ngày hôm nay.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c8222c",
+          "questionNumber": 18,
+          "questionText": "What does the man agree to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/45916636.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Present some market research",
+              "raw": "(A) Present some market research",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Attend a board meeting",
+              "raw": "(B) Attend a board meeting",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Review some contract terms",
+              "raw": "(C) Review some contract terms",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Contact a translation business",
+              "raw": "(D) Contact a translation business",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Sau ba năm kinh doanh, <strong>(Q16) phần mềm văn phòng do công ty chúng ta sản xuất cuối cùng cũng bắt đầu gây dựng được danh tiếng vững chắc. (Q17) Tôi nghĩ rằng đây là thời điểm hoàn hảo để bắt đầu bán nó ở các quốc gia khác.</strong><br />\nM: Đó sẽ là một cách tuyệt vời để mở rộng mạng lưới khách hàng của chúng ta. Tuy nhiên, chúng ta sẽ phải dịch các hướng dẫn và lời nhắc nhở sang các ngôn ngữ khác nhau.<br />\nW: <strong>(Q18) Có một công ty tên là A to Z Translation, nơi này đã cung cấp dịch vụ cho công ty cũ của tôi. Tôi</strong> <strong>vẫn còn giữ danh thiếp của họ.</strong><br />\nM: Tuyệt! <strong>(Q18) Nếu cô đưa cho tôi số của họ, tôi sẽ gọi cho họ ngay trong ngày hôm nay.</strong></p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c8221a",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/43225341.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Hello, this is Shane Gilbert from Pipestone, Inc. We hired your company to do some renovations in our employee lounge. We&#39;re happy with the finished look, but <strong>(Q19) the crew left behind a bunch of building materials.</strong><br />\nW: Oh, since you paid for them, those are yours to keep. <strong>(Q20) A lot of customers like to hold onto the leftovers for future projects.</strong><br />\nM: Well, we won&#39;t do renovations again for a long time.<br />\nW: I see. In that case, <strong>(Q21) I&rsquo;ll have one of my crew members stop by your office to pick them up.</strong></p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi là Shane Gilbert từ Pipestone, Inc. Chúng tôi đã thuê công ty của cô để cải tạo một số phòng chờ của nhân viên. Chúng tôi hài lòng với công trình đã hoàn thiện, nhưng <strong>(Q19) đội ngũ nhân viên bên cô đã để lại một số vật liệu xây dựng.</strong><br />\nW: Ồ, vì bên anh đã trả tiền cho những vật liệu đó, nên giờ những thứ đó là của anh. <strong>(Q20) Nhiều khách hàng của chúng tôi cũng thích giữ lại vật liệu còn thừa cho các dự án trong tương lai.</strong><br />\nM: Chà, nhưng chắc phải rất lâu nữa chúng tôi mới có ý định cải tạo lại văn phòng một lần nữa.<br />\nW: Tôi hiểu rồi. Trong trường hợp đó, <strong>(Q21) Tôi sẽ yêu cầu một trong những nhân viên của công ty tôi đến văn phòng của anh để lấy đồ.</strong></p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82233",
+          "questionNumber": 19,
+          "questionText": "What does the man tell the woman about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/43225341.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A schedule delay",
+              "raw": "(A) A schedule delay",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A billing error",
+              "raw": "(B) A billing error",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Some abandoned supplies",
+              "raw": "(C) Some abandoned supplies",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Some noise complaints",
+              "raw": "(D) Some noise complaints",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi là Shane Gilbert từ Pipestone, Inc. Chúng tôi đã thuê công ty của cô để cải tạo một số phòng chờ của nhân viên. Chúng tôi hài lòng với công trình đã hoàn thiện, nhưng <strong>(Q19) đội ngũ nhân viên bên cô đã để lại một số vật liệu xây dựng.</strong><br />\nW: Ồ, vì bên anh đã trả tiền cho những vật liệu đó, nên giờ những thứ đó là của anh. <strong>(Q20) Nhiều khách hàng của chúng tôi cũng thích giữ lại vật liệu còn thừa cho các dự án trong tương lai.</strong><br />\nM: Chà, nhưng chắc phải rất lâu nữa chúng tôi mới có ý định cải tạo lại văn phòng một lần nữa.<br />\nW: Tôi hiểu rồi. Trong trường hợp đó, <strong>(Q21) Tôi sẽ yêu cầu một trong những nhân viên của công ty tôi đến văn phòng của anh để lấy đồ.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82234",
+          "questionNumber": 20,
+          "questionText": "What does the man suggest when he says, \"we won't do renovations again for a long time\"?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/43225341.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He wants to avoid a trendy design plan.",
+              "raw": "(A) He wants to avoid a trendy design plan.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "He needs to save more money in the budget.",
+              "raw": "(B) He needs to save more money in the budget.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "He is dissatisfied with the quality of a service.",
+              "raw": "(C) He is dissatisfied with the quality of a service.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He does not want to keep some items.",
+              "raw": "(D) He does not want to keep some items.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi là Shane Gilbert từ Pipestone, Inc. Chúng tôi đã thuê công ty của cô để cải tạo một số phòng chờ của nhân viên. Chúng tôi hài lòng với công trình đã hoàn thiện, nhưng <strong>(Q19) đội ngũ nhân viên bên cô đã để lại một số vật liệu xây dựng.</strong><br />\nW: Ồ, vì bên anh đã trả tiền cho những vật liệu đó, nên giờ những thứ đó là của anh. <strong>(Q20) Nhiều khách hàng của chúng tôi cũng thích giữ lại vật liệu còn thừa cho các dự án trong tương lai.</strong><br />\nM: Chà, nhưng chắc phải rất lâu nữa chúng tôi mới có ý định cải tạo lại văn phòng một lần nữa.<br />\nW: Tôi hiểu rồi. Trong trường hợp đó, <strong>(Q21) Tôi sẽ yêu cầu một trong những nhân viên của công ty tôi đến văn phòng của anh để lấy đồ.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82235",
+          "questionNumber": 21,
+          "questionText": "What does the woman say she will do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/43225341.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Provide some samples",
+              "raw": "(A) Provide some samples",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Send a coworker",
+              "raw": "(B) Send a coworker",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Visit the man's office",
+              "raw": "(C) Visit the man's office",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Issue a refund",
+              "raw": "(D) Issue a refund",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi là Shane Gilbert từ Pipestone, Inc. Chúng tôi đã thuê công ty của cô để cải tạo một số phòng chờ của nhân viên. Chúng tôi hài lòng với công trình đã hoàn thiện, nhưng <strong>(Q19) đội ngũ nhân viên bên cô đã để lại một số vật liệu xây dựng.</strong><br />\nW: Ồ, vì bên anh đã trả tiền cho những vật liệu đó, nên giờ những thứ đó là của anh. <strong>(Q20) Nhiều khách hàng của chúng tôi cũng thích giữ lại vật liệu còn thừa cho các dự án trong tương lai.</strong><br />\nM: Chà, nhưng chắc phải rất lâu nữa chúng tôi mới có ý định cải tạo lại văn phòng một lần nữa.<br />\nW: Tôi hiểu rồi. Trong trường hợp đó, <strong>(Q21) Tôi sẽ yêu cầu một trong những nhân viên của công ty tôi đến văn phòng của anh để lấy đồ.</strong></p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c8221b",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/94749081.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nW: Thank you for calling Eastland Cleaning.<br />\nM: Hello. Our company moved in our current building last year, a<strong>nd (Q22) our rugs and carpets are starting to look soiled and stained. </strong>Your company can take care of cleaning them, right?<br />\nW: Yes. We can send a team with steam-cleaning equipment.<br />\nM: Great! But ... um <strong>...(Q23) are the chemicals you use bad for people&#39;s health?</strong><br />\nW: Not at all. Everything we use is non-toxic.<br />\nM: I&#39;m glad to hear that. And how regularly do your crews visit a site?<br />\nW: It depends on your needs. You can select to have it done weekly, monthly, or less often than that.<br />\nM: Hmm <strong>(Q24) I guess we&#39;d need it once every quarter.</strong></p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Cảm ơn vì đã gọi đến Eastland Cleaning.<br />\nM: Xin chào. Công ty chúng tôi đã chuyển đến tòa nhà này vào năm ngoái và (Câu hỏi 22) thảm trải sàn của chúng tôi có vẻ bắt đầu bẩn và có vết ố. </strong>Công ty của cô có thể xử lý việc vệ sinh những tấm thảm đó, phải không?<br />\nW: Vâng. Chúng tôi có thể cử một đội vệ sinh với thiết bị vệ sinh bằng hơi nước.<br />\nM: Tuyệt! Nhưng ... ừm <strong>...(Câu hỏi 23) các hóa chất mà bên cô sử dụng có gây hại cho sức khỏe của mọi người không?</strong><br />\nW: Không hề. Mọi thứ chúng tôi sử dụng đều không độc hại.<br />\nM: Tôi rất vui khi nghe điều đó. Và tần suất dọn dẹp mà đội của cô thường thực hiện là bao lâu?<br />\nW: Tùy thuộc vào nhu cầu của anh. Anh có thể chọn thực hiện hàng tuần, hàng tháng hoặc ít thường xuyên hơn.<br />\nM: Ừm <strong>(Câu hỏi 24) Tôi đoán là chúng tôi cần thực hiện một lần mỗi quý.</strong></p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82242",
+          "questionNumber": 22,
+          "questionText": "Why is the man calling?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/94749081.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To make a payment",
+              "raw": "(A) To make a payment",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To ask for a cleaning service",
+              "raw": "(B) To ask for a cleaning service",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "To inquire about a building remodeling",
+              "raw": "(C) To inquire about a building remodeling",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To purchase pieces of furniture",
+              "raw": "(D) To purchase pieces of furniture",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cảm ơn vì đã gọi đến Eastland Cleaning.<br />\nM: Xin chào. Công ty chúng tôi đã chuyển đến tòa nhà này vào năm ngoái và (Câu hỏi 22) thảm trải sàn của chúng tôi có vẻ bắt đầu bẩn và có vết ố. </strong>Công ty của cô có thể xử lý việc vệ sinh những tấm thảm đó, phải không?<br />\nW: Vâng. Chúng tôi có thể cử một đội vệ sinh với thiết bị vệ sinh bằng hơi nước.<br />\nM: Tuyệt! Nhưng ... ừm <strong>...(Câu hỏi 23) các hóa chất mà bên cô sử dụng có gây hại cho sức khỏe của mọi người không?</strong><br />\nW: Không hề. Mọi thứ chúng tôi sử dụng đều không độc hại.<br />\nM: Tôi rất vui khi nghe điều đó. Và tần suất dọn dẹp mà đội của cô thường thực hiện là bao lâu?<br />\nW: Tùy thuộc vào nhu cầu của anh. Anh có thể chọn thực hiện hàng tuần, hàng tháng hoặc ít thường xuyên hơn.<br />\nM: Ừm <strong>(Câu hỏi 24) Tôi đoán là chúng tôi cần thực hiện một lần mỗi quý.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82243",
+          "questionNumber": 23,
+          "questionText": "What does the man express concern about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/94749081.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Whether a crew has experience",
+              "raw": "(A) Whether a crew has experience",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Whether information will be kept private",
+              "raw": "(B) Whether information will be kept private",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Whether some materials are harmful",
+              "raw": "(C) Whether some materials are harmful",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Whether a pricing estimate is accurate",
+              "raw": "(D) Whether a pricing estimate is accurate",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cảm ơn vì đã gọi đến Eastland Cleaning.<br />\nM: Xin chào. Công ty chúng tôi đã chuyển đến tòa nhà này vào năm ngoái và (Câu hỏi 22) thảm trải sàn của chúng tôi có vẻ bắt đầu bẩn và có vết ố. </strong>Công ty của cô có thể xử lý việc vệ sinh những tấm thảm đó, phải không?<br />\nW: Vâng. Chúng tôi có thể cử một đội vệ sinh với thiết bị vệ sinh bằng hơi nước.<br />\nM: Tuyệt! Nhưng ... ừm <strong>...(Câu hỏi 23) các hóa chất mà bên cô sử dụng có gây hại cho sức khỏe của mọi người không?</strong><br />\nW: Không hề. Mọi thứ chúng tôi sử dụng đều không độc hại.<br />\nM: Tôi rất vui khi nghe điều đó. Và tần suất dọn dẹp mà đội của cô thường thực hiện là bao lâu?<br />\nW: Tùy thuộc vào nhu cầu của anh. Anh có thể chọn thực hiện hàng tuần, hàng tháng hoặc ít thường xuyên hơn.<br />\nM: Ừm <strong>(Câu hỏi 24) Tôi đoán là chúng tôi cần thực hiện một lần mỗi quý.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82244",
+          "questionNumber": 24,
+          "questionText": "How often does the man need a service performed?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/94749081.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Weekly",
+              "raw": "(A) Weekly",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Monthly",
+              "raw": "(B) Monthly",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Quarterly",
+              "raw": "(C) Quarterly",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Annually",
+              "raw": "(D) Annually",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cảm ơn vì đã gọi đến Eastland Cleaning.<br />\nM: Xin chào. Công ty chúng tôi đã chuyển đến tòa nhà này vào năm ngoái và (Câu hỏi 22) thảm trải sàn của chúng tôi có vẻ bắt đầu bẩn và có vết ố. </strong>Công ty của cô có thể xử lý việc vệ sinh những tấm thảm đó, phải không?<br />\nW: Vâng. Chúng tôi có thể cử một đội vệ sinh với thiết bị vệ sinh bằng hơi nước.<br />\nM: Tuyệt! Nhưng ... ừm <strong>...(Câu hỏi 23) các hóa chất mà bên cô sử dụng có gây hại cho sức khỏe của mọi người không?</strong><br />\nW: Không hề. Mọi thứ chúng tôi sử dụng đều không độc hại.<br />\nM: Tôi rất vui khi nghe điều đó. Và tần suất dọn dẹp mà đội của cô thường thực hiện là bao lâu?<br />\nW: Tùy thuộc vào nhu cầu của anh. Anh có thể chọn thực hiện hàng tuần, hàng tháng hoặc ít thường xuyên hơn.<br />\nM: Ừm <strong>(Câu hỏi 24) Tôi đoán là chúng tôi cần thực hiện một lần mỗi quý.</strong></p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c8221c",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/38491748.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: Kenny, I was walking by a newsstand today, and I saw that we&#39;ve been featured in Nature Made magazine. <strong>(Q26) There was a picture of our park project on the cover.</strong><br />\nM: That&#39;s fantastic! I knew that several reporters took photos throughout the event. <strong>(Q25) It&rsquo;s great to get so much coverage of our charity&#39;s efforts.</strong><br />\nW: Exactly. <strong>(Q26) Now that all of the trash and debris from the storm has been removed from the park, it&#39;s a lot more enjoyable to spend time there.</strong><br />\nM: Right. Our team has been working hard, so I think they&#39;d really appreciate knowing about this positive news story. <strong>(Q27) I&rsquo;d like you to announce it at today&#39;s meeting.</strong></p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Kenny, hôm nay tôi đi ngang qua một sạp báo và thấy chúng ta được giới thiệu trên tạp chí Nature Made. <strong>(Q26) Có một bức ảnh về dự án công viên của chúng ta trên trang bìa.</strong><br />\nM: Thật tuyệt! Tôi biết rằng có một số phóng viên đã chụp ảnh trong suốt sự kiện. <strong>(Q25) Thật tuyệt khi có nhiều bài viết đưa tin về những nỗ lực từ thiện của chúng ta.</strong><br />\nW: Chính xác. <strong>(Q26) Bây giờ, sẽ tuyệt hơn nhiều khi dành thời gian ở công viên sau khi tất cả rác và mảnh vỡ từ cơn bão đã được dọn sạch sẽ.</strong><br />\nM: Đúng vậy. Nhóm của chúng ta đã làm việc chăm chỉ, vì vậy tôi nghĩ thông tin tức tích cực này cần được lan toả tới mọi người. <strong>(Q27) Tôi muốn cô thông báo về nó tại cuộc họp hôm nay.</strong></p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82236",
+          "questionNumber": 25,
+          "questionText": "Where do the speakers work?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/38491748.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At a library",
+              "raw": "(A) At a library",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "At a newsstand",
+              "raw": "(B) At a newsstand",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At a charity",
+              "raw": "(C) At a charity",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "At a city office",
+              "raw": "(D) At a city office",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Kenny, hôm nay tôi đi ngang qua một sạp báo và thấy chúng ta được giới thiệu trên tạp chí Nature Made. <strong>(Q26) Có một bức ảnh về dự án công viên của chúng ta trên trang bìa.</strong><br />\nM: Thật tuyệt! Tôi biết rằng có một số phóng viên đã chụp ảnh trong suốt sự kiện. <strong>(Q25) Thật tuyệt khi có nhiều bài viết đưa tin về những nỗ lực từ thiện của chúng ta.</strong><br />\nW: Chính xác. <strong>(Q26) Bây giờ, sẽ tuyệt hơn nhiều khi dành thời gian ở công viên sau khi tất cả rác và mảnh vỡ từ cơn bão đã được dọn sạch sẽ.</strong><br />\nM: Đúng vậy. Nhóm của chúng ta đã làm việc chăm chỉ, vì vậy tôi nghĩ thông tin tức tích cực này cần được lan toả tới mọi người. <strong>(Q27) Tôi muốn cô thông báo về nó tại cuộc họp hôm nay.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82237",
+          "questionNumber": 26,
+          "questionText": "What is the conversation mainly about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/38491748.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A park cleanup project",
+              "raw": "(A) A park cleanup project",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "A park fundraising event",
+              "raw": "(B) A park fundraising event",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A park job opening",
+              "raw": "(C) A park job opening",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A park visitor policy",
+              "raw": "(D) A park visitor policy",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Kenny, hôm nay tôi đi ngang qua một sạp báo và thấy chúng ta được giới thiệu trên tạp chí Nature Made. <strong>(Q26) Có một bức ảnh về dự án công viên của chúng ta trên trang bìa.</strong><br />\nM: Thật tuyệt! Tôi biết rằng có một số phóng viên đã chụp ảnh trong suốt sự kiện. <strong>(Q25) Thật tuyệt khi có nhiều bài viết đưa tin về những nỗ lực từ thiện của chúng ta.</strong><br />\nW: Chính xác. <strong>(Q26) Bây giờ, sẽ tuyệt hơn nhiều khi dành thời gian ở công viên sau khi tất cả rác và mảnh vỡ từ cơn bão đã được dọn sạch sẽ.</strong><br />\nM: Đúng vậy. Nhóm của chúng ta đã làm việc chăm chỉ, vì vậy tôi nghĩ thông tin tức tích cực này cần được lan toả tới mọi người. <strong>(Q27) Tôi muốn cô thông báo về nó tại cuộc họp hôm nay.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82238",
+          "questionNumber": 27,
+          "questionText": "What does the man ask the woman to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/38491748.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Contact a reporter",
+              "raw": "(A) Contact a reporter",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Purchase a magazine",
+              "raw": "(B) Purchase a magazine",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Adjust a contract",
+              "raw": "(C) Adjust a contract",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Make an announcement",
+              "raw": "(D) Make an announcement",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Kenny, hôm nay tôi đi ngang qua một sạp báo và thấy chúng ta được giới thiệu trên tạp chí Nature Made. <strong>(Q26) Có một bức ảnh về dự án công viên của chúng ta trên trang bìa.</strong><br />\nM: Thật tuyệt! Tôi biết rằng có một số phóng viên đã chụp ảnh trong suốt sự kiện. <strong>(Q25) Thật tuyệt khi có nhiều bài viết đưa tin về những nỗ lực từ thiện của chúng ta.</strong><br />\nW: Chính xác. <strong>(Q26) Bây giờ, sẽ tuyệt hơn nhiều khi dành thời gian ở công viên sau khi tất cả rác và mảnh vỡ từ cơn bão đã được dọn sạch sẽ.</strong><br />\nM: Đúng vậy. Nhóm của chúng ta đã làm việc chăm chỉ, vì vậy tôi nghĩ thông tin tức tích cực này cần được lan toả tới mọi người. <strong>(Q27) Tôi muốn cô thông báo về nó tại cuộc họp hôm nay.</strong></p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c8221d",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/61490330.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: Hi, Vernon. I was really impressed with the talk you gave at the staff meeting about <strong>(Q28) the National Manufacturing Conference that will be held next month.</strong><br />\nM: Thanks! Are you thinking about going to the event? I think it would be good both to our company and you.<br />\nW: l&#39;d love to go, but since it&#39;s held on a weekday, I&#39;m concerned about taking time off. <strong>(Q29) Do I have to use one of my vacation days?</strong><br />\nM: No, because it&#39;s business-related. But <strong>(Q30) you will need a special form that your manager must sign. You should grab one from the HR office.</strong></p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, Vernon. Tôi thực sự ấn tượng với bài phát biểu của anh tại cuộc họp nhân viên về <strong>(Q28) Hội nghị sản xuất quốc gia sẽ được tổ chức vào tháng tới.</strong><br />\nM: Cảm ơn! Cô có nghĩ đến việc tham dự sự kiện này không? Tôi nghĩ điều đó sẽ tốt cho cả cô và công ty chúng ta.<br />\nW: Tôi rất muốn tham dự, nhưng vì sự kiện được tổ chức vào ngày trong tuần nên tôi lo lắng về việc phải nghỉ phép. <strong>(Q29) Tôi có phải sử dụng một trong những ngày nghỉ phép của mình không?</strong><br />\nM: Không, đây là nghỉ vì lý do liên quan đến công việc. Nhưng <strong>(Q30) cô sẽ cần một mẫu đơn đặc biệt mà cần chữ ký từ người quản lý của. Cô nên lấy một mẫu đơn từ phòng nhân sự.</strong></p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82245",
+          "questionNumber": 28,
+          "questionText": "What type of event will take place next month?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/61490330.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A grand opening",
+              "raw": "(A) A grand opening",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "An industry conference",
+              "raw": "(B) An industry conference",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A product demonstration",
+              "raw": "(C) A product demonstration",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A job fair",
+              "raw": "(D) A job fair",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, Vernon. Tôi thực sự ấn tượng với bài phát biểu của anh tại cuộc họp nhân viên về <strong>(Q28) Hội nghị sản xuất quốc gia sẽ được tổ chức vào tháng tới.</strong><br />\nM: Cảm ơn! Cô có nghĩ đến việc tham dự sự kiện này không? Tôi nghĩ điều đó sẽ tốt cho cả cô và công ty chúng ta.<br />\nW: Tôi rất muốn tham dự, nhưng vì sự kiện được tổ chức vào ngày trong tuần nên tôi lo lắng về việc phải nghỉ phép. <strong>(Q29) Tôi có phải sử dụng một trong những ngày nghỉ phép của mình không?</strong><br />\nM: Không, đây là nghỉ vì lý do liên quan đến công việc. Nhưng <strong>(Q30) cô sẽ cần một mẫu đơn đặc biệt mà cần chữ ký từ người quản lý của. Cô nên lấy một mẫu đơn từ phòng nhân sự.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82246",
+          "questionNumber": 29,
+          "questionText": "What does the woman ask the man about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/61490330.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "An annual raise",
+              "raw": "(A) An annual raise",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A travel voucher",
+              "raw": "(B) A travel voucher",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A meeting time",
+              "raw": "(C) A meeting time",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A vacation policy",
+              "raw": "(D) A vacation policy",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, Vernon. Tôi thực sự ấn tượng với bài phát biểu của anh tại cuộc họp nhân viên về <strong>(Q28) Hội nghị sản xuất quốc gia sẽ được tổ chức vào tháng tới.</strong><br />\nM: Cảm ơn! Cô có nghĩ đến việc tham dự sự kiện này không? Tôi nghĩ điều đó sẽ tốt cho cả cô và công ty chúng ta.<br />\nW: Tôi rất muốn tham dự, nhưng vì sự kiện được tổ chức vào ngày trong tuần nên tôi lo lắng về việc phải nghỉ phép. <strong>(Q29) Tôi có phải sử dụng một trong những ngày nghỉ phép của mình không?</strong><br />\nM: Không, đây là nghỉ vì lý do liên quan đến công việc. Nhưng <strong>(Q30) cô sẽ cần một mẫu đơn đặc biệt mà cần chữ ký từ người quản lý của. Cô nên lấy một mẫu đơn từ phòng nhân sự.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82247",
+          "questionNumber": 30,
+          "questionText": "What does the man suggest doing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/61490330.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Reading a brochure",
+              "raw": "(A) Reading a brochure",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Picking up a form",
+              "raw": "(B) Picking up a form",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Ordering business cards",
+              "raw": "(C) Ordering business cards",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Checking a Web site",
+              "raw": "(D) Checking a Web site",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, Vernon. Tôi thực sự ấn tượng với bài phát biểu của anh tại cuộc họp nhân viên về <strong>(Q28) Hội nghị sản xuất quốc gia sẽ được tổ chức vào tháng tới.</strong><br />\nM: Cảm ơn! Cô có nghĩ đến việc tham dự sự kiện này không? Tôi nghĩ điều đó sẽ tốt cho cả cô và công ty chúng ta.<br />\nW: Tôi rất muốn tham dự, nhưng vì sự kiện được tổ chức vào ngày trong tuần nên tôi lo lắng về việc phải nghỉ phép. <strong>(Q29) Tôi có phải sử dụng một trong những ngày nghỉ phép của mình không?</strong><br />\nM: Không, đây là nghỉ vì lý do liên quan đến công việc. Nhưng <strong>(Q30) cô sẽ cần một mẫu đơn đặc biệt mà cần chữ ký từ người quản lý của. Cô nên lấy một mẫu đơn từ phòng nhân sự.</strong></p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c8221e",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/44315890.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/77818251.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Hello, I would like one ticket to the museum, please.<br />\nW: The general admission ticket allows you to see our permanent collection. We have a variety of other activities as well, outlined here in this pamphlet. The photography exhibit is very popular.<br />\nM: Actually, <strong>(Q31) this workshop looks interesting.</strong> I think I&#39;ll try that.<br />\nW: All right. The next one starts at one o&#39;clock. And if you plan to have lunch at our caf&eacute;, you&#39;d better go now. <strong>(Q32) It takes a long time to get served because of the high demand.</strong><br />\nM: If I&#39;m a museum member, I can get a discount at the caf&eacute;, right?<br />\nW: Yes, but <strong>(Q33) you&#39;ll need to show your card.</strong><br />\nM: No problem. I have it with me.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi muốn mua một vé vào bảo tàng.<br />\nW: Vé vào cửa chung cho phép anh xem bộ sưu tập thường niên của chúng tôi. Chúng tôi cũng có nhiều hoạt động khác, được nêu trong tờ rơi này. Triển lãm ảnh cũng rất được yêu thích.<br />\nM: Thực ra, <strong>(Q31) hội thảo này có vẻ thú vị.</strong> Tôi nghĩ tôi sẽ thử.<br />\nW: Được rồi. Buổi hội thảo tiếp theo bắt đầu lúc một giờ. Và nếu anh định ăn trưa tại quán cà phê của chúng tôi, anh nên đi ngay bây giờ. <strong>(Q32) Sẽ mất nhiều thời gian để được phục vụ ở đó vì tình trạng đông đúc.</strong><br />\nM: Nếu tôi có thẻ thành viên cho khách hàng của bảo tàng, tôi có thể được giảm giá tại quán cà phê, phải không?<br />\nW: Vâng, nhưng <strong>(Q33) anh sẽ cần xuất trình thẻ của mình.</strong><br />\nM: Không vấn đề gì. Tôi mang nó theo.</p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c82239",
+          "questionNumber": 31,
+          "questionText": "Look at the graphic. How much will the man pay in addition to the general admission fee?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/77818251.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/44315890.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "$10.00",
+              "raw": "(A) $10.00",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "$12.50",
+              "raw": "(B) $12.50",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "$20.00",
+              "raw": "(C) $20.00",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "$7.50",
+              "raw": "(D) $7.50",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi muốn mua một vé vào bảo tàng.<br />\nW: Vé vào cửa chung cho phép anh xem bộ sưu tập thường niên của chúng tôi. Chúng tôi cũng có nhiều hoạt động khác, được nêu trong tờ rơi này. Triển lãm ảnh cũng rất được yêu thích.<br />\nM: Thực ra, <strong>(Q31) hội thảo này có vẻ thú vị.</strong> Tôi nghĩ tôi sẽ thử.<br />\nW: Được rồi. Buổi hội thảo tiếp theo bắt đầu lúc một giờ. Và nếu anh định ăn trưa tại quán cà phê của chúng tôi, anh nên đi ngay bây giờ. <strong>(Q32) Sẽ mất nhiều thời gian để được phục vụ ở đó vì tình trạng đông đúc.</strong><br />\nM: Nếu tôi có thẻ thành viên cho khách hàng của bảo tàng, tôi có thể được giảm giá tại quán cà phê, phải không?<br />\nW: Vâng, nhưng <strong>(Q33) anh sẽ cần xuất trình thẻ của mình.</strong><br />\nM: Không vấn đề gì. Tôi mang nó theo.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c8223a",
+          "questionNumber": 32,
+          "questionText": "What does the woman mention about the café?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/77818251.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/44315890.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It is very popular.",
+              "raw": "(A) It is very popular.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "It is temporarily closed.",
+              "raw": "(B) It is temporarily closed.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "It has expensive food.",
+              "raw": "(C) It has expensive food.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Its location has changed.",
+              "raw": "(D) Its location has changed.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi muốn mua một vé vào bảo tàng.<br />\nW: Vé vào cửa chung cho phép anh xem bộ sưu tập thường niên của chúng tôi. Chúng tôi cũng có nhiều hoạt động khác, được nêu trong tờ rơi này. Triển lãm ảnh cũng rất được yêu thích.<br />\nM: Thực ra, <strong>(Q31) hội thảo này có vẻ thú vị.</strong> Tôi nghĩ tôi sẽ thử.<br />\nW: Được rồi. Buổi hội thảo tiếp theo bắt đầu lúc một giờ. Và nếu anh định ăn trưa tại quán cà phê của chúng tôi, anh nên đi ngay bây giờ. <strong>(Q32) Sẽ mất nhiều thời gian để được phục vụ ở đó vì tình trạng đông đúc.</strong><br />\nM: Nếu tôi có thẻ thành viên cho khách hàng của bảo tàng, tôi có thể được giảm giá tại quán cà phê, phải không?<br />\nW: Vâng, nhưng <strong>(Q33) anh sẽ cần xuất trình thẻ của mình.</strong><br />\nM: Không vấn đề gì. Tôi mang nó theo.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c8223b",
+          "questionNumber": 33,
+          "questionText": "What does the woman tell the man he will need?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/77818251.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/44315890.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A parking pass",
+              "raw": "(A) A parking pass",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A membership card",
+              "raw": "(B) A membership card",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A museum map",
+              "raw": "(C) A museum map",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A seat reservation",
+              "raw": "(D) A seat reservation",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi muốn mua một vé vào bảo tàng.<br />\nW: Vé vào cửa chung cho phép anh xem bộ sưu tập thường niên của chúng tôi. Chúng tôi cũng có nhiều hoạt động khác, được nêu trong tờ rơi này. Triển lãm ảnh cũng rất được yêu thích.<br />\nM: Thực ra, <strong>(Q31) hội thảo này có vẻ thú vị.</strong> Tôi nghĩ tôi sẽ thử.<br />\nW: Được rồi. Buổi hội thảo tiếp theo bắt đầu lúc một giờ. Và nếu anh định ăn trưa tại quán cà phê của chúng tôi, anh nên đi ngay bây giờ. <strong>(Q32) Sẽ mất nhiều thời gian để được phục vụ ở đó vì tình trạng đông đúc.</strong><br />\nM: Nếu tôi có thẻ thành viên cho khách hàng của bảo tàng, tôi có thể được giảm giá tại quán cà phê, phải không?<br />\nW: Vâng, nhưng <strong>(Q33) anh sẽ cần xuất trình thẻ của mình.</strong><br />\nM: Không vấn đề gì. Tôi mang nó theo.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c8221f",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/26241147.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/22949424.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: <strong>(Q34) I think we&#39;re going to have a great turnout for the baseball tournament this week.</strong><br />\nM: I was worried that it was going to rain, but it looks like it&#39;ll be fine.<br />\nW: Right. I was just checking the forecast. It&#39;s going to be cool earlier in the week, but <strong>(Q35) look at the event day - twenty-four degrees and sunny.</strong><br />\nM: You know, with the nice weather, we might need more drinks for the concession stand.<br />\nW: Good point. <strong>(Q36) I&#39;ll call the grocery store to increase the size of our order.</strong></p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: <strong>(Q34) Tôi nghĩ lượng người đến xem giải bóng chày tuần này sẽ rất lớn.</strong><br />\nM: Tôi lo là trời sẽ mưa, nhưng có vẻ như sẽ ổn thôi.<br />\nW: Đúng rồi. Tôi vừa kiểm tra dự báo thời tiết. Trời sẽ mát vào đầu tuần, nhưng <strong>(Q35) hãy xem ngày diễn ra sự kiện - nhiệt độ là 24 độ và trời nắng.</strong><br />\nM: Cô biết đấy, với thời tiết đẹp như vậy, chúng ta có thể bán nhiều đồ uống hơn ở quầy bán đồ ăn nhẹ.<br />\nW: Ý kiến hay. <strong>(Q36) Tôi sẽ gọi đến cửa hàng tạp hóa để tăng số lượng đơn hàng của chúng ta.</strong></p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c8223c",
+          "questionNumber": 34,
+          "questionText": "What is the conversation mainly about?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/22949424.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/26241147.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A cleanup project",
+              "raw": "(A) A cleanup project",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A sports competition",
+              "raw": "(B) A sports competition",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "An outdoor concert",
+              "raw": "(C) An outdoor concert",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A career development seminar",
+              "raw": "(D) A career development seminar",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: <strong>(Q34) Tôi nghĩ lượng người đến xem giải bóng chày tuần này sẽ rất lớn.</strong><br />\nM: Tôi lo là trời sẽ mưa, nhưng có vẻ như sẽ ổn thôi.<br />\nW: Đúng rồi. Tôi vừa kiểm tra dự báo thời tiết. Trời sẽ mát vào đầu tuần, nhưng <strong>(Q35) hãy xem ngày diễn ra sự kiện - nhiệt độ là 24 độ và trời nắng.</strong><br />\nM: Cô biết đấy, với thời tiết đẹp như vậy, chúng ta có thể bán nhiều đồ uống hơn ở quầy bán đồ ăn nhẹ.<br />\nW: Ý kiến hay. <strong>(Q36) Tôi sẽ gọi đến cửa hàng tạp hóa để tăng số lượng đơn hàng của chúng ta.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c8223d",
+          "questionNumber": 35,
+          "questionText": "Look at the graphic. On which day will an event take place?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/22949424.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/26241147.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Thursday",
+              "raw": "(A) Thursday",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Friday",
+              "raw": "(B) Friday",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Saturday",
+              "raw": "(C) Saturday",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Sunday",
+              "raw": "(D) Sunday",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: <strong>(Q34) Tôi nghĩ lượng người đến xem giải bóng chày tuần này sẽ rất lớn.</strong><br />\nM: Tôi lo là trời sẽ mưa, nhưng có vẻ như sẽ ổn thôi.<br />\nW: Đúng rồi. Tôi vừa kiểm tra dự báo thời tiết. Trời sẽ mát vào đầu tuần, nhưng <strong>(Q35) hãy xem ngày diễn ra sự kiện - nhiệt độ là 24 độ và trời nắng.</strong><br />\nM: Cô biết đấy, với thời tiết đẹp như vậy, chúng ta có thể bán nhiều đồ uống hơn ở quầy bán đồ ăn nhẹ.<br />\nW: Ý kiến hay. <strong>(Q36) Tôi sẽ gọi đến cửa hàng tạp hóa để tăng số lượng đơn hàng của chúng ta.</strong></p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c8223e",
+          "questionNumber": 36,
+          "questionText": "What does the woman plan to do?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/22949424.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/26241147.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Take a few days off",
+              "raw": "(A) Take a few days off",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Post a notice online",
+              "raw": "(B) Post a notice online",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Relocate an activity",
+              "raw": "(C) Relocate an activity",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Change a food order",
+              "raw": "(D) Change a food order",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: <strong>(Q34) Tôi nghĩ lượng người đến xem giải bóng chày tuần này sẽ rất lớn.</strong><br />\nM: Tôi lo là trời sẽ mưa, nhưng có vẻ như sẽ ổn thôi.<br />\nW: Đúng rồi. Tôi vừa kiểm tra dự báo thời tiết. Trời sẽ mát vào đầu tuần, nhưng <strong>(Q35) hãy xem ngày diễn ra sự kiện - nhiệt độ là 24 độ và trời nắng.</strong><br />\nM: Cô biết đấy, với thời tiết đẹp như vậy, chúng ta có thể bán nhiều đồ uống hơn ở quầy bán đồ ăn nhẹ.<br />\nW: Ý kiến hay. <strong>(Q36) Tôi sẽ gọi đến cửa hàng tạp hóa để tăng số lượng đơn hàng của chúng ta.</strong></p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c7868542f5200632c82220",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/10369663.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/44829596.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Thank you for visiting Iverson Appliances. Can I help you find anything?<br />\nW: Actually, yes. <strong>(Q37) I saw an advertisement for a high-speed blender from GC Tech that l&#39;m interested in buying.</strong> Do you have that in stock?<br />\nM: Yes, we do. <strong>(Q38) It&#39;s located in the Small Appliances section. </strong>If you look to your right, you&#39;ll see a big sign there toward the back of the store. That&#39;s where you need to go.<br />\nW: Oh, I see it. Thanks. And <strong>(Q39) do you know how long the warranty for that product lasts?</strong><br />\nM: Hmm ... I&#39;m not familiar with that product line, but l&#39;m sure one of the employees in that section would be able to answer your question.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Cảm ơn quý khách đã ghé thăm Iverson Appliances. Tôi có thể giúp quý khách tìm kiếm mặt hàng gì không?<br />\nW: Thực ra là có. <strong>(Q37) Tôi thấy một quảng cáo về máy xay sinh tố tốc độ cao của GC Tech mà tôi muốn mua.</strong> Các anh có hàng trong kho không?<br />\nM: Có, chúng tôi có. <strong>(Q38) Nó nằm trong khu Thiết bị gia dụng nhỏ. </strong>Nếu cô nhìn sang bên phải, cô sẽ thấy một biển báo lớn ở phía sau cửa hàng. Đó là nơi cô cần đến.<br />\nW: À, tôi thấy rồi. Cảm ơn. Và <strong>(Q39) anh có biết thời hạn bảo hành cho sản phẩm đó là bao lâu không?</strong><br />\nM: Ồ ... Tôi không quen với dòng sản phẩm đó, nhưng tôi chắc rằng một trong những nhân viên trong khu vực đó có thể trả lời câu hỏi của cô.</p>\n",
+      "questions": [
+        {
+          "id": "64c7868542f5200632c8223f",
+          "questionNumber": 37,
+          "questionText": "Why did the woman visit the business?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/44829596.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/10369663.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To introduce a product",
+              "raw": "(A) To introduce a product",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To apply for a job",
+              "raw": "(C) To apply for a job",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To exchange an item",
+              "raw": "(D) To exchange an item",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To make a purchase",
+              "raw": "B) To make a purchase",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Cảm ơn quý khách đã ghé thăm Iverson Appliances. Tôi có thể giúp quý khách tìm kiếm mặt hàng gì không?<br />\nW: Thực ra là có. <strong>(Q37) Tôi thấy một quảng cáo về máy xay sinh tố tốc độ cao của GC Tech mà tôi muốn mua.</strong> Các anh có hàng trong kho không?<br />\nM: Có, chúng tôi có. <strong>(Q38) Nó nằm trong khu Thiết bị gia dụng nhỏ. </strong>Nếu cô nhìn sang bên phải, cô sẽ thấy một biển báo lớn ở phía sau cửa hàng. Đó là nơi cô cần đến.<br />\nW: À, tôi thấy rồi. Cảm ơn. Và <strong>(Q39) anh có biết thời hạn bảo hành cho sản phẩm đó là bao lâu không?</strong><br />\nM: Ồ ... Tôi không quen với dòng sản phẩm đó, nhưng tôi chắc rằng một trong những nhân viên trong khu vực đó có thể trả lời câu hỏi của cô.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82240",
+          "questionNumber": 38,
+          "questionText": "Look at the graphic. Where is the woman told to go?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/44829596.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/10369663.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Section 1",
+              "raw": "(A) Section 1",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Section 2",
+              "raw": "(B) Section 2",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Section 3",
+              "raw": "(C) Section 3",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Section 4",
+              "raw": "(D) Section 4",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Cảm ơn quý khách đã ghé thăm Iverson Appliances. Tôi có thể giúp quý khách tìm kiếm mặt hàng gì không?<br />\nW: Thực ra là có. <strong>(Q37) Tôi thấy một quảng cáo về máy xay sinh tố tốc độ cao của GC Tech mà tôi muốn mua.</strong> Các anh có hàng trong kho không?<br />\nM: Có, chúng tôi có. <strong>(Q38) Nó nằm trong khu Thiết bị gia dụng nhỏ. </strong>Nếu cô nhìn sang bên phải, cô sẽ thấy một biển báo lớn ở phía sau cửa hàng. Đó là nơi cô cần đến.<br />\nW: À, tôi thấy rồi. Cảm ơn. Và <strong>(Q39) anh có biết thời hạn bảo hành cho sản phẩm đó là bao lâu không?</strong><br />\nM: Ồ ... Tôi không quen với dòng sản phẩm đó, nhưng tôi chắc rằng một trong những nhân viên trong khu vực đó có thể trả lời câu hỏi của cô.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "64c7868542f5200632c82241",
+          "questionNumber": 39,
+          "questionText": "What does the woman inquire about?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/prod/2023/07/25/44829596.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/11/10369663.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A store catalog",
+              "raw": "(A) A store catalog",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A delivery charge",
+              "raw": "(B) A delivery charge",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A color option",
+              "raw": "(C) A color option",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A warranty duration</p>",
+              "raw": "(D) A warranty duration</p>",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Cảm ơn quý khách đã ghé thăm Iverson Appliances. Tôi có thể giúp quý khách tìm kiếm mặt hàng gì không?<br />\nW: Thực ra là có. <strong>(Q37) Tôi thấy một quảng cáo về máy xay sinh tố tốc độ cao của GC Tech mà tôi muốn mua.</strong> Các anh có hàng trong kho không?<br />\nM: Có, chúng tôi có. <strong>(Q38) Nó nằm trong khu Thiết bị gia dụng nhỏ. </strong>Nếu cô nhìn sang bên phải, cô sẽ thấy một biển báo lớn ở phía sau cửa hàng. Đó là nơi cô cần đến.<br />\nW: À, tôi thấy rồi. Cảm ơn. Và <strong>(Q39) anh có biết thời hạn bảo hành cho sản phẩm đó là bao lâu không?</strong><br />\nM: Ồ ... Tôi không quen với dòng sản phẩm đó, nhưng tôi chắc rằng một trong những nhân viên trong khu vực đó có thể trả lời câu hỏi của cô.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    }
+  ]
+}

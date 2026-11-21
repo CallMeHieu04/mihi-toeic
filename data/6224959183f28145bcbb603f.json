@@ -1,0 +1,348 @@
+{
+  "topicId": "6224959183f28145bcbb603f",
+  "title": "REDUCED RELATIVE CLAUSES - Practice 1",
+  "totalCards": 10,
+  "totalQuestions": 10,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb633c",
+        "questionNumber": 1,
+        "questionText": "My friends who are studying in Italy will be at the party.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "My friends who studying in Italy will be at the party.",
+            "raw": "A. My friends who studying in Italy will be at the party.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "My friends studying in Italy will be at the party.",
+            "raw": "B. My friends studying in Italy will be at the party.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "My studying in Italy friends will be at the party.",
+            "raw": "C. My studying in Italy friends will be at the party.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'My friends who are studying in Italy will be at the party.', the phrase 'who are studying in Italy' is a relative clause that describes 'my friends'. However, in English, we can also use a reduced relative clause by omitting 'who are' and using the present participle (V-ing) form. So, 'My friends studying in Italy will be at the party.' is correct and natural. The other options are either grammatically incorrect or awkward.<br><ul><li><b>A. My friends who studying in Italy will be at the party.</b> (Clause): This option is incorrect because after 'who', we need a verb (are) before the present participle 'studying'. The correct form should be 'who are studying'.</li><li><b>B. My friends studying in Italy will be at the party.</b> (Reduced relative clause): This is the correct answer. It uses a reduced relative clause, where 'who are' is omitted and 'studying' (present participle) directly modifies 'my friends'.</li><li><b>C. My studying in Italy friends will be at the party.</b> (Phrase): This option is incorrect because the order of words is unnatural in English. We do not place the participle phrase before the noun in this way.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses: When the relative pronoun (who/that) is the subject of the clause and the verb is in the continuous form, we can reduce 'who are studying' to 'studying'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'My friends who are studying in Italy will be at the party.', cụm 'who are studying in Italy' là mệnh đề quan hệ dùng để bổ nghĩa cho 'my friends'. Tuy nhiên, trong tiếng Anh, chúng ta có thể rút gọn mệnh đề quan hệ này bằng cách bỏ 'who are' và dùng dạng V-ing (present participle). Vì vậy, 'My friends studying in Italy will be at the party.' là đúng và tự nhiên. Các lựa chọn khác hoặc sai ngữ pháp hoặc không tự nhiên.<br><ul><li><b>A. My friends who studying in Italy will be at the party.</b> (Mệnh đề): Lựa chọn này sai vì sau 'who' cần có động từ (are) trước khi dùng V-ing 'studying'. Dạng đúng phải là 'who are studying'.</li><li><b>B. My friends studying in Italy will be at the party.</b> (Mệnh đề quan hệ rút gọn): Đây là đáp án đúng. Nó sử dụng mệnh đề quan hệ rút gọn, bỏ 'who are' và dùng trực tiếp 'studying' (V-ing) để bổ nghĩa cho 'my friends'.</li><li><b>C. My studying in Italy friends will be at the party.</b> (Cụm từ): Lựa chọn này sai vì trật tự từ không tự nhiên trong tiếng Anh. Không đặt cụm phân từ trước danh từ như vậy.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Khi đại từ quan hệ (who/that) là chủ ngữ của mệnh đề và động từ ở dạng tiếp diễn, ta có thể rút gọn 'who are studying' thành 'studying'.<br><br><b>Tạm dịch:</b> Bạn bè của tôi đang học ở Ý sẽ có mặt tại bữa tiệc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'My friends who are studying in Italy will be at the party.', the phrase 'who are studying in Italy' is a relative clause that describes 'my friends'. However, in English, we can also use a reduced relative clause by omitting 'who are' and using the present participle (V-ing) form. So, 'My friends studying in Italy will be at the party.' is correct and natural. The other options are either grammatically incorrect or awkward.<br><ul><li><b>A. My friends who studying in Italy will be at the party.</b> (Clause): This option is incorrect because after 'who', we need a verb (are) before the present participle 'studying'. The correct form should be 'who are studying'.</li><li><b>B. My friends studying in Italy will be at the party.</b> (Reduced relative clause): This is the correct answer. It uses a reduced relative clause, where 'who are' is omitted and 'studying' (present participle) directly modifies 'my friends'.</li><li><b>C. My studying in Italy friends will be at the party.</b> (Phrase): This option is incorrect because the order of words is unnatural in English. We do not place the participle phrase before the noun in this way.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses: When the relative pronoun (who/that) is the subject of the clause and the verb is in the continuous form, we can reduce 'who are studying' to 'studying'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb633d",
+        "questionNumber": 2,
+        "questionText": "The man who was handsome worked in Hollywood.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The man handsome worked in Hollywood.",
+            "raw": "A. The man handsome worked in Hollywood.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The man who handsome worked in Hollywood.",
+            "raw": "B. The man who handsome worked in Hollywood.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The handsome man worked in Hollywood.",
+            "raw": "C. The handsome man worked in Hollywood.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'The man who was handsome worked in Hollywood.' uses a relative clause 'who was handsome' to describe 'the man'. In English, we can also use an adjective before a noun to describe it, so 'the handsome man' is a correct and more concise way to say the same thing.<br><ul><li><b>The man handsome worked in Hollywood.</b> (sentence): This sentence is incorrect because in English, adjectives usually come before the noun they modify, not after. 'Handsome' should be before 'man', or used in a relative clause.</li><li><b>The man who handsome worked in Hollywood.</b> (sentence): This sentence is incorrect because the relative clause is missing the verb 'was'. It should be 'who was handsome', not 'who handsome'.</li><li><b>The handsome man worked in Hollywood.</b> (sentence): This sentence is correct. 'Handsome' is an adjective placed before the noun 'man', which is the standard way to describe a noun in English.</li></ul><b>Related structure or vocabulary:</b> Adjective order: Adjectives usually come before the noun they describe. Relative clauses: 'who was handsome' can be replaced by an adjective before the noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'The man who was handsome worked in Hollywood.' sử dụng mệnh đề quan hệ 'who was handsome' để miêu tả 'the man'. Trong tiếng Anh, chúng ta cũng có thể dùng tính từ đứng trước danh từ để miêu tả, vì vậy 'the handsome man' là cách diễn đạt đúng và ngắn gọn hơn cho cùng ý nghĩa.<br><ul><li><b>The man handsome worked in Hollywood.</b> (câu): Câu này sai vì trong tiếng Anh, tính từ thường đứng trước danh từ mà nó bổ nghĩa, không đứng sau. 'Handsome' phải đứng trước 'man', hoặc dùng trong mệnh đề quan hệ.</li><li><b>The man who handsome worked in Hollywood.</b> (câu): Câu này sai vì mệnh đề quan hệ thiếu động từ 'was'. Phải là 'who was handsome', không phải 'who handsome'.</li><li><b>The handsome man worked in Hollywood.</b> (câu): Câu này đúng. 'Handsome' là tính từ đứng trước danh từ 'man', đây là cách miêu tả danh từ chuẩn trong tiếng Anh.</li></ul><b>Cấu trúc và từ vựng:</b> Thứ tự tính từ: Tính từ thường đứng trước danh từ mà nó bổ nghĩa. Mệnh đề quan hệ: 'who was handsome' có thể thay bằng tính từ đứng trước danh từ.<br><br><b>Tạm dịch:</b> Người đàn ông đẹp trai đã làm việc ở Hollywood.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'The man who was handsome worked in Hollywood.' uses a relative clause 'who was handsome' to describe 'the man'. In English, we can also use an adjective before a noun to describe it, so 'the handsome man' is a correct and more concise way to say the same thing.<br><ul><li><b>The man handsome worked in Hollywood.</b> (sentence): This sentence is incorrect because in English, adjectives usually come before the noun they modify, not after. 'Handsome' should be before 'man', or used in a relative clause.</li><li><b>The man who handsome worked in Hollywood.</b> (sentence): This sentence is incorrect because the relative clause is missing the verb 'was'. It should be 'who was handsome', not 'who handsome'.</li><li><b>The handsome man worked in Hollywood.</b> (sentence): This sentence is correct. 'Handsome' is an adjective placed before the noun 'man', which is the standard way to describe a noun in English.</li></ul><b>Related structure or vocabulary:</b> Adjective order: Adjectives usually come before the noun they describe. Relative clauses: 'who was handsome' can be replaced by an adjective before the noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb633e",
+        "questionNumber": 3,
+        "questionText": "The students who study at our school come from all over the world.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The studying students at our school from all over the world.",
+            "raw": "A. The studying students at our school from all over the world.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The students studying at our school come from all over the world.",
+            "raw": "B. The students studying at our school come from all over the world.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "The studying at our school students come from all over the world.",
+            "raw": "C. The studying at our school students come from all over the world.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to use a reduced relative clause to describe 'the students.' The full relative clause is 'The students who study at our school come from all over the world.' When reducing a relative clause with an active verb, we use the present participle (V-ing) form. Therefore, 'who study' becomes 'studying.' The correct structure is 'The students studying at our school come from all over the world.'<br><ul><li><b>A. The studying students at our school from all over the world.</b> (Phrase): 'Studying students' is not a natural or correct phrase in English. We use the present participle (V-ing) directly after the noun it modifies, not before it.</li><li><b>B. The students studying at our school come from all over the world.</b> (Phrase): This is the correct answer. 'Studying' is used as a reduced relative clause to modify 'students.'</li><li><b>C. The studying at our school students come from all over the world.</b> (Phrase): This word order is incorrect in English. The modifier 'studying at our school' should come directly after 'students.'</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When the relative pronoun (who/that) is the subject of the clause and the verb is active, we can reduce 'who/that + verb' to 'verb-ing.' For example: 'The people who live here' → 'The people living here.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần sử dụng mệnh đề quan hệ rút gọn để miêu tả 'the students.' Mệnh đề đầy đủ là 'The students who study at our school come from all over the world.' Khi rút gọn mệnh đề quan hệ với động từ chủ động, ta dùng dạng hiện tại phân từ (V-ing). Vì vậy, 'who study' sẽ thành 'studying.' Cấu trúc đúng là 'The students studying at our school come from all over the world.'<br><ul><li><b>A. The studying students at our school from all over the world.</b> (Cụm từ): 'Studying students' không phải là cụm từ tự nhiên hoặc đúng trong tiếng Anh. Ta dùng hiện tại phân từ (V-ing) ngay sau danh từ mà nó bổ nghĩa, không đặt trước danh từ.</li><li><b>B. The students studying at our school come from all over the world.</b> (Cụm từ): Đây là đáp án đúng. 'Studying' được dùng như mệnh đề quan hệ rút gọn để bổ nghĩa cho 'students.'</li><li><b>C. The studying at our school students come from all over the world.</b> (Cụm từ): Thứ tự từ trong câu này không đúng trong tiếng Anh. Cụm bổ nghĩa 'studying at our school' phải đặt ngay sau 'students.'</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Khi đại từ quan hệ (who/that) là chủ ngữ của mệnh đề và động từ ở dạng chủ động, ta có thể rút gọn 'who/that + động từ' thành 'động từ-ing.' Ví dụ: 'The people who live here' → 'The people living here.'<br><br><b>Tạm dịch:</b> Các học sinh học tại trường chúng tôi đến từ khắp nơi trên thế giới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to use a reduced relative clause to describe 'the students.' The full relative clause is 'The students who study at our school come from all over the world.' When reducing a relative clause with an active verb, we use the present participle (V-ing) form. Therefore, 'who study' becomes 'studying.' The correct structure is 'The students studying at our school come from all over the world.'<br><ul><li><b>A. The studying students at our school from all over the world.</b> (Phrase): 'Studying students' is not a natural or correct phrase in English. We use the present participle (V-ing) directly after the noun it modifies, not before it.</li><li><b>B. The students studying at our school come from all over the world.</b> (Phrase): This is the correct answer. 'Studying' is used as a reduced relative clause to modify 'students.'</li><li><b>C. The studying at our school students come from all over the world.</b> (Phrase): This word order is incorrect in English. The modifier 'studying at our school' should come directly after 'students.'</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When the relative pronoun (who/that) is the subject of the clause and the verb is active, we can reduce 'who/that + verb' to 'verb-ing.' For example: 'The people who live here' → 'The people living here.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb633f",
+        "questionNumber": 4,
+        "questionText": "The cake that was selected came from an Italian bakery.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The that selected cake came from an Italian bakery.",
+            "raw": "A. The that selected cake came from an Italian bakery.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The cake selected came from an Italian bakery.",
+            "raw": "B. The cake selected came from an Italian bakery.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "The cake was selected came from an Italian bakery.",
+            "raw": "C. The cake was selected came from an Italian bakery.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'The cake that was selected came from an Italian bakery.', the phrase 'that was selected' is a relative clause modifying 'the cake'. In English, we can reduce relative clauses with passive verbs by omitting the relative pronoun ('that') and the verb 'was', leaving only the past participle ('selected'). So, 'The cake that was selected' becomes 'The cake selected'.<br><ul><li><b>A. The that selected cake came from an Italian bakery.</b> (sentence): This choice is incorrect because the word order is wrong. 'That' should come after 'cake', not before.</li><li><b>B. The cake selected came from an Italian bakery.</b> (sentence): This is the correct answer. It uses the reduced relative clause form, which is grammatically correct and natural in English.</li><li><b>C. The cake was selected came from an Italian bakery.</b> (sentence): This choice is incorrect because it has two verbs ('was selected' and 'came') without a connector, making the sentence ungrammatical.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses (passive): When a relative clause has a passive verb, we can reduce it by removing the relative pronoun and the verb 'be', leaving only the past participle. Example: 'The book that was written by her' → 'The book written by her'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'The cake that was selected came from an Italian bakery.', cụm 'that was selected' là mệnh đề quan hệ bổ nghĩa cho 'the cake'. Trong tiếng Anh, chúng ta có thể rút gọn mệnh đề quan hệ bị động bằng cách bỏ đại từ quan hệ ('that') và động từ 'was', chỉ giữ lại phân từ hai ('selected'). Vì vậy, 'The cake that was selected' sẽ rút gọn thành 'The cake selected'.<br><ul><li><b>A. The that selected cake came from an Italian bakery.</b> (câu): Đáp án này sai vì trật tự từ không đúng. 'That' phải đứng sau 'cake', không phải trước.</li><li><b>B. The cake selected came from an Italian bakery.</b> (câu): Đây là đáp án đúng. Câu này sử dụng dạng rút gọn của mệnh đề quan hệ bị động, đúng ngữ pháp và tự nhiên trong tiếng Anh.</li><li><b>C. The cake was selected came from an Italian bakery.</b> (câu): Đáp án này sai vì có hai động từ ('was selected' và 'came') mà không có liên từ nối, khiến câu bị sai ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Rút gọn mệnh đề quan hệ bị động: Khi mệnh đề quan hệ có động từ bị động, ta có thể rút gọn bằng cách bỏ đại từ quan hệ và động từ 'be', chỉ giữ lại phân từ hai. Ví dụ: 'The book that was written by her' → 'The book written by her'.<br><br><b>Tạm dịch:</b> Chiếc bánh được chọn đến từ một tiệm bánh Ý.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'The cake that was selected came from an Italian bakery.', the phrase 'that was selected' is a relative clause modifying 'the cake'. In English, we can reduce relative clauses with passive verbs by omitting the relative pronoun ('that') and the verb 'was', leaving only the past participle ('selected'). So, 'The cake that was selected' becomes 'The cake selected'.<br><ul><li><b>A. The that selected cake came from an Italian bakery.</b> (sentence): This choice is incorrect because the word order is wrong. 'That' should come after 'cake', not before.</li><li><b>B. The cake selected came from an Italian bakery.</b> (sentence): This is the correct answer. It uses the reduced relative clause form, which is grammatically correct and natural in English.</li><li><b>C. The cake was selected came from an Italian bakery.</b> (sentence): This choice is incorrect because it has two verbs ('was selected' and 'came') without a connector, making the sentence ungrammatical.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses (passive): When a relative clause has a passive verb, we can reduce it by removing the relative pronoun and the verb 'be', leaving only the past participle. Example: 'The book that was written by her' → 'The book written by her'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb6340",
+        "questionNumber": 5,
+        "questionText": "Seattle, which is famous for its seafood, is a beautiful city.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Seattle, famous for its seafood, is a beautiful city.",
+            "raw": "A. Seattle, famous for its seafood, is a beautiful city.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Seattle famous for it's seafood is a beautiful city.",
+            "raw": "B. Seattle famous for it's seafood is a beautiful city.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Seattle is famous for its seafood is a beautiful city.",
+            "raw": "C. Seattle is famous for its seafood is a beautiful city.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the phrase 'which is famous for its seafood' is a non-defining relative clause that gives extra information about Seattle. In English, we can shorten non-defining relative clauses by using a participial phrase. The correct way is to use 'famous for its seafood' set off by commas. This makes the sentence concise and grammatically correct.<br><ul><li><b>A. Seattle, famous for its seafood, is a beautiful city.</b> (sentence): This sentence correctly uses a participial phrase 'famous for its seafood' with commas to give extra information about Seattle. It is concise and grammatically correct.</li><li><b>B. Seattle famous for it's seafood is a beautiful city.</b> (sentence): This sentence is incorrect because it does not use commas to separate the extra information. Also, 'it's' is incorrect; it should be 'its' (possessive adjective).</li><li><b>C. Seattle is famous for its seafood is a beautiful city.</b> (sentence): This sentence is incorrect because it has two main verbs ('is') without proper connection, making it a run-on sentence.</li></ul><b>Related structure or vocabulary:</b> Non-defining relative clauses can be reduced to participial phrases. Use commas to separate extra information. 'Famous for' means 'well-known because of'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, cụm 'which is famous for its seafood' là mệnh đề quan hệ không xác định, cung cấp thêm thông tin về Seattle. Trong tiếng Anh, chúng ta có thể rút gọn mệnh đề quan hệ không xác định bằng cách dùng cụm phân từ. Cách đúng là dùng 'famous for its seafood' và đặt giữa hai dấu phẩy. Điều này giúp câu ngắn gọn và đúng ngữ pháp.<br><ul><li><b>A. Seattle, famous for its seafood, is a beautiful city.</b> (câu): Câu này sử dụng đúng cụm phân từ 'famous for its seafood' với dấu phẩy để bổ sung thông tin cho Seattle. Câu ngắn gọn và đúng ngữ pháp.</li><li><b>B. Seattle famous for it's seafood is a beautiful city.</b> (câu): Câu này sai vì không dùng dấu phẩy để tách thông tin bổ sung. Ngoài ra, 'it's' là sai, phải là 'its' (tính từ sở hữu).</li><li><b>C. Seattle is famous for its seafood is a beautiful city.</b> (câu): Câu này sai vì có hai động từ chính ('is') mà không liên kết đúng, khiến câu bị lỗi ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ không xác định có thể rút gọn thành cụm phân từ. Dùng dấu phẩy để tách thông tin bổ sung. 'Famous for' nghĩa là 'nổi tiếng vì'.<br><br><b>Tạm dịch:</b> Seattle, nổi tiếng với hải sản, là một thành phố xinh đẹp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the phrase 'which is famous for its seafood' is a non-defining relative clause that gives extra information about Seattle. In English, we can shorten non-defining relative clauses by using a participial phrase. The correct way is to use 'famous for its seafood' set off by commas. This makes the sentence concise and grammatically correct.<br><ul><li><b>A. Seattle, famous for its seafood, is a beautiful city.</b> (sentence): This sentence correctly uses a participial phrase 'famous for its seafood' with commas to give extra information about Seattle. It is concise and grammatically correct.</li><li><b>B. Seattle famous for it's seafood is a beautiful city.</b> (sentence): This sentence is incorrect because it does not use commas to separate the extra information. Also, 'it's' is incorrect; it should be 'its' (possessive adjective).</li><li><b>C. Seattle is famous for its seafood is a beautiful city.</b> (sentence): This sentence is incorrect because it has two main verbs ('is') without proper connection, making it a run-on sentence.</li></ul><b>Related structure or vocabulary:</b> Non-defining relative clauses can be reduced to participial phrases. Use commas to separate extra information. 'Famous for' means 'well-known because of'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb6341",
+        "questionNumber": 6,
+        "questionText": "The towels that are on the chair can be used in the club showers.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The on the chair towels can be used in the club showers.",
+            "raw": "A. The on the chair towels can be used in the club showers.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The chaired towels can be used in the club showers.",
+            "raw": "B. The chaired towels can be used in the club showers.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The towels on the chair can be used in the club showers.",
+            "raw": "C. The towels on the chair can be used in the club showers.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'The towels that are on the chair can be used in the club showers,' the phrase 'that are on the chair' is a relative clause modifying 'the towels.' In English, we can often omit 'that are' and simply use the noun followed by the prepositional phrase, resulting in 'The towels on the chair.' This is a common way to shorten relative clauses when the meaning is clear.<br><ul><li><b>A. The on the chair towels can be used in the club showers.</b> (Phrase): This choice is incorrect because in English, adjectives or descriptive phrases do not come before the noun in this way. 'On the chair' cannot be placed between 'the' and 'towels.'</li><li><b>B. The chaired towels can be used in the club showers.</b> (Adjective): 'Chaired' is not a correct adjective to describe towels that are on a chair. 'Chaired' would mean something related to a chair, but it is not used this way in English.</li><li><b>C. The towels on the chair can be used in the club showers.</b> (Phrase): This is the correct answer. 'On the chair' is a prepositional phrase modifying 'towels,' and this structure is natural and grammatically correct in English.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses: In English, we can often omit 'that are' or 'which are' in relative clauses when followed by a prepositional phrase. For example, 'The books that are on the table' becomes 'The books on the table.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, 'The towels that are on the chair can be used in the club showers,' cụm 'that are on the chair' là mệnh đề quan hệ bổ nghĩa cho 'the towels.' Trong tiếng Anh, chúng ta thường có thể lược bỏ 'that are' và chỉ dùng danh từ kèm theo cụm giới từ, thành 'The towels on the chair.' Đây là cách rút gọn mệnh đề quan hệ rất phổ biến khi nghĩa đã rõ ràng.<br><ul><li><b>A. The on the chair towels can be used in the club showers.</b> (Cụm từ): Đáp án này sai vì trong tiếng Anh, các cụm từ miêu tả không được đặt giữa mạo từ 'the' và danh từ 'towels.' 'On the chair' không thể đứng trước danh từ như vậy.</li><li><b>B. The chaired towels can be used in the club showers.</b> (Tính từ): 'Chaired' không phải là tính từ đúng để miêu tả khăn đặt trên ghế. 'Chaired' có nghĩa liên quan đến ghế, nhưng không dùng để chỉ khăn đặt trên ghế trong tiếng Anh.</li><li><b>C. The towels on the chair can be used in the club showers.</b> (Cụm từ): Đây là đáp án đúng. 'On the chair' là cụm giới từ bổ nghĩa cho 'towels,' và cấu trúc này tự nhiên, đúng ngữ pháp trong tiếng Anh.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Trong tiếng Anh, chúng ta thường có thể lược bỏ 'that are' hoặc 'which are' trong mệnh đề quan hệ khi theo sau là cụm giới từ. Ví dụ: 'The books that are on the table' thành 'The books on the table.'<br><br><b>Tạm dịch:</b> Những chiếc khăn ở trên ghế có thể được sử dụng trong phòng tắm của câu lạc bộ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'The towels that are on the chair can be used in the club showers,' the phrase 'that are on the chair' is a relative clause modifying 'the towels.' In English, we can often omit 'that are' and simply use the noun followed by the prepositional phrase, resulting in 'The towels on the chair.' This is a common way to shorten relative clauses when the meaning is clear.<br><ul><li><b>A. The on the chair towels can be used in the club showers.</b> (Phrase): This choice is incorrect because in English, adjectives or descriptive phrases do not come before the noun in this way. 'On the chair' cannot be placed between 'the' and 'towels.'</li><li><b>B. The chaired towels can be used in the club showers.</b> (Adjective): 'Chaired' is not a correct adjective to describe towels that are on a chair. 'Chaired' would mean something related to a chair, but it is not used this way in English.</li><li><b>C. The towels on the chair can be used in the club showers.</b> (Phrase): This is the correct answer. 'On the chair' is a prepositional phrase modifying 'towels,' and this structure is natural and grammatically correct in English.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses: In English, we can often omit 'that are' or 'which are' in relative clauses when followed by a prepositional phrase. For example, 'The books that are on the table' becomes 'The books on the table.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb6342",
+        "questionNumber": 7,
+        "questionText": "The men that are working on the project come from India.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The men working on the project come from India.",
+            "raw": "A. The men working on the project come from India.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The working men on the project come from India.",
+            "raw": "B. The working men on the project come from India.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The working on the project men come from India.",
+            "raw": "C. The working on the project men come from India.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence, 'The men that are working on the project come from India,' the phrase 'that are working on the project' is a relative clause describing 'the men.' In English, we can use a reduced relative clause by omitting 'that are' and using the present participle (V-ing) form. So, 'The men working on the project come from India.' is the correct reduced form.<br><ul><li><b>The men working on the project come from India.</b> (Reduced relative clause): This is the correct reduced relative clause. 'Working on the project' modifies 'the men' and is in the correct position.</li><li><b>The working men on the project come from India.</b> (Adjective + noun): 'Working men' means men whose job is to work (laborers), not necessarily those working on the project. The meaning changes.</li><li><b>The working on the project men come from India.</b> (Incorrect word order): This is grammatically incorrect. The modifier 'working on the project' cannot be placed before 'men' in this way.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When the relative pronoun (who/that) is the subject of the clause and the verb is in active form, we can reduce 'who/that are V-ing' to 'V-ing'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'The men that are working on the project come from India.', cụm 'that are working on the project' là mệnh đề quan hệ bổ nghĩa cho 'the men'. Trong tiếng Anh, ta có thể rút gọn mệnh đề quan hệ này bằng cách bỏ 'that are' và dùng dạng V-ing (hiện tại phân từ). Vì vậy, câu đúng là 'The men working on the project come from India.'<br><ul><li><b>The men working on the project come from India.</b> (Mệnh đề quan hệ rút gọn): Đây là dạng rút gọn mệnh đề quan hệ đúng. 'Working on the project' bổ nghĩa cho 'the men' và đặt đúng vị trí.</li><li><b>The working men on the project come from India.</b> (Tính từ + danh từ): 'Working men' nghĩa là những người lao động (công nhân), không nhất thiết là những người đang làm việc trong dự án. Nghĩa của câu bị thay đổi.</li><li><b>The working on the project men come from India.</b> (Sai trật tự từ): Câu này sai ngữ pháp. Cụm 'working on the project' không thể đặt trước 'men' như vậy.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Khi đại từ quan hệ (who/that) là chủ ngữ của mệnh đề và động từ ở dạng chủ động, ta có thể rút gọn 'who/that are V-ing' thành 'V-ing'.<br><br><b>Tạm dịch:</b> Những người đàn ông đang làm việc trong dự án đến từ Ấn Độ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence, 'The men that are working on the project come from India,' the phrase 'that are working on the project' is a relative clause describing 'the men.' In English, we can use a reduced relative clause by omitting 'that are' and using the present participle (V-ing) form. So, 'The men working on the project come from India.' is the correct reduced form.<br><ul><li><b>The men working on the project come from India.</b> (Reduced relative clause): This is the correct reduced relative clause. 'Working on the project' modifies 'the men' and is in the correct position.</li><li><b>The working men on the project come from India.</b> (Adjective + noun): 'Working men' means men whose job is to work (laborers), not necessarily those working on the project. The meaning changes.</li><li><b>The working on the project men come from India.</b> (Incorrect word order): This is grammatically incorrect. The modifier 'working on the project' cannot be placed before 'men' in this way.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When the relative pronoun (who/that) is the subject of the clause and the verb is in active form, we can reduce 'who/that are V-ing' to 'V-ing'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb6343",
+        "questionNumber": 8,
+        "questionText": "Tom, who was responsible for sales, made the presentation.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Tom sales responsible made the presentation.",
+            "raw": "A. Tom sales responsible made the presentation.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Tom responsible for sales made the presentation.",
+            "raw": "B. Tom responsible for sales made the presentation.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Tom, responsible for sales, made the presentation.",
+            "raw": "C. Tom, responsible for sales, made the presentation.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Tom, who was responsible for sales, made the presentation.', the phrase 'who was responsible for sales' is a non-defining relative clause, giving extra information about Tom. When rewriting this sentence without 'who was', we use an appositive phrase, which is set off by commas. The correct structure is 'Tom, responsible for sales, made the presentation.'<br><ul><li><b>A. Tom sales responsible made the presentation.</b> (sentence): This option is grammatically incorrect. The order of words is not proper in English, and it lacks necessary punctuation.</li><li><b>B. Tom responsible for sales made the presentation.</b> (sentence): This option is missing the commas needed to set off the appositive phrase 'responsible for sales', making the sentence unclear.</li><li><b>C. Tom, responsible for sales, made the presentation.</b> (sentence): This is the correct answer. The appositive phrase 'responsible for sales' is correctly set off by commas, providing extra information about Tom.</li></ul><b>Related structure or vocabulary:</b> Appositive phrase: A noun or noun phrase that renames or gives more information about a noun, usually set off by commas if it is non-essential. Non-defining relative clause: A clause that gives extra information and is separated by commas.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Tom, who was responsible for sales, made the presentation.', cụm 'who was responsible for sales' là mệnh đề quan hệ không xác định, cung cấp thêm thông tin về Tom. Khi viết lại câu này mà không dùng 'who was', ta sử dụng cụm danh từ đồng vị, được ngăn cách bằng dấu phẩy. Cấu trúc đúng là 'Tom, responsible for sales, made the presentation.'<br><ul><li><b>A. Tom sales responsible made the presentation.</b> (câu): Đáp án này sai ngữ pháp. Thứ tự từ không đúng trong tiếng Anh và thiếu dấu câu cần thiết.</li><li><b>B. Tom responsible for sales made the presentation.</b> (câu): Đáp án này thiếu dấu phẩy để ngăn cách cụm đồng vị 'responsible for sales', làm câu không rõ nghĩa.</li><li><b>C. Tom, responsible for sales, made the presentation.</b> (câu): Đây là đáp án đúng. Cụm đồng vị 'responsible for sales' được ngăn cách đúng bằng dấu phẩy, cung cấp thêm thông tin về Tom.</li></ul><b>Cấu trúc và từ vựng:</b> Cụm đồng vị (Appositive phrase): Là cụm danh từ hoặc danh từ bổ sung hoặc giải thích cho danh từ đứng trước, thường được ngăn cách bằng dấu phẩy nếu là thông tin không thiết yếu. Mệnh đề quan hệ không xác định (Non-defining relative clause): Mệnh đề cung cấp thông tin bổ sung và được ngăn cách bằng dấu phẩy.<br><br><b>Tạm dịch:</b> Tom, người chịu trách nhiệm về bán hàng, đã thực hiện bài thuyết trình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Tom, who was responsible for sales, made the presentation.', the phrase 'who was responsible for sales' is a non-defining relative clause, giving extra information about Tom. When rewriting this sentence without 'who was', we use an appositive phrase, which is set off by commas. The correct structure is 'Tom, responsible for sales, made the presentation.'<br><ul><li><b>A. Tom sales responsible made the presentation.</b> (sentence): This option is grammatically incorrect. The order of words is not proper in English, and it lacks necessary punctuation.</li><li><b>B. Tom responsible for sales made the presentation.</b> (sentence): This option is missing the commas needed to set off the appositive phrase 'responsible for sales', making the sentence unclear.</li><li><b>C. Tom, responsible for sales, made the presentation.</b> (sentence): This is the correct answer. The appositive phrase 'responsible for sales' is correctly set off by commas, providing extra information about Tom.</li></ul><b>Related structure or vocabulary:</b> Appositive phrase: A noun or noun phrase that renames or gives more information about a noun, usually set off by commas if it is non-essential. Non-defining relative clause: A clause that gives extra information and is separated by commas.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb6344",
+        "questionNumber": 9,
+        "questionText": "The telephone which is on the desk is broken.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The on the desk telephone is broken.",
+            "raw": "A. The on the desk telephone is broken.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The telephone on the desk is broken.",
+            "raw": "B. The telephone on the desk is broken.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "The telephone desk is broken.",
+            "raw": "C. The telephone desk is broken.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'The telephone which is on the desk is broken.', the phrase 'which is on the desk' is a relative clause that describes 'the telephone'. In English, we can shorten relative clauses by omitting 'which is' and directly placing the modifying phrase after the noun. Therefore, 'The telephone on the desk is broken.' is the correct reduced form.<br><ul><li><b>A. The on the desk telephone is broken.</b> (Phrase): This is incorrect because in English, adjectives or modifying phrases do not come before the noun in this way. 'On the desk' should follow 'telephone', not precede it.</li><li><b>B. The telephone on the desk is broken.</b> (Phrase): This is correct. The phrase 'on the desk' directly follows 'telephone', correctly modifying it. This is the reduced form of the relative clause.</li><li><b>C. The telephone desk is broken.</b> (Phrase): This is incorrect. 'Telephone desk' would mean a type of desk, not a telephone. The meaning changes completely.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses: When a relative clause ('which is', 'who is', etc.) describes a noun, it can often be shortened by removing the relative pronoun and the verb 'to be'. For example: 'The man who is sitting there' → 'The man sitting there'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'The telephone which is on the desk is broken.', cụm 'which is on the desk' là mệnh đề quan hệ bổ nghĩa cho 'the telephone'. Trong tiếng Anh, chúng ta có thể rút gọn mệnh đề quan hệ bằng cách bỏ 'which is' và đặt cụm từ bổ nghĩa ngay sau danh từ. Do đó, 'The telephone on the desk is broken.' là dạng rút gọn đúng.<br><ul><li><b>A. The on the desk telephone is broken.</b> (Cụm từ): Đáp án này sai vì trong tiếng Anh, các cụm từ bổ nghĩa không đứng trước danh từ theo cách này. 'On the desk' phải đứng sau 'telephone', không phải trước.</li><li><b>B. The telephone on the desk is broken.</b> (Cụm từ): Đáp án này đúng. Cụm 'on the desk' đứng ngay sau 'telephone', bổ nghĩa chính xác cho danh từ này. Đây là dạng rút gọn của mệnh đề quan hệ.</li><li><b>C. The telephone desk is broken.</b> (Cụm từ): Đáp án này sai. 'Telephone desk' sẽ mang nghĩa là một loại bàn, không phải điện thoại. Nghĩa của câu bị thay đổi hoàn toàn.</li></ul><b>Cấu trúc và từ vựng:</b> Rút gọn mệnh đề quan hệ: Khi một mệnh đề quan hệ ('which is', 'who is',...) bổ nghĩa cho danh từ, ta thường có thể rút gọn bằng cách bỏ đại từ quan hệ và động từ 'to be'. Ví dụ: 'The man who is sitting there' → 'The man sitting there'.<br><br><b>Tạm dịch:</b> Chiếc điện thoại ở trên bàn bị hỏng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'The telephone which is on the desk is broken.', the phrase 'which is on the desk' is a relative clause that describes 'the telephone'. In English, we can shorten relative clauses by omitting 'which is' and directly placing the modifying phrase after the noun. Therefore, 'The telephone on the desk is broken.' is the correct reduced form.<br><ul><li><b>A. The on the desk telephone is broken.</b> (Phrase): This is incorrect because in English, adjectives or modifying phrases do not come before the noun in this way. 'On the desk' should follow 'telephone', not precede it.</li><li><b>B. The telephone on the desk is broken.</b> (Phrase): This is correct. The phrase 'on the desk' directly follows 'telephone', correctly modifying it. This is the reduced form of the relative clause.</li><li><b>C. The telephone desk is broken.</b> (Phrase): This is incorrect. 'Telephone desk' would mean a type of desk, not a telephone. The meaning changes completely.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses: When a relative clause ('which is', 'who is', etc.) describes a noun, it can often be shortened by removing the relative pronoun and the verb 'to be'. For example: 'The man who is sitting there' → 'The man sitting there'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249ab283f28145bcbb6345",
+        "questionNumber": 10,
+        "questionText": "The bicycle which was featured was made by Bianchi.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The featured bicycle was made by Bianchi.",
+            "raw": "A. The featured bicycle was made by Bianchi.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The was featured bicycle made by Bianchi.",
+            "raw": "B. The was featured bicycle made by Bianchi.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The made Bianchi bicycle was featured.",
+            "raw": "C. The made Bianchi bicycle was featured.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'The bicycle which was featured was made by Bianchi.' can be rewritten in a simpler form by using a reduced relative clause. The phrase 'which was featured' describes the bicycle, so we can use 'the featured bicycle' to replace 'the bicycle which was featured'. Therefore, the correct answer is 'The featured bicycle was made by Bianchi.'<br><ul><li><b>The featured bicycle was made by Bianchi.</b> (Sentence (with past participle adjective)): This is the correct answer. 'Featured' is a past participle used as an adjective to describe 'bicycle', meaning the bicycle that was featured.</li><li><b>The was featured bicycle made by Bianchi.</b> (Incorrect sentence): This sentence is grammatically incorrect. The word order is wrong; 'was' should not be placed before 'featured bicycle'.</li><li><b>The made Bianchi bicycle was featured.</b> (Incorrect sentence): This sentence is incorrect. 'Made Bianchi bicycle' is not a correct noun phrase in English. The meaning is unclear and the word order is wrong.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When a relative clause uses 'which/that was' + past participle, it can often be reduced to just the past participle before the noun. Example: 'The car which was stolen' → 'The stolen car'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'The bicycle which was featured was made by Bianchi.' có thể được viết lại ngắn gọn hơn bằng cách sử dụng mệnh đề quan hệ rút gọn. Cụm 'which was featured' mô tả chiếc xe đạp, vì vậy ta có thể dùng 'the featured bicycle' để thay thế cho 'the bicycle which was featured'. Do đó, đáp án đúng là 'The featured bicycle was made by Bianchi.'<br><ul><li><b>The featured bicycle was made by Bianchi.</b> (Câu (với tính từ phân từ quá khứ)): Đây là đáp án đúng. 'Featured' là phân từ quá khứ dùng như tính từ để bổ nghĩa cho 'bicycle', nghĩa là chiếc xe đạp đã được giới thiệu.</li><li><b>The was featured bicycle made by Bianchi.</b> (Câu sai): Câu này sai ngữ pháp. Trật tự từ không đúng; 'was' không nên đặt trước 'featured bicycle'.</li><li><b>The made Bianchi bicycle was featured.</b> (Câu sai): Câu này không đúng. 'Made Bianchi bicycle' không phải là một cụm danh từ đúng trong tiếng Anh. Nghĩa không rõ ràng và trật tự từ sai.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Khi mệnh đề quan hệ dùng 'which/that was' + phân từ quá khứ, ta thường có thể rút gọn thành chỉ còn phân từ quá khứ đứng trước danh từ. Ví dụ: 'The car which was stolen' → 'The stolen car'.<br><br><b>Tạm dịch:</b> Chiếc xe đạp được giới thiệu đã được sản xuất bởi Bianchi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'The bicycle which was featured was made by Bianchi.' can be rewritten in a simpler form by using a reduced relative clause. The phrase 'which was featured' describes the bicycle, so we can use 'the featured bicycle' to replace 'the bicycle which was featured'. Therefore, the correct answer is 'The featured bicycle was made by Bianchi.'<br><ul><li><b>The featured bicycle was made by Bianchi.</b> (Sentence (with past participle adjective)): This is the correct answer. 'Featured' is a past participle used as an adjective to describe 'bicycle', meaning the bicycle that was featured.</li><li><b>The was featured bicycle made by Bianchi.</b> (Incorrect sentence): This sentence is grammatically incorrect. The word order is wrong; 'was' should not be placed before 'featured bicycle'.</li><li><b>The made Bianchi bicycle was featured.</b> (Incorrect sentence): This sentence is incorrect. 'Made Bianchi bicycle' is not a correct noun phrase in English. The meaning is unclear and the word order is wrong.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When a relative clause uses 'which/that was' + past participle, it can often be reduced to just the past participle before the noun. Example: 'The car which was stolen' → 'The stolen car'.<br><br>"
+      }
+    }
+  ]
+}

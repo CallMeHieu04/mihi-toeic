@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b142",
+  "title": "Từ vựng: Accounting",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b24d",
+        "questionNumber": 1,
+        "questionText": "Accounting",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev253.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/accounting.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The recording and gathering of financial information for a company",
+            "raw": "The recording and gathering of financial information for a company",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Good <strong>accounting</strong> is needed in all businesses.</p>\n",
+        "explanationViHtml": "<p>Việc <strong>kế to&aacute;n</strong> tốt l&agrave; cần thiết cho mọi c&ocirc;ng việc l&agrave;m ăn.</p>\n",
+        "transcriptHtml": "<p>Good <strong>accounting</strong> is needed in all businesses.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b24e",
+        "questionNumber": 2,
+        "questionText": "Accumulate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev254.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/accumulate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To gather: to collect",
+            "raw": "To gather: to collect",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>They have <strong>accumulated</strong> more than enough information.</p>\n",
+        "explanationViHtml": "<p>Họ đ&atilde; <strong>t&iacute;ch lũy</strong> nhiều hơn mức th&ocirc;ng tin đủ d&ugrave;ng.</p>\n",
+        "transcriptHtml": "<p>They have <strong>accumulated</strong> more than enough information.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b24f",
+        "questionNumber": 3,
+        "questionText": "Asset",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev255.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/asset.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Something of value",
+            "raw": "Something of value",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company&#39;s <strong>assets</strong> are worth millions of dollars.</p>\n",
+        "explanationViHtml": "<p><strong>T&agrave;i sản</strong> của c&ocirc;ng ty trị gi&aacute; h&agrave;ng triệu đ&ocirc;-la.</p>\n",
+        "transcriptHtml": "<p>The company&#39;s <strong>assets</strong> are worth millions of dollars.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b250",
+        "questionNumber": 4,
+        "questionText": "Audit",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev256.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/audit.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "formal examination of financial records; to examine the financial records of a company",
+            "raw": "A formal examination of financial records; to examine the financial records of a company",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>No one looks forward to an <strong>audit</strong> by the government.</p>\n",
+        "explanationViHtml": "<p>Kh&ocirc;ng ai mong đợi<strong> sự kiểm to&aacute;n</strong> của ch&iacute;nh phủ.</p>\n",
+        "transcriptHtml": "<p>No one looks forward to an <strong>audit</strong> by the government.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b251",
+        "questionNumber": 5,
+        "questionText": "Budget",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev257.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/budget.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "list at probable expenses and income for a given period",
+            "raw": "A list at probable expenses and income for a given period",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The department head was pleased that she received a 10 percent increase in her <strong>budget</strong>.</p>\n",
+        "explanationViHtml": "<p>Trưởng ph&ograve;ng rất vui mừng khi nhận được mức tăng 10 phần trăm trong <strong>ng&acirc;n s&aacute;ch</strong>.</p>\n",
+        "transcriptHtml": "<p>The department head was pleased that she received a 10 percent increase in her <strong>budget</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b252",
+        "questionNumber": 6,
+        "questionText": "Build up",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev258.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/build up.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To increase over time",
+            "raw": "To increase over time",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The firm has <strong>built up</strong> a solid reputation for itself.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng ty phải <strong>x&acirc;y dựng dần l&ecirc;n</strong> danh tiếng vững chắc cho ch&iacute;nh m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>The firm has <strong>built up</strong> a solid reputation for itself.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b253",
+        "questionNumber": 7,
+        "questionText": "Client",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev259.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/client.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "customer",
+            "raw": "A customer",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We must provide excellent services for our <strong>clients</strong>, otherwise we will lose them to our competition.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng ta phải cung cấp c&aacute;c dịch vụ xuất sắc cho <strong>kh&aacute;ch h&agrave;ng</strong> của m&igrave;nh, bằng kh&ocirc;ng ch&uacute;ng ta sẽ để mất họ v&agrave;o tay đối thủ.</p>\n",
+        "transcriptHtml": "<p>We must provide excellent services for our <strong>clients</strong>, otherwise we will lose them to our competition.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b254",
+        "questionNumber": 8,
+        "questionText": "Debt",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev260.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/debt.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Something owed, as in money or goods",
+            "raw": "Something owed, as in money or goods",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company has been very careful and is slowly digging itself out of <strong>debt</strong>.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng ty đ&atilde; rất thận trọng v&agrave; đang dần tho&aacute;t khỏi <strong>m&oacute;n nợ</strong>.</p>\n",
+        "transcriptHtml": "<p>The company has been very careful and is slowly digging itself out of <strong>debt</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b255",
+        "questionNumber": 9,
+        "questionText": "Outstanding",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev261.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/outstanding.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Still due; not paid or settled",
+            "raw": "Still due; not paid or settled",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>That client still has several <strong>outstanding</strong> bills.</p>\n",
+        "explanationViHtml": "<p>Kh&aacute;ch h&agrave;ng đ&oacute; vẫn c&ograve;n nhiều h&oacute;a đơn <strong>chưa thanh to&aacute;n</strong>.</p>\n",
+        "transcriptHtml": "<p>That client still has several <strong>outstanding</strong> bills.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b256",
+        "questionNumber": 10,
+        "questionText": "Profitably",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev262.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/profitably.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "dvantageously",
+            "raw": "Advantageously",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company has been operating <strong>profitably </strong>for the past five years.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng ty đ&atilde; hoạt động <strong>c&oacute; lợi nhuận</strong> trong suốt năm năm qua.</p>\n",
+        "transcriptHtml": "<p>The company has been operating <strong>profitably </strong>for the past five years.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b257",
+        "questionNumber": 11,
+        "questionText": "Reconcile",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev263.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reconcile.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To make consistent",
+            "raw": "To make consistent",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The client uses his bank statements to <strong>reconcile</strong> his accounts.</p>\n",
+        "explanationViHtml": "<p>Kh&aacute;ch h&agrave;ng sử dụng sao k&ecirc; ng&acirc;n h&agrave;ng để <strong>đối chiếu</strong> t&agrave;i khoản của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>The client uses his bank statements to <strong>reconcile</strong> his accounts.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b258",
+        "questionNumber": 12,
+        "questionText": "Turnover",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev264.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/turnover.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The number of times a product is sold and replaced or an employee leaves and another employee is hired",
+            "raw": "The number of times a product is sold and replaced or an employee leaves and another employee is hired",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company had a <strong>turnover</strong> of $5 million last year.</p>\n",
+        "explanationViHtml": "<p>Năm ngo&aacute;i c&ocirc;ng ty đạt <strong>doanh thu</strong> 5 triệu đ&ocirc; la.</p>\n",
+        "transcriptHtml": "<p>The company had a <strong>turnover</strong> of $5 million last year.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b24d",
+      "word": "Accounting",
+      "phonetic": "/əˈkaʊntɪŋ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev253.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/accounting.mp3",
+      "meaningVi": "kế toán",
+      "meaningEn": "The recording and gathering of financial information for a company",
+      "exampleEnHtml": "<p>Good <strong>accounting</strong> is needed in all businesses.</p>\n",
+      "exampleViHtml": "<p>Việc <strong>kế to&aacute;n</strong> tốt l&agrave; cần thiết cho mọi c&ocirc;ng việc l&agrave;m ăn.</p>\n",
+      "exampleEn": "Good accounting is needed in all businesses.",
+      "exampleVi": "Việc kế toán tốt là cần thiết cho mọi công việc làm ăn."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b24e",
+      "word": "Accumulate",
+      "phonetic": "/əˈkjuːmjəleɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev254.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/accumulate.mp3",
+      "meaningVi": "tích lũy",
+      "meaningEn": "To gather: to collect",
+      "exampleEnHtml": "<p>They have <strong>accumulated</strong> more than enough information.</p>\n",
+      "exampleViHtml": "<p>Họ đ&atilde; <strong>t&iacute;ch lũy</strong> nhiều hơn mức th&ocirc;ng tin đủ d&ugrave;ng.</p>\n",
+      "exampleEn": "They have accumulated more than enough information.",
+      "exampleVi": "Họ đã tích lũy nhiều hơn mức thông tin đủ dùng."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b24f",
+      "word": "Asset",
+      "phonetic": "/ˈæset/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev255.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/asset.mp3",
+      "meaningVi": "Tài sản",
+      "meaningEn": "Something of value",
+      "exampleEnHtml": "<p>The company&#39;s <strong>assets</strong> are worth millions of dollars.</p>\n",
+      "exampleViHtml": "<p><strong>T&agrave;i sản</strong> của c&ocirc;ng ty trị gi&aacute; h&agrave;ng triệu đ&ocirc;-la.</p>\n",
+      "exampleEn": "The company's assets are worth millions of dollars.",
+      "exampleVi": "Tài sản của công ty trị giá hàng triệu đô-la."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b250",
+      "word": "Audit",
+      "phonetic": "/ˈɔːdɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev256.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/audit.mp3",
+      "meaningVi": "sự kiểm toán",
+      "meaningEn": "A formal examination of financial records; to examine the financial records of a company",
+      "exampleEnHtml": "<p>No one looks forward to an <strong>audit</strong> by the government.</p>\n",
+      "exampleViHtml": "<p>Kh&ocirc;ng ai mong đợi<strong> sự kiểm to&aacute;n</strong> của ch&iacute;nh phủ.</p>\n",
+      "exampleEn": "No one looks forward to an audit by the government.",
+      "exampleVi": "Không ai mong đợi sự kiểm toán của chính phủ."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b251",
+      "word": "Budget",
+      "phonetic": "/ˈbʌdʒɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev257.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/budget.mp3",
+      "meaningVi": "ngân sách",
+      "meaningEn": "A list at probable expenses and income for a given period",
+      "exampleEnHtml": "<p>The department head was pleased that she received a 10 percent increase in her <strong>budget</strong>.</p>\n",
+      "exampleViHtml": "<p>Trưởng ph&ograve;ng rất vui mừng khi nhận được mức tăng 10 phần trăm trong <strong>ng&acirc;n s&aacute;ch</strong>.</p>\n",
+      "exampleEn": "The department head was pleased that she received a 10 percent increase in her budget.",
+      "exampleVi": "Trưởng phòng rất vui mừng khi nhận được mức tăng 10 phần trăm trong ngân sách."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b252",
+      "word": "Build up",
+      "phonetic": "/bɪld/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev258.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/build up.mp3",
+      "meaningVi": "xây dựng dần lên",
+      "meaningEn": "To increase over time",
+      "exampleEnHtml": "<p>The firm has <strong>built up</strong> a solid reputation for itself.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng ty phải <strong>x&acirc;y dựng dần l&ecirc;n</strong> danh tiếng vững chắc cho ch&iacute;nh m&igrave;nh.</p>\n",
+      "exampleEn": "The firm has built up a solid reputation for itself.",
+      "exampleVi": "Công ty phải xây dựng dần lên danh tiếng vững chắc cho chính mình."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b253",
+      "word": "Client",
+      "phonetic": "/ˈklaɪənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev259.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/client.mp3",
+      "meaningVi": "khách hàng",
+      "meaningEn": "A customer",
+      "exampleEnHtml": "<p>We must provide excellent services for our <strong>clients</strong>, otherwise we will lose them to our competition.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng ta phải cung cấp c&aacute;c dịch vụ xuất sắc cho <strong>kh&aacute;ch h&agrave;ng</strong> của m&igrave;nh, bằng kh&ocirc;ng ch&uacute;ng ta sẽ để mất họ v&agrave;o tay đối thủ.</p>\n",
+      "exampleEn": "We must provide excellent services for our clients, otherwise we will lose them to our competition.",
+      "exampleVi": "Chúng ta phải cung cấp các dịch vụ xuất sắc cho khách hàng của mình, bằng không chúng ta sẽ để mất họ vào tay đối thủ."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b254",
+      "word": "Debt",
+      "phonetic": "/det/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev260.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/debt.mp3",
+      "meaningVi": "món nợ",
+      "meaningEn": "Something owed, as in money or goods",
+      "exampleEnHtml": "<p>The company has been very careful and is slowly digging itself out of <strong>debt</strong>.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng ty đ&atilde; rất thận trọng v&agrave; đang dần tho&aacute;t khỏi <strong>m&oacute;n nợ</strong>.</p>\n",
+      "exampleEn": "The company has been very careful and is slowly digging itself out of debt.",
+      "exampleVi": "Công ty đã rất thận trọng và đang dần thoát khỏi món nợ."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b255",
+      "word": "Outstanding",
+      "phonetic": "/aʊtˈstændɪŋ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev261.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/outstanding.mp3",
+      "meaningVi": "chưa thanh toán",
+      "meaningEn": "Still due; not paid or settled",
+      "exampleEnHtml": "<p>That client still has several <strong>outstanding</strong> bills.</p>\n",
+      "exampleViHtml": "<p>Kh&aacute;ch h&agrave;ng đ&oacute; vẫn c&ograve;n nhiều h&oacute;a đơn <strong>chưa thanh to&aacute;n</strong>.</p>\n",
+      "exampleEn": "That client still has several outstanding bills.",
+      "exampleVi": "Khách hàng đó vẫn còn nhiều hóa đơn chưa thanh toán."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b256",
+      "word": "Profitably",
+      "phonetic": "/ˈprɑːfɪtəbli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev262.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/profitably.mp3",
+      "meaningVi": "có lợi nhuận",
+      "meaningEn": "Advantageously",
+      "exampleEnHtml": "<p>The company has been operating <strong>profitably </strong>for the past five years.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng ty đ&atilde; hoạt động <strong>c&oacute; lợi nhuận</strong> trong suốt năm năm qua.</p>\n",
+      "exampleEn": "The company has been operating profitably for the past five years.",
+      "exampleVi": "Công ty đã hoạt động có lợi nhuận trong suốt năm năm qua."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b257",
+      "word": "Reconcile",
+      "phonetic": "/ˈrekənsaɪl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev263.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reconcile.mp3",
+      "meaningVi": "đối chiếu",
+      "meaningEn": "To make consistent",
+      "exampleEnHtml": "<p>The client uses his bank statements to <strong>reconcile</strong> his accounts.</p>\n",
+      "exampleViHtml": "<p>Kh&aacute;ch h&agrave;ng sử dụng sao k&ecirc; ng&acirc;n h&agrave;ng để <strong>đối chiếu</strong> t&agrave;i khoản của m&igrave;nh.</p>\n",
+      "exampleEn": "The client uses his bank statements to reconcile his accounts.",
+      "exampleVi": "Khách hàng sử dụng sao kê ngân hàng để đối chiếu tài khoản của mình."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b258",
+      "word": "Turnover",
+      "phonetic": "/ˈtɜːrnoʊvər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev264.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/turnover.mp3",
+      "meaningVi": "doanh thu",
+      "meaningEn": "The number of times a product is sold and replaced or an employee leaves and another employee is hired",
+      "exampleEnHtml": "<p>The company had a <strong>turnover</strong> of $5 million last year.</p>\n",
+      "exampleViHtml": "<p>Năm ngo&aacute;i c&ocirc;ng ty đạt <strong>doanh thu</strong> 5 triệu đ&ocirc; la.</p>\n",
+      "exampleEn": "The company had a turnover of $5 million last year.",
+      "exampleVi": "Năm ngoái công ty đạt doanh thu 5 triệu đô la."
+    }
+  ],
+  "totalFlashcards": 12
+}

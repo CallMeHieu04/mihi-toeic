@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b149",
+  "title": "Từ vựng: Product Development",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b288",
+        "questionNumber": 1,
+        "questionText": "anxious",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev337.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/anxious.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "worried",
+            "raw": "worried",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The developers were <strong>anxious</strong> about the sales forecast for the new product.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c nh&agrave; ph&aacute;t triển<strong> lo lắng </strong>về dự b&aacute;o doanh thu cho sản phẩm mới.</p>\n",
+        "transcriptHtml": "<p>The developers were <strong>anxious</strong> about the sales forecast for the new product.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b289",
+        "questionNumber": 2,
+        "questionText": "ascertain",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev338.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ascertain.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to discover; to find out for certain",
+            "raw": "to discover; to find out for certain",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>A necessary part of product development is to <strong>ascertain</strong> whether the product is safe.</p>\n",
+        "explanationViHtml": "<p>Một phần cần thiết của ph&aacute;t triển sản phẩm l&agrave; <strong>x&aacute;c định </strong>xem sản phẩm c&oacute; an to&agrave;n hay kh&ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>A necessary part of product development is to <strong>ascertain</strong> whether the product is safe.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b28a",
+        "questionNumber": 3,
+        "questionText": "assume",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev339.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assume.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to take upon oneself; to believe to be true",
+            "raw": "to take upon oneself; to believe to be true",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The young man felt ready to <strong>assume </strong>the new responsibilities of his promotion.</p>\n",
+        "explanationViHtml": "<p>Ch&agrave;ng trai trẻ cảm thấy đ&atilde; sẵn s&agrave;ng để<strong> đảm nhận</strong> những tr&aacute;ch nhiệm mới từ việc thăng chức.</p>\n",
+        "transcriptHtml": "<p>The young man felt ready to <strong>assume </strong>the new responsibilities of his promotion.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b28b",
+        "questionNumber": 4,
+        "questionText": "decade",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev340.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/decade.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "period of ten years",
+            "raw": "a period of ten years",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>After a <strong>decade </strong>of trying, the company finally developed a vastly superior product.</p>\n",
+        "explanationViHtml": "<p>Sau một<strong> thập kỷ</strong> nỗ lực, c&ocirc;ng ty cuối c&ugrave;ng cũng đ&atilde; ph&aacute;t triển một sản phẩm vượt trội hơn rất nhiều.</p>\n",
+        "transcriptHtml": "<p>After a <strong>decade </strong>of trying, the company finally developed a vastly superior product.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b28c",
+        "questionNumber": 5,
+        "questionText": "examine",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev341.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/examine.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to interrogate; to scrutinize",
+            "raw": "to interrogate; to scrutinize",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Before marketing a new product, researchers must carefully <strong>examine </strong>it from every aspect.</p>\n",
+        "explanationViHtml": "<p>Trước khi tiếp thị một sản phẩm mới, c&aacute;c nh&agrave; nghi&ecirc;n cứu phải <strong>xem x&eacute;t</strong> cẩn thận n&oacute; từ mọi kh&iacute;a cạnh.</p>\n",
+        "transcriptHtml": "<p>Before marketing a new product, researchers must carefully <strong>examine </strong>it from every aspect.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b28d",
+        "questionNumber": 6,
+        "questionText": "experiment",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev342.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/experiment.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to try out a new procedure or idea; a test or trial",
+            "raw": "to try out a new procedure or idea; a test or trial",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Product developers must conduct hundreds of <strong>experiments </strong>in their research.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c nh&agrave; ph&aacute;t triển sản phẩm phải tiến h&agrave;nh h&agrave;ng trăm <strong>th&iacute; nghiệm</strong> trong nghi&ecirc;n cứu của họ.</p>\n",
+        "transcriptHtml": "<p>Product developers must conduct hundreds of <strong>experiments </strong>in their research.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b28e",
+        "questionNumber": 7,
+        "questionText": "logical",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev343.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/logical.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "formally valid; using orderly reasoning",
+            "raw": "formally valid; using orderly reasoning",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>It is only <strong>logical </strong>for a research and development team to concentrate on one or two new products at a time.</p>\n",
+        "explanationViHtml": "<p>Thật <strong>hợp l&yacute;</strong> cho một nh&oacute;m nghi&ecirc;n cứu v&agrave; ph&aacute;t triển tập trung v&agrave;o một hoặc hai sản phẩm mới c&ugrave;ng một l&uacute;c.</p>\n",
+        "transcriptHtml": "<p>It is only <strong>logical </strong>for a research and development team to concentrate on one or two new products at a time.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b28f",
+        "questionNumber": 8,
+        "questionText": "research",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev344.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/research.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the act of collecting information about a particular subject.",
+            "raw": "the act of collecting information about a particular subject.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Part of the <strong>research</strong> the team does is to determine whether similar products are already on the market.</p>\n",
+        "explanationViHtml": "<p>Một phần của <strong>nghi&ecirc;n cứu</strong> m&agrave; nh&oacute;m thực hiện l&agrave; x&aacute;c định xem c&oacute; sản phẩm tương tự n&agrave;o đ&atilde; c&oacute; tr&ecirc;n thị trường chưa.</p>\n",
+        "transcriptHtml": "<p>Part of the <strong>research</strong> the team does is to determine whether similar products are already on the market.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b290",
+        "questionNumber": 9,
+        "questionText": "responsibility",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev345.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/responsibility.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "task, duty",
+            "raw": "a task, duty ",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The product development department has a huge <strong>responsibility </strong>to be sure that the product is safe, even if used improperly.</p>\n",
+        "explanationViHtml": "<p>Ph&ograve;ng ph&aacute;t triển sản phẩm c&oacute;<strong> tr&aacute;ch nhiệm</strong> lớn để đảm bảo rằng sản phẩm an to&agrave;n, ngay cả khi sử dụng kh&ocirc;ng đ&uacute;ng c&aacute;ch.</p>\n",
+        "transcriptHtml": "<p>The product development department has a huge <strong>responsibility </strong>to be sure that the product is safe, even if used improperly.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b291",
+        "questionNumber": 10,
+        "questionText": "solve",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev346.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/solve.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to find a solution, explanation, or answer",
+            "raw": "to find a solution, explanation, or answer",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Researchers find that every time they <strong>solve </strong>one problem, two more result.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c nh&agrave; nghi&ecirc;n cứu nhận thấy rằng mỗi khi họ <strong>giải quyết</strong> một vấn đề, lại ph&aacute;t sinh th&ecirc;m hai vấn đề kh&aacute;c.</p>\n",
+        "transcriptHtml": "<p>Researchers find that every time they <strong>solve </strong>one problem, two more result.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b292",
+        "questionNumber": 11,
+        "questionText": "supervisor",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev347.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/supervisor.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n administrator in charge",
+            "raw": "an administrator in charge",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The department <strong>supervisor </strong>has to balance his department&rsquo;s responsibilities in order to keep the president satisfied with its progress.</p>\n",
+        "explanationViHtml": "<p><strong>Người gi&aacute;m s&aacute;t </strong>bộ phận phải c&acirc;n bằng tr&aacute;ch nhiệm của bộ phận m&igrave;nh để l&agrave;m h&agrave;i l&ograve;ng chủ tịch với tiến độ c&ocirc;ng việc.</p>\n",
+        "transcriptHtml": "<p>The department <strong>supervisor </strong>has to balance his department&rsquo;s responsibilities in order to keep the president satisfied with its progress.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b293",
+        "questionNumber": 12,
+        "questionText": "systematically",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev348.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/systematically.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "methodically; follow a system",
+            "raw": "methodically; follow a system",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The information was <strong>systematically </strong>recorded and analysed.</p>\n",
+        "explanationViHtml": "<p>Th&ocirc;ng tin đ&atilde; được ghi lại v&agrave; ph&acirc;n t&iacute;ch <strong>một c&aacute;ch c&oacute; hệ thống.</strong></p>\n",
+        "transcriptHtml": "<p>The information was <strong>systematically </strong>recorded and analysed.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b288",
+      "word": "anxious",
+      "phonetic": "/ˈæŋkʃəs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev337.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/anxious.mp3",
+      "meaningVi": "lo lắng",
+      "meaningEn": "worried",
+      "exampleEnHtml": "<p>The developers were <strong>anxious</strong> about the sales forecast for the new product.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c nh&agrave; ph&aacute;t triển<strong> lo lắng </strong>về dự b&aacute;o doanh thu cho sản phẩm mới.</p>\n",
+      "exampleEn": "The developers were anxious about the sales forecast for the new product.",
+      "exampleVi": "Các nhà phát triển lo lắng về dự báo doanh thu cho sản phẩm mới."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b289",
+      "word": "ascertain",
+      "phonetic": "/ˌæsərˈteɪn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev338.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ascertain.mp3",
+      "meaningVi": "xác định",
+      "meaningEn": "to discover; to find out for certain",
+      "exampleEnHtml": "<p>A necessary part of product development is to <strong>ascertain</strong> whether the product is safe.</p>\n",
+      "exampleViHtml": "<p>Một phần cần thiết của ph&aacute;t triển sản phẩm l&agrave; <strong>x&aacute;c định </strong>xem sản phẩm c&oacute; an to&agrave;n hay kh&ocirc;ng.</p>\n",
+      "exampleEn": "A necessary part of product development is to ascertain whether the product is safe.",
+      "exampleVi": "Một phần cần thiết của phát triển sản phẩm là xác định xem sản phẩm có an toàn hay không."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b28a",
+      "word": "assume",
+      "phonetic": "/əˈsuːm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev339.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assume.mp3",
+      "meaningVi": "đảm nhận",
+      "meaningEn": "to take upon oneself; to believe to be true",
+      "exampleEnHtml": "<p>The young man felt ready to <strong>assume </strong>the new responsibilities of his promotion.</p>\n",
+      "exampleViHtml": "<p>Ch&agrave;ng trai trẻ cảm thấy đ&atilde; sẵn s&agrave;ng để<strong> đảm nhận</strong> những tr&aacute;ch nhiệm mới từ việc thăng chức.</p>\n",
+      "exampleEn": "The young man felt ready to assume the new responsibilities of his promotion.",
+      "exampleVi": "Chàng trai trẻ cảm thấy đã sẵn sàng để đảm nhận những trách nhiệm mới từ việc thăng chức."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b28b",
+      "word": "decade",
+      "phonetic": "/ˈdekeɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev340.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/decade.mp3",
+      "meaningVi": "thập kỷ",
+      "meaningEn": "a period of ten years",
+      "exampleEnHtml": "<p>After a <strong>decade </strong>of trying, the company finally developed a vastly superior product.</p>\n",
+      "exampleViHtml": "<p>Sau một<strong> thập kỷ</strong> nỗ lực, c&ocirc;ng ty cuối c&ugrave;ng cũng đ&atilde; ph&aacute;t triển một sản phẩm vượt trội hơn rất nhiều.</p>\n",
+      "exampleEn": "After a decade of trying, the company finally developed a vastly superior product.",
+      "exampleVi": "Sau một thập kỷ nỗ lực, công ty cuối cùng cũng đã phát triển một sản phẩm vượt trội hơn rất nhiều."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b28c",
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev341.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/examine.mp3",
+      "meaningVi": "xem xét",
+      "meaningEn": "to interrogate; to scrutinize",
+      "exampleEnHtml": "<p>Before marketing a new product, researchers must carefully <strong>examine </strong>it from every aspect.</p>\n",
+      "exampleViHtml": "<p>Trước khi tiếp thị một sản phẩm mới, c&aacute;c nh&agrave; nghi&ecirc;n cứu phải <strong>xem x&eacute;t</strong> cẩn thận n&oacute; từ mọi kh&iacute;a cạnh.</p>\n",
+      "exampleEn": "Before marketing a new product, researchers must carefully examine it from every aspect.",
+      "exampleVi": "Trước khi tiếp thị một sản phẩm mới, các nhà nghiên cứu phải xem xét cẩn thận nó từ mọi khía cạnh."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b28d",
+      "word": "experiment",
+      "phonetic": "/ɪkˈsperɪmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev342.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/experiment.mp3",
+      "meaningVi": "thí nghiệm",
+      "meaningEn": "to try out a new procedure or idea; a test or trial",
+      "exampleEnHtml": "<p>Product developers must conduct hundreds of <strong>experiments </strong>in their research.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c nh&agrave; ph&aacute;t triển sản phẩm phải tiến h&agrave;nh h&agrave;ng trăm <strong>th&iacute; nghiệm</strong> trong nghi&ecirc;n cứu của họ.</p>\n",
+      "exampleEn": "Product developers must conduct hundreds of experiments in their research.",
+      "exampleVi": "Các nhà phát triển sản phẩm phải tiến hành hàng trăm thí nghiệm trong nghiên cứu của họ."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b28e",
+      "word": "logical",
+      "phonetic": "/ˈlɑːdʒɪkl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev343.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/logical.mp3",
+      "meaningVi": "hợp lý",
+      "meaningEn": "formally valid; using orderly reasoning",
+      "exampleEnHtml": "<p>It is only <strong>logical </strong>for a research and development team to concentrate on one or two new products at a time.</p>\n",
+      "exampleViHtml": "<p>Thật <strong>hợp l&yacute;</strong> cho một nh&oacute;m nghi&ecirc;n cứu v&agrave; ph&aacute;t triển tập trung v&agrave;o một hoặc hai sản phẩm mới c&ugrave;ng một l&uacute;c.</p>\n",
+      "exampleEn": "It is only logical for a research and development team to concentrate on one or two new products at a time.",
+      "exampleVi": "Thật hợp lý cho một nhóm nghiên cứu và phát triển tập trung vào một hoặc hai sản phẩm mới cùng một lúc."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b28f",
+      "word": "research",
+      "phonetic": "/rɪˈsɜːtʃ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev344.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/research.mp3",
+      "meaningVi": "nghiên cứu",
+      "meaningEn": "the act of collecting information about a particular subject.",
+      "exampleEnHtml": "<p>Part of the <strong>research</strong> the team does is to determine whether similar products are already on the market.</p>\n",
+      "exampleViHtml": "<p>Một phần của <strong>nghi&ecirc;n cứu</strong> m&agrave; nh&oacute;m thực hiện l&agrave; x&aacute;c định xem c&oacute; sản phẩm tương tự n&agrave;o đ&atilde; c&oacute; tr&ecirc;n thị trường chưa.</p>\n",
+      "exampleEn": "Part of the research the team does is to determine whether similar products are already on the market.",
+      "exampleVi": "Một phần của nghiên cứu mà nhóm thực hiện là xác định xem có sản phẩm tương tự nào đã có trên thị trường chưa."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b290",
+      "word": "responsibility",
+      "phonetic": "/rɪˌspɑːnsəˈbɪləti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev345.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/responsibility.mp3",
+      "meaningVi": "trách nhiệm",
+      "meaningEn": "a task, duty ",
+      "exampleEnHtml": "<p>The product development department has a huge <strong>responsibility </strong>to be sure that the product is safe, even if used improperly.</p>\n",
+      "exampleViHtml": "<p>Ph&ograve;ng ph&aacute;t triển sản phẩm c&oacute;<strong> tr&aacute;ch nhiệm</strong> lớn để đảm bảo rằng sản phẩm an to&agrave;n, ngay cả khi sử dụng kh&ocirc;ng đ&uacute;ng c&aacute;ch.</p>\n",
+      "exampleEn": "The product development department has a huge responsibility to be sure that the product is safe, even if used improperly.",
+      "exampleVi": "Phòng phát triển sản phẩm có trách nhiệm lớn để đảm bảo rằng sản phẩm an toàn, ngay cả khi sử dụng không đúng cách."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b291",
+      "word": "solve",
+      "phonetic": "/sɑːlv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev346.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/solve.mp3",
+      "meaningVi": "giải quyết",
+      "meaningEn": "to find a solution, explanation, or answer",
+      "exampleEnHtml": "<p>Researchers find that every time they <strong>solve </strong>one problem, two more result.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c nh&agrave; nghi&ecirc;n cứu nhận thấy rằng mỗi khi họ <strong>giải quyết</strong> một vấn đề, lại ph&aacute;t sinh th&ecirc;m hai vấn đề kh&aacute;c.</p>\n",
+      "exampleEn": "Researchers find that every time they solve one problem, two more result.",
+      "exampleVi": "Các nhà nghiên cứu nhận thấy rằng mỗi khi họ giải quyết một vấn đề, lại phát sinh thêm hai vấn đề khác."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b292",
+      "word": "supervisor",
+      "phonetic": "/ˈsuːpərvaɪzər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev347.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/supervisor.mp3",
+      "meaningVi": "Người giám sát",
+      "meaningEn": "an administrator in charge",
+      "exampleEnHtml": "<p>The department <strong>supervisor </strong>has to balance his department&rsquo;s responsibilities in order to keep the president satisfied with its progress.</p>\n",
+      "exampleViHtml": "<p><strong>Người gi&aacute;m s&aacute;t </strong>bộ phận phải c&acirc;n bằng tr&aacute;ch nhiệm của bộ phận m&igrave;nh để l&agrave;m h&agrave;i l&ograve;ng chủ tịch với tiến độ c&ocirc;ng việc.</p>\n",
+      "exampleEn": "The department supervisor has to balance his department’s responsibilities in order to keep the president satisfied with its progress.",
+      "exampleVi": "Người giám sát bộ phận phải cân bằng trách nhiệm của bộ phận mình để làm hài lòng chủ tịch với tiến độ công việc."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b293",
+      "word": "systematically",
+      "phonetic": "/ˌsɪstəˈmætɪkli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev348.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/systematically.mp3",
+      "meaningVi": "một cách có hệ thống.",
+      "meaningEn": "methodically; follow a system",
+      "exampleEnHtml": "<p>The information was <strong>systematically </strong>recorded and analysed.</p>\n",
+      "exampleViHtml": "<p>Th&ocirc;ng tin đ&atilde; được ghi lại v&agrave; ph&acirc;n t&iacute;ch <strong>một c&aacute;ch c&oacute; hệ thống.</strong></p>\n",
+      "exampleEn": "The information was systematically recorded and analysed.",
+      "exampleVi": "Thông tin đã được ghi lại và phân tích một cách có hệ thống."
+    }
+  ],
+  "totalFlashcards": 12
+}

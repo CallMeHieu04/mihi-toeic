@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b159",
+  "title": "Từ vựng: Dentist's Office",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b378",
+        "questionNumber": 1,
+        "questionText": "aware",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev553.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/aware.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "having knowledge",
+            "raw": "having knowledge",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I was not <strong>aware</strong> that flossing my teeth could prevent a buildup of plaque.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i kh&ocirc;ng <strong>biết</strong> rằng việc d&ugrave;ng chỉ nha khoa c&oacute; thể ngăn ngừa sự t&iacute;ch tụ của mảng b&aacute;m.</p>\n",
+        "transcriptHtml": "<p>I was not <strong>aware</strong> that flossing my teeth could prevent a buildup of plaque.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b379",
+        "questionNumber": 2,
+        "questionText": "catch up",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev554.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/catch up.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to bring up to date",
+            "raw": "to bring up to date",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My dentist likes to take time to <strong>catch up</strong> before she starts the examination.</p>\n",
+        "explanationViHtml": "<p>B&aacute;c sĩ nha khoa của t&ocirc;i th&iacute;ch d&agrave;nh thời gian để <strong>tr&ograve; chuyện</strong> trước khi bắt đầu kiểm tra.</p>\n",
+        "transcriptHtml": "<p>My dentist likes to take time to <strong>catch up</strong> before she starts the examination.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b37a",
+        "questionNumber": 3,
+        "questionText": "distraction",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev555.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/distraction.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the act of being turned away from the focus",
+            "raw": "the act of being turned away from the focus",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>To provide a <strong>distraction</strong> from the noise, Luisa&rsquo;s dentist offered her a pair of earphones.</p>\n",
+        "explanationViHtml": "<p>Để gi&uacute;p Luisa <strong>ph&acirc;n t&acirc;m</strong> khỏi tiếng ồn, nha sĩ của c&ocirc; đ&atilde; đề nghị cho c&ocirc; một đ&ocirc;i tai nghe.</p>\n",
+        "transcriptHtml": "<p>To provide a <strong>distraction</strong> from the noise, Luisa&rsquo;s dentist offered her a pair of earphones.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b37b",
+        "questionNumber": 4,
+        "questionText": "encouragement",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev556.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/encouragement.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "inspiration or support",
+            "raw": "inspiration or support",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The perfect checkup was certainly <strong>encouragement</strong> to keep up my good dental hygiene.</p>\n",
+        "explanationViHtml": "<p>Cuộc kiểm tra ho&agrave;n hảo chắc chắn đ&atilde; <strong>khuyến kh&iacute;ch</strong> t&ocirc;i duy tr&igrave; th&oacute;i quen vệ sinh răng miệng tốt.</p>\n",
+        "transcriptHtml": "<p>The perfect checkup was certainly <strong>encouragement</strong> to keep up my good dental hygiene.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b37c",
+        "questionNumber": 5,
+        "questionText": "evident",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev557.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/evident.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "easily seen or understood; obvious",
+            "raw": "easily seen or understood; obvious",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The presence of a wisdom tooth was not <strong>evident</strong> until the dentist started to examine the patient.</p>\n",
+        "explanationViHtml": "<p>Sự xuất hiện của chiếc răng kh&ocirc;n kh&ocirc;ng <strong>r&otilde; r&agrave;ng</strong> cho đến khi nha sĩ bắt đầu kiểm tra bệnh nh&acirc;n.</p>\n",
+        "transcriptHtml": "<p>The presence of a wisdom tooth was not <strong>evident</strong> until the dentist started to examine the patient.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b37d",
+        "questionNumber": 6,
+        "questionText": "habit",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev558.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/habit.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "customary manner or practice",
+            "raw": "a customary manner or practice",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The toddler&#39;s father stressed the importance of tooth brushing in hopes of establishing a good <strong>habit</strong>.</p>\n",
+        "explanationViHtml": "<p>Cha đứa b&eacute; nhấn mạnh tầm quan trọng của việc đ&aacute;nh răng với hy vọng h&igrave;nh th&agrave;nh một <strong>th&oacute;i quen</strong> tốt.</p>\n",
+        "transcriptHtml": "<p>The toddler&#39;s father stressed the importance of tooth brushing in hopes of establishing a good <strong>habit</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b37e",
+        "questionNumber": 7,
+        "questionText": "illuminate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev559.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/illuminate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to provide or brighten with light",
+            "raw": "to provide or brighten with light",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The dark recesses of the mouth can only be seen clearly when <strong>illuminated</strong> with a lamp.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c ng&oacute;c ng&aacute;ch tối tăm trong miệng chỉ c&oacute; thể được nh&igrave;n thấy r&otilde; r&agrave;ng khi được <strong>chiếu s&aacute;ng</strong> bằng đ&egrave;n.</p>\n",
+        "transcriptHtml": "<p>The dark recesses of the mouth can only be seen clearly when <strong>illuminated</strong> with a lamp.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b37f",
+        "questionNumber": 8,
+        "questionText": "irritate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev560.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/irritate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to chats or inflame, to bother",
+            "raw": "to chats or inflame, to bother",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The broken tooth rubbed against my tongue, <strong>irritating</strong> it.</p>\n",
+        "explanationViHtml": "<p>Chiếc răng g&atilde;y cọ v&agrave;o lưỡi, <strong>g&acirc;y kh&oacute; chịu</strong> cho t&ocirc;i.</p>\n",
+        "transcriptHtml": "<p>The broken tooth rubbed against my tongue, <strong>irritating</strong> it.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b380",
+        "questionNumber": 9,
+        "questionText": "overview",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev561.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/overview.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "summary; a survey; a quick look",
+            "raw": "a summary; a survey; a quick look",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I did a quick <strong>overview</strong> of your teeth and they look in good shape.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i đ&atilde; xem qua nhanh <b>tổng thể</b>&nbsp;răng của bạn v&agrave; ch&uacute;ng tr&ocirc;ng kh&aacute; tốt.</p>\n",
+        "transcriptHtml": "<p>I did a quick <strong>overview</strong> of your teeth and they look in good shape.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b381",
+        "questionNumber": 10,
+        "questionText": "position",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev562.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/position.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the right or appropriate place",
+            "raw": "the right or appropriate place",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Let me tilt your head to a more comfortable <strong>position</strong> for you.</p>\n",
+        "explanationViHtml": "<p>Để t&ocirc;i nghi&ecirc;ng đầu bạn sang <strong>vị tr&iacute;</strong> thoải m&aacute;i hơn.</p>\n",
+        "transcriptHtml": "<p>Let me tilt your head to a more comfortable <strong>position</strong> for you.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b382",
+        "questionNumber": 11,
+        "questionText": "regularly",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev563.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/regularly.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "occurring at fixed intervals",
+            "raw": "occurring at fixed intervals",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>She brushes <strong>regularly</strong> after every meal.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; ấy đ&aacute;nh răng <strong>đều đặn</strong> sau mỗi bữa ăn.</p>\n",
+        "transcriptHtml": "<p>She brushes <strong>regularly</strong> after every meal.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b383",
+        "questionNumber": 12,
+        "questionText": "restore",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev564.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/restore.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to bring back to an original condition",
+            "raw": "to bring back to an original condition",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The cleaning <strong>restored</strong> the whiteness of my teeth.</p>\n",
+        "explanationViHtml": "<p>Việc l&agrave;m sạch đ&atilde; <strong>kh&ocirc;i phục</strong> độ trắng của răng t&ocirc;i.</p>\n",
+        "transcriptHtml": "<p>The cleaning <strong>restored</strong> the whiteness of my teeth.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b378",
+      "word": "aware",
+      "phonetic": "/əˈwer/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev553.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/aware.mp3",
+      "meaningVi": "biết",
+      "meaningEn": "having knowledge",
+      "exampleEnHtml": "<p>I was not <strong>aware</strong> that flossing my teeth could prevent a buildup of plaque.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i kh&ocirc;ng <strong>biết</strong> rằng việc d&ugrave;ng chỉ nha khoa c&oacute; thể ngăn ngừa sự t&iacute;ch tụ của mảng b&aacute;m.</p>\n",
+      "exampleEn": "I was not aware that flossing my teeth could prevent a buildup of plaque.",
+      "exampleVi": "Tôi không biết rằng việc dùng chỉ nha khoa có thể ngăn ngừa sự tích tụ của mảng bám."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b379",
+      "word": "catch up",
+      "phonetic": "/kætʃ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev554.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/catch up.mp3",
+      "meaningVi": "trò chuyện",
+      "meaningEn": "to bring up to date",
+      "exampleEnHtml": "<p>My dentist likes to take time to <strong>catch up</strong> before she starts the examination.</p>\n",
+      "exampleViHtml": "<p>B&aacute;c sĩ nha khoa của t&ocirc;i th&iacute;ch d&agrave;nh thời gian để <strong>tr&ograve; chuyện</strong> trước khi bắt đầu kiểm tra.</p>\n",
+      "exampleEn": "My dentist likes to take time to catch up before she starts the examination.",
+      "exampleVi": "Bác sĩ nha khoa của tôi thích dành thời gian để trò chuyện trước khi bắt đầu kiểm tra."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b37a",
+      "word": "distraction",
+      "phonetic": "/dɪˈstrækʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev555.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/distraction.mp3",
+      "meaningVi": "phân tâm",
+      "meaningEn": "the act of being turned away from the focus",
+      "exampleEnHtml": "<p>To provide a <strong>distraction</strong> from the noise, Luisa&rsquo;s dentist offered her a pair of earphones.</p>\n",
+      "exampleViHtml": "<p>Để gi&uacute;p Luisa <strong>ph&acirc;n t&acirc;m</strong> khỏi tiếng ồn, nha sĩ của c&ocirc; đ&atilde; đề nghị cho c&ocirc; một đ&ocirc;i tai nghe.</p>\n",
+      "exampleEn": "To provide a distraction from the noise, Luisa’s dentist offered her a pair of earphones.",
+      "exampleVi": "Để giúp Luisa phân tâm khỏi tiếng ồn, nha sĩ của cô đã đề nghị cho cô một đôi tai nghe."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b37b",
+      "word": "encouragement",
+      "phonetic": "/ɪnˈkɜːrɪdʒmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev556.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/encouragement.mp3",
+      "meaningVi": "khuyến khích",
+      "meaningEn": "inspiration or support",
+      "exampleEnHtml": "<p>The perfect checkup was certainly <strong>encouragement</strong> to keep up my good dental hygiene.</p>\n",
+      "exampleViHtml": "<p>Cuộc kiểm tra ho&agrave;n hảo chắc chắn đ&atilde; <strong>khuyến kh&iacute;ch</strong> t&ocirc;i duy tr&igrave; th&oacute;i quen vệ sinh răng miệng tốt.</p>\n",
+      "exampleEn": "The perfect checkup was certainly encouragement to keep up my good dental hygiene.",
+      "exampleVi": "Cuộc kiểm tra hoàn hảo chắc chắn đã khuyến khích tôi duy trì thói quen vệ sinh răng miệng tốt."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b37c",
+      "word": "evident",
+      "phonetic": "/ˈevɪdənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev557.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/evident.mp3",
+      "meaningVi": "rõ ràng",
+      "meaningEn": "easily seen or understood; obvious",
+      "exampleEnHtml": "<p>The presence of a wisdom tooth was not <strong>evident</strong> until the dentist started to examine the patient.</p>\n",
+      "exampleViHtml": "<p>Sự xuất hiện của chiếc răng kh&ocirc;n kh&ocirc;ng <strong>r&otilde; r&agrave;ng</strong> cho đến khi nha sĩ bắt đầu kiểm tra bệnh nh&acirc;n.</p>\n",
+      "exampleEn": "The presence of a wisdom tooth was not evident until the dentist started to examine the patient.",
+      "exampleVi": "Sự xuất hiện của chiếc răng khôn không rõ ràng cho đến khi nha sĩ bắt đầu kiểm tra bệnh nhân."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b37d",
+      "word": "habit",
+      "phonetic": "/ˈhæbɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev558.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/habit.mp3",
+      "meaningVi": "thói quen",
+      "meaningEn": "a customary manner or practice",
+      "exampleEnHtml": "<p>The toddler&#39;s father stressed the importance of tooth brushing in hopes of establishing a good <strong>habit</strong>.</p>\n",
+      "exampleViHtml": "<p>Cha đứa b&eacute; nhấn mạnh tầm quan trọng của việc đ&aacute;nh răng với hy vọng h&igrave;nh th&agrave;nh một <strong>th&oacute;i quen</strong> tốt.</p>\n",
+      "exampleEn": "The toddler's father stressed the importance of tooth brushing in hopes of establishing a good habit.",
+      "exampleVi": "Cha đứa bé nhấn mạnh tầm quan trọng của việc đánh răng với hy vọng hình thành một thói quen tốt."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b37e",
+      "word": "illuminate",
+      "phonetic": "/ɪˈluːmɪneɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev559.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/illuminate.mp3",
+      "meaningVi": "chiếu sáng",
+      "meaningEn": "to provide or brighten with light",
+      "exampleEnHtml": "<p>The dark recesses of the mouth can only be seen clearly when <strong>illuminated</strong> with a lamp.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c ng&oacute;c ng&aacute;ch tối tăm trong miệng chỉ c&oacute; thể được nh&igrave;n thấy r&otilde; r&agrave;ng khi được <strong>chiếu s&aacute;ng</strong> bằng đ&egrave;n.</p>\n",
+      "exampleEn": "The dark recesses of the mouth can only be seen clearly when illuminated with a lamp.",
+      "exampleVi": "Các ngóc ngách tối tăm trong miệng chỉ có thể được nhìn thấy rõ ràng khi được chiếu sáng bằng đèn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b37f",
+      "word": "irritate",
+      "phonetic": "/ˈɪrɪteɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev560.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/irritate.mp3",
+      "meaningVi": "gây khó chịu",
+      "meaningEn": "to chats or inflame, to bother",
+      "exampleEnHtml": "<p>The broken tooth rubbed against my tongue, <strong>irritating</strong> it.</p>\n",
+      "exampleViHtml": "<p>Chiếc răng g&atilde;y cọ v&agrave;o lưỡi, <strong>g&acirc;y kh&oacute; chịu</strong> cho t&ocirc;i.</p>\n",
+      "exampleEn": "The broken tooth rubbed against my tongue, irritating it.",
+      "exampleVi": "Chiếc răng gãy cọ vào lưỡi, gây khó chịu cho tôi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b380",
+      "word": "overview",
+      "phonetic": "/ˈoʊvərvjuː/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev561.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/overview.mp3",
+      "meaningVi": "T&ocirc;i đ&atilde; xem qua nhanh tổng thể răng của bạn",
+      "meaningEn": "a summary; a survey; a quick look",
+      "exampleEnHtml": "<p>I did a quick <strong>overview</strong> of your teeth and they look in good shape.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i đ&atilde; xem qua nhanh <b>tổng thể</b>&nbsp;răng của bạn v&agrave; ch&uacute;ng tr&ocirc;ng kh&aacute; tốt.</p>\n",
+      "exampleEn": "I did a quick overview of your teeth and they look in good shape.",
+      "exampleVi": "Tôi đã xem qua nhanh tổng thể răng của bạn và chúng trông khá tốt."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b381",
+      "word": "position",
+      "phonetic": "/pəˈzɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev562.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/position.mp3",
+      "meaningVi": "vị trí",
+      "meaningEn": "the right or appropriate place",
+      "exampleEnHtml": "<p>Let me tilt your head to a more comfortable <strong>position</strong> for you.</p>\n",
+      "exampleViHtml": "<p>Để t&ocirc;i nghi&ecirc;ng đầu bạn sang <strong>vị tr&iacute;</strong> thoải m&aacute;i hơn.</p>\n",
+      "exampleEn": "Let me tilt your head to a more comfortable position for you.",
+      "exampleVi": "Để tôi nghiêng đầu bạn sang vị trí thoải mái hơn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b382",
+      "word": "regularly",
+      "phonetic": "/ˈreɡjələrli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev563.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/regularly.mp3",
+      "meaningVi": "đều đặn",
+      "meaningEn": "occurring at fixed intervals",
+      "exampleEnHtml": "<p>She brushes <strong>regularly</strong> after every meal.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; ấy đ&aacute;nh răng <strong>đều đặn</strong> sau mỗi bữa ăn.</p>\n",
+      "exampleEn": "She brushes regularly after every meal.",
+      "exampleVi": "Cô ấy đánh răng đều đặn sau mỗi bữa ăn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b383",
+      "word": "restore",
+      "phonetic": "/rɪˈstɔːr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev564.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/restore.mp3",
+      "meaningVi": "khôi phục",
+      "meaningEn": "to bring back to an original condition",
+      "exampleEnHtml": "<p>The cleaning <strong>restored</strong> the whiteness of my teeth.</p>\n",
+      "exampleViHtml": "<p>Việc l&agrave;m sạch đ&atilde; <strong>kh&ocirc;i phục</strong> độ trắng của răng t&ocirc;i.</p>\n",
+      "exampleEn": "The cleaning restored the whiteness of my teeth.",
+      "exampleVi": "Việc làm sạch đã khôi phục độ trắng của răng tôi."
+    }
+  ],
+  "totalFlashcards": 12
+}

@@ -1,0 +1,938 @@
+{
+  "topicId": "683923778351bf002539de7c",
+  "title": "COMPARISON - Comparative of adjectives",
+  "totalCards": 24,
+  "totalQuestions": 24,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539dead",
+        "questionNumber": 1,
+        "questionText": "The blue car is … than the red car.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "faster",
+            "raw": "faster",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "more fast",
+            "raw": "more fast",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more faster",
+            "raw": "more faster",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most fastly",
+            "raw": "most fastly",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The blue car is … than the red car.' requires a comparative adjective because we are comparing two things (the blue car and the red car). For most one-syllable adjectives, we add '-er' to form the comparative. The adjective 'fast' is one syllable, so its comparative form is 'faster'.<br><ul><li><b>faster</b> (adjective (comparative)): Comparative form of 'fast', used to compare two things.</li><li><b>more fast</b> (adjective (incorrect comparative)): 'More' is used to form comparatives with adjectives of two or more syllables, but 'fast' is a one-syllable adjective, so 'more fast' is incorrect.</li><li><b>more faster</b> (adjective (incorrect double comparative)): This is a double comparative (using both 'more' and '-er'), which is grammatically incorrect.</li><li><b>most fastly</b> (adverb (incorrect form)): 'Most' is used for superlatives, not comparatives, and 'fastly' is not a correct form of 'fast'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For one-syllable adjectives, add '-er' (e.g., fast → faster). For adjectives with two or more syllables, use 'more' (e.g., beautiful → more beautiful).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The blue car is … than the red car.' cần một tính từ so sánh hơn vì chúng ta đang so sánh hai vật (xe màu xanh và xe màu đỏ). Với các tính từ ngắn (một âm tiết), ta thêm '-er' để tạo dạng so sánh hơn. 'Fast' là tính từ một âm tiết, nên dạng so sánh hơn là 'faster'.<br><ul><li><b>faster</b> (tính từ (so sánh hơn)): Dạng so sánh hơn của 'fast', dùng để so sánh hai vật.</li><li><b>more fast</b> (tính từ (so sánh hơn sai)): 'More' dùng để tạo so sánh hơn với các tính từ hai âm tiết trở lên, nhưng 'fast' là tính từ một âm tiết nên 'more fast' là sai.</li><li><b>more faster</b> (tính từ (so sánh kép sai)): Đây là dạng so sánh kép (dùng cả 'more' và '-er'), không đúng ngữ pháp.</li><li><b>most fastly</b> (trạng từ (dạng sai)): 'Most' dùng cho so sánh nhất, không phải so sánh hơn, và 'fastly' không phải là dạng đúng của 'fast'.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Với tính từ một âm tiết, thêm '-er' (ví dụ: fast → faster). Với tính từ hai âm tiết trở lên, dùng 'more' (ví dụ: beautiful → more beautiful).<br><br><b>Tạm dịch:</b> Chiếc xe màu xanh nhanh hơn chiếc xe màu đỏ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The blue car is … than the red car.' requires a comparative adjective because we are comparing two things (the blue car and the red car). For most one-syllable adjectives, we add '-er' to form the comparative. The adjective 'fast' is one syllable, so its comparative form is 'faster'.<br><ul><li><b>faster</b> (adjective (comparative)): Comparative form of 'fast', used to compare two things.</li><li><b>more fast</b> (adjective (incorrect comparative)): 'More' is used to form comparatives with adjectives of two or more syllables, but 'fast' is a one-syllable adjective, so 'more fast' is incorrect.</li><li><b>more faster</b> (adjective (incorrect double comparative)): This is a double comparative (using both 'more' and '-er'), which is grammatically incorrect.</li><li><b>most fastly</b> (adverb (incorrect form)): 'Most' is used for superlatives, not comparatives, and 'fastly' is not a correct form of 'fast'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For one-syllable adjectives, add '-er' (e.g., fast → faster). For adjectives with two or more syllables, use 'more' (e.g., beautiful → more beautiful).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deae",
+        "questionNumber": 2,
+        "questionText": "Water is …. than tequila.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "healthier",
+            "raw": "healthier",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "healthiest.",
+            "raw": "healthiest.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more healthier",
+            "raw": "more healthier",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most heathy",
+            "raw": "most heathy",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Water is …. than tequila.' requires a comparative adjective because it is comparing water and tequila. The correct comparative form of 'healthy' is 'healthier'.<br><ul><li><b>healthier</b> (adjective (comparative)): Comparative form of 'healthy', used to compare two things.</li><li><b>healthiest.</b> (adjective (superlative)): Superlative form of 'healthy', used to compare more than two things or to show the highest degree.</li><li><b>more healthier</b> (adjective (incorrect comparative)): Incorrect double comparative. 'Healthier' is already comparative, so 'more' is not needed.</li><li><b>most heathy</b> (adjective (incorrect superlative)): Incorrect spelling ('heathy' should be 'healthy') and incorrect form. 'Most healthy' is superlative, not comparative.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most adjectives with one or two syllables, add '-er' to form the comparative (e.g., 'healthy' → 'healthier'). Use 'than' to compare two things.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Water is …. than tequila.' cần một tính từ so sánh hơn vì đang so sánh nước và tequila. Dạng so sánh hơn đúng của 'healthy' là 'healthier'.<br><ul><li><b>healthier</b> (tính từ (so sánh hơn)): Dạng so sánh hơn của 'healthy', dùng để so sánh hai đối tượng.</li><li><b>healthiest.</b> (tính từ (so sánh nhất)): Dạng so sánh nhất của 'healthy', dùng khi so sánh từ ba đối tượng trở lên hoặc để chỉ mức độ cao nhất.</li><li><b>more healthier</b> (tính từ (so sánh hơn sai)): Dạng so sánh kép không đúng. 'Healthier' đã là so sánh hơn nên không cần thêm 'more'.</li><li><b>most heathy</b> (tính từ (so sánh nhất sai)): Sai chính tả ('heathy' phải là 'healthy') và sai dạng. 'Most healthy' là so sánh nhất, không phải so sánh hơn.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với các tính từ có một hoặc hai âm tiết, thêm '-er' để tạo dạng so sánh hơn (ví dụ: 'healthy' → 'healthier'). Dùng 'than' để so sánh hai đối tượng.<br><br><b>Tạm dịch:</b> Nước thì tốt cho sức khỏe hơn tequila.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Water is …. than tequila.' requires a comparative adjective because it is comparing water and tequila. The correct comparative form of 'healthy' is 'healthier'.<br><ul><li><b>healthier</b> (adjective (comparative)): Comparative form of 'healthy', used to compare two things.</li><li><b>healthiest.</b> (adjective (superlative)): Superlative form of 'healthy', used to compare more than two things or to show the highest degree.</li><li><b>more healthier</b> (adjective (incorrect comparative)): Incorrect double comparative. 'Healthier' is already comparative, so 'more' is not needed.</li><li><b>most heathy</b> (adjective (incorrect superlative)): Incorrect spelling ('heathy' should be 'healthy') and incorrect form. 'Most healthy' is superlative, not comparative.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most adjectives with one or two syllables, add '-er' to form the comparative (e.g., 'healthy' → 'healthier'). Use 'than' to compare two things.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deaf",
+        "questionNumber": 3,
+        "questionText": "Some sports are … than others.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "s excite as",
+            "raw": "as excite as",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "more excite",
+            "raw": "more excite",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more exciting",
+            "raw": "more exciting",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "most exciting",
+            "raw": "most exciting",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Some sports are … than others.' requires a comparative adjective because we are comparing two or more things (some sports vs. others). The adjective 'exciting' is used to describe something that causes excitement. To form the comparative of most adjectives with more than one syllable, we use 'more' + adjective (more exciting).<br><ul><li><b>as excite as</b> (phrase (incorrect form)): 'as ... as' is used for equality, but 'excite' is the base form of the verb, not the adjective. The correct form would be 'as exciting as' if we wanted to say two things are equal.</li><li><b>more excite</b> (verb (incorrect form)): 'excite' is a verb, not an adjective. We need the adjective 'exciting' to describe sports.</li><li><b>more exciting</b> (comparative adjective): 'more exciting' is the correct comparative form of the adjective 'exciting'. It is used to compare two or more things.</li><li><b>most exciting</b> (superlative adjective): 'most exciting' is the superlative form, used to compare one thing with all others, not just two groups.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with two or more syllables, use 'more' + adjective (e.g., more interesting, more exciting).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Some sports are … than others.' cần một tính từ so sánh hơn vì chúng ta đang so sánh hai nhóm (một số môn thể thao với các môn khác). Tính từ 'exciting' dùng để miêu tả điều gì đó gây hứng thú. Đối với các tính từ có từ hai âm tiết trở lên, ta dùng 'more' + tính từ (more exciting) để tạo dạng so sánh hơn.<br><ul><li><b>as excite as</b> (cụm từ (dạng sai)): 'as ... as' dùng để so sánh bằng, nhưng 'excite' là động từ nguyên thể, không phải tính từ. Dạng đúng phải là 'as exciting as' nếu muốn nói hai thứ bằng nhau.</li><li><b>more excite</b> (động từ (dạng sai)): 'excite' là động từ, không phải tính từ. Ta cần tính từ 'exciting' để miêu tả môn thể thao.</li><li><b>more exciting</b> (tính từ so sánh hơn): 'more exciting' là dạng so sánh hơn đúng của tính từ 'exciting'. Dùng để so sánh hai hoặc nhiều thứ.</li><li><b>most exciting</b> (tính từ so sánh nhất): 'most exciting' là dạng so sánh nhất, dùng để so sánh một thứ với tất cả các thứ còn lại, không phù hợp khi chỉ so sánh hai nhóm.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Với các tính từ có hai âm tiết trở lên, dùng 'more' + tính từ (ví dụ: more interesting, more exciting).<br><br><b>Tạm dịch:</b> Một số môn thể thao thú vị hơn những môn khác.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Some sports are … than others.' requires a comparative adjective because we are comparing two or more things (some sports vs. others). The adjective 'exciting' is used to describe something that causes excitement. To form the comparative of most adjectives with more than one syllable, we use 'more' + adjective (more exciting).<br><ul><li><b>as excite as</b> (phrase (incorrect form)): 'as ... as' is used for equality, but 'excite' is the base form of the verb, not the adjective. The correct form would be 'as exciting as' if we wanted to say two things are equal.</li><li><b>more excite</b> (verb (incorrect form)): 'excite' is a verb, not an adjective. We need the adjective 'exciting' to describe sports.</li><li><b>more exciting</b> (comparative adjective): 'more exciting' is the correct comparative form of the adjective 'exciting'. It is used to compare two or more things.</li><li><b>most exciting</b> (superlative adjective): 'most exciting' is the superlative form, used to compare one thing with all others, not just two groups.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with two or more syllables, use 'more' + adjective (e.g., more interesting, more exciting).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb0",
+        "questionNumber": 4,
+        "questionText": "Mom, his piece of cake is …. than mine!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "B",
+            "text": "ig",
+            "raw": "big",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "igger",
+            "raw": "bigger",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "iggest",
+            "raw": "biggest",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "more bigly",
+            "raw": "more bigly",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mom, his piece of cake is …. than mine!' requires a comparative adjective because it is comparing two things: 'his piece of cake' and 'mine'. In English, when comparing two things, we use the comparative form of adjectives. For short adjectives like 'big', we add '-er' to form the comparative: 'bigger'. The word 'than' is also a clue that a comparative form is needed.<br><ul><li><b>big</b> (adjective): This is the base form of the adjective, used when not making a comparison.</li><li><b>bigger</b> (comparative adjective): This is the comparative form of 'big', used to compare two things.</li><li><b>biggest</b> (superlative adjective): This is the superlative form of 'big', used to compare more than two things or to show the highest degree.</li><li><b>more bigly</b> (incorrect/unnatural): 'Bigly' is not a standard word in English, and 'more bigly' is incorrect. The correct comparative form is 'bigger'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives (one syllable), add '-er' to make the comparative form. Use 'than' to compare two things. Example: tall → taller, fast → faster.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mom, his piece of cake is …. than mine!' cần một tính từ so sánh hơn vì đang so sánh hai đối tượng: 'miếng bánh của cậu ấy' và 'của con'. Trong tiếng Anh, khi so sánh hai đối tượng, ta dùng dạng so sánh hơn của tính từ. Với các tính từ ngắn như 'big', ta thêm '-er' để tạo thành dạng so sánh hơn: 'bigger'. Từ 'than' cũng là dấu hiệu cho thấy cần dùng dạng so sánh hơn.<br><ul><li><b>big</b> (tính từ): Đây là dạng nguyên mẫu của tính từ, dùng khi không so sánh.</li><li><b>bigger</b> (tính từ so sánh hơn): Đây là dạng so sánh hơn của 'big', dùng để so sánh hai đối tượng.</li><li><b>biggest</b> (tính từ so sánh nhất): Đây là dạng so sánh nhất của 'big', dùng khi so sánh từ ba đối tượng trở lên hoặc để chỉ mức độ cao nhất.</li><li><b>more bigly</b> (không đúng/không tự nhiên): 'Bigly' không phải là từ chuẩn trong tiếng Anh, và 'more bigly' là sai. Dạng so sánh hơn đúng là 'bigger'.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với tính từ ngắn (một âm tiết), thêm '-er' để tạo dạng so sánh hơn. Dùng 'than' để so sánh hai đối tượng. Ví dụ: tall → taller, fast → faster.<br><br><b>Tạm dịch:</b> Mẹ ơi, miếng bánh của cậu ấy to hơn của con!",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mom, his piece of cake is …. than mine!' requires a comparative adjective because it is comparing two things: 'his piece of cake' and 'mine'. In English, when comparing two things, we use the comparative form of adjectives. For short adjectives like 'big', we add '-er' to form the comparative: 'bigger'. The word 'than' is also a clue that a comparative form is needed.<br><ul><li><b>big</b> (adjective): This is the base form of the adjective, used when not making a comparison.</li><li><b>bigger</b> (comparative adjective): This is the comparative form of 'big', used to compare two things.</li><li><b>biggest</b> (superlative adjective): This is the superlative form of 'big', used to compare more than two things or to show the highest degree.</li><li><b>more bigly</b> (incorrect/unnatural): 'Bigly' is not a standard word in English, and 'more bigly' is incorrect. The correct comparative form is 'bigger'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives (one syllable), add '-er' to make the comparative form. Use 'than' to compare two things. Example: tall → taller, fast → faster.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb1",
+        "questionNumber": 5,
+        "questionText": "Mt. Everest is … than Mt Fuji.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "higher",
+            "raw": "higher",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "highest",
+            "raw": "highest",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more hight",
+            "raw": "more hight",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "more hightly",
+            "raw": "more hightly",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mt. Everest is … than Mt Fuji.' requires a comparative adjective because we are comparing two things: Mt. Everest and Mt. Fuji. The correct comparative form of 'high' is 'higher.'<br><ul><li><b>higher</b> (comparative adjective): 'Higher' is the comparative form of the adjective 'high,' used to compare two things.</li><li><b>highest</b> (superlative adjective): 'Highest' is the superlative form of 'high,' used to compare more than two things or to indicate the most in a group.</li><li><b>more hight</b> (incorrect form): 'Hight' is not a correct word in English. The correct adjective is 'high.'</li><li><b>more hightly</b> (incorrect form): 'Hightly' is not a word in English. The correct adverb is 'highly,' but it is not used to describe physical height.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: To compare two things, use the comparative form (adjective + -er or 'more' + adjective for longer words). For 'high,' the comparative is 'higher.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mt. Everest is … than Mt Fuji.' cần một tính từ so sánh hơn vì chúng ta đang so sánh hai đối tượng: núi Everest và núi Phú Sĩ. Dạng so sánh hơn của 'high' là 'higher.'<br><ul><li><b>higher</b> (tính từ so sánh hơn): 'Higher' là dạng so sánh hơn của tính từ 'high', dùng để so sánh hai đối tượng.</li><li><b>highest</b> (tính từ so sánh nhất): 'Highest' là dạng so sánh nhất của 'high', dùng để so sánh nhiều hơn hai đối tượng hoặc chỉ mức cao nhất trong một nhóm.</li><li><b>more hight</b> (dạng sai): 'Hight' không phải là một từ đúng trong tiếng Anh. Tính từ đúng là 'high.'</li><li><b>more hightly</b> (dạng sai): 'Hightly' không phải là một từ đúng trong tiếng Anh. Trạng từ đúng là 'highly', nhưng không dùng để chỉ chiều cao vật lý.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Để so sánh hai đối tượng, dùng dạng so sánh hơn (tính từ + -er hoặc 'more' + tính từ với từ dài). Với 'high', dạng so sánh hơn là 'higher.'<br><br><b>Tạm dịch:</b> Mt. Everest is higher than Mt Fuji. --> Núi Everest cao hơn núi Phú Sĩ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mt. Everest is … than Mt Fuji.' requires a comparative adjective because we are comparing two things: Mt. Everest and Mt. Fuji. The correct comparative form of 'high' is 'higher.'<br><ul><li><b>higher</b> (comparative adjective): 'Higher' is the comparative form of the adjective 'high,' used to compare two things.</li><li><b>highest</b> (superlative adjective): 'Highest' is the superlative form of 'high,' used to compare more than two things or to indicate the most in a group.</li><li><b>more hight</b> (incorrect form): 'Hight' is not a correct word in English. The correct adjective is 'high.'</li><li><b>more hightly</b> (incorrect form): 'Hightly' is not a word in English. The correct adverb is 'highly,' but it is not used to describe physical height.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: To compare two things, use the comparative form (adjective + -er or 'more' + adjective for longer words). For 'high,' the comparative is 'higher.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb2",
+        "questionNumber": 6,
+        "questionText": "A cow is …. than a puppy.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "hungrier",
+            "raw": "hungrier",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "hungriest",
+            "raw": "hungriest",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more hungier",
+            "raw": "more hungier",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most hungrily",
+            "raw": "most hungrily",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A cow is …. than a puppy.' requires a comparative adjective because it is comparing two things: a cow and a puppy. The correct comparative form of 'hungry' is 'hungrier'.<br><ul><li><b>hungrier</b> (adjective (comparative)): Comparative form of 'hungry', used to compare two things.</li><li><b>hungriest</b> (adjective (superlative)): Superlative form of 'hungry', used to compare more than two things.</li><li><b>more hungier</b> (incorrect comparative): Incorrect double comparative. 'Hungrier' is already the comparative form; 'more' is not needed.</li><li><b>most hungrily</b> (adverb (superlative)): 'Hungrily' is an adverb, not an adjective. 'Most hungrily' is the superlative adverb form, which does not fit the sentence.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives, add '-er' to form the comparative (e.g., 'taller', 'hungrier'). Use 'than' to compare two things.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'A cow is …. than a puppy.' cần một tính từ so sánh hơn vì đang so sánh hai đối tượng: một con bò và một chú cún. Dạng so sánh hơn đúng của 'hungry' là 'hungrier'.<br><ul><li><b>hungrier</b> (tính từ (so sánh hơn)): Dạng so sánh hơn của 'hungry', dùng để so sánh hai đối tượng.</li><li><b>hungriest</b> (tính từ (so sánh nhất)): Dạng so sánh nhất của 'hungry', dùng để so sánh từ ba đối tượng trở lên.</li><li><b>more hungier</b> (so sánh hơn (không đúng)): Dạng so sánh kép không đúng. 'Hungrier' đã là dạng so sánh hơn, không cần thêm 'more'.</li><li><b>most hungrily</b> (trạng từ (so sánh nhất)): 'Hungrily' là trạng từ, không phải tính từ. 'Most hungrily' là dạng so sánh nhất của trạng từ, không phù hợp với câu.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với tính từ ngắn, thêm '-er' để tạo dạng so sánh hơn (ví dụ: 'taller', 'hungrier'). Dùng 'than' để so sánh hai đối tượng.<br><br><b>Tạm dịch:</b> A cow is hungrier than a puppy. --> Một con bò đói hơn một chú cún.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A cow is …. than a puppy.' requires a comparative adjective because it is comparing two things: a cow and a puppy. The correct comparative form of 'hungry' is 'hungrier'.<br><ul><li><b>hungrier</b> (adjective (comparative)): Comparative form of 'hungry', used to compare two things.</li><li><b>hungriest</b> (adjective (superlative)): Superlative form of 'hungry', used to compare more than two things.</li><li><b>more hungier</b> (incorrect comparative): Incorrect double comparative. 'Hungrier' is already the comparative form; 'more' is not needed.</li><li><b>most hungrily</b> (adverb (superlative)): 'Hungrily' is an adverb, not an adjective. 'Most hungrily' is the superlative adverb form, which does not fit the sentence.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives, add '-er' to form the comparative (e.g., 'taller', 'hungrier'). Use 'than' to compare two things.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb3",
+        "questionNumber": 7,
+        "questionText": "Why don't you take a nap, before you get even ...  ?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "less tired",
+            "raw": "less tired",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "more tired",
+            "raw": "more tired",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "tireder",
+            "raw": "tireder",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Why don't you take a nap, before you get even ...?', the blank needs to be filled with the correct comparative form of 'tired'. The phrase 'even ...' is used to indicate a higher degree of tiredness than the current state. In English, the comparative form of one-syllable adjectives like 'tired' is usually formed by adding '-er', but 'tired' is an exception and uses 'more tired' instead of 'tireder'. Therefore, the correct answer is 'more tired'.<br><ul><li><b>less tired</b> (adjective phrase): Means not as tired as before; indicates a decrease in tiredness, which does not fit the context of 'even ...' (which suggests an increase).</li><li><b>more tired</b> (adjective phrase (comparative)): Means a greater degree of tiredness; the correct comparative form for 'tired'.</li><li><b>tireder</b> (adjective (incorrect comparative)): An incorrect comparative form; 'tired' does not take '-er' to form the comparative.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most adjectives with two or more syllables, use 'more + adjective' to form the comparative (e.g., more tired, more beautiful). 'Even + comparative' is used to emphasize a greater degree (e.g., even more tired).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Why don't you take a nap, before you get even ...?', chỗ trống cần điền dạng so sánh hơn của tính từ 'tired'. Cụm 'even ...' dùng để nhấn mạnh mức độ mệt mỏi cao hơn hiện tại. Trong tiếng Anh, dạng so sánh hơn của các tính từ có một âm tiết thường thêm '-er', nhưng 'tired' là một ngoại lệ và dùng 'more tired' thay vì 'tireder'. Vì vậy, đáp án đúng là 'more tired'.<br><ul><li><b>less tired</b> (cụm tính từ): Có nghĩa là ít mệt hơn trước; chỉ sự giảm mức độ mệt mỏi, không phù hợp với ngữ cảnh 'even ...' (chỉ sự tăng lên).</li><li><b>more tired</b> (cụm tính từ (so sánh hơn)): Có nghĩa là mệt hơn; là dạng so sánh hơn đúng của 'tired'.</li><li><b>tireder</b> (tính từ (so sánh hơn sai)): Dạng so sánh hơn không đúng; 'tired' không thêm '-er' để tạo dạng so sánh hơn.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Với các tính từ có hai âm tiết trở lên, dùng 'more + adjective' để tạo dạng so sánh hơn (ví dụ: more tired, more beautiful). 'Even + so sánh hơn' dùng để nhấn mạnh mức độ cao hơn (ví dụ: even more tired).<br><br><b>Tạm dịch:</b> Tại sao bạn không chợp mắt một lát, trước khi bạn trở nên còn mệt hơn nữa?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Why don't you take a nap, before you get even ...?', the blank needs to be filled with the correct comparative form of 'tired'. The phrase 'even ...' is used to indicate a higher degree of tiredness than the current state. In English, the comparative form of one-syllable adjectives like 'tired' is usually formed by adding '-er', but 'tired' is an exception and uses 'more tired' instead of 'tireder'. Therefore, the correct answer is 'more tired'.<br><ul><li><b>less tired</b> (adjective phrase): Means not as tired as before; indicates a decrease in tiredness, which does not fit the context of 'even ...' (which suggests an increase).</li><li><b>more tired</b> (adjective phrase (comparative)): Means a greater degree of tiredness; the correct comparative form for 'tired'.</li><li><b>tireder</b> (adjective (incorrect comparative)): An incorrect comparative form; 'tired' does not take '-er' to form the comparative.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most adjectives with two or more syllables, use 'more + adjective' to form the comparative (e.g., more tired, more beautiful). 'Even + comparative' is used to emphasize a greater degree (e.g., even more tired).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb4",
+        "questionNumber": 8,
+        "questionText": "This spring was … than last spring. It rained just about every day!",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the wetter",
+            "raw": "the wetter",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "weter",
+            "raw": "weter",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "wetter",
+            "raw": "wetter",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>&quot;wet&quot; is a short adjective so we need to add <strong>-er </strong>after the adjective.&nbsp;<br />\nwet ends with a vowel &quot;e&quot; and a consonant &quot;t&quot; =&gt; double &quot;t&quot; and add -er</p>\n",
+        "explanationViHtml": "<p>&quot;wet&quot; l&agrave; một t&iacute;nh từ ngắn n&ecirc;n ch&uacute;ng ta cần th&ecirc;m&nbsp;<strong>-er&nbsp;</strong>sau t&iacute;nh từ.&nbsp;<br />\nwet kết th&uacute;c bằng một nguy&ecirc;n &acirc;m &quot;e&quot; v&agrave; một phụ &acirc;m &quot;t&quot; =&gt; gấp đ&ocirc;i &quot;t&quot; v&agrave; th&ecirc;m -er</p>\n",
+        "transcriptHtml": "<p>&quot;wet&quot; is a short adjective so we need to add <strong>-er </strong>after the adjective.&nbsp;<br />\nwet ends with a vowel &quot;e&quot; and a consonant &quot;t&quot; =&gt; double &quot;t&quot; and add -er</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb5",
+        "questionNumber": 9,
+        "questionText": "Albert Einstein was … than me.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "intelligenter",
+            "raw": "intelligenter",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "intelligently",
+            "raw": "intelligently",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more intelligent",
+            "raw": "more intelligent",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "most intelligent",
+            "raw": "most intelligent",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Albert Einstein was … than me.' requires a comparative adjective because it is comparing Einstein's intelligence to 'me'. In English, when comparing two things, we use the comparative form of adjectives. For adjectives with three or more syllables, like 'intelligent', we use 'more' before the adjective to form the comparative: 'more intelligent'.<br><ul><li><b>intelligenter</b> (incorrect comparative adjective): This is not a correct English word. The comparative form of 'intelligent' is not made by adding '-er'.</li><li><b>intelligently</b> (adverb): This is an adverb, not an adjective. It describes how someone does something, not what someone is.</li><li><b>more intelligent</b> (comparative adjective): This is the correct comparative form of the adjective 'intelligent'. It is used to compare two people or things.</li><li><b>most intelligent</b> (superlative adjective): This is the superlative form, used to compare more than two people or things, meaning 'the smartest of all'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with three or more syllables, use 'more + adjective' to form the comparative. Example: 'more beautiful', 'more interesting', 'more intelligent'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Albert Einstein was … than me.' cần một tính từ so sánh hơn vì đang so sánh trí thông minh của Einstein với 'tôi'. Trong tiếng Anh, khi so sánh hai đối tượng, ta dùng dạng so sánh hơn của tính từ. Với các tính từ có ba âm tiết trở lên như 'intelligent', ta dùng 'more' trước tính từ để tạo dạng so sánh hơn: 'more intelligent'.<br><ul><li><b>intelligenter</b> (tính từ so sánh hơn sai): Đây không phải là từ đúng trong tiếng Anh. Dạng so sánh hơn của 'intelligent' không được tạo bằng cách thêm '-er'.</li><li><b>intelligently</b> (trạng từ): Đây là trạng từ, không phải tính từ. Nó diễn tả cách ai đó làm việc gì, không phải đặc điểm của ai đó.</li><li><b>more intelligent</b> (tính từ so sánh hơn): Đây là dạng so sánh hơn đúng của tính từ 'intelligent'. Dùng để so sánh hai người hoặc vật.</li><li><b>most intelligent</b> (tính từ so sánh nhất): Đây là dạng so sánh nhất, dùng để so sánh từ ba người/vật trở lên, mang nghĩa 'thông minh nhất'.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Với các tính từ có ba âm tiết trở lên, dùng 'more + tính từ' để tạo dạng so sánh hơn. Ví dụ: 'more beautiful', 'more interesting', 'more intelligent'.<br><br><b>Tạm dịch:</b> Albert Einstein was more intelligent than me. --> Albert Einstein thông minh hơn tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Albert Einstein was … than me.' requires a comparative adjective because it is comparing Einstein's intelligence to 'me'. In English, when comparing two things, we use the comparative form of adjectives. For adjectives with three or more syllables, like 'intelligent', we use 'more' before the adjective to form the comparative: 'more intelligent'.<br><ul><li><b>intelligenter</b> (incorrect comparative adjective): This is not a correct English word. The comparative form of 'intelligent' is not made by adding '-er'.</li><li><b>intelligently</b> (adverb): This is an adverb, not an adjective. It describes how someone does something, not what someone is.</li><li><b>more intelligent</b> (comparative adjective): This is the correct comparative form of the adjective 'intelligent'. It is used to compare two people or things.</li><li><b>most intelligent</b> (superlative adjective): This is the superlative form, used to compare more than two people or things, meaning 'the smartest of all'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with three or more syllables, use 'more + adjective' to form the comparative. Example: 'more beautiful', 'more interesting', 'more intelligent'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb6",
+        "questionNumber": 10,
+        "questionText": "Emails are… than telephones.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "onveniently",
+            "raw": "conveniently",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "more convenient",
+            "raw": "more convenient",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "more conveniently",
+            "raw": "more conveniently",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most convenient",
+            "raw": "most convenient",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Emails are… than telephones.' requires a comparative adjective because it is comparing two things: emails and telephones. The word 'than' is a clue that a comparative form is needed.<br><ul><li><b>conveniently</b> (adverb): This is an adverb, not an adjective. It describes how something is done, not what something is.</li><li><b>more convenient</b> (comparative adjective): This is the comparative form of the adjective 'convenient', used to compare two things.</li><li><b>more conveniently</b> (comparative adverb): This is the comparative form of the adverb 'conveniently', used to compare actions, not nouns.</li><li><b>most convenient</b> (superlative adjective): This is the superlative form of the adjective 'convenient', used when comparing more than two things.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: To compare two things, use 'more + adjective' for adjectives with three or more syllables. Structure: [A] is more + adjective + than [B].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Emails are… than telephones.' cần một tính từ so sánh hơn vì đang so sánh hai đối tượng: email và điện thoại. Từ 'than' là dấu hiệu nhận biết cần dùng dạng so sánh hơn.<br><ul><li><b>conveniently</b> (trạng từ): Đây là trạng từ, dùng để miêu tả cách thức thực hiện hành động, không phải để miêu tả tính chất của danh từ.</li><li><b>more convenient</b> (tính từ so sánh hơn): Đây là dạng so sánh hơn của tính từ 'convenient', dùng để so sánh hai đối tượng.</li><li><b>more conveniently</b> (trạng từ so sánh hơn): Đây là dạng so sánh hơn của trạng từ 'conveniently', dùng để so sánh cách thực hiện hành động, không phải để so sánh danh từ.</li><li><b>most convenient</b> (tính từ so sánh nhất): Đây là dạng so sánh nhất của tính từ 'convenient', dùng khi so sánh từ ba đối tượng trở lên.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Để so sánh hai đối tượng, dùng 'more + tính từ' với các tính từ có từ ba âm tiết trở lên. Cấu trúc: [A] is more + adjective + than [B].<br><br><b>Tạm dịch:</b> Emails are more convenient than telephones. --> Email tiện lợi hơn điện thoại.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Emails are… than telephones.' requires a comparative adjective because it is comparing two things: emails and telephones. The word 'than' is a clue that a comparative form is needed.<br><ul><li><b>conveniently</b> (adverb): This is an adverb, not an adjective. It describes how something is done, not what something is.</li><li><b>more convenient</b> (comparative adjective): This is the comparative form of the adjective 'convenient', used to compare two things.</li><li><b>more conveniently</b> (comparative adverb): This is the comparative form of the adverb 'conveniently', used to compare actions, not nouns.</li><li><b>most convenient</b> (superlative adjective): This is the superlative form of the adjective 'convenient', used when comparing more than two things.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: To compare two things, use 'more + adjective' for adjectives with three or more syllables. Structure: [A] is more + adjective + than [B].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb7",
+        "questionNumber": 11,
+        "questionText": "David thinks the Guggenheim Museum is ... than the Whitney Museum of American Art.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "more interesting",
+            "raw": "more interesting",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "the more interesting",
+            "raw": "the more interesting",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "the most interesting",
+            "raw": "the most interesting",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'David thinks the Guggenheim Museum is ... than the Whitney Museum of American Art.' requires a comparative adjective because it is comparing two things: the Guggenheim Museum and the Whitney Museum of American Art. In English, the comparative form of most adjectives is created by adding 'more' before adjectives with three or more syllables, such as 'interesting'.<br><ul><li><b>more interesting</b> (comparative adjective phrase): 'More interesting' is the correct comparative form of the adjective 'interesting'. It is used to compare two things.</li><li><b>the more interesting</b> (comparative adjective phrase with definite article): 'The more interesting' is not correct in this context because 'the' is used for superlatives or specific references, not for simple comparisons between two things.</li><li><b>the most interesting</b> (superlative adjective phrase): 'The most interesting' is the superlative form, used to compare one thing with all others in a group, not just two.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with three or more syllables, use 'more + adjective' to compare two things. Example: 'This book is more expensive than that one.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'David thinks the Guggenheim Museum is ... than the Whitney Museum of American Art.' cần một tính từ so sánh hơn vì đang so sánh hai đối tượng: Bảo tàng Guggenheim và Bảo tàng Nghệ thuật Mỹ Whitney. Trong tiếng Anh, dạng so sánh hơn của các tính từ có từ ba âm tiết trở lên được tạo bằng cách thêm 'more' trước tính từ, ví dụ như 'interesting'.<br><ul><li><b>more interesting</b> (cụm tính từ so sánh hơn): 'More interesting' là dạng so sánh hơn đúng của tính từ 'interesting'. Dùng để so sánh giữa hai đối tượng.</li><li><b>the more interesting</b> (cụm tính từ so sánh hơn có mạo từ xác định): 'The more interesting' không đúng trong ngữ cảnh này vì 'the' thường dùng cho so sánh nhất hoặc khi nói về một đối tượng cụ thể, không dùng cho so sánh giữa hai đối tượng.</li><li><b>the most interesting</b> (cụm tính từ so sánh nhất): 'The most interesting' là dạng so sánh nhất, dùng để so sánh một đối tượng với tất cả các đối tượng khác trong nhóm, không phải chỉ hai đối tượng.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Với các tính từ có từ ba âm tiết trở lên, dùng 'more + tính từ' để so sánh hai đối tượng. Ví dụ: 'This book is more expensive than that one.'<br><br><b>Tạm dịch:</b> David nghĩ rằng Bảo tàng Guggenheim thú vị hơn Bảo tàng Nghệ thuật Mỹ Whitney.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'David thinks the Guggenheim Museum is ... than the Whitney Museum of American Art.' requires a comparative adjective because it is comparing two things: the Guggenheim Museum and the Whitney Museum of American Art. In English, the comparative form of most adjectives is created by adding 'more' before adjectives with three or more syllables, such as 'interesting'.<br><ul><li><b>more interesting</b> (comparative adjective phrase): 'More interesting' is the correct comparative form of the adjective 'interesting'. It is used to compare two things.</li><li><b>the more interesting</b> (comparative adjective phrase with definite article): 'The more interesting' is not correct in this context because 'the' is used for superlatives or specific references, not for simple comparisons between two things.</li><li><b>the most interesting</b> (superlative adjective phrase): 'The most interesting' is the superlative form, used to compare one thing with all others in a group, not just two.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with three or more syllables, use 'more + adjective' to compare two things. Example: 'This book is more expensive than that one.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb8",
+        "questionNumber": 12,
+        "questionText": "This soup is … than that soup.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "more delicious",
+            "raw": "more delicious",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "more deliciouser",
+            "raw": "more deliciouser",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more deliciously",
+            "raw": "more deliciously",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most delicious",
+            "raw": "most delicious",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'This soup is … than that soup.' requires a comparative adjective because it is comparing two things (this soup and that soup). The adjective 'delicious' is a two-syllable adjective that does not end in -y, so we form the comparative by adding 'more' before the adjective: 'more delicious'.<br><ul><li><b>more delicious</b> (comparative adjective phrase): This is the correct comparative form for adjectives with two or more syllables that do not end in -y. It means 'having a better taste compared to the other soup.'</li><li><b>more deliciouser</b> (incorrect comparative form): This is incorrect because 'deliciouser' is not a word. We do not use 'more' with the '-er' form together.</li><li><b>more deliciously</b> (adverb): 'Deliciously' is an adverb, not an adjective. We need an adjective to describe 'soup', not an adverb.</li><li><b>most delicious</b> (superlative adjective phrase): 'Most delicious' is the superlative form, used when comparing three or more things, not just two.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with two or more syllables (except those ending in -y), use 'more + adjective' to form the comparative. Structure: [subject] + is + more + adjective + than + [object].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'This soup is … than that soup.' cần một tính từ so sánh hơn vì đang so sánh hai vật (món súp này và món súp kia). Tính từ 'delicious' có hai âm tiết và không kết thúc bằng -y, nên ta tạo dạng so sánh hơn bằng cách thêm 'more' trước tính từ: 'more delicious'.<br><ul><li><b>more delicious</b> (cụm tính từ so sánh hơn): Đây là dạng so sánh hơn đúng cho các tính từ có hai âm tiết trở lên và không kết thúc bằng -y. Nghĩa là 'ngon hơn' so với món súp kia.</li><li><b>more deliciouser</b> (dạng so sánh hơn sai): Đây là dạng sai vì 'deliciouser' không phải là một từ đúng. Không dùng 'more' cùng với dạng '-er' cùng lúc.</li><li><b>more deliciously</b> (trạng từ): 'Deliciously' là trạng từ, không phải tính từ. Ta cần một tính từ để miêu tả 'soup', không phải trạng từ.</li><li><b>most delicious</b> (cụm tính từ so sánh nhất): 'Most delicious' là dạng so sánh nhất, dùng khi so sánh ba vật trở lên, không phải chỉ hai vật.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với các tính từ có hai âm tiết trở lên (trừ các từ kết thúc bằng -y), dùng 'more + tính từ' để tạo dạng so sánh hơn. Cấu trúc: [chủ ngữ] + is + more + tính từ + than + [tân ngữ].<br><br><b>Tạm dịch:</b> Món súp này ngon hơn món súp kia.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'This soup is … than that soup.' requires a comparative adjective because it is comparing two things (this soup and that soup). The adjective 'delicious' is a two-syllable adjective that does not end in -y, so we form the comparative by adding 'more' before the adjective: 'more delicious'.<br><ul><li><b>more delicious</b> (comparative adjective phrase): This is the correct comparative form for adjectives with two or more syllables that do not end in -y. It means 'having a better taste compared to the other soup.'</li><li><b>more deliciouser</b> (incorrect comparative form): This is incorrect because 'deliciouser' is not a word. We do not use 'more' with the '-er' form together.</li><li><b>more deliciously</b> (adverb): 'Deliciously' is an adverb, not an adjective. We need an adjective to describe 'soup', not an adverb.</li><li><b>most delicious</b> (superlative adjective phrase): 'Most delicious' is the superlative form, used when comparing three or more things, not just two.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with two or more syllables (except those ending in -y), use 'more + adjective' to form the comparative. Structure: [subject] + is + more + adjective + than + [object].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deb9",
+        "questionNumber": 13,
+        "questionText": "Why don't you heat that in the microwave ? It'll be ... than in the regular oven.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "quicker",
+            "raw": "quicker",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "quickier",
+            "raw": "quickier",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "the quickest",
+            "raw": "the quickest",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a comparative adjective because we are comparing the speed of heating food in the microwave versus the regular oven. The correct comparative form of 'quick' is 'quicker'.<br><ul><li><b>quicker</b> (comparative adjective): 'Quicker' is the comparative form of the adjective 'quick', used to compare two things.</li><li><b>quickier</b> (incorrect form): 'Quickier' is not a correct word in English. The correct comparative form is 'quicker', not 'quickier'.</li><li><b>the quickest</b> (superlative adjective): 'The quickest' is the superlative form, used when comparing more than two things or to show the highest degree.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most one-syllable adjectives, add '-er' to form the comparative (e.g., quick → quicker). Use comparative adjectives when comparing two things.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền tính từ so sánh hơn vì chúng ta đang so sánh tốc độ làm nóng thức ăn bằng lò vi sóng với lò nướng thông thường. Dạng so sánh hơn đúng của 'quick' là 'quicker'.<br><ul><li><b>quicker</b> (tính từ so sánh hơn): 'Quicker' là dạng so sánh hơn của tính từ 'quick', dùng để so sánh hai đối tượng.</li><li><b>quickier</b> (dạng sai): 'Quickier' không phải là từ đúng trong tiếng Anh. Dạng so sánh hơn đúng là 'quicker', không phải 'quickier'.</li><li><b>the quickest</b> (tính từ so sánh nhất): 'The quickest' là dạng so sánh nhất, dùng khi so sánh từ ba đối tượng trở lên hoặc để chỉ mức độ cao nhất.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với hầu hết các tính từ ngắn (một âm tiết), thêm '-er' để tạo dạng so sánh hơn (ví dụ: quick → quicker). Dùng tính từ so sánh hơn khi so sánh hai đối tượng.<br><br><b>Tạm dịch:</b> Tại sao bạn không làm nóng cái đó bằng lò vi sóng? Nó sẽ nhanh hơn so với lò nướng thông thường.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a comparative adjective because we are comparing the speed of heating food in the microwave versus the regular oven. The correct comparative form of 'quick' is 'quicker'.<br><ul><li><b>quicker</b> (comparative adjective): 'Quicker' is the comparative form of the adjective 'quick', used to compare two things.</li><li><b>quickier</b> (incorrect form): 'Quickier' is not a correct word in English. The correct comparative form is 'quicker', not 'quickier'.</li><li><b>the quickest</b> (superlative adjective): 'The quickest' is the superlative form, used when comparing more than two things or to show the highest degree.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most one-syllable adjectives, add '-er' to form the comparative (e.g., quick → quicker). Use comparative adjectives when comparing two things.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539deba",
+        "questionNumber": 14,
+        "questionText": "My big brother is…. than me.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "more strongly",
+            "raw": "more strongly",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "strong",
+            "raw": "strong",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "stronger",
+            "raw": "stronger",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "strongest",
+            "raw": "strongest",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My big brother is…. than me.' requires a comparative adjective because we are comparing two people: 'my big brother' and 'me'. In English, the comparative form of most short adjectives is made by adding '-er' to the end of the adjective.<br><ul><li><b>more strongly</b> (adverb phrase): This is an adverb phrase, not an adjective. 'Strongly' is the adverb form of 'strong', and 'more strongly' is used to compare actions, not people.</li><li><b>strong</b> (adjective): This is the base form of the adjective. It is not used for comparisons.</li><li><b>stronger</b> (comparative adjective): This is the comparative form of the adjective 'strong'. It is used to compare two people or things.</li><li><b>strongest</b> (superlative adjective): This is the superlative form of the adjective 'strong'. It is used to compare more than two people or things.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most one-syllable adjectives, add '-er' to form the comparative (e.g., tall → taller, strong → stronger). The structure is: [subject] + [be] + [comparative adjective] + than + [object].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'My big brother is…. than me.' cần một tính từ so sánh hơn vì chúng ta đang so sánh hai người: 'anh trai tôi' và 'tôi'. Trong tiếng Anh, dạng so sánh hơn của hầu hết các tính từ ngắn được tạo bằng cách thêm '-er' vào cuối tính từ.<br><ul><li><b>more strongly</b> (cụm trạng từ): 'more strongly' là một cụm trạng từ, không phải tính từ. 'Strongly' là trạng từ của 'strong', và 'more strongly' dùng để so sánh hành động, không dùng để so sánh người.</li><li><b>strong</b> (tính từ): 'strong' là dạng nguyên mẫu của tính từ. Không dùng để so sánh.</li><li><b>stronger</b> (tính từ so sánh hơn): 'stronger' là dạng so sánh hơn của tính từ 'strong'. Dùng để so sánh hai người hoặc vật.</li><li><b>strongest</b> (tính từ so sánh nhất): 'strongest' là dạng so sánh nhất của tính từ 'strong'. Dùng để so sánh từ ba người hoặc vật trở lên.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với hầu hết các tính từ ngắn (1 âm tiết), thêm '-er' để tạo dạng so sánh hơn (ví dụ: tall → taller, strong → stronger). Cấu trúc: [chủ ngữ] + [động từ to be] + [tính từ so sánh hơn] + than + [tân ngữ].<br><br><b>Tạm dịch:</b> Anh trai tôi khỏe hơn tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My big brother is…. than me.' requires a comparative adjective because we are comparing two people: 'my big brother' and 'me'. In English, the comparative form of most short adjectives is made by adding '-er' to the end of the adjective.<br><ul><li><b>more strongly</b> (adverb phrase): This is an adverb phrase, not an adjective. 'Strongly' is the adverb form of 'strong', and 'more strongly' is used to compare actions, not people.</li><li><b>strong</b> (adjective): This is the base form of the adjective. It is not used for comparisons.</li><li><b>stronger</b> (comparative adjective): This is the comparative form of the adjective 'strong'. It is used to compare two people or things.</li><li><b>strongest</b> (superlative adjective): This is the superlative form of the adjective 'strong'. It is used to compare more than two people or things.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most one-syllable adjectives, add '-er' to form the comparative (e.g., tall → taller, strong → stronger). The structure is: [subject] + [be] + [comparative adjective] + than + [object].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539debb",
+        "questionNumber": 15,
+        "questionText": "A kitten is … than a puppy.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "uter",
+            "raw": "cuter",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "more cuter",
+            "raw": "more cuter",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more cutly",
+            "raw": "more cutly",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most cuter",
+            "raw": "most cuter",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A kitten is … than a puppy.' requires a comparative adjective because we are comparing two things: a kitten and a puppy. The adjective 'cute' forms its comparative by adding '-r' or '-er' (cuter), not by using 'more' before it. We do not use 'more' with adjectives that already have the '-er' ending.<br><ul><li><b>cuter</b> (adjective (comparative)): Comparative form of 'cute', used to compare two things.</li><li><b>more cuter</b> (incorrect comparative): Incorrect double comparative. 'Cuter' is already comparative, so 'more' is not needed.</li><li><b>more cutly</b> (incorrect word): 'Cutly' is not a correct word in English. The correct adjective is 'cute'.</li><li><b>most cuter</b> (incorrect superlative/comparative): Incorrect superlative and comparative mix. 'Most' is used for superlatives, not comparatives.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives (one syllable or two syllables ending in -y), add '-er' to form the comparative (e.g., 'cute' → 'cuter'). Do not use 'more' with these adjectives.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'A kitten is … than a puppy.' cần một tính từ so sánh hơn vì chúng ta đang so sánh hai đối tượng: một chú mèo con và một chú chó con. Tính từ 'cute' (dễ thương) khi chuyển sang so sánh hơn sẽ thêm '-r' hoặc '-er' thành 'cuter', không dùng 'more' phía trước. Không dùng 'more' với các tính từ đã có đuôi '-er'.<br><ul><li><b>cuter</b> (tính từ (so sánh hơn)): Dạng so sánh hơn của 'cute', dùng để so sánh hai đối tượng.</li><li><b>more cuter</b> (so sánh hơn sai): Sai vì là so sánh kép. 'Cuter' đã là so sánh hơn nên không cần thêm 'more'.</li><li><b>more cutly</b> (từ sai): 'Cutly' không phải là từ đúng trong tiếng Anh. Tính từ đúng là 'cute'.</li><li><b>most cuter</b> (so sánh nhất/so sánh hơn sai): Sai vì kết hợp sai giữa so sánh nhất và so sánh hơn. 'Most' dùng cho so sánh nhất, không dùng với so sánh hơn.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với các tính từ ngắn (1 âm tiết hoặc 2 âm tiết kết thúc bằng -y), thêm '-er' để tạo dạng so sánh hơn (ví dụ: 'cute' → 'cuter'). Không dùng 'more' với các tính từ này.<br><br><b>Tạm dịch:</b> A kitten is cuter than a puppy. → Một chú mèo con dễ thương hơn một chú chó con.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A kitten is … than a puppy.' requires a comparative adjective because we are comparing two things: a kitten and a puppy. The adjective 'cute' forms its comparative by adding '-r' or '-er' (cuter), not by using 'more' before it. We do not use 'more' with adjectives that already have the '-er' ending.<br><ul><li><b>cuter</b> (adjective (comparative)): Comparative form of 'cute', used to compare two things.</li><li><b>more cuter</b> (incorrect comparative): Incorrect double comparative. 'Cuter' is already comparative, so 'more' is not needed.</li><li><b>more cutly</b> (incorrect word): 'Cutly' is not a correct word in English. The correct adjective is 'cute'.</li><li><b>most cuter</b> (incorrect superlative/comparative): Incorrect superlative and comparative mix. 'Most' is used for superlatives, not comparatives.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives (one syllable or two syllables ending in -y), add '-er' to form the comparative (e.g., 'cute' → 'cuter'). Do not use 'more' with these adjectives.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539debc",
+        "questionNumber": 16,
+        "questionText": "Who's ... , Julie or Jennifer ?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "smarter",
+            "raw": "smarter",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "smartest",
+            "raw": "smartest",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "the more smart",
+            "raw": "the more smart",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question 'Who's ... , Julie or Jennifer?' is asking for a comparison between two people. In English, when comparing two people or things, we use the comparative form of adjectives. The adjective 'smart' becomes 'smarter' in the comparative form. The superlative form 'smartest' is used when comparing more than two people or things, and 'the more smart' is not a correct comparative form in English.<br><ul><li><b>smarter</b> (adjective (comparative)): 'Smarter' is the comparative form of 'smart', used to compare two people or things.</li><li><b>smartest</b> (adjective (superlative)): 'Smartest' is the superlative form of 'smart', used to compare more than two people or things.</li><li><b>the more smart</b> (incorrect comparative phrase): 'The more smart' is not a correct comparative form in English. The correct comparative is 'smarter'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives, add -er (smart → smarter) to compare two things. Superlative adjectives: Add -est (smart → smartest) to compare three or more things.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi 'Who's ... , Julie or Jennifer?' đang yêu cầu so sánh giữa hai người. Trong tiếng Anh, khi so sánh hai người hoặc hai vật, ta dùng dạng so sánh hơn của tính từ. Tính từ 'smart' khi chuyển sang so sánh hơn sẽ là 'smarter'. Dạng so sánh nhất 'smartest' chỉ dùng khi so sánh từ ba người hoặc vật trở lên, còn 'the more smart' không phải là dạng so sánh đúng trong tiếng Anh.<br><ul><li><b>smarter</b> (tính từ (so sánh hơn)): 'Smarter' là dạng so sánh hơn của 'smart', dùng để so sánh giữa hai người hoặc hai vật.</li><li><b>smartest</b> (tính từ (so sánh nhất)): 'Smartest' là dạng so sánh nhất của 'smart', dùng khi so sánh từ ba người hoặc vật trở lên.</li><li><b>the more smart</b> (cụm từ so sánh sai): 'The more smart' không phải là dạng so sánh đúng trong tiếng Anh. Dạng so sánh đúng là 'smarter'.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ ngắn: thêm -er vào tính từ (smart → smarter) để so sánh hai đối tượng. So sánh nhất: thêm -est (smart → smartest) để so sánh từ ba đối tượng trở lên.<br><br><b>Tạm dịch:</b> Câu hỏi: 'Who's smarter, Julie or Jennifer?' nghĩa là 'Ai thông minh hơn, Julie hay Jennifer?'. Đáp án đúng là 'smarter' vì đây là dạng so sánh hơn của tính từ 'smart', dùng để so sánh giữa hai người.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question 'Who's ... , Julie or Jennifer?' is asking for a comparison between two people. In English, when comparing two people or things, we use the comparative form of adjectives. The adjective 'smart' becomes 'smarter' in the comparative form. The superlative form 'smartest' is used when comparing more than two people or things, and 'the more smart' is not a correct comparative form in English.<br><ul><li><b>smarter</b> (adjective (comparative)): 'Smarter' is the comparative form of 'smart', used to compare two people or things.</li><li><b>smartest</b> (adjective (superlative)): 'Smartest' is the superlative form of 'smart', used to compare more than two people or things.</li><li><b>the more smart</b> (incorrect comparative phrase): 'The more smart' is not a correct comparative form in English. The correct comparative is 'smarter'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives, add -er (smart → smarter) to compare two things. Superlative adjectives: Add -est (smart → smartest) to compare three or more things.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539debd",
+        "questionNumber": 17,
+        "questionText": "Some government are … than others.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "more bad",
+            "raw": "more bad",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "more worse",
+            "raw": "more worse",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "most bad",
+            "raw": "most bad",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "worse",
+            "raw": "worse",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Some government are … than others.' requires a comparative adjective because it is comparing governments. The correct comparative form of 'bad' is 'worse.'<br><ul><li><b>more bad</b> (adjective (incorrect comparative)): 'More bad' is incorrect because 'bad' is an irregular adjective and does not use 'more' to form the comparative.</li><li><b>more worse</b> (adjective (incorrect double comparative)): 'More worse' is incorrect because 'worse' is already the comparative form of 'bad.' Adding 'more' is grammatically wrong.</li><li><b>most bad</b> (adjective (incorrect superlative)): 'Most bad' is incorrect because 'most' is used for the superlative form, not the comparative, and 'bad' uses 'worst' as its superlative.</li><li><b>worse</b> (adjective (correct comparative)): 'Worse' is the correct comparative form of 'bad.' It is used to compare two things.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: 'bad' (positive), 'worse' (comparative), 'worst' (superlative). Irregular adjectives do not use 'more' or 'most' for their comparative and superlative forms.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Some government are … than others.' cần một tính từ so sánh hơn vì đang so sánh giữa các chính phủ. Dạng so sánh hơn đúng của 'bad' là 'worse.'<br><ul><li><b>more bad</b> (tính từ (so sánh hơn sai)): 'More bad' là sai vì 'bad' là tính từ bất quy tắc và không dùng 'more' để tạo dạng so sánh hơn.</li><li><b>more worse</b> (tính từ (so sánh hơn kép sai)): 'More worse' là sai vì 'worse' đã là dạng so sánh hơn của 'bad.' Thêm 'more' là sai ngữ pháp.</li><li><b>most bad</b> (tính từ (so sánh nhất sai)): 'Most bad' là sai vì 'most' dùng cho dạng so sánh nhất, không phải so sánh hơn, và 'bad' dùng 'worst' cho dạng so sánh nhất.</li><li><b>worse</b> (tính từ (so sánh hơn đúng)): 'Worse' là dạng so sánh hơn đúng của 'bad.' Dùng để so sánh hai đối tượng.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: 'bad' (nguyên mẫu), 'worse' (so sánh hơn), 'worst' (so sánh nhất). Tính từ bất quy tắc không dùng 'more' hoặc 'most' để tạo dạng so sánh.<br><br><b>Tạm dịch:</b> Một số chính phủ tệ hơn những chính phủ khác.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Some government are … than others.' requires a comparative adjective because it is comparing governments. The correct comparative form of 'bad' is 'worse.'<br><ul><li><b>more bad</b> (adjective (incorrect comparative)): 'More bad' is incorrect because 'bad' is an irregular adjective and does not use 'more' to form the comparative.</li><li><b>more worse</b> (adjective (incorrect double comparative)): 'More worse' is incorrect because 'worse' is already the comparative form of 'bad.' Adding 'more' is grammatically wrong.</li><li><b>most bad</b> (adjective (incorrect superlative)): 'Most bad' is incorrect because 'most' is used for the superlative form, not the comparative, and 'bad' uses 'worst' as its superlative.</li><li><b>worse</b> (adjective (correct comparative)): 'Worse' is the correct comparative form of 'bad.' It is used to compare two things.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: 'bad' (positive), 'worse' (comparative), 'worst' (superlative). Irregular adjectives do not use 'more' or 'most' for their comparative and superlative forms.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539debe",
+        "questionNumber": 18,
+        "questionText": "Some children are … than others.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "louder",
+            "raw": "louder",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "loudest",
+            "raw": "loudest",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more louder",
+            "raw": "more louder",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most loudly",
+            "raw": "most loudly",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Some children are … than others.' requires a comparative form because of the word 'than', which is used to compare two things. The adjective 'loud' should be changed to its comparative form to fit the sentence structure.<br><ul><li><b>louder</b> (comparative adjective): 'Louder' is the comparative form of the adjective 'loud', used to compare two things.</li><li><b>loudest</b> (superlative adjective): 'Loudest' is the superlative form of 'loud', used to compare more than two things or to show the highest degree.</li><li><b>more louder</b> (incorrect comparative): 'More louder' is incorrect because 'louder' is already a comparative form. We do not use 'more' with comparatives of short adjectives.</li><li><b>most loudly</b> (superlative adverb): 'Most loudly' is the superlative form of the adverb 'loudly', not the adjective 'loud'. It is not suitable here because the sentence needs an adjective, not an adverb.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives, add '-er' to form the comparative (e.g., loud → louder). Use 'than' to compare two things.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Some children are … than others.' cần một dạng so sánh hơn vì có từ 'than' dùng để so sánh hai đối tượng. Tính từ 'loud' cần được chuyển sang dạng so sánh hơn để phù hợp với cấu trúc câu.<br><ul><li><b>louder</b> (tính từ so sánh hơn): 'Louder' là dạng so sánh hơn của tính từ 'loud', dùng để so sánh hai đối tượng.</li><li><b>loudest</b> (tính từ so sánh nhất): 'Loudest' là dạng so sánh nhất của 'loud', dùng để so sánh nhiều hơn hai đối tượng hoặc chỉ mức độ cao nhất.</li><li><b>more louder</b> (so sánh hơn sai): 'More louder' là sai vì 'louder' đã là dạng so sánh hơn. Không dùng 'more' với các tính từ ngắn đã có đuôi '-er'.</li><li><b>most loudly</b> (trạng từ so sánh nhất): 'Most loudly' là dạng so sánh nhất của trạng từ 'loudly', không phải tính từ 'loud'. Không phù hợp vì câu cần tính từ, không phải trạng từ.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với tính từ ngắn, thêm '-er' để tạo dạng so sánh hơn (ví dụ: loud → louder). Dùng 'than' để so sánh hai đối tượng.<br><br><b>Tạm dịch:</b> Một số trẻ em ồn ào hơn những trẻ khác.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Some children are … than others.' requires a comparative form because of the word 'than', which is used to compare two things. The adjective 'loud' should be changed to its comparative form to fit the sentence structure.<br><ul><li><b>louder</b> (comparative adjective): 'Louder' is the comparative form of the adjective 'loud', used to compare two things.</li><li><b>loudest</b> (superlative adjective): 'Loudest' is the superlative form of 'loud', used to compare more than two things or to show the highest degree.</li><li><b>more louder</b> (incorrect comparative): 'More louder' is incorrect because 'louder' is already a comparative form. We do not use 'more' with comparatives of short adjectives.</li><li><b>most loudly</b> (superlative adverb): 'Most loudly' is the superlative form of the adverb 'loudly', not the adjective 'loud'. It is not suitable here because the sentence needs an adjective, not an adverb.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For short adjectives, add '-er' to form the comparative (e.g., loud → louder). Use 'than' to compare two things.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539debf",
+        "questionNumber": 19,
+        "questionText": "This is… than that one.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "interestinger",
+            "raw": "interestinger",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "more interest",
+            "raw": "more interest",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more interesting",
+            "raw": "more interesting",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "more interestly",
+            "raw": "more interestly",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'This is… than that one.' requires a comparative adjective because it is comparing two things. The correct comparative form of 'interesting' is 'more interesting', as 'interesting' is a multi-syllable adjective and forms the comparative with 'more'.<br><ul><li><b>interestinger</b> (adjective (incorrect comparative form)): 'Interestinger' is incorrect because 'interesting' does not form its comparative by adding '-er'.</li><li><b>more interest</b> (noun phrase): 'More interest' is incorrect because 'interest' is a noun, not an adjective, and the sentence requires an adjective.</li><li><b>more interesting</b> (comparative adjective): 'More interesting' is the correct comparative form of the adjective 'interesting'.</li><li><b>more interestly</b> (adverb (incorrect form)): 'More interestly' is incorrect because 'interestly' is not a word in English.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with two or more syllables (except some two-syllable adjectives ending in -y), use 'more' + adjective to form the comparative. Example: 'more beautiful', 'more interesting'. Structure: [Subject] + [be] + more + [adjective] + than + [object].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'This is… than that one.' cần một tính từ so sánh hơn vì đang so sánh hai đối tượng. Tính từ 'interesting' là tính từ dài (nhiều hơn 2 âm tiết), nên khi chuyển sang dạng so sánh hơn, ta dùng 'more' + tính từ, tức là 'more interesting'.<br><ul><li><b>interestinger</b> (tính từ (dạng so sánh sai)): 'Interestinger' là sai vì 'interesting' không chuyển sang so sánh hơn bằng cách thêm '-er'.</li><li><b>more interest</b> (cụm danh từ): 'More interest' là sai vì 'interest' là danh từ, trong khi câu cần một tính từ.</li><li><b>more interesting</b> (tính từ so sánh hơn): 'More interesting' là dạng so sánh hơn đúng của tính từ 'interesting'.</li><li><b>more interestly</b> (trạng từ (dạng sai)): 'More interestly' là sai vì 'interestly' không phải là một từ trong tiếng Anh.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ dài: Với các tính từ có hai âm tiết trở lên (trừ một số tính từ hai âm tiết kết thúc bằng -y), ta dùng 'more' + tính từ để tạo dạng so sánh hơn. Ví dụ: 'more beautiful', 'more interesting'. Cấu trúc: [Chủ ngữ] + [be] + more + [tính từ] + than + [đối tượng].<br><br><b>Tạm dịch:</b> This is more interesting than that one. --> Cái này thú vị hơn cái kia.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'This is… than that one.' requires a comparative adjective because it is comparing two things. The correct comparative form of 'interesting' is 'more interesting', as 'interesting' is a multi-syllable adjective and forms the comparative with 'more'.<br><ul><li><b>interestinger</b> (adjective (incorrect comparative form)): 'Interestinger' is incorrect because 'interesting' does not form its comparative by adding '-er'.</li><li><b>more interest</b> (noun phrase): 'More interest' is incorrect because 'interest' is a noun, not an adjective, and the sentence requires an adjective.</li><li><b>more interesting</b> (comparative adjective): 'More interesting' is the correct comparative form of the adjective 'interesting'.</li><li><b>more interestly</b> (adverb (incorrect form)): 'More interestly' is incorrect because 'interestly' is not a word in English.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with two or more syllables (except some two-syllable adjectives ending in -y), use 'more' + adjective to form the comparative. Example: 'more beautiful', 'more interesting'. Structure: [Subject] + [be] + more + [adjective] + than + [object].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539dec0",
+        "questionNumber": 20,
+        "questionText": "A desert is … than a jungle.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "D",
+            "text": "rier",
+            "raw": "drier",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "more drier",
+            "raw": "more drier",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more dry",
+            "raw": "more dry",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "more dryly",
+            "raw": "more dryly",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A desert is … than a jungle.' requires a comparative adjective to compare the dryness of a desert and a jungle. The adjective 'dry' forms its comparative as 'drier' (one-syllable adjectives ending in 'y' change 'y' to 'i' and add 'er').<br><ul><li><b>drier</b> (adjective (comparative)): Comparative form of 'dry', used to compare two things.</li><li><b>more drier</b> (adjective (incorrect comparative)): Incorrect double comparative; 'drier' is already comparative, so 'more' is not needed.</li><li><b>more dry</b> (adjective (incorrect comparative)): Incorrect; for one-syllable adjectives like 'dry', we use '-er' not 'more'.</li><li><b>more dryly</b> (adverb (incorrect form)): 'Dryly' is an adverb, not an adjective, so it cannot be used to compare nouns.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For one-syllable adjectives ending in 'y', change 'y' to 'i' and add 'er' (dry → drier). Structure: [A] is [comparative adjective] than [B].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'A desert is … than a jungle.' cần một tính từ so sánh hơn để so sánh độ khô giữa sa mạc và rừng rậm. Tính từ 'dry' (khô) khi chuyển sang so sánh hơn sẽ là 'drier' (các tính từ một âm tiết kết thúc bằng 'y' sẽ đổi 'y' thành 'i' và thêm 'er').<br><ul><li><b>drier</b> (tính từ (so sánh hơn)): Dạng so sánh hơn của 'dry', dùng để so sánh hai sự vật.</li><li><b>more drier</b> (tính từ (so sánh hơn sai)): Sai vì đây là dạng so sánh kép; 'drier' đã là so sánh hơn nên không cần thêm 'more'.</li><li><b>more dry</b> (tính từ (so sánh hơn sai)): Sai; với tính từ một âm tiết như 'dry', ta dùng '-er' thay vì 'more'.</li><li><b>more dryly</b> (trạng từ (dạng sai)): 'Dryly' là trạng từ, không phải tính từ nên không dùng để so sánh danh từ.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Với tính từ một âm tiết kết thúc bằng 'y', đổi 'y' thành 'i' và thêm 'er' (dry → drier). Cấu trúc: [A] is [tính từ so sánh hơn] than [B].<br><br><b>Tạm dịch:</b> A desert is drier than a jungle. --> Một sa mạc thì khô hơn một khu rừng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A desert is … than a jungle.' requires a comparative adjective to compare the dryness of a desert and a jungle. The adjective 'dry' forms its comparative as 'drier' (one-syllable adjectives ending in 'y' change 'y' to 'i' and add 'er').<br><ul><li><b>drier</b> (adjective (comparative)): Comparative form of 'dry', used to compare two things.</li><li><b>more drier</b> (adjective (incorrect comparative)): Incorrect double comparative; 'drier' is already comparative, so 'more' is not needed.</li><li><b>more dry</b> (adjective (incorrect comparative)): Incorrect; for one-syllable adjectives like 'dry', we use '-er' not 'more'.</li><li><b>more dryly</b> (adverb (incorrect form)): 'Dryly' is an adverb, not an adjective, so it cannot be used to compare nouns.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For one-syllable adjectives ending in 'y', change 'y' to 'i' and add 'er' (dry → drier). Structure: [A] is [comparative adjective] than [B].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539dec1",
+        "questionNumber": 21,
+        "questionText": "Bob is … than Mike.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "more knowledge",
+            "raw": "more knowledge",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "more knowledgeable",
+            "raw": "more knowledgeable",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "more knowledgeably",
+            "raw": "more knowledgeably",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most knowledgeable",
+            "raw": "most knowledgeable",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Bob is … than Mike.' requires a comparative adjective because it is comparing Bob and Mike. The structure for comparison is: subject + be + comparative adjective + than + object. The correct comparative form of the adjective 'knowledgeable' is 'more knowledgeable'.<br><ul><li><b>more knowledge</b> (noun phrase): 'Knowledge' is a noun, and 'more knowledge' is a noun phrase. It cannot be used after 'is' to describe a person in this comparative structure.</li><li><b>more knowledgeable</b> (comparative adjective): 'Knowledgeable' is an adjective meaning 'having knowledge'. The comparative form is 'more knowledgeable', which is correct for comparing two people.</li><li><b>more knowledgeably</b> (adverb): 'Knowledgeably' is an adverb, which describes how an action is done, not a person. It cannot be used after 'is' in this context.</li><li><b>most knowledgeable</b> (superlative adjective): 'Most knowledgeable' is the superlative form, used when comparing more than two people or things. Here, only two people are compared, so the comparative form is needed.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with three or more syllables, use 'more' + adjective (e.g., more intelligent, more beautiful, more knowledgeable). Structure: S + be + more + adjective + than + O.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Bob is … than Mike.' cần một tính từ so sánh hơn vì đang so sánh giữa Bob và Mike. Cấu trúc so sánh hơn là: chủ ngữ + be + tính từ so sánh hơn + than + tân ngữ. Dạng so sánh hơn của tính từ 'knowledgeable' là 'more knowledgeable'.<br><ul><li><b>more knowledge</b> (cụm danh từ): 'Knowledge' là danh từ, 'more knowledge' là cụm danh từ. Không thể dùng sau 'is' để mô tả người trong cấu trúc so sánh này.</li><li><b>more knowledgeable</b> (tính từ so sánh hơn): 'Knowledgeable' là tính từ, nghĩa là 'có kiến thức'. Dạng so sánh hơn là 'more knowledgeable', phù hợp để so sánh hai người.</li><li><b>more knowledgeably</b> (trạng từ): 'Knowledgeably' là trạng từ, dùng để miêu tả cách một hành động được thực hiện, không dùng để miêu tả người sau 'is' trong trường hợp này.</li><li><b>most knowledgeable</b> (tính từ so sánh nhất): 'Most knowledgeable' là dạng so sánh nhất, dùng khi so sánh từ ba người/vật trở lên. Ở đây chỉ so sánh hai người nên cần dùng dạng so sánh hơn.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Với tính từ có từ ba âm tiết trở lên, dùng 'more' + tính từ (ví dụ: more intelligent, more beautiful, more knowledgeable). Cấu trúc: S + be + more + adjective + than + O.<br><br><b>Tạm dịch:</b> Bob is more knowledgeable than Mike. --> Bob có kiến thức nhiều hơn Mike.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Bob is … than Mike.' requires a comparative adjective because it is comparing Bob and Mike. The structure for comparison is: subject + be + comparative adjective + than + object. The correct comparative form of the adjective 'knowledgeable' is 'more knowledgeable'.<br><ul><li><b>more knowledge</b> (noun phrase): 'Knowledge' is a noun, and 'more knowledge' is a noun phrase. It cannot be used after 'is' to describe a person in this comparative structure.</li><li><b>more knowledgeable</b> (comparative adjective): 'Knowledgeable' is an adjective meaning 'having knowledge'. The comparative form is 'more knowledgeable', which is correct for comparing two people.</li><li><b>more knowledgeably</b> (adverb): 'Knowledgeably' is an adverb, which describes how an action is done, not a person. It cannot be used after 'is' in this context.</li><li><b>most knowledgeable</b> (superlative adjective): 'Most knowledgeable' is the superlative form, used when comparing more than two people or things. Here, only two people are compared, so the comparative form is needed.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For adjectives with three or more syllables, use 'more' + adjective (e.g., more intelligent, more beautiful, more knowledgeable). Structure: S + be + more + adjective + than + O.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539dec2",
+        "questionNumber": 22,
+        "questionText": "The history test was … than I expected.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "hard",
+            "raw": "hard",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "harder",
+            "raw": "harder",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "hardest",
+            "raw": "hardest",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "more hardly",
+            "raw": "more hardly",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the difficulty of the history test to what was expected. The word 'than' is a clue that we need to use a comparative form of the adjective. The adjective 'hard' becomes 'harder' in the comparative form. Therefore, the correct answer is 'harder'.<br><ul><li><b>hard</b> (adjective): This is the base form of the adjective, used when not making a comparison.</li><li><b>harder</b> (comparative adjective): This is the comparative form of 'hard', used to compare two things.</li><li><b>hardest</b> (superlative adjective): This is the superlative form of 'hard', used to compare more than two things or to show the highest degree.</li><li><b>more hardly</b> (adverb): 'Hardly' is an adverb meaning 'barely' or 'almost not', and 'more hardly' is not a correct comparative form for this context.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: To compare two things, use the comparative form (adjective + -er or 'more' + adjective for longer words). Structure: [adjective + -er] + than.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang so sánh độ khó của bài kiểm tra lịch sử với những gì đã mong đợi. Từ 'than' là dấu hiệu cho thấy chúng ta cần dùng dạng so sánh hơn của tính từ. Tính từ 'hard' khi chuyển sang so sánh hơn sẽ là 'harder'. Vì vậy, đáp án đúng là 'harder'.<br><ul><li><b>hard</b> (tính từ): Đây là dạng nguyên mẫu của tính từ, dùng khi không so sánh.</li><li><b>harder</b> (tính từ so sánh hơn): Đây là dạng so sánh hơn của 'hard', dùng để so sánh hai đối tượng.</li><li><b>hardest</b> (tính từ so sánh nhất): Đây là dạng so sánh nhất của 'hard', dùng khi so sánh từ ba đối tượng trở lên hoặc để chỉ mức độ cao nhất.</li><li><b>more hardly</b> (trạng từ): 'Hardly' là trạng từ mang nghĩa 'hầu như không', và 'more hardly' không phải là dạng so sánh đúng trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Để so sánh hai đối tượng, dùng dạng so sánh hơn (tính từ + -er hoặc 'more' + tính từ với các từ dài). Cấu trúc: [tính từ + -er] + than.<br><br><b>Tạm dịch:</b> Bài kiểm tra lịch sử khó hơn tôi mong đợi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the difficulty of the history test to what was expected. The word 'than' is a clue that we need to use a comparative form of the adjective. The adjective 'hard' becomes 'harder' in the comparative form. Therefore, the correct answer is 'harder'.<br><ul><li><b>hard</b> (adjective): This is the base form of the adjective, used when not making a comparison.</li><li><b>harder</b> (comparative adjective): This is the comparative form of 'hard', used to compare two things.</li><li><b>hardest</b> (superlative adjective): This is the superlative form of 'hard', used to compare more than two things or to show the highest degree.</li><li><b>more hardly</b> (adverb): 'Hardly' is an adverb meaning 'barely' or 'almost not', and 'more hardly' is not a correct comparative form for this context.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: To compare two things, use the comparative form (adjective + -er or 'more' + adjective for longer words). Structure: [adjective + -er] + than.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539dec3",
+        "questionNumber": 23,
+        "questionText": "It’s a lot… in Florida than Maine during the winter.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "s warm as",
+            "raw": "as warm as",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "warm",
+            "raw": "warm",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "warmer",
+            "raw": "warmer",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "warmest",
+            "raw": "warmest",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It’s a lot… in Florida than Maine during the winter.' requires a comparative form because it is comparing the weather in Florida and Maine during the winter. The phrase 'a lot ... than' is a common structure used to emphasize the difference between two things, and it is typically followed by a comparative adjective.<br><ul><li><b>as warm as</b> (phrase): This is used for showing equality, not difference. The structure would be 'as warm as' without 'than', so it is incorrect here.</li><li><b>warm</b> (adjective): This is the base form of the adjective and does not show comparison. It cannot be used with 'than'.</li><li><b>warmer</b> (comparative adjective): This is the comparative form of 'warm', used to compare two things. The structure 'a lot warmer than' is correct and means 'much warmer than'.</li><li><b>warmest</b> (superlative adjective): This is the superlative form, used to compare more than two things or to show the highest degree. It is not used with 'than'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: To compare two things, use the comparative form (adjective + -er or 'more' + adjective for longer words). Structure: 'a lot/much + comparative adjective + than'. Example: 'It’s much colder in Alaska than in California.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'It’s a lot… in Florida than Maine during the winter.' cần một tính từ so sánh hơn vì câu này đang so sánh thời tiết giữa Florida và Maine vào mùa đông. Cụm 'a lot ... than' là cấu trúc thường dùng để nhấn mạnh sự khác biệt giữa hai đối tượng, và thường đi với tính từ so sánh hơn.<br><ul><li><b>as warm as</b> (cụm từ): Cụm này dùng để chỉ sự ngang bằng, không phải sự khác biệt. Cấu trúc đúng sẽ là 'as warm as' mà không có 'than', nên không phù hợp ở đây.</li><li><b>warm</b> (tính từ): Đây là dạng nguyên mẫu của tính từ, không thể hiện sự so sánh. Không thể dùng với 'than'.</li><li><b>warmer</b> (tính từ so sánh hơn): Đây là dạng so sánh hơn của 'warm', dùng để so sánh hai đối tượng. Cấu trúc 'a lot warmer than' là đúng và có nghĩa là 'ấm hơn nhiều so với'.</li><li><b>warmest</b> (tính từ so sánh nhất): Đây là dạng so sánh nhất, dùng để so sánh từ ba đối tượng trở lên hoặc chỉ mức độ cao nhất. Không dùng với 'than'.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ so sánh hơn: Để so sánh hai đối tượng, dùng dạng so sánh hơn (tính từ + -er hoặc 'more' + tính từ với từ dài). Cấu trúc: 'a lot/much + tính từ so sánh hơn + than'. Ví dụ: 'It’s much colder in Alaska than in California.'<br><br><b>Tạm dịch:</b> Florida ấm hơn nhiều so với Maine vào mùa đông.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It’s a lot… in Florida than Maine during the winter.' requires a comparative form because it is comparing the weather in Florida and Maine during the winter. The phrase 'a lot ... than' is a common structure used to emphasize the difference between two things, and it is typically followed by a comparative adjective.<br><ul><li><b>as warm as</b> (phrase): This is used for showing equality, not difference. The structure would be 'as warm as' without 'than', so it is incorrect here.</li><li><b>warm</b> (adjective): This is the base form of the adjective and does not show comparison. It cannot be used with 'than'.</li><li><b>warmer</b> (comparative adjective): This is the comparative form of 'warm', used to compare two things. The structure 'a lot warmer than' is correct and means 'much warmer than'.</li><li><b>warmest</b> (superlative adjective): This is the superlative form, used to compare more than two things or to show the highest degree. It is not used with 'than'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: To compare two things, use the comparative form (adjective + -er or 'more' + adjective for longer words). Structure: 'a lot/much + comparative adjective + than'. Example: 'It’s much colder in Alaska than in California.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "683923d48351bf002539dec4",
+        "questionNumber": 24,
+        "questionText": "Sugar is … than salt.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "s sweet as",
+            "raw": "as sweet as",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "more sweet",
+            "raw": "more sweet",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more sweeter",
+            "raw": "more sweeter",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "sweeter",
+            "raw": "sweeter",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Sugar is … than salt.' is comparing sugar and salt. In English, when comparing two things, we use the comparative form of adjectives. For most one-syllable adjectives and some two-syllable adjectives, we add '-er' to the adjective. The adjective 'sweet' is a one-syllable word, so its comparative form is 'sweeter'.<br><ul><li><b>as sweet as</b> (phrase): This is used for showing equality, not comparison. The structure is 'as + adjective + as', e.g., 'Sugar is as sweet as honey.'</li><li><b>more sweet</b> (comparative phrase): For most one-syllable adjectives, we do not use 'more' before the adjective. 'Sweet' becomes 'sweeter', not 'more sweet'.</li><li><b>more sweeter</b> (incorrect comparative): This is incorrect because it is a double comparative. We do not use both 'more' and '-er' together.</li><li><b>sweeter</b> (comparative adjective): This is the correct comparative form of 'sweet'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most one-syllable adjectives, add '-er' to form the comparative (e.g., tall → taller, sweet → sweeter).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Sugar is … than salt.' đang so sánh giữa đường và muối. Trong tiếng Anh, khi so sánh hai đối tượng, ta sử dụng dạng so sánh hơn của tính từ. Với các tính từ ngắn (một âm tiết) và một số tính từ hai âm tiết, ta thêm '-er' vào sau tính từ. 'Sweet' là tính từ một âm tiết, nên dạng so sánh hơn là 'sweeter'.<br><ul><li><b>as sweet as</b> (cụm từ): Cấu trúc này dùng để chỉ sự ngang bằng, không phải để so sánh hơn. Cấu trúc: 'as + tính từ + as', ví dụ: 'Sugar is as sweet as honey.'</li><li><b>more sweet</b> (cụm so sánh hơn): Với hầu hết các tính từ một âm tiết, không dùng 'more' trước tính từ. 'Sweet' chuyển thành 'sweeter', không phải 'more sweet'.</li><li><b>more sweeter</b> (so sánh hơn sai): Đây là dạng so sánh kép, sai ngữ pháp. Không dùng cả 'more' và '-er' cùng lúc.</li><li><b>sweeter</b> (tính từ so sánh hơn): Đây là dạng so sánh hơn đúng của 'sweet'.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh hơn của tính từ: Với hầu hết tính từ một âm tiết, thêm '-er' để tạo dạng so sánh hơn (ví dụ: tall → taller, sweet → sweeter).<br><br><b>Tạm dịch:</b> Sugar is sweeter than salt. → Đường ngọt hơn muối.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Sugar is … than salt.' is comparing sugar and salt. In English, when comparing two things, we use the comparative form of adjectives. For most one-syllable adjectives and some two-syllable adjectives, we add '-er' to the adjective. The adjective 'sweet' is a one-syllable word, so its comparative form is 'sweeter'.<br><ul><li><b>as sweet as</b> (phrase): This is used for showing equality, not comparison. The structure is 'as + adjective + as', e.g., 'Sugar is as sweet as honey.'</li><li><b>more sweet</b> (comparative phrase): For most one-syllable adjectives, we do not use 'more' before the adjective. 'Sweet' becomes 'sweeter', not 'more sweet'.</li><li><b>more sweeter</b> (incorrect comparative): This is incorrect because it is a double comparative. We do not use both 'more' and '-er' together.</li><li><b>sweeter</b> (comparative adjective): This is the correct comparative form of 'sweet'.</li></ul><b>Related structure or vocabulary:</b> Comparative adjectives: For most one-syllable adjectives, add '-er' to form the comparative (e.g., tall → taller, sweet → sweeter).<br><br>"
+      }
+    }
+  ]
+}

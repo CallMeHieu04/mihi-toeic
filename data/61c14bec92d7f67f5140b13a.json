@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b13a",
+  "title": "Từ vựng: Order Supplies",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b1",
+        "questionNumber": 1,
+        "questionText": "diversify",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev193.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/diversify.mp3",
+        "choices": [
+          {
+            "letter": "D",
+            "text": "ifferent; made up of distinct qualities.",
+            "raw": "different; made up of distinct qualities.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<p>The stationery department plans to <strong>diversify </strong>its offering of paper products.</p>\n",
+        "explanationViHtml": "<p>Bộ phận văn ph&ograve;ng phẩm c&oacute; kế hoạch <strong>đa dạng</strong> <strong>h&oacute;a </strong>c&aacute;c sản phẩm giấy.</p>\n",
+        "transcriptHtml": "<p>The stationery department plans to <strong>diversify </strong>its offering of paper products.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b2",
+        "questionNumber": 2,
+        "questionText": "enterprise",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev194.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/enterprise.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "business; a large project",
+            "raw": "a business; a large project",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The new <strong>enterprise </strong>quickly established an account with the office supply store.</p>\n",
+        "explanationViHtml": "<p><strong>Doanh nghiệp</strong> mới nhanh ch&oacute;ng thiết lập được t&agrave;i khoản với cửa h&agrave;ng cung cấp văn ph&ograve;ng phẩm.</p>\n",
+        "transcriptHtml": "<p>The new <strong>enterprise </strong>quickly established an account with the office supply store.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b3",
+        "questionNumber": 3,
+        "questionText": "essentially",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev195.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/essentially.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "necessarily, basically, finally",
+            "raw": "necessarily, basically, finally",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>There are three&nbsp;<strong>essentially</strong> different&nbsp;ways of tackling the problem.</p>\n",
+        "explanationViHtml": "<p>C&oacute; ba c&aacute;ch <strong>cơ bản</strong> kh&aacute;c nhau để giải quyết vấn đề.</p>\n",
+        "transcriptHtml": "<p>There are three&nbsp;<strong>essentially</strong> different&nbsp;ways of tackling the problem.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b4",
+        "questionNumber": 4,
+        "questionText": "everyday",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev196.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/everyday.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "routine, common, ordinary",
+            "raw": "routine, common, ordinary",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Though they are more expensive, these folders will withstand <strong>everyday </strong>wear and tear.</p>\n",
+        "explanationViHtml": "<p>Mặc d&ugrave; đắt hơn, nhưng những chiếc kẹp n&agrave;y c&oacute; thể chịu được sự hao m&ograve;n<strong> h&agrave;ng ng&agrave;y</strong>.</p>\n",
+        "transcriptHtml": "<p>Though they are more expensive, these folders will withstand <strong>everyday </strong>wear and tear.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b5",
+        "questionNumber": 5,
+        "questionText": "function",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev197.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/function.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to perform tasks",
+            "raw": "to perform tasks",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The daily <strong>functioning </strong>of this office has been compromised.</p>\n",
+        "explanationViHtml": "<p><strong>Hoạt động </strong>h&agrave;ng ng&agrave;y của văn ph&ograve;ng n&agrave;y đ&atilde; bị ảnh hưởng.</p>\n",
+        "transcriptHtml": "<p>The daily <strong>functioning </strong>of this office has been compromised.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b6",
+        "questionNumber": 6,
+        "questionText": "maintain",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev198.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/maintain.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to continue; to support, to sustain",
+            "raw": "to continue; to support, to sustain",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I&rsquo;ve been <strong>maintaining </strong>a list of office supplies that are in greatest demand.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i đ&atilde; <strong>giữ lại </strong>một loạt c&aacute;c đồ d&ugrave;ng văn ph&ograve;ng c&oacute; nhu cầu cao nhất.</p>\n",
+        "transcriptHtml": "<p>I&rsquo;ve been <strong>maintaining </strong>a list of office supplies that are in greatest demand.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b7",
+        "questionNumber": 7,
+        "questionText": "obtain",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev199.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/obtain.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to acquire",
+            "raw": "to acquire",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I&rsquo;ve been trying to <strong>obtain</strong> a list of supplies from the administrator for three weeks now.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i đ&atilde; cố gắng<strong> xin</strong> danh s&aacute;ch đồ d&ugrave;ng từ người quản l&yacute; trong ba tuần nay.</p>\n",
+        "transcriptHtml": "<p>I&rsquo;ve been trying to <strong>obtain</strong> a list of supplies from the administrator for three weeks now.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b8",
+        "questionNumber": 8,
+        "questionText": "prerequisite",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev200.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/prerequisite.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "something that is required or necessary as a prior condition",
+            "raw": "something that is required or necessary as a prior condition",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>One of the <strong>prerequisites </strong>for this job is competence in bookkeeping.</p>\n",
+        "explanationViHtml": "<p>Một trong những<strong> điều kiện ti&ecirc;n quyết</strong> cho c&ocirc;ng việc n&agrave;y l&agrave; năng lực ghi sổ kế to&aacute;n.</p>\n",
+        "transcriptHtml": "<p>One of the <strong>prerequisites </strong>for this job is competence in bookkeeping.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b9",
+        "questionNumber": 9,
+        "questionText": "quality",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev201.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/quality.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "distinguishing characteristic; a degree of excellence",
+            "raw": "a distinguishing characteristic; a degree of excellence",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The most important <strong>qualities </strong>we look for in a supplier are reliability and quick response.</p>\n",
+        "explanationViHtml": "<p>Những <strong>phẩm chất </strong>quan trọng nhất m&agrave; ch&uacute;ng t&ocirc;i t&igrave;m kiếm ở một nh&agrave; cung cấp l&agrave; độ tin cậy v&agrave; phản hồi nhanh ch&oacute;ng.</p>\n",
+        "transcriptHtml": "<p>The most important <strong>qualities </strong>we look for in a supplier are reliability and quick response.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1ba",
+        "questionNumber": 10,
+        "questionText": "smooth",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev202.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/smooth.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "without difficulties; deliberately polite and agreeable in order to win favor",
+            "raw": "without difficulties; deliberately polite and agreeable in order to win favor",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p data-pm-slice=\"1 1 []\">We had a very <strong>smooth </strong>flight with no turbulence at all.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; c&oacute; một chuyến bay rất <strong>&ecirc;m ả</strong>, kh&ocirc;ng hề c&oacute; sự nhiễu động n&agrave;o cả.</p>\n",
+        "transcriptHtml": "<p data-pm-slice=\"1 1 []\">We had a very <strong>smooth </strong>flight with no turbulence at all.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1bb",
+        "questionNumber": 11,
+        "questionText": "source",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev203.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/source.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the origin",
+            "raw": "the origin",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I can&#39;t tell you the <strong>source </strong>of this information.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i kh&ocirc;ng thể cho bạn biết <strong>nguồn gốc</strong> của th&ocirc;ng tin n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>I can&#39;t tell you the <strong>source </strong>of this information.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1bc",
+        "questionNumber": 12,
+        "questionText": "stationery",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev204.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/stationery.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "writing paper and envelopes",
+            "raw": "writing paper and envelopes",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We do not have enough <strong>stationery</strong>, so please order some more.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i kh&ocirc;ng c&oacute; đủ<strong> đồ d&ugrave;ng văn ph&ograve;ng phẩm</strong>, v&igrave; vậy h&atilde;y đặt th&ecirc;m nh&eacute;.</p>\n",
+        "transcriptHtml": "<p>We do not have enough <strong>stationery</strong>, so please order some more.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bed92d7f67f5140b1b1",
+      "word": "diversify",
+      "phonetic": "/daɪˈvɜːrsɪfaɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev193.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/diversify.mp3",
+      "meaningVi": "đa dạng",
+      "meaningEn": "different; made up of distinct qualities.",
+      "exampleEnHtml": "<p>The stationery department plans to <strong>diversify </strong>its offering of paper products.</p>\n",
+      "exampleViHtml": "<p>Bộ phận văn ph&ograve;ng phẩm c&oacute; kế hoạch <strong>đa dạng</strong> <strong>h&oacute;a </strong>c&aacute;c sản phẩm giấy.</p>\n",
+      "exampleEn": "The stationery department plans to diversify its offering of paper products.",
+      "exampleVi": "Bộ phận văn phòng phẩm có kế hoạch đa dạng hóa các sản phẩm giấy."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b2",
+      "word": "enterprise",
+      "phonetic": "/ˈentərpraɪz/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev194.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/enterprise.mp3",
+      "meaningVi": "Doanh nghiệp",
+      "meaningEn": "a business; a large project",
+      "exampleEnHtml": "<p>The new <strong>enterprise </strong>quickly established an account with the office supply store.</p>\n",
+      "exampleViHtml": "<p><strong>Doanh nghiệp</strong> mới nhanh ch&oacute;ng thiết lập được t&agrave;i khoản với cửa h&agrave;ng cung cấp văn ph&ograve;ng phẩm.</p>\n",
+      "exampleEn": "The new enterprise quickly established an account with the office supply store.",
+      "exampleVi": "Doanh nghiệp mới nhanh chóng thiết lập được tài khoản với cửa hàng cung cấp văn phòng phẩm."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b3",
+      "word": "essentially",
+      "phonetic": "/ɪˈsenʃəli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev195.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/essentially.mp3",
+      "meaningVi": "cơ bản",
+      "meaningEn": "necessarily, basically, finally",
+      "exampleEnHtml": "<p>There are three&nbsp;<strong>essentially</strong> different&nbsp;ways of tackling the problem.</p>\n",
+      "exampleViHtml": "<p>C&oacute; ba c&aacute;ch <strong>cơ bản</strong> kh&aacute;c nhau để giải quyết vấn đề.</p>\n",
+      "exampleEn": "There are three essentially different ways of tackling the problem.",
+      "exampleVi": "Có ba cách cơ bản khác nhau để giải quyết vấn đề."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b4",
+      "word": "everyday",
+      "phonetic": "/ˈevrideɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev196.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/everyday.mp3",
+      "meaningVi": "hàng ngày",
+      "meaningEn": "routine, common, ordinary",
+      "exampleEnHtml": "<p>Though they are more expensive, these folders will withstand <strong>everyday </strong>wear and tear.</p>\n",
+      "exampleViHtml": "<p>Mặc d&ugrave; đắt hơn, nhưng những chiếc kẹp n&agrave;y c&oacute; thể chịu được sự hao m&ograve;n<strong> h&agrave;ng ng&agrave;y</strong>.</p>\n",
+      "exampleEn": "Though they are more expensive, these folders will withstand everyday wear and tear.",
+      "exampleVi": "Mặc dù đắt hơn, nhưng những chiếc kẹp này có thể chịu được sự hao mòn hàng ngày."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b5",
+      "word": "function",
+      "phonetic": "/ˈfʌŋkʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev197.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/function.mp3",
+      "meaningVi": "Hoạt động",
+      "meaningEn": "to perform tasks",
+      "exampleEnHtml": "<p>The daily <strong>functioning </strong>of this office has been compromised.</p>\n",
+      "exampleViHtml": "<p><strong>Hoạt động </strong>h&agrave;ng ng&agrave;y của văn ph&ograve;ng n&agrave;y đ&atilde; bị ảnh hưởng.</p>\n",
+      "exampleEn": "The daily functioning of this office has been compromised.",
+      "exampleVi": "Hoạt động hàng ngày của văn phòng này đã bị ảnh hưởng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b6",
+      "word": "maintain",
+      "phonetic": "/meɪnˈteɪn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev198.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/maintain.mp3",
+      "meaningVi": "giữ lại",
+      "meaningEn": "to continue; to support, to sustain",
+      "exampleEnHtml": "<p>I&rsquo;ve been <strong>maintaining </strong>a list of office supplies that are in greatest demand.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i đ&atilde; <strong>giữ lại </strong>một loạt c&aacute;c đồ d&ugrave;ng văn ph&ograve;ng c&oacute; nhu cầu cao nhất.</p>\n",
+      "exampleEn": "I’ve been maintaining a list of office supplies that are in greatest demand.",
+      "exampleVi": "Tôi đã giữ lại một loạt các đồ dùng văn phòng có nhu cầu cao nhất."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b7",
+      "word": "obtain",
+      "phonetic": "/əbˈteɪn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev199.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/obtain.mp3",
+      "meaningVi": "xin",
+      "meaningEn": "to acquire",
+      "exampleEnHtml": "<p>I&rsquo;ve been trying to <strong>obtain</strong> a list of supplies from the administrator for three weeks now.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i đ&atilde; cố gắng<strong> xin</strong> danh s&aacute;ch đồ d&ugrave;ng từ người quản l&yacute; trong ba tuần nay.</p>\n",
+      "exampleEn": "I’ve been trying to obtain a list of supplies from the administrator for three weeks now.",
+      "exampleVi": "Tôi đã cố gắng xin danh sách đồ dùng từ người quản lý trong ba tuần nay."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b8",
+      "word": "prerequisite",
+      "phonetic": "/ˌpriːˈrekwəzɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev200.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/prerequisite.mp3",
+      "meaningVi": "điều kiện tiên quyết",
+      "meaningEn": "something that is required or necessary as a prior condition",
+      "exampleEnHtml": "<p>One of the <strong>prerequisites </strong>for this job is competence in bookkeeping.</p>\n",
+      "exampleViHtml": "<p>Một trong những<strong> điều kiện ti&ecirc;n quyết</strong> cho c&ocirc;ng việc n&agrave;y l&agrave; năng lực ghi sổ kế to&aacute;n.</p>\n",
+      "exampleEn": "One of the prerequisites for this job is competence in bookkeeping.",
+      "exampleVi": "Một trong những điều kiện tiên quyết cho công việc này là năng lực ghi sổ kế toán."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b9",
+      "word": "quality",
+      "phonetic": "/ˈkwɑːləti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev201.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/quality.mp3",
+      "meaningVi": "phẩm chất",
+      "meaningEn": "a distinguishing characteristic; a degree of excellence",
+      "exampleEnHtml": "<p>The most important <strong>qualities </strong>we look for in a supplier are reliability and quick response.</p>\n",
+      "exampleViHtml": "<p>Những <strong>phẩm chất </strong>quan trọng nhất m&agrave; ch&uacute;ng t&ocirc;i t&igrave;m kiếm ở một nh&agrave; cung cấp l&agrave; độ tin cậy v&agrave; phản hồi nhanh ch&oacute;ng.</p>\n",
+      "exampleEn": "The most important qualities we look for in a supplier are reliability and quick response.",
+      "exampleVi": "Những phẩm chất quan trọng nhất mà chúng tôi tìm kiếm ở một nhà cung cấp là độ tin cậy và phản hồi nhanh chóng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1ba",
+      "word": "smooth",
+      "phonetic": "/smuːð/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev202.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/smooth.mp3",
+      "meaningVi": "êm ả",
+      "meaningEn": "without difficulties; deliberately polite and agreeable in order to win favor",
+      "exampleEnHtml": "<p data-pm-slice=\"1 1 []\">We had a very <strong>smooth </strong>flight with no turbulence at all.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; c&oacute; một chuyến bay rất <strong>&ecirc;m ả</strong>, kh&ocirc;ng hề c&oacute; sự nhiễu động n&agrave;o cả.</p>\n",
+      "exampleEn": "We had a very smooth flight with no turbulence at all.",
+      "exampleVi": "Chúng tôi đã có một chuyến bay rất êm ả, không hề có sự nhiễu động nào cả."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1bb",
+      "word": "source",
+      "phonetic": "/sɔːrs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev203.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/source.mp3",
+      "meaningVi": "nguồn gốc",
+      "meaningEn": "the origin",
+      "exampleEnHtml": "<p>I can&#39;t tell you the <strong>source </strong>of this information.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i kh&ocirc;ng thể cho bạn biết <strong>nguồn gốc</strong> của th&ocirc;ng tin n&agrave;y.</p>\n",
+      "exampleEn": "I can't tell you the source of this information.",
+      "exampleVi": "Tôi không thể cho bạn biết nguồn gốc của thông tin này."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1bc",
+      "word": "stationery",
+      "phonetic": "/ˈsteɪʃəneri/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev204.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/stationery.mp3",
+      "meaningVi": "đồ dùng văn phòng phẩm",
+      "meaningEn": "writing paper and envelopes",
+      "exampleEnHtml": "<p>We do not have enough <strong>stationery</strong>, so please order some more.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i kh&ocirc;ng c&oacute; đủ<strong> đồ d&ugrave;ng văn ph&ograve;ng phẩm</strong>, v&igrave; vậy h&atilde;y đặt th&ecirc;m nh&eacute;.</p>\n",
+      "exampleEn": "We do not have enough stationery, so please order some more.",
+      "exampleVi": "Chúng tôi không có đủ đồ dùng văn phòng phẩm, vì vậy hãy đặt thêm nhé."
+    }
+  ],
+  "totalFlashcards": 12
+}

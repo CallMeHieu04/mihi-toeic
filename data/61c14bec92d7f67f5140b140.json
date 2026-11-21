@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b140",
+  "title": "Từ vựng: Inventory",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b235",
+        "questionNumber": 1,
+        "questionText": "adjustment",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev229.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/adjustment.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to change in order to match or fit; to cause to correspond",
+            "raw": "to change in order to match or fit; to cause to correspond",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I&#39;ve made a few <strong>adjustments</strong> to the design.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i đ&atilde; thực hiện một số <strong>điều chỉnh</strong> trong thiết kế.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>I&#39;ve made a few <strong>adjustments</strong> to the design.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b236",
+        "questionNumber": 2,
+        "questionText": "automatically",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev230.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/automatically.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "operating independently",
+            "raw": "operating independently",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The heating switches off <strong>automatically.</strong></p>\n",
+        "explanationViHtml": "<p>Hệ thống sưởi <strong>tự động</strong> tắt.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The heating switches off <strong>automatically.</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b237",
+        "questionNumber": 3,
+        "questionText": "crucial",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev231.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/crucial.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "extremely significant or important",
+            "raw": "extremely significant or important",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Inventory is a <strong>crucial</strong> process and must be taken seriously by all staff.</p>\n",
+        "explanationViHtml": "<p>Kiểm k&ecirc; l&agrave; một qu&aacute; tr&igrave;nh <strong>quan trọng</strong> v&agrave; phải được thực hiện nghi&ecirc;m t&uacute;c bởi tất cả nh&acirc;n vi&ecirc;n.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Inventory is a <strong>crucial</strong> process and must be taken seriously by all staff.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b238",
+        "questionNumber": 4,
+        "questionText": "discrepancy",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev232.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/discrepancy.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "divergence or disagreement",
+            "raw": "a divergence or disagreement",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The<strong> discrepancy</strong> between the two counts was easily explained.</p>\n",
+        "explanationViHtml": "<p><strong>Sự kh&aacute;c biệt</strong> giữa hai số lượng được giải th&iacute;ch dễ d&agrave;ng.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The<strong> discrepancy</strong> between the two counts was easily explained.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b239",
+        "questionNumber": 5,
+        "questionText": "disturb",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev233.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/disturb.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to interfere with; to interrupt",
+            "raw": "to interfere with; to interrupt",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Let&lsquo;s see how many products we can count in advance of inventory so we <strong>disturb</strong> fewer customers.</p>\n",
+        "explanationViHtml": "<p>H&atilde;y xem ch&uacute;ng ta c&oacute; thể đếm trước bao nhi&ecirc;u sản phẩm trong kho để &iacute;t <strong>l&agrave;m phiền</strong> kh&aacute;ch h&agrave;ng hơn.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Let&lsquo;s see how many products we can count in advance of inventory so we <strong>disturb</strong> fewer customers.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b23a",
+        "questionNumber": 6,
+        "questionText": "liability",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev234.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/liability.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n obligation; a responsibility",
+            "raw": "an obligation; a responsibility",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The store&#39;s insured <strong>liability</strong> protects against theft and damaged inventory.</p>\n",
+        "explanationViHtml": "<p><strong>Tr&aacute;ch nhiệm</strong> bảo hiểm của cửa h&agrave;ng bảo vệ khỏi h&agrave;nh vi trộm cắp v&agrave; h&agrave;ng tồn kho bị hư hỏng.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The store&#39;s insured <strong>liability</strong> protects against theft and damaged inventory.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b23b",
+        "questionNumber": 7,
+        "questionText": "reflection",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev235.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reflection.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "likeness, an image",
+            "raw": "a likeness, an image",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Your clothes are often a<strong> reflection</strong> of your personality.</p>\n",
+        "explanationViHtml": "<p>Quần &aacute;o của bạn thường <strong>phản &aacute;nh</strong> t&iacute;nh c&aacute;ch của bạn.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Your clothes are often a<strong> reflection</strong> of your personality.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b23c",
+        "questionNumber": 8,
+        "questionText": "run",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev236.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/run.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to operate",
+            "raw": "to operate",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>As long as the computer is <strong>running</strong>, you can keep adding new data.</p>\n",
+        "explanationViHtml": "<p>Miễn l&agrave; m&aacute;y t&iacute;nh <strong>đang chạy</strong>, bạn c&oacute; thể tiếp tục th&ecirc;m dữ liệu mới.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>As long as the computer is <strong>running</strong>, you can keep adding new data.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b23d",
+        "questionNumber": 9,
+        "questionText": "scan",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev237.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/scan.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to look over quickly",
+            "raw": "to look over quickly",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The computer&rsquo;s optical disk <strong>scanned</strong> in the price and ordering information.</p>\n",
+        "explanationViHtml": "<p>Đĩa quang của m&aacute;y t&iacute;nh <strong>qu&eacute;t</strong> th&ocirc;ng tin về gi&aacute; cả v&agrave; đặt h&agrave;ng.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The computer&rsquo;s optical disk <strong>scanned</strong> in the price and ordering information.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b23e",
+        "questionNumber": 10,
+        "questionText": "subtract",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev238.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/subtract.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to take away; to deduct",
+            "raw": "to take away; to deduct",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Once you ring up an item, the computer automatically <strong>subtracts</strong> it from the inventory log.</p>\n",
+        "explanationViHtml": "<p>Khi bạn gọi một mặt h&agrave;ng, m&aacute;y t&iacute;nh sẽ tự động <b>x&oacute;a</b>&nbsp;n&oacute; khỏi nhật k&yacute; kiểm k&ecirc;.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Once you ring up an item, the computer automatically <strong>subtracts</strong> it from the inventory log.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b23f",
+        "questionNumber": 11,
+        "questionText": "tedious",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev239.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/tedious.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "tiresome by reason of length, slowness, or dullness; boring",
+            "raw": "tiresome by reason of length, slowness, or dullness; boring",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>This may be <strong>tedious</strong> work but you will be glad the inventory is accurate when you hit the busy holiday sales season.</p>\n",
+        "explanationViHtml": "<p>Đ&acirc;y c&oacute; thể l&agrave; c&ocirc;ng việc <strong>tẻ nhạt</strong> nhưng bạn sẽ rất vui v&igrave; lượng h&agrave;ng tồn kho lu&ocirc;n ch&iacute;nh x&aacute;c khi bạn bước v&agrave;o m&ugrave;a b&aacute;n h&agrave;ng bận rộn trong dịp nghỉ lễ.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>This may be <strong>tedious</strong> work but you will be glad the inventory is accurate when you hit the busy holiday sales season.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b240",
+        "questionNumber": 12,
+        "questionText": "verify",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev240.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/verify.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to prove the truth of",
+            "raw": "to prove the truth of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We have no way of <strong>verifying</strong> his story.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i kh&ocirc;ng c&oacute; c&aacute;ch n&agrave;o để <strong>x&aacute;c minh</strong> c&acirc;u chuyện của anh ấy.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>We have no way of <strong>verifying</strong> his story.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b235",
+      "word": "adjustment",
+      "phonetic": "/əˈdʒʌstmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev229.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/adjustment.mp3",
+      "meaningVi": "điều chỉnh",
+      "meaningEn": "to change in order to match or fit; to cause to correspond",
+      "exampleEnHtml": "<p>I&#39;ve made a few <strong>adjustments</strong> to the design.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i đ&atilde; thực hiện một số <strong>điều chỉnh</strong> trong thiết kế.<br />\n&nbsp;</p>\n",
+      "exampleEn": "I've made a few adjustments to the design.",
+      "exampleVi": "Tôi đã thực hiện một số điều chỉnh trong thiết kế.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b236",
+      "word": "automatically",
+      "phonetic": "/ˌɔːtəˈmætɪkli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev230.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/automatically.mp3",
+      "meaningVi": "tự động",
+      "meaningEn": "operating independently",
+      "exampleEnHtml": "<p>The heating switches off <strong>automatically.</strong></p>\n",
+      "exampleViHtml": "<p>Hệ thống sưởi <strong>tự động</strong> tắt.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The heating switches off automatically.",
+      "exampleVi": "Hệ thống sưởi tự động tắt.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b237",
+      "word": "crucial",
+      "phonetic": "/ˈkruːʃl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev231.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/crucial.mp3",
+      "meaningVi": "quan trọng",
+      "meaningEn": "extremely significant or important",
+      "exampleEnHtml": "<p>Inventory is a <strong>crucial</strong> process and must be taken seriously by all staff.</p>\n",
+      "exampleViHtml": "<p>Kiểm k&ecirc; l&agrave; một qu&aacute; tr&igrave;nh <strong>quan trọng</strong> v&agrave; phải được thực hiện nghi&ecirc;m t&uacute;c bởi tất cả nh&acirc;n vi&ecirc;n.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Inventory is a crucial process and must be taken seriously by all staff.",
+      "exampleVi": "Kiểm kê là một quá trình quan trọng và phải được thực hiện nghiêm túc bởi tất cả nhân viên.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b238",
+      "word": "discrepancy",
+      "phonetic": "/dɪsˈkrepənsi/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev232.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/discrepancy.mp3",
+      "meaningVi": "Sự khác biệt",
+      "meaningEn": "a divergence or disagreement",
+      "exampleEnHtml": "<p>The<strong> discrepancy</strong> between the two counts was easily explained.</p>\n",
+      "exampleViHtml": "<p><strong>Sự kh&aacute;c biệt</strong> giữa hai số lượng được giải th&iacute;ch dễ d&agrave;ng.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The discrepancy between the two counts was easily explained.",
+      "exampleVi": "Sự khác biệt giữa hai số lượng được giải thích dễ dàng.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b239",
+      "word": "disturb",
+      "phonetic": "/dɪˈstɜːrb/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev233.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/disturb.mp3",
+      "meaningVi": "làm phiền",
+      "meaningEn": "to interfere with; to interrupt",
+      "exampleEnHtml": "<p>Let&lsquo;s see how many products we can count in advance of inventory so we <strong>disturb</strong> fewer customers.</p>\n",
+      "exampleViHtml": "<p>H&atilde;y xem ch&uacute;ng ta c&oacute; thể đếm trước bao nhi&ecirc;u sản phẩm trong kho để &iacute;t <strong>l&agrave;m phiền</strong> kh&aacute;ch h&agrave;ng hơn.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Let‘s see how many products we can count in advance of inventory so we disturb fewer customers.",
+      "exampleVi": "Hãy xem chúng ta có thể đếm trước bao nhiêu sản phẩm trong kho để ít làm phiền khách hàng hơn.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b23a",
+      "word": "liability",
+      "phonetic": "/ˌlaɪəˈbɪləti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev234.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/liability.mp3",
+      "meaningVi": "Trách nhiệm",
+      "meaningEn": "an obligation; a responsibility",
+      "exampleEnHtml": "<p>The store&#39;s insured <strong>liability</strong> protects against theft and damaged inventory.</p>\n",
+      "exampleViHtml": "<p><strong>Tr&aacute;ch nhiệm</strong> bảo hiểm của cửa h&agrave;ng bảo vệ khỏi h&agrave;nh vi trộm cắp v&agrave; h&agrave;ng tồn kho bị hư hỏng.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The store's insured liability protects against theft and damaged inventory.",
+      "exampleVi": "Trách nhiệm bảo hiểm của cửa hàng bảo vệ khỏi hành vi trộm cắp và hàng tồn kho bị hư hỏng.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b23b",
+      "word": "reflection",
+      "phonetic": "/rɪˈflekʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev235.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reflection.mp3",
+      "meaningVi": "phản ánh",
+      "meaningEn": "a likeness, an image",
+      "exampleEnHtml": "<p>Your clothes are often a<strong> reflection</strong> of your personality.</p>\n",
+      "exampleViHtml": "<p>Quần &aacute;o của bạn thường <strong>phản &aacute;nh</strong> t&iacute;nh c&aacute;ch của bạn.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Your clothes are often a reflection of your personality.",
+      "exampleVi": "Quần áo của bạn thường phản ánh tính cách của bạn.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b23c",
+      "word": "run",
+      "phonetic": "/rʌn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev236.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/run.mp3",
+      "meaningVi": "đang chạy",
+      "meaningEn": "to operate",
+      "exampleEnHtml": "<p>As long as the computer is <strong>running</strong>, you can keep adding new data.</p>\n",
+      "exampleViHtml": "<p>Miễn l&agrave; m&aacute;y t&iacute;nh <strong>đang chạy</strong>, bạn c&oacute; thể tiếp tục th&ecirc;m dữ liệu mới.<br />\n&nbsp;</p>\n",
+      "exampleEn": "As long as the computer is running, you can keep adding new data.",
+      "exampleVi": "Miễn là máy tính đang chạy, bạn có thể tiếp tục thêm dữ liệu mới.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b23d",
+      "word": "scan",
+      "phonetic": "/skæn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev237.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/scan.mp3",
+      "meaningVi": "quét",
+      "meaningEn": "to look over quickly",
+      "exampleEnHtml": "<p>The computer&rsquo;s optical disk <strong>scanned</strong> in the price and ordering information.</p>\n",
+      "exampleViHtml": "<p>Đĩa quang của m&aacute;y t&iacute;nh <strong>qu&eacute;t</strong> th&ocirc;ng tin về gi&aacute; cả v&agrave; đặt h&agrave;ng.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The computer’s optical disk scanned in the price and ordering information.",
+      "exampleVi": "Đĩa quang của máy tính quét thông tin về giá cả và đặt hàng.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b23e",
+      "word": "subtract",
+      "phonetic": "/səbˈtrækt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev238.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/subtract.mp3",
+      "meaningVi": "Khi bạn gọi một mặt h&agrave;ng, m&aacute;y t&iacute;nh sẽ t",
+      "meaningEn": "to take away; to deduct",
+      "exampleEnHtml": "<p>Once you ring up an item, the computer automatically <strong>subtracts</strong> it from the inventory log.</p>\n",
+      "exampleViHtml": "<p>Khi bạn gọi một mặt h&agrave;ng, m&aacute;y t&iacute;nh sẽ tự động <b>x&oacute;a</b>&nbsp;n&oacute; khỏi nhật k&yacute; kiểm k&ecirc;.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Once you ring up an item, the computer automatically subtracts it from the inventory log.",
+      "exampleVi": "Khi bạn gọi một mặt hàng, máy tính sẽ tự động xóa nó khỏi nhật ký kiểm kê.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b23f",
+      "word": "tedious",
+      "phonetic": "/ˈtiːdiəs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev239.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/tedious.mp3",
+      "meaningVi": "tẻ nhạt",
+      "meaningEn": "tiresome by reason of length, slowness, or dullness; boring",
+      "exampleEnHtml": "<p>This may be <strong>tedious</strong> work but you will be glad the inventory is accurate when you hit the busy holiday sales season.</p>\n",
+      "exampleViHtml": "<p>Đ&acirc;y c&oacute; thể l&agrave; c&ocirc;ng việc <strong>tẻ nhạt</strong> nhưng bạn sẽ rất vui v&igrave; lượng h&agrave;ng tồn kho lu&ocirc;n ch&iacute;nh x&aacute;c khi bạn bước v&agrave;o m&ugrave;a b&aacute;n h&agrave;ng bận rộn trong dịp nghỉ lễ.<br />\n&nbsp;</p>\n",
+      "exampleEn": "This may be tedious work but you will be glad the inventory is accurate when you hit the busy holiday sales season.",
+      "exampleVi": "Đây có thể là công việc tẻ nhạt nhưng bạn sẽ rất vui vì lượng hàng tồn kho luôn chính xác khi bạn bước vào mùa bán hàng bận rộn trong dịp nghỉ lễ.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b240",
+      "word": "verify",
+      "phonetic": "/ˈverɪfaɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev240.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/verify.mp3",
+      "meaningVi": "xác minh",
+      "meaningEn": "to prove the truth of",
+      "exampleEnHtml": "<p>We have no way of <strong>verifying</strong> his story.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i kh&ocirc;ng c&oacute; c&aacute;ch n&agrave;o để <strong>x&aacute;c minh</strong> c&acirc;u chuyện của anh ấy.<br />\n&nbsp;</p>\n",
+      "exampleEn": "We have no way of verifying his story.",
+      "exampleVi": "Chúng tôi không có cách nào để xác minh câu chuyện của anh ấy.\n "
+    }
+  ],
+  "totalFlashcards": 12
+}

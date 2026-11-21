@@ -1,0 +1,728 @@
+{
+  "topicId": "622495ef83f28145bcbb6067",
+  "title": "REDUCED RELATIVE CLAUSES - Practice 3",
+  "totalCards": 18,
+  "totalQuestions": 18,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6441",
+        "questionNumber": 1,
+        "questionText": "We are driving on the road ________ in 1980.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "built",
+            "raw": "A. built",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is built",
+            "raw": "B. is built",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "being built",
+            "raw": "C. being built ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to be built",
+            "raw": "D. to be built",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a past participle (V-ed) to modify the noun 'road', indicating that the road was built in 1980. In English, we use the past participle after a noun to show a completed action in the past related to that noun.<br><ul><li><b>built</b> (Past participle (V-ed)): Past participle (V-ed) of 'build', used to describe something that has already been constructed.</li><li><b>is built</b> (Verb phrase (present simple passive)): Present simple passive form, not suitable here because the sentence refers to an action completed in the past.</li><li><b>being built</b> (Present participle passive (V-ing)): Present participle passive, used to describe something that is in the process of being built, not something completed in the past.</li><li><b>to be built</b> (Infinitive passive): Infinitive passive, used to describe something that will be built in the future, not something already built.</li></ul><b>Related structure or vocabulary:</b> Past participle (V-ed) used as an adjective to modify a noun, especially to show a completed action in the past. Example: 'The house built last year is very beautiful.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền một phân từ quá khứ (V-ed) để bổ nghĩa cho danh từ 'road', chỉ rằng con đường này đã được xây dựng vào năm 1980. Trong tiếng Anh, chúng ta dùng phân từ quá khứ sau danh từ để diễn tả một hành động đã hoàn thành trong quá khứ liên quan đến danh từ đó.<br><ul><li><b>built</b> (Phân từ quá khứ (V-ed)): Phân từ quá khứ (V-ed) của 'build', dùng để miêu tả một cái gì đó đã được xây dựng xong.</li><li><b>is built</b> (Cụm động từ (bị động hiện tại đơn)): Dạng bị động hiện tại đơn, không phù hợp vì câu nói về hành động đã hoàn thành trong quá khứ.</li><li><b>being built</b> (Phân từ hiện tại bị động (V-ing)): Phân từ hiện tại bị động, dùng để miêu tả một cái gì đó đang được xây dựng, không phải đã hoàn thành.</li><li><b>to be built</b> (Động từ nguyên mẫu bị động): Động từ nguyên mẫu bị động, dùng để nói về một cái gì đó sẽ được xây dựng trong tương lai, không phải đã hoàn thành.</li></ul><b>Cấu trúc và từ vựng:</b> Phân từ quá khứ (V-ed) dùng như tính từ để bổ nghĩa cho danh từ, đặc biệt để chỉ hành động đã hoàn thành trong quá khứ. Ví dụ: 'The house built last year is very beautiful.'<br><br><b>Tạm dịch:</b> Chúng tôi đang lái xe trên con đường được xây dựng vào năm 1980.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a past participle (V-ed) to modify the noun 'road', indicating that the road was built in 1980. In English, we use the past participle after a noun to show a completed action in the past related to that noun.<br><ul><li><b>built</b> (Past participle (V-ed)): Past participle (V-ed) of 'build', used to describe something that has already been constructed.</li><li><b>is built</b> (Verb phrase (present simple passive)): Present simple passive form, not suitable here because the sentence refers to an action completed in the past.</li><li><b>being built</b> (Present participle passive (V-ing)): Present participle passive, used to describe something that is in the process of being built, not something completed in the past.</li><li><b>to be built</b> (Infinitive passive): Infinitive passive, used to describe something that will be built in the future, not something already built.</li></ul><b>Related structure or vocabulary:</b> Past participle (V-ed) used as an adjective to modify a noun, especially to show a completed action in the past. Example: 'The house built last year is very beautiful.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6442",
+        "questionNumber": 2,
+        "questionText": "Customers _________ about the service should see the manager.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "complained",
+            "raw": "A. complained ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "complaining",
+            "raw": "B. complaining",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "is complaining",
+            "raw": "C. is complaining",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "complain",
+            "raw": "D. complain",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a present participle (V-ing) to describe 'customers' who are currently or habitually doing the action. In English, we use the present participle as an adjective to modify a noun, indicating the person or thing that is performing the action. Here, 'complaining' describes the customers who have complaints about the service.<br><ul><li><b>complained</b> (V-ed (past participle)): Past participle (V-ed), used for passive voice or to describe something that has been done to the noun. Not suitable here because we want to describe customers who are doing the action.</li><li><b>complaining</b> (V-ing (present participle)): Present participle (V-ing), used as an adjective to describe someone who is doing the action. Correct choice here.</li><li><b>is complaining</b> (Verb phrase (present continuous)): Present continuous tense, requires a subject and auxiliary verb. Not suitable for this blank.</li><li><b>complain</b> (Verb (base form)): Base form of the verb, not used as an adjective.</li></ul><b>Related structure or vocabulary:</b> Present participle (V-ing) used as an adjective to modify a noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền một hiện tại phân từ (V-ing) để mô tả 'customers' (khách hàng) đang hoặc thường xuyên thực hiện hành động đó. Trong tiếng Anh, hiện tại phân từ được dùng như một tính từ để bổ nghĩa cho danh từ, chỉ người hoặc vật đang thực hiện hành động. Ở đây, 'complaining' mô tả những khách hàng đang phàn nàn về dịch vụ.<br><ul><li><b>complained</b> (V-ed (quá khứ phân từ)): Quá khứ phân từ (V-ed), dùng cho câu bị động hoặc để mô tả điều đã được thực hiện với danh từ. Không phù hợp vì ta cần mô tả khách hàng đang thực hiện hành động.</li><li><b>complaining</b> (V-ing (hiện tại phân từ)): Hiện tại phân từ (V-ing), dùng như tính từ để mô tả người đang thực hiện hành động. Đây là đáp án đúng.</li><li><b>is complaining</b> (Cụm động từ (thì hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, cần có chủ ngữ và động từ phụ trợ. Không phù hợp với chỗ trống này.</li><li><b>complain</b> (Động từ nguyên thể): Động từ nguyên thể, không dùng làm tính từ.</li></ul><b>Cấu trúc và từ vựng:</b> Hiện tại phân từ (V-ing) dùng làm tính từ bổ nghĩa cho danh từ.<br><br><b>Tạm dịch:</b> Customers complaining about the service should see the manager. --> Những khách hàng đang phàn nàn về dịch vụ nên gặp quản lý.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a present participle (V-ing) to describe 'customers' who are currently or habitually doing the action. In English, we use the present participle as an adjective to modify a noun, indicating the person or thing that is performing the action. Here, 'complaining' describes the customers who have complaints about the service.<br><ul><li><b>complained</b> (V-ed (past participle)): Past participle (V-ed), used for passive voice or to describe something that has been done to the noun. Not suitable here because we want to describe customers who are doing the action.</li><li><b>complaining</b> (V-ing (present participle)): Present participle (V-ing), used as an adjective to describe someone who is doing the action. Correct choice here.</li><li><b>is complaining</b> (Verb phrase (present continuous)): Present continuous tense, requires a subject and auxiliary verb. Not suitable for this blank.</li><li><b>complain</b> (Verb (base form)): Base form of the verb, not used as an adjective.</li></ul><b>Related structure or vocabulary:</b> Present participle (V-ing) used as an adjective to modify a noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6443",
+        "questionNumber": 3,
+        "questionText": "The city ________ during the war has now been rebuilt.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "being destroyed",
+            "raw": "A. being destroyed ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "be destroyed",
+            "raw": "B. be destroyed ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "destroyed",
+            "raw": "C. destroyed",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "was destroyed",
+            "raw": "D. was destroyed ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The city ________ during the war has now been rebuilt.' requires a past participle (V-ed) to form a reduced relative clause. The full sentence would be: 'The city that was destroyed during the war has now been rebuilt.' In reduced form, we use the past participle 'destroyed' to modify 'the city.'<br><ul><li><b>being destroyed</b> (V-ing (present participle)): Present participle (V-ing) used for actions happening at the same time as the main verb or for passive continuous forms. Not suitable here because the destruction happened in the past.</li><li><b>be destroyed</b> (bare infinitive): Bare infinitive, not used after a noun to form a reduced relative clause.</li><li><b>destroyed</b> (past participle (V-ed)): Past participle (V-ed), used to form a reduced relative clause for passive meaning. Correct answer.</li><li><b>was destroyed</b> (past simple): Past simple tense, cannot be used directly after a noun to modify it.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause (passive): noun + V-ed (past participle) to replace 'which/that was + V-ed'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The city ________ during the war has now been rebuilt.' cần một phân từ quá khứ (V-ed) để tạo mệnh đề quan hệ rút gọn. Câu đầy đủ sẽ là: 'The city that was destroyed during the war has now been rebuilt.' Khi rút gọn, ta dùng phân từ quá khứ 'destroyed' để bổ nghĩa cho 'the city'.<br><ul><li><b>being destroyed</b> (V-ing (phân từ hiện tại)): Phân từ hiện tại (V-ing), dùng cho hành động đang xảy ra đồng thời với động từ chính hoặc dạng bị động tiếp diễn. Không phù hợp vì hành động phá hủy đã xảy ra trong quá khứ.</li><li><b>be destroyed</b> (động từ nguyên thể): Động từ nguyên thể không 'to', không dùng sau danh từ để tạo mệnh đề quan hệ rút gọn.</li><li><b>destroyed</b> (phân từ quá khứ (V-ed)): Phân từ quá khứ (V-ed), dùng để tạo mệnh đề quan hệ rút gọn mang nghĩa bị động. Đây là đáp án đúng.</li><li><b>was destroyed</b> (quá khứ đơn): Thì quá khứ đơn, không thể dùng trực tiếp sau danh từ để bổ nghĩa.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn (bị động): danh từ + V-ed (phân từ quá khứ) thay cho 'which/that was + V-ed'.<br><br><b>Tạm dịch:</b> Thành phố bị phá hủy trong chiến tranh giờ đã được xây dựng lại.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The city ________ during the war has now been rebuilt.' requires a past participle (V-ed) to form a reduced relative clause. The full sentence would be: 'The city that was destroyed during the war has now been rebuilt.' In reduced form, we use the past participle 'destroyed' to modify 'the city.'<br><ul><li><b>being destroyed</b> (V-ing (present participle)): Present participle (V-ing) used for actions happening at the same time as the main verb or for passive continuous forms. Not suitable here because the destruction happened in the past.</li><li><b>be destroyed</b> (bare infinitive): Bare infinitive, not used after a noun to form a reduced relative clause.</li><li><b>destroyed</b> (past participle (V-ed)): Past participle (V-ed), used to form a reduced relative clause for passive meaning. Correct answer.</li><li><b>was destroyed</b> (past simple): Past simple tense, cannot be used directly after a noun to modify it.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause (passive): noun + V-ed (past participle) to replace 'which/that was + V-ed'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6444",
+        "questionNumber": 4,
+        "questionText": "The vegetable ________ in this shop are grown without chemicals.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is sold",
+            "raw": "A. is sold ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to be sold",
+            "raw": "B. to be sold ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "being sold",
+            "raw": "C. being sold",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "sold",
+            "raw": "D. sold",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The vegetable ________ in this shop are grown without chemicals.' requires a participle phrase to describe 'the vegetable.' We need a form that modifies the noun and indicates a passive meaning, as the vegetables are being sold (not selling themselves). The correct form is the past participle 'sold,' which acts as an adjective to describe the vegetables.<br><ul><li><b>is sold</b> (verb phrase): 'is sold' is a verb phrase in the present simple passive voice. It cannot be used here because the blank requires an adjective or participle phrase to modify 'the vegetable,' not a verb.</li><li><b>to be sold</b> (infinitive phrase): 'to be sold' is an infinitive phrase. It is used to express purpose or intention, not to describe a noun directly in this context.</li><li><b>being sold</b> (present participle phrase): 'being sold' is a present participle phrase in the passive voice. It is used to describe an ongoing action, but in this context, we want to describe the vegetables in general, not the ongoing action.</li><li><b>sold</b> (past participle (adjective)): 'sold' is the past participle form of 'sell.' It is used as an adjective to describe the vegetables that are sold in the shop. This is the correct answer.</li></ul><b>Related structure or vocabulary:</b> Past participle used as an adjective to modify a noun (reduced relative clause). Example: 'The books written by her are famous.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The vegetable ________ in this shop are grown without chemicals.' cần một cụm phân từ để bổ nghĩa cho danh từ 'the vegetable.' Ta cần một dạng từ vừa mang nghĩa bị động (vì rau được bán chứ không tự bán mình), vừa đóng vai trò như tính từ. Dạng đúng là phân từ quá khứ 'sold,' dùng như một tính từ để mô tả loại rau này.<br><ul><li><b>is sold</b> (cụm động từ): 'is sold' là cụm động từ ở thì hiện tại đơn bị động. Không thể dùng ở đây vì chỗ trống cần một tính từ hoặc cụm phân từ để bổ nghĩa cho danh từ 'the vegetable,' không phải một động từ.</li><li><b>to be sold</b> (cụm động từ nguyên mẫu): 'to be sold' là cụm động từ nguyên mẫu. Dạng này dùng để chỉ mục đích hoặc ý định, không dùng để mô tả danh từ trực tiếp trong trường hợp này.</li><li><b>being sold</b> (cụm phân từ hiện tại): 'being sold' là cụm phân từ hiện tại ở thể bị động. Dạng này dùng để mô tả hành động đang diễn ra, nhưng ở đây ta muốn mô tả chung về loại rau, không phải hành động đang diễn ra.</li><li><b>sold</b> (phân từ quá khứ (tính từ)): 'sold' là phân từ quá khứ của 'sell.' Dạng này dùng như một tính từ để mô tả loại rau được bán trong cửa hàng. Đây là đáp án đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Phân từ quá khứ dùng như tính từ để bổ nghĩa cho danh từ (mệnh đề quan hệ rút gọn). Ví dụ: 'The books written by her are famous.'<br><br><b>Tạm dịch:</b> Rau được bán trong cửa hàng này được trồng mà không có hóa chất.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The vegetable ________ in this shop are grown without chemicals.' requires a participle phrase to describe 'the vegetable.' We need a form that modifies the noun and indicates a passive meaning, as the vegetables are being sold (not selling themselves). The correct form is the past participle 'sold,' which acts as an adjective to describe the vegetables.<br><ul><li><b>is sold</b> (verb phrase): 'is sold' is a verb phrase in the present simple passive voice. It cannot be used here because the blank requires an adjective or participle phrase to modify 'the vegetable,' not a verb.</li><li><b>to be sold</b> (infinitive phrase): 'to be sold' is an infinitive phrase. It is used to express purpose or intention, not to describe a noun directly in this context.</li><li><b>being sold</b> (present participle phrase): 'being sold' is a present participle phrase in the passive voice. It is used to describe an ongoing action, but in this context, we want to describe the vegetables in general, not the ongoing action.</li><li><b>sold</b> (past participle (adjective)): 'sold' is the past participle form of 'sell.' It is used as an adjective to describe the vegetables that are sold in the shop. This is the correct answer.</li></ul><b>Related structure or vocabulary:</b> Past participle used as an adjective to modify a noun (reduced relative clause). Example: 'The books written by her are famous.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6445",
+        "questionNumber": 5,
+        "questionText": "They have an apartment______ the park.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "overlooks",
+            "raw": "A. overlooks ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that overlooking",
+            "raw": "B. that overlooking",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "overlooked",
+            "raw": "C. overlooked ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "overlooking",
+            "raw": "D. overlooking",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'They have an apartment______ the park.' requires a participle phrase to describe the apartment. In English, we often use the present participle (V-ing) to show that the apartment has a certain characteristic or function, in this case, 'overlooking the park' means the apartment has a view of the park.<br><ul><li><b>overlooks</b> (verb (present simple)): This is the simple present tense of the verb 'overlook.' It is used for subjects, not as a modifier for a noun.</li><li><b>that overlooking</b> (relative clause (incorrect form)): This is not a correct grammatical structure. 'That' should be followed by a clause, and 'overlooking' cannot stand alone after 'that.'</li><li><b>overlooked</b> (past participle/adjective): This is the past participle form, usually used in passive voice or as an adjective meaning 'not noticed.' It does not fit the context here.</li><li><b>overlooking</b> (present participle): This is the present participle form, used to describe the apartment as having the feature of looking over the park.</li></ul><b>Related structure or vocabulary:</b> Participle phrase (V-ing) used to modify a noun: 'an apartment overlooking the park' means the apartment has a view of the park.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'They have an apartment______ the park.' cần một cụm phân từ để miêu tả cho danh từ 'apartment'. Trong tiếng Anh, chúng ta thường dùng hiện tại phân từ (V-ing) để chỉ đặc điểm hoặc chức năng của danh từ, ở đây 'overlooking the park' nghĩa là căn hộ có hướng nhìn ra công viên.<br><ul><li><b>overlooks</b> (động từ (hiện tại đơn)): Đây là động từ thì hiện tại đơn, dùng cho chủ ngữ, không dùng để bổ nghĩa cho danh từ.</li><li><b>that overlooking</b> (mệnh đề quan hệ (sai cấu trúc)): Cấu trúc này không đúng ngữ pháp. 'That' phải theo sau bởi một mệnh đề, và 'overlooking' không thể đứng một mình sau 'that'.</li><li><b>overlooked</b> (phân từ quá khứ/tính từ): Đây là phân từ quá khứ, thường dùng ở thể bị động hoặc làm tính từ với nghĩa 'bị bỏ qua'. Không phù hợp với ngữ cảnh này.</li><li><b>overlooking</b> (hiện tại phân từ): Đây là hiện tại phân từ, dùng để miêu tả căn hộ có đặc điểm nhìn ra công viên.</li></ul><b>Cấu trúc và từ vựng:</b> Cụm phân từ (V-ing) dùng để bổ nghĩa cho danh từ: 'an apartment overlooking the park' nghĩa là căn hộ có hướng nhìn ra công viên.<br><br><b>Tạm dịch:</b> Họ có một căn hộ nhìn ra công viên.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'They have an apartment______ the park.' requires a participle phrase to describe the apartment. In English, we often use the present participle (V-ing) to show that the apartment has a certain characteristic or function, in this case, 'overlooking the park' means the apartment has a view of the park.<br><ul><li><b>overlooks</b> (verb (present simple)): This is the simple present tense of the verb 'overlook.' It is used for subjects, not as a modifier for a noun.</li><li><b>that overlooking</b> (relative clause (incorrect form)): This is not a correct grammatical structure. 'That' should be followed by a clause, and 'overlooking' cannot stand alone after 'that.'</li><li><b>overlooked</b> (past participle/adjective): This is the past participle form, usually used in passive voice or as an adjective meaning 'not noticed.' It does not fit the context here.</li><li><b>overlooking</b> (present participle): This is the present participle form, used to describe the apartment as having the feature of looking over the park.</li></ul><b>Related structure or vocabulary:</b> Participle phrase (V-ing) used to modify a noun: 'an apartment overlooking the park' means the apartment has a view of the park.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6446",
+        "questionNumber": 6,
+        "questionText": "The first movie-length cartoon, _____ , “Snow White and the Seven Dwarfs” set the standard for later full length features such as “ The Lion King” and “Pocahotas”.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that released ever",
+            "raw": "A. that released ever ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "which ever released",
+            "raw": "B. which ever released",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "ever released",
+            "raw": "C. ever released",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "released whatever",
+            "raw": "D. released whatever",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a past participle phrase to describe 'the first movie-length cartoon.' The correct form is 'ever released,' which acts as a reduced relative clause meaning 'that was ever released.' This phrase modifies 'cartoon' and indicates that 'Snow White and the Seven Dwarfs' was the first cartoon of movie length ever to be released.<br><ul><li><b>that released ever</b> (phrase): This is incorrect because 'that released ever' is not a grammatically correct phrase. The relative pronoun 'that' should be followed by a passive form ('was released') or a past participle ('released'), not an active verb.</li><li><b>which ever released</b> (phrase): This is incorrect because 'which ever released' is not a proper relative clause. The correct form would be 'which was ever released,' but in reduced form, it should be 'ever released.'</li><li><b>ever released</b> (phrase): This is correct. 'Ever released' is a reduced relative clause (past participle phrase) modifying 'cartoon.' It means 'that was ever released.'</li><li><b>released whatever</b> (phrase): This is incorrect. 'Released whatever' does not make sense in this context and is not a grammatically correct modifier.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses: A past participle phrase can be used to replace a relative clause in passive voice. For example, 'the book published last year' = 'the book that was published last year.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một cụm phân từ quá khứ để bổ nghĩa cho 'the first movie-length cartoon.' Dạng đúng là 'ever released,' đóng vai trò như một mệnh đề quan hệ rút gọn mang nghĩa 'that was ever released.' Cụm này bổ nghĩa cho 'cartoon' và nhấn mạnh rằng 'Snow White and the Seven Dwarfs' là bộ phim hoạt hình dài đầu tiên từng được phát hành.<br><ul><li><b>that released ever</b> (cụm từ): 'that released ever' không đúng ngữ pháp vì sau đại từ quan hệ 'that' phải là dạng bị động ('was released') hoặc phân từ quá khứ ('released'), không phải động từ chủ động.</li><li><b>which ever released</b> (cụm từ): 'which ever released' không phải là một mệnh đề quan hệ đúng. Dạng đúng phải là 'which was ever released,' nhưng khi rút gọn thì chỉ cần 'ever released.'</li><li><b>ever released</b> (cụm từ): Đây là đáp án đúng. 'Ever released' là cụm phân từ quá khứ rút gọn mệnh đề quan hệ bị động, bổ nghĩa cho 'cartoon,' mang nghĩa 'đã từng được phát hành.'</li><li><b>released whatever</b> (cụm từ): 'released whatever' không có nghĩa trong ngữ cảnh này và không đúng ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Cụm phân từ quá khứ có thể dùng để thay thế mệnh đề quan hệ ở thể bị động. Ví dụ: 'the book published last year' = 'the book that was published last year.'<br><br><b>Tạm dịch:</b> Bộ phim hoạt hình dài đầu tiên từng được phát hành, 'Bạch Tuyết và Bảy Chú Lùn,' đã đặt ra tiêu chuẩn cho các bộ phim hoạt hình dài sau này như 'Vua Sư Tử' và 'Pocahontas.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a past participle phrase to describe 'the first movie-length cartoon.' The correct form is 'ever released,' which acts as a reduced relative clause meaning 'that was ever released.' This phrase modifies 'cartoon' and indicates that 'Snow White and the Seven Dwarfs' was the first cartoon of movie length ever to be released.<br><ul><li><b>that released ever</b> (phrase): This is incorrect because 'that released ever' is not a grammatically correct phrase. The relative pronoun 'that' should be followed by a passive form ('was released') or a past participle ('released'), not an active verb.</li><li><b>which ever released</b> (phrase): This is incorrect because 'which ever released' is not a proper relative clause. The correct form would be 'which was ever released,' but in reduced form, it should be 'ever released.'</li><li><b>ever released</b> (phrase): This is correct. 'Ever released' is a reduced relative clause (past participle phrase) modifying 'cartoon.' It means 'that was ever released.'</li><li><b>released whatever</b> (phrase): This is incorrect. 'Released whatever' does not make sense in this context and is not a grammatically correct modifier.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clauses: A past participle phrase can be used to replace a relative clause in passive voice. For example, 'the book published last year' = 'the book that was published last year.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6447",
+        "questionNumber": 7,
+        "questionText": "The money _________ by the police belongs to the bank in the city.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be found",
+            "raw": "A. to be found ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "which found",
+            "raw": "B. which found",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to find",
+            "raw": "C. to find ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "found",
+            "raw": "D. found",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The money _________ by the police belongs to the bank in the city.' requires a past participle (V-ed/PII) to form a reduced relative clause. This structure is used to shorten a relative clause in passive voice. The full sentence would be: 'The money which was found by the police belongs to the bank in the city.' By reducing the clause, we use 'found' after 'money' to indicate that the money was found by the police.<br><ul><li><b>to be found</b> (Infinitive): Infinitive phrase, usually used to express purpose or future action, not suitable here.</li><li><b>which found</b> (Relative clause): Incorrect relative clause. 'Which found' would mean the money found something, which is not logical.</li><li><b>to find</b> (Infinitive): Infinitive, used to express purpose, not suitable after a noun to describe it.</li><li><b>found</b> (Past participle): Past participle (V-ed/PII), used to form a reduced relative clause in passive voice, correctly describing 'the money' that was found by the police.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause in passive voice: Noun + V-ed/PII (e.g., The book written by John, The money found by the police)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The money _________ by the police belongs to the bank in the city.' cần một phân từ quá khứ (V-ed/PII) để tạo mệnh đề quan hệ rút gọn ở dạng bị động. Cấu trúc này dùng để rút gọn mệnh đề quan hệ bị động. Câu đầy đủ sẽ là: 'The money which was found by the police belongs to the bank in the city.' Khi rút gọn, ta dùng 'found' sau 'money' để chỉ rằng số tiền này đã được cảnh sát tìm thấy.<br><ul><li><b>to be found</b> (Động từ nguyên mẫu): Cụm động từ nguyên mẫu, thường dùng để chỉ mục đích hoặc hành động trong tương lai, không phù hợp ở đây.</li><li><b>which found</b> (Mệnh đề quan hệ): Mệnh đề quan hệ sai. 'Which found' có nghĩa là số tiền đã tìm thấy cái gì đó, điều này không hợp lý.</li><li><b>to find</b> (Động từ nguyên mẫu): Động từ nguyên mẫu, dùng để chỉ mục đích, không phù hợp khi đứng sau danh từ để miêu tả.</li><li><b>found</b> (Phân từ quá khứ): Phân từ quá khứ (V-ed/PII), dùng để tạo mệnh đề quan hệ rút gọn ở dạng bị động, miêu tả đúng 'the money' đã được cảnh sát tìm thấy.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn ở dạng bị động: Danh từ + V-ed/PII (ví dụ: The book written by John, The money found by the police)<br><br><b>Tạm dịch:</b> Số tiền được cảnh sát tìm thấy thuộc về ngân hàng trong thành phố.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The money _________ by the police belongs to the bank in the city.' requires a past participle (V-ed/PII) to form a reduced relative clause. This structure is used to shorten a relative clause in passive voice. The full sentence would be: 'The money which was found by the police belongs to the bank in the city.' By reducing the clause, we use 'found' after 'money' to indicate that the money was found by the police.<br><ul><li><b>to be found</b> (Infinitive): Infinitive phrase, usually used to express purpose or future action, not suitable here.</li><li><b>which found</b> (Relative clause): Incorrect relative clause. 'Which found' would mean the money found something, which is not logical.</li><li><b>to find</b> (Infinitive): Infinitive, used to express purpose, not suitable after a noun to describe it.</li><li><b>found</b> (Past participle): Past participle (V-ed/PII), used to form a reduced relative clause in passive voice, correctly describing 'the money' that was found by the police.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause in passive voice: Noun + V-ed/PII (e.g., The book written by John, The money found by the police)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6448",
+        "questionNumber": 8,
+        "questionText": "The man _________the bank is a millionaire.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is entering",
+            "raw": "A. is entering ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "enter",
+            "raw": "B. enter",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to be entered",
+            "raw": "C. to be entered ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "entering",
+            "raw": "D. entering",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The man _________ the bank is a millionaire.' requires a word or phrase that describes 'the man.' In English, when we want to describe a noun with an action, we often use a present participle (V-ing) as a reduced relative clause. The full sentence would be 'The man who is entering the bank is a millionaire.' The phrase 'who is entering' can be reduced to 'entering.'<br><ul><li><b>is entering</b> (verb phrase): Present continuous tense (be + V-ing), used for actions happening right now, but cannot be used directly after a noun to modify it.</li><li><b>enter</b> (verb): Base form of the verb, not used to modify a noun directly.</li><li><b>to be entered</b> (verb phrase): Passive infinitive, not suitable for describing a person performing an action.</li><li><b>entering</b> (present participle): Present participle (V-ing), used to form a reduced relative clause to describe a noun.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When the relative pronoun (who/which/that) is the subject of the clause and the verb is in active form, we can reduce 'who is/are + V-ing' to 'V-ing'. Example: The man who is talking to Mary = The man talking to Mary.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The man _________ the bank is a millionaire.' cần một từ hoặc cụm từ để miêu tả 'the man'. Trong tiếng Anh, khi muốn miêu tả một danh từ bằng một hành động, ta thường dùng hiện tại phân từ (V-ing) như một mệnh đề quan hệ rút gọn. Câu đầy đủ sẽ là 'The man who is entering the bank is a millionaire.' Cụm 'who is entering' có thể rút gọn thành 'entering'.<br><ul><li><b>is entering</b> (cụm động từ): Thì hiện tại tiếp diễn (be + V-ing), dùng để diễn tả hành động đang xảy ra, nhưng không thể dùng trực tiếp sau danh từ để bổ nghĩa cho danh từ.</li><li><b>enter</b> (động từ): Động từ nguyên thể, không dùng để bổ nghĩa trực tiếp cho danh từ.</li><li><b>to be entered</b> (cụm động từ): Dạng bị động của động từ nguyên thể, không phù hợp để miêu tả người đang thực hiện hành động.</li><li><b>entering</b> (hiện tại phân từ): Hiện tại phân từ (V-ing), dùng để rút gọn mệnh đề quan hệ bổ nghĩa cho danh từ.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Khi đại từ quan hệ (who/which/that) là chủ ngữ của mệnh đề và động từ ở dạng chủ động, ta có thể rút gọn 'who is/are + V-ing' thành 'V-ing'. Ví dụ: The man who is talking to Mary = The man talking to Mary.<br><br><b>Tạm dịch:</b> Người đàn ông đang vào ngân hàng là một triệu phú.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The man _________ the bank is a millionaire.' requires a word or phrase that describes 'the man.' In English, when we want to describe a noun with an action, we often use a present participle (V-ing) as a reduced relative clause. The full sentence would be 'The man who is entering the bank is a millionaire.' The phrase 'who is entering' can be reduced to 'entering.'<br><ul><li><b>is entering</b> (verb phrase): Present continuous tense (be + V-ing), used for actions happening right now, but cannot be used directly after a noun to modify it.</li><li><b>enter</b> (verb): Base form of the verb, not used to modify a noun directly.</li><li><b>to be entered</b> (verb phrase): Passive infinitive, not suitable for describing a person performing an action.</li><li><b>entering</b> (present participle): Present participle (V-ing), used to form a reduced relative clause to describe a noun.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When the relative pronoun (who/which/that) is the subject of the clause and the verb is in active form, we can reduce 'who is/are + V-ing' to 'V-ing'. Example: The man who is talking to Mary = The man talking to Mary.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6449",
+        "questionNumber": 9,
+        "questionText": "The instructions ______ by Professor Johnson helped us know more about the danger of energy pollution.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that explained",
+            "raw": "A. that explained ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "explained",
+            "raw": "B. explained",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "explaining",
+            "raw": "C. explaining ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "which explained",
+            "raw": "D. which explained ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a relative clause to describe 'the instructions'. In this sentence, we need a clause that gives more information about 'the instructions' and connects it to the rest of the sentence. The correct form is a relative clause in the passive voice, which is 'which explained' or 'that explained'. However, 'which explained' and 'that explained' both need to be followed by an object (what the instructions explained), but in this sentence, the clause is used to describe the instructions that explained something (the danger of energy pollution). The best answer is D. 'which explained', as it correctly introduces a non-defining relative clause giving extra information about 'the instructions'.<br><ul><li><b>that explained</b> (relative clause): Relative clause (defining), but usually used without a comma and often needs an object after it.</li><li><b>explained</b> (past participle): Past participle, but used alone it does not connect the clause properly.</li><li><b>explaining</b> (present participle): Present participle, used for active meaning (the instructions themselves are explaining), but the sentence needs a passive meaning.</li><li><b>which explained</b> (relative clause): Non-defining relative clause, used to add extra information about 'the instructions'.</li></ul><b>Related structure or vocabulary:</b> Non-defining relative clause: which + V (used to add extra information about a noun).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một mệnh đề quan hệ để bổ nghĩa cho 'the instructions'. Trong câu này, chúng ta cần một mệnh đề cung cấp thêm thông tin về 'the instructions' và liên kết nó với phần còn lại của câu. Dạng đúng là mệnh đề quan hệ ở thể bị động, đó là 'which explained' hoặc 'that explained'. Tuy nhiên, 'which explained' và 'that explained' thường cần theo sau bởi một tân ngữ (cái mà hướng dẫn đã giải thích), nhưng trong câu này, mệnh đề dùng để mô tả những hướng dẫn đã giải thích điều gì đó (nguy cơ ô nhiễm năng lượng). Đáp án đúng nhất là D. 'which explained', vì nó giới thiệu một mệnh đề quan hệ không xác định, cung cấp thêm thông tin về 'the instructions'.<br><ul><li><b>that explained</b> (mệnh đề quan hệ): Mệnh đề quan hệ xác định, thường dùng không có dấu phẩy và thường cần một tân ngữ phía sau.</li><li><b>explained</b> (quá khứ phân từ): Quá khứ phân từ, nhưng dùng một mình thì không liên kết mệnh đề đúng cách.</li><li><b>explaining</b> (hiện tại phân từ): Hiện tại phân từ, dùng cho nghĩa chủ động (bản thân hướng dẫn đang giải thích), nhưng câu này cần nghĩa bị động.</li><li><b>which explained</b> (mệnh đề quan hệ): Mệnh đề quan hệ không xác định, dùng để bổ sung thông tin cho 'the instructions'.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ không xác định: which + V (dùng để bổ sung thông tin cho một danh từ).<br><br><b>Tạm dịch:</b> Các hướng dẫn mà Giáo sư Johnson đã giải thích đã giúp chúng tôi hiểu rõ hơn về nguy cơ của ô nhiễm năng lượng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a relative clause to describe 'the instructions'. In this sentence, we need a clause that gives more information about 'the instructions' and connects it to the rest of the sentence. The correct form is a relative clause in the passive voice, which is 'which explained' or 'that explained'. However, 'which explained' and 'that explained' both need to be followed by an object (what the instructions explained), but in this sentence, the clause is used to describe the instructions that explained something (the danger of energy pollution). The best answer is D. 'which explained', as it correctly introduces a non-defining relative clause giving extra information about 'the instructions'.<br><ul><li><b>that explained</b> (relative clause): Relative clause (defining), but usually used without a comma and often needs an object after it.</li><li><b>explained</b> (past participle): Past participle, but used alone it does not connect the clause properly.</li><li><b>explaining</b> (present participle): Present participle, used for active meaning (the instructions themselves are explaining), but the sentence needs a passive meaning.</li><li><b>which explained</b> (relative clause): Non-defining relative clause, used to add extra information about 'the instructions'.</li></ul><b>Related structure or vocabulary:</b> Non-defining relative clause: which + V (used to add extra information about a noun).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb644a",
+        "questionNumber": 10,
+        "questionText": "Neil Amstrong, the first person ______ on the moon, reported that the surface was fine and powdery.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "set foot",
+            "raw": "A. set foot ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to set foot",
+            "raw": "B. to set foot",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "setting foot",
+            "raw": "C. setting foot ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "that set foot",
+            "raw": "D. that set foot ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires an infinitive phrase to describe Neil Armstrong as the first person to do something. In English, we use the structure 'the first/second/only/last + to-infinitive' to indicate the first/second/only/last person or thing to perform an action. Therefore, 'to set foot' is the correct form.<br><ul><li><b>set foot</b> (Verb (bare infinitive)): Bare infinitive (V): Not used after 'the first person' in this context.</li><li><b>to set foot</b> (To-infinitive): To-infinitive: Correct form after 'the first person' to indicate the first person who did the action.</li><li><b>setting foot</b> (V-ing (present participle/gerund)): V-ing (present participle/gerund): Not used after 'the first person' to describe the first person who did something.</li><li><b>that set foot</b> (Relative clause): Relative clause: 'that set foot' is a relative clause, but the correct structure here is to use the to-infinitive.</li></ul><b>Related structure or vocabulary:</b> Structure: the first/second/only/last + to-infinitive (e.g., She was the first person to arrive.)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một cụm động từ nguyên mẫu (to-infinitive) để mô tả Neil Armstrong là người đầu tiên làm điều gì đó. Trong tiếng Anh, ta dùng cấu trúc 'the first/second/only/last + to-infinitive' để chỉ người hoặc vật đầu tiên/thứ hai/duy nhất/cuối cùng thực hiện một hành động. Vì vậy, 'to set foot' là dạng đúng.<br><ul><li><b>set foot</b> (Động từ nguyên thể không 'to'): Động từ nguyên thể không 'to' (bare infinitive): Không dùng sau 'the first person' trong trường hợp này.</li><li><b>to set foot</b> (Động từ nguyên mẫu có 'to'): Động từ nguyên mẫu có 'to' (to-infinitive): Dạng đúng sau 'the first person' để chỉ người đầu tiên làm hành động đó.</li><li><b>setting foot</b> (V-ing (danh động từ/hiện tại phân từ)): V-ing (danh động từ/hiện tại phân từ): Không dùng sau 'the first person' để mô tả người đầu tiên làm gì.</li><li><b>that set foot</b> (Mệnh đề quan hệ): Mệnh đề quan hệ: 'that set foot' là mệnh đề quan hệ, nhưng cấu trúc đúng ở đây là dùng động từ nguyên mẫu có 'to'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: the first/second/only/last + to-infinitive (Ví dụ: She was the first person to arrive.)<br><br><b>Tạm dịch:</b> Neil Armstrong, người đầu tiên đặt chân lên mặt trăng, báo cáo rằng bề mặt rất mịn và bột.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires an infinitive phrase to describe Neil Armstrong as the first person to do something. In English, we use the structure 'the first/second/only/last + to-infinitive' to indicate the first/second/only/last person or thing to perform an action. Therefore, 'to set foot' is the correct form.<br><ul><li><b>set foot</b> (Verb (bare infinitive)): Bare infinitive (V): Not used after 'the first person' in this context.</li><li><b>to set foot</b> (To-infinitive): To-infinitive: Correct form after 'the first person' to indicate the first person who did the action.</li><li><b>setting foot</b> (V-ing (present participle/gerund)): V-ing (present participle/gerund): Not used after 'the first person' to describe the first person who did something.</li><li><b>that set foot</b> (Relative clause): Relative clause: 'that set foot' is a relative clause, but the correct structure here is to use the to-infinitive.</li></ul><b>Related structure or vocabulary:</b> Structure: the first/second/only/last + to-infinitive (e.g., She was the first person to arrive.)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb644b",
+        "questionNumber": 11,
+        "questionText": "Yuri Gagarin was the first person __________into space.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has traveled",
+            "raw": "A. has traveled ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "traveling",
+            "raw": "B. traveling ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "traveled",
+            "raw": "C. traveled ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to travel",
+            "raw": "D. to travel",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Yuri Gagarin was the first person __________ into space.' requires an infinitive form. In English, after 'the first/second/next/last + person/thing', we use the infinitive (to + verb) to indicate the first person to do something. Therefore, the correct answer is 'to travel'.<br><ul><li><b>has traveled</b> (verb (present perfect)): Present perfect tense, used to describe an action that happened at an unspecified time before now. Not suitable after 'the first person'.</li><li><b>traveling</b> (verb (gerund/participle)): V-ing form (gerund/participle), used for continuous actions or as a noun. Not used after 'the first person' in this context.</li><li><b>traveled</b> (verb (past tense/past participle)): Past tense or past participle, used to describe a completed action. Not the correct structure after 'the first person'.</li><li><b>to travel</b> (verb (infinitive)): Infinitive form, used after 'the first/second/next/last + person/thing' to indicate the first person to do something.</li></ul><b>Related structure or vocabulary:</b> Structure: the first/second/next/last + person/thing + to + verb (infinitive). Example: She was the first student to finish the test.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Yuri Gagarin was the first person __________ into space.' cần điền dạng động từ nguyên mẫu có 'to'. Trong tiếng Anh, sau cấu trúc 'the first/second/next/last + person/thing', ta dùng động từ nguyên mẫu (to + verb) để chỉ người đầu tiên làm việc gì đó. Vì vậy, đáp án đúng là 'to travel'.<br><ul><li><b>has traveled</b> (động từ (thì hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng để diễn tả hành động đã xảy ra tại một thời điểm không xác định trước hiện tại. Không phù hợp sau 'the first person'.</li><li><b>traveling</b> (động từ (danh động từ/hiện tại phân từ)): Dạng V-ing (danh động từ/hiện tại phân từ), dùng cho hành động đang diễn ra hoặc làm danh từ. Không dùng sau 'the first person' trong trường hợp này.</li><li><b>traveled</b> (động từ (quá khứ đơn/quá khứ phân từ)): Dạng quá khứ đơn hoặc quá khứ phân từ, dùng để diễn tả hành động đã hoàn thành. Không phải cấu trúc đúng sau 'the first person'.</li><li><b>to travel</b> (động từ (nguyên mẫu có 'to')): Dạng động từ nguyên mẫu có 'to', dùng sau 'the first/second/next/last + person/thing' để chỉ người đầu tiên làm việc gì đó.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: the first/second/next/last + person/thing + to + verb (động từ nguyên mẫu). Ví dụ: She was the first student to finish the test.<br><br><b>Tạm dịch:</b> Yuri Gagarin là người đầu tiên bay vào vũ trụ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Yuri Gagarin was the first person __________ into space.' requires an infinitive form. In English, after 'the first/second/next/last + person/thing', we use the infinitive (to + verb) to indicate the first person to do something. Therefore, the correct answer is 'to travel'.<br><ul><li><b>has traveled</b> (verb (present perfect)): Present perfect tense, used to describe an action that happened at an unspecified time before now. Not suitable after 'the first person'.</li><li><b>traveling</b> (verb (gerund/participle)): V-ing form (gerund/participle), used for continuous actions or as a noun. Not used after 'the first person' in this context.</li><li><b>traveled</b> (verb (past tense/past participle)): Past tense or past participle, used to describe a completed action. Not the correct structure after 'the first person'.</li><li><b>to travel</b> (verb (infinitive)): Infinitive form, used after 'the first/second/next/last + person/thing' to indicate the first person to do something.</li></ul><b>Related structure or vocabulary:</b> Structure: the first/second/next/last + person/thing + to + verb (infinitive). Example: She was the first student to finish the test.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb644c",
+        "questionNumber": 12,
+        "questionText": "Florida, _____ the Sunshine State, attracts many tourists every year.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is",
+            "raw": "A. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is known as",
+            "raw": "B. is known as ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "known as",
+            "raw": "C. known as",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "that is known as",
+            "raw": "D. that is known as",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank is used to add extra information about Florida. The correct structure for adding extra information (non-defining relative clause) is to use a participle phrase. 'Known as the Sunshine State' is a reduced relative clause, which is commonly used after a noun to give more information. Therefore, the correct answer is 'known as'.<br><ul><li><b>is</b> (verb): A verb (to be). Using 'is' here would make the sentence grammatically incorrect because it would create a run-on sentence.</li><li><b>is known as</b> (verb phrase): A passive verb phrase. Using 'is known as' would require a separate clause, but the sentence structure does not allow for another verb here.</li><li><b>known as</b> (participle phrase): A participle phrase. This is the correct form to add extra information about Florida without starting a new clause.</li><li><b>that is known as</b> (relative clause): A relative clause. However, in this sentence, we do not need a full relative clause, just a phrase to add information.</li></ul><b>Related structure or vocabulary:</b> Participle phrase used to add extra information about a noun (reduced relative clause).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống được dùng để bổ sung thông tin về Florida. Cấu trúc đúng để thêm thông tin bổ sung (mệnh đề quan hệ không xác định) là sử dụng cụm phân từ. 'Known as the Sunshine State' là một mệnh đề quan hệ rút gọn, thường được dùng sau danh từ để cung cấp thêm thông tin. Vì vậy, đáp án đúng là 'known as'.<br><ul><li><b>is</b> (động từ): 'is' là động từ to be. Nếu dùng 'is' ở đây sẽ khiến câu bị sai ngữ pháp vì tạo thành câu ghép không hợp lý.</li><li><b>is known as</b> (cụm động từ): 'is known as' là cụm động từ bị động. Nếu dùng cụm này thì cần một mệnh đề riêng, nhưng cấu trúc câu không cho phép có thêm động từ ở đây.</li><li><b>known as</b> (cụm phân từ): 'known as' là cụm phân từ. Đây là dạng đúng để bổ sung thông tin về Florida mà không cần bắt đầu một mệnh đề mới.</li><li><b>that is known as</b> (mệnh đề quan hệ): 'that is known as' là mệnh đề quan hệ. Tuy nhiên, trong câu này, ta không cần một mệnh đề đầy đủ mà chỉ cần một cụm từ để bổ sung thông tin.</li></ul><b>Cấu trúc và từ vựng:</b> Cụm phân từ dùng để bổ sung thông tin cho danh từ (mệnh đề quan hệ rút gọn).<br><br><b>Tạm dịch:</b> Florida, được biết đến là Tiểu bang Ánh Dương, thu hút rất nhiều khách du lịch mỗi năm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank is used to add extra information about Florida. The correct structure for adding extra information (non-defining relative clause) is to use a participle phrase. 'Known as the Sunshine State' is a reduced relative clause, which is commonly used after a noun to give more information. Therefore, the correct answer is 'known as'.<br><ul><li><b>is</b> (verb): A verb (to be). Using 'is' here would make the sentence grammatically incorrect because it would create a run-on sentence.</li><li><b>is known as</b> (verb phrase): A passive verb phrase. Using 'is known as' would require a separate clause, but the sentence structure does not allow for another verb here.</li><li><b>known as</b> (participle phrase): A participle phrase. This is the correct form to add extra information about Florida without starting a new clause.</li><li><b>that is known as</b> (relative clause): A relative clause. However, in this sentence, we do not need a full relative clause, just a phrase to add information.</li></ul><b>Related structure or vocabulary:</b> Participle phrase used to add extra information about a noun (reduced relative clause).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb644d",
+        "questionNumber": 13,
+        "questionText": "He was the first person ________ the room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "entering",
+            "raw": "A. entering ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to enter",
+            "raw": "B. to enter",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "to be enter",
+            "raw": "C. to be enter ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "having entered",
+            "raw": "D. having entered ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after 'the first person', which is a superlative phrase. In English, after superlatives (the first, the second, the only, etc.), we often use the infinitive form 'to + verb' to indicate the action that the person is the first to do. Therefore, the correct answer is 'to enter'.<br><ul><li><b>entering</b> (V-ing): Present participle/V-ing form, usually used for continuous tenses or after prepositions, not suitable after 'the first person'.</li><li><b>to enter</b> (to-infinitive): Infinitive form, used after superlative expressions like 'the first', 'the second', 'the only', etc.</li><li><b>to be enter</b> (to be + base verb (incorrect)): Incorrect structure; 'enter' should be in past participle form if used in passive voice ('to be entered'), but the sentence does not require passive.</li><li><b>having entered</b> (Perfect participle): Perfect participle, used to show an action completed before another action, not suitable here.</li></ul><b>Related structure or vocabulary:</b> Superlative + to-infinitive: After superlative adjectives (the first, the second, the only, etc.), we use 'to + verb' to indicate the action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống đứng sau cụm 'the first person', là một cụm so sánh nhất. Trong tiếng Anh, sau các cụm so sánh nhất (the first, the second, the only, v.v.), ta thường dùng động từ nguyên mẫu có 'to' (to + verb) để chỉ hành động mà người đó là người đầu tiên thực hiện. Vì vậy, đáp án đúng là 'to enter'.<br><ul><li><b>entering</b> (V-ing): Dạng hiện tại phân từ/V-ing, thường dùng cho thì tiếp diễn hoặc sau giới từ, không phù hợp sau 'the first person'.</li><li><b>to enter</b> (to-infinitive): Động từ nguyên mẫu có 'to', dùng sau các cụm so sánh nhất như 'the first', 'the second', 'the only', v.v.</li><li><b>to be enter</b> (to be + động từ nguyên mẫu (sai)): Cấu trúc sai; 'enter' phải ở dạng quá khứ phân từ nếu dùng bị động ('to be entered'), nhưng câu này không cần bị động.</li><li><b>having entered</b> (Phân từ hoàn thành): Hiện tại phân từ hoàn thành, dùng để chỉ hành động đã hoàn thành trước một hành động khác, không phù hợp ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> So sánh nhất + động từ nguyên mẫu có 'to': Sau các tính từ so sánh nhất (the first, the second, the only, v.v.), ta dùng 'to + động từ' để chỉ hành động.<br><br><b>Tạm dịch:</b> Anh ấy là người đầu tiên vào phòng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after 'the first person', which is a superlative phrase. In English, after superlatives (the first, the second, the only, etc.), we often use the infinitive form 'to + verb' to indicate the action that the person is the first to do. Therefore, the correct answer is 'to enter'.<br><ul><li><b>entering</b> (V-ing): Present participle/V-ing form, usually used for continuous tenses or after prepositions, not suitable after 'the first person'.</li><li><b>to enter</b> (to-infinitive): Infinitive form, used after superlative expressions like 'the first', 'the second', 'the only', etc.</li><li><b>to be enter</b> (to be + base verb (incorrect)): Incorrect structure; 'enter' should be in past participle form if used in passive voice ('to be entered'), but the sentence does not require passive.</li><li><b>having entered</b> (Perfect participle): Perfect participle, used to show an action completed before another action, not suitable here.</li></ul><b>Related structure or vocabulary:</b> Superlative + to-infinitive: After superlative adjectives (the first, the second, the only, etc.), we use 'to + verb' to indicate the action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb644e",
+        "questionNumber": 14,
+        "questionText": "Do you know the person _________ next to you in the evening class?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "whose sitting",
+            "raw": "A. whose sitting ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "whom sits",
+            "raw": "B. whom sits",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "sitting",
+            "raw": "C. sitting",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "who sit",
+            "raw": "D. who sit ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a word or phrase to describe 'the person.' In English, when we want to describe a noun (like 'the person') with an action, we often use a present participle (V-ing) as an adjective. Here, 'sitting' describes 'the person' who is sitting next to you. Therefore, the correct answer is 'sitting.'<br><ul><li><b>whose sitting</b> (possessive pronoun + V-ing): 'Whose' is a possessive pronoun, used to show ownership, and cannot be followed directly by a verb in the -ing form in this context.</li><li><b>whom sits</b> (object pronoun + verb): 'Whom' is an object pronoun, but it cannot be used as the subject of a verb. The correct relative pronoun for a subject is 'who.'</li><li><b>sitting</b> (present participle (V-ing)): 'Sitting' is the present participle (V-ing), used here as an adjective to describe 'the person.'</li><li><b>who sit</b> (subject pronoun + verb): 'Who' is a subject pronoun, but 'sit' should be 'sits' to agree with the singular noun 'person.'</li></ul><b>Related structure or vocabulary:</b> Present participle (V-ing) used as an adjective to describe a noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ hoặc cụm từ để miêu tả 'the person' (người). Trong tiếng Anh, khi muốn miêu tả một danh từ bằng một hành động, ta thường dùng hiện tại phân từ (V-ing) như một tính từ. Ở đây, 'sitting' dùng để miêu tả 'the person' (người đang ngồi cạnh bạn). Vì vậy, đáp án đúng là 'sitting.'<br><ul><li><b>whose sitting</b> (đại từ sở hữu + V-ing): 'Whose' là đại từ sở hữu, dùng để chỉ sự sở hữu, không thể đi trực tiếp với động từ dạng V-ing trong trường hợp này.</li><li><b>whom sits</b> (đại từ tân ngữ + động từ): 'Whom' là đại từ tân ngữ, không thể làm chủ ngữ của động từ. Đại từ quan hệ đúng để làm chủ ngữ là 'who.'</li><li><b>sitting</b> (hiện tại phân từ (V-ing)): 'Sitting' là hiện tại phân từ (V-ing), dùng như một tính từ để miêu tả 'the person.'</li><li><b>who sit</b> (đại từ chủ ngữ + động từ): 'Who' là đại từ chủ ngữ, nhưng 'sit' phải là 'sits' để hòa hợp với danh từ số ít 'person.'</li></ul><b>Cấu trúc và từ vựng:</b> Hiện tại phân từ (V-ing) dùng như tính từ để miêu tả danh từ.<br><br><b>Tạm dịch:</b> Bạn có biết người NGỒI cạnh bạn trong lớp học buổi tối không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a word or phrase to describe 'the person.' In English, when we want to describe a noun (like 'the person') with an action, we often use a present participle (V-ing) as an adjective. Here, 'sitting' describes 'the person' who is sitting next to you. Therefore, the correct answer is 'sitting.'<br><ul><li><b>whose sitting</b> (possessive pronoun + V-ing): 'Whose' is a possessive pronoun, used to show ownership, and cannot be followed directly by a verb in the -ing form in this context.</li><li><b>whom sits</b> (object pronoun + verb): 'Whom' is an object pronoun, but it cannot be used as the subject of a verb. The correct relative pronoun for a subject is 'who.'</li><li><b>sitting</b> (present participle (V-ing)): 'Sitting' is the present participle (V-ing), used here as an adjective to describe 'the person.'</li><li><b>who sit</b> (subject pronoun + verb): 'Who' is a subject pronoun, but 'sit' should be 'sits' to agree with the singular noun 'person.'</li></ul><b>Related structure or vocabulary:</b> Present participle (V-ing) used as an adjective to describe a noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb644f",
+        "questionNumber": 15,
+        "questionText": "A college is a public institution ______ higher education to young men and women.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "providing",
+            "raw": "A. providing",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "which provide",
+            "raw": "B. which provide",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to provide to",
+            "raw": "C. to provide to ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "provided to",
+            "raw": "D. provided to ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A college is a public institution ______ higher education to young men and women.' requires a word or phrase that describes the noun 'institution.' In English, we often use a present participle (V-ing) to modify a noun, indicating the function or characteristic of the noun. Here, 'providing' acts as an adjective to describe what the institution does: it provides higher education.<br><ul><li><b>providing</b> (V-ing (present participle)): Present participle (V-ing) used to modify a noun, showing the function or characteristic of the noun.</li><li><b>which provide</b> (relative clause): A relative clause, but 'which provide' is incorrect here because it does not fit the structure of the sentence and 'which' would require a comma before it.</li><li><b>to provide to</b> (infinitive): Infinitive form, but 'to provide to' is not used to modify a noun directly in this context.</li><li><b>provided to</b> (V-ed (past participle)): Past participle (V-ed), usually used in passive voice or after 'which is/are', not suitable here.</li></ul><b>Related structure or vocabulary:</b> Present participle (V-ing) used to modify a noun: Noun + V-ing (e.g., a machine making coffee, a company selling cars)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'A college is a public institution ______ higher education to young men and women.' cần một từ hoặc cụm từ để bổ nghĩa cho danh từ 'institution'. Trong tiếng Anh, chúng ta thường dùng hiện tại phân từ (V-ing) để bổ nghĩa cho danh từ, diễn tả chức năng hoặc đặc điểm của danh từ đó. Ở đây, 'providing' đóng vai trò như một tính từ, mô tả chức năng của trường đại học: cung cấp giáo dục đại học.<br><ul><li><b>providing</b> (V-ing (hiện tại phân từ)): Hiện tại phân từ (V-ing) dùng để bổ nghĩa cho danh từ, diễn tả chức năng hoặc đặc điểm của danh từ.</li><li><b>which provide</b> (mệnh đề quan hệ): Mệnh đề quan hệ, nhưng 'which provide' không phù hợp ở đây vì không đúng cấu trúc câu và cần có dấu phẩy phía trước 'which'.</li><li><b>to provide to</b> (động từ nguyên mẫu): Dạng động từ nguyên mẫu, nhưng 'to provide to' không dùng để bổ nghĩa trực tiếp cho danh từ trong trường hợp này.</li><li><b>provided to</b> (V-ed (quá khứ phân từ)): Quá khứ phân từ (V-ed), thường dùng trong câu bị động hoặc sau 'which is/are', không phù hợp ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Hiện tại phân từ (V-ing) dùng để bổ nghĩa cho danh từ: Noun + V-ing (ví dụ: a machine making coffee, a company selling cars)<br><br><b>Tạm dịch:</b> Một trường đại học là một tổ chức công cung cấp giáo dục đại học cho nam và nữ thanh niên.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A college is a public institution ______ higher education to young men and women.' requires a word or phrase that describes the noun 'institution.' In English, we often use a present participle (V-ing) to modify a noun, indicating the function or characteristic of the noun. Here, 'providing' acts as an adjective to describe what the institution does: it provides higher education.<br><ul><li><b>providing</b> (V-ing (present participle)): Present participle (V-ing) used to modify a noun, showing the function or characteristic of the noun.</li><li><b>which provide</b> (relative clause): A relative clause, but 'which provide' is incorrect here because it does not fit the structure of the sentence and 'which' would require a comma before it.</li><li><b>to provide to</b> (infinitive): Infinitive form, but 'to provide to' is not used to modify a noun directly in this context.</li><li><b>provided to</b> (V-ed (past participle)): Past participle (V-ed), usually used in passive voice or after 'which is/are', not suitable here.</li></ul><b>Related structure or vocabulary:</b> Present participle (V-ing) used to modify a noun: Noun + V-ing (e.g., a machine making coffee, a company selling cars)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6450",
+        "questionNumber": 16,
+        "questionText": "Near the White House is another famous landmark _______the Washington Monument.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "which called",
+            "raw": "A. which called ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "called",
+            "raw": "B. called",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "which calls",
+            "raw": "C. which calls ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "calling",
+            "raw": "D. calling ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Near the White House is another famous landmark _______ the Washington Monument.' requires a reduced relative clause to describe 'another famous landmark.' In English, when we want to describe a noun with a passive meaning, we often use the past participle (V-ed/adj) form. Here, 'called' is the past participle, meaning 'which is called.'<br><ul><li><b>which called</b> (relative clause (incorrect form)): 'which called' is incorrect because after 'which' (a relative pronoun), we need a verb in the correct tense. 'Called' alone cannot function as a verb here.</li><li><b>called</b> (past participle (V-ed/adj)): 'called' is the past participle, used to form a reduced relative clause, meaning 'which is called.' This is the correct answer.</li><li><b>which calls</b> (relative clause (incorrect verb form)): 'which calls' is incorrect because 'calls' is the present simple verb, which would mean the landmark is calling something, which does not make sense.</li><li><b>calling</b> (present participle (V-ing)): 'calling' is the present participle (V-ing), used for active meaning, but here we need a passive meaning.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When describing a noun with a passive meaning, use the past participle (V-ed/adj) after the noun. Example: 'The book written by John.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Near the White House is another famous landmark _______ the Washington Monument.' cần một mệnh đề quan hệ rút gọn để miêu tả cho 'another famous landmark'. Trong tiếng Anh, khi muốn miêu tả một danh từ với nghĩa bị động, ta thường dùng dạng quá khứ phân từ (V-ed/adj). Ở đây, 'called' là quá khứ phân từ, mang nghĩa 'which is called' (được gọi là).<br><ul><li><b>which called</b> (mệnh đề quan hệ (dạng sai)): 'which called' là sai vì sau 'which' (đại từ quan hệ), cần một động từ chia đúng thì. 'Called' không thể đứng một mình làm động từ ở đây.</li><li><b>called</b> (quá khứ phân từ (V-ed/adj)): 'called' là quá khứ phân từ, dùng để rút gọn mệnh đề quan hệ mang nghĩa bị động, nghĩa là 'which is called'. Đây là đáp án đúng.</li><li><b>which calls</b> (mệnh đề quan hệ (động từ sai thì)): 'which calls' là sai vì 'calls' là động từ hiện tại đơn, mang nghĩa chủ động (gọi cái gì đó), không phù hợp với ý nghĩa câu.</li><li><b>calling</b> (hiện tại phân từ (V-ing)): 'calling' là hiện tại phân từ (V-ing), dùng cho nghĩa chủ động, nhưng ở đây cần nghĩa bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Khi miêu tả danh từ với nghĩa bị động, dùng quá khứ phân từ (V-ed/adj) sau danh từ. Ví dụ: 'The book written by John.'<br><br><b>Tạm dịch:</b> Gần Nhà Trắng là một địa danh nổi tiếng khác được gọi là Đài tưởng niệm Washington.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Near the White House is another famous landmark _______ the Washington Monument.' requires a reduced relative clause to describe 'another famous landmark.' In English, when we want to describe a noun with a passive meaning, we often use the past participle (V-ed/adj) form. Here, 'called' is the past participle, meaning 'which is called.'<br><ul><li><b>which called</b> (relative clause (incorrect form)): 'which called' is incorrect because after 'which' (a relative pronoun), we need a verb in the correct tense. 'Called' alone cannot function as a verb here.</li><li><b>called</b> (past participle (V-ed/adj)): 'called' is the past participle, used to form a reduced relative clause, meaning 'which is called.' This is the correct answer.</li><li><b>which calls</b> (relative clause (incorrect verb form)): 'which calls' is incorrect because 'calls' is the present simple verb, which would mean the landmark is calling something, which does not make sense.</li><li><b>calling</b> (present participle (V-ing)): 'calling' is the present participle (V-ing), used for active meaning, but here we need a passive meaning.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When describing a noun with a passive meaning, use the past participle (V-ed/adj) after the noun. Example: 'The book written by John.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6451",
+        "questionNumber": 17,
+        "questionText": "The man ________ under oath at court was charged with perverting the course of justice.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "lied",
+            "raw": "A. lied ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "lain",
+            "raw": "B. lain",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "lay",
+            "raw": "C. lay ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "lying",
+            "raw": "D. lying",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a present participle (V-ing) to describe 'the man' and act as a reduced relative clause. The full sentence would be: 'The man who was lying under oath at court was charged with perverting the course of justice.' Here, 'lying' describes the action the man was doing at the time.<br><ul><li><b>lied</b> (verb (past tense)): Past tense of 'lie' (to not tell the truth). However, it cannot be used as an adjective or participle to modify 'the man' in this context.</li><li><b>lain</b> (verb (past participle)): Past participle of 'lie' (to recline), not suitable here as it does not fit the meaning or grammar.</li><li><b>lay</b> (verb (past tense)): Past tense of 'lie' (to recline), not correct here as it does not function as a modifier.</li><li><b>lying</b> (verb (present participle/V-ing)): Present participle of 'lie' (to not tell the truth), used to describe someone who is currently doing the action. Correct form to modify 'the man'.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When describing a noun, we can use the present participle (V-ing) to replace 'who/that is ...'. For example: 'The man lying under oath' = 'The man who is lying under oath'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một hiện tại phân từ (V-ing) để mô tả 'the man' và đóng vai trò như một mệnh đề quan hệ rút gọn. Câu đầy đủ sẽ là: 'The man who was lying under oath at court was charged with perverting the course of justice.' Ở đây, 'lying' mô tả hành động mà người đàn ông đang thực hiện tại thời điểm đó.<br><ul><li><b>lied</b> (động từ (quá khứ)): 'Lied' là thì quá khứ của 'lie' (nói dối). Tuy nhiên, nó không thể dùng như một tính từ hoặc phân từ để bổ nghĩa cho 'the man' trong trường hợp này.</li><li><b>lain</b> (động từ (quá khứ phân từ)): 'Lain' là quá khứ phân từ của 'lie' (nằm), không phù hợp ở đây vì không đúng nghĩa và ngữ pháp.</li><li><b>lay</b> (động từ (quá khứ)): 'Lay' là thì quá khứ của 'lie' (nằm), không đúng ở đây vì không đóng vai trò bổ nghĩa.</li><li><b>lying</b> (động từ (hiện tại phân từ/V-ing)): 'Lying' là hiện tại phân từ của 'lie' (nói dối), dùng để mô tả ai đó đang thực hiện hành động này. Đây là dạng đúng để bổ nghĩa cho 'the man'.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Khi mô tả một danh từ, ta có thể dùng hiện tại phân từ (V-ing) để thay thế cho 'who/that is ...'. Ví dụ: 'The man lying under oath' = 'The man who is lying under oath'.<br><br><b>Tạm dịch:</b> Người đàn ông đang nói dối dưới lời tuyên thệ tại tòa đã bị buộc tội cản trở công lý.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a present participle (V-ing) to describe 'the man' and act as a reduced relative clause. The full sentence would be: 'The man who was lying under oath at court was charged with perverting the course of justice.' Here, 'lying' describes the action the man was doing at the time.<br><ul><li><b>lied</b> (verb (past tense)): Past tense of 'lie' (to not tell the truth). However, it cannot be used as an adjective or participle to modify 'the man' in this context.</li><li><b>lain</b> (verb (past participle)): Past participle of 'lie' (to recline), not suitable here as it does not fit the meaning or grammar.</li><li><b>lay</b> (verb (past tense)): Past tense of 'lie' (to recline), not correct here as it does not function as a modifier.</li><li><b>lying</b> (verb (present participle/V-ing)): Present participle of 'lie' (to not tell the truth), used to describe someone who is currently doing the action. Correct form to modify 'the man'.</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When describing a noun, we can use the present participle (V-ing) to replace 'who/that is ...'. For example: 'The man lying under oath' = 'The man who is lying under oath'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249afe83f28145bcbb6452",
+        "questionNumber": 18,
+        "questionText": "Candles________from beeswax burn with a very clean flame.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are made",
+            "raw": "A. are made ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "making",
+            "raw": "B. making",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "which make",
+            "raw": "C. which make ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "made",
+            "raw": "D. made",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Candles________from beeswax burn with a very clean flame.' requires a past participle to form a reduced relative clause. The full sentence would be 'Candles which are made from beeswax burn with a very clean flame.' In reduced form, we use the past participle 'made' to modify 'candles.'<br><ul><li><b>are made</b> (verb phrase): This is a passive verb phrase (present simple passive). It cannot be used directly after a noun to modify it.</li><li><b>making</b> (present participle): This is the present participle (V-ing), used for active meaning or continuous tenses, not for passive meaning.</li><li><b>which make</b> (relative clause): This is a relative clause in active voice, but 'candles' do not make beeswax; they are made from beeswax.</li><li><b>made</b> (past participle): This is the past participle, used to form a reduced relative clause with passive meaning: 'candles made from beeswax.'</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When describing a noun with a passive meaning, we use the past participle after the noun. Example: 'Books written by him are famous.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Candles________from beeswax burn with a very clean flame.' cần một phân từ quá khứ (past participle) để tạo mệnh đề quan hệ rút gọn. Câu đầy đủ sẽ là: 'Candles which are made from beeswax burn with a very clean flame.' Khi rút gọn, ta dùng phân từ quá khứ 'made' để bổ nghĩa cho 'candles.'<br><ul><li><b>are made</b> (cụm động từ): Đây là cụm động từ bị động (hiện tại đơn bị động). Không thể dùng trực tiếp sau danh từ để bổ nghĩa cho danh từ.</li><li><b>making</b> (hiện tại phân từ): Đây là hiện tại phân từ (V-ing), dùng cho nghĩa chủ động hoặc thì tiếp diễn, không dùng cho nghĩa bị động.</li><li><b>which make</b> (mệnh đề quan hệ): Đây là mệnh đề quan hệ ở thể chủ động, nhưng 'candles' không tạo ra sáp ong mà được làm từ sáp ong.</li><li><b>made</b> (phân từ quá khứ): Đây là phân từ quá khứ, dùng để rút gọn mệnh đề quan hệ với nghĩa bị động: 'candles made from beeswax.'</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ rút gọn: Khi bổ nghĩa cho danh từ với nghĩa bị động, ta dùng phân từ quá khứ sau danh từ. Ví dụ: 'Books written by him are famous.'<br><br><b>Tạm dịch:</b> Nến được làm từ sáp ong cháy với ngọn lửa rất sạch.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Candles________from beeswax burn with a very clean flame.' requires a past participle to form a reduced relative clause. The full sentence would be 'Candles which are made from beeswax burn with a very clean flame.' In reduced form, we use the past participle 'made' to modify 'candles.'<br><ul><li><b>are made</b> (verb phrase): This is a passive verb phrase (present simple passive). It cannot be used directly after a noun to modify it.</li><li><b>making</b> (present participle): This is the present participle (V-ing), used for active meaning or continuous tenses, not for passive meaning.</li><li><b>which make</b> (relative clause): This is a relative clause in active voice, but 'candles' do not make beeswax; they are made from beeswax.</li><li><b>made</b> (past participle): This is the past participle, used to form a reduced relative clause with passive meaning: 'candles made from beeswax.'</li></ul><b>Related structure or vocabulary:</b> Reduced relative clause: When describing a noun with a passive meaning, we use the past participle after the noun. Example: 'Books written by him are famous.'<br><br>"
+      }
+    }
+  ]
+}

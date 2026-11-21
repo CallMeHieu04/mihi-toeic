@@ -1,0 +1,728 @@
+{
+  "topicId": "622483a983f28145bcbb3cf2",
+  "title": "IMPERATIVE PASSIVE AND SPECIAL PASSIVE CASES - Practice 3",
+  "totalCards": 18,
+  "totalQuestions": 18,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb402a",
+        "questionNumber": 1,
+        "questionText": "We will send you the results as soon as they are ready.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "You will be sent the results as soon as they are ready.",
+            "raw": "A. You will be sent the results as soon as they are ready.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "You will be sent the results as soon as they are ready by us.",
+            "raw": "B. You will be sent the results as soon as they are ready by us.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The results will be sent you by us as soon as they are ready.",
+            "raw": "C. The results will be sent you by us as soon as they are ready.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The results will be sent you as soon as they are ready by us.",
+            "raw": "D. The results will be sent you as soon as they are ready by us.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence requires changing the active voice sentence 'We will send you the results as soon as they are ready.' into the passive voice. In passive voice, the object of the active sentence ('you') becomes the subject, and the verb is changed to the passive form. The correct passive structure is: 'You will be sent the results as soon as they are ready.'<br><ul><li><b>A. You will be sent the results as soon as they are ready.</b> (Sentence): This is the correct passive form. 'You' is the subject, 'will be sent' is the passive verb, and 'the results' is the object.</li><li><b>B. You will be sent the results as soon as they are ready by us.</b> (Sentence): This is grammatically correct, but adding 'by us' is unnecessary because 'we' is not emphasized in the original sentence.</li><li><b>C. The results will be sent you by us as soon as they are ready.</b> (Sentence): Incorrect word order. In passive voice, when both a direct and indirect object are present, 'to' or 'for' is needed before the indirect object ('sent to you').</li><li><b>D. The results will be sent you as soon as they are ready by us.</b> (Sentence): Incorrect word order and missing 'to' before 'you'.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + will be + past participle (sent). When changing from active to passive, the object of the active sentence becomes the subject of the passive sentence.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này yêu cầu chuyển câu chủ động 'We will send you the results as soon as they are ready.' sang câu bị động. Trong câu bị động, tân ngữ của câu chủ động ('you') trở thành chủ ngữ, và động từ được chuyển sang dạng bị động. Cấu trúc bị động đúng là: 'You will be sent the results as soon as they are ready.'<br><ul><li><b>A. You will be sent the results as soon as they are ready.</b> (Câu): Đây là dạng bị động đúng. 'You' là chủ ngữ, 'will be sent' là động từ bị động, và 'the results' là tân ngữ.</li><li><b>B. You will be sent the results as soon as they are ready by us.</b> (Câu): Câu này đúng về ngữ pháp, nhưng thêm 'by us' là không cần thiết vì 'we' không được nhấn mạnh trong câu gốc.</li><li><b>C. The results will be sent you by us as soon as they are ready.</b> (Câu): Sai trật tự từ. Trong câu bị động, khi có cả tân ngữ trực tiếp và gián tiếp, cần có 'to' hoặc 'for' trước tân ngữ gián tiếp ('sent to you').</li><li><b>D. The results will be sent you as soon as they are ready by us.</b> (Câu): Sai trật tự từ và thiếu 'to' trước 'you'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: Chủ ngữ + will be + quá khứ phân từ (sent). Khi chuyển từ chủ động sang bị động, tân ngữ của câu chủ động trở thành chủ ngữ của câu bị động.<br><br><b>Tạm dịch:</b> Chúng tôi sẽ gửi cho bạn kết quả ngay khi chúng sẵn sàng. → Bạn sẽ được gửi kết quả ngay khi chúng sẵn sàng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence requires changing the active voice sentence 'We will send you the results as soon as they are ready.' into the passive voice. In passive voice, the object of the active sentence ('you') becomes the subject, and the verb is changed to the passive form. The correct passive structure is: 'You will be sent the results as soon as they are ready.'<br><ul><li><b>A. You will be sent the results as soon as they are ready.</b> (Sentence): This is the correct passive form. 'You' is the subject, 'will be sent' is the passive verb, and 'the results' is the object.</li><li><b>B. You will be sent the results as soon as they are ready by us.</b> (Sentence): This is grammatically correct, but adding 'by us' is unnecessary because 'we' is not emphasized in the original sentence.</li><li><b>C. The results will be sent you by us as soon as they are ready.</b> (Sentence): Incorrect word order. In passive voice, when both a direct and indirect object are present, 'to' or 'for' is needed before the indirect object ('sent to you').</li><li><b>D. The results will be sent you as soon as they are ready by us.</b> (Sentence): Incorrect word order and missing 'to' before 'you'.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + will be + past participle (sent). When changing from active to passive, the object of the active sentence becomes the subject of the passive sentence.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb402c",
+        "questionNumber": 2,
+        "questionText": "They say that many people are homeless after the tsunami.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "They say many people to have been homeless after the tsunami.",
+            "raw": "A. They say many people to have been homeless after the tsunami.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "They say many people to be homeless after the tsunami.",
+            "raw": "B. They say many people to be homeless after the tsunami.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Many people are said to been homeless after the tsunami.",
+            "raw": "C. Many people are said to been homeless after the tsunami.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Many people are said to be homeless after the tsunami.",
+            "raw": "D. Many people are said to be homeless after the tsunami.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is asking for the correct passive reporting structure. The original sentence is: 'They say that many people are homeless after the earthquake.' In passive reporting, we use the structure: 'S + are said + to + V (bare infinitive)' when the reporting verb is in the present simple and the reported action is also in the present. The correct answer must use 'are said to be homeless' to match the tense and meaning.<br><ul><li><b>A. They say many people to have been homeless after the tsunami.</b> (sentence): Incorrect structure. 'They say' should be followed by a clause, not an infinitive. Also, 'to have been' is used for past actions, but the original sentence is present.</li><li><b>B. They say many people to be homeless after the tsunami.</b> (sentence): Incorrect structure. 'They say' should be followed by a clause (that + S + V), not an infinitive.</li><li><b>C. Many people are said to been homeless after the tsunami.</b> (sentence): Incorrect verb form. After 'to', we need the base form 'be', not 'been'.</li><li><b>D. Many people are said to be homeless after the tsunami.</b> (sentence): Correct structure. 'are said to be' is the correct passive reporting structure for present actions.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structure: S + are/is/was/were said + to + V (bare infinitive) for present/future actions. Example: He is said to be a good student.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi yêu cầu chọn cấu trúc bị động tường thuật đúng. Câu gốc là: 'They say that many people are homeless after the earthquake.' Trong câu bị động tường thuật, ta dùng cấu trúc: 'S + are said + to + V (nguyên thể)' khi động từ tường thuật ở hiện tại đơn và hành động được tường thuật cũng ở hiện tại. Đáp án đúng phải dùng 'are said to be homeless' để phù hợp thì và nghĩa.<br><ul><li><b>A. They say many people to have been homeless after the tsunami.</b> (câu): Cấu trúc sai. 'They say' phải theo sau bởi một mệnh đề, không phải động từ nguyên thể. Ngoài ra, 'to have been' dùng cho hành động đã xảy ra trong quá khứ, trong khi câu gốc là hiện tại.</li><li><b>B. They say many people to be homeless after the tsunami.</b> (câu): Cấu trúc sai. 'They say' phải theo sau bởi một mệnh đề (that + S + V), không phải động từ nguyên thể.</li><li><b>C. Many people are said to been homeless after the tsunami.</b> (câu): Sai dạng động từ. Sau 'to' phải là động từ nguyên thể 'be', không phải 'been'.</li><li><b>D. Many people are said to be homeless after the tsunami.</b> (câu): Cấu trúc đúng. 'are said to be' là cấu trúc bị động tường thuật đúng cho hành động ở hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động tường thuật: S + are/is/was/were said + to + V (nguyên thể) cho hành động ở hiện tại/tương lai. Ví dụ: He is said to be a good student.<br><br><b>Tạm dịch:</b> Nhiều người được cho là vô gia cư sau trận sóng thần.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is asking for the correct passive reporting structure. The original sentence is: 'They say that many people are homeless after the earthquake.' In passive reporting, we use the structure: 'S + are said + to + V (bare infinitive)' when the reporting verb is in the present simple and the reported action is also in the present. The correct answer must use 'are said to be homeless' to match the tense and meaning.<br><ul><li><b>A. They say many people to have been homeless after the tsunami.</b> (sentence): Incorrect structure. 'They say' should be followed by a clause, not an infinitive. Also, 'to have been' is used for past actions, but the original sentence is present.</li><li><b>B. They say many people to be homeless after the tsunami.</b> (sentence): Incorrect structure. 'They say' should be followed by a clause (that + S + V), not an infinitive.</li><li><b>C. Many people are said to been homeless after the tsunami.</b> (sentence): Incorrect verb form. After 'to', we need the base form 'be', not 'been'.</li><li><b>D. Many people are said to be homeless after the tsunami.</b> (sentence): Correct structure. 'are said to be' is the correct passive reporting structure for present actions.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structure: S + are/is/was/were said + to + V (bare infinitive) for present/future actions. Example: He is said to be a good student.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb402d",
+        "questionNumber": 3,
+        "questionText": "They think that the prisoner escaped by climbing over the wall.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The prisoner is thought to escape by climbing over the wall.",
+            "raw": "A. The prisoner is thought to escape by climbing over the wall.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The prisoner is thought escaped by climbing over the wall.",
+            "raw": "B. The prisoner is thought escaped by climbing over the wall.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The prisoner is thought having escaped by climbing over the wall.",
+            "raw": "C. The prisoner is thought having escaped by climbing over the wall.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The prisoner is thought to have escaped by climbing over the wall.",
+            "raw": "D. The prisoner is thought to have escaped by climbing over the wall.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to change the active sentence 'They think that the prisoner escaped by climbing over the wall.' into the passive voice. The structure for passive reporting verbs like 'think' is: 'Subject + is/are thought + to have + past participle' when referring to a past action. Therefore, the correct answer is 'The prisoner is thought to have escaped by climbing over the wall.'<br><ul><li><b>A. The prisoner is thought to escape by climbing over the wall.</b> (verb phrase): 'to escape' (infinitive) is used for present or future actions, not for a past action that has already happened.</li><li><b>B. The prisoner is thought escaped by climbing over the wall.</b> (verb phrase): This structure is incorrect in English. We do not use 'thought' directly followed by a past participle without 'to have'.</li><li><b>C. The prisoner is thought having escaped by climbing over the wall.</b> (verb phrase): 'having escaped' is not used after 'is thought'. The correct form is 'to have escaped'.</li><li><b>D. The prisoner is thought to have escaped by climbing over the wall.</b> (verb phrase): 'to have escaped' (perfect infinitive) is used to show that the action (escaping) happened in the past. This matches the meaning of the original sentence.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: Subject + is/are thought/believed/said + to have + past participle (for past actions).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần chuyển câu chủ động 'They think that the prisoner escaped by climbing over the wall.' sang bị động. Cấu trúc bị động với các động từ tường thuật như 'think' là: 'Subject + is/are thought + to have + past participle' khi nói về một hành động đã xảy ra trong quá khứ. Vì vậy, đáp án đúng là 'The prisoner is thought to have escaped by climbing over the wall.'<br><ul><li><b>A. The prisoner is thought to escape by climbing over the wall.</b> (cụm động từ): 'to escape' (động từ nguyên mẫu) dùng cho hành động ở hiện tại hoặc tương lai, không phù hợp với hành động đã xảy ra trong quá khứ.</li><li><b>B. The prisoner is thought escaped by climbing over the wall.</b> (cụm động từ): Cấu trúc này sai trong tiếng Anh. Không dùng 'thought' trực tiếp với quá khứ phân từ mà không có 'to have'.</li><li><b>C. The prisoner is thought having escaped by climbing over the wall.</b> (cụm động từ): 'having escaped' không dùng sau 'is thought'. Dạng đúng là 'to have escaped'.</li><li><b>D. The prisoner is thought to have escaped by climbing over the wall.</b> (cụm động từ): 'to have escaped' (nguyên mẫu hoàn thành) dùng để diễn tả hành động (trốn thoát) đã xảy ra trong quá khứ. Phù hợp với ý nghĩa của câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ tường thuật: Subject + is/are thought/believed/said + to have + past participle (cho hành động quá khứ).<br><br><b>Tạm dịch:</b> Tù nhân được cho là đã trốn thoát bằng cách trèo qua bức tường.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to change the active sentence 'They think that the prisoner escaped by climbing over the wall.' into the passive voice. The structure for passive reporting verbs like 'think' is: 'Subject + is/are thought + to have + past participle' when referring to a past action. Therefore, the correct answer is 'The prisoner is thought to have escaped by climbing over the wall.'<br><ul><li><b>A. The prisoner is thought to escape by climbing over the wall.</b> (verb phrase): 'to escape' (infinitive) is used for present or future actions, not for a past action that has already happened.</li><li><b>B. The prisoner is thought escaped by climbing over the wall.</b> (verb phrase): This structure is incorrect in English. We do not use 'thought' directly followed by a past participle without 'to have'.</li><li><b>C. The prisoner is thought having escaped by climbing over the wall.</b> (verb phrase): 'having escaped' is not used after 'is thought'. The correct form is 'to have escaped'.</li><li><b>D. The prisoner is thought to have escaped by climbing over the wall.</b> (verb phrase): 'to have escaped' (perfect infinitive) is used to show that the action (escaping) happened in the past. This matches the meaning of the original sentence.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: Subject + is/are thought/believed/said + to have + past participle (for past actions).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb402e",
+        "questionNumber": 4,
+        "questionText": "They believe that the thieves got in through the kitchen window.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The thieves are believed to have got in through the kitchen window.",
+            "raw": "A. The thieves are believed to have got in through the kitchen window.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The thieves are believed to get in through the kitchen window.",
+            "raw": "B. The thieves are believed to get in through the kitchen window.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "They believe the thieves got in through the kitchen window.",
+            "raw": "C. They believe the thieves got in through the kitchen window.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "They believe the thieves have got in through the kitchen window.",
+            "raw": "D.They believe the thieves have got in through the kitchen window.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is asking for the correct passive form of the statement 'They believe that the thieves got in through the kitchen window.' In English, when we want to report what people generally believe, we often use the structure: 'Subject + is/are believed + to have + past participle.' This structure is used when the action happened in the past. Therefore, the correct answer is: 'The thieves are believed to have got in through the kitchen window.'<br><ul><li><b>A. The thieves are believed to have got in through the kitchen window.</b> (sentence): This is the correct passive structure for reporting a past belief. 'Are believed' is the passive form, and 'to have got in' shows the action happened in the past.</li><li><b>B. The thieves are believed to get in through the kitchen window.</b> (sentence): 'To get in' is the infinitive, which is used for present or general actions, not for a specific past event.</li><li><b>C. They believe the thieves got in through the kitchen window.</b> (sentence): This is the original active sentence, not the passive form required by the question.</li><li><b>D. They believe the thieves have got in through the kitchen window.</b> (sentence): 'Have got in' is present perfect, which is not the correct tense for this passive reporting structure.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: Subject + is/are believed/said/thought + to have + past participle (for past actions).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi yêu cầu chọn dạng bị động đúng của câu 'They believe that the thieves got in through the kitchen window.' Trong tiếng Anh, khi muốn tường thuật lại điều mà mọi người tin tưởng, ta thường dùng cấu trúc: 'Subject + is/are believed + to have + past participle.' Cấu trúc này dùng khi hành động đã xảy ra trong quá khứ. Vì vậy, đáp án đúng là: 'The thieves are believed to have got in through the kitchen window.'<br><ul><li><b>A. The thieves are believed to have got in through the kitchen window.</b> (câu): Đây là cấu trúc bị động đúng để tường thuật một niềm tin về hành động đã xảy ra trong quá khứ. 'Are believed' là dạng bị động, 'to have got in' diễn tả hành động đã xảy ra.</li><li><b>B. The thieves are believed to get in through the kitchen window.</b> (câu): 'To get in' là động từ nguyên thể, dùng cho hành động hiện tại hoặc chung chung, không phù hợp với hành động đã xảy ra trong quá khứ.</li><li><b>C. They believe the thieves got in through the kitchen window.</b> (câu): Đây là câu chủ động gốc, không phải dạng bị động mà đề bài yêu cầu.</li><li><b>D. They believe the thieves have got in through the kitchen window.</b> (câu): 'Have got in' là thì hiện tại hoàn thành, không phù hợp với cấu trúc bị động tường thuật cho hành động quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động với động từ tường thuật: Subject + is/are believed/said/thought + to have + past participle (cho hành động quá khứ).<br><br><b>Tạm dịch:</b> Người ta tin rằng những tên trộm đã đột nhập qua cửa sổ nhà bếp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is asking for the correct passive form of the statement 'They believe that the thieves got in through the kitchen window.' In English, when we want to report what people generally believe, we often use the structure: 'Subject + is/are believed + to have + past participle.' This structure is used when the action happened in the past. Therefore, the correct answer is: 'The thieves are believed to have got in through the kitchen window.'<br><ul><li><b>A. The thieves are believed to have got in through the kitchen window.</b> (sentence): This is the correct passive structure for reporting a past belief. 'Are believed' is the passive form, and 'to have got in' shows the action happened in the past.</li><li><b>B. The thieves are believed to get in through the kitchen window.</b> (sentence): 'To get in' is the infinitive, which is used for present or general actions, not for a specific past event.</li><li><b>C. They believe the thieves got in through the kitchen window.</b> (sentence): This is the original active sentence, not the passive form required by the question.</li><li><b>D. They believe the thieves have got in through the kitchen window.</b> (sentence): 'Have got in' is present perfect, which is not the correct tense for this passive reporting structure.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: Subject + is/are believed/said/thought + to have + past participle (for past actions).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb402f",
+        "questionNumber": 5,
+        "questionText": "They report that over 200,000 people were killed in the tsunami.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Over 200,000 people are reported to have been killed in the tsunami.",
+            "raw": "A. Over 200,000 people are reported to have been killed in the tsunami.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Over 200,000 people are reported to be killed in the tsunami.",
+            "raw": "B. Over 200,000 people are reported to be killed in the tsunami.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Over 200,000 people are reported to have killed in the tsunami.",
+            "raw": "C. Over 200,000 people are reported to have killed in the tsunami.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Over 200,000 people are reported to kill in the tsunami.",
+            "raw": "D. Over 200,000 people are reported to kill in the tsunami.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to use the passive reporting structure: 'S + be + reported + to have + past participle' to indicate that something was reported to have happened in the past. The original sentence is in the past passive ('were killed'), so we use 'to have been killed' to show the action happened before the reporting.<br><ul><li><b>A. Over 200,000 people are reported to have been killed in the tsunami.</b> (sentence): This is the correct answer. It uses the passive reporting structure with 'to have been killed' to indicate that the killing happened in the past.</li><li><b>B. Over 200,000 people are reported to be killed in the tsunami.</b> (sentence): Incorrect. 'To be killed' suggests the action is happening now or in the future, not in the past.</li><li><b>C. Over 200,000 people are reported to have killed in the tsunami.</b> (sentence): Incorrect. 'To have killed' is active voice, meaning the people did the killing, which is not the intended meaning.</li><li><b>D. Over 200,000 people are reported to kill in the tsunami.</b> (sentence): Incorrect. 'To kill' is present simple active, which is not suitable here.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structure: S + be + reported/said/thought + to have + past participle (for past actions).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần sử dụng cấu trúc bị động tường thuật: 'S + be + reported + to have + past participle' để diễn tả một sự việc đã được báo cáo là đã xảy ra trong quá khứ. Câu gốc ở dạng bị động quá khứ ('were killed'), nên ta dùng 'to have been killed' để chỉ hành động đã xảy ra trước thời điểm tường thuật.<br><ul><li><b>A. Over 200,000 people are reported to have been killed in the tsunami.</b> (câu): Đây là đáp án đúng. Sử dụng cấu trúc bị động tường thuật với 'to have been killed' để diễn tả hành động đã xảy ra trong quá khứ.</li><li><b>B. Over 200,000 people are reported to be killed in the tsunami.</b> (câu): Sai. 'To be killed' diễn tả hành động đang xảy ra hoặc sẽ xảy ra, không phù hợp với ý nghĩa đã xảy ra trong quá khứ.</li><li><b>C. Over 200,000 people are reported to have killed in the tsunami.</b> (câu): Sai. 'To have killed' là chủ động, nghĩa là những người này đã giết ai đó, không đúng với ý nghĩa của câu.</li><li><b>D. Over 200,000 people are reported to kill in the tsunami.</b> (câu): Sai. 'To kill' là chủ động thì hiện tại, không phù hợp với ngữ cảnh.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động tường thuật: S + be + reported/said/thought + to have + past participle (dùng cho hành động đã xảy ra trong quá khứ).<br><br><b>Tạm dịch:</b> Họ báo cáo rằng hơn 200.000 người đã bị thiệt mạng trong trận sóng thần.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to use the passive reporting structure: 'S + be + reported + to have + past participle' to indicate that something was reported to have happened in the past. The original sentence is in the past passive ('were killed'), so we use 'to have been killed' to show the action happened before the reporting.<br><ul><li><b>A. Over 200,000 people are reported to have been killed in the tsunami.</b> (sentence): This is the correct answer. It uses the passive reporting structure with 'to have been killed' to indicate that the killing happened in the past.</li><li><b>B. Over 200,000 people are reported to be killed in the tsunami.</b> (sentence): Incorrect. 'To be killed' suggests the action is happening now or in the future, not in the past.</li><li><b>C. Over 200,000 people are reported to have killed in the tsunami.</b> (sentence): Incorrect. 'To have killed' is active voice, meaning the people did the killing, which is not the intended meaning.</li><li><b>D. Over 200,000 people are reported to kill in the tsunami.</b> (sentence): Incorrect. 'To kill' is present simple active, which is not suitable here.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structure: S + be + reported/said/thought + to have + past participle (for past actions).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4030",
+        "questionNumber": 6,
+        "questionText": "We found that they had cancelled the game.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "We found that the game had been cancelled.",
+            "raw": "A. We found that the game had been cancelled.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The game had been cancelled.",
+            "raw": "B. The game had been cancelled.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "We found that the game had been cancelled by them.",
+            "raw": "C. We found that the game had been cancelled by them. ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The game were found to be cancelled",
+            "raw": "D. The game were found to be cancelled",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'We found that they had cancelled the game.' is in the active voice. To change it to the passive voice, the object 'the game' becomes the subject, and the verb is changed to the passive form. In reported speech, the past perfect tense ('had cancelled') becomes 'had been cancelled' in the passive. The correct passive sentence is 'We found that the game had been cancelled.'<br><ul><li><b>A. We found that the game had been cancelled.</b> (sentence): This is the correct passive form. The subject 'the game' is followed by 'had been cancelled', which is the past perfect passive.</li><li><b>B. The game had been cancelled.</b> (sentence): This is a correct passive sentence but does not include the reporting verb 'We found that', so it does not fully match the original sentence.</li><li><b>C. We found that the game had been cancelled by them.</b> (sentence): This is also grammatically correct and includes the agent 'by them', but in passive sentences, the agent is often omitted if it is not necessary. The most natural answer is A.</li><li><b>D. The game were found to be cancelled</b> (sentence): This is incorrect because 'were' does not agree with the singular subject 'the game', and the structure 'found to be cancelled' is not the correct passive form for this context.</li></ul><b>Related structure or vocabulary:</b> Passive voice in reported speech: Subject + reporting verb + that + object + had been + past participle.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'We found that they had cancelled the game.' là câu chủ động. Khi chuyển sang bị động, tân ngữ 'the game' sẽ trở thành chủ ngữ, và động từ được chuyển sang dạng bị động. Trong câu tường thuật, thì quá khứ hoàn thành ('had cancelled') sẽ chuyển thành 'had been cancelled' ở dạng bị động. Câu bị động đúng là 'We found that the game had been cancelled.'<br><ul><li><b>A. We found that the game had been cancelled.</b> (câu): Đây là dạng bị động đúng. Chủ ngữ 'the game' đi với 'had been cancelled', là thì quá khứ hoàn thành bị động.</li><li><b>B. The game had been cancelled.</b> (câu): Đây là câu bị động đúng nhưng không có động từ tường thuật 'We found that', nên không đầy đủ ý nghĩa như câu gốc.</li><li><b>C. We found that the game had been cancelled by them.</b> (câu): Câu này cũng đúng về ngữ pháp và có thêm tác nhân 'by them', nhưng trong câu bị động, tác nhân thường được lược bỏ nếu không cần thiết. Đáp án tự nhiên nhất là A.</li><li><b>D. The game were found to be cancelled</b> (câu): Câu này sai vì 'were' không phù hợp với chủ ngữ số ít 'the game', và cấu trúc 'found to be cancelled' không phải là dạng bị động đúng trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động trong câu tường thuật: Chủ ngữ + động từ tường thuật + that + tân ngữ + had been + quá khứ phân từ.<br><br><b>Tạm dịch:</b> Chúng tôi phát hiện ra rằng trận đấu đã bị hủy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'We found that they had cancelled the game.' is in the active voice. To change it to the passive voice, the object 'the game' becomes the subject, and the verb is changed to the passive form. In reported speech, the past perfect tense ('had cancelled') becomes 'had been cancelled' in the passive. The correct passive sentence is 'We found that the game had been cancelled.'<br><ul><li><b>A. We found that the game had been cancelled.</b> (sentence): This is the correct passive form. The subject 'the game' is followed by 'had been cancelled', which is the past perfect passive.</li><li><b>B. The game had been cancelled.</b> (sentence): This is a correct passive sentence but does not include the reporting verb 'We found that', so it does not fully match the original sentence.</li><li><b>C. We found that the game had been cancelled by them.</b> (sentence): This is also grammatically correct and includes the agent 'by them', but in passive sentences, the agent is often omitted if it is not necessary. The most natural answer is A.</li><li><b>D. The game were found to be cancelled</b> (sentence): This is incorrect because 'were' does not agree with the singular subject 'the game', and the structure 'found to be cancelled' is not the correct passive form for this context.</li></ul><b>Related structure or vocabulary:</b> Passive voice in reported speech: Subject + reporting verb + that + object + had been + past participle.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4031",
+        "questionNumber": 7,
+        "questionText": "Where did they make your shoes?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Where were they made your shoes?",
+            "raw": "A. Where were they made your shoes? ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Where did your shoes made?",
+            "raw": "B. Where did your shoes made?",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Where were your shoes made?",
+            "raw": "C. Where were your shoes made?",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Where were your shoes make?",
+            "raw": "D. Where were your shoes make?",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question 'Where did they make your shoes?' is in the active voice. To change it to the passive voice, we need to use the structure: 'Where + was/were + object + past participle (V3)?' because 'your shoes' is the object and is plural, so we use 'were'. The correct passive form is 'Where were your shoes made?'<br><ul><li><b>A. Where were they made your shoes?</b> (sentence): This is incorrect because in passive voice, 'they' should not be included. The correct structure is 'Where were your shoes made?'</li><li><b>B. Where did your shoes made?</b> (sentence): This is incorrect because after 'did', we use the base form of the verb, not the past participle.</li><li><b>C. Where were your shoes made?</b> (sentence): This is the correct answer. It uses the correct passive voice structure: 'Where + were + object + past participle (made)?'</li><li><b>D. Where were your shoes make?</b> (sentence): This is incorrect because after 'were', we need the past participle 'made', not the base form 'make'.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle (V3). For questions: Where + was/were + object + past participle?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi 'Where did they make your shoes?' là câu chủ động. Để chuyển sang câu bị động, ta dùng cấu trúc: 'Where + was/were + object + past participle (V3)?' vì 'your shoes' là tân ngữ số nhiều nên dùng 'were'. Dạng bị động đúng là 'Where were your shoes made?'<br><ul><li><b>A. Where were they made your shoes?</b> (câu): Sai vì trong câu bị động không dùng 'they'. Cấu trúc đúng là 'Where were your shoes made?'</li><li><b>B. Where did your shoes made?</b> (câu): Sai vì sau 'did' phải dùng động từ nguyên thể, không dùng quá khứ phân từ.</li><li><b>C. Where were your shoes made?</b> (câu): Đây là đáp án đúng. Sử dụng đúng cấu trúc bị động: 'Where + were + object + past participle (made)?'</li><li><b>D. Where were your shoes make?</b> (câu): Sai vì sau 'were' phải dùng quá khứ phân từ 'made', không dùng động từ nguyên thể 'make'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: be + quá khứ phân từ (V3). Dạng câu hỏi: Where + was/were + tân ngữ + quá khứ phân từ?<br><br><b>Tạm dịch:</b> Câu hỏi: Where did they make your shoes? (Họ đã làm đôi giày của bạn ở đâu?) Đáp án đúng là: Where were your shoes made? (Đôi giày của bạn được làm ở đâu?)",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question 'Where did they make your shoes?' is in the active voice. To change it to the passive voice, we need to use the structure: 'Where + was/were + object + past participle (V3)?' because 'your shoes' is the object and is plural, so we use 'were'. The correct passive form is 'Where were your shoes made?'<br><ul><li><b>A. Where were they made your shoes?</b> (sentence): This is incorrect because in passive voice, 'they' should not be included. The correct structure is 'Where were your shoes made?'</li><li><b>B. Where did your shoes made?</b> (sentence): This is incorrect because after 'did', we use the base form of the verb, not the past participle.</li><li><b>C. Where were your shoes made?</b> (sentence): This is the correct answer. It uses the correct passive voice structure: 'Where + were + object + past participle (made)?'</li><li><b>D. Where were your shoes make?</b> (sentence): This is incorrect because after 'were', we need the past participle 'made', not the base form 'make'.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle (V3). For questions: Where + was/were + object + past participle?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4032",
+        "questionNumber": 8,
+        "questionText": "Keep the machine always clean.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The machine is always kept clean.",
+            "raw": "A. The machine is always kept clean. ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The machine should be kept clean always.",
+            "raw": "B. The machine should be kept clean always.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Let the machine always be kept cleaned.",
+            "raw": "C. Let the machine always be kept cleaned. ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Let the machine be always kept clean.",
+            "raw": "D. Let the machine be always kept clean.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Keep the machine always clean.' is an imperative sentence, which is a command or instruction. When changing an imperative sentence into the passive voice in English, we often use the structure: 'Let + object + be + past participle.' This structure is used to give instructions in a formal or polite way. The correct passive form should be: 'Let the machine be always kept clean.'<br><ul><li><b>A. The machine is always kept clean.</b> (Sentence (Passive, Present Simple)): This is a passive sentence in the present simple tense, but it is a statement, not an imperative or instruction. It means the machine is always clean, but it does not give a command.</li><li><b>B. The machine should be kept clean always.</b> (Sentence (Modal, Passive)): This is a suggestion or advice using 'should', not a direct command. It means someone ought to keep the machine clean, but it is not the correct passive form of an imperative.</li><li><b>C. Let the machine always be kept cleaned.</b> (Sentence (Imperative Passive, Incorrect form)): This uses the correct imperative passive structure, but 'kept cleaned' is incorrect. 'Kept' should be followed by an adjective (clean), not the past participle (cleaned).</li><li><b>D. Let the machine be always kept clean.</b> (Sentence (Imperative Passive, Correct form)): This is the correct passive form of the imperative. It uses the structure 'Let + object + be + past participle' and places 'always' in the correct position. 'Kept clean' is the correct phrase.</li></ul><b>Related structure or vocabulary:</b> Imperative sentences in passive voice: Let + object + be + past participle. Example: Keep the door closed. → Let the door be closed.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Keep the machine always clean.' là một câu mệnh lệnh, dùng để đưa ra yêu cầu hoặc chỉ dẫn. Khi chuyển câu mệnh lệnh sang bị động trong tiếng Anh, ta thường dùng cấu trúc: 'Let + object + be + past participle.' Cấu trúc này dùng để đưa ra chỉ dẫn một cách trang trọng hoặc lịch sự. Dạng bị động đúng của câu này là: 'Let the machine be always kept clean.'<br><ul><li><b>A. The machine is always kept clean.</b> (Câu (Bị động, Hiện tại đơn)): Đây là câu bị động thì hiện tại đơn, nhưng là câu trần thuật, không phải câu mệnh lệnh hay chỉ dẫn. Nghĩa là máy luôn được giữ sạch, nhưng không phải là một mệnh lệnh.</li><li><b>B. The machine should be kept clean always.</b> (Câu (Modal, Bị động)): Đây là câu khuyên nhủ hoặc đề xuất dùng 'should', không phải là mệnh lệnh trực tiếp. Nghĩa là ai đó nên giữ máy sạch, nhưng không phải dạng bị động của câu mệnh lệnh.</li><li><b>C. Let the machine always be kept cleaned.</b> (Câu (Mệnh lệnh bị động, Sai cấu trúc)): Câu này dùng đúng cấu trúc bị động của mệnh lệnh, nhưng 'kept cleaned' là sai. 'Kept' phải đi với tính từ (clean), không phải phân từ hai (cleaned).</li><li><b>D. Let the machine be always kept clean.</b> (Câu (Mệnh lệnh bị động, Đúng cấu trúc)): Đây là dạng bị động đúng của câu mệnh lệnh. Dùng cấu trúc 'Let + object + be + past participle' và đặt 'always' đúng vị trí. 'Kept clean' là cụm từ đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Câu mệnh lệnh ở dạng bị động: Let + object + be + past participle. Ví dụ: Keep the door closed. → Let the door be closed.<br><br><b>Tạm dịch:</b> Hãy luôn giữ cho máy sạch. → Hãy để máy luôn được giữ sạch.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Keep the machine always clean.' is an imperative sentence, which is a command or instruction. When changing an imperative sentence into the passive voice in English, we often use the structure: 'Let + object + be + past participle.' This structure is used to give instructions in a formal or polite way. The correct passive form should be: 'Let the machine be always kept clean.'<br><ul><li><b>A. The machine is always kept clean.</b> (Sentence (Passive, Present Simple)): This is a passive sentence in the present simple tense, but it is a statement, not an imperative or instruction. It means the machine is always clean, but it does not give a command.</li><li><b>B. The machine should be kept clean always.</b> (Sentence (Modal, Passive)): This is a suggestion or advice using 'should', not a direct command. It means someone ought to keep the machine clean, but it is not the correct passive form of an imperative.</li><li><b>C. Let the machine always be kept cleaned.</b> (Sentence (Imperative Passive, Incorrect form)): This uses the correct imperative passive structure, but 'kept cleaned' is incorrect. 'Kept' should be followed by an adjective (clean), not the past participle (cleaned).</li><li><b>D. Let the machine be always kept clean.</b> (Sentence (Imperative Passive, Correct form)): This is the correct passive form of the imperative. It uses the structure 'Let + object + be + past participle' and places 'always' in the correct position. 'Kept clean' is the correct phrase.</li></ul><b>Related structure or vocabulary:</b> Imperative sentences in passive voice: Let + object + be + past participle. Example: Keep the door closed. → Let the door be closed.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4033",
+        "questionNumber": 9,
+        "questionText": "We found that they had cancelled the soccer match.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "We found that the soccer match had been cancelled.",
+            "raw": "A. We found that the soccer match had been cancelled.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The soccer match had been cancelled.",
+            "raw": "B. The soccer match had been cancelled.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The soccer match was found that had been cancelled.",
+            "raw": "C. The soccer match was found that had been cancelled.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The soccer match was found to have been cancelled by us.",
+            "raw": "D. The soccer match was found to have been cancelled by us.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'We found that they had cancelled the soccer match.' can be changed into the passive voice. In passive voice, the object of the active sentence becomes the subject of the passive sentence. The correct passive form is: 'We found that the soccer match had been cancelled.' This keeps the meaning and tense of the original sentence.<br><ul><li><b>A. We found that the soccer match had been cancelled.</b> (sentence): This is the correct passive form. The subject 'the soccer match' is now the subject of the passive clause, and 'had been cancelled' is the correct past perfect passive.</li><li><b>B. The soccer match had been cancelled.</b> (sentence): This is a correct passive sentence, but it does not include the main clause 'We found that', so it is incomplete.</li><li><b>C. The soccer match was found that had been cancelled.</b> (sentence): This is grammatically incorrect. 'Was found that' is not a correct structure in English.</li><li><b>D. The soccer match was found to have been cancelled by us.</b> (sentence): This is a passive construction, but it changes the meaning and structure of the original sentence. It is not the best transformation.</li></ul><b>Related structure or vocabulary:</b> Passive voice with reporting verbs (find, say, think, etc.): S + found that + S + had + V3 → S + found that + S + had been + V3 (past perfect passive)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'We found that they had cancelled the soccer match.' có thể được chuyển sang câu bị động. Trong câu bị động, tân ngữ của câu chủ động sẽ trở thành chủ ngữ của câu bị động. Dạng bị động đúng là: 'We found that the soccer match had been cancelled.' Câu này giữ nguyên nghĩa và thì của câu gốc.<br><ul><li><b>A. We found that the soccer match had been cancelled.</b> (câu): Đây là dạng bị động đúng. Chủ ngữ 'the soccer match' trở thành chủ ngữ của mệnh đề bị động, và 'had been cancelled' là thì quá khứ hoàn thành bị động chính xác.</li><li><b>B. The soccer match had been cancelled.</b> (câu): Đây là câu bị động đúng, nhưng không có mệnh đề chính 'We found that', nên chưa đầy đủ ý.</li><li><b>C. The soccer match was found that had been cancelled.</b> (câu): Câu này sai ngữ pháp. 'Was found that' không phải là cấu trúc đúng trong tiếng Anh.</li><li><b>D. The soccer match was found to have been cancelled by us.</b> (câu): Đây là một cấu trúc bị động, nhưng làm thay đổi nghĩa và cấu trúc của câu gốc. Không phải là cách chuyển đổi tốt nhất.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ tường thuật (find, say, think, v.v.): S + found that + S + had + V3 → S + found that + S + had been + V3 (quá khứ hoàn thành bị động)<br><br><b>Tạm dịch:</b> Chúng tôi phát hiện rằng trận bóng đá đã bị hủy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'We found that they had cancelled the soccer match.' can be changed into the passive voice. In passive voice, the object of the active sentence becomes the subject of the passive sentence. The correct passive form is: 'We found that the soccer match had been cancelled.' This keeps the meaning and tense of the original sentence.<br><ul><li><b>A. We found that the soccer match had been cancelled.</b> (sentence): This is the correct passive form. The subject 'the soccer match' is now the subject of the passive clause, and 'had been cancelled' is the correct past perfect passive.</li><li><b>B. The soccer match had been cancelled.</b> (sentence): This is a correct passive sentence, but it does not include the main clause 'We found that', so it is incomplete.</li><li><b>C. The soccer match was found that had been cancelled.</b> (sentence): This is grammatically incorrect. 'Was found that' is not a correct structure in English.</li><li><b>D. The soccer match was found to have been cancelled by us.</b> (sentence): This is a passive construction, but it changes the meaning and structure of the original sentence. It is not the best transformation.</li></ul><b>Related structure or vocabulary:</b> Passive voice with reporting verbs (find, say, think, etc.): S + found that + S + had + V3 → S + found that + S + had been + V3 (past perfect passive)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4034",
+        "questionNumber": 10,
+        "questionText": "He sent me a nice gift on my birthday.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I was sent a nice gift on my birthday by him.",
+            "raw": "A. I was sent a nice gift on my birthday by him.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "A nice gift was sent me on my birthday by him.",
+            "raw": "B. A nice gift was sent me on my birthday by him.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "A nice gift was sent to me on my birthday by him.",
+            "raw": "C. A nice gift was sent to me on my birthday by him.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Both A & C are correct.",
+            "raw": "D. Both A & C are correct.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This question asks you to change the active sentence 'He sent me a nice gift on my birthday.' into the passive voice. In English, when a verb has two objects (like 'send'), you can make a passive sentence in two ways: by making either the direct object ('a nice gift') or the indirect object ('me') the subject of the passive sentence. The correct passive forms are: 'I was sent a nice gift on my birthday by him.' and 'A nice gift was sent to me on my birthday by him.' Note that when the indirect object ('me') comes after the verb in the passive, we need to use 'to'.<br><ul><li><b>A. I was sent a nice gift on my birthday by him.</b> (sentence): Correct. This is the passive form with the indirect object ('me' → 'I') as the subject. No 'to' is needed because 'I' is now the subject.</li><li><b>B. A nice gift was sent me on my birthday by him.</b> (sentence): Incorrect. In passive voice, when the indirect object comes after the verb, we must use 'to': 'sent to me', not 'sent me'.</li><li><b>C. A nice gift was sent to me on my birthday by him.</b> (sentence): Correct. This is the passive form with the direct object ('a nice gift') as the subject, and the indirect object ('me') after the verb with 'to'.</li><li><b>D. Both A & C are correct.</b> (sentence): Correct. Both A and C are grammatically correct passive forms of the original sentence.</li></ul><b>Related structure or vocabulary:</b> Passive voice with double objects: S + V + O1 (indirect) + O2 (direct) → Passive: 1. O1 + be + V3/ed + O2 + by + S; 2. O2 + be + V3/ed + to O1 + by + S. 'Send' is a verb that can take two objects.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi này yêu cầu bạn chuyển câu chủ động 'He sent me a nice gift on my birthday.' sang câu bị động. Trong tiếng Anh, với các động từ có hai tân ngữ (như 'send'), bạn có thể chuyển sang bị động theo hai cách: đưa tân ngữ trực tiếp ('a nice gift') hoặc tân ngữ gián tiếp ('me') lên làm chủ ngữ của câu bị động. Hai dạng bị động đúng là: 'I was sent a nice gift on my birthday by him.' và 'A nice gift was sent to me on my birthday by him.' Lưu ý, khi tân ngữ gián tiếp ('me') đứng sau động từ trong câu bị động, cần dùng giới từ 'to'.<br><ul><li><b>A. I was sent a nice gift on my birthday by him.</b> (câu): Đúng. Đây là dạng bị động với tân ngữ gián tiếp ('me' → 'I') làm chủ ngữ. Không cần dùng 'to' vì 'I' đã là chủ ngữ.</li><li><b>B. A nice gift was sent me on my birthday by him.</b> (câu): Sai. Trong câu bị động, khi tân ngữ gián tiếp đứng sau động từ, phải dùng 'to': 'sent to me', không phải 'sent me'.</li><li><b>C. A nice gift was sent to me on my birthday by him.</b> (câu): Đúng. Đây là dạng bị động với tân ngữ trực tiếp ('a nice gift') làm chủ ngữ, tân ngữ gián tiếp ('me') đứng sau động từ với 'to'.</li><li><b>D. Both A & C are correct.</b> (câu): Đúng. Cả A và C đều là hai cách chuyển bị động đúng của câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ có hai tân ngữ: S + V + O1 (gián tiếp) + O2 (trực tiếp) → Bị động: 1. O1 + be + V3/ed + O2 + by + S; 2. O2 + be + V3/ed + to O1 + by + S. 'Send' là động từ có thể đi với hai tân ngữ.<br><br><b>Tạm dịch:</b> Anh ấy đã gửi cho tôi một món quà đẹp vào ngày sinh nhật của tôi. → Tôi đã được anh ấy gửi cho một món quà đẹp vào ngày sinh nhật của mình. / Một món quà đẹp đã được anh ấy gửi cho tôi vào ngày sinh nhật của tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This question asks you to change the active sentence 'He sent me a nice gift on my birthday.' into the passive voice. In English, when a verb has two objects (like 'send'), you can make a passive sentence in two ways: by making either the direct object ('a nice gift') or the indirect object ('me') the subject of the passive sentence. The correct passive forms are: 'I was sent a nice gift on my birthday by him.' and 'A nice gift was sent to me on my birthday by him.' Note that when the indirect object ('me') comes after the verb in the passive, we need to use 'to'.<br><ul><li><b>A. I was sent a nice gift on my birthday by him.</b> (sentence): Correct. This is the passive form with the indirect object ('me' → 'I') as the subject. No 'to' is needed because 'I' is now the subject.</li><li><b>B. A nice gift was sent me on my birthday by him.</b> (sentence): Incorrect. In passive voice, when the indirect object comes after the verb, we must use 'to': 'sent to me', not 'sent me'.</li><li><b>C. A nice gift was sent to me on my birthday by him.</b> (sentence): Correct. This is the passive form with the direct object ('a nice gift') as the subject, and the indirect object ('me') after the verb with 'to'.</li><li><b>D. Both A & C are correct.</b> (sentence): Correct. Both A and C are grammatically correct passive forms of the original sentence.</li></ul><b>Related structure or vocabulary:</b> Passive voice with double objects: S + V + O1 (indirect) + O2 (direct) → Passive: 1. O1 + be + V3/ed + O2 + by + S; 2. O2 + be + V3/ed + to O1 + by + S. 'Send' is a verb that can take two objects.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4035",
+        "questionNumber": 11,
+        "questionText": "His relatives say that he is an adopted child. He is said ___an adopted child.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be",
+            "raw": "A. to be",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "to being",
+            "raw": "B. to being",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to been",
+            "raw": "C. to been ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to have been",
+            "raw": "D. to have been",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are using the structure 'It is said that...' or 'He is said to...' to report what people say about someone. When reporting a present or general truth about someone, we use 'to be'. When reporting something that happened in the past, we use 'to have been'. In this case, the relatives say he is (currently) an adopted child, so we use 'to be'.<br><ul><li><b>to be</b> (Infinitive): Infinitive form, used after passive reporting verbs to indicate a present or general state.</li><li><b>to being</b> (Gerund): Incorrect form. 'To being' is not used after passive reporting verbs.</li><li><b>to been</b> (Past participle): Incorrect form. 'To been' is grammatically incorrect; 'been' is only used with 'have'.</li><li><b>to have been</b> (Perfect infinitive): Perfect infinitive, used to indicate that the action happened before the reporting verb. Not suitable here because the sentence refers to a present state.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: S + is/are said + to V (present/general truth) or to have V3 (past action).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta sử dụng cấu trúc 'It is said that...' hoặc 'He is said to...' để tường thuật lại điều người khác nói về ai đó. Khi tường thuật một sự thật hiện tại hoặc chung chung, ta dùng 'to be'. Khi nói về một hành động đã xảy ra trong quá khứ, ta dùng 'to have been'. Ở đây, họ hàng nói rằng anh ấy là (hiện tại) một đứa trẻ được nhận nuôi, nên ta dùng 'to be'.<br><ul><li><b>to be</b> (Động từ nguyên mẫu): Dạng động từ nguyên mẫu, dùng sau động từ bị động để chỉ trạng thái hiện tại hoặc sự thật chung.</li><li><b>to being</b> (Danh động từ): Dạng này không đúng. 'To being' không dùng sau động từ bị động trong cấu trúc này.</li><li><b>to been</b> (Quá khứ phân từ): Dạng này sai ngữ pháp. 'Been' chỉ dùng với 'have'.</li><li><b>to have been</b> (Nguyên mẫu hoàn thành): Dạng nguyên mẫu hoàn thành, dùng để chỉ hành động xảy ra trước động từ tường thuật. Không phù hợp ở đây vì câu nói về trạng thái hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc động từ tường thuật bị động: S + is/are said + to V (sự thật hiện tại/chung) hoặc to have V3 (hành động quá khứ).<br><br><b>Tạm dịch:</b> Câu hỏi: Họ hàng của anh ấy nói rằng anh ấy là một đứa trẻ được nhận nuôi. Anh ấy được cho là một đứa trẻ được nhận nuôi. Đáp án đúng là A. to be.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are using the structure 'It is said that...' or 'He is said to...' to report what people say about someone. When reporting a present or general truth about someone, we use 'to be'. When reporting something that happened in the past, we use 'to have been'. In this case, the relatives say he is (currently) an adopted child, so we use 'to be'.<br><ul><li><b>to be</b> (Infinitive): Infinitive form, used after passive reporting verbs to indicate a present or general state.</li><li><b>to being</b> (Gerund): Incorrect form. 'To being' is not used after passive reporting verbs.</li><li><b>to been</b> (Past participle): Incorrect form. 'To been' is grammatically incorrect; 'been' is only used with 'have'.</li><li><b>to have been</b> (Perfect infinitive): Perfect infinitive, used to indicate that the action happened before the reporting verb. Not suitable here because the sentence refers to a present state.</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: S + is/are said + to V (present/general truth) or to have V3 (past action).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4036",
+        "questionNumber": 12,
+        "questionText": "I found that what he said was incorrect. What he said ___ incorrect",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was found",
+            "raw": "A. was found ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "was found to be",
+            "raw": "B. was found to be",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "was founded",
+            "raw": "C. was founded ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has been found",
+            "raw": "D. has been found",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'I found that what he said was incorrect' can be rewritten using a passive structure. The correct structure is 'What he said was found to be incorrect.' The verb 'find' is often followed by an object and then an infinitive (to be) when expressing an opinion or judgment about something.<br><ul><li><b>was found</b> (verb phrase): This is the past simple passive form of 'find.' However, it is incomplete without 'to be' before the adjective 'incorrect.'</li><li><b>was found to be</b> (verb phrase): This is the correct passive structure: 'was found to be + adjective.' It means that something was discovered or judged to have a certain quality.</li><li><b>was founded</b> (verb phrase): 'Founded' is the past participle of 'found' (meaning to establish or set up), not related to the verb 'find' (to discover).</li><li><b>has been found</b> (verb phrase): This is the present perfect passive form. While grammatically correct, it does not fit the original sentence's tense and structure.</li></ul><b>Related structure or vocabulary:</b> Passive structure: 'was found to be + adjective' is used to express that something was discovered or judged to have a certain quality.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'I found that what he said was incorrect' có thể được viết lại bằng cấu trúc bị động. Cấu trúc đúng là 'What he said was found to be incorrect.' Động từ 'find' thường được theo sau bởi tân ngữ và sau đó là động từ nguyên mẫu có 'to' (to be) khi diễn đạt ý kiến hoặc đánh giá về điều gì đó.<br><ul><li><b>was found</b> (cụm động từ): Đây là thì quá khứ đơn bị động của 'find'. Tuy nhiên, nó chưa đầy đủ nếu không có 'to be' trước tính từ 'incorrect'.</li><li><b>was found to be</b> (cụm động từ): Đây là cấu trúc bị động đúng: 'was found to be + tính từ'. Nghĩa là điều gì đó được phát hiện hoặc đánh giá là có một đặc điểm nào đó.</li><li><b>was founded</b> (cụm động từ): 'Founded' là quá khứ phân từ của 'found' (có nghĩa là thành lập), không liên quan đến động từ 'find' (tìm thấy/phát hiện).</li><li><b>has been found</b> (cụm động từ): Đây là thì hiện tại hoàn thành bị động. Tuy đúng về mặt ngữ pháp, nhưng không phù hợp với thì và cấu trúc của câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động: 'was found to be + tính từ' dùng để diễn đạt điều gì đó được phát hiện hoặc đánh giá là có một đặc điểm nào đó.<br><br><b>Tạm dịch:</b> Tôi nhận thấy rằng những gì anh ấy nói là không đúng. --> Những gì anh ấy nói đã được phát hiện là không đúng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'I found that what he said was incorrect' can be rewritten using a passive structure. The correct structure is 'What he said was found to be incorrect.' The verb 'find' is often followed by an object and then an infinitive (to be) when expressing an opinion or judgment about something.<br><ul><li><b>was found</b> (verb phrase): This is the past simple passive form of 'find.' However, it is incomplete without 'to be' before the adjective 'incorrect.'</li><li><b>was found to be</b> (verb phrase): This is the correct passive structure: 'was found to be + adjective.' It means that something was discovered or judged to have a certain quality.</li><li><b>was founded</b> (verb phrase): 'Founded' is the past participle of 'found' (meaning to establish or set up), not related to the verb 'find' (to discover).</li><li><b>has been found</b> (verb phrase): This is the present perfect passive form. While grammatically correct, it does not fit the original sentence's tense and structure.</li></ul><b>Related structure or vocabulary:</b> Passive structure: 'was found to be + adjective' is used to express that something was discovered or judged to have a certain quality.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4037",
+        "questionNumber": 13,
+        "questionText": "We consider him the best speaker of the debate. He _____ the best speaker of the debate",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is considered to be",
+            "raw": "A. is considered to be",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is considering",
+            "raw": "B. is considering",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was considered",
+            "raw": "C. was considered ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was considering",
+            "raw": "D. was considering",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'We consider him the best speaker of the debate.' is in the active voice. To change it to the passive voice, we use the structure: 'S + be + considered + (to be) + complement.' Therefore, the correct answer is 'He is considered to be the best speaker of the debate.'<br><ul><li><b>is considered to be</b> (verb phrase): This is the correct passive form of 'consider' when expressing opinions or judgments about someone or something.</li><li><b>is considering</b> (verb phrase): 'Is considering' is the present continuous tense, meaning 'is thinking about.' It does not fit the passive structure required here.</li><li><b>was considered</b> (verb phrase): 'Was considered' is the past simple passive form. However, the original sentence is in the present, so this is not correct.</li><li><b>was considering</b> (verb phrase): 'Was considering' is the past continuous tense, meaning 'was thinking about.' It does not fit the passive structure or the tense required.</li></ul><b>Related structure or vocabulary:</b> Passive voice with verbs of opinion: S + be + considered/known/believed + (to be) + complement.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'We consider him the best speaker of the debate.' là câu chủ động. Khi chuyển sang câu bị động, ta dùng cấu trúc: 'S + be + considered + (to be) + bổ ngữ.' Vì vậy, đáp án đúng là 'He is considered to be the best speaker of the debate.'<br><ul><li><b>is considered to be</b> (cụm động từ): Đây là dạng bị động đúng của 'consider' khi diễn đạt ý kiến hoặc đánh giá về ai đó hoặc điều gì đó.</li><li><b>is considering</b> (cụm động từ): 'Is considering' là thì hiện tại tiếp diễn, nghĩa là 'đang cân nhắc.' Không phù hợp với cấu trúc bị động cần dùng ở đây.</li><li><b>was considered</b> (cụm động từ): 'Was considered' là thì quá khứ đơn bị động. Tuy nhiên, câu gốc ở thì hiện tại nên không phù hợp.</li><li><b>was considering</b> (cụm động từ): 'Was considering' là thì quá khứ tiếp diễn, nghĩa là 'đang cân nhắc.' Không phù hợp với cấu trúc bị động hoặc thì cần dùng.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ chỉ ý kiến: S + be + considered/known/believed + (to be) + bổ ngữ.<br><br><b>Tạm dịch:</b> Chúng tôi coi anh ấy là diễn giả xuất sắc nhất của cuộc tranh luận. --> Anh ấy được coi là diễn giả xuất sắc nhất của cuộc tranh luận.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'We consider him the best speaker of the debate.' is in the active voice. To change it to the passive voice, we use the structure: 'S + be + considered + (to be) + complement.' Therefore, the correct answer is 'He is considered to be the best speaker of the debate.'<br><ul><li><b>is considered to be</b> (verb phrase): This is the correct passive form of 'consider' when expressing opinions or judgments about someone or something.</li><li><b>is considering</b> (verb phrase): 'Is considering' is the present continuous tense, meaning 'is thinking about.' It does not fit the passive structure required here.</li><li><b>was considered</b> (verb phrase): 'Was considered' is the past simple passive form. However, the original sentence is in the present, so this is not correct.</li><li><b>was considering</b> (verb phrase): 'Was considering' is the past continuous tense, meaning 'was thinking about.' It does not fit the passive structure or the tense required.</li></ul><b>Related structure or vocabulary:</b> Passive voice with verbs of opinion: S + be + considered/known/believed + (to be) + complement.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4038",
+        "questionNumber": 14,
+        "questionText": "We thought you were serious when you said you were leaving.You were thought ___________when you said you were leaving",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to been serious",
+            "raw": "A. to been serious ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to being serious",
+            "raw": "B. to being serious",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to be serious",
+            "raw": "C. to be serious",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "to have been seriously",
+            "raw": "D. to have been seriously",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are using the passive structure with verbs of perception or reporting verbs (such as 'think', 'say', 'believe', etc.). The correct structure is: 'subject + be + past participle + to-infinitive'. When referring to a single action in the past that is still relevant or believed at the time of reporting, we use 'to be + adjective'. Therefore, the correct answer is 'to be serious'.<br><ul><li><b>to been serious</b> (incorrect verb form): 'Been' is the past participle of 'be', but after 'to', we need the base form 'be', not 'been'.</li><li><b>to being serious</b> (incorrect verb form): 'Being' is the present participle/gerund form, but after 'to', we use the base form 'be', not 'being'.</li><li><b>to be serious</b> (correct infinitive + adjective): 'To be' is the correct infinitive form used after passive reporting verbs. 'Serious' is an adjective describing the subject.</li><li><b>to have been seriously</b> (incorrect infinitive + incorrect word form): 'To have been' is the perfect infinitive, used to refer to actions completed before another past action. 'Seriously' is an adverb, but the sentence requires an adjective ('serious').</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: Subject + be + past participle + to-infinitive (e.g., He is thought to be honest.)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta sử dụng cấu trúc bị động với các động từ tường thuật hoặc động từ nhận thức (như 'think', 'say', 'believe', v.v.). Cấu trúc đúng là: 'chủ ngữ + be + quá khứ phân từ + to-infinitive'. Khi nói về một hành động đơn lẻ trong quá khứ mà vẫn còn liên quan hoặc được tin tưởng tại thời điểm tường thuật, ta dùng 'to be + tính từ'. Vì vậy, đáp án đúng là 'to be serious'.<br><ul><li><b>to been serious</b> (sai dạng động từ): 'Been' là quá khứ phân từ của 'be', nhưng sau 'to' ta cần dùng động từ nguyên thể 'be', không dùng 'been'.</li><li><b>to being serious</b> (sai dạng động từ): 'Being' là dạng hiện tại phân từ/gerund, nhưng sau 'to' ta phải dùng động từ nguyên thể 'be', không dùng 'being'.</li><li><b>to be serious</b> (động từ nguyên thể đúng + tính từ): 'To be' là dạng động từ nguyên thể đúng dùng sau các động từ tường thuật ở thể bị động. 'Serious' là tính từ mô tả cho chủ ngữ.</li><li><b>to have been seriously</b> (sai dạng nguyên thể + sai loại từ): 'To have been' là dạng nguyên thể hoàn thành, dùng để chỉ hành động đã hoàn thành trước một hành động quá khứ khác. 'Seriously' là trạng từ, nhưng câu này cần tính từ ('serious').</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động với động từ tường thuật: Chủ ngữ + be + quá khứ phân từ + to-infinitive (Ví dụ: He is thought to be honest.)<br><br><b>Tạm dịch:</b> Chúng tôi nghĩ bạn nghiêm túc khi bạn nói bạn sẽ rời đi. Bạn được cho là nghiêm túc khi bạn nói bạn sẽ rời đi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are using the passive structure with verbs of perception or reporting verbs (such as 'think', 'say', 'believe', etc.). The correct structure is: 'subject + be + past participle + to-infinitive'. When referring to a single action in the past that is still relevant or believed at the time of reporting, we use 'to be + adjective'. Therefore, the correct answer is 'to be serious'.<br><ul><li><b>to been serious</b> (incorrect verb form): 'Been' is the past participle of 'be', but after 'to', we need the base form 'be', not 'been'.</li><li><b>to being serious</b> (incorrect verb form): 'Being' is the present participle/gerund form, but after 'to', we use the base form 'be', not 'being'.</li><li><b>to be serious</b> (correct infinitive + adjective): 'To be' is the correct infinitive form used after passive reporting verbs. 'Serious' is an adjective describing the subject.</li><li><b>to have been seriously</b> (incorrect infinitive + incorrect word form): 'To have been' is the perfect infinitive, used to refer to actions completed before another past action. 'Seriously' is an adverb, but the sentence requires an adjective ('serious').</li></ul><b>Related structure or vocabulary:</b> Passive reporting verbs: Subject + be + past participle + to-infinitive (e.g., He is thought to be honest.)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb4039",
+        "questionNumber": 15,
+        "questionText": "Esther gave Sue a nice present.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Esther was given a nice present by Sue.",
+            "raw": "A. Esther was given a nice present by Sue. ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Sue was given a nice present by Esther.",
+            "raw": "B. Sue was given a nice present by Esther.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "A nice present was given to Esther by Sue.",
+            "raw": "C. A nice present was given to Esther by Sue. ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "A nice present was given to Sue from Esther.",
+            "raw": "D. A nice present was given to Sue from Esther. ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Esther gave Sue a nice present.' is in the active voice. To change it to the passive voice, the object of the active sentence ('Sue' or 'a nice present') becomes the subject of the passive sentence. The correct passive form is 'Sue was given a nice present by Esther.' or 'A nice present was given to Sue by Esther.' However, the most natural and grammatically correct option among the choices is 'Sue was given a nice present by Esther.'<br><ul><li><b>A. Esther was given a nice present by Sue.</b> (sentence): This sentence changes the subject and object, making it incorrect. It means Sue gave Esther a present, which is not the original meaning.</li><li><b>B. Sue was given a nice present by Esther.</b> (sentence): This is the correct passive form. 'Sue' (the indirect object) becomes the subject, and 'by Esther' shows who gave the present.</li><li><b>C. A nice present was given to Esther by Sue.</b> (sentence): This changes both the giver and receiver, which is incorrect. It means Sue gave Esther a present.</li><li><b>D. A nice present was given to Sue from Esther.</b> (sentence): Although the meaning is close, the correct preposition in passive voice is 'by', not 'from'.</li></ul><b>Related structure or vocabulary:</b> Passive voice with double objects: S + was/were + given + O (indirect object) + by + agent. In English, when a verb has two objects (direct and indirect), either can become the subject in the passive voice, but the indirect object is more common.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Esther gave Sue a nice present.' là câu chủ động. Khi chuyển sang câu bị động, tân ngữ của câu chủ động ('Sue' hoặc 'a nice present') sẽ trở thành chủ ngữ của câu bị động. Dạng bị động đúng là 'Sue was given a nice present by Esther.' hoặc 'A nice present was given to Sue by Esther.' Tuy nhiên, trong các lựa chọn, đáp án tự nhiên và đúng ngữ pháp nhất là 'Sue was given a nice present by Esther.'<br><ul><li><b>A. Esther was given a nice present by Sue.</b> (câu): Câu này đã đảo ngược chủ ngữ và tân ngữ, làm sai nghĩa gốc. Nghĩa là Sue tặng quà cho Esther, không đúng với câu gốc.</li><li><b>B. Sue was given a nice present by Esther.</b> (câu): Đây là dạng bị động đúng. 'Sue' (tân ngữ gián tiếp) trở thành chủ ngữ, 'by Esther' chỉ người tặng quà.</li><li><b>C. A nice present was given to Esther by Sue.</b> (câu): Câu này cũng đảo ngược người tặng và người nhận, không đúng với nghĩa gốc. Nghĩa là Sue tặng quà cho Esther.</li><li><b>D. A nice present was given to Sue from Esther.</b> (câu): Mặc dù nghĩa gần đúng, nhưng giới từ đúng trong câu bị động là 'by', không phải 'from'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ có hai tân ngữ: S + was/were + given + O (tân ngữ gián tiếp) + by + tác nhân. Trong tiếng Anh, khi động từ có hai tân ngữ (trực tiếp và gián tiếp), cả hai đều có thể làm chủ ngữ trong câu bị động, nhưng tân ngữ gián tiếp thường được dùng hơn.<br><br><b>Tạm dịch:</b> Esther đã tặng Sue một món quà đẹp. --> Sue đã được Esther tặng một món quà đẹp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Esther gave Sue a nice present.' is in the active voice. To change it to the passive voice, the object of the active sentence ('Sue' or 'a nice present') becomes the subject of the passive sentence. The correct passive form is 'Sue was given a nice present by Esther.' or 'A nice present was given to Sue by Esther.' However, the most natural and grammatically correct option among the choices is 'Sue was given a nice present by Esther.'<br><ul><li><b>A. Esther was given a nice present by Sue.</b> (sentence): This sentence changes the subject and object, making it incorrect. It means Sue gave Esther a present, which is not the original meaning.</li><li><b>B. Sue was given a nice present by Esther.</b> (sentence): This is the correct passive form. 'Sue' (the indirect object) becomes the subject, and 'by Esther' shows who gave the present.</li><li><b>C. A nice present was given to Esther by Sue.</b> (sentence): This changes both the giver and receiver, which is incorrect. It means Sue gave Esther a present.</li><li><b>D. A nice present was given to Sue from Esther.</b> (sentence): Although the meaning is close, the correct preposition in passive voice is 'by', not 'from'.</li></ul><b>Related structure or vocabulary:</b> Passive voice with double objects: S + was/were + given + O (indirect object) + by + agent. In English, when a verb has two objects (direct and indirect), either can become the subject in the passive voice, but the indirect object is more common.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb403a",
+        "questionNumber": 16,
+        "questionText": "People said that he is a good doctor.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "He was said to have been a good doctor.",
+            "raw": "A. He was said to have been a good doctor. ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "It was said that he is a good doctor.",
+            "raw": "B. It was said that he is a good doctor.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "It is said that he is a good doctor.",
+            "raw": "C. It is said that he is a good doctor. ",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "A & B are correct",
+            "raw": "D. A & B are correct",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'People said that he is a good doctor.' is in the active voice. To change it into the passive voice, we can use two common structures: 1) 'It is said that...' + clause, or 2) 'He is said to...' + infinitive. Since the reporting verb 'said' is in the past, but the statement 'he is a good doctor' is still true in the present, we use 'It is said that he is a good doctor.' (present simple in the reported clause).<br><ul><li><b>A. He was said to have been a good doctor.</b> (sentence): This structure is used when the statement refers to a past situation that is no longer true. 'To have been' shows that he was a good doctor in the past, but it does not necessarily mean he is still a good doctor now.</li><li><b>B. It was said that he is a good doctor.</b> (sentence): This structure uses 'It was said that...' which is past simple passive. However, the correct form should be 'It is said that...' because the information is still considered true at present.</li><li><b>C. It is said that he is a good doctor.</b> (sentence): This is the correct answer. 'It is said that...' is used to report general opinions or beliefs that are still true now.</li><li><b>D. A & B are correct</b> (sentence): This is incorrect because only C is the best answer for the given context.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structures: 'It is said that...' + clause; 'He is said to...' + infinitive. Use present simple passive when the information is still true.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'People said that he is a good doctor.' là câu chủ động. Khi chuyển sang bị động, có hai cấu trúc phổ biến: 1) 'It is said that...' + mệnh đề, hoặc 2) 'He is said to...' + động từ nguyên mẫu. Vì động từ tường thuật 'said' ở thì quá khứ, nhưng thông tin 'he is a good doctor' vẫn đúng ở hiện tại, nên ta dùng 'It is said that he is a good doctor.' (thì hiện tại đơn trong mệnh đề tường thuật).<br><ul><li><b>A. He was said to have been a good doctor.</b> (câu): Cấu trúc này dùng khi thông tin nói về một sự việc trong quá khứ và không còn đúng ở hiện tại. 'To have been' diễn tả anh ấy đã từng là bác sĩ giỏi trong quá khứ, nhưng không chắc hiện tại còn đúng.</li><li><b>B. It was said that he is a good doctor.</b> (câu): Cấu trúc này dùng 'It was said that...' là bị động ở thì quá khứ đơn. Tuy nhiên, dạng đúng nên là 'It is said that...' vì thông tin này vẫn còn đúng ở hiện tại.</li><li><b>C. It is said that he is a good doctor.</b> (câu): Đây là đáp án đúng. 'It is said that...' dùng để tường thuật ý kiến hoặc niềm tin chung vẫn còn đúng ở hiện tại.</li><li><b>D. A & B are correct</b> (câu): Đáp án này sai vì chỉ có C là đáp án đúng nhất với ngữ cảnh đề bài.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động tường thuật: 'It is said that...' + mệnh đề; 'He is said to...' + động từ nguyên mẫu. Dùng thì hiện tại đơn bị động khi thông tin vẫn còn đúng.<br><br><b>Tạm dịch:</b> Người ta nói rằng anh ấy là một bác sĩ giỏi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'People said that he is a good doctor.' is in the active voice. To change it into the passive voice, we can use two common structures: 1) 'It is said that...' + clause, or 2) 'He is said to...' + infinitive. Since the reporting verb 'said' is in the past, but the statement 'he is a good doctor' is still true in the present, we use 'It is said that he is a good doctor.' (present simple in the reported clause).<br><ul><li><b>A. He was said to have been a good doctor.</b> (sentence): This structure is used when the statement refers to a past situation that is no longer true. 'To have been' shows that he was a good doctor in the past, but it does not necessarily mean he is still a good doctor now.</li><li><b>B. It was said that he is a good doctor.</b> (sentence): This structure uses 'It was said that...' which is past simple passive. However, the correct form should be 'It is said that...' because the information is still considered true at present.</li><li><b>C. It is said that he is a good doctor.</b> (sentence): This is the correct answer. 'It is said that...' is used to report general opinions or beliefs that are still true now.</li><li><b>D. A & B are correct</b> (sentence): This is incorrect because only C is the best answer for the given context.</li></ul><b>Related structure or vocabulary:</b> Passive reporting structures: 'It is said that...' + clause; 'He is said to...' + infinitive. Use present simple passive when the information is still true.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb403b",
+        "questionNumber": 17,
+        "questionText": "People thought he stole my car.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "He was thought to have stolen my car.",
+            "raw": "A. He was thought to have stolen my car.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "It was thought that he stole my car.",
+            "raw": "B. It was thought that he stole my car.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "It was thought that he has stolen my car.",
+            "raw": "C.It was thought that he has stolen my car. ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "A & B are correct",
+            "raw": "D. A & B are correct",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'People thought he stole my car.' is in the active voice. To change it into the passive voice, we can use two structures: 1) 'He was thought to have stolen my car.' (passive with infinitive perfect) and 2) 'It was thought that he stole my car.' (impersonal passive). Both are correct ways to express the passive meaning of the original sentence.<br><ul><li><b>He was thought to have stolen my car.</b> (sentence): This is the passive form using 'was thought to have stolen', which is used when the action (stealing) happened before the thinking. It is grammatically correct.</li><li><b>It was thought that he stole my car.</b> (sentence): This is the impersonal passive structure. It is also correct and commonly used in English.</li><li><b>It was thought that he has stolen my car.</b> (sentence): This sentence is incorrect because 'has stolen' (present perfect) does not match the past tense 'was thought'.</li><li><b>A & B are correct</b> (option): Since both A and B are correct passive forms, this is the correct answer.</li></ul><b>Related structure or vocabulary:</b> Passive voice with reporting verbs: People think/say/believe... + that + clause → It is thought/said/believed... that + clause OR Subject + is thought/said/believed + to have + past participle.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'People thought he stole my car.' là câu chủ động. Khi chuyển sang câu bị động, chúng ta có hai cấu trúc: 1) 'He was thought to have stolen my car.' (bị động với động từ nguyên mẫu hoàn thành) và 2) 'It was thought that he stole my car.' (bị động không xác định chủ thể). Cả hai cách này đều đúng để diễn đạt ý bị động của câu gốc.<br><ul><li><b>He was thought to have stolen my car.</b> (câu): Đây là dạng bị động sử dụng 'was thought to have stolen', dùng khi hành động (ăn cắp) xảy ra trước hành động nghĩ. Câu này đúng ngữ pháp.</li><li><b>It was thought that he stole my car.</b> (câu): Đây là cấu trúc bị động không xác định chủ thể. Câu này cũng đúng và thường dùng trong tiếng Anh.</li><li><b>It was thought that he has stolen my car.</b> (câu): Câu này sai vì 'has stolen' (hiện tại hoàn thành) không phù hợp với thì quá khứ 'was thought'.</li><li><b>A & B are correct</b> (lựa chọn): Vì cả A và B đều là các dạng bị động đúng, nên đây là đáp án đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ tường thuật: People think/say/believe... + that + mệnh đề → It is thought/said/believed... that + mệnh đề HOẶC Chủ ngữ + is thought/said/believed + to have + V3.<br><br><b>Tạm dịch:</b> Mọi người nghĩ rằng anh ấy đã ăn cắp xe của tôi. → Anh ấy được cho là đã ăn cắp xe của tôi. HOẶC Người ta cho rằng anh ấy đã ăn cắp xe của tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'People thought he stole my car.' is in the active voice. To change it into the passive voice, we can use two structures: 1) 'He was thought to have stolen my car.' (passive with infinitive perfect) and 2) 'It was thought that he stole my car.' (impersonal passive). Both are correct ways to express the passive meaning of the original sentence.<br><ul><li><b>He was thought to have stolen my car.</b> (sentence): This is the passive form using 'was thought to have stolen', which is used when the action (stealing) happened before the thinking. It is grammatically correct.</li><li><b>It was thought that he stole my car.</b> (sentence): This is the impersonal passive structure. It is also correct and commonly used in English.</li><li><b>It was thought that he has stolen my car.</b> (sentence): This sentence is incorrect because 'has stolen' (present perfect) does not match the past tense 'was thought'.</li><li><b>A & B are correct</b> (option): Since both A and B are correct passive forms, this is the correct answer.</li></ul><b>Related structure or vocabulary:</b> Passive voice with reporting verbs: People think/say/believe... + that + clause → It is thought/said/believed... that + clause OR Subject + is thought/said/believed + to have + past participle.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224846c83f28145bcbb403c",
+        "questionNumber": 18,
+        "questionText": "It _____ that learning English is easy.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are said",
+            "raw": "A. are said ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "said",
+            "raw": "B. said ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is said",
+            "raw": "C. is said",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "is sayed",
+            "raw": "D. is sayed ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It _____ that learning English is easy.' requires a passive structure. The correct form is 'is said', which is the passive voice of 'say'. In English, when we want to report what people generally say or believe, we often use the structure: 'It is said that + clause'.<br><ul><li><b>are said</b> (verb phrase): 'Are' is the plural form of the verb 'to be', but the subject 'It' is singular, so 'are said' is incorrect.</li><li><b>said</b> (verb (past tense)): 'Said' is the past tense of 'say', but here we need a passive verb form, not just the past tense.</li><li><b>is said</b> (verb phrase (passive)): 'Is said' is the correct passive form for the singular subject 'It'. This fits the structure 'It is said that...'.</li><li><b>is sayed</b> (verb phrase (incorrect form)): 'Sayed' is not a correct form of the verb 'say'. The past participle of 'say' is 'said', not 'sayed'.</li></ul><b>Related structure or vocabulary:</b> Passive voice: It is said that + clause (used to report general beliefs or statements).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'It _____ that learning English is easy.' cần một cấu trúc bị động. Dạng đúng là 'is said', đây là thể bị động của động từ 'say'. Trong tiếng Anh, khi muốn tường thuật lại điều mà mọi người thường nói hoặc tin, ta thường dùng cấu trúc: 'It is said that + mệnh đề'.<br><ul><li><b>are said</b> (cụm động từ): 'Are' là động từ to be ở dạng số nhiều, nhưng chủ ngữ 'It' là số ít nên 'are said' là sai.</li><li><b>said</b> (động từ (quá khứ)): 'Said' là thì quá khứ của 'say', nhưng ở đây cần một động từ bị động, không phải thì quá khứ đơn.</li><li><b>is said</b> (cụm động từ (bị động)): 'Is said' là dạng bị động đúng cho chủ ngữ số ít 'It'. Phù hợp với cấu trúc 'It is said that...'.</li><li><b>is sayed</b> (cụm động từ (sai dạng)): 'Sayed' không phải là dạng đúng của động từ 'say'. Quá khứ phân từ của 'say' là 'said', không phải 'sayed'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: It is said that + mệnh đề (dùng để tường thuật lại ý kiến hoặc niềm tin chung).<br><br><b>Tạm dịch:</b> Người ta nói rằng việc học tiếng Anh là dễ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It _____ that learning English is easy.' requires a passive structure. The correct form is 'is said', which is the passive voice of 'say'. In English, when we want to report what people generally say or believe, we often use the structure: 'It is said that + clause'.<br><ul><li><b>are said</b> (verb phrase): 'Are' is the plural form of the verb 'to be', but the subject 'It' is singular, so 'are said' is incorrect.</li><li><b>said</b> (verb (past tense)): 'Said' is the past tense of 'say', but here we need a passive verb form, not just the past tense.</li><li><b>is said</b> (verb phrase (passive)): 'Is said' is the correct passive form for the singular subject 'It'. This fits the structure 'It is said that...'.</li><li><b>is sayed</b> (verb phrase (incorrect form)): 'Sayed' is not a correct form of the verb 'say'. The past participle of 'say' is 'said', not 'sayed'.</li></ul><b>Related structure or vocabulary:</b> Passive voice: It is said that + clause (used to report general beliefs or statements).<br><br>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "topicId": "6224cb0b83f28145bcbba573",
+  "title": "SENTENCE ELEMENTS - Practice 1",
+  "totalCards": 16,
+  "totalQuestions": 16,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba835",
+        "questionNumber": 1,
+        "questionText": "Indicate the name of the sentence element in the italicized part. Tom driᴠeѕ too faѕt.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Verb",
+            "raw": "A. Verb",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Subject",
+            "raw": "C. Subject",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Object",
+            "raw": "D. Object",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Tom drives too fast.', the italicized part is 'drives'. To identify the sentence element, we need to analyze the function of 'drives' in the sentence. 'Drives' is the action that Tom (the subject) performs. In English grammar, the word that shows the action or state of being in a sentence is called the 'verb'.<br><ul><li><b>Verb</b> (Verb (Động từ)): 'Verb' is a word that expresses an action, occurrence, or state of being. In this sentence, 'drives' shows the action performed by Tom.</li><li><b>Complement</b> (Noun (Danh từ)): 'Complement' is a word or group of words that completes the meaning of the subject or verb. There is no complement in the italicized part.</li><li><b>Subject</b> (Noun (Danh từ)): 'Subject' is the person or thing that performs the action or is described in the sentence. In this sentence, 'Tom' is the subject, not 'drives'.</li><li><b>Object</b> (Noun (Danh từ)): 'Object' is the person or thing that receives the action of the verb. There is no object in the italicized part.</li></ul><b>Related structure or vocabulary:</b> Basic sentence structure: Subject + Verb (+ Object/Complement). The verb is the main word that shows the action or state in the sentence.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Tom drives too fast.', phần in nghiêng là 'drives'. Để xác định thành phần câu, ta cần phân tích chức năng của 'drives' trong câu. 'Drives' là hành động mà Tom (chủ ngữ) thực hiện. Trong ngữ pháp tiếng Anh, từ thể hiện hành động hoặc trạng thái trong câu được gọi là 'động từ' (verb).<br><ul><li><b>Verb</b> (Động từ): 'Verb' (động từ) là từ diễn tả hành động, sự việc hoặc trạng thái. Trong câu này, 'drives' thể hiện hành động mà Tom thực hiện.</li><li><b>Complement</b> (Danh từ): 'Complement' (bổ ngữ) là từ hoặc cụm từ bổ sung ý nghĩa cho chủ ngữ hoặc động từ. Phần in nghiêng không phải là bổ ngữ.</li><li><b>Subject</b> (Danh từ): 'Subject' (chủ ngữ) là người hoặc vật thực hiện hành động hoặc được miêu tả trong câu. Trong câu này, 'Tom' là chủ ngữ, không phải 'drives'.</li><li><b>Object</b> (Danh từ): 'Object' (tân ngữ) là người hoặc vật chịu tác động của động từ. Phần in nghiêng không phải là tân ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu cơ bản: Subject + Verb (+ Object/Complement). Động từ là từ chính thể hiện hành động hoặc trạng thái trong câu.<br><br><b>Tạm dịch:</b> Trong câu 'Tom drives too fast.', phần in nghiêng 'drives' là động từ, thể hiện hành động mà Tom thực hiện. Đáp án đúng là A. Verb (động từ).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Tom drives too fast.', the italicized part is 'drives'. To identify the sentence element, we need to analyze the function of 'drives' in the sentence. 'Drives' is the action that Tom (the subject) performs. In English grammar, the word that shows the action or state of being in a sentence is called the 'verb'.<br><ul><li><b>Verb</b> (Verb (Động từ)): 'Verb' is a word that expresses an action, occurrence, or state of being. In this sentence, 'drives' shows the action performed by Tom.</li><li><b>Complement</b> (Noun (Danh từ)): 'Complement' is a word or group of words that completes the meaning of the subject or verb. There is no complement in the italicized part.</li><li><b>Subject</b> (Noun (Danh từ)): 'Subject' is the person or thing that performs the action or is described in the sentence. In this sentence, 'Tom' is the subject, not 'drives'.</li><li><b>Object</b> (Noun (Danh từ)): 'Object' is the person or thing that receives the action of the verb. There is no object in the italicized part.</li></ul><b>Related structure or vocabulary:</b> Basic sentence structure: Subject + Verb (+ Object/Complement). The verb is the main word that shows the action or state in the sentence.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba836",
+        "questionNumber": 2,
+        "questionText": "Indicate the name of sentence element in the italicized part. Cake is delicious.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Object",
+            "raw": "A. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Subject",
+            "raw": "B. Subject",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Verb",
+            "raw": "C. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Complement",
+            "raw": "D. Complement",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Cake is delicious.', the italicized part is 'Cake'. In English sentence structure, 'Cake' is the person or thing that the sentence is about. This is called the subject. The subject usually comes at the beginning of the sentence and performs the action or is described by the verb.<br><ul><li><b>Object</b> (noun (sentence element)): The object is the receiver of the action in a sentence. For example, in 'She eats cake', 'cake' is the object.</li><li><b>Subject</b> (noun (sentence element)): The subject is the person or thing that the sentence is about. In 'Cake is delicious', 'Cake' is the subject.</li><li><b>Verb</b> (verb (sentence element)): The verb shows the action or state of being in the sentence. In 'Cake is delicious', 'is' is the verb.</li><li><b>Complement</b> (noun (sentence element)): A complement gives more information about the subject or object. In 'Cake is delicious', 'delicious' is the complement.</li></ul><b>Related structure or vocabulary:</b> Basic sentence structure: Subject + Verb + Complement. The subject is the main noun or pronoun that the sentence is about.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Cake is delicious.' (Bánh rất ngon), phần in nghiêng là 'Cake'. Trong cấu trúc câu tiếng Anh, 'Cake' là đối tượng mà câu nói đến, gọi là chủ ngữ. Chủ ngữ thường đứng đầu câu và là người hoặc vật thực hiện hành động hoặc được mô tả bởi động từ.<br><ul><li><b>Object</b> (danh từ (thành phần câu)): Tân ngữ là đối tượng nhận hành động trong câu. Ví dụ, trong câu 'She eats cake' (Cô ấy ăn bánh), 'cake' là tân ngữ.</li><li><b>Subject</b> (danh từ (thành phần câu)): Chủ ngữ là người hoặc vật mà câu nói đến. Trong câu 'Cake is delicious', 'Cake' là chủ ngữ.</li><li><b>Verb</b> (động từ (thành phần câu)): Động từ thể hiện hành động hoặc trạng thái trong câu. Trong câu 'Cake is delicious', 'is' là động từ.</li><li><b>Complement</b> (danh từ (thành phần câu)): Bổ ngữ cung cấp thêm thông tin về chủ ngữ hoặc tân ngữ. Trong câu 'Cake is delicious', 'delicious' là bổ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu cơ bản: Chủ ngữ + Động từ + Bổ ngữ. Chủ ngữ là danh từ hoặc đại từ chính mà câu nói đến.<br><br><b>Tạm dịch:</b> Trong câu 'Cake is delicious.' (Bánh rất ngon), phần in nghiêng 'Cake' là chủ ngữ của câu. Chủ ngữ là người hoặc vật mà câu nói đến, thường đứng đầu câu và thực hiện hành động hoặc được mô tả bởi động từ. Đáp án đúng là B. Subject (Chủ ngữ).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Cake is delicious.', the italicized part is 'Cake'. In English sentence structure, 'Cake' is the person or thing that the sentence is about. This is called the subject. The subject usually comes at the beginning of the sentence and performs the action or is described by the verb.<br><ul><li><b>Object</b> (noun (sentence element)): The object is the receiver of the action in a sentence. For example, in 'She eats cake', 'cake' is the object.</li><li><b>Subject</b> (noun (sentence element)): The subject is the person or thing that the sentence is about. In 'Cake is delicious', 'Cake' is the subject.</li><li><b>Verb</b> (verb (sentence element)): The verb shows the action or state of being in the sentence. In 'Cake is delicious', 'is' is the verb.</li><li><b>Complement</b> (noun (sentence element)): A complement gives more information about the subject or object. In 'Cake is delicious', 'delicious' is the complement.</li></ul><b>Related structure or vocabulary:</b> Basic sentence structure: Subject + Verb + Complement. The subject is the main noun or pronoun that the sentence is about.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba837",
+        "questionNumber": 3,
+        "questionText": "Indicate the name of sentence element in the italicized part. Thiѕ book iѕ being read bу mу friend.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Object",
+            "raw": "A. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Verb",
+            "raw": "C. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Subject",
+            "raw": "D. Subject",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'This book is being read by my friend.', the italicized part is 'This book'. To identify the sentence element, we need to analyze the sentence structure. 'This book' is the noun phrase that the action is being done to, but since the sentence is in passive voice, 'This book' is actually the subject of the sentence. In passive sentences, the object of the active sentence becomes the subject of the passive sentence.<br><ul><li><b>Object</b> (Noun): The object receives the action of the verb. In passive voice, the object of the active sentence becomes the subject.</li><li><b>Complement</b> (Noun): A complement gives more information about the subject or object, but is not the main noun or pronoun.</li><li><b>Verb</b> (Verb): The verb shows the action or state in the sentence.</li><li><b>Subject</b> (Noun): The subject is the person or thing that performs or receives the action in the sentence. In passive voice, the subject receives the action.</li></ul><b>Related structure or vocabulary:</b> Passive voice: In passive sentences, the object of the active sentence becomes the subject of the passive sentence. Structure: Subject + be + past participle + (by agent)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'This book is being read by my friend.', phần in nghiêng là 'This book'. Để xác định thành phần câu, ta cần phân tích cấu trúc câu. 'This book' là cụm danh từ mà hành động được thực hiện lên, nhưng vì câu này ở thể bị động nên 'This book' thực chất là chủ ngữ của câu. Trong câu bị động, tân ngữ của câu chủ động sẽ trở thành chủ ngữ của câu bị động.<br><ul><li><b>Object</b> (Danh từ): Tân ngữ là thành phần nhận hành động của động từ. Trong câu bị động, tân ngữ của câu chủ động sẽ trở thành chủ ngữ.</li><li><b>Complement</b> (Danh từ): Bổ ngữ là thành phần bổ sung ý nghĩa cho chủ ngữ hoặc tân ngữ, nhưng không phải là danh từ hoặc đại từ chính.</li><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái trong câu.</li><li><b>Subject</b> (Danh từ): Chủ ngữ là người hoặc vật thực hiện hoặc nhận hành động trong câu. Trong câu bị động, chủ ngữ là thành phần nhận hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động (Passive voice): Trong câu bị động, tân ngữ của câu chủ động sẽ trở thành chủ ngữ của câu bị động. Cấu trúc: Chủ ngữ + be + phân từ II + (by + tác nhân)<br><br><b>Tạm dịch:</b> Câu hỏi: Chỉ ra thành phần câu của phần in nghiêng. 'This book is being read by my friend.' Đáp án đúng là D. Subject (Chủ ngữ). 'This book' là chủ ngữ của câu bị động, là thành phần nhận hành động đọc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'This book is being read by my friend.', the italicized part is 'This book'. To identify the sentence element, we need to analyze the sentence structure. 'This book' is the noun phrase that the action is being done to, but since the sentence is in passive voice, 'This book' is actually the subject of the sentence. In passive sentences, the object of the active sentence becomes the subject of the passive sentence.<br><ul><li><b>Object</b> (Noun): The object receives the action of the verb. In passive voice, the object of the active sentence becomes the subject.</li><li><b>Complement</b> (Noun): A complement gives more information about the subject or object, but is not the main noun or pronoun.</li><li><b>Verb</b> (Verb): The verb shows the action or state in the sentence.</li><li><b>Subject</b> (Noun): The subject is the person or thing that performs or receives the action in the sentence. In passive voice, the subject receives the action.</li></ul><b>Related structure or vocabulary:</b> Passive voice: In passive sentences, the object of the active sentence becomes the subject of the passive sentence. Structure: Subject + be + past participle + (by agent)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba838",
+        "questionNumber": 4,
+        "questionText": "Indicate the name of sentence element in the italicized part. He conѕiderѕ himѕelf an artiѕt.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Complement",
+            "raw": "A. Complement",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Object",
+            "raw": "B. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Verb",
+            "raw": "C. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Subject",
+            "raw": "D. Subject",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'He considers himself an artist.', the italicized part is 'himself an artist.' In English grammar, after certain verbs like 'consider', we use an object ('himself') followed by a complement ('an artist') to complete the meaning. The complement gives more information about the object, telling us what 'himself' is considered to be. Therefore, the italicized part functions as a complement.<br><ul><li><b>A. Complement</b> (noun): A complement is a word or phrase that completes the meaning of a verb, often giving more information about the subject or object.</li><li><b>B. Object</b> (noun): An object is the noun or pronoun that receives the action of the verb.</li><li><b>C. Verb</b> (noun): A verb is a word that expresses an action or a state.</li><li><b>D. Subject</b> (noun): A subject is the person or thing that performs the action of the verb.</li></ul><b>Related structure or vocabulary:</b> Verb + Object + Complement structure: Some verbs (like 'consider', 'make', 'find', 'call') are followed by an object and then a complement to give more information about the object.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'He considers himself an artist.', phần in nghiêng là 'himself an artist.' Trong ngữ pháp tiếng Anh, sau một số động từ như 'consider', chúng ta sử dụng một tân ngữ ('himself') theo sau là bổ ngữ ('an artist') để hoàn thành ý nghĩa của câu. Bổ ngữ này cung cấp thêm thông tin về tân ngữ, nói rõ 'himself' được coi là gì. Vì vậy, phần in nghiêng đóng vai trò là bổ ngữ.<br><ul><li><b>A. Complement</b> (danh từ): Complement (bổ ngữ) là từ hoặc cụm từ bổ sung ý nghĩa cho động từ, thường cung cấp thêm thông tin về chủ ngữ hoặc tân ngữ.</li><li><b>B. Object</b> (danh từ): Object (tân ngữ) là danh từ hoặc đại từ nhận hành động của động từ.</li><li><b>C. Verb</b> (danh từ): Verb (động từ) là từ chỉ hành động hoặc trạng thái.</li><li><b>D. Subject</b> (danh từ): Subject (chủ ngữ) là người hoặc vật thực hiện hành động của động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc Verb + Object + Complement: Một số động từ (như 'consider', 'make', 'find', 'call') được theo sau bởi tân ngữ và bổ ngữ để cung cấp thêm thông tin về tân ngữ.<br><br><b>Tạm dịch:</b> Trong câu 'He considers himself an artist.' (Anh ấy tự coi mình là một nghệ sĩ.), phần in nghiêng 'himself an artist.' là bổ ngữ, vì nó bổ sung ý nghĩa cho tân ngữ 'himself', nói rõ anh ấy coi mình là gì. Đáp án đúng là A. Complement (bổ ngữ).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'He considers himself an artist.', the italicized part is 'himself an artist.' In English grammar, after certain verbs like 'consider', we use an object ('himself') followed by a complement ('an artist') to complete the meaning. The complement gives more information about the object, telling us what 'himself' is considered to be. Therefore, the italicized part functions as a complement.<br><ul><li><b>A. Complement</b> (noun): A complement is a word or phrase that completes the meaning of a verb, often giving more information about the subject or object.</li><li><b>B. Object</b> (noun): An object is the noun or pronoun that receives the action of the verb.</li><li><b>C. Verb</b> (noun): A verb is a word that expresses an action or a state.</li><li><b>D. Subject</b> (noun): A subject is the person or thing that performs the action of the verb.</li></ul><b>Related structure or vocabulary:</b> Verb + Object + Complement structure: Some verbs (like 'consider', 'make', 'find', 'call') are followed by an object and then a complement to give more information about the object.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba839",
+        "questionNumber": 5,
+        "questionText": "Indicate the name of sentence element in the italicized part. She eatѕ ᴠerу much.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Object",
+            "raw": "A. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Verb",
+            "raw": "C. Verb",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Subject",
+            "raw": "D. Subject",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'She eats very much.', the italicized part is 'very much'. To identify the sentence element, we need to analyze the function of 'very much' in the sentence. 'Very much' is used to modify the verb 'eats', describing the extent or degree of the action. In English grammar, such words or phrases that modify verbs are called 'adverbials' or 'adverbs'. However, among the given options, the closest match is 'Complement', but in this context, 'very much' is not a complement (which usually completes the meaning of a subject or object), nor is it an object, verb, or subject. Since none of the options directly mention 'adverbial', but based on traditional grammar tests, 'very much' is sometimes considered a 'complement' because it completes the meaning of the verb. However, the most accurate answer among the options is 'B. Complement'.<br><ul><li><b>A. Object</b> (Noun): An object receives the action of the verb. In this sentence, there is no noun or pronoun receiving the action of 'eats'.</li><li><b>B. Complement</b> (Noun): A complement completes the meaning of the verb or subject. In some grammar frameworks, adverbials like 'very much' are considered complements because they complete the verb's meaning.</li><li><b>C. Verb</b> (Verb): A verb shows the action or state. In this sentence, 'eats' is the verb, not 'very much'.</li><li><b>D. Subject</b> (Noun): The subject is the doer of the action. Here, 'She' is the subject.</li></ul><b>Related structure or vocabulary:</b> Complement: A word or phrase that completes the meaning of a verb or subject. In some grammar traditions, adverbials can be considered complements if they are necessary to complete the verb's meaning.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'She eats very much.', phần in nghiêng là 'very much'. Để xác định thành phần câu, ta cần phân tích chức năng của 'very much' trong câu. 'Very much' dùng để bổ nghĩa cho động từ 'eats', diễn tả mức độ của hành động. Trong ngữ pháp tiếng Anh, những từ hoặc cụm từ bổ nghĩa cho động từ được gọi là trạng ngữ (adverbial). Tuy nhiên, trong các lựa chọn đưa ra, không có đáp án nào là 'adverbial', mà đáp án gần nhất là 'Complement' (bổ ngữ). Trong một số tài liệu ngữ pháp, trạng ngữ như 'very much' đôi khi được xem là bổ ngữ vì nó hoàn thiện ý nghĩa cho động từ. Do đó, đáp án đúng nhất trong các lựa chọn là 'B. Complement'.<br><ul><li><b>A. Object</b> (Danh từ): Tân ngữ là thành phần nhận tác động của động từ. Trong câu này không có danh từ hoặc đại từ nào nhận tác động của 'eats'.</li><li><b>B. Complement</b> (Danh từ): Bổ ngữ là thành phần hoàn thiện ý nghĩa cho động từ hoặc chủ ngữ. Trong một số tài liệu ngữ pháp, trạng ngữ như 'very much' được xem là bổ ngữ vì nó hoàn thiện ý nghĩa cho động từ.</li><li><b>C. Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái. Trong câu này, 'eats' là động từ, không phải 'very much'.</li><li><b>D. Subject</b> (Danh từ): Chủ ngữ là thành phần thực hiện hành động. Ở đây, 'She' là chủ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Complement: Bổ ngữ là thành phần hoàn thiện ý nghĩa cho động từ hoặc chủ ngữ. Trong một số tài liệu ngữ pháp, trạng ngữ cũng có thể được xem là bổ ngữ nếu nó cần thiết để hoàn thiện ý nghĩa của động từ.<br><br><b>Tạm dịch:</b> Trong câu 'She eats very much.', phần in nghiêng 'very much' là bổ ngữ (complement) vì nó bổ sung ý nghĩa cho động từ 'eats', diễn tả mức độ ăn. Dù về mặt ngữ pháp hiện đại, 'very much' là trạng ngữ, nhưng trong các lựa chọn đưa ra, đáp án đúng nhất là 'B. Complement'.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'She eats very much.', the italicized part is 'very much'. To identify the sentence element, we need to analyze the function of 'very much' in the sentence. 'Very much' is used to modify the verb 'eats', describing the extent or degree of the action. In English grammar, such words or phrases that modify verbs are called 'adverbials' or 'adverbs'. However, among the given options, the closest match is 'Complement', but in this context, 'very much' is not a complement (which usually completes the meaning of a subject or object), nor is it an object, verb, or subject. Since none of the options directly mention 'adverbial', but based on traditional grammar tests, 'very much' is sometimes considered a 'complement' because it completes the meaning of the verb. However, the most accurate answer among the options is 'B. Complement'.<br><ul><li><b>A. Object</b> (Noun): An object receives the action of the verb. In this sentence, there is no noun or pronoun receiving the action of 'eats'.</li><li><b>B. Complement</b> (Noun): A complement completes the meaning of the verb or subject. In some grammar frameworks, adverbials like 'very much' are considered complements because they complete the verb's meaning.</li><li><b>C. Verb</b> (Verb): A verb shows the action or state. In this sentence, 'eats' is the verb, not 'very much'.</li><li><b>D. Subject</b> (Noun): The subject is the doer of the action. Here, 'She' is the subject.</li></ul><b>Related structure or vocabulary:</b> Complement: A word or phrase that completes the meaning of a verb or subject. In some grammar traditions, adverbials can be considered complements if they are necessary to complete the verb's meaning.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba83a",
+        "questionNumber": 6,
+        "questionText": "Indicate the name of sentence element in the italicized part. I bought a neᴡ car уeѕterdaу.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Object",
+            "raw": "A. Object",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Verb",
+            "raw": "C. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Subject",
+            "raw": "D. Subject",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'I bought a new car yesterday.', the italicized part is 'a new car'. To identify the sentence element, we need to analyze the function of this phrase. The verb in the sentence is 'bought'. The phrase 'a new car' answers the question 'What did I buy?', so it receives the action of the verb. In English grammar, the word or phrase that receives the action of the verb is called the 'object'.<br><ul><li><b>Object</b> (Noun): The object is the noun or noun phrase that receives the action of the verb.</li><li><b>Complement</b> (Noun): A complement is a word or phrase that completes the meaning of the subject or object, often following linking verbs.</li><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state.</li><li><b>Subject</b> (Noun): The subject is the person or thing that performs the action of the verb.</li></ul><b>Related structure or vocabulary:</b> In English, the basic sentence structure is Subject + Verb + Object (SVO). The object answers the question 'what?' or 'whom?' after the verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'I bought a new car yesterday.', phần in nghiêng là 'a new car'. Để xác định thành phần câu, ta cần phân tích chức năng của cụm từ này. Động từ trong câu là 'bought'. Cụm 'a new car' trả lời cho câu hỏi 'Tôi đã mua cái gì?', nghĩa là nó nhận tác động của động từ. Trong ngữ pháp tiếng Anh, từ hoặc cụm từ nhận tác động của động từ được gọi là 'tân ngữ' (object).<br><ul><li><b>Object</b> (Danh từ): Tân ngữ là danh từ hoặc cụm danh từ nhận tác động của động từ.</li><li><b>Complement</b> (Danh từ): Bổ ngữ là từ hoặc cụm từ bổ sung ý nghĩa cho chủ ngữ hoặc tân ngữ, thường đứng sau động từ nối.</li><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái.</li><li><b>Subject</b> (Danh từ): Chủ ngữ là người hoặc vật thực hiện hành động của động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Trong tiếng Anh, cấu trúc câu cơ bản là Chủ ngữ + Động từ + Tân ngữ (SVO). Tân ngữ trả lời cho câu hỏi 'cái gì?' hoặc 'ai?' sau động từ.<br><br><b>Tạm dịch:</b> Tôi đã mua một chiếc xe hơi mới vào ngày hôm qua. Trong câu này, 'a new car' là tân ngữ, vì nó nhận tác động của động từ 'bought'.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'I bought a new car yesterday.', the italicized part is 'a new car'. To identify the sentence element, we need to analyze the function of this phrase. The verb in the sentence is 'bought'. The phrase 'a new car' answers the question 'What did I buy?', so it receives the action of the verb. In English grammar, the word or phrase that receives the action of the verb is called the 'object'.<br><ul><li><b>Object</b> (Noun): The object is the noun or noun phrase that receives the action of the verb.</li><li><b>Complement</b> (Noun): A complement is a word or phrase that completes the meaning of the subject or object, often following linking verbs.</li><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state.</li><li><b>Subject</b> (Noun): The subject is the person or thing that performs the action of the verb.</li></ul><b>Related structure or vocabulary:</b> In English, the basic sentence structure is Subject + Verb + Object (SVO). The object answers the question 'what?' or 'whom?' after the verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba83b",
+        "questionNumber": 7,
+        "questionText": "Indicate the name of sentence element in the italicized part. She iѕ a ѕtudent.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Object",
+            "raw": "A. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Verb",
+            "raw": "C. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Subject",
+            "raw": "D. Subject",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'She is a student.', the italicized part is 'a student'. In English grammar, after the verb 'to be' (is/am/are/was/were), the word or phrase that describes or identifies the subject is called a complement, specifically a subject complement. It gives more information about the subject 'She'.<br><ul><li><b>Object</b> (noun): An object receives the action of the verb. In this sentence, there is no action verb, so there is no object.</li><li><b>Complement</b> (noun): A complement completes the meaning of the subject and verb. Here, 'a student' tells us what 'She' is, so it is a complement.</li><li><b>Verb</b> (noun): A verb shows an action or state. In this sentence, 'is' is the verb, not 'a student'.</li><li><b>Subject</b> (noun): The subject is who or what the sentence is about. In this sentence, 'She' is the subject.</li></ul><b>Related structure or vocabulary:</b> Subject complement: a word or phrase (usually a noun or adjective) that follows a linking verb and describes or identifies the subject. Common linking verbs: be, seem, become, appear, etc.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'She is a student.', phần in nghiêng là 'a student'. Trong ngữ pháp tiếng Anh, sau động từ 'to be' (is/am/are/was/were), từ hoặc cụm từ dùng để mô tả hoặc xác định chủ ngữ được gọi là bổ ngữ (complement), cụ thể là bổ ngữ cho chủ ngữ (subject complement). Nó cung cấp thêm thông tin về chủ ngữ 'She'.<br><ul><li><b>Object</b> (danh từ): Tân ngữ là thành phần nhận tác động của động từ. Trong câu này không có động từ chỉ hành động nên không có tân ngữ.</li><li><b>Complement</b> (danh từ): Bổ ngữ là thành phần hoàn thiện ý nghĩa cho chủ ngữ và động từ. Ở đây, 'a student' cho biết 'She' là ai, nên nó là bổ ngữ.</li><li><b>Verb</b> (danh từ): Động từ diễn tả hành động hoặc trạng thái. Trong câu này, 'is' là động từ, không phải 'a student'.</li><li><b>Subject</b> (danh từ): Chủ ngữ là đối tượng mà câu nói về. Trong câu này, 'She' là chủ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Bổ ngữ cho chủ ngữ (subject complement): là từ hoặc cụm từ (thường là danh từ hoặc tính từ) đứng sau động từ nối (linking verb) để mô tả hoặc xác định chủ ngữ. Một số động từ nối phổ biến: be, seem, become, appear, v.v.<br><br><b>Tạm dịch:</b> Trong câu 'She is a student.', phần in nghiêng 'a student' là bổ ngữ cho chủ ngữ, dùng để mô tả hoặc xác định chủ ngữ 'She'. Đáp án đúng là B. Complement (Bổ ngữ).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'She is a student.', the italicized part is 'a student'. In English grammar, after the verb 'to be' (is/am/are/was/were), the word or phrase that describes or identifies the subject is called a complement, specifically a subject complement. It gives more information about the subject 'She'.<br><ul><li><b>Object</b> (noun): An object receives the action of the verb. In this sentence, there is no action verb, so there is no object.</li><li><b>Complement</b> (noun): A complement completes the meaning of the subject and verb. Here, 'a student' tells us what 'She' is, so it is a complement.</li><li><b>Verb</b> (noun): A verb shows an action or state. In this sentence, 'is' is the verb, not 'a student'.</li><li><b>Subject</b> (noun): The subject is who or what the sentence is about. In this sentence, 'She' is the subject.</li></ul><b>Related structure or vocabulary:</b> Subject complement: a word or phrase (usually a noun or adjective) that follows a linking verb and describes or identifies the subject. Common linking verbs: be, seem, become, appear, etc.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba83c",
+        "questionNumber": 8,
+        "questionText": "Indicate the name of sentence element in the italicized part. Yeѕterdaу I ᴡent home late.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Adverbial",
+            "raw": "A. Adverbial",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Object",
+            "raw": "C. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Subject",
+            "raw": "D. Subject",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Yesterday I went home late.', the italicized part is 'Yesterday'. This word tells us when the action happened. In English grammar, words or phrases that give information about time, place, manner, reason, etc., are called 'adverbials'. They modify the verb and provide extra details about the action.<br><ul><li><b>Adverbial</b> (noun): An adverbial is a word, phrase, or clause that gives more information about the verb, such as time, place, manner, or reason.</li><li><b>Complement</b> (noun): A complement is a word or group of words that completes the meaning of a subject, verb, or object.</li><li><b>Object</b> (noun): An object is a noun, pronoun, or noun phrase that receives the action of the verb.</li><li><b>Subject</b> (noun): A subject is the person or thing that performs the action of the verb.</li></ul><b>Related structure or vocabulary:</b> Adverbials often answer questions like 'when?', 'where?', 'how?', or 'why?'. In this sentence, 'Yesterday' answers the question 'When did you go home late?'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Yesterday I went home late.', phần in nghiêng là 'Yesterday'. Từ này cho biết thời gian xảy ra hành động. Trong ngữ pháp tiếng Anh, những từ hoặc cụm từ cung cấp thông tin về thời gian, nơi chốn, cách thức, lý do,... được gọi là 'adverbial' (trạng ngữ). Chúng bổ nghĩa cho động từ và cung cấp thêm chi tiết về hành động.<br><ul><li><b>Adverbial</b> (danh từ): Adverbial (trạng ngữ) là từ, cụm từ hoặc mệnh đề bổ sung thông tin cho động từ, như thời gian, nơi chốn, cách thức hoặc lý do.</li><li><b>Complement</b> (danh từ): Complement (bổ ngữ) là từ hoặc nhóm từ hoàn thiện ý nghĩa cho chủ ngữ, động từ hoặc tân ngữ.</li><li><b>Object</b> (danh từ): Object (tân ngữ) là danh từ, đại từ hoặc cụm danh từ nhận tác động của động từ.</li><li><b>Subject</b> (danh từ): Subject (chủ ngữ) là người hoặc vật thực hiện hành động của động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Adverbial thường trả lời các câu hỏi như 'khi nào?', 'ở đâu?', 'như thế nào?' hoặc 'tại sao?'. Trong câu này, 'Yesterday' trả lời cho câu hỏi 'Khi nào bạn về nhà muộn?'.<br><br><b>Tạm dịch:</b> Trong câu 'Yesterday I went home late.', phần in nghiêng 'Yesterday' là trạng ngữ chỉ thời gian, bổ sung thông tin cho động từ 'went'. Đáp án đúng là A. Adverbial (trạng ngữ).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Yesterday I went home late.', the italicized part is 'Yesterday'. This word tells us when the action happened. In English grammar, words or phrases that give information about time, place, manner, reason, etc., are called 'adverbials'. They modify the verb and provide extra details about the action.<br><ul><li><b>Adverbial</b> (noun): An adverbial is a word, phrase, or clause that gives more information about the verb, such as time, place, manner, or reason.</li><li><b>Complement</b> (noun): A complement is a word or group of words that completes the meaning of a subject, verb, or object.</li><li><b>Object</b> (noun): An object is a noun, pronoun, or noun phrase that receives the action of the verb.</li><li><b>Subject</b> (noun): A subject is the person or thing that performs the action of the verb.</li></ul><b>Related structure or vocabulary:</b> Adverbials often answer questions like 'when?', 'where?', 'how?', or 'why?'. In this sentence, 'Yesterday' answers the question 'When did you go home late?'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba83d",
+        "questionNumber": 9,
+        "questionText": "Indicate the name of sentence element in the italicized part. She gaᴠe me a gift.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Verb",
+            "raw": "A. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Object",
+            "raw": "C. Object",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Subject",
+            "raw": "D. Subject",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'She gave me a gift.', the italicized part is 'me a gift.' To identify the sentence element, we need to analyze the structure of the sentence. 'She' is the subject, 'gave' is the verb, and 'me a gift' is what is given. In English, when a verb is followed by two nouns or pronouns, the first is usually the indirect object (the person who receives something), and the second is the direct object (the thing that is given). Here, 'me' is the indirect object and 'a gift' is the direct object. Together, 'me a gift' forms the object of the sentence.<br><ul><li><b>Verb</b> (Verb): A verb is an action or state word. In this sentence, 'gave' is the verb.</li><li><b>Complement</b> (Noun): A complement completes the meaning of the verb, often describing the subject or object. 'Me a gift' is not a complement.</li><li><b>Object</b> (Noun): An object receives the action of the verb. In this sentence, 'me a gift' is the object (specifically, an indirect and direct object together).</li><li><b>Subject</b> (Noun): The subject is who or what does the action. 'She' is the subject in this sentence.</li></ul><b>Related structure or vocabulary:</b> Double object construction: S + V + Indirect Object + Direct Object. Example: She gave me a gift. ('me' = indirect object, 'a gift' = direct object)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'She gave me a gift.', phần in nghiêng là 'me a gift.' Để xác định thành phần câu, ta cần phân tích cấu trúc câu. 'She' là chủ ngữ, 'gave' là động từ, và 'me a gift' là phần được cho. Trong tiếng Anh, khi động từ theo sau bởi hai danh từ hoặc đại từ, cái đầu tiên thường là tân ngữ gián tiếp (người nhận), cái thứ hai là tân ngữ trực tiếp (vật được cho). Ở đây, 'me' là tân ngữ gián tiếp và 'a gift' là tân ngữ trực tiếp. Kết hợp lại, 'me a gift' tạo thành tân ngữ của câu.<br><ul><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái. Trong câu này, 'gave' là động từ.</li><li><b>Complement</b> (Danh từ): Bổ ngữ là thành phần bổ sung ý nghĩa cho động từ, thường mô tả chủ ngữ hoặc tân ngữ. 'Me a gift' không phải là bổ ngữ.</li><li><b>Object</b> (Danh từ): Tân ngữ là thành phần nhận tác động của động từ. Trong câu này, 'me a gift' là tân ngữ (cụ thể là tân ngữ gián tiếp và trực tiếp).</li><li><b>Subject</b> (Danh từ): Chủ ngữ là thành phần thực hiện hành động. 'She' là chủ ngữ trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc hai tân ngữ: S + V + Tân ngữ gián tiếp + Tân ngữ trực tiếp. Ví dụ: She gave me a gift. ('me' = tân ngữ gián tiếp, 'a gift' = tân ngữ trực tiếp)<br><br><b>Tạm dịch:</b> Trong câu 'She gave me a gift.' phần in nghiêng 'me a gift' là tân ngữ (object) của câu, bao gồm tân ngữ gián tiếp 'me' và tân ngữ trực tiếp 'a gift'. Đáp án đúng là C. Object.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'She gave me a gift.', the italicized part is 'me a gift.' To identify the sentence element, we need to analyze the structure of the sentence. 'She' is the subject, 'gave' is the verb, and 'me a gift' is what is given. In English, when a verb is followed by two nouns or pronouns, the first is usually the indirect object (the person who receives something), and the second is the direct object (the thing that is given). Here, 'me' is the indirect object and 'a gift' is the direct object. Together, 'me a gift' forms the object of the sentence.<br><ul><li><b>Verb</b> (Verb): A verb is an action or state word. In this sentence, 'gave' is the verb.</li><li><b>Complement</b> (Noun): A complement completes the meaning of the verb, often describing the subject or object. 'Me a gift' is not a complement.</li><li><b>Object</b> (Noun): An object receives the action of the verb. In this sentence, 'me a gift' is the object (specifically, an indirect and direct object together).</li><li><b>Subject</b> (Noun): The subject is who or what does the action. 'She' is the subject in this sentence.</li></ul><b>Related structure or vocabulary:</b> Double object construction: S + V + Indirect Object + Direct Object. Example: She gave me a gift. ('me' = indirect object, 'a gift' = direct object)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba83e",
+        "questionNumber": 10,
+        "questionText": "Indicate the name of sentence element in the italicized part. They work very hard.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Verb",
+            "raw": "A. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Object",
+            "raw": "C. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Adverbial",
+            "raw": "D. Adverbial",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'They work very hard.', the italicized part is 'very hard'. To identify the sentence element, we need to analyze its function. 'Very hard' describes how 'they work', giving more information about the verb 'work'. This means it modifies the verb and tells us the manner of the action. In English grammar, a word or phrase that modifies a verb to give information about time, place, manner, frequency, etc., is called an 'adverbial'.<br><ul><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'work' is the verb.</li><li><b>Complement</b> (Noun): A complement is a word or phrase that is necessary to complete the meaning of a given expression. In this sentence, there is no complement after the verb.</li><li><b>Object</b> (Noun): An object is a noun or pronoun that receives the action of the verb. There is no object in this sentence.</li><li><b>Adverbial</b> (Noun): An adverbial is a word or phrase that modifies a verb, adjective, or sentence, providing information such as manner, place, time, or degree. 'Very hard' tells us how they work, so it is an adverbial.</li></ul><b>Related structure or vocabulary:</b> Adverbials answer questions like how, when, where, and to what extent. In this case, 'very hard' answers the question 'How do they work?'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'They work very hard.' (Họ làm việc rất chăm chỉ.), phần in nghiêng là 'very hard'. Để xác định thành phần câu, ta cần phân tích chức năng của nó. 'Very hard' mô tả cách mà 'they work' (họ làm việc), cung cấp thêm thông tin cho động từ 'work'. Điều này có nghĩa là nó bổ nghĩa cho động từ và cho biết cách thức hành động diễn ra. Trong ngữ pháp tiếng Anh, từ hoặc cụm từ bổ nghĩa cho động từ để cung cấp thông tin về thời gian, nơi chốn, cách thức, tần suất,... được gọi là 'adverbial' (trạng ngữ).<br><ul><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái. Trong câu này, 'work' là động từ.</li><li><b>Complement</b> (Danh từ): Bổ ngữ là từ hoặc cụm từ cần thiết để hoàn thành ý nghĩa của một biểu thức. Trong câu này, không có bổ ngữ sau động từ.</li><li><b>Object</b> (Danh từ): Tân ngữ là danh từ hoặc đại từ nhận hành động của động từ. Câu này không có tân ngữ.</li><li><b>Adverbial</b> (Danh từ): Trạng ngữ là từ hoặc cụm từ bổ nghĩa cho động từ, tính từ hoặc cả câu, cung cấp thông tin như cách thức, nơi chốn, thời gian, mức độ,... 'Very hard' cho biết cách họ làm việc, nên nó là trạng ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng ngữ (adverbial) trả lời các câu hỏi như: như thế nào, khi nào, ở đâu, ở mức độ nào. Trong trường hợp này, 'very hard' trả lời cho câu hỏi 'Họ làm việc như thế nào?'.<br><br><b>Tạm dịch:</b> Trong câu 'They work very hard.' (Họ làm việc rất chăm chỉ.), phần in nghiêng 'very hard' là trạng ngữ (adverbial) vì nó bổ nghĩa cho động từ 'work', cho biết cách thức hành động diễn ra. Đáp án đúng là D. Adverbial.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'They work very hard.', the italicized part is 'very hard'. To identify the sentence element, we need to analyze its function. 'Very hard' describes how 'they work', giving more information about the verb 'work'. This means it modifies the verb and tells us the manner of the action. In English grammar, a word or phrase that modifies a verb to give information about time, place, manner, frequency, etc., is called an 'adverbial'.<br><ul><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'work' is the verb.</li><li><b>Complement</b> (Noun): A complement is a word or phrase that is necessary to complete the meaning of a given expression. In this sentence, there is no complement after the verb.</li><li><b>Object</b> (Noun): An object is a noun or pronoun that receives the action of the verb. There is no object in this sentence.</li><li><b>Adverbial</b> (Noun): An adverbial is a word or phrase that modifies a verb, adjective, or sentence, providing information such as manner, place, time, or degree. 'Very hard' tells us how they work, so it is an adverbial.</li></ul><b>Related structure or vocabulary:</b> Adverbials answer questions like how, when, where, and to what extent. In this case, 'very hard' answers the question 'How do they work?'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba83f",
+        "questionNumber": 11,
+        "questionText": "Indicate the name of sentence element in the italicized part. She lookѕ tired.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Verb",
+            "raw": "A. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Object",
+            "raw": "B. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Complement",
+            "raw": "C. Complement",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Adverbial",
+            "raw": "D. Adverbial",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'She looks tired.', the italicized part is 'tired'. Here, 'looks' is a linking verb, and 'tired' describes the subject 'She'. In English grammar, when a word or phrase follows a linking verb and gives more information about the subject, it is called a 'complement', specifically a 'subject complement'.<br><ul><li><b>Verb</b> (Verb): A verb is an action or state word. In this sentence, 'looks' is the verb.</li><li><b>Object</b> (Noun): An object receives the action of the verb. There is no object in this sentence.</li><li><b>Complement</b> (Noun): A complement gives more information about the subject or object. Here, 'tired' is a subject complement describing 'She'.</li><li><b>Adverbial</b> (Adverb/Adverbial phrase): An adverbial modifies the verb, adjective, or sentence. 'Tired' does not function as an adverbial here.</li></ul><b>Related structure or vocabulary:</b> Linking verb + complement: Linking verbs (such as 'be', 'seem', 'look', 'feel', etc.) are followed by a complement that describes or identifies the subject.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'She looks tired.', phần in nghiêng là 'tired'. Ở đây, 'looks' là động từ nối (linking verb), và 'tired' dùng để miêu tả chủ ngữ 'She'. Trong ngữ pháp tiếng Anh, khi một từ hoặc cụm từ đứng sau động từ nối và cung cấp thêm thông tin về chủ ngữ, nó được gọi là 'bổ ngữ' (complement), cụ thể là 'bổ ngữ chủ ngữ' (subject complement).<br><ul><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái. Trong câu này, 'looks' là động từ.</li><li><b>Object</b> (Danh từ): Tân ngữ là thành phần nhận tác động của động từ. Câu này không có tân ngữ.</li><li><b>Complement</b> (Danh từ): Bổ ngữ là thành phần cung cấp thêm thông tin cho chủ ngữ hoặc tân ngữ. Ở đây, 'tired' là bổ ngữ chủ ngữ, miêu tả 'She'.</li><li><b>Adverbial</b> (Trạng từ/Cụm trạng từ): Trạng ngữ là thành phần bổ nghĩa cho động từ, tính từ hoặc cả câu. 'Tired' không đóng vai trò trạng ngữ trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ nối + bổ ngữ: Các động từ nối (như 'be', 'seem', 'look', 'feel',...) thường được theo sau bởi bổ ngữ để miêu tả hoặc xác định chủ ngữ.<br><br><b>Tạm dịch:</b> Câu 'She looks tired.' có phần in nghiêng 'tired' là bổ ngữ chủ ngữ, dùng để miêu tả chủ ngữ 'She' sau động từ nối 'looks'. Đáp án đúng là C. Complement (Bổ ngữ).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'She looks tired.', the italicized part is 'tired'. Here, 'looks' is a linking verb, and 'tired' describes the subject 'She'. In English grammar, when a word or phrase follows a linking verb and gives more information about the subject, it is called a 'complement', specifically a 'subject complement'.<br><ul><li><b>Verb</b> (Verb): A verb is an action or state word. In this sentence, 'looks' is the verb.</li><li><b>Object</b> (Noun): An object receives the action of the verb. There is no object in this sentence.</li><li><b>Complement</b> (Noun): A complement gives more information about the subject or object. Here, 'tired' is a subject complement describing 'She'.</li><li><b>Adverbial</b> (Adverb/Adverbial phrase): An adverbial modifies the verb, adjective, or sentence. 'Tired' does not function as an adverbial here.</li></ul><b>Related structure or vocabulary:</b> Linking verb + complement: Linking verbs (such as 'be', 'seem', 'look', 'feel', etc.) are followed by a complement that describes or identifies the subject.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba840",
+        "questionNumber": 12,
+        "questionText": "Indicate the name of sentence element in the italicized part. I liᴠe in the citу.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Verb",
+            "raw": "A. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Adverbial",
+            "raw": "B. Adverbial",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Complement",
+            "raw": "C. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Object",
+            "raw": "D. Object",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'I live in the city.', the italicized part is 'in the city.' This part tells us where the action (live) happens. In English grammar, a sentence element that gives information about time, place, manner, reason, etc., is called an adverbial. Here, 'in the city' is a prepositional phrase functioning as an adverbial of place.<br><ul><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'live' is the verb.</li><li><b>Adverbial</b> (Adverbial): An adverbial is a word, phrase, or clause that gives more information about the verb, such as time, place, manner, or reason. 'In the city' tells us where the action happens, so it is an adverbial.</li><li><b>Complement</b> (Noun/Adjective Phrase): A complement is a word or phrase that is necessary to complete the meaning of a given expression. For example, in 'She is a teacher', 'a teacher' is a complement.</li><li><b>Object</b> (Noun Phrase): An object is a noun, pronoun, or noun phrase that receives the action of the verb. For example, in 'I eat an apple', 'an apple' is the object.</li></ul><b>Related structure or vocabulary:</b> Prepositional phrase as adverbial: A prepositional phrase (like 'in the city') can function as an adverbial, giving more information about the verb (here, indicating place).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'I live in the city.', phần in nghiêng là 'in the city.' Phần này cho biết nơi xảy ra hành động (live). Trong ngữ pháp tiếng Anh, thành phần câu cung cấp thông tin về thời gian, nơi chốn, cách thức, lý do,... được gọi là trạng ngữ (adverbial). Ở đây, 'in the city' là một cụm giới từ đóng vai trò trạng ngữ chỉ nơi chốn.<br><ul><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái. Trong câu này, 'live' là động từ.</li><li><b>Adverbial</b> (Trạng ngữ): Trạng ngữ là từ, cụm từ hoặc mệnh đề bổ sung thông tin cho động từ như thời gian, nơi chốn, cách thức, lý do,... 'In the city' cho biết nơi xảy ra hành động nên là trạng ngữ.</li><li><b>Complement</b> (Cụm danh từ/tính từ): Bổ ngữ là từ hoặc cụm từ cần thiết để hoàn thành ý nghĩa của câu. Ví dụ: 'She is a teacher', 'a teacher' là bổ ngữ.</li><li><b>Object</b> (Cụm danh từ): Tân ngữ là danh từ, đại từ hoặc cụm danh từ nhận tác động của động từ. Ví dụ: 'I eat an apple', 'an apple' là tân ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Cụm giới từ làm trạng ngữ: Cụm giới từ (như 'in the city') có thể đóng vai trò trạng ngữ, bổ sung thông tin cho động từ (ở đây là chỉ nơi chốn).<br><br><b>Tạm dịch:</b> Tôi sống ở thành phố.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'I live in the city.', the italicized part is 'in the city.' This part tells us where the action (live) happens. In English grammar, a sentence element that gives information about time, place, manner, reason, etc., is called an adverbial. Here, 'in the city' is a prepositional phrase functioning as an adverbial of place.<br><ul><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'live' is the verb.</li><li><b>Adverbial</b> (Adverbial): An adverbial is a word, phrase, or clause that gives more information about the verb, such as time, place, manner, or reason. 'In the city' tells us where the action happens, so it is an adverbial.</li><li><b>Complement</b> (Noun/Adjective Phrase): A complement is a word or phrase that is necessary to complete the meaning of a given expression. For example, in 'She is a teacher', 'a teacher' is a complement.</li><li><b>Object</b> (Noun Phrase): An object is a noun, pronoun, or noun phrase that receives the action of the verb. For example, in 'I eat an apple', 'an apple' is the object.</li></ul><b>Related structure or vocabulary:</b> Prepositional phrase as adverbial: A prepositional phrase (like 'in the city') can function as an adverbial, giving more information about the verb (here, indicating place).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba841",
+        "questionNumber": 13,
+        "questionText": "Indicate the name of sentence element in the italicized part. Yesterday Alex visited his grandmother in New York.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Verb",
+            "raw": "A. Verb",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Adverbial",
+            "raw": "B. Adverbial",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Complement",
+            "raw": "C. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Object",
+            "raw": "D. Object",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Yesterday Alex visited his grandmother in New York.', the italicized part is 'Yesterday'. 'Yesterday' tells us when the action happened, giving information about the time of the verb 'visited'. In English grammar, words or phrases that provide information about time, place, manner, reason, etc., are called 'adverbials'. Therefore, 'Yesterday' is an adverbial because it modifies the verb by telling us when the action took place.<br><ul><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'visited' is the verb.</li><li><b>Adverbial</b> (Adverbial): An adverbial is a word or phrase that gives more information about the verb, such as time, place, manner, etc. 'Yesterday' tells us when Alex visited his grandmother, so it is an adverbial.</li><li><b>Complement</b> (Noun/Grammar term): A complement is a word or phrase that is necessary to complete the meaning of a sentence. In this sentence, there is no complement in the italicized part.</li><li><b>Object</b> (Noun/Grammar term): An object is a noun or pronoun that receives the action of the verb. In this sentence, 'his grandmother' is the object, not 'Yesterday'.</li></ul><b>Related structure or vocabulary:</b> Adverbials are words or phrases that modify the verb by providing information about time, place, manner, frequency, etc. Common adverbials of time include: yesterday, today, tomorrow, last week, etc.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Yesterday Alex visited his grandmother in New York.', phần in nghiêng là 'Yesterday'. 'Yesterday' cho biết thời gian hành động xảy ra, cung cấp thông tin về thời điểm của động từ 'visited'. Trong ngữ pháp tiếng Anh, những từ hoặc cụm từ cung cấp thông tin về thời gian, địa điểm, cách thức, lý do,... được gọi là 'trạng ngữ' (adverbial). Vì vậy, 'Yesterday' là trạng ngữ vì nó bổ nghĩa cho động từ bằng cách cho biết hành động xảy ra khi nào.<br><ul><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái. Trong câu này, 'visited' là động từ.</li><li><b>Adverbial</b> (Trạng ngữ): Trạng ngữ là từ hoặc cụm từ bổ sung thông tin cho động từ, như thời gian, địa điểm, cách thức,... 'Yesterday' cho biết khi nào Alex đến thăm bà, nên nó là trạng ngữ.</li><li><b>Complement</b> (Danh từ/Thuật ngữ ngữ pháp): Bổ ngữ là từ hoặc cụm từ cần thiết để hoàn thành ý nghĩa của câu. Trong câu này, phần in nghiêng không phải là bổ ngữ.</li><li><b>Object</b> (Danh từ/Thuật ngữ ngữ pháp): Tân ngữ là danh từ hoặc đại từ nhận tác động của động từ. Trong câu này, 'his grandmother' là tân ngữ, không phải 'Yesterday'.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng ngữ (adverbial) là từ hoặc cụm từ bổ nghĩa cho động từ, cung cấp thông tin về thời gian, địa điểm, cách thức, tần suất,... Một số trạng ngữ chỉ thời gian phổ biến: yesterday (hôm qua), today (hôm nay), tomorrow (ngày mai), last week (tuần trước),...<br><br><b>Tạm dịch:</b> Trong câu 'Yesterday Alex visited his grandmother in New York.' phần in nghiêng 'Yesterday' là trạng ngữ, vì nó cho biết thời gian xảy ra hành động. Đáp án đúng là B. Adverbial (Trạng ngữ).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Yesterday Alex visited his grandmother in New York.', the italicized part is 'Yesterday'. 'Yesterday' tells us when the action happened, giving information about the time of the verb 'visited'. In English grammar, words or phrases that provide information about time, place, manner, reason, etc., are called 'adverbials'. Therefore, 'Yesterday' is an adverbial because it modifies the verb by telling us when the action took place.<br><ul><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'visited' is the verb.</li><li><b>Adverbial</b> (Adverbial): An adverbial is a word or phrase that gives more information about the verb, such as time, place, manner, etc. 'Yesterday' tells us when Alex visited his grandmother, so it is an adverbial.</li><li><b>Complement</b> (Noun/Grammar term): A complement is a word or phrase that is necessary to complete the meaning of a sentence. In this sentence, there is no complement in the italicized part.</li><li><b>Object</b> (Noun/Grammar term): An object is a noun or pronoun that receives the action of the verb. In this sentence, 'his grandmother' is the object, not 'Yesterday'.</li></ul><b>Related structure or vocabulary:</b> Adverbials are words or phrases that modify the verb by providing information about time, place, manner, frequency, etc. Common adverbials of time include: yesterday, today, tomorrow, last week, etc.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba842",
+        "questionNumber": 14,
+        "questionText": "Indicate the name of sentence element in the italicized part. The crowd made the tiger angry.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Verb",
+            "raw": "A. Verb",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Subject",
+            "raw": "C. Subject",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Object",
+            "raw": "D. Object",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'The crowd made the tiger angry.', the italicized part is 'angry'. Here, 'angry' is an adjective that describes the state of 'the tiger' as a result of the action. In English grammar, after verbs like 'make', 'find', 'consider', etc., the word or phrase that completes the meaning of the verb and gives more information about the object is called a 'complement'. In this case, 'angry' tells us what the tiger became as a result of the crowd's action.<br><ul><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'made' is the verb.</li><li><b>Complement</b> (Noun (Grammar term)): A complement is a word or phrase that completes the meaning of a verb, often giving more information about the subject or object. Here, 'angry' is the complement because it describes the object 'the tiger' after the action.</li><li><b>Subject</b> (Noun (Grammar term)): The subject is the person or thing that performs the action. In this sentence, 'The crowd' is the subject.</li><li><b>Object</b> (Noun (Grammar term)): The object is the person or thing that receives the action. In this sentence, 'the tiger' is the object.</li></ul><b>Related structure or vocabulary:</b> Causative verbs like 'make' often use the structure: Subject + make + Object + Complement (adjective or bare infinitive). Example: The joke made her happy.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'The crowd made the tiger angry.', phần in nghiêng là 'angry'. Ở đây, 'angry' là một tính từ mô tả trạng thái của 'the tiger' sau khi hành động xảy ra. Trong ngữ pháp tiếng Anh, sau các động từ như 'make', 'find', 'consider',... thì từ hoặc cụm từ bổ sung ý nghĩa cho động từ và cung cấp thêm thông tin về tân ngữ được gọi là 'complement' (bổ ngữ). Trong trường hợp này, 'angry' cho biết con hổ trở nên như thế nào sau hành động của đám đông.<br><ul><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái. Trong câu này, 'made' là động từ.</li><li><b>Complement</b> (Danh từ (thuật ngữ ngữ pháp)): Complement (bổ ngữ) là từ hoặc cụm từ bổ sung ý nghĩa cho động từ, thường cung cấp thêm thông tin về chủ ngữ hoặc tân ngữ. Ở đây, 'angry' là bổ ngữ vì nó mô tả tân ngữ 'the tiger' sau hành động.</li><li><b>Subject</b> (Danh từ (thuật ngữ ngữ pháp)): Chủ ngữ là người hoặc vật thực hiện hành động. Trong câu này, 'The crowd' là chủ ngữ.</li><li><b>Object</b> (Danh từ (thuật ngữ ngữ pháp)): Tân ngữ là người hoặc vật chịu tác động của hành động. Trong câu này, 'the tiger' là tân ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ gây khiến (causative verbs) như 'make' thường dùng cấu trúc: Subject + make + Object + Complement (tính từ hoặc động từ nguyên mẫu không 'to'). Ví dụ: The joke made her happy.<br><br><b>Tạm dịch:</b> Đám đông đã làm cho con hổ trở nên tức giận.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'The crowd made the tiger angry.', the italicized part is 'angry'. Here, 'angry' is an adjective that describes the state of 'the tiger' as a result of the action. In English grammar, after verbs like 'make', 'find', 'consider', etc., the word or phrase that completes the meaning of the verb and gives more information about the object is called a 'complement'. In this case, 'angry' tells us what the tiger became as a result of the crowd's action.<br><ul><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'made' is the verb.</li><li><b>Complement</b> (Noun (Grammar term)): A complement is a word or phrase that completes the meaning of a verb, often giving more information about the subject or object. Here, 'angry' is the complement because it describes the object 'the tiger' after the action.</li><li><b>Subject</b> (Noun (Grammar term)): The subject is the person or thing that performs the action. In this sentence, 'The crowd' is the subject.</li><li><b>Object</b> (Noun (Grammar term)): The object is the person or thing that receives the action. In this sentence, 'the tiger' is the object.</li></ul><b>Related structure or vocabulary:</b> Causative verbs like 'make' often use the structure: Subject + make + Object + Complement (adjective or bare infinitive). Example: The joke made her happy.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba843",
+        "questionNumber": 15,
+        "questionText": "Indicate the name of sentence element in the italicized part. My teacher appointed me monitor of the class.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Subject",
+            "raw": "A. Subject",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Complement",
+            "raw": "B. Complement",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Object",
+            "raw": "C. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Verb",
+            "raw": "D. Verb",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'My teacher appointed me monitor of the class.', the italicized part is 'me monitor of the class.' Here, 'me' is the direct object of the verb 'appointed', and 'monitor of the class' is the object complement, which gives more information about the object 'me' by telling us what 'me' becomes as a result of the action. In English grammar, an object complement follows and modifies or refers to a direct object.<br><ul><li><b>Subject</b> (Noun): The subject is the person or thing that performs the action of the verb. In this sentence, 'My teacher' is the subject.</li><li><b>Complement</b> (Noun): A complement is a word or phrase that completes the meaning of a predicate. In this context, 'monitor of the class' is the object complement, as it describes what 'me' becomes.</li><li><b>Object</b> (Noun): The object is the person or thing that receives the action of the verb. In this sentence, 'me' is the object.</li><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'appointed' is the verb.</li></ul><b>Related structure or vocabulary:</b> Object complement: A noun, pronoun, or adjective that follows and modifies or refers to a direct object. Common verbs that take object complements include: appoint, make, name, elect, call, etc.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'My teacher appointed me monitor of the class.', phần in nghiêng là 'me monitor of the class.' Ở đây, 'me' là tân ngữ trực tiếp của động từ 'appointed', còn 'monitor of the class' là bổ ngữ cho tân ngữ, cung cấp thêm thông tin về tân ngữ 'me' bằng cách cho biết 'me' trở thành gì sau hành động. Trong ngữ pháp tiếng Anh, bổ ngữ cho tân ngữ (object complement) đứng sau và bổ nghĩa hoặc chỉ rõ cho tân ngữ.<br><ul><li><b>Subject</b> (Danh từ): Chủ ngữ là người hoặc vật thực hiện hành động của động từ. Trong câu này, 'My teacher' là chủ ngữ.</li><li><b>Complement</b> (Danh từ): Bổ ngữ là từ hoặc cụm từ hoàn thiện ý nghĩa của vị ngữ. Trong trường hợp này, 'monitor of the class' là bổ ngữ cho tân ngữ, vì nó mô tả 'me' trở thành gì.</li><li><b>Object</b> (Danh từ): Tân ngữ là người hoặc vật nhận hành động của động từ. Trong câu này, 'me' là tân ngữ.</li><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động hoặc trạng thái. Trong câu này, 'appointed' là động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Object complement: Danh từ, đại từ hoặc tính từ đứng sau và bổ nghĩa hoặc chỉ rõ cho tân ngữ. Một số động từ thường dùng với object complement: appoint, make, name, elect, call, v.v.<br><br><b>Tạm dịch:</b> Giáo viên của tôi đã bổ nhiệm tôi làm lớp trưởng. Ở đây, phần 'me monitor of the class' gồm 'me' là tân ngữ, còn 'monitor of the class' là bổ ngữ cho tân ngữ, chỉ rõ tôi trở thành gì sau hành động bổ nhiệm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'My teacher appointed me monitor of the class.', the italicized part is 'me monitor of the class.' Here, 'me' is the direct object of the verb 'appointed', and 'monitor of the class' is the object complement, which gives more information about the object 'me' by telling us what 'me' becomes as a result of the action. In English grammar, an object complement follows and modifies or refers to a direct object.<br><ul><li><b>Subject</b> (Noun): The subject is the person or thing that performs the action of the verb. In this sentence, 'My teacher' is the subject.</li><li><b>Complement</b> (Noun): A complement is a word or phrase that completes the meaning of a predicate. In this context, 'monitor of the class' is the object complement, as it describes what 'me' becomes.</li><li><b>Object</b> (Noun): The object is the person or thing that receives the action of the verb. In this sentence, 'me' is the object.</li><li><b>Verb</b> (Verb): A verb is a word that expresses an action or a state. In this sentence, 'appointed' is the verb.</li></ul><b>Related structure or vocabulary:</b> Object complement: A noun, pronoun, or adjective that follows and modifies or refers to a direct object. Common verbs that take object complements include: appoint, make, name, elect, call, etc.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224ceec83f28145bcbba844",
+        "questionNumber": 16,
+        "questionText": "Indicate the name of sentence element in the italicized part. The police arrested him for possession of marijuana.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Subject",
+            "raw": "A. Subject",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Object",
+            "raw": "B. Object",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Complement",
+            "raw": "C. Complement",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Verb",
+            "raw": "D. Verb",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'The police arrested him for possession of marijuana.', the italicized part is 'him'. To determine the sentence element, we need to analyze the function of 'him' in the sentence. 'The police' is the subject, 'arrested' is the verb, and 'him' is the receiver of the action, meaning he is the one who was arrested. In English grammar, the receiver of the action is called the object.<br><ul><li><b>Subject</b> (Noun): The subject is the person or thing that performs the action in the sentence. In this sentence, 'the police' is the subject.</li><li><b>Object</b> (Noun): The object is the person or thing that receives the action of the verb. In this sentence, 'him' is the object because he is the one being arrested.</li><li><b>Complement</b> (Noun): A complement gives more information about the subject or object, often following linking verbs. There is no complement in this sentence.</li><li><b>Verb</b> (Verb): The verb is the action word in the sentence. In this sentence, 'arrested' is the verb.</li></ul><b>Related structure or vocabulary:</b> Subject + Verb + Object structure: In English, many sentences follow the SVO (Subject-Verb-Object) pattern, where the object receives the action of the verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'The police arrested him for possession of marijuana.', phần in nghiêng là 'him'. Để xác định thành phần câu, ta cần phân tích chức năng của 'him' trong câu. 'The police' là chủ ngữ, 'arrested' là động từ, và 'him' là người nhận hành động, tức là người bị bắt. Trong ngữ pháp tiếng Anh, người nhận hành động được gọi là tân ngữ (object).<br><ul><li><b>Subject</b> (Danh từ): Chủ ngữ là người hoặc vật thực hiện hành động trong câu. Trong câu này, 'the police' là chủ ngữ.</li><li><b>Object</b> (Danh từ): Tân ngữ là người hoặc vật nhận hành động của động từ. Trong câu này, 'him' là tân ngữ vì anh ấy là người bị bắt.</li><li><b>Complement</b> (Danh từ): Bổ ngữ cung cấp thêm thông tin về chủ ngữ hoặc tân ngữ, thường đứng sau động từ nối. Trong câu này không có bổ ngữ.</li><li><b>Verb</b> (Động từ): Động từ là từ chỉ hành động trong câu. Trong câu này, 'arrested' là động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc Subject + Verb + Object: Trong tiếng Anh, nhiều câu theo mẫu SVO (Chủ ngữ - Động từ - Tân ngữ), trong đó tân ngữ là người hoặc vật nhận hành động của động từ.<br><br><b>Tạm dịch:</b> Cảnh sát đã bắt anh ấy vì tàng trữ cần sa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'The police arrested him for possession of marijuana.', the italicized part is 'him'. To determine the sentence element, we need to analyze the function of 'him' in the sentence. 'The police' is the subject, 'arrested' is the verb, and 'him' is the receiver of the action, meaning he is the one who was arrested. In English grammar, the receiver of the action is called the object.<br><ul><li><b>Subject</b> (Noun): The subject is the person or thing that performs the action in the sentence. In this sentence, 'the police' is the subject.</li><li><b>Object</b> (Noun): The object is the person or thing that receives the action of the verb. In this sentence, 'him' is the object because he is the one being arrested.</li><li><b>Complement</b> (Noun): A complement gives more information about the subject or object, often following linking verbs. There is no complement in this sentence.</li><li><b>Verb</b> (Verb): The verb is the action word in the sentence. In this sentence, 'arrested' is the verb.</li></ul><b>Related structure or vocabulary:</b> Subject + Verb + Object structure: In English, many sentences follow the SVO (Subject-Verb-Object) pattern, where the object receives the action of the verb.<br><br>"
+      }
+    }
+  ]
+}

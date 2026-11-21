@@ -1,0 +1,169 @@
+{
+  "part-1-photos": {
+    "name": "Part 1: Photos",
+    "total_children": 39,
+    "lessons_count": 4,
+    "tests_count": 35,
+    "sample_lessons": [
+      "Lesson 1: Predict what you will hear",
+      "Lesson 2: Listen for correct verb",
+      "Lesson 3: Listen for details "
+    ],
+    "sample_tests": [
+      "Test 1",
+      "Test 2",
+      "Test 35 "
+    ]
+  },
+  "part-2-question-response": {
+    "name": "Part 2: Question - Response",
+    "total_children": 31,
+    "lessons_count": 4,
+    "tests_count": 27,
+    "sample_lessons": [
+      "Lesson 1: Answering direct questions ",
+      "Lesson 2: Time and location structures ",
+      "Lesson 3: Languages used in requests, offers and opinions "
+    ],
+    "sample_tests": [
+      "Test 1",
+      "Test 27",
+      "Test 2"
+    ]
+  },
+  "part-3-conversations": {
+    "name": "Part 3: Conversations",
+    "total_children": 26,
+    "lessons_count": 4,
+    "tests_count": 22,
+    "sample_lessons": [
+      "Lesson 1: Skimming to predict context before listening ",
+      "Lesson 2: Word distractors ",
+      "Lesson 3: Using vocabulary clues "
+    ],
+    "sample_tests": [
+      "Test 1",
+      "Test 22 ",
+      "Test 2"
+    ]
+  },
+  "part-4-short-talks": {
+    "name": "Part 4: Short Talks",
+    "total_children": 26,
+    "lessons_count": 4,
+    "tests_count": 22,
+    "sample_lessons": [
+      "Lesson 1: Skimming to predict context before listening ",
+      "Lesson 2: \"What\" questions ",
+      "Lesson 3: Restatement/ Questions with numbers and quantities "
+    ],
+    "sample_tests": [
+      "Test 1 ",
+      "Test 22 ",
+      "Test 2"
+    ]
+  },
+  "part-5-incomplete-sentences": {
+    "name": "Part 5: Incomplete Sentences",
+    "total_children": 28,
+    "lessons_count": 4,
+    "tests_count": 24,
+    "sample_lessons": [
+      "Lesson 1: Part of speech ",
+      "Lesson 2: Gerunds & Infinitives ",
+      "Lesson 3: Suffixes and Prefixes "
+    ],
+    "sample_tests": [
+      "Test 1",
+      "Test 24 ",
+      "Test 2"
+    ]
+  },
+  "part-6-text-completion": {
+    "name": "Part 6: Text Completion",
+    "total_children": 28,
+    "lessons_count": 4,
+    "tests_count": 24,
+    "sample_lessons": [
+      "Lesson 1: Using context to choose the correct verb form ",
+      "Lesson 2: Choosing correct part of speech ",
+      "Lesson 3: Using clues to choose correct verb form "
+    ],
+    "sample_tests": [
+      "Test 1 ",
+      "Test 24 ",
+      "Test 2 "
+    ]
+  },
+  "part-7-single-passages": {
+    "name": "Part 7: Single Passages",
+    "total_children": 28,
+    "lessons_count": 4,
+    "tests_count": 24,
+    "sample_lessons": [
+      "Lesson 1: Scanning",
+      "Lesson 2: Answering vocabulary questions and inferring the meaning",
+      "Lesson 3: Answering \"NOT\" questions, questions with names, numbers, dates and time"
+    ],
+    "sample_tests": [
+      "Test 1",
+      "Test 24 ",
+      "Test 2"
+    ]
+  },
+  "part-7-double-passages": {
+    "name": "Part 7: Double Passages",
+    "total_children": 28,
+    "lessons_count": 4,
+    "tests_count": 24,
+    "sample_lessons": [
+      "Lesson 1: Scanning",
+      "Lesson 2: Answering vocabulary questions and inferring the meaning",
+      "Lesson 3: Answering \"NOT\" questions, questions with names, numbers, dates and time"
+    ],
+    "sample_tests": [
+      "Test 1 ",
+      "Test 24 ",
+      "Test 2"
+    ]
+  },
+  "part-7-triple-passages": {
+    "name": "Part 7: Triple Passages",
+    "total_children": 28,
+    "lessons_count": 4,
+    "tests_count": 24,
+    "sample_lessons": [
+      "Lesson 1: Scanning",
+      "Lesson 2: Answering vocabulary questions and inferring the meaning",
+      "Lesson 3: Answering \"NOT\" questions, questions with names, numbers, dates and time"
+    ],
+    "sample_tests": [
+      "Test 1 ",
+      "Test 24 ",
+      "Test 2"
+    ]
+  },
+  "grammar": {
+    "name": "GRAMMAR",
+    "total_children": 38,
+    "lessons_count": 38,
+    "tests_count": 0,
+    "sample_lessons": [
+      "NOUNS ",
+      "VERBS",
+      "ADJECTIVES"
+    ],
+    "sample_tests": []
+  },
+  "vocabulary": {
+    "name": "VOCABULARY",
+    "total_children": 2,
+    "lessons_count": 2,
+    "tests_count": 0,
+    "sample_lessons": [
+      "TOEIC VOCABULARY (BY PART)",
+      "TOEIC VOCABULARY (BY TOPIC)"
+    ],
+    "sample_tests": []
+  }
+}

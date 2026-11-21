@@ -1,0 +1,688 @@
+{
+  "topicId": "6204a263d1bfab7a5b000cc8",
+  "title": "PRONOUNS - Practice 2",
+  "totalCards": 17,
+  "totalQuestions": 17,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000ce7",
+        "questionNumber": 1,
+        "questionText": "____appears that the clouds are starting to fade.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "It",
+            "raw": "A. It",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "We",
+            "raw": "B. We ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "He",
+            "raw": "C. He ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "She",
+            "raw": "D. She",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '____ appears that the clouds are starting to fade.' requires a subject that can introduce an impersonal statement. In English, the structure 'It appears that...' is commonly used to express that something seems to be the case, especially when the subject is not a specific person or thing. This is called an impersonal construction.<br><ul><li><b>It</b> (Pronoun): Used as a dummy subject in impersonal sentences, especially with verbs like 'seems', 'appears', 'looks', etc.</li><li><b>We</b> (Pronoun): Refers to the speaker and at least one other person; not suitable for impersonal statements.</li><li><b>He</b> (Pronoun): Refers to a male person; not suitable for impersonal statements.</li><li><b>She</b> (Pronoun): Refers to a female person; not suitable for impersonal statements.</li></ul><b>Related structure or vocabulary:</b> Impersonal 'It' construction: 'It appears that...', 'It seems that...', 'It looks like...'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '____ appears that the clouds are starting to fade.' cần một chủ ngữ dùng để mở đầu một câu mang tính chất chung, không chỉ rõ ai là người thực hiện hành động. Trong tiếng Anh, cấu trúc 'It appears that...' thường được sử dụng để diễn đạt rằng điều gì đó có vẻ như đang xảy ra, đặc biệt khi chủ ngữ không phải là một người hay vật cụ thể. Đây gọi là cấu trúc vô nhân xưng (impersonal construction).<br><ul><li><b>It</b> (Đại từ): Được dùng làm chủ ngữ giả trong các câu vô nhân xưng, đặc biệt với các động từ như 'seems', 'appears', 'looks', v.v.</li><li><b>We</b> (Đại từ): Chỉ người nói và ít nhất một người khác; không phù hợp với câu vô nhân xưng.</li><li><b>He</b> (Đại từ): Chỉ một người nam; không phù hợp với câu vô nhân xưng.</li><li><b>She</b> (Đại từ): Chỉ một người nữ; không phù hợp với câu vô nhân xưng.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc vô nhân xưng với 'It': 'It appears that...', 'It seems that...', 'It looks like...'<br><br><b>Tạm dịch:</b> Câu hỏi: ____ appears that the clouds are starting to fade. Đáp án đúng là A. It. Giải thích: Trong tiếng Anh, khi muốn nói một điều gì đó có vẻ như đang xảy ra mà không chỉ rõ ai là chủ thể, ta dùng cấu trúc vô nhân xưng với 'It'. Vì vậy, đáp án đúng là 'It appears that the clouds are starting to fade.' (Có vẻ như những đám mây đang bắt đầu tan dần.)",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '____ appears that the clouds are starting to fade.' requires a subject that can introduce an impersonal statement. In English, the structure 'It appears that...' is commonly used to express that something seems to be the case, especially when the subject is not a specific person or thing. This is called an impersonal construction.<br><ul><li><b>It</b> (Pronoun): Used as a dummy subject in impersonal sentences, especially with verbs like 'seems', 'appears', 'looks', etc.</li><li><b>We</b> (Pronoun): Refers to the speaker and at least one other person; not suitable for impersonal statements.</li><li><b>He</b> (Pronoun): Refers to a male person; not suitable for impersonal statements.</li><li><b>She</b> (Pronoun): Refers to a female person; not suitable for impersonal statements.</li></ul><b>Related structure or vocabulary:</b> Impersonal 'It' construction: 'It appears that...', 'It seems that...', 'It looks like...'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cea",
+        "questionNumber": 2,
+        "questionText": "HT's sports bags differ from _____ of Star Track in price and quality.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "those",
+            "raw": "A. those",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "these",
+            "raw": "B. these ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "this",
+            "raw": "C. this ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "them",
+            "raw": "D. them",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'HT's sports bags differ from _____ of Star Track in price and quality.' requires a word that refers back to 'sports bags' to avoid repetition. In English, when comparing plural countable nouns, we use 'those' as a pronoun to refer to previously mentioned plural items. Therefore, 'those' is the correct choice.<br><ul><li><b>those</b> (pronoun): 'Those' is a demonstrative pronoun used to refer to plural nouns that have already been mentioned or are understood from context.</li><li><b>these</b> (pronoun): 'These' is also a demonstrative pronoun for plural nouns, but it is used to refer to things that are near in space or time, not for comparison as in this sentence.</li><li><b>this</b> (pronoun): 'This' is a singular demonstrative pronoun, used for one item that is near in space or time.</li><li><b>them</b> (pronoun): 'Them' is an object pronoun, used as the object of a verb or preposition, not as a subject or for comparison.</li></ul><b>Related structure or vocabulary:</b> When comparing plural nouns, use 'those' to avoid repetition. Structure: differ from + those of + noun (to compare plural items).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'HT's sports bags differ from _____ of Star Track in price and quality.' cần một từ thay thế cho 'sports bags' để tránh lặp lại. Trong tiếng Anh, khi so sánh các danh từ đếm được số nhiều, ta dùng 'those' làm đại từ thay thế cho các vật đã được nhắc đến trước đó. Vì vậy, 'those' là đáp án đúng.<br><ul><li><b>those</b> (đại từ): 'Those' là đại từ chỉ định dùng để thay thế cho danh từ số nhiều đã được nhắc đến hoặc hiểu trong ngữ cảnh.</li><li><b>these</b> (đại từ): 'These' cũng là đại từ chỉ định cho danh từ số nhiều, nhưng dùng để chỉ những vật ở gần về không gian hoặc thời gian, không phù hợp để so sánh như trong câu này.</li><li><b>this</b> (đại từ): 'This' là đại từ chỉ định số ít, dùng cho một vật ở gần về không gian hoặc thời gian.</li><li><b>them</b> (đại từ): 'Them' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ, không dùng để so sánh hoặc thay thế chủ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Khi so sánh các danh từ số nhiều, dùng 'those' để tránh lặp lại. Cấu trúc: differ from + those of + danh từ (để so sánh các vật số nhiều).<br><br><b>Tạm dịch:</b> Túi thể thao của HT khác với những chiếc của Star Track về giá cả và chất lượng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'HT's sports bags differ from _____ of Star Track in price and quality.' requires a word that refers back to 'sports bags' to avoid repetition. In English, when comparing plural countable nouns, we use 'those' as a pronoun to refer to previously mentioned plural items. Therefore, 'those' is the correct choice.<br><ul><li><b>those</b> (pronoun): 'Those' is a demonstrative pronoun used to refer to plural nouns that have already been mentioned or are understood from context.</li><li><b>these</b> (pronoun): 'These' is also a demonstrative pronoun for plural nouns, but it is used to refer to things that are near in space or time, not for comparison as in this sentence.</li><li><b>this</b> (pronoun): 'This' is a singular demonstrative pronoun, used for one item that is near in space or time.</li><li><b>them</b> (pronoun): 'Them' is an object pronoun, used as the object of a verb or preposition, not as a subject or for comparison.</li></ul><b>Related structure or vocabulary:</b> When comparing plural nouns, use 'those' to avoid repetition. Structure: differ from + those of + noun (to compare plural items).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000ceb",
+        "questionNumber": 3,
+        "questionText": "Our company implemented a program of structural reforms, but _____ plan was unsuccessful.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "those",
+            "raw": "A. those",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "they",
+            "raw": "B. they ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "these",
+            "raw": "C. these ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "this",
+            "raw": "D. this",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Our company implemented a program of structural reforms, but _____ plan was unsuccessful.' requires a demonstrative adjective to modify the noun 'plan.' Since 'plan' is singular and specific (referring to the program just mentioned), the correct demonstrative adjective is 'this.'<br><ul><li><b>those</b> (demonstrative adjective/pronoun (plural)): 'Those' is a demonstrative adjective/pronoun used for plural nouns or things that are far in distance or time.</li><li><b>they</b> (pronoun (plural)): 'They' is a subject pronoun used for plural nouns, not for modifying a noun directly.</li><li><b>these</b> (demonstrative adjective/pronoun (plural)): 'These' is a demonstrative adjective/pronoun used for plural nouns that are near in distance or time.</li><li><b>this</b> (demonstrative adjective/pronoun (singular)): 'This' is a demonstrative adjective/pronoun used for singular nouns that are near in distance or time. Here, it modifies the singular noun 'plan.'</li></ul><b>Related structure or vocabulary:</b> Demonstrative adjectives: this/that (singular), these/those (plural). Demonstrative adjectives are used before nouns to indicate which one(s) you mean.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Our company implemented a program of structural reforms, but _____ plan was unsuccessful.' cần một tính từ chỉ định để bổ nghĩa cho danh từ 'plan.' Vì 'plan' là danh từ số ít và cụ thể (ám chỉ đến chương trình vừa được nhắc đến), tính từ chỉ định đúng là 'this.'<br><ul><li><b>those</b> (tính từ/chỉ định (số nhiều)): 'Those' là tính từ/chỉ định dùng cho danh từ số nhiều hoặc những thứ ở xa về không gian hoặc thời gian.</li><li><b>they</b> (đại từ (số nhiều)): 'They' là đại từ chủ ngữ dùng cho danh từ số nhiều, không dùng để bổ nghĩa trực tiếp cho danh từ.</li><li><b>these</b> (tính từ/chỉ định (số nhiều)): 'These' là tính từ/chỉ định dùng cho danh từ số nhiều ở gần về không gian hoặc thời gian.</li><li><b>this</b> (tính từ/chỉ định (số ít)): 'This' là tính từ/chỉ định dùng cho danh từ số ít ở gần về không gian hoặc thời gian. Ở đây, nó bổ nghĩa cho danh từ số ít 'plan.'</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ chỉ định: this/that (số ít), these/those (số nhiều). Tính từ chỉ định dùng trước danh từ để xác định rõ đối tượng được nói đến.<br><br><b>Tạm dịch:</b> Công ty chúng tôi đã thực hiện một chương trình cải cách cơ cấu, nhưng kế hoạch này đã không thành công.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Our company implemented a program of structural reforms, but _____ plan was unsuccessful.' requires a demonstrative adjective to modify the noun 'plan.' Since 'plan' is singular and specific (referring to the program just mentioned), the correct demonstrative adjective is 'this.'<br><ul><li><b>those</b> (demonstrative adjective/pronoun (plural)): 'Those' is a demonstrative adjective/pronoun used for plural nouns or things that are far in distance or time.</li><li><b>they</b> (pronoun (plural)): 'They' is a subject pronoun used for plural nouns, not for modifying a noun directly.</li><li><b>these</b> (demonstrative adjective/pronoun (plural)): 'These' is a demonstrative adjective/pronoun used for plural nouns that are near in distance or time.</li><li><b>this</b> (demonstrative adjective/pronoun (singular)): 'This' is a demonstrative adjective/pronoun used for singular nouns that are near in distance or time. Here, it modifies the singular noun 'plan.'</li></ul><b>Related structure or vocabulary:</b> Demonstrative adjectives: this/that (singular), these/those (plural). Demonstrative adjectives are used before nouns to indicate which one(s) you mean.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cec",
+        "questionNumber": 4,
+        "questionText": "Our line of designer clothing is more expensive than _____ of our competitors.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "this",
+            "raw": "A. this ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "those",
+            "raw": "B. those",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "that",
+            "raw": "C. that",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "their",
+            "raw": "D. their",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Our line of designer clothing is more expensive than _____ of our competitors.' requires a word or phrase that refers to 'the line of designer clothing' belonging to our competitors. In English, when comparing singular countable nouns, we use 'that' to avoid repetition. 'That' here stands for 'the line of designer clothing' of our competitors.<br><ul><li><b>this</b> (pronoun): 'This' is a demonstrative pronoun used to refer to something near in space or time. It does not fit the context of comparison between two different groups.</li><li><b>those</b> (pronoun): 'Those' is the plural form of 'that' and is used to refer to plural nouns. However, 'line of designer clothing' is singular, so 'those' is incorrect.</li><li><b>that</b> (pronoun): 'That' is a demonstrative pronoun used to refer to a singular noun previously mentioned or understood from context. Here, it stands for 'the line of designer clothing' of our competitors.</li><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective, used before a noun to show ownership. It cannot stand alone after 'than' in this sentence.</li></ul><b>Related structure or vocabulary:</b> When comparing singular countable nouns, use 'that' to avoid repetition. Structure: more + adjective + than + that of + noun (possessor). Example: The price of our car is higher than that of their car.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Our line of designer clothing is more expensive than _____ of our competitors.' cần một từ hoặc cụm từ thay thế cho 'the line of designer clothing' thuộc về đối thủ cạnh tranh. Trong tiếng Anh, khi so sánh các danh từ đếm được số ít, ta dùng 'that' để tránh lặp lại. 'That' ở đây thay thế cho 'the line of designer clothing' của đối thủ.<br><ul><li><b>this</b> (đại từ): 'This' là đại từ chỉ định dùng để chỉ vật ở gần về không gian hoặc thời gian. Không phù hợp trong ngữ cảnh so sánh giữa hai nhóm khác nhau.</li><li><b>those</b> (đại từ): 'Those' là dạng số nhiều của 'that', dùng để chỉ các danh từ số nhiều. Tuy nhiên, 'line of designer clothing' là danh từ số ít nên 'those' không đúng.</li><li><b>that</b> (đại từ): 'That' là đại từ chỉ định dùng để thay thế cho một danh từ số ít đã được nhắc đến hoặc hiểu từ ngữ cảnh. Ở đây, nó thay cho 'the line of designer clothing' của đối thủ.</li><li><b>their</b> (tính từ sở hữu): 'Their' là tính từ sở hữu, dùng trước danh từ để chỉ quyền sở hữu. Không thể đứng một mình sau 'than' trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Khi so sánh các danh từ đếm được số ít, dùng 'that' để tránh lặp lại. Cấu trúc: more + adjective + than + that of + danh từ (chỉ chủ sở hữu). Ví dụ: The price of our car is higher than that of their car.<br><br><b>Tạm dịch:</b> Dòng quần áo thiết kế của chúng tôi đắt hơn dòng của các đối thủ cạnh tranh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Our line of designer clothing is more expensive than _____ of our competitors.' requires a word or phrase that refers to 'the line of designer clothing' belonging to our competitors. In English, when comparing singular countable nouns, we use 'that' to avoid repetition. 'That' here stands for 'the line of designer clothing' of our competitors.<br><ul><li><b>this</b> (pronoun): 'This' is a demonstrative pronoun used to refer to something near in space or time. It does not fit the context of comparison between two different groups.</li><li><b>those</b> (pronoun): 'Those' is the plural form of 'that' and is used to refer to plural nouns. However, 'line of designer clothing' is singular, so 'those' is incorrect.</li><li><b>that</b> (pronoun): 'That' is a demonstrative pronoun used to refer to a singular noun previously mentioned or understood from context. Here, it stands for 'the line of designer clothing' of our competitors.</li><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective, used before a noun to show ownership. It cannot stand alone after 'than' in this sentence.</li></ul><b>Related structure or vocabulary:</b> When comparing singular countable nouns, use 'that' to avoid repetition. Structure: more + adjective + than + that of + noun (possessor). Example: The price of our car is higher than that of their car.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000ced",
+        "questionNumber": 5,
+        "questionText": "______ salesman sold her an additional water purifier for two hundred dollars.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Those",
+            "raw": "A. Those ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "That",
+            "raw": "B. That",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "These",
+            "raw": "C. These ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "They",
+            "raw": "D. They",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '______ salesman sold her an additional water purifier for two hundred dollars.' requires a demonstrative adjective to modify the singular noun 'salesman.' In English, 'that' is used as a demonstrative adjective for singular nouns that are far from the speaker, while 'those' and 'these' are used for plural nouns, and 'they' is a pronoun, not an adjective.<br><ul><li><b>Those</b> (Demonstrative adjective (plural)): 'Those' is a demonstrative adjective used for plural nouns that are far from the speaker.</li><li><b>That</b> (Demonstrative adjective (singular)): 'That' is a demonstrative adjective used for singular nouns that are far from the speaker.</li><li><b>These</b> (Demonstrative adjective (plural)): 'These' is a demonstrative adjective used for plural nouns that are near the speaker.</li><li><b>They</b> (Pronoun): 'They' is a pronoun used to refer to people or things previously mentioned or easily identified, not used as an adjective.</li></ul><b>Related structure or vocabulary:</b> Demonstrative adjectives: 'this/that' for singular nouns, 'these/those' for plural nouns. Structure: [demonstrative adjective] + [singular/plural noun].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '______ salesman sold her an additional water purifier for two hundred dollars.' cần một tính từ chỉ định để bổ nghĩa cho danh từ số ít 'salesman'. Trong tiếng Anh, 'that' được dùng làm tính từ chỉ định cho danh từ số ít ở xa người nói, trong khi 'those' và 'these' dùng cho danh từ số nhiều, còn 'they' là đại từ chứ không phải tính từ.<br><ul><li><b>Those</b> (Tính từ chỉ định (số nhiều)): 'Those' là tính từ chỉ định dùng cho danh từ số nhiều ở xa người nói.</li><li><b>That</b> (Tính từ chỉ định (số ít)): 'That' là tính từ chỉ định dùng cho danh từ số ít ở xa người nói.</li><li><b>These</b> (Tính từ chỉ định (số nhiều)): 'These' là tính từ chỉ định dùng cho danh từ số nhiều ở gần người nói.</li><li><b>They</b> (Đại từ): 'They' là đại từ dùng để chỉ người hoặc vật đã được nhắc đến hoặc dễ nhận biết, không dùng làm tính từ.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ chỉ định: 'this/that' dùng cho danh từ số ít, 'these/those' dùng cho danh từ số nhiều. Cấu trúc: [tính từ chỉ định] + [danh từ số ít/số nhiều].<br><br><b>Tạm dịch:</b> Người bán hàng đó đã bán cho cô ấy một máy lọc nước bổ sung với giá hai trăm đô la.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '______ salesman sold her an additional water purifier for two hundred dollars.' requires a demonstrative adjective to modify the singular noun 'salesman.' In English, 'that' is used as a demonstrative adjective for singular nouns that are far from the speaker, while 'those' and 'these' are used for plural nouns, and 'they' is a pronoun, not an adjective.<br><ul><li><b>Those</b> (Demonstrative adjective (plural)): 'Those' is a demonstrative adjective used for plural nouns that are far from the speaker.</li><li><b>That</b> (Demonstrative adjective (singular)): 'That' is a demonstrative adjective used for singular nouns that are far from the speaker.</li><li><b>These</b> (Demonstrative adjective (plural)): 'These' is a demonstrative adjective used for plural nouns that are near the speaker.</li><li><b>They</b> (Pronoun): 'They' is a pronoun used to refer to people or things previously mentioned or easily identified, not used as an adjective.</li></ul><b>Related structure or vocabulary:</b> Demonstrative adjectives: 'this/that' for singular nouns, 'these/those' for plural nouns. Structure: [demonstrative adjective] + [singular/plural noun].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cee",
+        "questionNumber": 6,
+        "questionText": "Mr. Chang, with ______ work experience and competence, deserves the promotion.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "he",
+            "raw": "A. he ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "his",
+            "raw": "B. his",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "him",
+            "raw": "C. him ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "himself",
+            "raw": "D. himself",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. Chang, with ______ work experience and competence, deserves the promotion.' requires a possessive adjective to show that the work experience and competence belong to Mr. Chang. The possessive adjective 'his' is used before a noun to indicate possession.<br><ul><li><b>he</b> (pronoun (subject)): 'He' is a subject pronoun and cannot be used before a noun to show possession.</li><li><b>his</b> (possessive adjective): 'His' is a possessive adjective, used before a noun to show ownership or relation.</li><li><b>him</b> (pronoun (object)): 'Him' is an object pronoun and cannot be used before a noun.</li><li><b>himself</b> (reflexive pronoun): 'Himself' is a reflexive pronoun, used for emphasis or to refer back to the subject.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show possession or relationship.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mr. Chang, with ______ work experience and competence, deserves the promotion.' cần một tính từ sở hữu để chỉ rằng kinh nghiệm làm việc và năng lực thuộc về Mr. Chang. 'His' là tính từ sở hữu, dùng trước danh từ để thể hiện sự sở hữu.<br><ul><li><b>he</b> (đại từ chủ ngữ): 'He' là đại từ chủ ngữ, không dùng trước danh từ để chỉ sự sở hữu.</li><li><b>his</b> (tính từ sở hữu): 'His' là tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu hoặc mối quan hệ.</li><li><b>him</b> (đại từ tân ngữ): 'Him' là đại từ tân ngữ, không dùng trước danh từ.</li><li><b>himself</b> (đại từ phản thân): 'Himself' là đại từ phản thân, dùng để nhấn mạnh hoặc quay lại chủ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) dùng trước danh từ để chỉ sự sở hữu hoặc mối quan hệ.<br><br><b>Tạm dịch:</b> Mr. Chang, với kinh nghiệm làm việc và năng lực của mình, xứng đáng được thăng chức.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. Chang, with ______ work experience and competence, deserves the promotion.' requires a possessive adjective to show that the work experience and competence belong to Mr. Chang. The possessive adjective 'his' is used before a noun to indicate possession.<br><ul><li><b>he</b> (pronoun (subject)): 'He' is a subject pronoun and cannot be used before a noun to show possession.</li><li><b>his</b> (possessive adjective): 'His' is a possessive adjective, used before a noun to show ownership or relation.</li><li><b>him</b> (pronoun (object)): 'Him' is an object pronoun and cannot be used before a noun.</li><li><b>himself</b> (reflexive pronoun): 'Himself' is a reflexive pronoun, used for emphasis or to refer back to the subject.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show possession or relationship.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cef",
+        "questionNumber": 7,
+        "questionText": "Business owners should think about what ____ can do for the public.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "he",
+            "raw": "A. he ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "she",
+            "raw": "B. she ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "they",
+            "raw": "C. they",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "you",
+            "raw": "D. you",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Business owners should think about what ____ can do for the public.' requires a pronoun that refers to 'business owners.' Since 'business owners' is plural and gender-neutral, the correct pronoun is 'they.'<br><ul><li><b>he</b> (pronoun): 'He' is a singular, masculine pronoun, which does not match the plural, gender-neutral noun 'business owners.'</li><li><b>she</b> (pronoun): 'She' is a singular, feminine pronoun, which also does not match the plural, gender-neutral noun 'business owners.'</li><li><b>they</b> (pronoun): 'They' is a plural, gender-neutral pronoun, which correctly refers to 'business owners.'</li><li><b>you</b> (pronoun): 'You' is a second-person pronoun, which refers to the person being spoken to, not to 'business owners.'</li></ul><b>Related structure or vocabulary:</b> Use of pronouns to refer to plural, gender-neutral nouns. 'They' is commonly used as a plural pronoun for people in general.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Business owners should think about what ____ can do for the public.' cần một đại từ thay thế cho 'business owners.' Vì 'business owners' là danh từ số nhiều và không xác định giới tính, đại từ phù hợp là 'they.'<br><ul><li><b>he</b> (đại từ): 'He' là đại từ chỉ nam, số ít, không phù hợp với danh từ số nhiều và không xác định giới tính như 'business owners.'</li><li><b>she</b> (đại từ): 'She' là đại từ chỉ nữ, số ít, cũng không phù hợp với danh từ số nhiều và không xác định giới tính như 'business owners.'</li><li><b>they</b> (đại từ): 'They' là đại từ số nhiều, không xác định giới tính, phù hợp để thay thế cho 'business owners.'</li><li><b>you</b> (đại từ): 'You' là đại từ ngôi thứ hai, chỉ người được nói đến, không phải để thay thế cho 'business owners.'</li></ul><b>Cấu trúc và từ vựng:</b> Cách sử dụng đại từ để thay thế cho danh từ số nhiều, không xác định giới tính. 'They' thường được dùng làm đại từ số nhiều cho người nói chung.<br><br><b>Tạm dịch:</b> Các chủ doanh nghiệp nên suy nghĩ về những gì họ có thể làm cho cộng đồng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Business owners should think about what ____ can do for the public.' requires a pronoun that refers to 'business owners.' Since 'business owners' is plural and gender-neutral, the correct pronoun is 'they.'<br><ul><li><b>he</b> (pronoun): 'He' is a singular, masculine pronoun, which does not match the plural, gender-neutral noun 'business owners.'</li><li><b>she</b> (pronoun): 'She' is a singular, feminine pronoun, which also does not match the plural, gender-neutral noun 'business owners.'</li><li><b>they</b> (pronoun): 'They' is a plural, gender-neutral pronoun, which correctly refers to 'business owners.'</li><li><b>you</b> (pronoun): 'You' is a second-person pronoun, which refers to the person being spoken to, not to 'business owners.'</li></ul><b>Related structure or vocabulary:</b> Use of pronouns to refer to plural, gender-neutral nouns. 'They' is commonly used as a plural pronoun for people in general.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf0",
+        "questionNumber": 8,
+        "questionText": "Kathy was extremely upset over Paul's dismissal; I had never seen ____so upset.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "it",
+            "raw": "A. it ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "her",
+            "raw": "B. her",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "he",
+            "raw": "C. he ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "she",
+            "raw": "D. she",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence, the blank comes after 'I had never seen ____ so upset.' The verb 'seen' is followed by an object pronoun, which refers to the person who was upset. Since 'Kathy' is female, the correct object pronoun is 'her.'<br><ul><li><b>it</b> (pronoun): 'It' is a pronoun used for things, animals, or sometimes babies, not for a female person.</li><li><b>her</b> (object pronoun): 'Her' is the object pronoun for a female person, used after verbs like 'see.'</li><li><b>he</b> (subject pronoun): 'He' is a subject pronoun for a male person, not used as an object.</li><li><b>she</b> (subject pronoun): 'She' is a subject pronoun for a female person, not used as an object.</li></ul><b>Related structure or vocabulary:</b> Object pronouns (me, you, him, her, it, us, them) are used after verbs as the object of the action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống đứng sau 'I had never seen ____ so upset.' Động từ 'seen' cần một tân ngữ chỉ người bị nhìn thấy, và ở đây là Kathy (một người nữ). Đại từ tân ngữ phù hợp là 'her.'<br><ul><li><b>it</b> (đại từ): 'It' là đại từ dùng cho vật, động vật hoặc đôi khi là trẻ sơ sinh, không dùng cho người nữ.</li><li><b>her</b> (đại từ tân ngữ): 'Her' là đại từ tân ngữ dùng cho người nữ, đứng sau động từ như 'see.'</li><li><b>he</b> (đại từ chủ ngữ): 'He' là đại từ chủ ngữ dùng cho người nam, không dùng làm tân ngữ.</li><li><b>she</b> (đại từ chủ ngữ): 'She' là đại từ chủ ngữ dùng cho người nữ, không dùng làm tân ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ tân ngữ (me, you, him, her, it, us, them) dùng sau động từ để chỉ đối tượng bị tác động.<br><br><b>Tạm dịch:</b> Kathy đã cực kỳ buồn vì việc Paul bị sa thải; tôi chưa bao giờ thấy cô ấy buồn như vậy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence, the blank comes after 'I had never seen ____ so upset.' The verb 'seen' is followed by an object pronoun, which refers to the person who was upset. Since 'Kathy' is female, the correct object pronoun is 'her.'<br><ul><li><b>it</b> (pronoun): 'It' is a pronoun used for things, animals, or sometimes babies, not for a female person.</li><li><b>her</b> (object pronoun): 'Her' is the object pronoun for a female person, used after verbs like 'see.'</li><li><b>he</b> (subject pronoun): 'He' is a subject pronoun for a male person, not used as an object.</li><li><b>she</b> (subject pronoun): 'She' is a subject pronoun for a female person, not used as an object.</li></ul><b>Related structure or vocabulary:</b> Object pronouns (me, you, him, her, it, us, them) are used after verbs as the object of the action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf1",
+        "questionNumber": 9,
+        "questionText": "William will attend the conference by __________ since the other members are busy with the proposal.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "he",
+            "raw": "A. he ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "his",
+            "raw": "B. his",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "him",
+            "raw": "C. him ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "himself",
+            "raw": "D. himself",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<p>By + himself (reflexive pronoun)</p>\n\n<p><strong>=&gt; D&nbsp;is the correct answer&nbsp;</strong></p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng ta cần một đại từ phản th&acirc;n sau từ &quot;by&quot;</p>\n\n<p><strong>=&gt; Chọn D</strong></p>\n\n<p><strong>Tạm dịch:&nbsp;</strong>William sẽ tự m&igrave;nh tham dự hội nghị v&igrave; c&aacute;c th&agrave;nh vi&ecirc;n kh&aacute;c đang bận với bản kế hoạch đề xuất.</p>\n",
+        "transcriptHtml": "<p>By + himself (reflexive pronoun)</p>\n\n<p><strong>=&gt; D&nbsp;is the correct answer&nbsp;</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf2",
+        "questionNumber": 10,
+        "questionText": "The first candidate's qualifications are superior to _______ of the second candidate.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "this",
+            "raw": "A. this ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "these",
+            "raw": "C. these ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "those",
+            "raw": "D. those",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the qualifications of the first candidate to those of the second candidate. After 'superior to', we need a pronoun that refers to 'qualifications' (a plural noun). The correct pronoun to use for plural nouns is 'those'.<br><ul><li><b>this</b> (pronoun): 'This' is a singular demonstrative pronoun, used to refer to a singular noun close in time or space.</li><li><b>that</b> (pronoun): 'That' is also a singular demonstrative pronoun, used to refer to a singular noun farther away in time or space.</li><li><b>these</b> (pronoun): 'These' is a plural demonstrative pronoun, but it is used to refer to things that are close in time or space, not as a substitute for a previously mentioned plural noun.</li><li><b>those</b> (pronoun): 'Those' is a plural demonstrative pronoun, used to refer to plural nouns that are farther away or to substitute for a previously mentioned plural noun. Here, it refers back to 'qualifications' of the second candidate.</li></ul><b>Related structure or vocabulary:</b> When comparing two things, we often use 'that' for singular nouns and 'those' for plural nouns to avoid repetition. For example: 'My results are better than those of last year.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang so sánh trình độ chuyên môn của ứng viên đầu tiên với trình độ chuyên môn của ứng viên thứ hai. Sau 'superior to', chúng ta cần một đại từ thay thế cho 'qualifications' (một danh từ số nhiều). Đại từ đúng để dùng cho danh từ số nhiều là 'those'.<br><ul><li><b>this</b> (đại từ): 'This' là đại từ chỉ định số ít, dùng để chỉ một danh từ số ít ở gần về không gian hoặc thời gian.</li><li><b>that</b> (đại từ): 'That' cũng là đại từ chỉ định số ít, dùng để chỉ một danh từ số ít ở xa hơn về không gian hoặc thời gian.</li><li><b>these</b> (đại từ): 'These' là đại từ chỉ định số nhiều, nhưng thường dùng để chỉ những vật ở gần, không dùng để thay thế cho một danh từ số nhiều đã được nhắc đến trước đó.</li><li><b>those</b> (đại từ): 'Those' là đại từ chỉ định số nhiều, dùng để chỉ những vật ở xa hoặc thay thế cho một danh từ số nhiều đã được nhắc đến trước đó. Ở đây, nó thay thế cho 'qualifications' của ứng viên thứ hai.</li></ul><b>Cấu trúc và từ vựng:</b> Khi so sánh hai sự vật, chúng ta thường dùng 'that' cho danh từ số ít và 'those' cho danh từ số nhiều để tránh lặp lại. Ví dụ: 'Kết quả của tôi tốt hơn những kết quả của năm ngoái.' (My results are better than those of last year.)<br><br><b>Tạm dịch:</b> Trình độ chuyên môn của ứng viên đầu tiên vượt trội hơn so với trình độ chuyên môn của ứng viên thứ hai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the qualifications of the first candidate to those of the second candidate. After 'superior to', we need a pronoun that refers to 'qualifications' (a plural noun). The correct pronoun to use for plural nouns is 'those'.<br><ul><li><b>this</b> (pronoun): 'This' is a singular demonstrative pronoun, used to refer to a singular noun close in time or space.</li><li><b>that</b> (pronoun): 'That' is also a singular demonstrative pronoun, used to refer to a singular noun farther away in time or space.</li><li><b>these</b> (pronoun): 'These' is a plural demonstrative pronoun, but it is used to refer to things that are close in time or space, not as a substitute for a previously mentioned plural noun.</li><li><b>those</b> (pronoun): 'Those' is a plural demonstrative pronoun, used to refer to plural nouns that are farther away or to substitute for a previously mentioned plural noun. Here, it refers back to 'qualifications' of the second candidate.</li></ul><b>Related structure or vocabulary:</b> When comparing two things, we often use 'that' for singular nouns and 'those' for plural nouns to avoid repetition. For example: 'My results are better than those of last year.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf3",
+        "questionNumber": 11,
+        "questionText": "Each apartment has ____________ own balcony.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "His",
+            "raw": "A. His ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "her",
+            "raw": "B. her ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "their",
+            "raw": "C. their ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "its",
+            "raw": "D. its",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Each apartment has ____________ own balcony.' requires a possessive adjective that agrees with the noun 'apartment.' 'Apartment' is a singular, non-human noun, so the correct possessive adjective should be 'its.'<br><ul><li><b>His</b> (possessive adjective): 'His' is a possessive adjective used for singular male people.</li><li><b>her</b> (possessive adjective): 'Her' is a possessive adjective used for singular female people.</li><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective used for plural nouns or sometimes for singular people of unknown gender, but not for objects.</li><li><b>its</b> (possessive adjective): 'Its' is a possessive adjective used for singular, non-human nouns (animals, things, organizations, etc.).</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives: his, her, its, their, our, your, my. Use 'its' for singular, non-human nouns.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Each apartment has ____________ own balcony.' cần một tính từ sở hữu phù hợp với danh từ 'apartment.' 'Apartment' là danh từ số ít, không phải người, nên tính từ sở hữu đúng là 'its.'<br><ul><li><b>His</b> (tính từ sở hữu): 'His' là tính từ sở hữu dùng cho nam giới số ít.</li><li><b>her</b> (tính từ sở hữu): 'Her' là tính từ sở hữu dùng cho nữ giới số ít.</li><li><b>their</b> (tính từ sở hữu): 'Their' là tính từ sở hữu dùng cho danh từ số nhiều hoặc đôi khi cho người số ít không xác định giới tính, nhưng không dùng cho vật.</li><li><b>its</b> (tính từ sở hữu): 'Its' là tính từ sở hữu dùng cho danh từ số ít không phải người (động vật, vật, tổ chức, v.v.).</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu: his, her, its, their, our, your, my. Dùng 'its' cho danh từ số ít không phải người.<br><br><b>Tạm dịch:</b> Mỗi căn hộ đều có ban công riêng của nó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Each apartment has ____________ own balcony.' requires a possessive adjective that agrees with the noun 'apartment.' 'Apartment' is a singular, non-human noun, so the correct possessive adjective should be 'its.'<br><ul><li><b>His</b> (possessive adjective): 'His' is a possessive adjective used for singular male people.</li><li><b>her</b> (possessive adjective): 'Her' is a possessive adjective used for singular female people.</li><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective used for plural nouns or sometimes for singular people of unknown gender, but not for objects.</li><li><b>its</b> (possessive adjective): 'Its' is a possessive adjective used for singular, non-human nouns (animals, things, organizations, etc.).</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives: his, her, its, their, our, your, my. Use 'its' for singular, non-human nouns.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf4",
+        "questionNumber": 12,
+        "questionText": "All department heads should submit ______ annual budget estimates to the Finance Department by the end of the month.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "ourselves",
+            "raw": "A. ourselves ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "theirs",
+            "raw": "B. theirs ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "their",
+            "raw": "C. their",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "ours",
+            "raw": "D. ours",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'All department heads should submit ______ annual budget estimates to the Finance Department by the end of the month.' requires a possessive adjective to modify the noun phrase 'annual budget estimates.' Possessive adjectives (such as 'my', 'your', 'his', 'her', 'its', 'our', 'their') are used before nouns to show ownership or association. Since 'department heads' is plural, the correct possessive adjective is 'their.'<br><ul><li><b>ourselves</b> (reflexive pronoun): Reflexive pronoun, used when the subject and object are the same (e.g., We did it ourselves). Not used to show possession.</li><li><b>theirs</b> (possessive pronoun): Possessive pronoun, used to replace a noun (e.g., The books are theirs). Not used directly before a noun.</li><li><b>their</b> (possessive adjective): Possessive adjective, used before a noun to show ownership (e.g., their car, their ideas).</li><li><b>ours</b> (possessive pronoun): Possessive pronoun, used to replace a noun (e.g., The house is ours). Not used directly before a noun.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives are used before nouns to show ownership or association. Structure: possessive adjective + noun (e.g., their report, my book, our plan).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'All department heads should submit ______ annual budget estimates to the Finance Department by the end of the month.' cần một tính từ sở hữu để bổ nghĩa cho cụm danh từ 'annual budget estimates.' Tính từ sở hữu (như: my, your, his, her, its, our, their) được dùng trước danh từ để chỉ sự sở hữu hoặc liên kết. Vì 'department heads' là số nhiều, tính từ sở hữu phù hợp là 'their.'<br><ul><li><b>ourselves</b> (đại từ phản thân): Đại từ phản thân, dùng khi chủ ngữ và tân ngữ là một (ví dụ: We did it ourselves). Không dùng để chỉ sở hữu.</li><li><b>theirs</b> (đại từ sở hữu): Đại từ sở hữu, dùng để thay thế cho danh từ (ví dụ: The books are theirs). Không dùng trực tiếp trước danh từ.</li><li><b>their</b> (tính từ sở hữu): Tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu (ví dụ: their car, their ideas).</li><li><b>ours</b> (đại từ sở hữu): Đại từ sở hữu, dùng để thay thế cho danh từ (ví dụ: The house is ours). Không dùng trực tiếp trước danh từ.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu được dùng trước danh từ để chỉ sự sở hữu hoặc liên kết. Cấu trúc: tính từ sở hữu + danh từ (ví dụ: their report, my book, our plan).<br><br><b>Tạm dịch:</b> Tất cả các trưởng phòng nên nộp dự toán ngân sách hàng năm của họ cho phòng tài chính trước cuối tháng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'All department heads should submit ______ annual budget estimates to the Finance Department by the end of the month.' requires a possessive adjective to modify the noun phrase 'annual budget estimates.' Possessive adjectives (such as 'my', 'your', 'his', 'her', 'its', 'our', 'their') are used before nouns to show ownership or association. Since 'department heads' is plural, the correct possessive adjective is 'their.'<br><ul><li><b>ourselves</b> (reflexive pronoun): Reflexive pronoun, used when the subject and object are the same (e.g., We did it ourselves). Not used to show possession.</li><li><b>theirs</b> (possessive pronoun): Possessive pronoun, used to replace a noun (e.g., The books are theirs). Not used directly before a noun.</li><li><b>their</b> (possessive adjective): Possessive adjective, used before a noun to show ownership (e.g., their car, their ideas).</li><li><b>ours</b> (possessive pronoun): Possessive pronoun, used to replace a noun (e.g., The house is ours). Not used directly before a noun.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives are used before nouns to show ownership or association. Structure: possessive adjective + noun (e.g., their report, my book, our plan).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf5",
+        "questionNumber": 13,
+        "questionText": "All customers are invited to complete the customer satisfaction survey to give ____ opinions about our service and products.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "its",
+            "raw": "A. its ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "her",
+            "raw": "B. her ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "his",
+            "raw": "C. his ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "their",
+            "raw": "D. their",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a possessive adjective to describe whose opinions are being referred to. The subject of the sentence is 'all customers,' which is plural. Therefore, the correct possessive adjective to use is 'their.'<br><ul><li><b>its</b> (possessive adjective): Possessive adjective for singular, non-human or animal subjects.</li><li><b>her</b> (possessive adjective): Possessive adjective for singular, female subjects.</li><li><b>his</b> (possessive adjective): Possessive adjective for singular, male subjects.</li><li><b>their</b> (possessive adjective): Possessive adjective for plural subjects or when gender is unknown.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives: my, your, his, her, its, our, their. Use 'their' for plural nouns or when referring to people in general.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một tính từ sở hữu để chỉ ý kiến thuộc về ai. Chủ ngữ của câu là 'all customers' (tất cả khách hàng), là số nhiều. Vì vậy, tính từ sở hữu phù hợp là 'their.'<br><ul><li><b>its</b> (tính từ sở hữu): Tính từ sở hữu dùng cho chủ ngữ số ít, không phải người hoặc động vật.</li><li><b>her</b> (tính từ sở hữu): Tính từ sở hữu dùng cho chủ ngữ số ít, là nữ.</li><li><b>his</b> (tính từ sở hữu): Tính từ sở hữu dùng cho chủ ngữ số ít, là nam.</li><li><b>their</b> (tính từ sở hữu): Tính từ sở hữu dùng cho chủ ngữ số nhiều hoặc khi không xác định giới tính.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu: my, your, his, her, its, our, their. Dùng 'their' cho danh từ số nhiều hoặc khi nói chung về người.<br><br><b>Tạm dịch:</b> Tất cả khách hàng được mời hoàn thành khảo sát sự hài lòng của khách hàng để đưa ra ý kiến của họ về dịch vụ và sản phẩm của chúng tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a possessive adjective to describe whose opinions are being referred to. The subject of the sentence is 'all customers,' which is plural. Therefore, the correct possessive adjective to use is 'their.'<br><ul><li><b>its</b> (possessive adjective): Possessive adjective for singular, non-human or animal subjects.</li><li><b>her</b> (possessive adjective): Possessive adjective for singular, female subjects.</li><li><b>his</b> (possessive adjective): Possessive adjective for singular, male subjects.</li><li><b>their</b> (possessive adjective): Possessive adjective for plural subjects or when gender is unknown.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives: my, your, his, her, its, our, their. Use 'their' for plural nouns or when referring to people in general.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf6",
+        "questionNumber": 14,
+        "questionText": "In case of an emergency, contact ____ at the number listed below.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "we",
+            "raw": "A. we ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "our",
+            "raw": "B. our ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "us",
+            "raw": "C. us",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "ours",
+            "raw": "D. ours",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'In case of an emergency, contact ____ at the number listed below.' requires an object pronoun because 'contact' is a verb that needs an object (someone to be contacted). The correct object pronoun for 'we' is 'us'.<br><ul><li><b>we</b> (subject pronoun): 'We' is a subject pronoun, used as the subject of a sentence, not as an object.</li><li><b>our</b> (possessive adjective): 'Our' is a possessive adjective, used before a noun to show possession.</li><li><b>us</b> (object pronoun): 'Us' is an object pronoun, used as the object of a verb or preposition.</li><li><b>ours</b> (possessive pronoun): 'Ours' is a possessive pronoun, used to indicate possession and usually stands alone.</li></ul><b>Related structure or vocabulary:</b> Verb + object pronoun: After verbs like 'contact', 'call', 'help', etc., we use object pronouns (me, us, him, her, them, you, it). Example: Please call us if you need help.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'In case of an emergency, contact ____ at the number listed below.' cần một đại từ tân ngữ vì 'contact' là động từ cần tân ngữ (người được liên hệ). Đại từ tân ngữ đúng của 'we' là 'us'.<br><ul><li><b>we</b> (đại từ chủ ngữ): 'We' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không dùng làm tân ngữ.</li><li><b>our</b> (tính từ sở hữu): 'Our' là tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu.</li><li><b>us</b> (đại từ tân ngữ): 'Us' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ.</li><li><b>ours</b> (đại từ sở hữu): 'Ours' là đại từ sở hữu, dùng để chỉ sự sở hữu và thường đứng một mình.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ + đại từ tân ngữ: Sau các động từ như 'contact', 'call', 'help'... ta dùng đại từ tân ngữ (me, us, him, her, them, you, it). Ví dụ: Please call us if you need help.<br><br><b>Tạm dịch:</b> Trong trường hợp khẩn cấp, hãy liên hệ với chúng tôi theo số điện thoại được liệt kê bên dưới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'In case of an emergency, contact ____ at the number listed below.' requires an object pronoun because 'contact' is a verb that needs an object (someone to be contacted). The correct object pronoun for 'we' is 'us'.<br><ul><li><b>we</b> (subject pronoun): 'We' is a subject pronoun, used as the subject of a sentence, not as an object.</li><li><b>our</b> (possessive adjective): 'Our' is a possessive adjective, used before a noun to show possession.</li><li><b>us</b> (object pronoun): 'Us' is an object pronoun, used as the object of a verb or preposition.</li><li><b>ours</b> (possessive pronoun): 'Ours' is a possessive pronoun, used to indicate possession and usually stands alone.</li></ul><b>Related structure or vocabulary:</b> Verb + object pronoun: After verbs like 'contact', 'call', 'help', etc., we use object pronouns (me, us, him, her, them, you, it). Example: Please call us if you need help.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf7",
+        "questionNumber": 15,
+        "questionText": "We are proud that the quality of our service is far better than _____ of our competitors.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "those",
+            "raw": "A. those ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "they",
+            "raw": "C. they ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "them",
+            "raw": "D. them",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the quality of our service with that of our competitors. The word 'that' is used as a pronoun to refer to 'the quality' mentioned earlier, so the correct structure is 'the quality of our service is better than that of our competitors.'<br><ul><li><b>those</b> (pronoun (plural)): 'Those' is a plural pronoun, used to refer to plural nouns. Here, 'quality' is singular, so 'those' is incorrect.</li><li><b>that</b> (pronoun (singular)): 'That' is a singular pronoun, used to refer to a singular noun previously mentioned, in this case, 'quality.' This is the correct answer.</li><li><b>they</b> (pronoun (subject, plural)): 'They' is a subject pronoun, used for people or things in the plural form. It does not fit the structure of this sentence.</li><li><b>them</b> (pronoun (object, plural)): 'Them' is an object pronoun, used for people or things in the plural form. It is not appropriate here.</li></ul><b>Related structure or vocabulary:</b> Comparison structure: 'the ... of ... is better than that of ...' is used to compare the same thing (singular) between two subjects.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang so sánh chất lượng dịch vụ của mình với chất lượng dịch vụ của đối thủ. Từ 'that' được dùng như một đại từ thay thế cho danh từ 'quality' đã được nhắc đến trước đó. Vì 'quality' là danh từ số ít nên phải dùng 'that' để chỉ 'the quality' của đối thủ.<br><ul><li><b>those</b> (đại từ (số nhiều)): 'Those' là đại từ số nhiều, dùng để thay thế cho các danh từ số nhiều. Ở đây, 'quality' là danh từ số ít nên không dùng 'those'.</li><li><b>that</b> (đại từ (số ít)): 'That' là đại từ số ít, dùng để thay thế cho danh từ số ít đã được nhắc đến trước đó, ở đây là 'quality'. Đây là đáp án đúng.</li><li><b>they</b> (đại từ chủ ngữ (số nhiều)): 'They' là đại từ chủ ngữ số nhiều, dùng cho người hoặc vật số nhiều. Không phù hợp với cấu trúc câu này.</li><li><b>them</b> (đại từ tân ngữ (số nhiều)): 'Them' là đại từ tân ngữ số nhiều, dùng cho người hoặc vật số nhiều. Không phù hợp trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc so sánh: 'the ... of ... is better than that of ...' dùng để so sánh cùng một thứ (số ít) giữa hai đối tượng.<br><br><b>Tạm dịch:</b> Chúng tôi tự hào rằng chất lượng dịch vụ của mình tốt hơn nhiều so với chất lượng dịch vụ của các đối thủ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are comparing the quality of our service with that of our competitors. The word 'that' is used as a pronoun to refer to 'the quality' mentioned earlier, so the correct structure is 'the quality of our service is better than that of our competitors.'<br><ul><li><b>those</b> (pronoun (plural)): 'Those' is a plural pronoun, used to refer to plural nouns. Here, 'quality' is singular, so 'those' is incorrect.</li><li><b>that</b> (pronoun (singular)): 'That' is a singular pronoun, used to refer to a singular noun previously mentioned, in this case, 'quality.' This is the correct answer.</li><li><b>they</b> (pronoun (subject, plural)): 'They' is a subject pronoun, used for people or things in the plural form. It does not fit the structure of this sentence.</li><li><b>them</b> (pronoun (object, plural)): 'Them' is an object pronoun, used for people or things in the plural form. It is not appropriate here.</li></ul><b>Related structure or vocabulary:</b> Comparison structure: 'the ... of ... is better than that of ...' is used to compare the same thing (singular) between two subjects.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf8",
+        "questionNumber": 16,
+        "questionText": "The president _____ welcomed the delegates at the airport.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "him",
+            "raw": "A. him ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "his",
+            "raw": "B. his ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "he",
+            "raw": "C. he ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "himself",
+            "raw": "D. himself",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the subject 'The president' and before the verb 'welcomed.' The sentence is in the active voice, and we need a word that emphasizes that the president did the action personally. The correct form to use here is the reflexive pronoun 'himself,' which is used to emphasize that the subject and the doer of the action are the same person.<br><ul><li><b>him</b> (pronoun): Object pronoun, used as the object of a verb or preposition, not suitable here.</li><li><b>his</b> (possessive adjective): Possessive adjective, used to show ownership, not suitable here.</li><li><b>he</b> (pronoun): Subject pronoun, used as the subject of a sentence, not suitable after the subject.</li><li><b>himself</b> (reflexive pronoun): Reflexive pronoun, used to emphasize that the subject does the action personally.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) are used to emphasize that the subject and the object of the verb are the same person or to show that someone does something alone.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống đứng sau chủ ngữ 'The president' và trước động từ 'welcomed.' Câu ở thể chủ động và chúng ta cần một từ nhấn mạnh rằng tổng thống tự mình thực hiện hành động đó. Dạng đúng cần dùng là đại từ phản thân 'himself', dùng để nhấn mạnh chủ ngữ và người thực hiện hành động là cùng một người.<br><ul><li><b>him</b> (đại từ): Đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ, không phù hợp ở đây.</li><li><b>his</b> (tính từ sở hữu): Tính từ sở hữu, dùng để chỉ sự sở hữu, không phù hợp ở đây.</li><li><b>he</b> (đại từ): Đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không phù hợp sau chủ ngữ.</li><li><b>himself</b> (đại từ phản thân): Đại từ phản thân, dùng để nhấn mạnh chủ ngữ tự thực hiện hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ phản thân (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) dùng để nhấn mạnh chủ ngữ tự thực hiện hành động hoặc làm việc một mình.<br><br><b>Tạm dịch:</b> Tổng thống tự mình chào đón các đại biểu tại sân bay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the subject 'The president' and before the verb 'welcomed.' The sentence is in the active voice, and we need a word that emphasizes that the president did the action personally. The correct form to use here is the reflexive pronoun 'himself,' which is used to emphasize that the subject and the doer of the action are the same person.<br><ul><li><b>him</b> (pronoun): Object pronoun, used as the object of a verb or preposition, not suitable here.</li><li><b>his</b> (possessive adjective): Possessive adjective, used to show ownership, not suitable here.</li><li><b>he</b> (pronoun): Subject pronoun, used as the subject of a sentence, not suitable after the subject.</li><li><b>himself</b> (reflexive pronoun): Reflexive pronoun, used to emphasize that the subject does the action personally.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) are used to emphasize that the subject and the object of the verb are the same person or to show that someone does something alone.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2afd1bfab7a5b000cf9",
+        "questionNumber": 17,
+        "questionText": "Most of the start-up companies spend a relatively high percentage of ____ budgets on advertising costs.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "they",
+            "raw": "A. they ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "their",
+            "raw": "B. their",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "them",
+            "raw": "C. them ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "theirs",
+            "raw": "D. theirs",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a possessive adjective to modify the noun 'budgets.' In English, possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership. The correct possessive adjective for 'start-up companies' (they) is 'their.'<br><ul><li><b>they</b> (pronoun): Subject pronoun, used as the subject of a sentence, not before a noun.</li><li><b>their</b> (possessive adjective): Possessive adjective, used before a noun to show ownership.</li><li><b>them</b> (pronoun): Object pronoun, used as the object of a verb or preposition.</li><li><b>theirs</b> (possessive pronoun): Possessive pronoun, used to replace a noun, not before a noun.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show possession. Example: their house, their car.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền một tính từ sở hữu để bổ nghĩa cho danh từ 'budgets.' Trong tiếng Anh, tính từ sở hữu (my, your, his, her, its, our, their) được dùng trước danh từ để chỉ sự sở hữu. Tính từ sở hữu phù hợp với chủ ngữ 'start-up companies' (họ) là 'their.'<br><ul><li><b>they</b> (đại từ): Đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không đứng trước danh từ.</li><li><b>their</b> (tính từ sở hữu): Tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu.</li><li><b>them</b> (đại từ): Đại từ tân ngữ, dùng làm tân ngữ của động từ hoặc giới từ.</li><li><b>theirs</b> (đại từ sở hữu): Đại từ sở hữu, dùng để thay thế cho một danh từ, không đứng trước danh từ.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) dùng trước danh từ để chỉ sự sở hữu. Ví dụ: their house (ngôi nhà của họ), their car (xe của họ).<br><br><b>Tạm dịch:</b> Hầu hết các công ty khởi nghiệp chi một tỷ lệ khá cao trong ngân sách của họ cho chi phí quảng cáo.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a possessive adjective to modify the noun 'budgets.' In English, possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership. The correct possessive adjective for 'start-up companies' (they) is 'their.'<br><ul><li><b>they</b> (pronoun): Subject pronoun, used as the subject of a sentence, not before a noun.</li><li><b>their</b> (possessive adjective): Possessive adjective, used before a noun to show ownership.</li><li><b>them</b> (pronoun): Object pronoun, used as the object of a verb or preposition.</li><li><b>theirs</b> (possessive pronoun): Possessive pronoun, used to replace a noun, not before a noun.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show possession. Example: their house, their car.<br><br>"
+      }
+    }
+  ]
+}

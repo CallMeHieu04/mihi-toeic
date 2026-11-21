@@ -1,0 +1,568 @@
+{
+  "topicId": "6224910383f28145bcbb5405",
+  "title": "CONDITIONAL SENTENCES - Practice 2",
+  "totalCards": 14,
+  "totalQuestions": 14,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57f4",
+        "questionNumber": 1,
+        "questionText": "If you_____to me, you wouldn’t have got so much trouble.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "listened",
+            "raw": "A. listened ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "would listen",
+            "raw": "B. would listen",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had listened",
+            "raw": "C. had listened",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "would have listened",
+            "raw": "D. would have listened",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If you_____to me, you wouldn’t have got so much trouble.' requires the correct verb tense for a third conditional sentence. The third conditional is used to talk about unreal situations in the past, expressing regret or imagining a different outcome. The structure is: If + past perfect, ... would have + past participle. Therefore, the correct verb form after 'If you' is the past perfect tense.<br><ul><li><b>listened</b> (verb (past simple)): Simple past tense of 'listen'. Used for actions completed in the past, but not suitable for third conditional.</li><li><b>would listen</b> (modal verb + base verb): 'Would' + base verb is used in second conditional or for polite requests, not for third conditional.</li><li><b>had listened</b> (verb (past perfect)): Past perfect tense of 'listen'. Used in third conditional sentences to talk about unreal past situations.</li><li><b>would have listened</b> (modal perfect): 'Would have' + past participle is used in the result clause of third conditional, not in the 'if' clause.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, ... would have + past participle. Used to talk about unreal situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If you_____to me, you wouldn’t have got so much trouble.' cần điền đúng thì động từ cho câu điều kiện loại 3. Câu điều kiện loại 3 dùng để nói về những tình huống không có thật trong quá khứ, thể hiện sự tiếc nuối hoặc tưởng tượng kết quả khác. Cấu trúc là: If + quá khứ hoàn thành, ... would have + quá khứ phân từ. Vì vậy, động từ sau 'If you' phải ở thì quá khứ hoàn thành.<br><ul><li><b>listened</b> (động từ (quá khứ đơn)): 'Listened' là thì quá khứ đơn của 'listen'. Dùng cho hành động đã hoàn thành trong quá khứ, nhưng không phù hợp với câu điều kiện loại 3.</li><li><b>would listen</b> (động từ khuyết thiếu + động từ nguyên thể): 'Would' + động từ nguyên thể dùng trong câu điều kiện loại 2 hoặc để yêu cầu lịch sự, không dùng cho câu điều kiện loại 3.</li><li><b>had listened</b> (động từ (quá khứ hoàn thành)): 'Had listened' là thì quá khứ hoàn thành của 'listen'. Dùng trong câu điều kiện loại 3 để nói về tình huống không có thật trong quá khứ.</li><li><b>would have listened</b> (modal perfect): 'Would have' + quá khứ phân từ dùng ở mệnh đề kết quả của câu điều kiện loại 3, không dùng ở mệnh đề 'if'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + quá khứ hoàn thành, ... would have + quá khứ phân từ. Dùng để nói về tình huống không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Nếu bạn đã nghe tôi, bạn đã không gặp nhiều rắc rối như vậy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If you_____to me, you wouldn’t have got so much trouble.' requires the correct verb tense for a third conditional sentence. The third conditional is used to talk about unreal situations in the past, expressing regret or imagining a different outcome. The structure is: If + past perfect, ... would have + past participle. Therefore, the correct verb form after 'If you' is the past perfect tense.<br><ul><li><b>listened</b> (verb (past simple)): Simple past tense of 'listen'. Used for actions completed in the past, but not suitable for third conditional.</li><li><b>would listen</b> (modal verb + base verb): 'Would' + base verb is used in second conditional or for polite requests, not for third conditional.</li><li><b>had listened</b> (verb (past perfect)): Past perfect tense of 'listen'. Used in third conditional sentences to talk about unreal past situations.</li><li><b>would have listened</b> (modal perfect): 'Would have' + past participle is used in the result clause of third conditional, not in the 'if' clause.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, ... would have + past participle. Used to talk about unreal situations in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57f5",
+        "questionNumber": 2,
+        "questionText": "If the sun _____, we _____for a walk.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "shines / will go",
+            "raw": "A. shines / will go",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "shone / will go",
+            "raw": "B. shone / will go ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "shone / would go",
+            "raw": "C. shone / would go",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had shone / would go",
+            "raw": "D. had shone / would go",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence is a conditional sentence. The structure 'If the sun _____, we _____ for a walk.' is talking about a possible situation in the present or future. For real situations in the present or future (Type 1 conditional), we use 'if + present simple, will + base verb'.<br><ul><li><b>shines</b> (verb (present simple)): Present simple tense of 'shine', used for general truths or present/future real conditions.</li><li><b>shone</b> (verb (past simple)): Past simple tense of 'shine', used for unreal or hypothetical situations (Type 2 or 3 conditionals).</li><li><b>had shone</b> (verb (past perfect)): Past perfect tense of 'shine', used for unreal situations in the past (Type 3 conditional).</li><li><b>will go</b> (verb (future simple)): Future simple tense, used for actions that will happen in the future.</li><li><b>would go</b> (modal verb (conditional)): Conditional form, used for unreal or hypothetical situations.</li></ul><b>Related structure or vocabulary:</b> Type 1 conditional: if + present simple, will + base verb. Used for real or possible situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là câu điều kiện. Cấu trúc 'If the sun _____, we _____ for a walk.' đang nói về một tình huống có thể xảy ra ở hiện tại hoặc tương lai. Với những tình huống thực tế ở hiện tại hoặc tương lai (Câu điều kiện loại 1), ta dùng 'if + hiện tại đơn, will + động từ nguyên mẫu'.<br><ul><li><b>shines</b> (động từ (hiện tại đơn)): Thì hiện tại đơn của 'shine', dùng cho sự thật chung hoặc điều kiện thực tế ở hiện tại/tương lai.</li><li><b>shone</b> (động từ (quá khứ đơn)): Thì quá khứ đơn của 'shine', dùng cho tình huống không có thật hoặc giả định (câu điều kiện loại 2 hoặc 3).</li><li><b>had shone</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành của 'shine', dùng cho tình huống không có thật trong quá khứ (câu điều kiện loại 3).</li><li><b>will go</b> (động từ (tương lai đơn)): Thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai.</li><li><b>would go</b> (động từ khuyết thiếu (điều kiện)): Dạng điều kiện, dùng cho tình huống không có thật hoặc giả định.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: if + hiện tại đơn, will + động từ nguyên mẫu. Dùng cho tình huống thực tế hoặc có thể xảy ra ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Nếu trời nắng, chúng ta sẽ đi dạo.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence is a conditional sentence. The structure 'If the sun _____, we _____ for a walk.' is talking about a possible situation in the present or future. For real situations in the present or future (Type 1 conditional), we use 'if + present simple, will + base verb'.<br><ul><li><b>shines</b> (verb (present simple)): Present simple tense of 'shine', used for general truths or present/future real conditions.</li><li><b>shone</b> (verb (past simple)): Past simple tense of 'shine', used for unreal or hypothetical situations (Type 2 or 3 conditionals).</li><li><b>had shone</b> (verb (past perfect)): Past perfect tense of 'shine', used for unreal situations in the past (Type 3 conditional).</li><li><b>will go</b> (verb (future simple)): Future simple tense, used for actions that will happen in the future.</li><li><b>would go</b> (modal verb (conditional)): Conditional form, used for unreal or hypothetical situations.</li></ul><b>Related structure or vocabulary:</b> Type 1 conditional: if + present simple, will + base verb. Used for real or possible situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57f6",
+        "questionNumber": 3,
+        "questionText": "The campfire _____ if it _____ last night.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "wouldn’t be cancelled / hadn’t rained",
+            "raw": "A. wouldn’t be cancelled / hadn’t rained ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "wouldn’t have been cancelled / hadn’t rained",
+            "raw": "B. wouldn’t have been cancelled / hadn’t rained",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "would have been cancelled / hadn’t rained",
+            "raw": "C. would have been cancelled / hadn’t rained ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will be cancelled / rains",
+            "raw": "D. will be cancelled / rains",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence is a conditional sentence referring to an unreal situation in the past. The structure for a third conditional sentence is: If + past perfect, would have + past participle. The sentence means: The campfire would not have been cancelled if it had not rained last night.<br><ul><li><b>wouldn’t be cancelled / hadn’t rained</b> (Verb phrase / Conditional): This mixes a present unreal result (wouldn't be cancelled) with a past unreal condition (hadn't rained), which is incorrect.</li><li><b>wouldn’t have been cancelled / hadn’t rained</b> (Verb phrase / Conditional): This is the correct form for a third conditional: 'wouldn't have been cancelled' (past unreal result) and 'hadn't rained' (past perfect, past unreal condition).</li><li><b>would have been cancelled / hadn’t rained</b> (Verb phrase / Conditional): This suggests the campfire would have been cancelled if it had NOT rained, which is the opposite of the intended meaning.</li><li><b>will be cancelled / rains</b> (Verb phrase / Conditional): This is a first conditional, used for real future possibilities, not for unreal past situations.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là câu điều kiện loại 3, dùng để nói về một tình huống không có thật trong quá khứ. Cấu trúc của câu điều kiện loại 3 là: If + quá khứ hoàn thành, would have + V3/ed. Ý nghĩa câu: Buổi đốt lửa trại đã không bị hủy nếu tối qua trời không mưa.<br><ul><li><b>wouldn’t be cancelled / hadn’t rained</b> (Cụm động từ / Câu điều kiện): Kết hợp sai giữa kết quả không có thật ở hiện tại (wouldn't be cancelled) với điều kiện không có thật ở quá khứ (hadn't rained).</li><li><b>wouldn’t have been cancelled / hadn’t rained</b> (Cụm động từ / Câu điều kiện): Đây là dạng đúng của câu điều kiện loại 3: 'wouldn't have been cancelled' (kết quả không có thật ở quá khứ) và 'hadn't rained' (quá khứ hoàn thành, điều kiện không có thật ở quá khứ).</li><li><b>would have been cancelled / hadn’t rained</b> (Cụm động từ / Câu điều kiện): Câu này mang nghĩa buổi đốt lửa trại đã bị hủy nếu trời KHÔNG mưa, trái với ý nghĩa của câu gốc.</li><li><b>will be cancelled / rains</b> (Cụm động từ / Câu điều kiện): Đây là câu điều kiện loại 1, dùng cho khả năng có thật ở tương lai, không phù hợp với tình huống không có thật trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + quá khứ hoàn thành, would have + V3/ed. Dùng để nói về tình huống không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Buổi đốt lửa trại đã không bị hủy nếu tối qua trời không mưa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence is a conditional sentence referring to an unreal situation in the past. The structure for a third conditional sentence is: If + past perfect, would have + past participle. The sentence means: The campfire would not have been cancelled if it had not rained last night.<br><ul><li><b>wouldn’t be cancelled / hadn’t rained</b> (Verb phrase / Conditional): This mixes a present unreal result (wouldn't be cancelled) with a past unreal condition (hadn't rained), which is incorrect.</li><li><b>wouldn’t have been cancelled / hadn’t rained</b> (Verb phrase / Conditional): This is the correct form for a third conditional: 'wouldn't have been cancelled' (past unreal result) and 'hadn't rained' (past perfect, past unreal condition).</li><li><b>would have been cancelled / hadn’t rained</b> (Verb phrase / Conditional): This suggests the campfire would have been cancelled if it had NOT rained, which is the opposite of the intended meaning.</li><li><b>will be cancelled / rains</b> (Verb phrase / Conditional): This is a first conditional, used for real future possibilities, not for unreal past situations.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57f7",
+        "questionNumber": 4,
+        "questionText": "But for our parents, we _____ successful in life.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will never be",
+            "raw": "A. will never be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "would never be",
+            "raw": "B. would never be",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "wouldn’t have be",
+            "raw": "C. wouldn’t have be",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "would have never been",
+            "raw": "D. would have never been",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'But for our parents, we _____ successful in life.' uses the structure 'But for + noun, ...' which means 'if it were not for' or 'without'. This structure is often used in conditional sentences to talk about hypothetical situations in the past or present. In this case, the sentence is referring to a hypothetical situation in the past (without our parents, we would not have been successful). Therefore, we need to use the third conditional form: 'would have + past participle'.<br><ul><li><b>will never be</b> (modal + base verb): 'Will never be' is used for future predictions, not for hypothetical situations in the past.</li><li><b>would never be</b> (modal + base verb): 'Would never be' is used for hypothetical situations in the present or future, not for the past.</li><li><b>wouldn’t have be</b> (modal + have + base verb (incorrect form)): 'Wouldn’t have be' is grammatically incorrect. The correct form is 'wouldn’t have been'.</li><li><b>would have never been</b> (modal + have + past participle): 'Would have never been' is the correct form for the third conditional, expressing a hypothetical situation in the past.</li></ul><b>Related structure or vocabulary:</b> But for + noun, third conditional (would have + past participle): used to talk about hypothetical situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'But for our parents, we _____ successful in life.' sử dụng cấu trúc 'But for + danh từ', nghĩa là 'nếu không có' hoặc 'nếu không vì'. Cấu trúc này thường dùng trong câu điều kiện để nói về những tình huống giả định trong quá khứ hoặc hiện tại. Trong trường hợp này, câu nói về một tình huống giả định trong quá khứ (nếu không có cha mẹ, chúng ta đã không thành công). Vì vậy, cần dùng câu điều kiện loại 3: 'would have + phân từ II'.<br><ul><li><b>will never be</b> (modal + động từ nguyên mẫu): 'Will never be' dùng để nói về dự đoán trong tương lai, không phù hợp với tình huống giả định trong quá khứ.</li><li><b>would never be</b> (modal + động từ nguyên mẫu): 'Would never be' dùng cho tình huống giả định ở hiện tại hoặc tương lai, không phải quá khứ.</li><li><b>wouldn’t have be</b> (modal + have + động từ nguyên mẫu (sai)): 'Wouldn’t have be' là sai ngữ pháp. Dạng đúng phải là 'wouldn’t have been'.</li><li><b>would have never been</b> (modal + have + phân từ II): 'Would have never been' là dạng đúng của câu điều kiện loại 3, diễn tả tình huống giả định trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> But for + danh từ, câu điều kiện loại 3 (would have + phân từ II): dùng để nói về tình huống giả định trong quá khứ.<br><br><b>Tạm dịch:</b> Nếu không có cha mẹ, chúng ta đã không thể thành công trong cuộc sống.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'But for our parents, we _____ successful in life.' uses the structure 'But for + noun, ...' which means 'if it were not for' or 'without'. This structure is often used in conditional sentences to talk about hypothetical situations in the past or present. In this case, the sentence is referring to a hypothetical situation in the past (without our parents, we would not have been successful). Therefore, we need to use the third conditional form: 'would have + past participle'.<br><ul><li><b>will never be</b> (modal + base verb): 'Will never be' is used for future predictions, not for hypothetical situations in the past.</li><li><b>would never be</b> (modal + base verb): 'Would never be' is used for hypothetical situations in the present or future, not for the past.</li><li><b>wouldn’t have be</b> (modal + have + base verb (incorrect form)): 'Wouldn’t have be' is grammatically incorrect. The correct form is 'wouldn’t have been'.</li><li><b>would have never been</b> (modal + have + past participle): 'Would have never been' is the correct form for the third conditional, expressing a hypothetical situation in the past.</li></ul><b>Related structure or vocabulary:</b> But for + noun, third conditional (would have + past participle): used to talk about hypothetical situations in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57f8",
+        "questionNumber": 5,
+        "questionText": "If I _____ my wallet at home this morning, I _____ money for lunch now.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "leave / will have",
+            "raw": "A. leave / will have ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "didn’t leave / would have",
+            "raw": "B. didn’t leave / would have",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "hadn’t left / would have",
+            "raw": "C. hadn’t left / would have",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "hadn’t left / would have had",
+            "raw": "D. hadn’t left / would have had",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I _____ my wallet at home this morning, I _____ money for lunch now.' is a conditional sentence referring to an unreal situation in the past that affects the present. This is a type 3 conditional mixed with type 2. The correct structure is: If + past perfect (hadn't left), ... would + base verb (would have).<br><ul><li><b>leave / will have</b> (verb tenses): 'leave' is present simple, and 'will have' is future simple. This structure is used for first conditional (real present/future situations), which does not fit the context of an unreal past affecting the present.</li><li><b>didn’t leave / would have</b> (verb tenses): 'didn't leave' is past simple, and 'would have' is conditional perfect. This is not the correct structure for a mixed conditional referring to a past action affecting the present.</li><li><b>hadn’t left / would have</b> (verb tenses): 'hadn't left' is past perfect, and 'would have' is conditional perfect. This is close, but 'would have' is used for past results, not present results.</li><li><b>hadn’t left / would have had</b> (verb tenses): 'hadn't left' is past perfect, and 'would have had' is conditional perfect. This structure is used for type 3 conditionals (unreal past situations with past results), but the result clause here refers to the present, so 'would have' is not correct.</li></ul><b>Related structure or vocabulary:</b> Mixed conditional: If + past perfect, ... would + base verb (for present result of a past action).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If I _____ my wallet at home this morning, I _____ money for lunch now.' là câu điều kiện hỗn hợp, diễn tả một hành động không có thật ở quá khứ nhưng ảnh hưởng đến hiện tại. Cấu trúc đúng là: If + past perfect (hadn't left), ... would + base verb (would have).<br><ul><li><b>leave / will have</b> (thì động từ): 'leave' là thì hiện tại đơn, 'will have' là thì tương lai đơn. Cấu trúc này dùng cho câu điều kiện loại 1 (tình huống thực tế ở hiện tại/tương lai), không phù hợp với ngữ cảnh câu hỏi.</li><li><b>didn’t leave / would have</b> (thì động từ): 'didn't leave' là thì quá khứ đơn, 'would have' là điều kiện hoàn thành. Đây không phải là cấu trúc đúng cho câu điều kiện hỗn hợp nói về hành động quá khứ ảnh hưởng hiện tại.</li><li><b>hadn’t left / would have</b> (thì động từ): 'hadn't left' là thì quá khứ hoàn thành, 'would have' là điều kiện hoàn thành. Tuy nhiên, 'would have' thường dùng cho kết quả ở quá khứ, không phải hiện tại.</li><li><b>hadn’t left / would have had</b> (thì động từ): 'hadn't left' là thì quá khứ hoàn thành, 'would have had' là điều kiện hoàn thành. Cấu trúc này dùng cho câu điều kiện loại 3 (không có thật ở quá khứ với kết quả ở quá khứ), nhưng mệnh đề kết quả ở đây nói về hiện tại nên không phù hợp.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện hỗn hợp: If + past perfect, ... would + V (kết quả hiện tại của hành động quá khứ).<br><br><b>Tạm dịch:</b> Nếu sáng nay tôi không để quên ví ở nhà, bây giờ tôi sẽ có tiền ăn trưa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I _____ my wallet at home this morning, I _____ money for lunch now.' is a conditional sentence referring to an unreal situation in the past that affects the present. This is a type 3 conditional mixed with type 2. The correct structure is: If + past perfect (hadn't left), ... would + base verb (would have).<br><ul><li><b>leave / will have</b> (verb tenses): 'leave' is present simple, and 'will have' is future simple. This structure is used for first conditional (real present/future situations), which does not fit the context of an unreal past affecting the present.</li><li><b>didn’t leave / would have</b> (verb tenses): 'didn't leave' is past simple, and 'would have' is conditional perfect. This is not the correct structure for a mixed conditional referring to a past action affecting the present.</li><li><b>hadn’t left / would have</b> (verb tenses): 'hadn't left' is past perfect, and 'would have' is conditional perfect. This is close, but 'would have' is used for past results, not present results.</li><li><b>hadn’t left / would have had</b> (verb tenses): 'hadn't left' is past perfect, and 'would have had' is conditional perfect. This structure is used for type 3 conditionals (unreal past situations with past results), but the result clause here refers to the present, so 'would have' is not correct.</li></ul><b>Related structure or vocabulary:</b> Mixed conditional: If + past perfect, ... would + base verb (for present result of a past action).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57f9",
+        "questionNumber": 6,
+        "questionText": "It is too bad, Lam isn’t here. If he _____ here, he _____ what to do.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were / would know",
+            "raw": "A. were / would know",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is / will know",
+            "raw": "B. is / will know",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had been / would have known",
+            "raw": "C. had been / would have known ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was / would know",
+            "raw": "D. was / would know",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence is a type 2 conditional sentence, which is used to talk about unreal or hypothetical situations in the present or future. The structure for type 2 conditional is: If + subject + past simple, subject + would/could + base verb. In this case, 'If he were here, he would know what to do.' means Lam is not here now, but if he were, he would know what to do.<br><ul><li><b>were / would know</b> (verb phrase): 'were' is the past simple form used in the if-clause for all subjects in formal English, and 'would know' is the correct form for the result clause in type 2 conditional.</li><li><b>is / will know</b> (verb phrase): 'is' and 'will know' are used in type 1 conditional, which talks about real or possible situations in the present or future, not hypothetical ones.</li><li><b>had been / would have known</b> (verb phrase): 'had been' and 'would have known' are used in type 3 conditional, which refers to unreal situations in the past.</li><li><b>was / would know</b> (verb phrase): 'was' is sometimes used informally instead of 'were' for the first and third person singular, but 'were' is the grammatically correct form in formal English for all subjects in unreal conditional sentences.</li></ul><b>Related structure or vocabulary:</b> Type 2 conditional: If + past simple, ... would/could + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là câu điều kiện loại 2, dùng để nói về những tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Cấu trúc của câu điều kiện loại 2 là: If + chủ ngữ + động từ quá khứ đơn, chủ ngữ + would/could + động từ nguyên mẫu. Trong trường hợp này, 'If he were here, he would know what to do.' nghĩa là Lam không có ở đây, nhưng nếu cậu ấy có mặt, cậu ấy sẽ biết phải làm gì.<br><ul><li><b>were / would know</b> (cụm động từ): 'were' là động từ quá khứ đơn dùng trong mệnh đề if cho tất cả các chủ ngữ trong tiếng Anh trang trọng, và 'would know' là dạng đúng cho mệnh đề kết quả trong câu điều kiện loại 2.</li><li><b>is / will know</b> (cụm động từ): 'is' và 'will know' dùng trong câu điều kiện loại 1, nói về tình huống có thật hoặc có thể xảy ra ở hiện tại hoặc tương lai, không phải tình huống giả định.</li><li><b>had been / would have known</b> (cụm động từ): 'had been' và 'would have known' dùng trong câu điều kiện loại 3, nói về tình huống không có thật ở quá khứ.</li><li><b>was / would know</b> (cụm động từ): 'was' đôi khi được dùng trong văn nói thay cho 'were' với chủ ngữ số ít, nhưng 'were' mới là dạng đúng về mặt ngữ pháp trong tiếng Anh trang trọng cho tất cả các chủ ngữ trong câu điều kiện không có thật.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, ... would/could + động từ nguyên mẫu. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Thật tiếc là Lam không có ở đây. Nếu cậu ấy có mặt, cậu ấy sẽ biết phải làm gì.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence is a type 2 conditional sentence, which is used to talk about unreal or hypothetical situations in the present or future. The structure for type 2 conditional is: If + subject + past simple, subject + would/could + base verb. In this case, 'If he were here, he would know what to do.' means Lam is not here now, but if he were, he would know what to do.<br><ul><li><b>were / would know</b> (verb phrase): 'were' is the past simple form used in the if-clause for all subjects in formal English, and 'would know' is the correct form for the result clause in type 2 conditional.</li><li><b>is / will know</b> (verb phrase): 'is' and 'will know' are used in type 1 conditional, which talks about real or possible situations in the present or future, not hypothetical ones.</li><li><b>had been / would have known</b> (verb phrase): 'had been' and 'would have known' are used in type 3 conditional, which refers to unreal situations in the past.</li><li><b>was / would know</b> (verb phrase): 'was' is sometimes used informally instead of 'were' for the first and third person singular, but 'were' is the grammatically correct form in formal English for all subjects in unreal conditional sentences.</li></ul><b>Related structure or vocabulary:</b> Type 2 conditional: If + past simple, ... would/could + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57fa",
+        "questionNumber": 7,
+        "questionText": "If we _____ the plans carefully, we would not have had so many serious mistakes.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "study",
+            "raw": "A. study ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had studied",
+            "raw": "B. had studied",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "studied",
+            "raw": "C. studied ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were studying",
+            "raw": "D. were studying",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is a conditional sentence referring to an unreal past situation and its result. The structure for a third conditional is: If + past perfect, would have + past participle. This structure is used to talk about something that did not happen in the past and its possible result. In this sentence, the correct form after 'if' should be 'had studied' (past perfect).<br><ul><li><b>study</b> (verb (base form)): Base form of the verb, not correct for conditional sentences referring to the past.</li><li><b>had studied</b> (verb (past perfect)): Past perfect tense, correct form for the third conditional.</li><li><b>studied</b> (verb (simple past)): Simple past tense, not correct for this conditional structure.</li><li><b>were studying</b> (verb (past continuous)): Past continuous tense, not suitable for this conditional sentence.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là câu điều kiện loại 3, dùng để nói về một sự việc không có thật trong quá khứ và kết quả của nó. Cấu trúc của câu điều kiện loại 3 là: If + past perfect (quá khứ hoàn thành), would have + past participle (quá khứ phân từ). Trong câu này, sau 'if' cần dùng 'had studied' (quá khứ hoàn thành) mới đúng.<br><ul><li><b>study</b> (động từ (nguyên thể)): Động từ nguyên thể, không phù hợp với câu điều kiện nói về quá khứ.</li><li><b>had studied</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành, là dạng đúng cho câu điều kiện loại 3.</li><li><b>studied</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, không phù hợp với cấu trúc câu điều kiện loại 3.</li><li><b>were studying</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, không phù hợp với câu điều kiện này.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + quá khứ hoàn thành, would have + quá khứ phân từ. Dùng để nói về những tình huống không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Nếu chúng ta đã nghiên cứu các kế hoạch một cách cẩn thận, chúng ta đã không mắc nhiều sai lầm nghiêm trọng như vậy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is a conditional sentence referring to an unreal past situation and its result. The structure for a third conditional is: If + past perfect, would have + past participle. This structure is used to talk about something that did not happen in the past and its possible result. In this sentence, the correct form after 'if' should be 'had studied' (past perfect).<br><ul><li><b>study</b> (verb (base form)): Base form of the verb, not correct for conditional sentences referring to the past.</li><li><b>had studied</b> (verb (past perfect)): Past perfect tense, correct form for the third conditional.</li><li><b>studied</b> (verb (simple past)): Simple past tense, not correct for this conditional structure.</li><li><b>were studying</b> (verb (past continuous)): Past continuous tense, not suitable for this conditional sentence.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57fb",
+        "questionNumber": 8,
+        "questionText": "I will never talk to you again _____ you apologize me _____ your being rude.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "if / for",
+            "raw": "A. if / for ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "unless / for",
+            "raw": "B. unless / for",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "or / of",
+            "raw": "C. or / of ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "whether / or",
+            "raw": "D. whether / or ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence requires two words to fill in the blanks: one to introduce a condition and one to indicate the reason for apologizing. The correct structure is 'unless' (meaning 'if not') for the condition, and 'for' to indicate the reason for the apology. The phrase 'apologize for' is the correct collocation in English, meaning to say sorry for something.<br><ul><li><b>if / for</b> (conjunction / preposition): 'If' introduces a condition, and 'for' is used to indicate the reason for apologizing. However, 'if' would mean the speaker will talk again if the person apologizes, which is not as strong as 'unless', which means the speaker will not talk unless the apology happens.</li><li><b>unless / for</b> (conjunction / preposition): 'Unless' means 'if not', making the sentence: 'I will never talk to you again unless you apologize to me for your being rude.' 'For' is the correct preposition after 'apologize' to indicate the reason.</li><li><b>or / of</b> (conjunction / preposition): 'Or' is not used to introduce a condition in this context, and 'of' is not the correct preposition after 'apologize'.</li><li><b>whether / or</b> (conjunction): 'Whether...or' is used to show alternatives, not conditions, and does not fit the meaning of the sentence.</li></ul><b>Related structure or vocabulary:</b> unless = if not (conditional); apologize for + reason (collocation)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này cần điền hai từ: một từ để diễn đạt điều kiện và một từ để chỉ lý do xin lỗi. Cấu trúc đúng là 'unless' (nghĩa là 'nếu không') để diễn đạt điều kiện, và 'for' để chỉ lý do xin lỗi. Cụm từ 'apologize for' là cách dùng đúng trong tiếng Anh, nghĩa là xin lỗi vì điều gì đó.<br><ul><li><b>if / for</b> (liên từ / giới từ): 'If' dùng để đưa ra điều kiện, và 'for' dùng để chỉ lý do xin lỗi. Tuy nhiên, 'if' sẽ mang nghĩa là người nói sẽ nói chuyện lại nếu người kia xin lỗi, không mạnh bằng 'unless', nghĩa là người nói sẽ không nói chuyện lại trừ khi người kia xin lỗi.</li><li><b>unless / for</b> (liên từ / giới từ): 'Unless' nghĩa là 'nếu không', làm cho câu hoàn chỉnh: 'I will never talk to you again unless you apologize to me for your being rude.' 'For' là giới từ đúng sau 'apologize' để chỉ lý do.</li><li><b>or / of</b> (liên từ / giới từ): 'Or' không dùng để đưa ra điều kiện trong trường hợp này, và 'of' không phải là giới từ đúng sau 'apologize'.</li><li><b>whether / or</b> (liên từ): 'Whether...or' dùng để chỉ sự lựa chọn, không phải điều kiện, và không phù hợp với nghĩa của câu.</li></ul><b>Cấu trúc và từ vựng:</b> unless = nếu không (câu điều kiện); apologize for + lý do (cụm từ cố định)<br><br><b>Tạm dịch:</b> Tôi sẽ không bao giờ nói chuyện với bạn nữa trừ khi bạn xin lỗi tôi vì sự thô lỗ của bạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence requires two words to fill in the blanks: one to introduce a condition and one to indicate the reason for apologizing. The correct structure is 'unless' (meaning 'if not') for the condition, and 'for' to indicate the reason for the apology. The phrase 'apologize for' is the correct collocation in English, meaning to say sorry for something.<br><ul><li><b>if / for</b> (conjunction / preposition): 'If' introduces a condition, and 'for' is used to indicate the reason for apologizing. However, 'if' would mean the speaker will talk again if the person apologizes, which is not as strong as 'unless', which means the speaker will not talk unless the apology happens.</li><li><b>unless / for</b> (conjunction / preposition): 'Unless' means 'if not', making the sentence: 'I will never talk to you again unless you apologize to me for your being rude.' 'For' is the correct preposition after 'apologize' to indicate the reason.</li><li><b>or / of</b> (conjunction / preposition): 'Or' is not used to introduce a condition in this context, and 'of' is not the correct preposition after 'apologize'.</li><li><b>whether / or</b> (conjunction): 'Whether...or' is used to show alternatives, not conditions, and does not fit the meaning of the sentence.</li></ul><b>Related structure or vocabulary:</b> unless = if not (conditional); apologize for + reason (collocation)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57fc",
+        "questionNumber": 9,
+        "questionText": "_____ you work harder, you will be sacked.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Whether",
+            "raw": "A. Whether ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "If",
+            "raw": "B. If",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "However",
+            "raw": "C. However ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Unless",
+            "raw": "D. Unless",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_____ you work harder, you will be sacked.' requires a conjunction that introduces a condition. The sentence means that if you do not work harder, you will be fired. The correct conjunction to use here is 'Unless', which means 'if not'.<br><ul><li><b>Whether</b> (conjunction): Used to introduce alternatives or choices, not suitable for conditional sentences like this.</li><li><b>If</b> (conjunction): Used to introduce a condition, but in this sentence, 'Unless' is more appropriate because the sentence is negative in meaning.</li><li><b>However</b> (conjunction/adverb): Used to show contrast, not to introduce a condition.</li><li><b>Unless</b> (conjunction): Means 'if not'; used to introduce the only situation in which something will not happen.</li></ul><b>Related structure or vocabulary:</b> unless + clause: trừ khi, nếu không<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '_____ you work harder, you will be sacked.' cần một liên từ để diễn đạt điều kiện. Ý nghĩa của câu là nếu bạn không làm việc chăm chỉ hơn, bạn sẽ bị sa thải. Liên từ phù hợp nhất ở đây là 'Unless', mang nghĩa 'nếu không'.<br><ul><li><b>Whether</b> (liên từ): Dùng để đưa ra hai lựa chọn hoặc khả năng, không phù hợp với câu điều kiện như thế này.</li><li><b>If</b> (liên từ): Dùng để diễn đạt điều kiện, nhưng trong câu này, 'Unless' phù hợp hơn vì câu mang nghĩa phủ định.</li><li><b>However</b> (liên từ/trạng từ): Dùng để diễn đạt sự tương phản, không dùng để đưa ra điều kiện.</li><li><b>Unless</b> (liên từ): Có nghĩa là 'nếu không'; dùng để diễn đạt trường hợp duy nhất mà điều gì đó sẽ không xảy ra.</li></ul><b>Cấu trúc và từ vựng:</b> unless + mệnh đề: trừ khi, nếu không<br><br><b>Tạm dịch:</b> Nếu bạn không làm việc chăm chỉ hơn, bạn sẽ bị sa thải.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_____ you work harder, you will be sacked.' requires a conjunction that introduces a condition. The sentence means that if you do not work harder, you will be fired. The correct conjunction to use here is 'Unless', which means 'if not'.<br><ul><li><b>Whether</b> (conjunction): Used to introduce alternatives or choices, not suitable for conditional sentences like this.</li><li><b>If</b> (conjunction): Used to introduce a condition, but in this sentence, 'Unless' is more appropriate because the sentence is negative in meaning.</li><li><b>However</b> (conjunction/adverb): Used to show contrast, not to introduce a condition.</li><li><b>Unless</b> (conjunction): Means 'if not'; used to introduce the only situation in which something will not happen.</li></ul><b>Related structure or vocabulary:</b> unless + clause: trừ khi, nếu không<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57fe",
+        "questionNumber": 10,
+        "questionText": "We should do something to protect water from being polluted _____we will have nothing to drink in the future.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "if",
+            "raw": "A. if ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "whether",
+            "raw": "B. whether",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "or",
+            "raw": "C. or",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "unless",
+            "raw": "D. unless ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows a consequence or result. The sentence means: 'We should do something to protect water from being polluted _____ we will have nothing to drink in the future.' The correct conjunction here is 'or', which is used to present a negative consequence if the first action is not taken.<br><ul><li><b>if</b> (conjunction): Used to introduce a condition (nếu). It does not fit here because the sentence is not conditional but rather shows a consequence.</li><li><b>whether</b> (conjunction): Used to express a choice between alternatives (liệu có... hay không). It is not suitable here because the sentence does not present alternatives.</li><li><b>or</b> (conjunction): Used to show a negative result or consequence (hoặc là, nếu không thì). This fits the sentence, as it means: 'We should do something, otherwise we will have nothing to drink.'</li><li><b>unless</b> (conjunction): Means 'if not' (trừ khi). It is used to introduce the only situation in which something will not happen. It does not fit the structure of this sentence.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of result/consequence: 'or' is often used to show a negative result if the first clause is not fulfilled. Structure: Do something, or something bad will happen.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ chỉ kết quả hoặc hậu quả. Câu này có nghĩa: 'Chúng ta nên làm gì đó để bảo vệ nước khỏi bị ô nhiễm _____ chúng ta sẽ không có gì để uống trong tương lai.' Liên từ phù hợp ở đây là 'or', dùng để diễn tả hậu quả tiêu cực nếu hành động đầu tiên không được thực hiện.<br><ul><li><b>if</b> (liên từ): Dùng để giới thiệu một điều kiện (nếu). Không phù hợp ở đây vì câu này không phải là câu điều kiện mà là câu chỉ hậu quả.</li><li><b>whether</b> (liên từ): Dùng để diễn tả sự lựa chọn giữa các khả năng (liệu có... hay không). Không phù hợp vì câu này không đưa ra các lựa chọn.</li><li><b>or</b> (liên từ): Dùng để chỉ kết quả hoặc hậu quả tiêu cực (hoặc là, nếu không thì). Phù hợp với câu này vì mang nghĩa: 'Chúng ta nên làm gì đó, nếu không thì chúng ta sẽ không có gì để uống.'</li><li><b>unless</b> (liên từ): Có nghĩa là 'nếu không' (trừ khi). Dùng để giới thiệu tình huống duy nhất mà điều gì đó sẽ không xảy ra. Không phù hợp với cấu trúc câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ kết quả/hậu quả: 'or' thường dùng để chỉ hậu quả tiêu cực nếu mệnh đề đầu không được thực hiện. Cấu trúc: Làm gì đó, hoặc là điều xấu sẽ xảy ra.<br><br><b>Tạm dịch:</b> Chúng ta nên làm gì đó để bảo vệ nước khỏi bị ô nhiễm, nếu không thì chúng ta sẽ không có gì để uống trong tương lai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows a consequence or result. The sentence means: 'We should do something to protect water from being polluted _____ we will have nothing to drink in the future.' The correct conjunction here is 'or', which is used to present a negative consequence if the first action is not taken.<br><ul><li><b>if</b> (conjunction): Used to introduce a condition (nếu). It does not fit here because the sentence is not conditional but rather shows a consequence.</li><li><b>whether</b> (conjunction): Used to express a choice between alternatives (liệu có... hay không). It is not suitable here because the sentence does not present alternatives.</li><li><b>or</b> (conjunction): Used to show a negative result or consequence (hoặc là, nếu không thì). This fits the sentence, as it means: 'We should do something, otherwise we will have nothing to drink.'</li><li><b>unless</b> (conjunction): Means 'if not' (trừ khi). It is used to introduce the only situation in which something will not happen. It does not fit the structure of this sentence.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of result/consequence: 'or' is often used to show a negative result if the first clause is not fulfilled. Structure: Do something, or something bad will happen.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb57ff",
+        "questionNumber": 11,
+        "questionText": "Unless we _____ more snow, we can’t go skiing.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will have",
+            "raw": "A. will have ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have",
+            "raw": "B. have",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "have had",
+            "raw": "C. have had ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had",
+            "raw": "D. had",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Unless we _____ more snow, we can’t go skiing.' uses 'unless', which means 'if not'. The verb after 'unless' should be in the present simple tense to talk about a real possibility in the future. The correct verb form is 'have' (present simple).<br><ul><li><b>will have</b> (verb (future simple)): 'Will have' is the future simple tense. After 'unless', we do not use 'will' in the conditional clause.</li><li><b>have</b> (verb (present simple)): 'Have' is the present simple tense, which is correct after 'unless' to talk about a real condition.</li><li><b>have had</b> (verb (present perfect)): 'Have had' is the present perfect tense, which is not used after 'unless' for this type of real condition.</li><li><b>had</b> (verb (past simple)): 'Had' is the past simple tense, which is not suitable here because the sentence is about a future possibility.</li></ul><b>Related structure or vocabulary:</b> Unless + present simple, ... (to talk about real future conditions). 'Unless' means 'if not'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Unless we _____ more snow, we can’t go skiing.' sử dụng 'unless', nghĩa là 'nếu không'. Động từ sau 'unless' nên ở thì hiện tại đơn để nói về một khả năng thực tế trong tương lai. Dạng động từ đúng là 'have' (hiện tại đơn).<br><ul><li><b>will have</b> (động từ (tương lai đơn)): 'Will have' là thì tương lai đơn. Sau 'unless', không dùng 'will' trong mệnh đề điều kiện.</li><li><b>have</b> (động từ (hiện tại đơn)): 'Have' là thì hiện tại đơn, phù hợp sau 'unless' để nói về điều kiện thực tế.</li><li><b>have had</b> (động từ (hiện tại hoàn thành)): 'Have had' là thì hiện tại hoàn thành, không dùng sau 'unless' cho loại điều kiện này.</li><li><b>had</b> (động từ (quá khứ đơn)): 'Had' là thì quá khứ đơn, không phù hợp vì câu nói về khả năng trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Unless + hiện tại đơn, ... (dùng để nói về điều kiện thực tế trong tương lai). 'Unless' nghĩa là 'nếu không'.<br><br><b>Tạm dịch:</b> Trừ khi chúng ta có thêm tuyết, chúng ta không thể đi trượt tuyết.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Unless we _____ more snow, we can’t go skiing.' uses 'unless', which means 'if not'. The verb after 'unless' should be in the present simple tense to talk about a real possibility in the future. The correct verb form is 'have' (present simple).<br><ul><li><b>will have</b> (verb (future simple)): 'Will have' is the future simple tense. After 'unless', we do not use 'will' in the conditional clause.</li><li><b>have</b> (verb (present simple)): 'Have' is the present simple tense, which is correct after 'unless' to talk about a real condition.</li><li><b>have had</b> (verb (present perfect)): 'Have had' is the present perfect tense, which is not used after 'unless' for this type of real condition.</li><li><b>had</b> (verb (past simple)): 'Had' is the past simple tense, which is not suitable here because the sentence is about a future possibility.</li></ul><b>Related structure or vocabulary:</b> Unless + present simple, ... (to talk about real future conditions). 'Unless' means 'if not'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb5800",
+        "questionNumber": 12,
+        "questionText": "You’ll fail the exam _____ you start revising.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "if",
+            "raw": "A. if ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "until",
+            "raw": "B. until",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "when",
+            "raw": "C. when ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "unless",
+            "raw": "D. unless",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that expresses a condition. The sentence means: 'You will fail the exam if you do not start revising.' The correct conjunction to use here is 'unless', which means 'if not'. So, the sentence should read: 'You’ll fail the exam unless you start revising.'<br><ul><li><b>if</b> (conjunction): Used to introduce a condition. Example: 'If you study, you will pass.'</li><li><b>until</b> (conjunction/preposition): Means 'up to the time that'. Not suitable here because it does not express a condition.</li><li><b>when</b> (conjunction): Used to refer to the time something happens. Not suitable for expressing a negative condition.</li><li><b>unless</b> (conjunction): Means 'if not'. Used to express a negative condition. Correct choice for this sentence.</li></ul><b>Related structure or vocabulary:</b> unless = if not (trong câu điều kiện loại 1); cấu trúc: Unless + S + V, S + will + V (bare infinitive)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ diễn đạt điều kiện. Ý nghĩa của câu là: 'Bạn sẽ trượt kỳ thi nếu bạn không bắt đầu ôn tập.' Liên từ phù hợp nhất ở đây là 'unless', mang nghĩa 'nếu không'. Vì vậy, câu hoàn chỉnh sẽ là: 'You’ll fail the exam unless you start revising.'<br><ul><li><b>if</b> (liên từ): Dùng để đưa ra điều kiện. Ví dụ: 'If you study, you will pass.'</li><li><b>until</b> (liên từ/giới từ): Có nghĩa là 'cho đến khi'. Không phù hợp vì không diễn đạt điều kiện.</li><li><b>when</b> (liên từ): Dùng để chỉ thời điểm xảy ra sự việc. Không phù hợp để diễn đạt điều kiện phủ định.</li><li><b>unless</b> (liên từ): Có nghĩa là 'nếu không'. Dùng để diễn đạt điều kiện phủ định. Đây là đáp án đúng cho câu này.</li></ul><b>Cấu trúc và từ vựng:</b> unless = if not (trong câu điều kiện loại 1); cấu trúc: Unless + S + V, S + will + V (nguyên thể không to)<br><br><b>Tạm dịch:</b> Bạn sẽ trượt kỳ thi nếu bạn không bắt đầu ôn tập.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that expresses a condition. The sentence means: 'You will fail the exam if you do not start revising.' The correct conjunction to use here is 'unless', which means 'if not'. So, the sentence should read: 'You’ll fail the exam unless you start revising.'<br><ul><li><b>if</b> (conjunction): Used to introduce a condition. Example: 'If you study, you will pass.'</li><li><b>until</b> (conjunction/preposition): Means 'up to the time that'. Not suitable here because it does not express a condition.</li><li><b>when</b> (conjunction): Used to refer to the time something happens. Not suitable for expressing a negative condition.</li><li><b>unless</b> (conjunction): Means 'if not'. Used to express a negative condition. Correct choice for this sentence.</li></ul><b>Related structure or vocabulary:</b> unless = if not (trong câu điều kiện loại 1); cấu trúc: Unless + S + V, S + will + V (bare infinitive)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb5801",
+        "questionNumber": 13,
+        "questionText": "Unless you wash the car, you _____ not drive it at the weekend.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would",
+            "raw": "A. would ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "could",
+            "raw": "B. could",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have to",
+            "raw": "C. have to",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "may",
+            "raw": "D. may",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a modal verb to express permission or possibility. The sentence is a conditional sentence (unless = if not), and the structure is: 'Unless you wash the car, you _____ not drive it at the weekend.' The correct modal verb here is 'may,' which is used to give or deny permission. So, the sentence means: If you don't wash the car, you are not allowed to drive it at the weekend.<br><ul><li><b>would</b> (modal verb): 'Would' is used for hypothetical situations or polite requests, not for giving or denying permission.</li><li><b>could</b> (modal verb): 'Could' expresses ability or possibility, but not permission in this context.</li><li><b>have to</b> (modal verb phrase): 'Have to' expresses obligation or necessity, not permission.</li><li><b>may</b> (modal verb): 'May' is used to express permission or possibility. In negative form ('may not'), it means 'not allowed.'</li></ul><b>Related structure or vocabulary:</b> Modal verbs for permission: may/may not, can/cannot. Conditional sentences with 'unless' (meaning 'if not').<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một động từ khuyết thiếu (modal verb) để diễn đạt sự cho phép hoặc khả năng. Câu này là câu điều kiện (unless = nếu không), cấu trúc: 'Unless you wash the car, you _____ not drive it at the weekend.' Động từ khuyết thiếu phù hợp ở đây là 'may', dùng để cho phép hoặc không cho phép ai đó làm gì. Như vậy, câu này có nghĩa: Nếu bạn không rửa xe, bạn sẽ không được phép lái xe vào cuối tuần.<br><ul><li><b>would</b> (động từ khuyết thiếu): 'Would' dùng cho các tình huống giả định hoặc yêu cầu lịch sự, không dùng để cho phép hoặc không cho phép.</li><li><b>could</b> (động từ khuyết thiếu): 'Could' diễn tả khả năng hoặc sự cho phép trong quá khứ, nhưng không phù hợp để diễn đạt sự cho phép ở hiện tại trong trường hợp này.</li><li><b>have to</b> (cụm động từ khuyết thiếu): 'Have to' diễn tả sự bắt buộc hoặc cần thiết, không phải sự cho phép.</li><li><b>may</b> (động từ khuyết thiếu): 'May' dùng để diễn tả sự cho phép hoặc khả năng. Ở dạng phủ định ('may not'), nghĩa là 'không được phép'.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu diễn tả sự cho phép: may/may not, can/cannot. Câu điều kiện với 'unless' (nghĩa là 'nếu không').<br><br><b>Tạm dịch:</b> Nếu bạn không rửa xe, bạn sẽ không được phép lái xe vào cuối tuần.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a modal verb to express permission or possibility. The sentence is a conditional sentence (unless = if not), and the structure is: 'Unless you wash the car, you _____ not drive it at the weekend.' The correct modal verb here is 'may,' which is used to give or deny permission. So, the sentence means: If you don't wash the car, you are not allowed to drive it at the weekend.<br><ul><li><b>would</b> (modal verb): 'Would' is used for hypothetical situations or polite requests, not for giving or denying permission.</li><li><b>could</b> (modal verb): 'Could' expresses ability or possibility, but not permission in this context.</li><li><b>have to</b> (modal verb phrase): 'Have to' expresses obligation or necessity, not permission.</li><li><b>may</b> (modal verb): 'May' is used to express permission or possibility. In negative form ('may not'), it means 'not allowed.'</li></ul><b>Related structure or vocabulary:</b> Modal verbs for permission: may/may not, can/cannot. Conditional sentences with 'unless' (meaning 'if not').<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "622491ee83f28145bcbb5802",
+        "questionNumber": 14,
+        "questionText": "If Peter _____ his car before the drive, he _____ the problem of out of petrol.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "checked / will not get",
+            "raw": "A. checked / will not get ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had checked / would not have got",
+            "raw": "B. had checked / would not have got",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "checks /will not have got",
+            "raw": "C. checks /will not have got ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "would be checking / will not have got",
+            "raw": "D. would be checking / will not have got ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence describes a hypothetical situation in the past and its possible result. The correct structure for this type of conditional sentence (third conditional) is: If + past perfect, would have + past participle. This is used to talk about something that did not happen in the past and its imagined result.<br><ul><li><b>checked / will not get</b> (Verb Tenses): This uses the simple past and future simple, which is incorrect for a past unreal conditional.</li><li><b>had checked / would not have got</b> (Verb Tenses): This uses the past perfect in the if-clause and 'would not have got' in the main clause, which is the correct structure for the third conditional.</li><li><b>checks / will not have got</b> (Verb Tenses): This uses the present simple and future perfect, which is not suitable for a past hypothetical situation.</li><li><b>would be checking / will not have got</b> (Verb Tenses): This uses the conditional continuous and future perfect, which is not correct for any standard conditional structure.</li></ul><b>Related structure or vocabulary:</b> Third Conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này mô tả một tình huống giả định trong quá khứ và kết quả có thể xảy ra. Cấu trúc đúng cho loại câu điều kiện này (câu điều kiện loại 3) là: If + quá khứ hoàn thành, would have + quá khứ phân từ. Cấu trúc này dùng để nói về điều không xảy ra trong quá khứ và kết quả tưởng tượng của nó.<br><ul><li><b>checked / will not get</b> (Thì động từ): Sử dụng thì quá khứ đơn và tương lai đơn, không đúng với câu điều kiện loại 3 (giả định quá khứ).</li><li><b>had checked / would not have got</b> (Thì động từ): Sử dụng thì quá khứ hoàn thành ở mệnh đề if và 'would not have got' ở mệnh đề chính, đúng với cấu trúc câu điều kiện loại 3.</li><li><b>checks / will not have got</b> (Thì động từ): Sử dụng thì hiện tại đơn và tương lai hoàn thành, không phù hợp với tình huống giả định trong quá khứ.</li><li><b>would be checking / will not have got</b> (Thì động từ): Sử dụng điều kiện tiếp diễn và tương lai hoàn thành, không đúng với bất kỳ cấu trúc câu điều kiện tiêu chuẩn nào.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + quá khứ hoàn thành, would have + quá khứ phân từ. Dùng để nói về những tình huống không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Nếu Peter kiểm tra xe trước khi lái, anh ấy đã không gặp phải vấn đề hết xăng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence describes a hypothetical situation in the past and its possible result. The correct structure for this type of conditional sentence (third conditional) is: If + past perfect, would have + past participle. This is used to talk about something that did not happen in the past and its imagined result.<br><ul><li><b>checked / will not get</b> (Verb Tenses): This uses the simple past and future simple, which is incorrect for a past unreal conditional.</li><li><b>had checked / would not have got</b> (Verb Tenses): This uses the past perfect in the if-clause and 'would not have got' in the main clause, which is the correct structure for the third conditional.</li><li><b>checks / will not have got</b> (Verb Tenses): This uses the present simple and future perfect, which is not suitable for a past hypothetical situation.</li><li><b>would be checking / will not have got</b> (Verb Tenses): This uses the conditional continuous and future perfect, which is not correct for any standard conditional structure.</li></ul><b>Related structure or vocabulary:</b> Third Conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>"
+      }
+    }
+  ]
+}

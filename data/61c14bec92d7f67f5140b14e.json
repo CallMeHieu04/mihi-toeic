@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b14e",
+  "title": "Từ vựng: Events",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d0",
+        "questionNumber": 1,
+        "questionText": "assist",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev409.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assist.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to give help or support to",
+            "raw": "to give help or support to",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Bonnie hired a secretary to <strong>assist </strong>her with the many details of the event.</p>\n",
+        "explanationViHtml": "<p>Bonnie đ&atilde; thu&ecirc; một thư k&yacute; để <strong>hỗ trợ </strong>c&ocirc; ấy ghi ch&eacute;p nhiều chi tiết của sự kiện.</p>\n",
+        "transcriptHtml": "<p>Bonnie hired a secretary to <strong>assist </strong>her with the many details of the event.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d1",
+        "questionNumber": 2,
+        "questionText": "coordinate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev410.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/coordinate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to adjust or arrange parts to work together",
+            "raw": "to adjust or arrange parts to work together",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Benet tried to <strong>coordinate </strong>all departments to make sure the event ran smoothly.</p>\n",
+        "explanationViHtml": "<p>Benet đ&atilde; cố gắng <strong>phối hợp</strong> tất cả c&aacute;c ph&ograve;ng ban để đảm bảo sự kiện diễn ra su&ocirc;n sẻ.</p>\n",
+        "transcriptHtml": "<p>Benet tried to <strong>coordinate </strong>all departments to make sure the event ran smoothly.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d2",
+        "questionNumber": 3,
+        "questionText": "dimension",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev411.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/dimension.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "measure of width height or length",
+            "raw": "a measure of width height or length",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>What are the <strong>dimensions </strong>of the ballroom?</p>\n",
+        "explanationViHtml": "<p><strong>K&iacute;ch thước</strong> của ph&ograve;ng khi&ecirc;u vũ l&agrave; bao nhi&ecirc;u?</p>\n",
+        "transcriptHtml": "<p>What are the <strong>dimensions </strong>of the ballroom?</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d3",
+        "questionNumber": 4,
+        "questionText": "exact",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev412.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/exact.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "haracterized by accurate measurements or inferences",
+            "raw": "characterized by accurate measurements or inferences",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>We will need an <strong>exact </strong>headcount by noon tomorrow.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i cần số lượng người <strong>ch&iacute;nh x&aacute;c</strong> v&agrave;o trưa ng&agrave;y mai.</p>\n",
+        "transcriptHtml": "<p>We will need an <strong>exact </strong>headcount by noon tomorrow.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d4",
+        "questionNumber": 5,
+        "questionText": "general",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev413.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/general.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "involving only the main features rather than precise details",
+            "raw": "involving only the main features rather than precise details",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We have a <strong>general </strong>idea of how many guests will attend.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i c&oacute; &yacute; tưởng <strong>chung </strong>về số lượng kh&aacute;ch sẽ tham dự.</p>\n",
+        "transcriptHtml": "<p>We have a <strong>general </strong>idea of how many guests will attend.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d5",
+        "questionNumber": 6,
+        "questionText": "ideally",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev414.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ideally.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "perfectly; conforming to an ideal",
+            "raw": "perfectly; conforming to an ideal",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>She&#39;s&nbsp;<strong>ideally </strong>suited&nbsp;for this job.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; ấy l&agrave; người <strong>l&yacute; tưởng</strong> nhất cho c&ocirc;ng việc n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>She&#39;s&nbsp;<strong>ideally </strong>suited&nbsp;for this job.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d6",
+        "questionNumber": 7,
+        "questionText": "lead time",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev415.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/lead time.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the time between the initial stage of a project and the appearance of results",
+            "raw": "the time between the initial stage of a project and the appearance of results",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>lead time</strong> for reservations is unrealistic.</p>\n",
+        "explanationViHtml": "<p><strong>Thời gian chờ</strong> đặt chỗ kh&ocirc;ng thực tế.</p>\n",
+        "transcriptHtml": "<p>The <strong>lead time</strong> for reservations is unrealistic.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d7",
+        "questionNumber": 8,
+        "questionText": "plan",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev416.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/plan.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "scheme for making something happen; to formulate a scheme",
+            "raw": "a scheme for making something happen; to formulate a scheme",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>plan </strong>is to gather tomorrow to discuss the menu.</p>\n",
+        "explanationViHtml": "<p><strong>Kế hoạch</strong> l&agrave; họp lại v&agrave;o ng&agrave;y mai để thảo luận về thực đơn.</p>\n",
+        "transcriptHtml": "<p>The <strong>plan </strong>is to gather tomorrow to discuss the menu.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d8",
+        "questionNumber": 9,
+        "questionText": "proximity",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev417.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/proximity.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the state, quality, sense, or fact of being near or next to; closeness",
+            "raw": "the state, quality, sense, or fact of being near or next to; closeness",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The fans were worried by the <strong>proximity </strong>of the storm clouds.</p>\n",
+        "explanationViHtml": "<p>Người h&acirc;m mộ lo lắng v&igrave; đ&aacute;m m&acirc;y gi&ocirc;ng đang đến <strong>gần</strong>.</p>\n",
+        "transcriptHtml": "<p>The fans were worried by the <strong>proximity </strong>of the storm clouds.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2d9",
+        "questionNumber": 10,
+        "questionText": "regulate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev418.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/regulate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to control",
+            "raw": "to control",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The activities of credit companies are <strong>regulated </strong>by law.</p>\n",
+        "explanationViHtml": "<p>Hoạt động của c&ocirc;ng ty t&iacute;n dụng được <strong>điều chỉnh</strong> bởi ph&aacute;p luật.</p>\n",
+        "transcriptHtml": "<p>The activities of credit companies are <strong>regulated </strong>by law.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2da",
+        "questionNumber": 11,
+        "questionText": "site",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev419.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/site.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "place or setting",
+            "raw": "a place or setting",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Once we saw the <strong>site </strong>we knew it would be perfect for the event.</p>\n",
+        "explanationViHtml": "<p>Khi nh&igrave;n thấy <strong>địa điểm</strong> n&agrave;y, ch&uacute;ng t&ocirc;i biết đ&acirc;y sẽ l&agrave; nơi ho&agrave;n hảo để tổ chức sự kiện.</p>\n",
+        "transcriptHtml": "<p>Once we saw the <strong>site </strong>we knew it would be perfect for the event.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2db",
+        "questionNumber": 12,
+        "questionText": "stage",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev420.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/stage.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to organize and present a play or an event for people to see",
+            "raw": " to organize and present a play or an event for people to see",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The local theatre group is <strong>staging </strong>a production of &lsquo;Hamlet&rsquo;.</p>\n",
+        "explanationViHtml": "<p>Đo&agrave;n kịch địa phương đang <strong>d&agrave;n dựng</strong> vở kịch &quot;Hamlet&quot;.</p>\n",
+        "transcriptHtml": "<p>The local theatre group is <strong>staging </strong>a production of &lsquo;Hamlet&rsquo;.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b2d0",
+      "word": "assist",
+      "phonetic": "/əˈsɪst/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev409.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assist.mp3",
+      "meaningVi": "hỗ trợ",
+      "meaningEn": "to give help or support to",
+      "exampleEnHtml": "<p>Bonnie hired a secretary to <strong>assist </strong>her with the many details of the event.</p>\n",
+      "exampleViHtml": "<p>Bonnie đ&atilde; thu&ecirc; một thư k&yacute; để <strong>hỗ trợ </strong>c&ocirc; ấy ghi ch&eacute;p nhiều chi tiết của sự kiện.</p>\n",
+      "exampleEn": "Bonnie hired a secretary to assist her with the many details of the event.",
+      "exampleVi": "Bonnie đã thuê một thư ký để hỗ trợ cô ấy ghi chép nhiều chi tiết của sự kiện."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d1",
+      "word": "coordinate",
+      "phonetic": "/koʊˈɔːrdɪneɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev410.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/coordinate.mp3",
+      "meaningVi": "phối hợp",
+      "meaningEn": "to adjust or arrange parts to work together",
+      "exampleEnHtml": "<p>Benet tried to <strong>coordinate </strong>all departments to make sure the event ran smoothly.</p>\n",
+      "exampleViHtml": "<p>Benet đ&atilde; cố gắng <strong>phối hợp</strong> tất cả c&aacute;c ph&ograve;ng ban để đảm bảo sự kiện diễn ra su&ocirc;n sẻ.</p>\n",
+      "exampleEn": "Benet tried to coordinate all departments to make sure the event ran smoothly.",
+      "exampleVi": "Benet đã cố gắng phối hợp tất cả các phòng ban để đảm bảo sự kiện diễn ra suôn sẻ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d2",
+      "word": "dimension",
+      "phonetic": "/daɪˈmenʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev411.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/dimension.mp3",
+      "meaningVi": "Kích thước",
+      "meaningEn": "a measure of width height or length",
+      "exampleEnHtml": "<p>What are the <strong>dimensions </strong>of the ballroom?</p>\n",
+      "exampleViHtml": "<p><strong>K&iacute;ch thước</strong> của ph&ograve;ng khi&ecirc;u vũ l&agrave; bao nhi&ecirc;u?</p>\n",
+      "exampleEn": "What are the dimensions of the ballroom?",
+      "exampleVi": "Kích thước của phòng khiêu vũ là bao nhiêu?"
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d3",
+      "word": "exact",
+      "phonetic": "/ɪɡˈzækt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev412.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/exact.mp3",
+      "meaningVi": "chính xác",
+      "meaningEn": "characterized by accurate measurements or inferences",
+      "exampleEnHtml": "<p>We will need an <strong>exact </strong>headcount by noon tomorrow.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i cần số lượng người <strong>ch&iacute;nh x&aacute;c</strong> v&agrave;o trưa ng&agrave;y mai.</p>\n",
+      "exampleEn": "We will need an exact headcount by noon tomorrow.",
+      "exampleVi": "Chúng tôi cần số lượng người chính xác vào trưa ngày mai."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d4",
+      "word": "general",
+      "phonetic": "/ˈdʒenrəl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev413.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/general.mp3",
+      "meaningVi": "chung",
+      "meaningEn": "involving only the main features rather than precise details",
+      "exampleEnHtml": "<p>We have a <strong>general </strong>idea of how many guests will attend.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i c&oacute; &yacute; tưởng <strong>chung </strong>về số lượng kh&aacute;ch sẽ tham dự.</p>\n",
+      "exampleEn": "We have a general idea of how many guests will attend.",
+      "exampleVi": "Chúng tôi có ý tưởng chung về số lượng khách sẽ tham dự."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d5",
+      "word": "ideally",
+      "phonetic": "/aɪˈdiːəli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev414.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ideally.mp3",
+      "meaningVi": "lý tưởng",
+      "meaningEn": "perfectly; conforming to an ideal",
+      "exampleEnHtml": "<p>She&#39;s&nbsp;<strong>ideally </strong>suited&nbsp;for this job.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; ấy l&agrave; người <strong>l&yacute; tưởng</strong> nhất cho c&ocirc;ng việc n&agrave;y.</p>\n",
+      "exampleEn": "She's ideally suited for this job.",
+      "exampleVi": "Cô ấy là người lý tưởng nhất cho công việc này."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d6",
+      "word": "lead time",
+      "phonetic": "/ˈliːd taɪm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev415.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/lead time.mp3",
+      "meaningVi": "Thời gian chờ",
+      "meaningEn": "the time between the initial stage of a project and the appearance of results",
+      "exampleEnHtml": "<p>The <strong>lead time</strong> for reservations is unrealistic.</p>\n",
+      "exampleViHtml": "<p><strong>Thời gian chờ</strong> đặt chỗ kh&ocirc;ng thực tế.</p>\n",
+      "exampleEn": "The lead time for reservations is unrealistic.",
+      "exampleVi": "Thời gian chờ đặt chỗ không thực tế."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d7",
+      "word": "plan",
+      "phonetic": "/plæn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev416.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/plan.mp3",
+      "meaningVi": "Kế hoạch",
+      "meaningEn": "a scheme for making something happen; to formulate a scheme",
+      "exampleEnHtml": "<p>The <strong>plan </strong>is to gather tomorrow to discuss the menu.</p>\n",
+      "exampleViHtml": "<p><strong>Kế hoạch</strong> l&agrave; họp lại v&agrave;o ng&agrave;y mai để thảo luận về thực đơn.</p>\n",
+      "exampleEn": "The plan is to gather tomorrow to discuss the menu.",
+      "exampleVi": "Kế hoạch là họp lại vào ngày mai để thảo luận về thực đơn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d8",
+      "word": "proximity",
+      "phonetic": "/prɑːkˈsɪməti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev417.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/proximity.mp3",
+      "meaningVi": "gần",
+      "meaningEn": "the state, quality, sense, or fact of being near or next to; closeness",
+      "exampleEnHtml": "<p>The fans were worried by the <strong>proximity </strong>of the storm clouds.</p>\n",
+      "exampleViHtml": "<p>Người h&acirc;m mộ lo lắng v&igrave; đ&aacute;m m&acirc;y gi&ocirc;ng đang đến <strong>gần</strong>.</p>\n",
+      "exampleEn": "The fans were worried by the proximity of the storm clouds.",
+      "exampleVi": "Người hâm mộ lo lắng vì đám mây giông đang đến gần."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2d9",
+      "word": "regulate",
+      "phonetic": "/ˈreɡjuleɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev418.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/regulate.mp3",
+      "meaningVi": "điều chỉnh",
+      "meaningEn": "to control",
+      "exampleEnHtml": "<p>The activities of credit companies are <strong>regulated </strong>by law.</p>\n",
+      "exampleViHtml": "<p>Hoạt động của c&ocirc;ng ty t&iacute;n dụng được <strong>điều chỉnh</strong> bởi ph&aacute;p luật.</p>\n",
+      "exampleEn": "The activities of credit companies are regulated by law.",
+      "exampleVi": "Hoạt động của công ty tín dụng được điều chỉnh bởi pháp luật."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2da",
+      "word": "site",
+      "phonetic": "/saɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev419.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/site.mp3",
+      "meaningVi": "địa điểm",
+      "meaningEn": "a place or setting",
+      "exampleEnHtml": "<p>Once we saw the <strong>site </strong>we knew it would be perfect for the event.</p>\n",
+      "exampleViHtml": "<p>Khi nh&igrave;n thấy <strong>địa điểm</strong> n&agrave;y, ch&uacute;ng t&ocirc;i biết đ&acirc;y sẽ l&agrave; nơi ho&agrave;n hảo để tổ chức sự kiện.</p>\n",
+      "exampleEn": "Once we saw the site we knew it would be perfect for the event.",
+      "exampleVi": "Khi nhìn thấy địa điểm này, chúng tôi biết đây sẽ là nơi hoàn hảo để tổ chức sự kiện."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2db",
+      "word": "stage",
+      "phonetic": "/steɪdʒ/ (v)",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev420.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/stage.mp3",
+      "meaningVi": "dàn dựng",
+      "meaningEn": " to organize and present a play or an event for people to see",
+      "exampleEnHtml": "<p>The local theatre group is <strong>staging </strong>a production of &lsquo;Hamlet&rsquo;.</p>\n",
+      "exampleViHtml": "<p>Đo&agrave;n kịch địa phương đang <strong>d&agrave;n dựng</strong> vở kịch &quot;Hamlet&quot;.</p>\n",
+      "exampleEn": "The local theatre group is staging a production of ‘Hamlet’.",
+      "exampleVi": "Đoàn kịch địa phương đang dàn dựng vở kịch \"Hamlet\"."
+    }
+  ],
+  "totalFlashcards": 12
+}

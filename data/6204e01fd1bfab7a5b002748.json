@@ -1,0 +1,848 @@
+{
+  "topicId": "6204e01fd1bfab7a5b002748",
+  "title": "PAST CONTINUOUS TENSE - Practice 5",
+  "totalCards": 21,
+  "totalQuestions": 21,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002809",
+        "questionNumber": 1,
+        "questionText": "They _________ when you _________ for remote control.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "aren't listening / were asking",
+            "raw": "A. aren't listening / were asking",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "weren't listening / were asking",
+            "raw": "B. weren't listening / were asking",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "weren't listening / asked",
+            "raw": "C. weren't listening / asked",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "listened / asked",
+            "raw": "D. listened / asked",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They _________ when you _________ for remote control.' describes an action that was happening when another action occurred in the past. In English, we use the past continuous tense (was/were + V-ing) for the ongoing action and the simple past tense (V2/ed) for the action that interrupts or happens during the ongoing action.<br><ul><li><b>aren't listening / were asking</b> (Verb Tense): 'aren't listening' is present continuous, which is incorrect because the sentence refers to a past event.</li><li><b>weren't listening / were asking</b> (Verb Tense): 'weren't listening' is past continuous, and 'were asking' is also past continuous. This structure is possible if both actions were happening at the same time in the past.</li><li><b>weren't listening / asked</b> (Verb Tense): 'weren't listening' is past continuous (ongoing action), and 'asked' is simple past (the action that happened during the ongoing action). This matches the typical structure: past continuous + when + simple past.</li><li><b>listened / asked</b> (Verb Tense): Both verbs are in the simple past tense. This would be used if the actions happened one after another, not if one was ongoing.</li></ul><b>Related structure or vocabulary:</b> Past continuous + when + simple past: Used to describe an action in progress in the past that is interrupted by another action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They _________ when you _________ for remote control.' mô tả một hành động đang diễn ra thì có một hành động khác xen vào trong quá khứ. Trong tiếng Anh, ta dùng thì quá khứ tiếp diễn (was/were + V-ing) cho hành động đang diễn ra và thì quá khứ đơn (V2/ed) cho hành động xen vào.<br><ul><li><b>aren't listening / were asking</b> (Thì động từ): 'aren't listening' là thì hiện tại tiếp diễn, không phù hợp vì câu nói về sự việc trong quá khứ.</li><li><b>weren't listening / were asking</b> (Thì động từ): 'weren't listening' là quá khứ tiếp diễn, 'were asking' cũng là quá khứ tiếp diễn. Cấu trúc này dùng khi cả hai hành động cùng diễn ra song song trong quá khứ.</li><li><b>weren't listening / asked</b> (Thì động từ): 'weren't listening' là quá khứ tiếp diễn (hành động đang diễn ra), 'asked' là quá khứ đơn (hành động xen vào). Đây là cấu trúc thường dùng: quá khứ tiếp diễn + when + quá khứ đơn.</li><li><b>listened / asked</b> (Thì động từ): Cả hai động từ đều ở thì quá khứ đơn. Cấu trúc này dùng khi hai hành động xảy ra liên tiếp, không phải một hành động đang diễn ra thì có hành động khác xen vào.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: Quá khứ tiếp diễn + when + quá khứ đơn: Dùng để diễn tả một hành động đang diễn ra thì có hành động khác xen vào.<br><br><b>Tạm dịch:</b> Họ đã không lắng nghe khi bạn hỏi xin điều khiển từ xa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They _________ when you _________ for remote control.' describes an action that was happening when another action occurred in the past. In English, we use the past continuous tense (was/were + V-ing) for the ongoing action and the simple past tense (V2/ed) for the action that interrupts or happens during the ongoing action.<br><ul><li><b>aren't listening / were asking</b> (Verb Tense): 'aren't listening' is present continuous, which is incorrect because the sentence refers to a past event.</li><li><b>weren't listening / were asking</b> (Verb Tense): 'weren't listening' is past continuous, and 'were asking' is also past continuous. This structure is possible if both actions were happening at the same time in the past.</li><li><b>weren't listening / asked</b> (Verb Tense): 'weren't listening' is past continuous (ongoing action), and 'asked' is simple past (the action that happened during the ongoing action). This matches the typical structure: past continuous + when + simple past.</li><li><b>listened / asked</b> (Verb Tense): Both verbs are in the simple past tense. This would be used if the actions happened one after another, not if one was ongoing.</li></ul><b>Related structure or vocabulary:</b> Past continuous + when + simple past: Used to describe an action in progress in the past that is interrupted by another action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00280a",
+        "questionNumber": 2,
+        "questionText": "______ you __________ anything when I ______ you?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Are / doing / called",
+            "raw": "A. Are / doing / called",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Were / doing / calling",
+            "raw": "B. Were / doing / calling",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Did / do / was calling",
+            "raw": "C. Did / do / was calling",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Were / doing / called",
+            "raw": "D. Were / doing / called",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question is testing your knowledge of past continuous and past simple tenses. The correct structure for this type of question is: 'Were you doing anything when I called you?' because we use the past continuous ('were doing') to describe an action that was in progress at a specific moment in the past, and the past simple ('called') for the action that interrupted it.<br><ul><li><b>Are / doing / called</b> (verb forms): 'Are' is present tense, which is incorrect for a past event. 'Doing' is present participle, but the tense is wrong. 'Called' is past simple, which is correct for the second action.</li><li><b>Were / doing / calling</b> (verb forms): 'Were' is correct for past continuous, 'doing' is correct, but 'calling' is present participle, not past simple. The correct form should be 'called'.</li><li><b>Did / do / was calling</b> (verb forms): 'Did' is past simple, but we need past continuous. 'Do' is base form, which is incorrect. 'Was calling' is past continuous, but the structure is reversed.</li><li><b>Were / doing / called</b> (verb forms): 'Were' is correct for past continuous, 'doing' is correct, and 'called' is past simple, which fits the structure: past continuous (action in progress) + past simple (interrupting action).</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing (for actions in progress in the past); Past simple tense: V-ed (for completed actions or actions that interrupt another action in the past). Structure: When + past simple, past continuous OR past continuous when past simple.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi này kiểm tra kiến thức về thì quá khứ tiếp diễn và quá khứ đơn. Cấu trúc đúng cho dạng câu này là: 'Were you doing anything when I called you?' vì chúng ta dùng thì quá khứ tiếp diễn ('were doing') để diễn tả một hành động đang diễn ra tại một thời điểm xác định trong quá khứ, và thì quá khứ đơn ('called') cho hành động xen vào.<br><ul><li><b>Are / doing / called</b> (dạng động từ): 'Are' là thì hiện tại, không phù hợp với sự kiện trong quá khứ. 'Doing' là hiện tại phân từ, nhưng thì không đúng. 'Called' là quá khứ đơn, phù hợp cho hành động thứ hai.</li><li><b>Were / doing / calling</b> (dạng động từ): 'Were' đúng cho quá khứ tiếp diễn, 'doing' đúng, nhưng 'calling' là hiện tại phân từ, không phải quá khứ đơn. Dạng đúng phải là 'called'.</li><li><b>Did / do / was calling</b> (dạng động từ): 'Did' là quá khứ đơn, nhưng cần dùng quá khứ tiếp diễn. 'Do' là động từ nguyên mẫu, không đúng. 'Was calling' là quá khứ tiếp diễn, nhưng cấu trúc bị đảo ngược.</li><li><b>Were / doing / called</b> (dạng động từ): 'Were' đúng cho quá khứ tiếp diễn, 'doing' đúng, và 'called' là quá khứ đơn, phù hợp với cấu trúc: quá khứ tiếp diễn (hành động đang diễn ra) + quá khứ đơn (hành động xen vào).</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn: was/were + V-ing (diễn tả hành động đang diễn ra trong quá khứ); Thì quá khứ đơn: V-ed (diễn tả hành động đã hoàn thành hoặc hành động xen vào trong quá khứ). Cấu trúc: When + quá khứ đơn, quá khứ tiếp diễn HOẶC quá khứ tiếp diễn when quá khứ đơn.<br><br><b>Tạm dịch:</b> Bạn có đang làm gì khi tôi gọi cho bạn không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question is testing your knowledge of past continuous and past simple tenses. The correct structure for this type of question is: 'Were you doing anything when I called you?' because we use the past continuous ('were doing') to describe an action that was in progress at a specific moment in the past, and the past simple ('called') for the action that interrupted it.<br><ul><li><b>Are / doing / called</b> (verb forms): 'Are' is present tense, which is incorrect for a past event. 'Doing' is present participle, but the tense is wrong. 'Called' is past simple, which is correct for the second action.</li><li><b>Were / doing / calling</b> (verb forms): 'Were' is correct for past continuous, 'doing' is correct, but 'calling' is present participle, not past simple. The correct form should be 'called'.</li><li><b>Did / do / was calling</b> (verb forms): 'Did' is past simple, but we need past continuous. 'Do' is base form, which is incorrect. 'Was calling' is past continuous, but the structure is reversed.</li><li><b>Were / doing / called</b> (verb forms): 'Were' is correct for past continuous, 'doing' is correct, and 'called' is past simple, which fits the structure: past continuous (action in progress) + past simple (interrupting action).</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing (for actions in progress in the past); Past simple tense: V-ed (for completed actions or actions that interrupt another action in the past). Structure: When + past simple, past continuous OR past continuous when past simple.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00280b",
+        "questionNumber": 3,
+        "questionText": "________ you ____________ my friends while you ______________ to school?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Are / see / went",
+            "raw": "A. Are / see / went",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Did / see / were going",
+            "raw": "B. Did / see / were going",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Did / saw / were going",
+            "raw": "C. Did / saw / were going",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Were / see / went",
+            "raw": "D. Were / see / went",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question is testing your knowledge of the past continuous and simple past tense. The correct structure for this type of question is: 'Did you see my friends while you were going to school?' because 'Did you see' is the simple past tense used for completed actions, and 'while you were going' uses the past continuous tense to describe an ongoing action in the past.<br><ul><li><b>Are / see / went</b> (verb forms): 'Are' is present simple, 'see' is base form, 'went' is past simple. This combination is incorrect because the question is about a past event, and the tenses do not match.</li><li><b>Did / see / were going</b> (verb forms): 'Did' is the auxiliary for past simple questions, 'see' is the base form used after 'did', and 'were going' is past continuous. This is the correct combination for the sentence structure.</li><li><b>Did / saw / were going</b> (verb forms): 'Did' is the auxiliary for past simple, but 'saw' is the past form, which is incorrect after 'did'. The correct form should be 'see'.</li><li><b>Were / see / went</b> (verb forms): 'Were' is used for past continuous, but 'see' is the base form and 'went' is past simple. The structure does not fit the context of the question.</li></ul><b>Related structure or vocabulary:</b> Past simple is used for completed actions in the past. Past continuous is used to describe an ongoing action that was happening at a specific time in the past. The structure 'Did you see ... while you were going ...' is commonly used to ask if someone saw something during an ongoing action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi này kiểm tra kiến thức về thì quá khứ đơn và quá khứ tiếp diễn. Cấu trúc đúng cho câu hỏi này là: 'Did you see my friends while you were going to school?' vì 'Did you see' là thì quá khứ đơn dùng để hỏi về một hành động đã hoàn thành, còn 'while you were going' là thì quá khứ tiếp diễn dùng để diễn tả một hành động đang diễn ra trong quá khứ.<br><ul><li><b>Are / see / went</b> (dạng động từ): 'Are' là thì hiện tại đơn, 'see' là động từ nguyên mẫu, 'went' là thì quá khứ đơn. Sự kết hợp này sai vì câu hỏi nói về sự việc trong quá khứ và các thì không phù hợp.</li><li><b>Did / see / were going</b> (dạng động từ): 'Did' là trợ động từ dùng cho câu hỏi ở thì quá khứ đơn, 'see' là động từ nguyên mẫu đi sau 'did', 'were going' là thì quá khứ tiếp diễn. Đây là sự kết hợp đúng cho cấu trúc câu.</li><li><b>Did / saw / were going</b> (dạng động từ): 'Did' là trợ động từ cho thì quá khứ đơn, nhưng 'saw' là động từ ở dạng quá khứ, không đúng sau 'did'. Đúng phải là 'see'.</li><li><b>Were / see / went</b> (dạng động từ): 'Were' dùng cho thì quá khứ tiếp diễn, nhưng 'see' là động từ nguyên mẫu và 'went' là thì quá khứ đơn. Cấu trúc này không phù hợp với ngữ cảnh câu hỏi.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn dùng để diễn tả hành động đã hoàn thành trong quá khứ. Thì quá khứ tiếp diễn dùng để diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ. Cấu trúc 'Did you see ... while you were going ...' thường dùng để hỏi ai đó có nhìn thấy gì đó trong lúc đang thực hiện một hành động khác.<br><br><b>Tạm dịch:</b> Bạn có nhìn thấy bạn của tôi khi bạn đang đi đến trường không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question is testing your knowledge of the past continuous and simple past tense. The correct structure for this type of question is: 'Did you see my friends while you were going to school?' because 'Did you see' is the simple past tense used for completed actions, and 'while you were going' uses the past continuous tense to describe an ongoing action in the past.<br><ul><li><b>Are / see / went</b> (verb forms): 'Are' is present simple, 'see' is base form, 'went' is past simple. This combination is incorrect because the question is about a past event, and the tenses do not match.</li><li><b>Did / see / were going</b> (verb forms): 'Did' is the auxiliary for past simple questions, 'see' is the base form used after 'did', and 'were going' is past continuous. This is the correct combination for the sentence structure.</li><li><b>Did / saw / were going</b> (verb forms): 'Did' is the auxiliary for past simple, but 'saw' is the past form, which is incorrect after 'did'. The correct form should be 'see'.</li><li><b>Were / see / went</b> (verb forms): 'Were' is used for past continuous, but 'see' is the base form and 'went' is past simple. The structure does not fit the context of the question.</li></ul><b>Related structure or vocabulary:</b> Past simple is used for completed actions in the past. Past continuous is used to describe an ongoing action that was happening at a specific time in the past. The structure 'Did you see ... while you were going ...' is commonly used to ask if someone saw something during an ongoing action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00280c",
+        "questionNumber": 4,
+        "questionText": "We _____________ home when the accident ___________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were driving / happened",
+            "raw": "A. were driving / happened",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "drove / happened",
+            "raw": "B. drove / happened",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "drove / was happening",
+            "raw": "C. drove / was happening",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were drive / happened",
+            "raw": "D. were drive / happened",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing an action that was happening (driving home) when another action suddenly occurred (the accident happened). In English, we use the past continuous tense (was/were + V-ing) for the ongoing action and the simple past tense for the action that interrupts. Therefore, 'were driving' is used for the ongoing action, and 'happened' is used for the sudden event.<br><ul><li><b>were driving / happened</b> (past continuous / simple past): 'Were driving' is the past continuous tense, used for an action in progress in the past. 'Happened' is the simple past tense, used for a completed action. This combination correctly shows that the accident interrupted the ongoing action of driving.</li><li><b>drove / happened</b> (simple past / simple past): 'Drove' is the simple past tense, which does not indicate an ongoing action. 'Happened' is correct for the sudden event, but 'drove' does not fit the context of an action in progress.</li><li><b>drove / was happening</b> (simple past / past continuous): 'Drove' is simple past, and 'was happening' is past continuous. This order is incorrect because the ongoing action should be 'driving', not the accident.</li><li><b>were drive / happened</b> (incorrect form / simple past): 'Were drive' is grammatically incorrect. The correct form is 'were driving'.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used for an action in progress in the past. Simple past tense is used for a completed action that interrupts the ongoing action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta mô tả một hành động đang diễn ra (đang lái xe về nhà) thì một hành động khác bất ngờ xảy ra (tai nạn xảy ra). Trong tiếng Anh, ta dùng thì quá khứ tiếp diễn (was/were + V-ing) cho hành động đang diễn ra và thì quá khứ đơn cho hành động chen ngang. Vì vậy, 'were driving' dùng cho hành động đang diễn ra, còn 'happened' dùng cho sự kiện bất ngờ.<br><ul><li><b>were driving / happened</b> (quá khứ tiếp diễn / quá khứ đơn): 'Were driving' là thì quá khứ tiếp diễn, dùng cho hành động đang diễn ra trong quá khứ. 'Happened' là thì quá khứ đơn, dùng cho hành động đã hoàn thành. Sự kết hợp này đúng vì tai nạn xảy ra khi đang lái xe.</li><li><b>drove / happened</b> (quá khứ đơn / quá khứ đơn): 'Drove' là thì quá khứ đơn, không diễn tả hành động đang diễn ra. 'Happened' đúng cho sự kiện bất ngờ, nhưng 'drove' không phù hợp với ngữ cảnh hành động đang diễn ra.</li><li><b>drove / was happening</b> (quá khứ đơn / quá khứ tiếp diễn): 'Drove' là quá khứ đơn, 'was happening' là quá khứ tiếp diễn. Thứ tự này sai vì hành động đang diễn ra phải là 'lái xe', không phải 'tai nạn'.</li><li><b>were drive / happened</b> (sai ngữ pháp / quá khứ đơn): 'Were drive' là sai ngữ pháp. Dạng đúng phải là 'were driving'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn (was/were + V-ing) dùng cho hành động đang diễn ra trong quá khứ. Thì quá khứ đơn dùng cho hành động chen ngang.<br><br><b>Tạm dịch:</b> Chúng tôi đang lái xe về nhà thì tai nạn xảy ra.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing an action that was happening (driving home) when another action suddenly occurred (the accident happened). In English, we use the past continuous tense (was/were + V-ing) for the ongoing action and the simple past tense for the action that interrupts. Therefore, 'were driving' is used for the ongoing action, and 'happened' is used for the sudden event.<br><ul><li><b>were driving / happened</b> (past continuous / simple past): 'Were driving' is the past continuous tense, used for an action in progress in the past. 'Happened' is the simple past tense, used for a completed action. This combination correctly shows that the accident interrupted the ongoing action of driving.</li><li><b>drove / happened</b> (simple past / simple past): 'Drove' is the simple past tense, which does not indicate an ongoing action. 'Happened' is correct for the sudden event, but 'drove' does not fit the context of an action in progress.</li><li><b>drove / was happening</b> (simple past / past continuous): 'Drove' is simple past, and 'was happening' is past continuous. This order is incorrect because the ongoing action should be 'driving', not the accident.</li><li><b>were drive / happened</b> (incorrect form / simple past): 'Were drive' is grammatically incorrect. The correct form is 'were driving'.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used for an action in progress in the past. Simple past tense is used for a completed action that interrupts the ongoing action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00280d",
+        "questionNumber": 5,
+        "questionText": "I _______________ a novel while my mother ___________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was read / was cooking",
+            "raw": "A. was read / was cooking",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "read / cooked",
+            "raw": "B. read / cooked",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was reading / was cooking",
+            "raw": "C. was reading / was cooking",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "was reading / cooks",
+            "raw": "D. was reading / cooks",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'I _______________ a novel while my mother ___________.' describes two actions happening at the same time in the past. In English, when two actions are happening simultaneously in the past, we use the past continuous tense (was/were + V-ing) for both actions. The word 'while' is a signal word for the past continuous tense, indicating that both actions were ongoing at the same time.<br><ul><li><b>was read / was cooking</b> (Verb (past continuous passive / active)): 'was read' is the passive form, which is incorrect here because the subject 'I' is actively doing the action. 'was cooking' is correct for the second blank, but the first verb is wrong.</li><li><b>read / cooked</b> (Verb (simple past)): Both verbs are in the simple past tense, which is used for completed actions, not for actions happening at the same time.</li><li><b>was reading / was cooking</b> (Verb (past continuous)): Both verbs are in the past continuous tense, which is correct for describing two simultaneous actions in the past.</li><li><b>was reading / cooks</b> (Verb (past continuous / present simple)): 'was reading' is past continuous, but 'cooks' is present simple, which is incorrect because both actions happened in the past.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used to describe actions that were happening at the same time in the past, especially with 'while'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'I _______________ a novel while my mother ___________.' mô tả hai hành động xảy ra đồng thời trong quá khứ. Trong tiếng Anh, khi hai hành động xảy ra cùng lúc trong quá khứ, ta sử dụng thì quá khứ tiếp diễn (was/were + V-ing) cho cả hai hành động. Từ 'while' là dấu hiệu nhận biết thì quá khứ tiếp diễn, cho thấy cả hai hành động đang diễn ra cùng lúc.<br><ul><li><b>was read / was cooking</b> (Động từ (quá khứ tiếp diễn bị động / chủ động)): 'was read' là dạng bị động, không phù hợp vì chủ ngữ 'I' là người chủ động thực hiện hành động. 'was cooking' đúng cho chỗ trống thứ hai, nhưng động từ đầu tiên sai.</li><li><b>read / cooked</b> (Động từ (quá khứ đơn)): Cả hai động từ đều ở thì quá khứ đơn, dùng cho hành động đã hoàn thành, không phải cho các hành động đang diễn ra cùng lúc.</li><li><b>was reading / was cooking</b> (Động từ (quá khứ tiếp diễn)): Cả hai động từ đều ở thì quá khứ tiếp diễn, phù hợp để diễn tả hai hành động xảy ra đồng thời trong quá khứ.</li><li><b>was reading / cooks</b> (Động từ (quá khứ tiếp diễn / hiện tại đơn)): 'was reading' là quá khứ tiếp diễn, nhưng 'cooks' là hiện tại đơn, không phù hợp vì cả hai hành động đều xảy ra trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn (was/were + V-ing) dùng để diễn tả các hành động đang xảy ra cùng lúc trong quá khứ, đặc biệt với từ 'while'.<br><br><b>Tạm dịch:</b> Tôi đang đọc một cuốn tiểu thuyết trong khi mẹ tôi đang nấu ăn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'I _______________ a novel while my mother ___________.' describes two actions happening at the same time in the past. In English, when two actions are happening simultaneously in the past, we use the past continuous tense (was/were + V-ing) for both actions. The word 'while' is a signal word for the past continuous tense, indicating that both actions were ongoing at the same time.<br><ul><li><b>was read / was cooking</b> (Verb (past continuous passive / active)): 'was read' is the passive form, which is incorrect here because the subject 'I' is actively doing the action. 'was cooking' is correct for the second blank, but the first verb is wrong.</li><li><b>read / cooked</b> (Verb (simple past)): Both verbs are in the simple past tense, which is used for completed actions, not for actions happening at the same time.</li><li><b>was reading / was cooking</b> (Verb (past continuous)): Both verbs are in the past continuous tense, which is correct for describing two simultaneous actions in the past.</li><li><b>was reading / cooks</b> (Verb (past continuous / present simple)): 'was reading' is past continuous, but 'cooks' is present simple, which is incorrect because both actions happened in the past.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used to describe actions that were happening at the same time in the past, especially with 'while'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00280e",
+        "questionNumber": 6,
+        "questionText": "I ___________ out of the window when the accident happened.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was looked",
+            "raw": "A. was looked",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "looked",
+            "raw": "B. looked",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "looking",
+            "raw": "C. looking",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was looking",
+            "raw": "D. was looking",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that fits the context of an action in progress when another action happened. In this sentence, 'when the accident happened' is a simple past event, so the action happening at that moment should be in the past continuous tense (was/were + V-ing).<br><ul><li><b>was looked</b> (verb (past simple passive)): 'Was looked' is the past simple passive form, which is incorrect here because the subject (I) is performing the action, not receiving it.</li><li><b>looked</b> (verb (past simple)): 'Looked' is the simple past tense, which describes a completed action, not an ongoing one.</li><li><b>looking</b> (verb (present participle)): 'Looking' is the present participle, but without an auxiliary verb, it cannot stand alone as the main verb in this sentence.</li><li><b>was looking</b> (verb (past continuous)): 'Was looking' is the past continuous tense, which is used to describe an action that was in progress at a specific time in the past.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used to describe an action that was happening at a specific time in the past, often interrupted by another action in the simple past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một dạng động từ phù hợp với ngữ cảnh một hành động đang diễn ra khi một hành động khác xảy ra. Trong câu này, 'when the accident happened' là một sự kiện ở thì quá khứ đơn, nên hành động đang diễn ra tại thời điểm đó phải dùng thì quá khứ tiếp diễn (was/were + V-ing).<br><ul><li><b>was looked</b> (động từ (quá khứ đơn bị động)): 'Was looked' là dạng bị động của thì quá khứ đơn, không phù hợp vì chủ ngữ (I) là người thực hiện hành động, không phải là người bị tác động.</li><li><b>looked</b> (động từ (quá khứ đơn)): 'Looked' là thì quá khứ đơn, diễn tả hành động đã hoàn thành, không phải hành động đang diễn ra.</li><li><b>looking</b> (động từ (hiện tại phân từ)): 'Looking' là hiện tại phân từ, nhưng không có trợ động từ đi kèm nên không thể đứng một mình làm động từ chính trong câu này.</li><li><b>was looking</b> (động từ (quá khứ tiếp diễn)): 'Was looking' là thì quá khứ tiếp diễn, dùng để diễn tả hành động đang diễn ra tại một thời điểm xác định trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn (was/were + V-ing) dùng để diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ, thường bị một hành động khác ở thì quá khứ đơn chen ngang.<br><br><b>Tạm dịch:</b> Tôi đang nhìn ra ngoài cửa sổ thì tai nạn xảy ra.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that fits the context of an action in progress when another action happened. In this sentence, 'when the accident happened' is a simple past event, so the action happening at that moment should be in the past continuous tense (was/were + V-ing).<br><ul><li><b>was looked</b> (verb (past simple passive)): 'Was looked' is the past simple passive form, which is incorrect here because the subject (I) is performing the action, not receiving it.</li><li><b>looked</b> (verb (past simple)): 'Looked' is the simple past tense, which describes a completed action, not an ongoing one.</li><li><b>looking</b> (verb (present participle)): 'Looking' is the present participle, but without an auxiliary verb, it cannot stand alone as the main verb in this sentence.</li><li><b>was looking</b> (verb (past continuous)): 'Was looking' is the past continuous tense, which is used to describe an action that was in progress at a specific time in the past.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used to describe an action that was happening at a specific time in the past, often interrupted by another action in the simple past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00280f",
+        "questionNumber": 7,
+        "questionText": "You ___________ while I ____________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "played / study",
+            "raw": "A. played / study",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "were playing / studying",
+            "raw": "B. were playing / studying",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "were playing / was studying",
+            "raw": "C. were playing / was studying",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "were played / was studying",
+            "raw": "D. were played / was studying",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'You ___________ while I ____________.' describes two actions happening at the same time in the past. In English, when two actions are happening simultaneously in the past, we use the past continuous tense (was/were + V-ing) for both actions. The subject 'You' goes with 'were' and 'I' goes with 'was' in the past continuous tense.<br><ul><li><b>played / study</b> (Verb (simple past / base form)): 'played' is simple past, 'study' is base form. This combination is incorrect because it does not show two ongoing actions in the past.</li><li><b>were playing / studying</b> (Verb (past continuous / present participle)): 'were playing' is past continuous for 'you', 'studying' is present participle but lacks an auxiliary verb for 'I'. This is incorrect because 'I' needs 'was' before 'studying'.</li><li><b>were playing / was studying</b> (Verb (past continuous / past continuous)): 'were playing' is past continuous for 'you', 'was studying' is past continuous for 'I'. This is the correct form to show two simultaneous actions in the past.</li><li><b>were played / was studying</b> (Verb (passive / past continuous)): 'were played' is passive voice, which is incorrect here. 'was studying' is correct for 'I', but the first part is wrong.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing is used to describe actions that were happening at the same time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'You ___________ while I ____________.' mô tả hai hành động xảy ra đồng thời trong quá khứ. Trong tiếng Anh, khi hai hành động đang diễn ra cùng lúc trong quá khứ, ta sử dụng thì quá khứ tiếp diễn (was/were + V-ing) cho cả hai hành động. Chủ ngữ 'You' đi với 'were', còn 'I' đi với 'was' trong thì quá khứ tiếp diễn.<br><ul><li><b>played / study</b> (Động từ (quá khứ đơn / nguyên mẫu)): 'played' là thì quá khứ đơn, 'study' là động từ nguyên mẫu. Kết hợp này sai vì không thể hiện hai hành động đang diễn ra cùng lúc trong quá khứ.</li><li><b>were playing / studying</b> (Động từ (quá khứ tiếp diễn / hiện tại phân từ)): 'were playing' là thì quá khứ tiếp diễn cho 'you', 'studying' là hiện tại phân từ nhưng thiếu trợ động từ cho 'I'. Sai vì 'I' cần có 'was' trước 'studying'.</li><li><b>were playing / was studying</b> (Động từ (quá khứ tiếp diễn / quá khứ tiếp diễn)): 'were playing' là thì quá khứ tiếp diễn cho 'you', 'was studying' là thì quá khứ tiếp diễn cho 'I'. Đây là đáp án đúng để diễn tả hai hành động đang diễn ra đồng thời trong quá khứ.</li><li><b>were played / was studying</b> (Động từ (bị động / quá khứ tiếp diễn)): 'were played' là bị động, không phù hợp trong trường hợp này. 'was studying' đúng cho 'I', nhưng phần đầu sai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn: was/were + V-ing dùng để diễn tả các hành động đang xảy ra cùng lúc trong quá khứ.<br><br><b>Tạm dịch:</b> Bạn đang chơi trong khi tôi đang học.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'You ___________ while I ____________.' describes two actions happening at the same time in the past. In English, when two actions are happening simultaneously in the past, we use the past continuous tense (was/were + V-ing) for both actions. The subject 'You' goes with 'were' and 'I' goes with 'was' in the past continuous tense.<br><ul><li><b>played / study</b> (Verb (simple past / base form)): 'played' is simple past, 'study' is base form. This combination is incorrect because it does not show two ongoing actions in the past.</li><li><b>were playing / studying</b> (Verb (past continuous / present participle)): 'were playing' is past continuous for 'you', 'studying' is present participle but lacks an auxiliary verb for 'I'. This is incorrect because 'I' needs 'was' before 'studying'.</li><li><b>were playing / was studying</b> (Verb (past continuous / past continuous)): 'were playing' is past continuous for 'you', 'was studying' is past continuous for 'I'. This is the correct form to show two simultaneous actions in the past.</li><li><b>were played / was studying</b> (Verb (passive / past continuous)): 'were played' is passive voice, which is incorrect here. 'was studying' is correct for 'I', but the first part is wrong.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing is used to describe actions that were happening at the same time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002810",
+        "questionNumber": 8,
+        "questionText": "He _____________ when his father came home.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were doing",
+            "raw": "A. were doing",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "was doing",
+            "raw": "B. was doing",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "did",
+            "raw": "C. did",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "did do",
+            "raw": "D. did do",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'He _____________ when his father came home.' requires the correct tense to indicate an action that was ongoing in the past when another action happened. In English, the Past Continuous tense (was/were + V-ing) is used to describe an action that was in progress at a specific time in the past, often interrupted by another action in the Past Simple tense. Here, 'when his father came home' is the action that interrupts, so the first action should be in Past Continuous.<br><ul><li><b>were doing</b> (verb (Past Continuous, incorrect subject-verb agreement)): 'Were' is used with plural subjects or 'you', not with 'he'.</li><li><b>was doing</b> (verb (Past Continuous, correct form)): 'Was doing' is the correct Past Continuous form for the subject 'he', indicating an ongoing action in the past.</li><li><b>did</b> (verb (Past Simple)): 'Did' is the Past Simple form, used for completed actions, not for ongoing actions.</li><li><b>did do</b> (verb (Past Simple, emphatic)): 'Did do' is an emphatic form of the Past Simple, used for emphasis, not suitable here.</li></ul><b>Related structure or vocabulary:</b> Past Continuous tense: was/were + V-ing is used to describe an action that was happening at a specific time in the past, often interrupted by another action in the Past Simple tense. Example: I was reading when the phone rang.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'He _____________ when his father came home.' cần một thì phù hợp để diễn tả hành động đang diễn ra trong quá khứ khi một hành động khác xảy ra. Trong tiếng Anh, thì Quá khứ tiếp diễn (was/were + V-ing) được dùng để mô tả một hành động đang diễn ra tại một thời điểm xác định trong quá khứ, thường bị một hành động khác ở thì Quá khứ đơn chen ngang. Ở đây, 'when his father came home' là hành động chen ngang, nên hành động đầu tiên phải dùng thì Quá khứ tiếp diễn.<br><ul><li><b>were doing</b> (động từ (Quá khứ tiếp diễn, sai chủ ngữ)): 'Were' dùng với chủ ngữ số nhiều hoặc 'you', không dùng với 'he'.</li><li><b>was doing</b> (động từ (Quá khứ tiếp diễn, đúng dạng)): 'Was doing' là dạng Quá khứ tiếp diễn đúng với chủ ngữ 'he', diễn tả hành động đang diễn ra trong quá khứ.</li><li><b>did</b> (động từ (Quá khứ đơn)): 'Did' là thì Quá khứ đơn, dùng cho hành động đã hoàn thành, không phải hành động đang diễn ra.</li><li><b>did do</b> (động từ (Quá khứ đơn, nhấn mạnh)): 'Did do' là dạng nhấn mạnh của thì Quá khứ đơn, không phù hợp trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì Quá khứ tiếp diễn: was/were + V-ing dùng để diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ, thường bị một hành động khác ở thì Quá khứ đơn chen ngang. Ví dụ: I was reading when the phone rang.<br><br><b>Tạm dịch:</b> He was doing when his father came home. --> Anh ấy đang làm gì đó thì bố anh ấy về nhà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'He _____________ when his father came home.' requires the correct tense to indicate an action that was ongoing in the past when another action happened. In English, the Past Continuous tense (was/were + V-ing) is used to describe an action that was in progress at a specific time in the past, often interrupted by another action in the Past Simple tense. Here, 'when his father came home' is the action that interrupts, so the first action should be in Past Continuous.<br><ul><li><b>were doing</b> (verb (Past Continuous, incorrect subject-verb agreement)): 'Were' is used with plural subjects or 'you', not with 'he'.</li><li><b>was doing</b> (verb (Past Continuous, correct form)): 'Was doing' is the correct Past Continuous form for the subject 'he', indicating an ongoing action in the past.</li><li><b>did</b> (verb (Past Simple)): 'Did' is the Past Simple form, used for completed actions, not for ongoing actions.</li><li><b>did do</b> (verb (Past Simple, emphatic)): 'Did do' is an emphatic form of the Past Simple, used for emphasis, not suitable here.</li></ul><b>Related structure or vocabulary:</b> Past Continuous tense: was/were + V-ing is used to describe an action that was happening at a specific time in the past, often interrupted by another action in the Past Simple tense. Example: I was reading when the phone rang.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002811",
+        "questionNumber": 9,
+        "questionText": "When I _______ in, it _____________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "came / was raining",
+            "raw": "A. came / was raining",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "come / raining",
+            "raw": "B. come / raining",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was coming / was raining",
+            "raw": "C. was coming / was raining",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was coming / rained",
+            "raw": "D. was coming / rained",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'When I _______ in, it _____________.' describes two actions happening in the past. The first action (when I _______ in) is a short action that happened while the second action (it _____________) was already in progress. In English, we use the past simple tense for the shorter action and the past continuous tense for the longer, ongoing action. Therefore, the correct answer is 'came / was raining'.<br><ul><li><b>came / was raining</b> (Verb (past simple) / Verb (past continuous)): 'came' is the past simple form of 'come', used for a completed action in the past. 'was raining' is the past continuous tense, used for an action that was ongoing in the past.</li><li><b>come / raining</b> (Verb (base form) / Present participle): 'come' is the base form (present simple), which is incorrect for a past event. 'raining' alone is not a complete verb form.</li><li><b>was coming / was raining</b> (Verb (past continuous) / Verb (past continuous)): Both verbs are in the past continuous tense, which is used for two ongoing actions happening at the same time. However, in this context, 'came' should be in the past simple to show the shorter action.</li><li><b>was coming / rained</b> (Verb (past continuous) / Verb (past simple)): 'was coming' is past continuous, and 'rained' is past simple. This combination does not fit the context, as 'rained' suggests a completed action, not an ongoing one.</li></ul><b>Related structure or vocabulary:</b> Past simple + past continuous: We use the past simple for a short action that interrupts a longer action in the past (past continuous). Example: When I arrived, they were eating.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'When I _______ in, it _____________.' mô tả hai hành động xảy ra trong quá khứ. Hành động đầu tiên (when I _______ in) là hành động ngắn, xảy ra trong khi hành động thứ hai (it _____________) đang diễn ra. Trong tiếng Anh, ta dùng thì quá khứ đơn cho hành động ngắn và thì quá khứ tiếp diễn cho hành động dài hơn, đang diễn ra. Vì vậy, đáp án đúng là 'came / was raining'.<br><ul><li><b>came / was raining</b> (Động từ (quá khứ đơn) / Động từ (quá khứ tiếp diễn)): 'came' là thì quá khứ đơn của 'come', dùng cho hành động đã hoàn thành trong quá khứ. 'was raining' là thì quá khứ tiếp diễn, dùng cho hành động đang diễn ra trong quá khứ.</li><li><b>come / raining</b> (Động từ (nguyên thể) / Hiện tại phân từ): 'come' là dạng nguyên thể (hiện tại đơn), không phù hợp với hành động trong quá khứ. 'raining' chỉ là dạng V-ing, không phải là một động từ hoàn chỉnh.</li><li><b>was coming / was raining</b> (Động từ (quá khứ tiếp diễn) / Động từ (quá khứ tiếp diễn)): Cả hai động từ đều ở thì quá khứ tiếp diễn, thường dùng cho hai hành động đang diễn ra cùng lúc. Tuy nhiên, trong trường hợp này, 'came' nên ở thì quá khứ đơn để chỉ hành động ngắn.</li><li><b>was coming / rained</b> (Động từ (quá khứ tiếp diễn) / Động từ (quá khứ đơn)): 'was coming' là quá khứ tiếp diễn, 'rained' là quá khứ đơn. Cách kết hợp này không phù hợp vì 'rained' chỉ hành động đã hoàn thành, không phải hành động đang diễn ra.</li></ul><b>Cấu trúc và từ vựng:</b> Quá khứ đơn + quá khứ tiếp diễn: Dùng quá khứ đơn cho hành động ngắn chen vào hành động dài hơn đang diễn ra (quá khứ tiếp diễn). Ví dụ: When I arrived, they were eating.<br><br><b>Tạm dịch:</b> Khi tôi bước vào, trời đang mưa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'When I _______ in, it _____________.' describes two actions happening in the past. The first action (when I _______ in) is a short action that happened while the second action (it _____________) was already in progress. In English, we use the past simple tense for the shorter action and the past continuous tense for the longer, ongoing action. Therefore, the correct answer is 'came / was raining'.<br><ul><li><b>came / was raining</b> (Verb (past simple) / Verb (past continuous)): 'came' is the past simple form of 'come', used for a completed action in the past. 'was raining' is the past continuous tense, used for an action that was ongoing in the past.</li><li><b>come / raining</b> (Verb (base form) / Present participle): 'come' is the base form (present simple), which is incorrect for a past event. 'raining' alone is not a complete verb form.</li><li><b>was coming / was raining</b> (Verb (past continuous) / Verb (past continuous)): Both verbs are in the past continuous tense, which is used for two ongoing actions happening at the same time. However, in this context, 'came' should be in the past simple to show the shorter action.</li><li><b>was coming / rained</b> (Verb (past continuous) / Verb (past simple)): 'was coming' is past continuous, and 'rained' is past simple. This combination does not fit the context, as 'rained' suggests a completed action, not an ongoing one.</li></ul><b>Related structure or vocabulary:</b> Past simple + past continuous: We use the past simple for a short action that interrupts a longer action in the past (past continuous). Example: When I arrived, they were eating.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002812",
+        "questionNumber": 10,
+        "questionText": "Many years ago people ________________ on horseback.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were travelled",
+            "raw": "A. were travelled",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "were travelling",
+            "raw": "B. were travelling",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "was travelling",
+            "raw": "C. was travelling",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "did travel",
+            "raw": "D. did travel",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to describe an action that happened regularly in the past. The sentence 'Many years ago people ________________ on horseback.' refers to a habitual action in the past. In English, to express past habits, we often use 'used to' or the simple past tense. However, among the given options, only 'did travel' (simple past with 'did' for emphasis) is grammatically correct. The other options use incorrect verb forms or subject-verb agreement.<br><ul><li><b>were travelled</b> (verb phrase): 'Were travelled' is incorrect because 'travel' is not used in the passive form here, and 'were' should be followed by a present participle (V-ing) for past continuous.</li><li><b>were travelling</b> (verb phrase): 'Were travelling' is past continuous tense, which describes an action in progress at a specific time in the past, not a habitual action.</li><li><b>was travelling</b> (verb phrase): 'Was travelling' is past continuous tense, but the subject 'people' is plural, so 'was' is incorrect; it should be 'were' if using past continuous.</li><li><b>did travel</b> (verb phrase): 'Did travel' is the simple past tense with 'did' used for emphasis, which is correct for expressing a habitual action in the past.</li></ul><b>Related structure or vocabulary:</b> To express past habits, use 'used to' or the simple past tense. 'Did + base verb' is used for emphasis in the simple past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng động từ đúng để diễn tả một hành động thường xuyên xảy ra trong quá khứ. Câu 'Many years ago people ________________ on horseback.' nói về một thói quen trong quá khứ. Trong tiếng Anh, để diễn tả thói quen trong quá khứ, ta thường dùng 'used to' hoặc thì quá khứ đơn. Trong các đáp án, chỉ có 'did travel' (thì quá khứ đơn với 'did' nhấn mạnh) là đúng ngữ pháp. Các đáp án khác dùng sai dạng động từ hoặc sai hòa hợp chủ ngữ - động từ.<br><ul><li><b>were travelled</b> (cụm động từ): 'Were travelled' sai vì 'travel' không dùng ở dạng bị động trong trường hợp này, và 'were' phải đi với V-ing (dạng tiếp diễn) nếu dùng thì quá khứ tiếp diễn.</li><li><b>were travelling</b> (cụm động từ): 'Were travelling' là thì quá khứ tiếp diễn, dùng để diễn tả hành động đang diễn ra tại một thời điểm xác định trong quá khứ, không phải thói quen.</li><li><b>was travelling</b> (cụm động từ): 'Was travelling' là thì quá khứ tiếp diễn, nhưng chủ ngữ 'people' là số nhiều nên không dùng 'was', mà phải là 'were' nếu dùng thì này.</li><li><b>did travel</b> (cụm động từ): 'Did travel' là thì quá khứ đơn với 'did' dùng để nhấn mạnh, phù hợp để diễn tả thói quen trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Để diễn tả thói quen trong quá khứ, dùng 'used to' hoặc thì quá khứ đơn. 'Did + động từ nguyên mẫu' dùng để nhấn mạnh trong thì quá khứ đơn.<br><br><b>Tạm dịch:</b> Nhiều năm trước, người ta thực sự đã di chuyển bằng ngựa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to describe an action that happened regularly in the past. The sentence 'Many years ago people ________________ on horseback.' refers to a habitual action in the past. In English, to express past habits, we often use 'used to' or the simple past tense. However, among the given options, only 'did travel' (simple past with 'did' for emphasis) is grammatically correct. The other options use incorrect verb forms or subject-verb agreement.<br><ul><li><b>were travelled</b> (verb phrase): 'Were travelled' is incorrect because 'travel' is not used in the passive form here, and 'were' should be followed by a present participle (V-ing) for past continuous.</li><li><b>were travelling</b> (verb phrase): 'Were travelling' is past continuous tense, which describes an action in progress at a specific time in the past, not a habitual action.</li><li><b>was travelling</b> (verb phrase): 'Was travelling' is past continuous tense, but the subject 'people' is plural, so 'was' is incorrect; it should be 'were' if using past continuous.</li><li><b>did travel</b> (verb phrase): 'Did travel' is the simple past tense with 'did' used for emphasis, which is correct for expressing a habitual action in the past.</li></ul><b>Related structure or vocabulary:</b> To express past habits, use 'used to' or the simple past tense. 'Did + base verb' is used for emphasis in the simple past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002813",
+        "questionNumber": 11,
+        "questionText": "I ___________ him while I ____________ home.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "meet / am going",
+            "raw": "A. meet / am going",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "met / was went",
+            "raw": "B. met / was went",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "met / was going",
+            "raw": "C. met / was going",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "was meeting / went",
+            "raw": "D. was meeting / went",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing an action that happened in the past and another action that was happening at the same time. The correct tense to use is the Past Simple for the shorter, completed action, and the Past Continuous for the longer, ongoing action. 'I met him' (Past Simple) is the action that happened while 'I was going home' (Past Continuous) is the background action.<br><ul><li><b>meet / am going</b> (verb (present simple) / verb (present continuous)): 'meet' is present simple, 'am going' is present continuous. Both are incorrect because the sentence refers to a past event.</li><li><b>met / was went</b> (verb (past simple) / incorrect verb form): 'met' is correct (past simple), but 'was went' is incorrect because 'was' should be followed by a verb in the -ing form, not the past tense.</li><li><b>met / was going</b> (verb (past simple) / verb (past continuous)): 'met' is past simple (correct for the completed action), 'was going' is past continuous (correct for the ongoing action). This is the correct answer.</li><li><b>was meeting / went</b> (verb (past continuous) / verb (past simple)): 'was meeting' is past continuous (incorrect for the completed action), 'went' is past simple (incorrect for the ongoing action). The tenses are reversed.</li></ul><b>Related structure or vocabulary:</b> Past Simple is used for a completed action in the past. Past Continuous is used for an action that was happening at a specific time in the past, often as background to another action. Structure: [Past Simple] while [Past Continuous].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta mô tả một hành động đã xảy ra trong quá khứ và một hành động khác đang diễn ra cùng lúc. Thì đúng cần sử dụng là Quá khứ đơn cho hành động ngắn, đã hoàn thành và Quá khứ tiếp diễn cho hành động dài hơn, đang diễn ra. 'I met him' (Tôi đã gặp anh ấy - Quá khứ đơn) là hành động xảy ra trong khi 'I was going home' (Tôi đang trên đường về nhà - Quá khứ tiếp diễn) là hành động nền.<br><ul><li><b>meet / am going</b> (động từ (hiện tại đơn) / động từ (hiện tại tiếp diễn)): 'meet' là hiện tại đơn, 'am going' là hiện tại tiếp diễn. Cả hai đều sai vì câu nói về sự việc trong quá khứ.</li><li><b>met / was went</b> (động từ (quá khứ đơn) / động từ sai cấu trúc): 'met' là quá khứ đơn (đúng), nhưng 'was went' sai vì 'was' phải đi với động từ dạng -ing, không phải quá khứ.</li><li><b>met / was going</b> (động từ (quá khứ đơn) / động từ (quá khứ tiếp diễn)): 'met' là quá khứ đơn (đúng cho hành động đã hoàn thành), 'was going' là quá khứ tiếp diễn (đúng cho hành động đang diễn ra). Đây là đáp án đúng.</li><li><b>was meeting / went</b> (động từ (quá khứ tiếp diễn) / động từ (quá khứ đơn)): 'was meeting' là quá khứ tiếp diễn (sai cho hành động đã hoàn thành), 'went' là quá khứ đơn (sai cho hành động đang diễn ra). Hai thì bị đảo ngược.</li></ul><b>Cấu trúc và từ vựng:</b> Quá khứ đơn dùng cho hành động đã hoàn thành trong quá khứ. Quá khứ tiếp diễn dùng cho hành động đang diễn ra tại một thời điểm trong quá khứ, thường làm nền cho hành động khác. Cấu trúc: [Quá khứ đơn] while [Quá khứ tiếp diễn].<br><br><b>Tạm dịch:</b> Tôi đã gặp anh ấy khi tôi đang trên đường về nhà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing an action that happened in the past and another action that was happening at the same time. The correct tense to use is the Past Simple for the shorter, completed action, and the Past Continuous for the longer, ongoing action. 'I met him' (Past Simple) is the action that happened while 'I was going home' (Past Continuous) is the background action.<br><ul><li><b>meet / am going</b> (verb (present simple) / verb (present continuous)): 'meet' is present simple, 'am going' is present continuous. Both are incorrect because the sentence refers to a past event.</li><li><b>met / was went</b> (verb (past simple) / incorrect verb form): 'met' is correct (past simple), but 'was went' is incorrect because 'was' should be followed by a verb in the -ing form, not the past tense.</li><li><b>met / was going</b> (verb (past simple) / verb (past continuous)): 'met' is past simple (correct for the completed action), 'was going' is past continuous (correct for the ongoing action). This is the correct answer.</li><li><b>was meeting / went</b> (verb (past continuous) / verb (past simple)): 'was meeting' is past continuous (incorrect for the completed action), 'went' is past simple (incorrect for the ongoing action). The tenses are reversed.</li></ul><b>Related structure or vocabulary:</b> Past Simple is used for a completed action in the past. Past Continuous is used for an action that was happening at a specific time in the past, often as background to another action. Structure: [Past Simple] while [Past Continuous].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002815",
+        "questionNumber": 12,
+        "questionText": "They ___________ when the teacher came in.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was shouting",
+            "raw": "A. was shouting",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "shout",
+            "raw": "B. shout",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "were shouting",
+            "raw": "C. were shouting",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "are shouting",
+            "raw": "D. are shouting",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to describe an action that was happening in the past when another action occurred. In this sentence, 'when the teacher came in' is a simple past action. To show an action that was ongoing in the past when another action happened, we use the past continuous tense (was/were + V-ing). Since 'they' is a plural subject, we use 'were shouting'.<br><ul><li><b>was shouting</b> (verb (past continuous, singular)): 'Was shouting' is the past continuous tense but used for singular subjects (he/she/it). 'They' is plural, so this is incorrect.</li><li><b>shout</b> (verb (base form)): 'Shout' is the base form (present simple). It does not fit the context of an ongoing past action.</li><li><b>were shouting</b> (verb (past continuous, plural)): 'Were shouting' is the past continuous tense for plural subjects. It correctly describes an action that was happening when another action occurred in the past.</li><li><b>are shouting</b> (verb (present continuous)): 'Are shouting' is the present continuous tense, which describes an action happening now, not in the past.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used to describe an action that was ongoing in the past when another action happened (often with 'when' + simple past).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì động từ đúng để mô tả một hành động đang diễn ra trong quá khứ khi một hành động khác xảy ra. Trong câu này, 'when the teacher came in' là một hành động ở thì quá khứ đơn. Để diễn tả một hành động đang diễn ra trong quá khứ khi một hành động khác xen vào, ta dùng thì quá khứ tiếp diễn (was/were + V-ing). Chủ ngữ 'they' là số nhiều nên dùng 'were shouting'.<br><ul><li><b>was shouting</b> (động từ (quá khứ tiếp diễn, số ít)): 'Was shouting' là thì quá khứ tiếp diễn nhưng dùng cho chủ ngữ số ít (he/she/it). 'They' là số nhiều nên không đúng.</li><li><b>shout</b> (động từ (nguyên thể)): 'Shout' là động từ nguyên thể (hiện tại đơn). Không phù hợp để diễn tả hành động đang diễn ra trong quá khứ.</li><li><b>were shouting</b> (động từ (quá khứ tiếp diễn, số nhiều)): 'Were shouting' là thì quá khứ tiếp diễn cho chủ ngữ số nhiều. Đúng để diễn tả hành động đang diễn ra khi một hành động khác xảy ra trong quá khứ.</li><li><b>are shouting</b> (động từ (hiện tại tiếp diễn)): 'Are shouting' là thì hiện tại tiếp diễn, diễn tả hành động đang xảy ra ở hiện tại, không phù hợp với ngữ cảnh quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn (was/were + V-ing) dùng để diễn tả hành động đang xảy ra trong quá khứ khi một hành động khác xen vào (thường dùng với 'when' + quá khứ đơn).<br><br><b>Tạm dịch:</b> Họ đang la hét khi giáo viên bước vào.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to describe an action that was happening in the past when another action occurred. In this sentence, 'when the teacher came in' is a simple past action. To show an action that was ongoing in the past when another action happened, we use the past continuous tense (was/were + V-ing). Since 'they' is a plural subject, we use 'were shouting'.<br><ul><li><b>was shouting</b> (verb (past continuous, singular)): 'Was shouting' is the past continuous tense but used for singular subjects (he/she/it). 'They' is plural, so this is incorrect.</li><li><b>shout</b> (verb (base form)): 'Shout' is the base form (present simple). It does not fit the context of an ongoing past action.</li><li><b>were shouting</b> (verb (past continuous, plural)): 'Were shouting' is the past continuous tense for plural subjects. It correctly describes an action that was happening when another action occurred in the past.</li><li><b>are shouting</b> (verb (present continuous)): 'Are shouting' is the present continuous tense, which describes an action happening now, not in the past.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used to describe an action that was ongoing in the past when another action happened (often with 'when' + simple past).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002816",
+        "questionNumber": 13,
+        "questionText": "My neighbours ____________ loud music all night, so I _____________ much sleep.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were playing / didn't get",
+            "raw": "A. were playing / didn't get",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "played / weren't get",
+            "raw": "B. played / weren't get",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "were played / got",
+            "raw": "C. were played / got",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was playing / got",
+            "raw": "D. was playing / got",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence describes an action that was happening over a period of time in the past (the neighbors playing loud music all night) and its result (not getting much sleep). For the first blank, we need the past continuous tense to show the ongoing action: 'were playing.' For the second blank, we need the simple past tense to show the result: 'didn't get.'<br><ul><li><b>were playing</b> (verb (past continuous)): Past continuous tense, used for actions that were ongoing in the past.</li><li><b>didn't get</b> (verb (simple past, negative)): Negative form of the simple past tense, used for actions that did not happen in the past.</li><li><b>played</b> (verb (simple past)): Simple past tense, used for completed actions in the past.</li><li><b>weren't get</b> (incorrect verb form): Incorrect form; 'weren't' is not used with the base verb 'get.'</li><li><b>were played</b> (verb (past simple passive)): Past simple passive, not suitable here because the neighbors are the ones doing the action.</li><li><b>got</b> (verb (simple past)): Simple past tense, positive form.</li><li><b>was playing</b> (verb (past continuous, singular)): Past continuous tense, but 'was' is used for singular subjects, not plural like 'neighbors.'</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used for actions that were happening at a specific time in the past. Simple past tense is used for actions that happened and finished in the past. Negative form of simple past: did not (didn't) + base verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này mô tả một hành động đang diễn ra trong quá khứ (hàng xóm mở nhạc to suốt đêm) và kết quả của nó (tôi không ngủ được nhiều). Ở chỗ trống đầu tiên, ta cần thì quá khứ tiếp diễn để diễn tả hành động kéo dài: 'were playing'. Ở chỗ trống thứ hai, ta cần thì quá khứ đơn để diễn tả kết quả: 'didn't get'.<br><ul><li><b>were playing</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng để diễn tả hành động đang xảy ra trong quá khứ.</li><li><b>didn't get</b> (động từ (quá khứ đơn, phủ định)): Dạng phủ định của thì quá khứ đơn, dùng để diễn tả hành động không xảy ra trong quá khứ.</li><li><b>played</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>weren't get</b> (dạng động từ sai): Dạng sai; 'weren't' không đi với động từ nguyên thể 'get'.</li><li><b>were played</b> (động từ (bị động quá khứ đơn)): Dạng bị động quá khứ đơn, không phù hợp vì hàng xóm là chủ thể thực hiện hành động.</li><li><b>got</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dạng khẳng định.</li><li><b>was playing</b> (động từ (quá khứ tiếp diễn, số ít)): Thì quá khứ tiếp diễn, nhưng 'was' dùng cho chủ ngữ số ít, không phù hợp với 'neighbors' (số nhiều).</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn (was/were + V-ing) dùng để diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ. Thì quá khứ đơn dùng cho hành động đã xảy ra và kết thúc trong quá khứ. Dạng phủ định của quá khứ đơn: did not (didn't) + động từ nguyên thể.<br><br><b>Tạm dịch:</b> Hàng xóm của tôi đã mở nhạc to suốt đêm, vì vậy tôi không ngủ được nhiều.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence describes an action that was happening over a period of time in the past (the neighbors playing loud music all night) and its result (not getting much sleep). For the first blank, we need the past continuous tense to show the ongoing action: 'were playing.' For the second blank, we need the simple past tense to show the result: 'didn't get.'<br><ul><li><b>were playing</b> (verb (past continuous)): Past continuous tense, used for actions that were ongoing in the past.</li><li><b>didn't get</b> (verb (simple past, negative)): Negative form of the simple past tense, used for actions that did not happen in the past.</li><li><b>played</b> (verb (simple past)): Simple past tense, used for completed actions in the past.</li><li><b>weren't get</b> (incorrect verb form): Incorrect form; 'weren't' is not used with the base verb 'get.'</li><li><b>were played</b> (verb (past simple passive)): Past simple passive, not suitable here because the neighbors are the ones doing the action.</li><li><b>got</b> (verb (simple past)): Simple past tense, positive form.</li><li><b>was playing</b> (verb (past continuous, singular)): Past continuous tense, but 'was' is used for singular subjects, not plural like 'neighbors.'</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used for actions that were happening at a specific time in the past. Simple past tense is used for actions that happened and finished in the past. Negative form of simple past: did not (didn't) + base verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002818",
+        "questionNumber": 14,
+        "questionText": "A car hit me while I ________________ the road.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was crossing",
+            "raw": "A. was crossing",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "crossed",
+            "raw": "B. crossed",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "am crossing",
+            "raw": "C. am crossing",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was crossed",
+            "raw": "D. was crossed",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A car hit me while I ________________ the road.' requires a verb tense that shows an action in progress in the past, interrupted by another action. The word 'while' is often followed by the past continuous tense to indicate an ongoing action. Therefore, the correct answer is 'was crossing'.<br><ul><li><b>was crossing</b> (verb (past continuous)): Past continuous tense, used to describe an action that was happening at a specific time in the past.</li><li><b>crossed</b> (verb (simple past)): Simple past tense, used for a completed action in the past.</li><li><b>am crossing</b> (verb (present continuous)): Present continuous tense, used for an action happening right now.</li><li><b>was crossed</b> (verb (past simple passive)): Past simple passive, incorrect in this context because the subject is performing the action, not receiving it.</li></ul><b>Related structure or vocabulary:</b> while + past continuous (an action in progress) + simple past (an interrupting action)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'A car hit me while I ________________ the road.' cần một thì động từ diễn tả hành động đang diễn ra trong quá khứ và bị một hành động khác chen ngang. Từ 'while' thường đi với thì quá khứ tiếp diễn để chỉ một hành động đang xảy ra. Do đó, đáp án đúng là 'was crossing'.<br><ul><li><b>was crossing</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng để diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ.</li><li><b>crossed</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>am crossing</b> (động từ (hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra ở hiện tại.</li><li><b>was crossed</b> (động từ (bị động quá khứ đơn)): Thì bị động quá khứ đơn, không phù hợp vì chủ ngữ đang thực hiện hành động, không phải bị tác động.</li></ul><b>Cấu trúc và từ vựng:</b> while + quá khứ tiếp diễn (hành động đang diễn ra) + quá khứ đơn (hành động chen ngang)<br><br><b>Tạm dịch:</b> Một chiếc ô tô đã đâm vào tôi khi tôi đang băng qua đường.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A car hit me while I ________________ the road.' requires a verb tense that shows an action in progress in the past, interrupted by another action. The word 'while' is often followed by the past continuous tense to indicate an ongoing action. Therefore, the correct answer is 'was crossing'.<br><ul><li><b>was crossing</b> (verb (past continuous)): Past continuous tense, used to describe an action that was happening at a specific time in the past.</li><li><b>crossed</b> (verb (simple past)): Simple past tense, used for a completed action in the past.</li><li><b>am crossing</b> (verb (present continuous)): Present continuous tense, used for an action happening right now.</li><li><b>was crossed</b> (verb (past simple passive)): Past simple passive, incorrect in this context because the subject is performing the action, not receiving it.</li></ul><b>Related structure or vocabulary:</b> while + past continuous (an action in progress) + simple past (an interrupting action)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00281a",
+        "questionNumber": 15,
+        "questionText": "I ___________ and ___________ my arm while I ___________ up the stairs.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was falling / broke / was running",
+            "raw": "A. was falling / broke / was running",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "fell / was breaking / was running",
+            "raw": "B. fell / was breaking / was running",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "fell / broke / was running",
+            "raw": "C. fell / broke / was running",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "fell / broke / run",
+            "raw": "D. fell / broke / run",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing a sequence of actions in the past. The correct structure is to use the simple past tense for the main actions that happened in sequence (falling and breaking the arm), and the past continuous tense for the background action that was happening at the same time (running up the stairs). Therefore, the correct answer is: 'I fell and broke my arm while I was running up the stairs.'<br><ul><li><b>was falling</b> (verb (past continuous)): Past continuous tense of 'fall', used for ongoing actions in the past.</li><li><b>broke</b> (verb (simple past)): Simple past tense of 'break', used for completed actions in the past.</li><li><b>fell</b> (verb (simple past)): Simple past tense of 'fall', used for completed actions in the past.</li><li><b>was breaking</b> (verb (past continuous)): Past continuous tense of 'break', not suitable here because 'break' is a short, completed action.</li><li><b>run</b> (verb (base form)): Base form of the verb 'run', not correct after 'was' or in this context.</li><li><b>was running</b> (verb (past continuous)): Past continuous tense of 'run', used to describe an ongoing action in the past.</li></ul><b>Related structure or vocabulary:</b> Past simple is used for main actions that happened in sequence. Past continuous is used for background actions happening at the same time. Structure: While + S + was/were + V-ing, S + V-ed.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta mô tả một chuỗi hành động xảy ra trong quá khứ. Cấu trúc đúng là sử dụng thì quá khứ đơn cho các hành động chính xảy ra liên tiếp (ngã và gãy tay), và thì quá khứ tiếp diễn cho hành động nền đang diễn ra cùng lúc (đang chạy lên cầu thang). Vì vậy, đáp án đúng là: 'I fell and broke my arm while I was running up the stairs.'<br><ul><li><b>was falling</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn của 'fall', dùng cho hành động đang diễn ra trong quá khứ.</li><li><b>broke</b> (động từ (quá khứ đơn)): Thì quá khứ đơn của 'break', dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>fell</b> (động từ (quá khứ đơn)): Thì quá khứ đơn của 'fall', dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>was breaking</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn của 'break', không phù hợp ở đây vì 'break' là hành động ngắn, đã hoàn thành.</li><li><b>run</b> (động từ (nguyên thể)): Dạng nguyên thể của động từ 'run', không đúng sau 'was' hoặc trong ngữ cảnh này.</li><li><b>was running</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn của 'run', dùng để diễn tả hành động đang diễn ra trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Quá khứ đơn dùng cho các hành động chính xảy ra liên tiếp. Quá khứ tiếp diễn dùng cho hành động nền đang diễn ra cùng lúc. Cấu trúc: While + S + was/were + V-ing, S + V-ed.<br><br><b>Tạm dịch:</b> Tôi bị ngã và gãy tay khi đang chạy lên cầu thang.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing a sequence of actions in the past. The correct structure is to use the simple past tense for the main actions that happened in sequence (falling and breaking the arm), and the past continuous tense for the background action that was happening at the same time (running up the stairs). Therefore, the correct answer is: 'I fell and broke my arm while I was running up the stairs.'<br><ul><li><b>was falling</b> (verb (past continuous)): Past continuous tense of 'fall', used for ongoing actions in the past.</li><li><b>broke</b> (verb (simple past)): Simple past tense of 'break', used for completed actions in the past.</li><li><b>fell</b> (verb (simple past)): Simple past tense of 'fall', used for completed actions in the past.</li><li><b>was breaking</b> (verb (past continuous)): Past continuous tense of 'break', not suitable here because 'break' is a short, completed action.</li><li><b>run</b> (verb (base form)): Base form of the verb 'run', not correct after 'was' or in this context.</li><li><b>was running</b> (verb (past continuous)): Past continuous tense of 'run', used to describe an ongoing action in the past.</li></ul><b>Related structure or vocabulary:</b> Past simple is used for main actions that happened in sequence. Past continuous is used for background actions happening at the same time. Structure: While + S + was/were + V-ing, S + V-ed.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00281b",
+        "questionNumber": 16,
+        "questionText": "The teachers ______________ around the table when I ______________ the teacher’s room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were sitting / entered",
+            "raw": "A. were sitting / entered",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "sat / was entering",
+            "raw": "B. sat / was entering",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "are sitting / entered",
+            "raw": "C. are sitting / entered",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were sat / was entering",
+            "raw": "D. were sat / was entering",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to describe an action that was happening (the teachers sitting) when another action occurred (I entered). This is a classic case for using the past continuous tense for the ongoing action and the simple past tense for the interrupting action. 'Were sitting' is the past continuous form, and 'entered' is the simple past form.<br><ul><li><b>were sitting / entered</b> (verb phrase (past continuous / simple past)): 'Were sitting' is the past continuous tense, used for an action in progress in the past. 'Entered' is the simple past tense, used for a completed action in the past. This combination correctly shows that the teachers were in the middle of sitting when I entered.</li><li><b>sat / was entering</b> (verb phrase (simple past / past continuous)): 'Sat' is the simple past tense, and 'was entering' is the past continuous. This order is incorrect because the ongoing action should be 'the teachers sitting', not 'I entering'.</li><li><b>are sitting / entered</b> (verb phrase (present continuous / simple past)): 'Are sitting' is present continuous, which is not correct for a past event. 'Entered' is simple past, which is correct for the second action.</li><li><b>were sat / was entering</b> (verb phrase (incorrect passive / past continuous)): 'Were sat' is incorrect because 'sat' is not used in the passive form here. 'Was entering' is past continuous, but the structure is not correct for this context.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense is used for an action that was happening at a specific time in the past, often interrupted by another action in the simple past tense. Structure: [was/were + V-ing] for past continuous, [V-ed] for simple past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần miêu tả một hành động đang diễn ra (các giáo viên đang ngồi) thì một hành động khác xen vào (tôi bước vào phòng giáo viên). Đây là trường hợp điển hình sử dụng thì quá khứ tiếp diễn cho hành động đang diễn ra và thì quá khứ đơn cho hành động xen vào. 'Were sitting' là thì quá khứ tiếp diễn, còn 'entered' là thì quá khứ đơn.<br><ul><li><b>were sitting / entered</b> (cụm động từ (quá khứ tiếp diễn / quá khứ đơn)): 'Were sitting' là thì quá khứ tiếp diễn, dùng để diễn tả hành động đang xảy ra trong quá khứ. 'Entered' là thì quá khứ đơn, dùng cho hành động đã hoàn thành trong quá khứ. Kết hợp này đúng vì diễn tả các giáo viên đang ngồi thì tôi bước vào.</li><li><b>sat / was entering</b> (cụm động từ (quá khứ đơn / quá khứ tiếp diễn)): 'Sat' là thì quá khứ đơn, còn 'was entering' là thì quá khứ tiếp diễn. Thứ tự này không đúng vì hành động đang diễn ra phải là 'các giáo viên đang ngồi', không phải 'tôi đang bước vào'.</li><li><b>are sitting / entered</b> (cụm động từ (hiện tại tiếp diễn / quá khứ đơn)): 'Are sitting' là thì hiện tại tiếp diễn, không phù hợp với sự kiện đã xảy ra trong quá khứ. 'Entered' là thì quá khứ đơn, phù hợp cho hành động thứ hai.</li><li><b>were sat / was entering</b> (cụm động từ (bị động sai / quá khứ tiếp diễn)): 'Were sat' là cấu trúc bị động không đúng trong trường hợp này. 'Was entering' là thì quá khứ tiếp diễn, nhưng cấu trúc này không phù hợp với ngữ cảnh.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn dùng để diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ, thường bị một hành động khác (thì quá khứ đơn) xen vào. Cấu trúc: [was/were + V-ing] cho quá khứ tiếp diễn, [V-ed] cho quá khứ đơn.<br><br><b>Tạm dịch:</b> Các giáo viên đang ngồi quanh bàn thì tôi bước vào phòng giáo viên.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to describe an action that was happening (the teachers sitting) when another action occurred (I entered). This is a classic case for using the past continuous tense for the ongoing action and the simple past tense for the interrupting action. 'Were sitting' is the past continuous form, and 'entered' is the simple past form.<br><ul><li><b>were sitting / entered</b> (verb phrase (past continuous / simple past)): 'Were sitting' is the past continuous tense, used for an action in progress in the past. 'Entered' is the simple past tense, used for a completed action in the past. This combination correctly shows that the teachers were in the middle of sitting when I entered.</li><li><b>sat / was entering</b> (verb phrase (simple past / past continuous)): 'Sat' is the simple past tense, and 'was entering' is the past continuous. This order is incorrect because the ongoing action should be 'the teachers sitting', not 'I entering'.</li><li><b>are sitting / entered</b> (verb phrase (present continuous / simple past)): 'Are sitting' is present continuous, which is not correct for a past event. 'Entered' is simple past, which is correct for the second action.</li><li><b>were sat / was entering</b> (verb phrase (incorrect passive / past continuous)): 'Were sat' is incorrect because 'sat' is not used in the passive form here. 'Was entering' is past continuous, but the structure is not correct for this context.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense is used for an action that was happening at a specific time in the past, often interrupted by another action in the simple past tense. Structure: [was/were + V-ing] for past continuous, [V-ed] for simple past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00281c",
+        "questionNumber": 17,
+        "questionText": "They ______________ about the students who failed in exams.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was talking",
+            "raw": "A. was talking",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "were talking",
+            "raw": "B. were talking",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "were talked",
+            "raw": "C. were talked",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "talks",
+            "raw": "D. talks",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'They ______________ about the students who failed in exams.' requires a verb in the past continuous tense because the sentence is talking about an action that was happening in the past. The subject 'They' is plural, so the correct form is 'were talking'.<br><ul><li><b>was talking</b> (verb (past continuous, singular)): 'Was talking' is the past continuous tense but used for singular subjects (he, she, it). 'They' is plural, so this is incorrect.</li><li><b>were talking</b> (verb (past continuous, plural)): 'Were talking' is the past continuous tense for plural subjects. It means 'was in the process of talking'. This fits the subject 'They'.</li><li><b>were talked</b> (verb (past simple, passive)): 'Were talked' is the passive voice in the past simple, but 'talk' is not usually used in the passive form in this context. This is incorrect.</li><li><b>talks</b> (verb (present simple, singular)): 'Talks' is the present simple tense for singular subjects. 'They' is plural, so this is incorrect.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: Subject + was/were + V-ing. Used to describe an action that was happening at a specific time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'They ______________ about the students who failed in exams.' cần một động từ ở thì quá khứ tiếp diễn vì câu này nói về một hành động đang diễn ra trong quá khứ. Chủ ngữ 'They' là số nhiều, nên dạng đúng là 'were talking'.<br><ul><li><b>was talking</b> (động từ (quá khứ tiếp diễn, số ít)): 'Was talking' là thì quá khứ tiếp diễn nhưng dùng cho chủ ngữ số ít (he, she, it). 'They' là số nhiều nên không đúng.</li><li><b>were talking</b> (động từ (quá khứ tiếp diễn, số nhiều)): 'Were talking' là thì quá khứ tiếp diễn dùng cho chủ ngữ số nhiều. Nghĩa là 'đang nói chuyện'. Phù hợp với chủ ngữ 'They'.</li><li><b>were talked</b> (động từ (quá khứ đơn, bị động)): 'Were talked' là bị động của thì quá khứ đơn, nhưng 'talk' thường không dùng ở dạng bị động trong ngữ cảnh này. Không đúng.</li><li><b>talks</b> (động từ (hiện tại đơn, số ít)): 'Talks' là thì hiện tại đơn dùng cho chủ ngữ số ít. 'They' là số nhiều nên không đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn: Chủ ngữ + was/were + V-ing. Dùng để diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ.<br><br><b>Tạm dịch:</b> Họ đang nói về những học sinh đã trượt trong các kỳ thi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'They ______________ about the students who failed in exams.' requires a verb in the past continuous tense because the sentence is talking about an action that was happening in the past. The subject 'They' is plural, so the correct form is 'were talking'.<br><ul><li><b>was talking</b> (verb (past continuous, singular)): 'Was talking' is the past continuous tense but used for singular subjects (he, she, it). 'They' is plural, so this is incorrect.</li><li><b>were talking</b> (verb (past continuous, plural)): 'Were talking' is the past continuous tense for plural subjects. It means 'was in the process of talking'. This fits the subject 'They'.</li><li><b>were talked</b> (verb (past simple, passive)): 'Were talked' is the passive voice in the past simple, but 'talk' is not usually used in the passive form in this context. This is incorrect.</li><li><b>talks</b> (verb (present simple, singular)): 'Talks' is the present simple tense for singular subjects. 'They' is plural, so this is incorrect.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: Subject + was/were + V-ing. Used to describe an action that was happening at a specific time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b00281d",
+        "questionNumber": 18,
+        "questionText": "Some teachers ______________ to carefully while others ______________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were listening / spoke",
+            "raw": " A. were listening / spoke",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "listened / was speaking",
+            "raw": "B. listened / was speaking",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "were listening / were speaking",
+            "raw": "C. were listening / were speaking",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "were listened / spoke",
+            "raw": "D. were listened / spoke",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Some teachers ______________ to carefully while others ______________.' describes two actions happening at the same time in the past. In English, when two actions are happening simultaneously in the past, we use the past continuous tense (was/were + V-ing) for both actions. Therefore, the correct answer should use 'were listening' and 'were speaking'.<br><ul><li><b>were listening</b> (verb (past continuous)): Past continuous tense of 'listen', used to describe an ongoing action in the past.</li><li><b>spoke</b> (verb (past simple)): Past simple tense of 'speak', used for a completed action in the past.</li><li><b>listened</b> (verb (past simple)): Past simple tense of 'listen', used for a completed action in the past.</li><li><b>was speaking</b> (verb (past continuous)): Past continuous tense of 'speak', used for an ongoing action in the past.</li><li><b>were speaking</b> (verb (past continuous)): Past continuous tense of 'speak', used for an ongoing action in the past.</li><li><b>were listened</b> (verb (passive, incorrect usage)): Incorrect passive form; 'listen' is not used in passive in this context.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing is used to describe actions that were happening at the same time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Some teachers ______________ to carefully while others ______________.' mô tả hai hành động xảy ra đồng thời trong quá khứ. Trong tiếng Anh, khi hai hành động xảy ra cùng lúc trong quá khứ, ta sử dụng thì quá khứ tiếp diễn (was/were + V-ing) cho cả hai hành động. Vì vậy, đáp án đúng là 'were listening' và 'were speaking'.<br><ul><li><b>were listening</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn của 'listen', dùng để diễn tả hành động đang diễn ra trong quá khứ.</li><li><b>spoke</b> (động từ (quá khứ đơn)): Thì quá khứ đơn của 'speak', dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>listened</b> (động từ (quá khứ đơn)): Thì quá khứ đơn của 'listen', dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>was speaking</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn của 'speak', dùng cho hành động đang diễn ra trong quá khứ.</li><li><b>were speaking</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn của 'speak', dùng cho hành động đang diễn ra trong quá khứ.</li><li><b>were listened</b> (động từ (bị động, dùng sai)): Dạng bị động không đúng; 'listen' không dùng ở bị động trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn: was/were + V-ing dùng để diễn tả các hành động đang xảy ra đồng thời trong quá khứ.<br><br><b>Tạm dịch:</b> Một số giáo viên đang lắng nghe cẩn thận trong khi những người khác đang nói.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Some teachers ______________ to carefully while others ______________.' describes two actions happening at the same time in the past. In English, when two actions are happening simultaneously in the past, we use the past continuous tense (was/were + V-ing) for both actions. Therefore, the correct answer should use 'were listening' and 'were speaking'.<br><ul><li><b>were listening</b> (verb (past continuous)): Past continuous tense of 'listen', used to describe an ongoing action in the past.</li><li><b>spoke</b> (verb (past simple)): Past simple tense of 'speak', used for a completed action in the past.</li><li><b>listened</b> (verb (past simple)): Past simple tense of 'listen', used for a completed action in the past.</li><li><b>was speaking</b> (verb (past continuous)): Past continuous tense of 'speak', used for an ongoing action in the past.</li><li><b>were speaking</b> (verb (past continuous)): Past continuous tense of 'speak', used for an ongoing action in the past.</li><li><b>were listened</b> (verb (passive, incorrect usage)): Incorrect passive form; 'listen' is not used in passive in this context.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing is used to describe actions that were happening at the same time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002821",
+        "questionNumber": 19,
+        "questionText": "A young teacher ______________ next to me. He ______________ coffee.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "sits / drank",
+            "raw": "A. sits / drank",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "was sitting / was drinking",
+            "raw": "B. was sitting / was drinking",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "was sitting / drank",
+            "raw": "C. was sitting / drank",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "sat / was drank",
+            "raw": "D. sat / was drank",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence describes an action happening in the past, with a focus on what was happening at a specific moment. The correct tense to use is the past continuous (was/were + V-ing) to show ongoing actions in the past. Both verbs should be in the past continuous form to match the context.<br><ul><li><b>sits / drank</b> (Verb (present simple / past simple)): 'sits' is present simple, which is not suitable for describing a past action. 'drank' is past simple, but the sentence requires a continuous action.</li><li><b>was sitting / was drinking</b> (Verb (past continuous)): Both verbs are in the past continuous tense, which is used to describe actions that were happening at the same time in the past.</li><li><b>was sitting / drank</b> (Verb (past continuous / past simple)): 'was sitting' is past continuous, but 'drank' is past simple. The tenses are inconsistent for describing simultaneous actions.</li><li><b>sat / was drank</b> (Verb (past simple / incorrect passive)): 'sat' is past simple, and 'was drank' is incorrect because 'drank' is the past simple of 'drink', and 'was drank' is not a correct passive form here.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used to describe actions that were happening at the same time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này mô tả một hành động đang diễn ra trong quá khứ, tập trung vào những gì đang xảy ra tại một thời điểm cụ thể. Thì đúng cần sử dụng là quá khứ tiếp diễn (was/were + V-ing) để diễn tả hành động đang xảy ra trong quá khứ. Cả hai động từ đều nên ở thì quá khứ tiếp diễn để phù hợp với ngữ cảnh.<br><ul><li><b>sits / drank</b> (Động từ (hiện tại đơn / quá khứ đơn)): 'sits' là thì hiện tại đơn, không phù hợp để diễn tả hành động trong quá khứ. 'drank' là thì quá khứ đơn, nhưng câu này cần diễn tả hành động đang diễn ra.</li><li><b>was sitting / was drinking</b> (Động từ (quá khứ tiếp diễn)): Cả hai động từ đều ở thì quá khứ tiếp diễn, dùng để diễn tả các hành động đang xảy ra cùng lúc trong quá khứ.</li><li><b>was sitting / drank</b> (Động từ (quá khứ tiếp diễn / quá khứ đơn)): 'was sitting' là quá khứ tiếp diễn, nhưng 'drank' là quá khứ đơn. Hai thì này không đồng nhất khi diễn tả các hành động xảy ra đồng thời.</li><li><b>sat / was drank</b> (Động từ (quá khứ đơn / bị động sai)): 'sat' là quá khứ đơn, còn 'was drank' là sai vì 'drank' là quá khứ đơn của 'drink', và 'was drank' không phải là dạng bị động đúng ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn (was/were + V-ing) dùng để diễn tả các hành động đang xảy ra cùng lúc trong quá khứ.<br><br><b>Tạm dịch:</b> Một giáo viên trẻ đang ngồi cạnh tôi. Anh ấy đang uống cà phê.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence describes an action happening in the past, with a focus on what was happening at a specific moment. The correct tense to use is the past continuous (was/were + V-ing) to show ongoing actions in the past. Both verbs should be in the past continuous form to match the context.<br><ul><li><b>sits / drank</b> (Verb (present simple / past simple)): 'sits' is present simple, which is not suitable for describing a past action. 'drank' is past simple, but the sentence requires a continuous action.</li><li><b>was sitting / was drinking</b> (Verb (past continuous)): Both verbs are in the past continuous tense, which is used to describe actions that were happening at the same time in the past.</li><li><b>was sitting / drank</b> (Verb (past continuous / past simple)): 'was sitting' is past continuous, but 'drank' is past simple. The tenses are inconsistent for describing simultaneous actions.</li><li><b>sat / was drank</b> (Verb (past simple / incorrect passive)): 'sat' is past simple, and 'was drank' is incorrect because 'drank' is the past simple of 'drink', and 'was drank' is not a correct passive form here.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense (was/were + V-ing) is used to describe actions that were happening at the same time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002823",
+        "questionNumber": 20,
+        "questionText": "He ______________ me because he ______________ to music with through the headphones.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "wasn’t hearing / listened",
+            "raw": "A. wasn’t hearing / listened",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "didn’t hear / listened",
+            "raw": "B. didn’t hear / listened",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "wasn’t hear / was listening",
+            "raw": "C. wasn’t hear / was listening",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "didn’t hear / was listening",
+            "raw": "D. didn’t hear / was listening",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing an action that was happening in the past and another action that was interrupted by it. The correct structure is: 'He didn't hear me because he was listening to music through the headphones.' The first blank needs the simple past negative form ('didn't hear') to show that he did not hear at that moment. The second blank needs the past continuous ('was listening') to indicate an ongoing action in the past.<br><ul><li><b>wasn’t hearing / listened</b> (verb forms): 'wasn't hearing' is incorrect because 'hear' is a non-continuous verb and is not usually used in the continuous form. 'listened' is simple past, but the context requires past continuous.</li><li><b>didn’t hear / listened</b> (verb forms): 'didn't hear' is correct for the first blank, but 'listened' (simple past) is not suitable for an ongoing action in the past.</li><li><b>wasn’t hear / was listening</b> (verb forms): 'wasn't hear' is grammatically incorrect; it should be 'wasn't hearing' if continuous, but 'hear' is not used in continuous form. 'was listening' is correct for the ongoing action.</li><li><b>didn’t hear / was listening</b> (verb forms): 'didn't hear' (simple past negative) is correct for the action that did not happen, and 'was listening' (past continuous) is correct for the ongoing action in the past.</li></ul><b>Related structure or vocabulary:</b> Past Simple vs. Past Continuous: Past simple is used for completed actions in the past, while past continuous is used for actions that were ongoing at a specific time in the past. 'Hear' is a stative verb and is not usually used in continuous forms.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta mô tả một hành động xảy ra trong quá khứ và một hành động khác đang diễn ra thì bị hành động kia làm gián đoạn. Cấu trúc đúng là: 'He didn't hear me because he was listening to music through the headphones.' Chỗ trống đầu tiên cần dùng thì quá khứ đơn phủ định ('didn't hear') để diễn tả anh ấy đã không nghe thấy vào thời điểm đó. Chỗ trống thứ hai cần dùng thì quá khứ tiếp diễn ('was listening') để chỉ hành động đang diễn ra trong quá khứ.<br><ul><li><b>wasn’t hearing / listened</b> (dạng động từ): 'wasn't hearing' là sai vì 'hear' là động từ chỉ trạng thái (stative verb) và thường không dùng ở dạng tiếp diễn. 'listened' là thì quá khứ đơn, nhưng ngữ cảnh cần thì quá khứ tiếp diễn.</li><li><b>didn’t hear / listened</b> (dạng động từ): 'didn't hear' đúng cho chỗ trống đầu tiên, nhưng 'listened' (quá khứ đơn) không phù hợp để diễn tả hành động đang diễn ra trong quá khứ.</li><li><b>wasn’t hear / was listening</b> (dạng động từ): 'wasn't hear' là sai ngữ pháp; nếu dùng tiếp diễn phải là 'wasn't hearing', nhưng 'hear' không dùng ở tiếp diễn. 'was listening' đúng cho hành động đang diễn ra.</li><li><b>didn’t hear / was listening</b> (dạng động từ): 'didn't hear' (quá khứ đơn phủ định) đúng cho hành động không xảy ra, và 'was listening' (quá khứ tiếp diễn) đúng cho hành động đang diễn ra trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Quá khứ đơn và quá khứ tiếp diễn: Quá khứ đơn dùng cho hành động đã hoàn thành trong quá khứ, còn quá khứ tiếp diễn dùng cho hành động đang diễn ra tại một thời điểm trong quá khứ. 'Hear' là động từ chỉ trạng thái nên không dùng ở tiếp diễn.<br><br><b>Tạm dịch:</b> Anh ấy đã không nghe tôi vì anh ấy đang nghe nhạc bằng tai nghe.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing an action that was happening in the past and another action that was interrupted by it. The correct structure is: 'He didn't hear me because he was listening to music through the headphones.' The first blank needs the simple past negative form ('didn't hear') to show that he did not hear at that moment. The second blank needs the past continuous ('was listening') to indicate an ongoing action in the past.<br><ul><li><b>wasn’t hearing / listened</b> (verb forms): 'wasn't hearing' is incorrect because 'hear' is a non-continuous verb and is not usually used in the continuous form. 'listened' is simple past, but the context requires past continuous.</li><li><b>didn’t hear / listened</b> (verb forms): 'didn't hear' is correct for the first blank, but 'listened' (simple past) is not suitable for an ongoing action in the past.</li><li><b>wasn’t hear / was listening</b> (verb forms): 'wasn't hear' is grammatically incorrect; it should be 'wasn't hearing' if continuous, but 'hear' is not used in continuous form. 'was listening' is correct for the ongoing action.</li><li><b>didn’t hear / was listening</b> (verb forms): 'didn't hear' (simple past negative) is correct for the action that did not happen, and 'was listening' (past continuous) is correct for the ongoing action in the past.</li></ul><b>Related structure or vocabulary:</b> Past Simple vs. Past Continuous: Past simple is used for completed actions in the past, while past continuous is used for actions that were ongoing at a specific time in the past. 'Hear' is a stative verb and is not usually used in continuous forms.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e068d1bfab7a5b002824",
+        "questionNumber": 21,
+        "questionText": "I ______________ up and ______________ the teacher’s room quietly while the teachers ______________ extra courses on Saturdays lively.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was standing / was leaving / still discussed",
+            "raw": "A. was standing / was leaving / still discussed",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "stood / left / still discussed",
+            "raw": "B. stood / left / still discussed",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "stood / left / were still discussing",
+            "raw": "C. stood / left / were still discussing",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "was standing / left / were still discussing",
+            "raw": "D. was standing / left / were still discussing",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing a sequence of actions in the past, with one action happening while another was ongoing. The correct tense for the main actions ('stood up' and 'left') should be the simple past, as they are completed actions. The ongoing action ('the teachers were still discussing') should be in the past continuous tense to show that it was happening at the same time. Therefore, the correct answer is: 'I stood up and left the teacher’s room quietly while the teachers were still discussing extra courses on Saturdays lively.'<br><ul><li><b>was standing</b> (verb (past continuous)): Past continuous tense, used for ongoing actions in the past. Not suitable here because 'stood up' is a completed action.</li><li><b>stood</b> (verb (simple past)): Simple past tense, used for completed actions in the past. Correct for this context.</li><li><b>was leaving</b> (verb (past continuous)): Past continuous tense, used for ongoing actions. Not suitable here because 'left' is a completed action.</li><li><b>left</b> (verb (simple past)): Simple past tense, used for completed actions in the past. Correct for this context.</li><li><b>still discussed</b> (verb (simple past)): Simple past tense, but 'discussed' is not correct for an ongoing action happening at the same time.</li><li><b>were still discussing</b> (verb (past continuous)): Past continuous tense, used for actions that were ongoing in the past. Correct for this context.</li></ul><b>Related structure or vocabulary:</b> Past simple vs. past continuous: Past simple is used for completed actions in the past. Past continuous is used for actions that were ongoing at a specific time in the past, often used with 'while' to show two actions happening at the same time.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta mô tả một chuỗi hành động xảy ra trong quá khứ, với một hành động diễn ra trong khi hành động khác đang tiếp diễn. Thì đúng cho các hành động chính ('stood up' và 'left') là thì quá khứ đơn, vì đây là các hành động đã hoàn thành. Hành động đang diễn ra ('the teachers were still discussing') nên dùng thì quá khứ tiếp diễn để thể hiện nó đang xảy ra cùng lúc. Vì vậy, đáp án đúng là: 'I stood up and left the teacher’s room quietly while the teachers were still discussing extra courses on Saturdays lively.'<br><ul><li><b>was standing</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng cho hành động đang diễn ra trong quá khứ. Không phù hợp ở đây vì 'stood up' là hành động đã hoàn thành.</li><li><b>stood</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dùng cho hành động đã hoàn thành trong quá khứ. Phù hợp với ngữ cảnh này.</li><li><b>was leaving</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng cho hành động đang diễn ra. Không phù hợp ở đây vì 'left' là hành động đã hoàn thành.</li><li><b>left</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dùng cho hành động đã hoàn thành trong quá khứ. Phù hợp với ngữ cảnh này.</li><li><b>still discussed</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, nhưng 'discussed' không phù hợp để diễn tả hành động đang diễn ra cùng lúc.</li><li><b>were still discussing</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng cho hành động đang diễn ra trong quá khứ. Phù hợp với ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Quá khứ đơn vs. quá khứ tiếp diễn: Quá khứ đơn dùng cho hành động đã hoàn thành trong quá khứ. Quá khứ tiếp diễn dùng cho hành động đang diễn ra tại một thời điểm xác định trong quá khứ, thường dùng với 'while' để diễn tả hai hành động xảy ra cùng lúc.<br><br><b>Tạm dịch:</b> Tôi đứng dậy và rời khỏi phòng giáo viên một cách lặng lẽ trong khi các giáo viên vẫn đang thảo luận sôi nổi về các khóa học bổ sung vào các ngày thứ Bảy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are describing a sequence of actions in the past, with one action happening while another was ongoing. The correct tense for the main actions ('stood up' and 'left') should be the simple past, as they are completed actions. The ongoing action ('the teachers were still discussing') should be in the past continuous tense to show that it was happening at the same time. Therefore, the correct answer is: 'I stood up and left the teacher’s room quietly while the teachers were still discussing extra courses on Saturdays lively.'<br><ul><li><b>was standing</b> (verb (past continuous)): Past continuous tense, used for ongoing actions in the past. Not suitable here because 'stood up' is a completed action.</li><li><b>stood</b> (verb (simple past)): Simple past tense, used for completed actions in the past. Correct for this context.</li><li><b>was leaving</b> (verb (past continuous)): Past continuous tense, used for ongoing actions. Not suitable here because 'left' is a completed action.</li><li><b>left</b> (verb (simple past)): Simple past tense, used for completed actions in the past. Correct for this context.</li><li><b>still discussed</b> (verb (simple past)): Simple past tense, but 'discussed' is not correct for an ongoing action happening at the same time.</li><li><b>were still discussing</b> (verb (past continuous)): Past continuous tense, used for actions that were ongoing in the past. Correct for this context.</li></ul><b>Related structure or vocabulary:</b> Past simple vs. past continuous: Past simple is used for completed actions in the past. Past continuous is used for actions that were ongoing at a specific time in the past, often used with 'while' to show two actions happening at the same time.<br><br>"
+      }
+    }
+  ]
+}

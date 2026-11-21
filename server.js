@@ -1,0 +1,475 @@
+const express = require('express');
+const cors = require('cors');
+const fs = require('fs');
+const path = require('path');
+
+const app = express();
+const PORT = process.env.PORT || 3000;
+const DATA_DIR = path.join(__dirname, 'data');
+
+if (!fs.existsSync(DATA_DIR)) {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+}
+
+app.use(cors());
+app.use(express.json({ limit: '10mb' }));
+app.use(express.static(path.join(__dirname, 'public')));
+
+// TOEIC Score Conversion Table (standard ETS mapping)
+function calculateToeicScore(listeningCorrect, readingCorrect) {
+  // Approximate standard conversion curve for 100 questions each
+  const lMap = [
+    5, 5, 5, 5, 5, 5, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, // 0-19
+    75, 80, 85, 90, 95, 100, 110, 115, 120, 125, 130, 135, 140, 145, 150, 160, 165, 170, 175, 180, // 20-39
+    185, 190, 195, 200, 210, 215, 220, 230, 240, 245, 250, 255, 260, 270, 275, 280, 290, 295, 300, 310, // 40-59
+    315, 320, 325, 330, 335, 340, 350, 355, 360, 365, 370, 380, 385, 390, 395, 400, 405, 410, 420, 425, // 60-79
+    430, 440, 445, 450, 460, 465, 470, 475, 480, 485, 490, 495, 495, 495, 495, 495, 495, 495, 495, 495, 495 // 80-100
+  ];
+
+  const rMap = [
+    5, 5, 5, 5, 5, 5, 5, 5, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, // 0-19
+    65, 70, 75, 80, 85, 90, 95, 100, 110, 115, 120, 125, 130, 135, 140, 145, 150, 160, 165, 170, // 20-39
+    175, 180, 185, 190, 195, 200, 210, 215, 220, 225, 230, 235, 240, 250, 255, 260, 265, 270, 280, 285, // 40-59
+    290, 295, 300, 305, 310, 320, 325, 330, 335, 340, 350, 355, 360, 365, 370, 375, 380, 385, 390, 395, // 60-79
+    400, 405, 410, 415, 420, 425, 430, 435, 445, 450, 455, 465, 470, 480, 485, 490, 495, 495, 495, 495, 495 // 80-100
+  ];
+
+  const lIdx = Math.max(0, Math.min(100, Math.round(listeningCorrect)));
+  const rIdx = Math.max(0, Math.min(100, Math.round(readingCorrect)));
+  const lScore = lMap[lIdx];
+  const rScore = rMap[rIdx];
+  return {
+    listeningScore: lScore,
+    readingScore: rScore,
+    totalScore: lScore + rScore
+  };
+}
+
+function cleanChoiceContent(rawContent) {
+  if (!rawContent) return { letter: '', text: '' };
+  const s = String(rawContent).trim();
+  const m = s.match(/^\(?([A-Da-d])\)?[\.\:\s\-]*(.*)$/);
+  if (m) {
+    return {
+      letter: m[1].toUpperCase(),
+      text: m[2].trim()
+    };
+  }
+  return { letter: '', text: s };
+}
+
+// Transform raw card to clean question (V2: 100% Accurate choices & answers)
+function parseCard(card, questionNum) {
+  const qData = card.question || {};
+  const ansData = card.answer || {};
+  const rawChoices = card.choices || [];
+
+  const parsedChoices = [];
+  let correctLetter = 'A';
+
+  if (Array.isArray(rawChoices) && rawChoices.length > 0) {
+    for (let i = 0; i < rawChoices.length; i++) {
+      const rc = rawChoices[i];
+      const defaultLetter = String.fromCharCode(65 + i);
+      const content = rc.content || '';
+      const { letter, text } = cleanChoiceContent(content);
+      const finalLetter = letter || defaultLetter;
+      const isCorrect = !!rc.isCorrect;
+
+      if (isCorrect) {
+        correctLetter = finalLetter;
+      }
+
+      parsedChoices.push({
+        letter: finalLetter,
+        text: text,
+        raw: content,
+        isCorrect: isCorrect
+      });
+    }
+  } else {
+    const correctAnswers = ansData.texts || [];
+    const otherChoices = ansData.choices || [];
+    const all = [...correctAnswers, ...otherChoices];
+    for (let i = 0; i < all.length; i++) {
+      const letter = String.fromCharCode(65 + i);
+      parsedChoices.push({
+        letter,
+        text: all[i],
+        raw: all[i],
+        isCorrect: i === 0
+      });
+    }
+  }
+
+  let soundUrl = qData.sound || '';
+  let imageUrl = qData.image || '';
+  if (imageUrl && !imageUrl.startsWith('http')) {
+    imageUrl = `https://storage.googleapis.com/${imageUrl}`;
+  }
+
+  const hintEn = ansData.hint || '';
+  const hintVi = (ansData.mapLangHint && ansData.mapLangHint.vi) || '';
+
+  return {
+    id: card._id,
+    questionNumber: questionNum,
+    questionText: (qData.text || '').trim(),
+    imageUrl,
+    audioUrl: soundUrl,
+    choices: parsedChoices,
+    correctAnswer: correctLetter,
+    explanationHtml: hintEn,
+    explanationViHtml: hintVi,
+    transcriptHtml: hintEn
+  };
+}
+
+// Convert cards into clean test structure
+function transformCards(cards, topicId, testTitle = '') {
+  const parsedQuestions = [];
+  let qCounter = 1;
+
+  for (const c of cards) {
+    const children = c.childCards || [];
+    if (children.length > 0) {
+      let groupSound = (c.question && c.question.sound) || '';
+      let groupImage = (c.question && c.question.image) || '';
+      if (groupImage && !groupImage.startsWith('http')) {
+        groupImage = `https://storage.googleapis.com/${groupImage}`;
+      }
+      const groupPassage = (c.question && (c.question.text || c.question.article)) || '';
+      const groupExplanation = (c.answer && c.answer.hint) || '';
+      const groupExplanationVi = (c.answer && c.answer.mapLangHint && c.answer.mapLangHint.vi) || '';
+
+      const subQuestions = [];
+      for (const child of children) {
+        const subQ = parseCard(child, qCounter);
+        if (!subQ.audioUrl && groupSound) subQ.audioUrl = groupSound;
+        if (!subQ.imageUrl && groupImage) subQ.imageUrl = groupImage;
+        if (!subQ.explanationViHtml && groupExplanationVi) subQ.explanationViHtml = groupExplanationVi;
+        subQuestions.push(subQ);
+        qCounter++;
+      }
+
+      parsedQuestions.append ? null : parsedQuestions.push({
+        type: 'group',
+        groupId: c._id,
+        audioUrl: groupSound,
+        imageUrl: groupImage,
+        passageHtml: groupPassage,
+        transcriptHtml: groupExplanation,
+        transcriptViHtml: groupExplanationVi,
+        questions: subQuestions
+      });
+    } else {
+      const q = parseCard(c, qCounter);
+      parsedQuestions.push({
+        type: 'single',
+        question: q
+      });
+      qCounter++;
+    }
+  }
+
+  return {
+    topicId,
+    title: testTitle,
+    totalCards: cards.length,
+    totalQuestions: qCounter - 1,
+    data: parsedQuestions
+  };
+}
+
+// API: Get Tests Summary
+app.get('/api/tests', (req, res) => {
+  const filePath = path.join(DATA_DIR, 'tests_summary.json');
+  if (fs.existsSync(filePath)) {
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    return res.json(data);
+  }
+  res.status(404).json({ error: 'tests_summary.json not found' });
+});
+
+// API: Get Practice Summary
+app.get('/api/practice', (req, res) => {
+  const filePath = path.join(DATA_DIR, 'practice_summary.json');
+  if (fs.existsSync(filePath)) {
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    return res.json(data);
+  }
+  res.status(404).json({ error: 'practice_summary.json not found' });
+});
+
+// API: Get specific test detail (with on-demand crawl + caching)
+app.get('/api/test/:id', async (req, res) => {
+  const { id } = req.params;
+  const filePath = path.join(DATA_DIR, `${id}.json`);
+
+  // Check local cache first
+  if (fs.existsSync(filePath)) {
+    try {
+      let raw = fs.readFileSync(filePath, 'utf-8');
+      let changed = false;
+      if (raw.includes('storage.googleapis.com//')) {
+        raw = raw.replaceAll('storage.googleapis.com//', 'storage.googleapis.com/');
+        changed = true;
+      }
+      if (raw.includes('": "estudyme/')) {
+        raw = raw.replaceAll('": "estudyme/', '": "https://storage.googleapis.com/estudyme/');
+        changed = true;
+      }
+      if (changed) {
+        fs.writeFileSync(filePath, raw, 'utf-8');
+      }
+      const data = JSON.parse(raw);
+      return res.json({ source: 'cache', ...data });
+    } catch (err) {
+      console.error('Error reading cached file:', err);
+    }
+  }
+
+  // Not cached yet: fetch live from EstudyMe backend and cache
+  try {
+    console.log(`On-demand crawling test: ${id}...`);
+    const resp = await fetch('https://v2.estudyme.com/api/get-card-by-topic-id', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+      },
+      body: JSON.stringify({ topicId: id })
+    });
+
+    if (!resp.ok) {
+      return res.status(resp.status).json({ error: `EstudyMe API returned ${resp.status}` });
+    }
+
+    const cards = await resp.json();
+    if (!Array.isArray(cards)) {
+      return res.status(500).json({ error: 'Invalid response from upstream API' });
+    }
+
+    const testData = transformCards(cards, id, `TOEIC Practice Test ${id.substring(0, 6)}`);
+
+    // Cache locally
+    fs.writeFileSync(filePath, JSON.stringify(testData, null, 2), 'utf-8');
+    console.log(`Successfully cached ${testData.totalQuestions} questions for ${id}`);
+
+    res.json({ source: 'live', ...testData });
+  } catch (error) {
+    console.error(`Error fetching test ${id}:`, error);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// API: Get Theory / Topic Details
+app.get('/api/topic/:id', async (req, res) => {
+  const { id } = req.params;
+
+  // Check local practice_full_summary.json first
+  try {
+    const fullSummaryPath = path.join(DATA_DIR, 'practice_full_summary.json');
+    if (fs.existsSync(fullSummaryPath)) {
+      const full = JSON.parse(fs.readFileSync(fullSummaryPath, 'utf-8'));
+      // Search in grammar
+      const gItem = (full.grammar?.topics || []).find(t => t.id === id);
+      if (gItem && gItem.description) {
+        return res.json(gItem);
+      }
+      // Search in parts lessons
+      for (const p of (full.parts || [])) {
+        const lItem = (p.lessons || []).find(l => l.id === id);
+        if (lItem && lItem.description) {
+          return res.json(lItem);
+        }
+      }
+    }
+  } catch (localErr) {
+    console.warn('Error reading local topic summary:', localErr.message);
+  }
+
+  // Fallback to upstream API
+  try {
+    const resp = await fetch('https://v2.estudyme.com/api/get-topic-by-id', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'User-Agent': 'Mozilla/5.0'
+      },
+      body: JSON.stringify({ topicId: id })
+    });
+    const data = await resp.json();
+    res.json(data);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// API: Submit test results and compute standard TOEIC score
+app.post('/api/submit', (req, res) => {
+  const { testId, testTitle, userAnswers, totalQuestions, timeSpentSeconds, testType } = req.body;
+  const filePath = path.join(DATA_DIR, `${testId}.json`);
+
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: 'Test data not found' });
+  }
+
+  const testData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  let correctCount = 0;
+  let wrongCount = 0;
+  let skippedCount = 0;
+  let listeningCorrect = 0;
+  let readingCorrect = 0;
+
+  const detailedResults = [];
+
+  const sanitizeUrl = (u) => {
+    if (!u) return '';
+    let clean = String(u).trim();
+    if (clean.startsWith('//')) clean = 'https:' + clean;
+    if (clean.startsWith('estudyme/')) clean = 'https://storage.googleapis.com/' + clean;
+    clean = clean.replace(/storage\.googleapis\.com\/+/g, 'storage.googleapis.com/');
+    if (!clean.startsWith('http://') && !clean.startsWith('https://') && !clean.startsWith('data:')) {
+      if (clean.startsWith('/')) clean = clean.substring(1);
+      clean = 'https://storage.googleapis.com/' + clean;
+    }
+    return clean;
+  };
+
+  const checkAnswer = (q, group) => {
+    const rawUserAns = (userAnswers[q.questionNumber] || '').trim().toUpperCase();
+    const userMatch = rawUserAns.match(/[A-Da-d]/);
+    const userAns = userMatch ? userMatch[0].toUpperCase() : '';
+
+    let correctLetter = 'A';
+    if (q.correctAnswer) {
+      const match = String(q.correctAnswer).match(/[A-Da-d]/);
+      if (match) correctLetter = match[0].toUpperCase();
+    }
+    const isCorrect = userAns && userAns === correctLetter;
+    
+    if (!userAns) {
+      skippedCount++;
+    } else if (isCorrect) {
+      correctCount++;
+      if (q.questionNumber <= 100) listeningCorrect++;
+      else readingCorrect++;
+    } else {
+      wrongCount++;
+    }
+
+    detailedResults.push({
+      questionNumber: q.questionNumber,
+      userAnswer: userAns,
+      correctAnswer: correctLetter,
+      isCorrect: !!isCorrect,
+      explanationHtml: q.explanationHtml || (group && group.transcriptHtml) || '',
+      explanationViHtml: q.explanationViHtml || (group && group.transcriptViHtml) || '',
+      transcriptHtml: q.transcriptHtml || (group && group.transcriptHtml) || '',
+      transcriptViHtml: q.transcriptViHtml || (group && group.transcriptViHtml) || '',
+      audioUrl: sanitizeUrl(q.audioUrl || (group && group.audioUrl) || ''),
+      imageUrl: sanitizeUrl(q.imageUrl || (group && group.imageUrl) || ''),
+      passageHtml: (group && group.passageHtml) || '',
+      questionText: q.questionText || '',
+      choices: q.choices
+    });
+  };
+
+  for (const item of testData.data) {
+    if (item.type === 'single') {
+      checkAnswer(item.question, null);
+    } else if (item.type === 'group') {
+      for (const sub of item.questions) {
+        checkAnswer(sub, item);
+      }
+    }
+  }
+
+  // Calculate official scaled score
+  let scoreData;
+  if (testData.totalQuestions >= 180) {
+    // 200 câu chuẩn
+    scoreData = calculateToeicScore(listeningCorrect, readingCorrect);
+  } else if (testData.totalQuestions >= 90) {
+    // Mini Test 100 câu: x2 scale
+    scoreData = calculateToeicScore(listeningCorrect * 2, readingCorrect * 2);
+  } else {
+    // Luyện tập theo Part
+    const accuracy = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
+    scoreData = {
+      listeningScore: listeningCorrect * 5,
+      readingScore: readingCorrect * 5,
+      totalScore: `${accuracy}% (${correctCount}/${totalQuestions})`
+    };
+  }
+
+  let testTitleResolved = testTitle || testData.title;
+  if (!testTitleResolved) {
+    try {
+      const summary = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'tests_summary.json'), 'utf-8'));
+      const found = [...(summary.full_tests || []), ...(summary.mini_tests || [])].find(t => t.id === testId);
+      if (found) testTitleResolved = found.name;
+    } catch (e) {}
+  }
+  if (!testTitleResolved) testTitleResolved = `TOEIC Test ${testId.substring(0, 6)}`;
+
+  const resultRecord = {
+    id: Date.now().toString(),
+    testId,
+    testTitle: testTitleResolved,
+    date: new Date().toISOString(),
+    totalQuestions: testData.totalQuestions,
+    correctCount,
+    wrongCount,
+    skippedCount,
+    listeningCorrect,
+    readingCorrect,
+    timeSpentSeconds: timeSpentSeconds || 0,
+    score: scoreData,
+    detailedResults
+  };
+
+  // Save to history
+  const historyPath = path.join(DATA_DIR, 'history.json');
+  let history = [];
+  if (fs.existsSync(historyPath)) {
+    try {
+      history = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
+    } catch (e) {}
+  }
+  history.unshift({
+    id: resultRecord.id,
+    testId: resultRecord.testId,
+    testTitle: resultRecord.testTitle,
+    date: resultRecord.date,
+    score: resultRecord.score.totalScore,
+    accuracy: Math.round((correctCount / testData.totalQuestions) * 100),
+    timeSpentSeconds: resultRecord.timeSpentSeconds
+  });
+  fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf-8');
+
+  res.json(resultRecord);
+});
+
+// API: Get study history
+app.get('/api/history', (req, res) => {
+  const historyPath = path.join(DATA_DIR, 'history.json');
+  if (fs.existsSync(historyPath)) {
+    const data = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
+    return res.json(data);
+  }
+  res.json([]);
+});
+
+// Fallback to index.html for SPA routing
+app.use((req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
+app.listen(PORT, () => {
+  console.log(`=======================================================`);
+  console.log(`🚀 TOEIC Test Pro Platform is running at: http://localhost:${PORT}`);
+  console.log(`📁 Data directory: ${DATA_DIR}`);
+  console.log(`=======================================================`);
+});

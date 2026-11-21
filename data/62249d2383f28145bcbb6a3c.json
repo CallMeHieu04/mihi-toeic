@@ -1,0 +1,808 @@
+{
+  "topicId": "62249d2383f28145bcbb6a3c",
+  "title": "VERBS - Practice 4",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a47",
+        "questionNumber": 1,
+        "questionText": "If a child is picked up in the clinic, they _______________ to wait in the hallway by the side exit until their name is called.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "am",
+            "raw": "C. am ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "are",
+            "raw": "D. are",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct form of the verb 'to be' to match the subject 'a child.' Since 'a child' is singular, we use 'is' as the correct form of the verb 'to be' in the passive voice construction.<br><ul><li><b>do</b> (verb (auxiliary)): 'Do' is the base form of the verb and is used as an auxiliary verb for questions and negatives in the present simple tense, but it does not fit here because the sentence requires a form of 'to be.'</li><li><b>is</b> (verb (to be, singular present)): 'Is' is the singular present form of the verb 'to be,' used with singular subjects like 'a child.' It fits the sentence structure and meaning.</li><li><b>am</b> (verb (to be, first person singular present)): 'Am' is the first person singular present form of 'to be,' used only with 'I.' It does not fit with 'a child.'</li><li><b>are</b> (verb (to be, plural present)): 'Are' is the plural present form of 'to be,' used with plural subjects or 'you.' It does not fit with the singular subject 'a child.'</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle; Subject-verb agreement: singular subject + is<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần điền dạng đúng của động từ 'to be' phù hợp với chủ ngữ 'a child.' Vì 'a child' là danh từ số ít nên ta dùng 'is' là dạng đúng của động từ 'to be' trong cấu trúc bị động.<br><ul><li><b>do</b> (động từ (trợ động từ)): 'Do' là động từ nguyên thể, thường dùng làm trợ động từ trong câu hỏi hoặc phủ định ở thì hiện tại đơn, nhưng không phù hợp ở đây vì câu cần một dạng của 'to be.'</li><li><b>is</b> (động từ (to be, hiện tại số ít)): 'Is' là dạng hiện tại số ít của động từ 'to be,' dùng với chủ ngữ số ít như 'a child.' Đây là đáp án phù hợp với cấu trúc và ý nghĩa của câu.</li><li><b>am</b> (động từ (to be, ngôi thứ nhất số ít)): 'Am' là dạng hiện tại ngôi thứ nhất số ít của 'to be,' chỉ dùng với 'I.' Không phù hợp với chủ ngữ 'a child.'</li><li><b>are</b> (động từ (to be, hiện tại số nhiều)): 'Are' là dạng hiện tại số nhiều của 'to be,' dùng với chủ ngữ số nhiều hoặc 'you.' Không phù hợp với chủ ngữ số ít 'a child.'</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: be + quá khứ phân từ; Sự hòa hợp chủ ngữ - động từ: chủ ngữ số ít + is<br><br><b>Tạm dịch:</b> Nếu một đứa trẻ được đón tại phòng khám, chúng sẽ phải chờ ở hành lang gần cửa phụ cho đến khi tên của chúng được gọi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct form of the verb 'to be' to match the subject 'a child.' Since 'a child' is singular, we use 'is' as the correct form of the verb 'to be' in the passive voice construction.<br><ul><li><b>do</b> (verb (auxiliary)): 'Do' is the base form of the verb and is used as an auxiliary verb for questions and negatives in the present simple tense, but it does not fit here because the sentence requires a form of 'to be.'</li><li><b>is</b> (verb (to be, singular present)): 'Is' is the singular present form of the verb 'to be,' used with singular subjects like 'a child.' It fits the sentence structure and meaning.</li><li><b>am</b> (verb (to be, first person singular present)): 'Am' is the first person singular present form of 'to be,' used only with 'I.' It does not fit with 'a child.'</li><li><b>are</b> (verb (to be, plural present)): 'Are' is the plural present form of 'to be,' used with plural subjects or 'you.' It does not fit with the singular subject 'a child.'</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle; Subject-verb agreement: singular subject + is<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a48",
+        "questionNumber": 2,
+        "questionText": "____________________ yet?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Have the letters been typed",
+            "raw": "A. Have the letters been typed",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Have been the letters typed",
+            "raw": "B. Have been the letters typed",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Have the letters typed",
+            "raw": "C. Have the letters typed ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Had the letters typed",
+            "raw": "D. Had the letters typed",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question '____________________ yet?' requires a passive voice question in the present perfect tense. In English, the structure for a present perfect passive question is: Have/Has + subject + been + past participle (V3)? The subject here is 'the letters', which is plural, so we use 'Have'. The correct word order is 'Have the letters been typed yet?'<br><ul><li><b>A. Have the letters been typed</b> (question (present perfect passive)): This is the correct structure for a present perfect passive question: Have + subject + been + past participle.</li><li><b>B. Have been the letters typed</b> (incorrect structure): Incorrect word order. In questions, the auxiliary verb comes before the subject.</li><li><b>C. Have the letters typed</b> (incomplete passive): Missing 'been', which is necessary for the passive voice.</li><li><b>D. Had the letters typed</b> (incorrect tense and incomplete passive): Uses 'Had', which is past perfect, not present perfect. Also missing 'been' for passive.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: Have/Has + subject + been + past participle (V3). 'Yet' is often used in questions and negatives to ask if something has happened up to now.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi '____________________ yet?' cần một câu hỏi ở thể bị động thì hiện tại hoàn thành. Trong tiếng Anh, cấu trúc câu hỏi bị động thì hiện tại hoàn thành là: Have/Has + chủ ngữ + been + động từ phân từ II (V3)? Ở đây, chủ ngữ là 'the letters' (số nhiều), nên dùng 'Have'. Trật tự đúng là 'Have the letters been typed yet?'<br><ul><li><b>A. Have the letters been typed</b> (câu hỏi (bị động thì hiện tại hoàn thành)): Đây là cấu trúc đúng của câu hỏi bị động thì hiện tại hoàn thành: Have + chủ ngữ + been + động từ phân từ II.</li><li><b>B. Have been the letters typed</b> (cấu trúc sai): Sai trật tự từ. Trong câu hỏi, trợ động từ phải đứng trước chủ ngữ.</li><li><b>C. Have the letters typed</b> (bị động chưa hoàn chỉnh): Thiếu 'been', đây là thành phần bắt buộc trong câu bị động.</li><li><b>D. Had the letters typed</b> (sai thì và bị động chưa hoàn chỉnh): Dùng 'Had' là thì quá khứ hoàn thành, không phải hiện tại hoàn thành. Ngoài ra còn thiếu 'been' cho bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động thì hiện tại hoàn thành: Have/Has + chủ ngữ + been + động từ phân từ II (V3). 'Yet' thường dùng trong câu hỏi và phủ định để hỏi việc gì đó đã xảy ra cho đến thời điểm hiện tại chưa.<br><br><b>Tạm dịch:</b> Câu hỏi: Have the letters been typed yet? --> Những bức thư đã được đánh máy xong chưa?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question '____________________ yet?' requires a passive voice question in the present perfect tense. In English, the structure for a present perfect passive question is: Have/Has + subject + been + past participle (V3)? The subject here is 'the letters', which is plural, so we use 'Have'. The correct word order is 'Have the letters been typed yet?'<br><ul><li><b>A. Have the letters been typed</b> (question (present perfect passive)): This is the correct structure for a present perfect passive question: Have + subject + been + past participle.</li><li><b>B. Have been the letters typed</b> (incorrect structure): Incorrect word order. In questions, the auxiliary verb comes before the subject.</li><li><b>C. Have the letters typed</b> (incomplete passive): Missing 'been', which is necessary for the passive voice.</li><li><b>D. Had the letters typed</b> (incorrect tense and incomplete passive): Uses 'Had', which is past perfect, not present perfect. Also missing 'been' for passive.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: Have/Has + subject + been + past participle (V3). 'Yet' is often used in questions and negatives to ask if something has happened up to now.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a49",
+        "questionNumber": 3,
+        "questionText": "Michael and Susan ____________________ both from England.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are",
+            "raw": "A. are",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "do",
+            "raw": "C. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "does",
+            "raw": "D. does",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Michael and Susan ____________________ both from England.' requires a verb that agrees with the plural subject 'Michael and Susan'. In English, when the subject is plural (more than one person), we use the verb 'are' (the plural form of 'to be').<br><ul><li><b>are</b> (verb (to be, plural)): 'Are' is the plural form of the verb 'to be', used with plural subjects like 'Michael and Susan'.</li><li><b>is</b> (verb (to be, singular)): 'Is' is the singular form of the verb 'to be', used with singular subjects. It does not agree with the plural subject here.</li><li><b>do</b> (auxiliary verb): 'Do' is an auxiliary verb used for questions and negatives in the present simple tense, not suitable here.</li><li><b>does</b> (auxiliary verb): 'Does' is the third person singular form of the auxiliary verb 'do', used for he/she/it in questions and negatives.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: Plural subjects (two or more people/things) take plural verbs. 'Michael and Susan' is a plural subject, so we use 'are'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Michael and Susan ____________________ both from England.' cần một động từ phù hợp với chủ ngữ số nhiều 'Michael and Susan'. Trong tiếng Anh, khi chủ ngữ là số nhiều (từ hai người trở lên), ta dùng động từ 'are' (dạng số nhiều của động từ 'to be').<br><ul><li><b>are</b> (động từ (to be, số nhiều)): 'Are' là dạng số nhiều của động từ 'to be', dùng với chủ ngữ số nhiều như 'Michael and Susan'.</li><li><b>is</b> (động từ (to be, số ít)): 'Is' là dạng số ít của động từ 'to be', dùng với chủ ngữ số ít. Không phù hợp với chủ ngữ số nhiều ở đây.</li><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng trong câu hỏi và phủ định thì hiện tại đơn, không phù hợp trong trường hợp này.</li><li><b>does</b> (trợ động từ): 'Does' là dạng số ít ngôi thứ ba của trợ động từ 'do', dùng cho he/she/it trong câu hỏi và phủ định.</li></ul><b>Cấu trúc và từ vựng:</b> Sự hòa hợp giữa chủ ngữ và động từ: Chủ ngữ số nhiều (từ hai người/vật trở lên) dùng động từ số nhiều. 'Michael and Susan' là chủ ngữ số nhiều nên dùng 'are'.<br><br><b>Tạm dịch:</b> Michael và Susan đều đến từ nước Anh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Michael and Susan ____________________ both from England.' requires a verb that agrees with the plural subject 'Michael and Susan'. In English, when the subject is plural (more than one person), we use the verb 'are' (the plural form of 'to be').<br><ul><li><b>are</b> (verb (to be, plural)): 'Are' is the plural form of the verb 'to be', used with plural subjects like 'Michael and Susan'.</li><li><b>is</b> (verb (to be, singular)): 'Is' is the singular form of the verb 'to be', used with singular subjects. It does not agree with the plural subject here.</li><li><b>do</b> (auxiliary verb): 'Do' is an auxiliary verb used for questions and negatives in the present simple tense, not suitable here.</li><li><b>does</b> (auxiliary verb): 'Does' is the third person singular form of the auxiliary verb 'do', used for he/she/it in questions and negatives.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: Plural subjects (two or more people/things) take plural verbs. 'Michael and Susan' is a plural subject, so we use 'are'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a4a",
+        "questionNumber": 4,
+        "questionText": "I _______________ very tired after 6 lessons at school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are",
+            "raw": "A. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "am",
+            "raw": "C. am",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "does",
+            "raw": "D. does",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb to complete the sentence 'I _______________ very tired after 6 lessons at school.' The subject is 'I', so we need to use the correct form of the verb 'to be' that matches 'I'. The correct form is 'am'.<br><ul><li><b>are</b> (verb (to be)): 'Are' is the present tense form of 'to be' used with 'you', 'we', and 'they'.</li><li><b>is</b> (verb (to be)): 'Is' is the present tense form of 'to be' used with 'he', 'she', and 'it'.</li><li><b>am</b> (verb (to be)): 'Am' is the present tense form of 'to be' used only with 'I'.</li><li><b>does</b> (verb (do)): 'Does' is the present tense form of 'do' used with 'he', 'she', and 'it'. It is not used as a linking verb.</li></ul><b>Related structure or vocabulary:</b> The verb 'to be' in the present tense: I am, you are, he/she/it is, we are, they are.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ để hoàn thành câu 'I _______________ very tired after 6 lessons at school.' Chủ ngữ là 'I', nên ta cần dùng dạng đúng của động từ 'to be' phù hợp với 'I'. Dạng đúng là 'am'.<br><ul><li><b>are</b> (động từ (to be)): 'Are' là dạng hiện tại của động từ 'to be' dùng với 'you', 'we', và 'they'.</li><li><b>is</b> (động từ (to be)): 'Is' là dạng hiện tại của động từ 'to be' dùng với 'he', 'she', và 'it'.</li><li><b>am</b> (động từ (to be)): 'Am' là dạng hiện tại của động từ 'to be' chỉ dùng với 'I'.</li><li><b>does</b> (động từ (do)): 'Does' là dạng hiện tại của động từ 'do' dùng với 'he', 'she', và 'it'. Không dùng làm động từ nối.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ 'to be' ở thì hiện tại: I am, you are, he/she/it is, we are, they are.<br><br><b>Tạm dịch:</b> Tôi rất mệt sau 6 tiết học ở trường.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb to complete the sentence 'I _______________ very tired after 6 lessons at school.' The subject is 'I', so we need to use the correct form of the verb 'to be' that matches 'I'. The correct form is 'am'.<br><ul><li><b>are</b> (verb (to be)): 'Are' is the present tense form of 'to be' used with 'you', 'we', and 'they'.</li><li><b>is</b> (verb (to be)): 'Is' is the present tense form of 'to be' used with 'he', 'she', and 'it'.</li><li><b>am</b> (verb (to be)): 'Am' is the present tense form of 'to be' used only with 'I'.</li><li><b>does</b> (verb (do)): 'Does' is the present tense form of 'do' used with 'he', 'she', and 'it'. It is not used as a linking verb.</li></ul><b>Related structure or vocabulary:</b> The verb 'to be' in the present tense: I am, you are, he/she/it is, we are, they are.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a4b",
+        "questionNumber": 5,
+        "questionText": "Would you please ______ me a favor and take this letter to the post office?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "done",
+            "raw": "A. done ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to do",
+            "raw": "B. to do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "did",
+            "raw": "C. did ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "do",
+            "raw": "D. do",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Would you please ______ me a favor and take this letter to the post office?' requires the base form of the verb after 'please.' In polite requests with 'Would you please,' we use the bare infinitive (the verb without 'to').<br><ul><li><b>done</b> (past participle): 'Done' is the past participle form of 'do' and cannot be used after 'please' in this structure.</li><li><b>to do</b> (infinitive): 'To do' is the infinitive form, but after 'please' in this polite request, we do not use 'to.'</li><li><b>did</b> (past simple): 'Did' is the past tense form and is not correct in this context.</li><li><b>do</b> (bare infinitive): 'Do' is the base form (bare infinitive) and is the correct form to use after 'please' in polite requests.</li></ul><b>Related structure or vocabulary:</b> Would you please + bare infinitive (do): This is a common structure for making polite requests in English.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Would you please ______ me a favor and take this letter to the post office?' cần điền dạng nguyên thể không 'to' (bare infinitive) của động từ sau 'please'. Trong các câu yêu cầu lịch sự với 'Would you please', ta dùng động từ nguyên thể không 'to'.<br><ul><li><b>done</b> (quá khứ phân từ): 'Done' là dạng quá khứ phân từ của 'do', không dùng sau 'please' trong cấu trúc này.</li><li><b>to do</b> (động từ nguyên thể có 'to'): 'To do' là động từ nguyên thể có 'to', nhưng sau 'please' trong yêu cầu lịch sự, không dùng 'to'.</li><li><b>did</b> (quá khứ đơn): 'Did' là thì quá khứ đơn, không phù hợp trong ngữ cảnh này.</li><li><b>do</b> (động từ nguyên thể không 'to'): 'Do' là động từ nguyên thể không 'to' (bare infinitive), là dạng đúng cần dùng sau 'please' trong yêu cầu lịch sự.</li></ul><b>Cấu trúc và từ vựng:</b> Would you please + động từ nguyên thể không 'to' (do): Đây là cấu trúc phổ biến để đưa ra yêu cầu lịch sự trong tiếng Anh.<br><br><b>Tạm dịch:</b> Bạn có thể giúp tôi một việc và mang lá thư này ra bưu điện được không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Would you please ______ me a favor and take this letter to the post office?' requires the base form of the verb after 'please.' In polite requests with 'Would you please,' we use the bare infinitive (the verb without 'to').<br><ul><li><b>done</b> (past participle): 'Done' is the past participle form of 'do' and cannot be used after 'please' in this structure.</li><li><b>to do</b> (infinitive): 'To do' is the infinitive form, but after 'please' in this polite request, we do not use 'to.'</li><li><b>did</b> (past simple): 'Did' is the past tense form and is not correct in this context.</li><li><b>do</b> (bare infinitive): 'Do' is the base form (bare infinitive) and is the correct form to use after 'please' in polite requests.</li></ul><b>Related structure or vocabulary:</b> Would you please + bare infinitive (do): This is a common structure for making polite requests in English.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a4c",
+        "questionNumber": 6,
+        "questionText": "They had a boy _______ that yesterday.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "done",
+            "raw": "A. done",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to do",
+            "raw": "B. to do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "did",
+            "raw": "C. did ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "do",
+            "raw": "D. do",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'They had a boy _______ that yesterday.', the blank comes after the structure 'have + object + bare infinitive'. This is a causative structure, which means someone causes another person to do something. After 'have + object', we use the bare infinitive (the verb without 'to') when the action is performed by someone else.<br><ul><li><b>done</b> (past participle): 'Done' is the past participle form of 'do', used in passive or perfect tenses, not suitable here.</li><li><b>to do</b> (to-infinitive): 'To do' is the to-infinitive form, but after 'have + object', we do not use 'to'.</li><li><b>did</b> (past simple): 'Did' is the past simple form, which is not used after 'have + object' in this structure.</li><li><b>do</b> (bare infinitive): 'Do' is the bare infinitive, which is the correct form after 'have + object' in the causative structure.</li></ul><b>Related structure or vocabulary:</b> Causative structure: have + object + bare infinitive (have someone do something)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'They had a boy _______ that yesterday.', chỗ trống đứng sau cấu trúc 'have + object + bare infinitive'. Đây là cấu trúc câu sai khiến (causative), nghĩa là ai đó khiến người khác làm việc gì. Sau 'have + object', ta dùng động từ nguyên thể không 'to' (bare infinitive) khi hành động do người khác thực hiện.<br><ul><li><b>done</b> (quá khứ phân từ): 'Done' là dạng quá khứ phân từ của 'do', dùng trong câu bị động hoặc thì hoàn thành, không phù hợp ở đây.</li><li><b>to do</b> (động từ nguyên thể có 'to'): 'To do' là động từ nguyên thể có 'to', nhưng sau 'have + object' không dùng 'to'.</li><li><b>did</b> (quá khứ đơn): 'Did' là thì quá khứ đơn, không dùng sau 'have + object' trong cấu trúc này.</li><li><b>do</b> (động từ nguyên thể không 'to'): 'Do' là động từ nguyên thể không 'to', là dạng đúng sau 'have + object' trong cấu trúc sai khiến.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc sai khiến: have + object + bare infinitive (have someone do something)<br><br><b>Tạm dịch:</b> Họ đã nhờ một cậu bé làm việc đó ngày hôm qua.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'They had a boy _______ that yesterday.', the blank comes after the structure 'have + object + bare infinitive'. This is a causative structure, which means someone causes another person to do something. After 'have + object', we use the bare infinitive (the verb without 'to') when the action is performed by someone else.<br><ul><li><b>done</b> (past participle): 'Done' is the past participle form of 'do', used in passive or perfect tenses, not suitable here.</li><li><b>to do</b> (to-infinitive): 'To do' is the to-infinitive form, but after 'have + object', we do not use 'to'.</li><li><b>did</b> (past simple): 'Did' is the past simple form, which is not used after 'have + object' in this structure.</li><li><b>do</b> (bare infinitive): 'Do' is the bare infinitive, which is the correct form after 'have + object' in the causative structure.</li></ul><b>Related structure or vocabulary:</b> Causative structure: have + object + bare infinitive (have someone do something)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a4d",
+        "questionNumber": 7,
+        "questionText": "My mother and I _______________ going shopping today.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "am",
+            "raw": "C. am ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "are",
+            "raw": "D. are",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the subject is 'My mother and I', which is a compound subject (more than one person). With compound subjects, we use the plural form of the verb 'to be', which is 'are'. The sentence is in the present continuous tense (be + V-ing), so the correct form is 'are going'.<br><ul><li><b>do</b> (verb (base form)): 'Do' is the base form of the verb and is not used as an auxiliary verb for present continuous tense.</li><li><b>is</b> (verb (to be, singular)): 'Is' is the singular form of the verb 'to be', used with he/she/it or singular nouns.</li><li><b>am</b> (verb (to be, first person singular)): 'Am' is the first person singular form of 'to be', used only with 'I'.</li><li><b>are</b> (verb (to be, plural)): 'Are' is the plural form of the verb 'to be', used with we/you/they or plural nouns.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. With compound subjects (e.g., 'My mother and I'), use 'are'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chủ ngữ là 'My mother and I' (Mẹ tôi và tôi), đây là chủ ngữ ghép (nhiều hơn một người). Với chủ ngữ ghép, ta dùng động từ 'to be' ở dạng số nhiều là 'are'. Câu này ở thì hiện tại tiếp diễn (be + V-ing), nên đáp án đúng là 'are going'.<br><ul><li><b>do</b> (động từ (nguyên thể)): 'Do' là động từ nguyên thể, không dùng làm trợ động từ cho thì hiện tại tiếp diễn.</li><li><b>is</b> (động từ (to be, số ít)): 'Is' là dạng số ít của động từ 'to be', dùng với he/she/it hoặc danh từ số ít.</li><li><b>am</b> (động từ (to be, ngôi thứ nhất số ít)): 'Am' là dạng động từ 'to be' dùng cho ngôi thứ nhất số ít (I).</li><li><b>are</b> (động từ (to be, số nhiều)): 'Are' là dạng số nhiều của động từ 'to be', dùng với we/you/they hoặc danh từ số nhiều.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + V-ing. Với chủ ngữ ghép (ví dụ: 'My mother and I'), dùng 'are'.<br><br><b>Tạm dịch:</b> My mother and I are going shopping today. --> Mẹ tôi và tôi sẽ đi mua sắm hôm nay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the subject is 'My mother and I', which is a compound subject (more than one person). With compound subjects, we use the plural form of the verb 'to be', which is 'are'. The sentence is in the present continuous tense (be + V-ing), so the correct form is 'are going'.<br><ul><li><b>do</b> (verb (base form)): 'Do' is the base form of the verb and is not used as an auxiliary verb for present continuous tense.</li><li><b>is</b> (verb (to be, singular)): 'Is' is the singular form of the verb 'to be', used with he/she/it or singular nouns.</li><li><b>am</b> (verb (to be, first person singular)): 'Am' is the first person singular form of 'to be', used only with 'I'.</li><li><b>are</b> (verb (to be, plural)): 'Are' is the plural form of the verb 'to be', used with we/you/they or plural nouns.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. With compound subjects (e.g., 'My mother and I'), use 'are'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a4e",
+        "questionNumber": 8,
+        "questionText": "We _____________ not sure what to buy for lunch.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are",
+            "raw": "A. are",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "do",
+            "raw": "C. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "does",
+            "raw": "D. does",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We _____________ not sure what to buy for lunch.' requires a verb to link the subject 'We' with the adjective phrase 'not sure'. In English, the verb 'to be' is used as a linking verb. For the subject 'We', the correct form of 'to be' is 'are'.<br><ul><li><b>are</b> (verb (to be, present, plural)): 'Are' is the present tense form of the verb 'to be' used with plural subjects like 'we', 'you', and 'they'.</li><li><b>is</b> (verb (to be, present, singular)): 'Is' is the present tense form of the verb 'to be' used with singular subjects like 'he', 'she', and 'it'.</li><li><b>do</b> (auxiliary verb): 'Do' is an auxiliary verb used to form questions and negatives in the present simple tense, not used as a linking verb.</li><li><b>does</b> (auxiliary verb): 'Does' is the third person singular form of 'do', also used as an auxiliary verb, not as a linking verb.</li></ul><b>Related structure or vocabulary:</b> Subject + be + adjective/noun: The verb 'to be' is used to link the subject with an adjective or noun. For 'we', use 'are'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We _____________ not sure what to buy for lunch.' cần một động từ để nối chủ ngữ 'We' với cụm tính từ 'not sure'. Trong tiếng Anh, động từ 'to be' được dùng làm động từ nối. Với chủ ngữ 'We', dạng đúng của 'to be' là 'are'.<br><ul><li><b>are</b> (động từ (to be, hiện tại, số nhiều)): 'Are' là dạng hiện tại của động từ 'to be' dùng với các chủ ngữ số nhiều như 'we', 'you', 'they'.</li><li><b>is</b> (động từ (to be, hiện tại, số ít)): 'Is' là dạng hiện tại của động từ 'to be' dùng với các chủ ngữ số ít như 'he', 'she', 'it'.</li><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng để tạo câu hỏi và phủ định ở thì hiện tại đơn, không dùng làm động từ nối.</li><li><b>does</b> (trợ động từ): 'Does' là dạng số ít ngôi thứ ba của 'do', cũng là trợ động từ, không dùng làm động từ nối.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: Chủ ngữ + be + tính từ/danh từ. Động từ 'to be' dùng để nối chủ ngữ với tính từ hoặc danh từ. Với 'we', dùng 'are'.<br><br><b>Tạm dịch:</b> Chúng tôi không chắc nên mua gì cho bữa trưa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We _____________ not sure what to buy for lunch.' requires a verb to link the subject 'We' with the adjective phrase 'not sure'. In English, the verb 'to be' is used as a linking verb. For the subject 'We', the correct form of 'to be' is 'are'.<br><ul><li><b>are</b> (verb (to be, present, plural)): 'Are' is the present tense form of the verb 'to be' used with plural subjects like 'we', 'you', and 'they'.</li><li><b>is</b> (verb (to be, present, singular)): 'Is' is the present tense form of the verb 'to be' used with singular subjects like 'he', 'she', and 'it'.</li><li><b>do</b> (auxiliary verb): 'Do' is an auxiliary verb used to form questions and negatives in the present simple tense, not used as a linking verb.</li><li><b>does</b> (auxiliary verb): 'Does' is the third person singular form of 'do', also used as an auxiliary verb, not as a linking verb.</li></ul><b>Related structure or vocabulary:</b> Subject + be + adjective/noun: The verb 'to be' is used to link the subject with an adjective or noun. For 'we', use 'are'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a4f",
+        "questionNumber": 9,
+        "questionText": "She ______________ not sure she wants to visit him.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "does",
+            "raw": "A. does ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "do",
+            "raw": "C. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "are",
+            "raw": "D. are",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She ______________ not sure she wants to visit him.' requires a verb to link the subject 'She' with the adjective phrase 'not sure'. In English, the verb 'to be' is used to link the subject with a state or condition. For the subject 'She', the correct form of 'to be' is 'is'. Therefore, the correct answer is 'is'.<br><ul><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used for questions and negatives in the present simple tense, but it is not used to link a subject with an adjective.</li><li><b>is</b> (verb (to be)): 'Is' is the third person singular form of the verb 'to be', used to link the subject with a state or condition.</li><li><b>do</b> (auxiliary verb): 'Do' is the base form of the verb, used as an auxiliary verb for plural subjects or 'I/you', not for 'she'.</li><li><b>are</b> (verb (to be)): 'Are' is the plural form of the verb 'to be', used with 'you/we/they', not with 'she'.</li></ul><b>Related structure or vocabulary:</b> The verb 'to be' is used to link the subject with an adjective or noun. For third person singular subjects (he, she, it), use 'is'. Structure: Subject + is + adjective/noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'She ______________ not sure she wants to visit him.' cần một động từ để nối chủ ngữ 'She' với cụm tính từ 'not sure'. Trong tiếng Anh, động từ 'to be' được dùng để nối chủ ngữ với trạng thái hoặc tính chất. Với chủ ngữ 'She', dạng đúng của 'to be' là 'is'. Vì vậy, đáp án đúng là 'is'.<br><ul><li><b>does</b> (trợ động từ): 'Does' là trợ động từ dùng trong câu hỏi hoặc phủ định ở thì hiện tại đơn, nhưng không dùng để nối chủ ngữ với tính từ.</li><li><b>is</b> (động từ (to be)): 'Is' là dạng động từ 'to be' cho ngôi thứ ba số ít, dùng để nối chủ ngữ với trạng thái hoặc tính chất.</li><li><b>do</b> (trợ động từ): 'Do' là dạng nguyên thể của động từ, dùng làm trợ động từ cho các chủ ngữ số nhiều hoặc 'I/you', không dùng cho 'she'.</li><li><b>are</b> (động từ (to be)): 'Are' là dạng số nhiều của động từ 'to be', dùng với 'you/we/they', không dùng với 'she'.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ 'to be' dùng để nối chủ ngữ với tính từ hoặc danh từ. Với chủ ngữ ngôi thứ ba số ít (he, she, it), dùng 'is'. Cấu trúc: Chủ ngữ + is + tính từ/danh từ.<br><br><b>Tạm dịch:</b> Cô ấy không chắc chắn cô ấy muốn đến thăm anh ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She ______________ not sure she wants to visit him.' requires a verb to link the subject 'She' with the adjective phrase 'not sure'. In English, the verb 'to be' is used to link the subject with a state or condition. For the subject 'She', the correct form of 'to be' is 'is'. Therefore, the correct answer is 'is'.<br><ul><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used for questions and negatives in the present simple tense, but it is not used to link a subject with an adjective.</li><li><b>is</b> (verb (to be)): 'Is' is the third person singular form of the verb 'to be', used to link the subject with a state or condition.</li><li><b>do</b> (auxiliary verb): 'Do' is the base form of the verb, used as an auxiliary verb for plural subjects or 'I/you', not for 'she'.</li><li><b>are</b> (verb (to be)): 'Are' is the plural form of the verb 'to be', used with 'you/we/they', not with 'she'.</li></ul><b>Related structure or vocabulary:</b> The verb 'to be' is used to link the subject with an adjective or noun. For third person singular subjects (he, she, it), use 'is'. Structure: Subject + is + adjective/noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a50",
+        "questionNumber": 10,
+        "questionText": "The cat ______________ four kittens.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "does",
+            "raw": "A. does ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The cat ______________ four kittens.' requires a verb that correctly matches the subject 'The cat' (which is singular) and expresses possession. In English, the verb 'has' is used with singular third-person subjects to show possession.<br><ul><li><b>does</b> (auxiliary verb): 'Does' is an auxiliary verb used for questions and negatives in the present simple tense, not for showing possession.</li><li><b>is</b> (verb (to be)): 'Is' is the present tense of the verb 'to be', used for describing states or identities, not possession.</li><li><b>has</b> (verb (to have)): 'Has' is the present tense of the verb 'to have' used with singular third-person subjects to show possession.</li><li><b>have</b> (verb (to have)): 'Have' is the base form of the verb 'to have', used with plural subjects or with 'I' and 'you', not with singular third-person subjects.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: With singular third-person subjects (he, she, it, or singular nouns like 'the cat'), use 'has' for possession. Example: She has a book. The dog has a bone.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The cat ______________ four kittens.' cần một động từ phù hợp với chủ ngữ 'The cat' (là danh từ số ít) và diễn tả ý sở hữu. Trong tiếng Anh, động từ 'has' được dùng với chủ ngữ số ít ngôi thứ ba để chỉ sự sở hữu.<br><ul><li><b>does</b> (trợ động từ): 'Does' là trợ động từ dùng trong câu hỏi và phủ định ở thì hiện tại đơn, không dùng để chỉ sự sở hữu.</li><li><b>is</b> (động từ (to be)): 'Is' là động từ 'to be' ở thì hiện tại, dùng để mô tả trạng thái hoặc danh tính, không dùng để chỉ sự sở hữu.</li><li><b>has</b> (động từ (to have)): 'Has' là động từ 'to have' ở thì hiện tại, dùng với chủ ngữ số ít ngôi thứ ba để chỉ sự sở hữu.</li><li><b>have</b> (động từ (to have)): 'Have' là dạng nguyên thể của động từ 'to have', dùng với chủ ngữ số nhiều hoặc 'I', 'you', không dùng với chủ ngữ số ít ngôi thứ ba.</li></ul><b>Cấu trúc và từ vựng:</b> Sự hòa hợp giữa chủ ngữ và động từ: Với chủ ngữ số ít ngôi thứ ba (he, she, it hoặc danh từ số ít như 'the cat'), dùng 'has' để chỉ sự sở hữu. Ví dụ: She has a book. The dog has a bone.<br><br><b>Tạm dịch:</b> Con mèo có bốn con mèo con.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The cat ______________ four kittens.' requires a verb that correctly matches the subject 'The cat' (which is singular) and expresses possession. In English, the verb 'has' is used with singular third-person subjects to show possession.<br><ul><li><b>does</b> (auxiliary verb): 'Does' is an auxiliary verb used for questions and negatives in the present simple tense, not for showing possession.</li><li><b>is</b> (verb (to be)): 'Is' is the present tense of the verb 'to be', used for describing states or identities, not possession.</li><li><b>has</b> (verb (to have)): 'Has' is the present tense of the verb 'to have' used with singular third-person subjects to show possession.</li><li><b>have</b> (verb (to have)): 'Have' is the base form of the verb 'to have', used with plural subjects or with 'I' and 'you', not with singular third-person subjects.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: With singular third-person subjects (he, she, it, or singular nouns like 'the cat'), use 'has' for possession. Example: She has a book. The dog has a bone.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a51",
+        "questionNumber": 11,
+        "questionText": "The two dogs ____________________ five puppies altogether.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb that agrees with the subject 'The two dogs'. 'The two dogs' is a plural subject, so we need a plural verb. The sentence means that the two dogs together have five puppies.<br><ul><li><b>do</b> (verb): 'Do' is the base form of the verb 'to do', used as an auxiliary verb or main verb, but it does not fit the meaning of 'possess' in this context.</li><li><b>are</b> (verb): 'Are' is the present tense of 'to be' for plural subjects, but it does not express possession.</li><li><b>has</b> (verb): 'Has' is the third person singular form of 'to have', used with singular subjects (he, she, it). 'The two dogs' is plural, so 'has' is incorrect.</li><li><b>have</b> (verb): 'Have' is the base form of 'to have', used with plural subjects. It means 'to possess' or 'own'. This is the correct choice for the plural subject 'The two dogs'.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: Plural subjects take plural verbs. 'Have' is used with plural nouns and pronouns to show possession.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ phù hợp với chủ ngữ 'The two dogs'. 'The two dogs' là chủ ngữ số nhiều, nên cần dùng động từ số nhiều. Câu này có nghĩa là hai con chó có tổng cộng năm con chó con.<br><ul><li><b>do</b> (động từ): 'Do' là động từ nguyên thể, thường dùng làm trợ động từ hoặc động từ chính, nhưng không mang nghĩa 'sở hữu' trong ngữ cảnh này.</li><li><b>are</b> (động từ): 'Are' là thì hiện tại của động từ 'to be' dùng cho chủ ngữ số nhiều, nhưng không diễn tả ý nghĩa 'sở hữu'.</li><li><b>has</b> (động từ): 'Has' là dạng số ít ngôi thứ ba của động từ 'to have', dùng với chủ ngữ số ít (he, she, it). 'The two dogs' là chủ ngữ số nhiều nên không dùng 'has'.</li><li><b>have</b> (động từ): 'Have' là dạng nguyên thể của động từ 'to have', dùng với chủ ngữ số nhiều. Nghĩa là 'có' hoặc 'sở hữu'. Đây là đáp án đúng cho chủ ngữ số nhiều 'The two dogs'.</li></ul><b>Cấu trúc và từ vựng:</b> Sự hòa hợp giữa chủ ngữ và động từ: Chủ ngữ số nhiều đi với động từ số nhiều. 'Have' dùng với danh từ và đại từ số nhiều để chỉ sự sở hữu.<br><br><b>Tạm dịch:</b> Hai con chó có tổng cộng năm con chó con.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb that agrees with the subject 'The two dogs'. 'The two dogs' is a plural subject, so we need a plural verb. The sentence means that the two dogs together have five puppies.<br><ul><li><b>do</b> (verb): 'Do' is the base form of the verb 'to do', used as an auxiliary verb or main verb, but it does not fit the meaning of 'possess' in this context.</li><li><b>are</b> (verb): 'Are' is the present tense of 'to be' for plural subjects, but it does not express possession.</li><li><b>has</b> (verb): 'Has' is the third person singular form of 'to have', used with singular subjects (he, she, it). 'The two dogs' is plural, so 'has' is incorrect.</li><li><b>have</b> (verb): 'Have' is the base form of 'to have', used with plural subjects. It means 'to possess' or 'own'. This is the correct choice for the plural subject 'The two dogs'.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: Plural subjects take plural verbs. 'Have' is used with plural nouns and pronouns to show possession.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a52",
+        "questionNumber": 12,
+        "questionText": "I _______________ bought a new bike.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _______________ bought a new bike.' requires an auxiliary verb to form the present perfect tense. The present perfect tense is used to describe an action that happened at an unspecified time before now. The structure is: Subject + have/has + past participle. Since the subject is 'I', we use 'have' as the correct auxiliary verb.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in the present simple tense, not in the present perfect tense.</li><li><b>are</b> (verb (to be)): 'Are' is the present tense form of 'to be' for plural subjects or 'you', not used with 'I' in this context.</li><li><b>has</b> (auxiliary verb): 'Has' is the present perfect auxiliary verb used with third person singular subjects (he, she, it), not with 'I'.</li><li><b>have</b> (auxiliary verb): 'Have' is the correct present perfect auxiliary verb used with 'I', 'you', 'we', and 'they'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Subject + have/has + past participle<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I _______________ bought a new bike.' cần một trợ động từ để tạo thì hiện tại hoàn thành. Thì hiện tại hoàn thành dùng để diễn tả một hành động đã xảy ra tại một thời điểm không xác định trước hiện tại. Cấu trúc là: Chủ ngữ + have/has + động từ phân từ II. Vì chủ ngữ là 'I', ta dùng 'have' làm trợ động từ đúng.<br><ul><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng trong thì hiện tại đơn, không dùng trong thì hiện tại hoàn thành.</li><li><b>are</b> (động từ (to be)): 'Are' là động từ 'to be' ở thì hiện tại cho chủ ngữ số nhiều hoặc 'you', không dùng với 'I' trong trường hợp này.</li><li><b>has</b> (trợ động từ): 'Has' là trợ động từ hiện tại hoàn thành dùng với chủ ngữ số ít ngôi thứ ba (he, she, it), không dùng với 'I'.</li><li><b>have</b> (trợ động từ): 'Have' là trợ động từ hiện tại hoàn thành đúng dùng với 'I', 'you', 'we', và 'they'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: Chủ ngữ + have/has + động từ phân từ II<br><br><b>Tạm dịch:</b> Tôi đã mua một chiếc xe đạp mới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _______________ bought a new bike.' requires an auxiliary verb to form the present perfect tense. The present perfect tense is used to describe an action that happened at an unspecified time before now. The structure is: Subject + have/has + past participle. Since the subject is 'I', we use 'have' as the correct auxiliary verb.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in the present simple tense, not in the present perfect tense.</li><li><b>are</b> (verb (to be)): 'Are' is the present tense form of 'to be' for plural subjects or 'you', not used with 'I' in this context.</li><li><b>has</b> (auxiliary verb): 'Has' is the present perfect auxiliary verb used with third person singular subjects (he, she, it), not with 'I'.</li><li><b>have</b> (auxiliary verb): 'Have' is the correct present perfect auxiliary verb used with 'I', 'you', 'we', and 'they'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Subject + have/has + past participle<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a53",
+        "questionNumber": 13,
+        "questionText": "How many bikes _______________ you got?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "have",
+            "raw": "A. have",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "do",
+            "raw": "D. do",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'How many bikes _______________ you got?' requires an auxiliary verb to form a correct question in English. The structure for asking about possession in informal British English is 'have you got'. 'Have' is the correct auxiliary verb to use with 'you' in this context.<br><ul><li><b>have</b> (auxiliary verb): 'Have' is the correct auxiliary verb used with 'you' to form the question 'Have you got...?'.</li><li><b>are</b> (auxiliary verb): 'Are' is a form of the verb 'to be', used for continuous tenses or passive voice, not for possession.</li><li><b>has</b> (auxiliary verb): 'Has' is the third person singular form of 'have', used with 'he', 'she', or 'it', not with 'you'.</li><li><b>do</b> (auxiliary verb): 'Do' is another auxiliary verb, but it is used in 'Do you have...?' not with 'got'.</li></ul><b>Related structure or vocabulary:</b> Structure: 'Have you got...?' is commonly used in British English to ask about possession. In American English, 'Do you have...?' is more common.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'How many bikes _______________ you got?' cần một trợ động từ để tạo thành câu hỏi đúng trong tiếng Anh. Cấu trúc hỏi về sự sở hữu trong tiếng Anh Anh không trang trọng là 'have you got'. 'Have' là trợ động từ đúng để dùng với 'you' trong trường hợp này.<br><ul><li><b>have</b> (trợ động từ): 'Have' là trợ động từ đúng dùng với 'you' để tạo thành câu hỏi 'Have you got...?'.</li><li><b>are</b> (trợ động từ): 'Are' là một dạng của động từ 'to be', dùng cho thì tiếp diễn hoặc bị động, không dùng để chỉ sự sở hữu.</li><li><b>has</b> (trợ động từ): 'Has' là dạng số ít ngôi thứ ba của 'have', dùng với 'he', 'she', hoặc 'it', không dùng với 'you'.</li><li><b>do</b> (trợ động từ): 'Do' cũng là một trợ động từ, nhưng dùng trong cấu trúc 'Do you have...?' chứ không đi với 'got'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: 'Have you got...?' thường dùng trong tiếng Anh Anh để hỏi về sự sở hữu. Trong tiếng Anh Mỹ, 'Do you have...?' phổ biến hơn.<br><br><b>Tạm dịch:</b> Bạn có bao nhiêu chiếc xe đạp?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'How many bikes _______________ you got?' requires an auxiliary verb to form a correct question in English. The structure for asking about possession in informal British English is 'have you got'. 'Have' is the correct auxiliary verb to use with 'you' in this context.<br><ul><li><b>have</b> (auxiliary verb): 'Have' is the correct auxiliary verb used with 'you' to form the question 'Have you got...?'.</li><li><b>are</b> (auxiliary verb): 'Are' is a form of the verb 'to be', used for continuous tenses or passive voice, not for possession.</li><li><b>has</b> (auxiliary verb): 'Has' is the third person singular form of 'have', used with 'he', 'she', or 'it', not with 'you'.</li><li><b>do</b> (auxiliary verb): 'Do' is another auxiliary verb, but it is used in 'Do you have...?' not with 'got'.</li></ul><b>Related structure or vocabulary:</b> Structure: 'Have you got...?' is commonly used in British English to ask about possession. In American English, 'Do you have...?' is more common.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a54",
+        "questionNumber": 14,
+        "questionText": "Mom ___________ baked cupcakes.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "have",
+            "raw": "A. have ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "do",
+            "raw": "D. do",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the subject 'Mom' and before the verb 'baked.' We need an auxiliary verb to form the present perfect tense, which is used to talk about an action that happened at an unspecified time in the past and has relevance to the present. For singular third-person subjects like 'Mom,' the correct auxiliary verb is 'has.'<br><ul><li><b>have</b> (auxiliary verb): Auxiliary verb used with plural subjects or 'I/you/we/they' in the present perfect tense.</li><li><b>are</b> (verb (to be)): Present tense of 'to be' used with plural subjects or 'you/we/they.' Not used to form the present perfect tense.</li><li><b>has</b> (auxiliary verb): Auxiliary verb used with singular third-person subjects (he/she/it) in the present perfect tense.</li><li><b>do</b> (auxiliary verb): Auxiliary verb used to form questions and negatives in the present simple tense. Not used for the present perfect tense.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Subject + has/have + past participle (V3). For singular third-person subjects (he, she, it), use 'has.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống đứng sau chủ ngữ 'Mom' và trước động từ 'baked.' Chúng ta cần một trợ động từ để tạo thì hiện tại hoàn thành, dùng để nói về một hành động đã xảy ra vào một thời điểm không xác định trong quá khứ và có liên quan đến hiện tại. Với chủ ngữ số ít ngôi thứ ba như 'Mom,' trợ động từ đúng là 'has.'<br><ul><li><b>have</b> (trợ động từ): Trợ động từ dùng với các chủ ngữ số nhiều hoặc 'I/you/we/they' trong thì hiện tại hoàn thành.</li><li><b>are</b> (động từ (to be)): Động từ 'to be' ở thì hiện tại dùng với chủ ngữ số nhiều hoặc 'you/we/they.' Không dùng để tạo thì hiện tại hoàn thành.</li><li><b>has</b> (trợ động từ): Trợ động từ dùng với chủ ngữ số ít ngôi thứ ba (he/she/it) trong thì hiện tại hoàn thành.</li><li><b>do</b> (trợ động từ): Trợ động từ dùng để tạo câu hỏi và phủ định ở thì hiện tại đơn. Không dùng cho thì hiện tại hoàn thành.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: Chủ ngữ + has/have + động từ phân từ II (V3). Với chủ ngữ số ít ngôi thứ ba (he, she, it), dùng 'has.'<br><br><b>Tạm dịch:</b> Mẹ đã nướng bánh cupcake.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the subject 'Mom' and before the verb 'baked.' We need an auxiliary verb to form the present perfect tense, which is used to talk about an action that happened at an unspecified time in the past and has relevance to the present. For singular third-person subjects like 'Mom,' the correct auxiliary verb is 'has.'<br><ul><li><b>have</b> (auxiliary verb): Auxiliary verb used with plural subjects or 'I/you/we/they' in the present perfect tense.</li><li><b>are</b> (verb (to be)): Present tense of 'to be' used with plural subjects or 'you/we/they.' Not used to form the present perfect tense.</li><li><b>has</b> (auxiliary verb): Auxiliary verb used with singular third-person subjects (he/she/it) in the present perfect tense.</li><li><b>do</b> (auxiliary verb): Auxiliary verb used to form questions and negatives in the present simple tense. Not used for the present perfect tense.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Subject + has/have + past participle (V3). For singular third-person subjects (he, she, it), use 'has.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a55",
+        "questionNumber": 15,
+        "questionText": "We ____________ only ten cakes left.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We ____________ only ten cakes left.' requires a verb that correctly matches the subject 'We' and fits the context. The phrase 'only ten cakes left' indicates a present situation, and the verb must agree with the plural subject 'We'. The correct verb to use here is 'have', as in 'We have only ten cakes left.'<br><ul><li><b>do</b> (auxiliary verb): 'Do' is an auxiliary verb used for questions or negatives, not suitable here.</li><li><b>are</b> (verb (to be)): 'Are' is a form of the verb 'to be', used with adjectives or present participles, not with 'left' in this context.</li><li><b>has</b> (verb): 'Has' is the third person singular form of 'have', used with 'he', 'she', or 'it', not with 'we'.</li><li><b>have</b> (verb): 'Have' is the correct verb for the plural subject 'we', indicating possession or remaining quantity.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: 'We' (plural subject) + 'have' (plural verb). 'Have left' is a common phrase to indicate the remaining quantity of something.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We ____________ only ten cakes left.' cần một động từ phù hợp với chủ ngữ 'We' và ngữ cảnh của câu. Cụm 'only ten cakes left' diễn tả tình huống hiện tại, và động từ phải hòa hợp với chủ ngữ số nhiều 'We'. Động từ đúng ở đây là 'have', tạo thành câu 'We have only ten cakes left.'<br><ul><li><b>do</b> (trợ động từ): 'Do' là trợ động từ, thường dùng trong câu hỏi hoặc phủ định, không phù hợp ở đây.</li><li><b>are</b> (động từ (to be)): 'Are' là động từ 'to be', thường dùng với tính từ hoặc V-ing, không phù hợp với 'left' trong ngữ cảnh này.</li><li><b>has</b> (động từ): 'Has' là dạng số ít của 'have', dùng với 'he', 'she', hoặc 'it', không dùng với 'we'.</li><li><b>have</b> (động từ): 'Have' là động từ đúng cho chủ ngữ số nhiều 'we', diễn tả sự sở hữu hoặc số lượng còn lại.</li></ul><b>Cấu trúc và từ vựng:</b> Sự hòa hợp giữa chủ ngữ và động từ: 'We' (chủ ngữ số nhiều) + 'have' (động từ số nhiều). 'Have left' là cụm từ thường dùng để chỉ số lượng còn lại.<br><br><b>Tạm dịch:</b> Chúng ta chỉ còn lại mười cái bánh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We ____________ only ten cakes left.' requires a verb that correctly matches the subject 'We' and fits the context. The phrase 'only ten cakes left' indicates a present situation, and the verb must agree with the plural subject 'We'. The correct verb to use here is 'have', as in 'We have only ten cakes left.'<br><ul><li><b>do</b> (auxiliary verb): 'Do' is an auxiliary verb used for questions or negatives, not suitable here.</li><li><b>are</b> (verb (to be)): 'Are' is a form of the verb 'to be', used with adjectives or present participles, not with 'left' in this context.</li><li><b>has</b> (verb): 'Has' is the third person singular form of 'have', used with 'he', 'she', or 'it', not with 'we'.</li><li><b>have</b> (verb): 'Have' is the correct verb for the plural subject 'we', indicating possession or remaining quantity.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: 'We' (plural subject) + 'have' (plural verb). 'Have left' is a common phrase to indicate the remaining quantity of something.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a56",
+        "questionNumber": 16,
+        "questionText": "My neighbor ___________ three houses in this city.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "have",
+            "raw": "A. have ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "do",
+            "raw": "D. do",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb that agrees with the singular subject 'My neighbor'. In English, with singular third-person subjects (he, she, it, or singular nouns), we use 'has' as the present simple form of the verb 'to have'.<br><ul><li><b>have</b> (verb): 'Have' is the base form of the verb, used with plural subjects or with 'I', 'you', 'we', 'they'.</li><li><b>are</b> (verb): 'Are' is the present simple form of the verb 'to be', used with plural subjects or 'you'.</li><li><b>has</b> (verb): 'Has' is the present simple form of 'to have' used with singular third-person subjects (he, she, it, or singular nouns).</li><li><b>do</b> (verb): 'Do' is the base form of the verb 'to do', used with plural subjects or 'I', 'you', 'we', 'they'.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: With singular third-person subjects, use 'has' (not 'have').<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ phù hợp với chủ ngữ số ít 'My neighbor'. Trong tiếng Anh, với chủ ngữ số ít ngôi thứ ba (he, she, it hoặc danh từ số ít), ta dùng 'has' là dạng hiện tại đơn của động từ 'to have'.<br><ul><li><b>have</b> (động từ): 'Have' là dạng nguyên thể của động từ, dùng với chủ ngữ số nhiều hoặc 'I', 'you', 'we', 'they'.</li><li><b>are</b> (động từ): 'Are' là dạng hiện tại đơn của động từ 'to be', dùng với chủ ngữ số nhiều hoặc 'you'.</li><li><b>has</b> (động từ): 'Has' là dạng hiện tại đơn của 'to have' dùng với chủ ngữ số ít ngôi thứ ba (he, she, it hoặc danh từ số ít).</li><li><b>do</b> (động từ): 'Do' là dạng nguyên thể của động từ 'to do', dùng với chủ ngữ số nhiều hoặc 'I', 'you', 'we', 'they'.</li></ul><b>Cấu trúc và từ vựng:</b> Sự hòa hợp giữa chủ ngữ và động từ: Với chủ ngữ số ít ngôi thứ ba, dùng 'has' (không dùng 'have').<br><br><b>Tạm dịch:</b> My neighbor has three houses in this city. --> Hàng xóm của tôi có ba căn nhà ở thành phố này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb that agrees with the singular subject 'My neighbor'. In English, with singular third-person subjects (he, she, it, or singular nouns), we use 'has' as the present simple form of the verb 'to have'.<br><ul><li><b>have</b> (verb): 'Have' is the base form of the verb, used with plural subjects or with 'I', 'you', 'we', 'they'.</li><li><b>are</b> (verb): 'Are' is the present simple form of the verb 'to be', used with plural subjects or 'you'.</li><li><b>has</b> (verb): 'Has' is the present simple form of 'to have' used with singular third-person subjects (he, she, it, or singular nouns).</li><li><b>do</b> (verb): 'Do' is the base form of the verb 'to do', used with plural subjects or 'I', 'you', 'we', 'they'.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: With singular third-person subjects, use 'has' (not 'have').<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a57",
+        "questionNumber": 17,
+        "questionText": "I _____________ gymnastics every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _____________ gymnastics every day.' requires a verb that agrees with the subject 'I' and fits the context of a daily activity. In English, when talking about sports or exercises like 'gymnastics', we use the verb 'do' with the subject 'I'. The correct form is 'I do gymnastics every day.'<br><ul><li><b>do</b> (verb): 'Do' is the base form of the verb, used with 'I', 'you', 'we', and 'they' to talk about activities or routines.</li><li><b>are</b> (verb (to be)): 'Are' is the present tense of the verb 'to be', used with 'you', 'we', and 'they', not with 'I' in this context.</li><li><b>has</b> (verb): 'Has' is the third person singular form of 'have', used with 'he', 'she', 'it'. It does not fit with 'I'.</li><li><b>have</b> (verb): 'Have' is the base form, used with 'I', 'you', 'we', 'they', but it is not used with sports or activities in this context.</li></ul><b>Related structure or vocabulary:</b> do + sports/activities: We use 'do' with activities like gymnastics, yoga, karate, homework, etc. Example: I do yoga every morning.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I _____________ gymnastics every day.' cần một động từ phù hợp với chủ ngữ 'I' và diễn tả một hoạt động thường xuyên. Trong tiếng Anh, khi nói về các môn thể thao hoặc hoạt động như 'gymnastics', ta dùng động từ 'do' với chủ ngữ 'I'. Câu đúng là 'I do gymnastics every day.'<br><ul><li><b>do</b> (động từ): 'Do' là động từ nguyên thể, dùng với các chủ ngữ 'I', 'you', 'we', 'they' để nói về các hoạt động hoặc thói quen.</li><li><b>are</b> (động từ (to be)): 'Are' là động từ 'to be' ở thì hiện tại, dùng với 'you', 'we', 'they', không dùng với 'I' trong trường hợp này.</li><li><b>has</b> (động từ): 'Has' là dạng số ít ngôi thứ ba của 'have', dùng với 'he', 'she', 'it'. Không phù hợp với 'I'.</li><li><b>have</b> (động từ): 'Have' là động từ nguyên thể, dùng với 'I', 'you', 'we', 'they', nhưng không dùng với các hoạt động thể thao trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> do + sports/activities: Ta dùng 'do' với các hoạt động như gymnastics, yoga, karate, homework,... Ví dụ: I do yoga every morning.<br><br><b>Tạm dịch:</b> Tôi tập thể dục dụng cụ mỗi ngày.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _____________ gymnastics every day.' requires a verb that agrees with the subject 'I' and fits the context of a daily activity. In English, when talking about sports or exercises like 'gymnastics', we use the verb 'do' with the subject 'I'. The correct form is 'I do gymnastics every day.'<br><ul><li><b>do</b> (verb): 'Do' is the base form of the verb, used with 'I', 'you', 'we', and 'they' to talk about activities or routines.</li><li><b>are</b> (verb (to be)): 'Are' is the present tense of the verb 'to be', used with 'you', 'we', and 'they', not with 'I' in this context.</li><li><b>has</b> (verb): 'Has' is the third person singular form of 'have', used with 'he', 'she', 'it'. It does not fit with 'I'.</li><li><b>have</b> (verb): 'Have' is the base form, used with 'I', 'you', 'we', 'they', but it is not used with sports or activities in this context.</li></ul><b>Related structure or vocabulary:</b> do + sports/activities: We use 'do' with activities like gymnastics, yoga, karate, homework, etc. Example: I do yoga every morning.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a58",
+        "questionNumber": 18,
+        "questionText": "My sister _____________ like gymnastics.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are",
+            "raw": "A. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "do",
+            "raw": "C. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "does",
+            "raw": "D. does",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs an auxiliary verb that matches the subject 'My sister'. 'My sister' is a singular third-person subject, so the correct auxiliary verb for negative sentences with 'like' is 'does'. The sentence should be: 'My sister does not (doesn't) like gymnastics.'<br><ul><li><b>are</b> (verb (auxiliary)): 'Are' is the present tense form of 'to be' used with plural subjects (you/we/they), not with singular third-person subjects.</li><li><b>is</b> (verb (auxiliary)): 'Is' is the present tense form of 'to be' used with singular third-person subjects, but it is not used as an auxiliary for 'like' in negative sentences.</li><li><b>do</b> (verb (auxiliary)): 'Do' is the auxiliary verb used with plural subjects (I/you/we/they) in present simple negative sentences, not with singular third-person subjects.</li><li><b>does</b> (verb (auxiliary)): 'Does' is the correct auxiliary verb used with singular third-person subjects (he/she/it) in present simple negative sentences.</li></ul><b>Related structure or vocabulary:</b> Present Simple Negative: Subject (he/she/it) + does not (doesn't) + base verb. Example: She does not like apples.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một trợ động từ phù hợp với chủ ngữ 'My sister'. 'My sister' là chủ ngữ số ít ngôi thứ ba, nên trợ động từ đúng cho câu phủ định với 'like' là 'does'. Câu hoàn chỉnh sẽ là: 'My sister does not (doesn't) like gymnastics.'<br><ul><li><b>are</b> (động từ (trợ động từ)): 'Are' là động từ to be ở thì hiện tại dùng với chủ ngữ số nhiều (you/we/they), không dùng với chủ ngữ số ít ngôi thứ ba.</li><li><b>is</b> (động từ (trợ động từ)): 'Is' là động từ to be ở thì hiện tại dùng với chủ ngữ số ít ngôi thứ ba, nhưng không dùng làm trợ động từ cho 'like' trong câu phủ định.</li><li><b>do</b> (động từ (trợ động từ)): 'Do' là trợ động từ dùng với chủ ngữ số nhiều (I/you/we/they) trong câu phủ định thì hiện tại đơn, không dùng với chủ ngữ số ít ngôi thứ ba.</li><li><b>does</b> (động từ (trợ động từ)): 'Does' là trợ động từ đúng dùng với chủ ngữ số ít ngôi thứ ba (he/she/it) trong câu phủ định thì hiện tại đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Câu phủ định thì hiện tại đơn: Chủ ngữ (he/she/it) + does not (doesn't) + động từ nguyên mẫu. Ví dụ: She does not like apples.<br><br><b>Tạm dịch:</b> Chị gái tôi không thích thể dục dụng cụ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs an auxiliary verb that matches the subject 'My sister'. 'My sister' is a singular third-person subject, so the correct auxiliary verb for negative sentences with 'like' is 'does'. The sentence should be: 'My sister does not (doesn't) like gymnastics.'<br><ul><li><b>are</b> (verb (auxiliary)): 'Are' is the present tense form of 'to be' used with plural subjects (you/we/they), not with singular third-person subjects.</li><li><b>is</b> (verb (auxiliary)): 'Is' is the present tense form of 'to be' used with singular third-person subjects, but it is not used as an auxiliary for 'like' in negative sentences.</li><li><b>do</b> (verb (auxiliary)): 'Do' is the auxiliary verb used with plural subjects (I/you/we/they) in present simple negative sentences, not with singular third-person subjects.</li><li><b>does</b> (verb (auxiliary)): 'Does' is the correct auxiliary verb used with singular third-person subjects (he/she/it) in present simple negative sentences.</li></ul><b>Related structure or vocabulary:</b> Present Simple Negative: Subject (he/she/it) + does not (doesn't) + base verb. Example: She does not like apples.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a59",
+        "questionNumber": 19,
+        "questionText": "Stephen ____________n’t like swimming.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "does",
+            "raw": "A. does",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Stephen ____________n’t like swimming.' requires an auxiliary verb to form the negative present simple tense. For the subject 'Stephen' (he), the correct auxiliary verb is 'does'. The structure for negative sentences in the present simple tense is: Subject + does not (doesn't) + base verb. Therefore, the correct answer is 'does'.<br><ul><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used with he/she/it in the present simple tense to form questions and negatives.</li><li><b>is</b> (verb (to be)): 'Is' is the present simple form of the verb 'to be', used for he/she/it, but not used to form negatives with action verbs like 'like'.</li><li><b>has</b> (verb (have)): 'Has' is the present simple form of 'have' for he/she/it, used to show possession, not to form negatives with other verbs.</li><li><b>have</b> (verb (have)): 'Have' is the base form, used with I/you/we/they, not with he/she/it, and not as an auxiliary for negatives in the present simple.</li></ul><b>Related structure or vocabulary:</b> Present Simple Negative: Subject + does not (doesn't) + base verb<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Stephen ____________n’t like swimming.' cần một trợ động từ để tạo thành câu phủ định ở thì hiện tại đơn. Với chủ ngữ 'Stephen' (tương đương với 'he'), trợ động từ phù hợp là 'does'. Cấu trúc câu phủ định ở thì hiện tại đơn là: Chủ ngữ + does not (doesn't) + động từ nguyên thể. Vì vậy, đáp án đúng là 'does'.<br><ul><li><b>does</b> (trợ động từ): 'Does' là trợ động từ dùng với he/she/it ở thì hiện tại đơn để tạo câu hỏi và câu phủ định.</li><li><b>is</b> (động từ (to be)): 'Is' là động từ 'to be' ở thì hiện tại dùng cho he/she/it, nhưng không dùng để tạo câu phủ định với động từ thường như 'like'.</li><li><b>has</b> (động từ (have)): 'Has' là động từ 'have' ở thì hiện tại dùng cho he/she/it, dùng để chỉ sự sở hữu, không dùng để tạo câu phủ định với động từ khác.</li><li><b>have</b> (động từ (have)): 'Have' là dạng nguyên thể, dùng với I/you/we/they, không dùng với he/she/it, và không phải là trợ động từ để tạo câu phủ định ở thì hiện tại đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Câu phủ định thì hiện tại đơn: Chủ ngữ + does not (doesn't) + động từ nguyên thể<br><br><b>Tạm dịch:</b> Stephen không thích bơi lội.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Stephen ____________n’t like swimming.' requires an auxiliary verb to form the negative present simple tense. For the subject 'Stephen' (he), the correct auxiliary verb is 'does'. The structure for negative sentences in the present simple tense is: Subject + does not (doesn't) + base verb. Therefore, the correct answer is 'does'.<br><ul><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used with he/she/it in the present simple tense to form questions and negatives.</li><li><b>is</b> (verb (to be)): 'Is' is the present simple form of the verb 'to be', used for he/she/it, but not used to form negatives with action verbs like 'like'.</li><li><b>has</b> (verb (have)): 'Has' is the present simple form of 'have' for he/she/it, used to show possession, not to form negatives with other verbs.</li><li><b>have</b> (verb (have)): 'Have' is the base form, used with I/you/we/they, not with he/she/it, and not as an auxiliary for negatives in the present simple.</li></ul><b>Related structure or vocabulary:</b> Present Simple Negative: Subject + does not (doesn't) + base verb<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d2e83f28145bcbb6a5a",
+        "questionNumber": 20,
+        "questionText": "What about you? _____________ you like swimming?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "does",
+            "raw": "A. does ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "do",
+            "raw": "C. do",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What about you? _____________ you like swimming?' requires an auxiliary verb to form a yes/no question in the present simple tense. The subject is 'you', and the main verb is 'like'. In English, for questions in the present simple tense with 'you', we use the auxiliary verb 'do'. Therefore, the correct question is 'Do you like swimming?'<br><ul><li><b>does</b> (auxiliary verb): 'Does' is used as an auxiliary verb for he/she/it in present simple questions, not for 'you'.</li><li><b>are</b> (verb (to be)): 'Are' is the present simple form of the verb 'to be', used for continuous tenses or as a linking verb, not for forming questions with 'like'.</li><li><b>do</b> (auxiliary verb): 'Do' is the correct auxiliary verb for forming present simple questions with 'you'.</li><li><b>have</b> (auxiliary verb / main verb): 'Have' is used as an auxiliary verb in perfect tenses or as a main verb meaning 'to possess', not for this structure.</li></ul><b>Related structure or vocabulary:</b> Present Simple Question Structure: Do/Does + subject + base verb? Example: Do you like apples? Does she play tennis?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'What about you? _____________ you like swimming?' cần một trợ động từ để tạo thành câu hỏi Yes/No ở thì hiện tại đơn. Chủ ngữ là 'you', động từ chính là 'like'. Trong tiếng Anh, để hỏi ở thì hiện tại đơn với 'you', ta dùng trợ động từ 'do'. Vì vậy, câu hỏi đúng là 'Do you like swimming?'<br><ul><li><b>does</b> (trợ động từ): 'Does' là trợ động từ dùng cho he/she/it trong câu hỏi thì hiện tại đơn, không dùng cho 'you'.</li><li><b>are</b> (động từ to be): 'Are' là động từ to be ở thì hiện tại, dùng cho các thì tiếp diễn hoặc làm động từ nối, không dùng để tạo câu hỏi với 'like'.</li><li><b>do</b> (trợ động từ): 'Do' là trợ động từ đúng để tạo câu hỏi thì hiện tại đơn với 'you'.</li><li><b>have</b> (trợ động từ / động từ chính): 'Have' là trợ động từ dùng trong thì hoàn thành hoặc là động từ chính mang nghĩa 'có', không phù hợp với cấu trúc này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi thì hiện tại đơn: Do/Does + chủ ngữ + động từ nguyên thể? Ví dụ: Do you like apples? Does she play tennis?<br><br><b>Tạm dịch:</b> Bạn thì sao? Bạn có thích bơi không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What about you? _____________ you like swimming?' requires an auxiliary verb to form a yes/no question in the present simple tense. The subject is 'you', and the main verb is 'like'. In English, for questions in the present simple tense with 'you', we use the auxiliary verb 'do'. Therefore, the correct question is 'Do you like swimming?'<br><ul><li><b>does</b> (auxiliary verb): 'Does' is used as an auxiliary verb for he/she/it in present simple questions, not for 'you'.</li><li><b>are</b> (verb (to be)): 'Are' is the present simple form of the verb 'to be', used for continuous tenses or as a linking verb, not for forming questions with 'like'.</li><li><b>do</b> (auxiliary verb): 'Do' is the correct auxiliary verb for forming present simple questions with 'you'.</li><li><b>have</b> (auxiliary verb / main verb): 'Have' is used as an auxiliary verb in perfect tenses or as a main verb meaning 'to possess', not for this structure.</li></ul><b>Related structure or vocabulary:</b> Present Simple Question Structure: Do/Does + subject + base verb? Example: Do you like apples? Does she play tennis?<br><br>"
+      }
+    }
+  ]
+}

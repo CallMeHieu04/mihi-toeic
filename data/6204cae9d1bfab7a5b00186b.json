@@ -1,0 +1,808 @@
+{
+  "topicId": "6204cae9d1bfab7a5b00186b",
+  "title": "PRESENT CONTINUOUS TENSE - Practice 3",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019c6",
+        "questionNumber": 1,
+        "questionText": "I want to lose weight, so this week I ____ lunch.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am not eating",
+            "raw": "A. am not eating",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "isn’t eating",
+            "raw": "B. isn’t eating                     ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "aren’t eating",
+            "raw": "C. aren’t eating                   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "amn’t eating",
+            "raw": "D. amn’t eating",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I want to lose weight, so this week I ____ lunch.' requires the present continuous tense to express an action happening around the present time (this week). The subject 'I' goes with 'am' in the present continuous tense, followed by 'not eating' to indicate the negative form.<br><ul><li><b>am not eating</b> (verb phrase): 'am not eating' is the correct present continuous negative form for the subject 'I'.</li><li><b>isn’t eating</b> (verb phrase): 'isn’t eating' is the negative present continuous form for 'he/she/it', not 'I'.</li><li><b>aren’t eating</b> (verb phrase): 'aren’t eating' is used with 'you/we/they', not 'I'.</li><li><b>amn’t eating</b> (verb phrase): 'amn’t' is not a correct contraction in standard English.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + (not) + V-ing. Used for actions happening now or around the present time (e.g., this week, today). Negative form: 'I am not (am not) + V-ing'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I want to lose weight, so this week I ____ lunch.' cần thì hiện tại tiếp diễn để diễn tả hành động đang diễn ra trong khoảng thời gian hiện tại (tuần này). Chủ ngữ 'I' đi với 'am' trong thì hiện tại tiếp diễn, sau đó là 'not eating' để tạo dạng phủ định.<br><ul><li><b>am not eating</b> (cụm động từ): 'am not eating' là dạng phủ định đúng của thì hiện tại tiếp diễn với chủ ngữ 'I'.</li><li><b>isn’t eating</b> (cụm động từ): 'isn’t eating' là dạng phủ định của thì hiện tại tiếp diễn với chủ ngữ 'he/she/it', không dùng với 'I'.</li><li><b>aren’t eating</b> (cụm động từ): 'aren’t eating' dùng với chủ ngữ 'you/we/they', không dùng với 'I'.</li><li><b>amn’t eating</b> (cụm động từ): 'amn’t' không phải là dạng rút gọn đúng trong tiếng Anh chuẩn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + (not) + V-ing. Dùng để diễn tả hành động đang diễn ra ở hiện tại hoặc xung quanh thời điểm nói (ví dụ: tuần này, hôm nay). Dạng phủ định: 'I am not + V-ing'.<br><br><b>Tạm dịch:</b> Tôi muốn giảm cân, vì vậy tuần này tôi không ăn trưa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I want to lose weight, so this week I ____ lunch.' requires the present continuous tense to express an action happening around the present time (this week). The subject 'I' goes with 'am' in the present continuous tense, followed by 'not eating' to indicate the negative form.<br><ul><li><b>am not eating</b> (verb phrase): 'am not eating' is the correct present continuous negative form for the subject 'I'.</li><li><b>isn’t eating</b> (verb phrase): 'isn’t eating' is the negative present continuous form for 'he/she/it', not 'I'.</li><li><b>aren’t eating</b> (verb phrase): 'aren’t eating' is used with 'you/we/they', not 'I'.</li><li><b>amn’t eating</b> (verb phrase): 'amn’t' is not a correct contraction in standard English.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + (not) + V-ing. Used for actions happening now or around the present time (e.g., this week, today). Negative form: 'I am not (am not) + V-ing'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019c7",
+        "questionNumber": 2,
+        "questionText": "Andrew has just started evening classes. He ____ German.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are learning",
+            "raw": "A. are learning                    ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is learning",
+            "raw": "B. is learning",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "am learning",
+            "raw": "C. am learning                    ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "learning",
+            "raw": "D. learning",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the subject is 'Andrew', which is a singular noun. The sentence describes an action that is happening at the present time ('has just started evening classes'), so we need to use the present continuous tense (am/is/are + V-ing) to show that Andrew is currently learning German.<br><ul><li><b>are learning</b> (verb phrase): 'Are' is used with plural subjects or with 'you', not with singular third person subjects like 'Andrew'.</li><li><b>is learning</b> (verb phrase): 'Is' is the correct form of the verb 'to be' for singular third person subjects (he, she, it, or a name like Andrew). 'Is learning' is the present continuous tense, which fits the context.</li><li><b>am learning</b> (verb phrase): 'Am' is only used with the subject 'I', not with 'Andrew'.</li><li><b>learning</b> (verb (present participle)): This is just the present participle form of the verb and cannot be used alone as the main verb in this sentence.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. Used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chủ ngữ là 'Andrew', là danh từ số ít. Câu mô tả một hành động đang diễn ra ở hiện tại ('vừa mới bắt đầu học lớp buổi tối'), vì vậy chúng ta cần sử dụng thì hiện tại tiếp diễn (am/is/are + V-ing) để diễn tả việc Andrew đang học tiếng Đức.<br><ul><li><b>are learning</b> (cụm động từ): 'Are' dùng với chủ ngữ số nhiều hoặc 'you', không dùng với chủ ngữ số ít ngôi thứ ba như 'Andrew'.</li><li><b>is learning</b> (cụm động từ): 'Is' là dạng đúng của động từ 'to be' cho chủ ngữ số ít ngôi thứ ba (he, she, it hoặc tên riêng như Andrew). 'Is learning' là thì hiện tại tiếp diễn, phù hợp với ngữ cảnh.</li><li><b>am learning</b> (cụm động từ): 'Am' chỉ dùng với chủ ngữ 'I', không dùng với 'Andrew'.</li><li><b>learning</b> (động từ (V-ing)): Đây chỉ là dạng V-ing của động từ, không thể đứng một mình làm động từ chính trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + V-ing. Dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> Andrew vừa mới bắt đầu học lớp buổi tối. Anh ấy đang học tiếng Đức.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the subject is 'Andrew', which is a singular noun. The sentence describes an action that is happening at the present time ('has just started evening classes'), so we need to use the present continuous tense (am/is/are + V-ing) to show that Andrew is currently learning German.<br><ul><li><b>are learning</b> (verb phrase): 'Are' is used with plural subjects or with 'you', not with singular third person subjects like 'Andrew'.</li><li><b>is learning</b> (verb phrase): 'Is' is the correct form of the verb 'to be' for singular third person subjects (he, she, it, or a name like Andrew). 'Is learning' is the present continuous tense, which fits the context.</li><li><b>am learning</b> (verb phrase): 'Am' is only used with the subject 'I', not with 'Andrew'.</li><li><b>learning</b> (verb (present participle)): This is just the present participle form of the verb and cannot be used alone as the main verb in this sentence.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. Used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019c8",
+        "questionNumber": 3,
+        "questionText": "____ Tom (be) mad? He (throw) ____ all his books and (cry) ____ now.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Is, are throwing, crying",
+            "raw": "A. Is, are throwing, crying",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Is, is throwing, crying",
+            "raw": "B. Is, is throwing, crying",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Is, throws, cries",
+            "raw": "C. Is, throws, cries",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Is, is throw, cry",
+            "raw": "D. Is, is throw, cry",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is in the present continuous tense, describing an action happening right now. The verb 'be' must agree with the subject 'Tom' (he), so we use 'is'. The verbs 'throw' and 'cry' describe actions happening at the moment, so they should be in the present continuous form: 'is throwing' and 'crying'.<br><ul><li><b>Is</b> (verb): Present simple form of 'to be' for 'he/she/it'. Used here because the subject is 'Tom'.</li><li><b>are throwing</b> (verb phrase): 'Are' is used for plural subjects, not for 'Tom' (he). 'Throwing' is the present participle.</li><li><b>is throwing</b> (verb phrase): 'Is' is the correct form for 'he', and 'throwing' is the present participle, forming the present continuous tense.</li><li><b>crying</b> (verb): Present participle form, used with 'is' to form the present continuous tense.</li><li><b>throws</b> (verb): Present simple form, not suitable for an action happening now.</li><li><b>cries</b> (verb): Present simple form, not suitable for an action happening now.</li><li><b>is throw</b> (verb phrase): Incorrect form; 'throw' should be in the present participle form 'throwing' after 'is'.</li><li><b>cry</b> (verb): Base form, not suitable after 'is' for present continuous tense.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. Used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này sử dụng thì hiện tại tiếp diễn để mô tả hành động đang xảy ra ngay lúc nói. Động từ 'be' phải phù hợp với chủ ngữ 'Tom' (he), nên dùng 'is'. Các động từ 'throw' và 'cry' mô tả hành động đang diễn ra, nên phải ở dạng hiện tại tiếp diễn: 'is throwing' và 'crying'.<br><ul><li><b>Is</b> (động từ): Dạng hiện tại đơn của 'to be' cho 'he/she/it'. Dùng ở đây vì chủ ngữ là 'Tom'.</li><li><b>are throwing</b> (cụm động từ): 'Are' dùng cho chủ ngữ số nhiều, không phù hợp với 'Tom' (he). 'Throwing' là dạng V-ing.</li><li><b>is throwing</b> (cụm động từ): 'Is' là dạng đúng cho 'he', 'throwing' là V-ing, tạo thành thì hiện tại tiếp diễn.</li><li><b>crying</b> (động từ): Dạng V-ing, dùng với 'is' để tạo thì hiện tại tiếp diễn.</li><li><b>throws</b> (động từ): Dạng hiện tại đơn, không phù hợp để diễn tả hành động đang xảy ra.</li><li><b>cries</b> (động từ): Dạng hiện tại đơn, không phù hợp để diễn tả hành động đang xảy ra.</li><li><b>is throw</b> (cụm động từ): Sai cấu trúc; sau 'is' phải là V-ing (throwing).</li><li><b>cry</b> (động từ): Dạng nguyên thể, không phù hợp sau 'is' trong thì hiện tại tiếp diễn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + V-ing. Dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> Tom có bị điên không? Cậu ấy đang ném tất cả sách của mình và đang khóc bây giờ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is in the present continuous tense, describing an action happening right now. The verb 'be' must agree with the subject 'Tom' (he), so we use 'is'. The verbs 'throw' and 'cry' describe actions happening at the moment, so they should be in the present continuous form: 'is throwing' and 'crying'.<br><ul><li><b>Is</b> (verb): Present simple form of 'to be' for 'he/she/it'. Used here because the subject is 'Tom'.</li><li><b>are throwing</b> (verb phrase): 'Are' is used for plural subjects, not for 'Tom' (he). 'Throwing' is the present participle.</li><li><b>is throwing</b> (verb phrase): 'Is' is the correct form for 'he', and 'throwing' is the present participle, forming the present continuous tense.</li><li><b>crying</b> (verb): Present participle form, used with 'is' to form the present continuous tense.</li><li><b>throws</b> (verb): Present simple form, not suitable for an action happening now.</li><li><b>cries</b> (verb): Present simple form, not suitable for an action happening now.</li><li><b>is throw</b> (verb phrase): Incorrect form; 'throw' should be in the present participle form 'throwing' after 'is'.</li><li><b>cry</b> (verb): Base form, not suitable after 'is' for present continuous tense.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. Used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019c9",
+        "questionNumber": 4,
+        "questionText": "I am _______ a sandwich now.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "eats",
+            "raw": "A. eats",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "eating",
+            "raw": "B. eating",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "not eat",
+            "raw": "C. not eat",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "eat",
+            "raw": "D. eat",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I am _______ a sandwich now.' requires the present continuous tense because the action is happening right now. The present continuous tense is formed with 'am/is/are + V-ing'.<br><ul><li><b>eats</b> (verb (simple present)): 'eats' is the simple present tense, used for habits or general truths, not for actions happening at the moment.</li><li><b>eating</b> (verb (present participle)): 'eating' is the present participle (V-ing), used with 'am' to form the present continuous tense, which describes an action happening now.</li><li><b>not eat</b> (verb phrase (incorrect form)): 'not eat' is not a correct verb form for this structure. It is neither the present continuous nor a grammatically correct phrase here.</li><li><b>eat</b> (verb (base form)): 'eat' is the base form of the verb, used for the simple present tense with 'I', but not with 'am' for present continuous.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing is used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I am _______ a sandwich now.' cần thì hiện tại tiếp diễn vì hành động đang xảy ra ngay lúc nói. Thì hiện tại tiếp diễn được tạo thành bởi 'am/is/are + V-ing'.<br><ul><li><b>eats</b> (động từ (thì hiện tại đơn)): 'eats' là thì hiện tại đơn, dùng cho thói quen hoặc sự thật chung, không dùng cho hành động đang xảy ra ngay lúc này.</li><li><b>eating</b> (động từ (hiện tại phân từ)): 'eating' là dạng V-ing (hiện tại phân từ), dùng với 'am' để tạo thành thì hiện tại tiếp diễn, diễn tả hành động đang diễn ra.</li><li><b>not eat</b> (cụm động từ (dạng sai)): 'not eat' không phải là một dạng động từ đúng trong cấu trúc này. Nó không phải thì hiện tại tiếp diễn và cũng không đúng ngữ pháp ở đây.</li><li><b>eat</b> (động từ (nguyên thể)): 'eat' là động từ nguyên thể, dùng cho thì hiện tại đơn với 'I', nhưng không dùng với 'am' để tạo thì hiện tại tiếp diễn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: am/is/are + V-ing dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> Tôi đang ăn một chiếc bánh sandwich ngay bây giờ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I am _______ a sandwich now.' requires the present continuous tense because the action is happening right now. The present continuous tense is formed with 'am/is/are + V-ing'.<br><ul><li><b>eats</b> (verb (simple present)): 'eats' is the simple present tense, used for habits or general truths, not for actions happening at the moment.</li><li><b>eating</b> (verb (present participle)): 'eating' is the present participle (V-ing), used with 'am' to form the present continuous tense, which describes an action happening now.</li><li><b>not eat</b> (verb phrase (incorrect form)): 'not eat' is not a correct verb form for this structure. It is neither the present continuous nor a grammatically correct phrase here.</li><li><b>eat</b> (verb (base form)): 'eat' is the base form of the verb, used for the simple present tense with 'I', but not with 'am' for present continuous.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing is used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019ca",
+        "questionNumber": 5,
+        "questionText": "I am busy right now. I _______ breakfast.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am have",
+            "raw": "A. am have",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have",
+            "raw": "B. have",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "having",
+            "raw": "C. having",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "am having",
+            "raw": "D. am having",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that matches the present continuous tense because the sentence describes an action happening right now ('I am busy right now'). The present continuous tense is formed with 'am/is/are + V-ing'.<br><ul><li><b>am have</b> (verb phrase): 'am' + 'have' is incorrect because 'have' is the base form, not the V-ing form required for the present continuous tense.</li><li><b>have</b> (verb): 'have' alone is the simple present tense, which does not fit the context of an action happening right now.</li><li><b>having</b> (verb (V-ing)): 'having' is the V-ing form, but without the auxiliary verb 'am', it is not a complete verb phrase for the present continuous tense.</li><li><b>am having</b> (verb phrase (present continuous)): 'am having' is the correct present continuous form, indicating an action happening at the moment of speaking.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing is used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một dạng động từ phù hợp với thì hiện tại tiếp diễn vì câu mô tả một hành động đang diễn ra ngay lúc nói ('Tôi đang bận ngay bây giờ'). Thì hiện tại tiếp diễn được hình thành với 'am/is/are + V-ing'.<br><ul><li><b>am have</b> (cụm động từ): 'am' + 'have' là sai vì 'have' là dạng nguyên thể, không phải dạng V-ing cần thiết cho thì hiện tại tiếp diễn.</li><li><b>have</b> (động từ): 'have' một mình là thì hiện tại đơn, không phù hợp với ngữ cảnh hành động đang diễn ra ngay lúc nói.</li><li><b>having</b> (động từ (V-ing)): 'having' là dạng V-ing, nhưng thiếu động từ phụ 'am' nên không phải là một cụm động từ hoàn chỉnh cho thì hiện tại tiếp diễn.</li><li><b>am having</b> (cụm động từ (hiện tại tiếp diễn)): 'am having' là dạng đúng của thì hiện tại tiếp diễn, diễn tả hành động đang xảy ra tại thời điểm nói.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: am/is/are + V-ing dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> Tôi đang bận ngay bây giờ. Tôi đang ăn sáng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that matches the present continuous tense because the sentence describes an action happening right now ('I am busy right now'). The present continuous tense is formed with 'am/is/are + V-ing'.<br><ul><li><b>am have</b> (verb phrase): 'am' + 'have' is incorrect because 'have' is the base form, not the V-ing form required for the present continuous tense.</li><li><b>have</b> (verb): 'have' alone is the simple present tense, which does not fit the context of an action happening right now.</li><li><b>having</b> (verb (V-ing)): 'having' is the V-ing form, but without the auxiliary verb 'am', it is not a complete verb phrase for the present continuous tense.</li><li><b>am having</b> (verb phrase (present continuous)): 'am having' is the correct present continuous form, indicating an action happening at the moment of speaking.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing is used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019cb",
+        "questionNumber": 6,
+        "questionText": "My daughter _________ studying English at Istanbul University.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is",
+            "raw": "A. is",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "does",
+            "raw": "B. does",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "do",
+            "raw": "C.do",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "not",
+            "raw": "D. not",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My daughter _________ studying English at Istanbul University.' requires the correct form of the verb to match the present continuous tense. The present continuous tense is formed with the verb 'to be' (am/is/are) + verb-ing. Here, 'my daughter' is a singular subject, so we use 'is' as the correct form of 'to be'.<br><ul><li><b>is</b> (verb (to be)): The present simple form of the verb 'to be' for singular third person subjects (he, she, it, or singular nouns like 'my daughter'). Used to form the present continuous tense.</li><li><b>does</b> (verb (auxiliary)): The present simple form of the verb 'do' for third person singular subjects. Used for questions or negatives in the present simple tense, not for continuous tenses.</li><li><b>do</b> (verb (auxiliary)): The present simple form of the verb 'do' for plural subjects or 'I/you'. Not used with singular third person subjects like 'my daughter', and not used for continuous tenses.</li><li><b>not</b> (adverb): A negative word used to make sentences negative. Cannot be used alone to fill the blank in this sentence.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'My daughter _________ studying English at Istanbul University.' cần điền đúng dạng của động từ để tạo thành thì hiện tại tiếp diễn. Thì hiện tại tiếp diễn được hình thành bởi động từ 'to be' (am/is/are) + động từ thêm -ing. Ở đây, 'my daughter' là chủ ngữ số ít, nên ta dùng 'is' là dạng đúng của 'to be'.<br><ul><li><b>is</b> (động từ (to be)): 'is' là dạng hiện tại đơn của động từ 'to be' dùng cho chủ ngữ số ít ngôi thứ ba (he, she, it hoặc danh từ số ít như 'my daughter'). Dùng để tạo thành thì hiện tại tiếp diễn.</li><li><b>does</b> (động từ (trợ động từ)): 'does' là dạng hiện tại đơn của động từ 'do' dùng cho chủ ngữ số ít ngôi thứ ba. Dùng trong câu hỏi hoặc phủ định ở thì hiện tại đơn, không dùng cho thì tiếp diễn.</li><li><b>do</b> (động từ (trợ động từ)): 'do' là dạng hiện tại đơn của động từ 'do' dùng cho chủ ngữ số nhiều hoặc 'I/you'. Không dùng với chủ ngữ số ít ngôi thứ ba như 'my daughter', và không dùng cho thì tiếp diễn.</li><li><b>not</b> (trạng từ): 'not' là từ phủ định dùng để tạo câu phủ định. Không thể dùng một mình để điền vào chỗ trống trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + V-ing<br><br><b>Tạm dịch:</b> Con gái tôi đang học tiếng Anh tại Đại học Istanbul.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My daughter _________ studying English at Istanbul University.' requires the correct form of the verb to match the present continuous tense. The present continuous tense is formed with the verb 'to be' (am/is/are) + verb-ing. Here, 'my daughter' is a singular subject, so we use 'is' as the correct form of 'to be'.<br><ul><li><b>is</b> (verb (to be)): The present simple form of the verb 'to be' for singular third person subjects (he, she, it, or singular nouns like 'my daughter'). Used to form the present continuous tense.</li><li><b>does</b> (verb (auxiliary)): The present simple form of the verb 'do' for third person singular subjects. Used for questions or negatives in the present simple tense, not for continuous tenses.</li><li><b>do</b> (verb (auxiliary)): The present simple form of the verb 'do' for plural subjects or 'I/you'. Not used with singular third person subjects like 'my daughter', and not used for continuous tenses.</li><li><b>not</b> (adverb): A negative word used to make sentences negative. Cannot be used alone to fill the blank in this sentence.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019cc",
+        "questionNumber": 7,
+        "questionText": "_____ you waiting for a bus?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Do",
+            "raw": "A. Do",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Are",
+            "raw": "B. Are",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Does",
+            "raw": "C. Does",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Is",
+            "raw": "D. Is",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question '_____ you waiting for a bus?' requires an auxiliary verb to form the present continuous tense. The present continuous tense is used to describe an action that is happening at the moment of speaking. The structure is: Subject + am/is/are + V-ing. For the subject 'you', the correct auxiliary verb is 'are'.<br><ul><li><b>Do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in the present simple tense, not in the present continuous tense.</li><li><b>Are</b> (auxiliary verb): 'Are' is the correct auxiliary verb for 'you' in the present continuous tense.</li><li><b>Does</b> (auxiliary verb): 'Does' is used as an auxiliary verb for he/she/it in the present simple tense.</li><li><b>Is</b> (auxiliary verb): 'Is' is the auxiliary verb for he/she/it in the present continuous tense.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi '_____ you waiting for a bus?' cần một trợ động từ để tạo thành thì hiện tại tiếp diễn. Thì hiện tại tiếp diễn dùng để diễn tả hành động đang xảy ra tại thời điểm nói. Cấu trúc là: Chủ ngữ + am/is/are + V-ing. Với chủ ngữ 'you', trợ động từ đúng là 'are'.<br><ul><li><b>Do</b> (trợ động từ): 'Do' là trợ động từ dùng trong thì hiện tại đơn, không dùng trong thì hiện tại tiếp diễn.</li><li><b>Are</b> (trợ động từ): 'Are' là trợ động từ đúng cho 'you' trong thì hiện tại tiếp diễn.</li><li><b>Does</b> (trợ động từ): 'Does' là trợ động từ dùng cho he/she/it trong thì hiện tại đơn.</li><li><b>Is</b> (trợ động từ): 'Is' là trợ động từ dùng cho he/she/it trong thì hiện tại tiếp diễn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + V-ing<br><br><b>Tạm dịch:</b> Bạn có đang đợi xe buýt không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question '_____ you waiting for a bus?' requires an auxiliary verb to form the present continuous tense. The present continuous tense is used to describe an action that is happening at the moment of speaking. The structure is: Subject + am/is/are + V-ing. For the subject 'you', the correct auxiliary verb is 'are'.<br><ul><li><b>Do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in the present simple tense, not in the present continuous tense.</li><li><b>Are</b> (auxiliary verb): 'Are' is the correct auxiliary verb for 'you' in the present continuous tense.</li><li><b>Does</b> (auxiliary verb): 'Does' is used as an auxiliary verb for he/she/it in the present simple tense.</li><li><b>Is</b> (auxiliary verb): 'Is' is the auxiliary verb for he/she/it in the present continuous tense.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019cd",
+        "questionNumber": 8,
+        "questionText": "What _____________? It looks awful.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do you drinking",
+            "raw": "A. do you drinking",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are you drink",
+            "raw": "B. are you drink",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "are you drinking",
+            "raw": "C. are you drinking",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "does you drink",
+            "raw": "D. does you drink",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What _____________? It looks awful.' requires the present continuous tense because the speaker is asking about an action that is happening right now. The present continuous is formed with 'am/is/are + V-ing'. Since the subject is 'you', we use 'are you' followed by the verb in the -ing form.<br><ul><li><b>do you drinking</b> (incorrect verb phrase): 'Do' is used for the present simple tense, and 'drinking' is the -ing form. This combination is incorrect because 'do' is not used with the -ing form.</li><li><b>are you drink</b> (incorrect verb phrase): 'Are' is used for the present continuous, but 'drink' is the base form. The correct form should be 'are you drinking'.</li><li><b>are you drinking</b> (present continuous): 'Are' is the correct auxiliary verb for 'you' in the present continuous tense, and 'drinking' is the -ing form of the verb. This is the correct structure.</li><li><b>does you drink</b> (incorrect verb phrase): 'Does' is used for the present simple tense with 'he/she/it', not 'you'. Also, 'does you' is grammatically incorrect.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing is used to talk about actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'What _____________? It looks awful.' cần thì hiện tại tiếp diễn vì người nói đang hỏi về một hành động đang diễn ra ngay lúc nói. Thì hiện tại tiếp diễn được hình thành với 'am/is/are + V-ing'. Vì chủ ngữ là 'you', ta dùng 'are you' theo sau là động từ ở dạng -ing.<br><ul><li><b>do you drinking</b> (cụm động từ sai): 'Do' dùng cho thì hiện tại đơn, còn 'drinking' là dạng -ing. Kết hợp này sai vì 'do' không đi với động từ dạng -ing.</li><li><b>are you drink</b> (cụm động từ sai): 'Are' dùng cho thì hiện tại tiếp diễn, nhưng 'drink' lại là động từ nguyên thể. Dạng đúng phải là 'are you drinking'.</li><li><b>are you drinking</b> (thì hiện tại tiếp diễn): 'Are' là trợ động từ đúng cho 'you' ở thì hiện tại tiếp diễn, và 'drinking' là động từ ở dạng -ing. Đây là cấu trúc đúng.</li><li><b>does you drink</b> (cụm động từ sai): 'Does' dùng cho thì hiện tại đơn với 'he/she/it', không dùng với 'you'. Hơn nữa, 'does you' là sai ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: am/is/are + V-ing dùng để nói về hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> Bạn đang uống gì vậy? Trông thật kinh khủng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What _____________? It looks awful.' requires the present continuous tense because the speaker is asking about an action that is happening right now. The present continuous is formed with 'am/is/are + V-ing'. Since the subject is 'you', we use 'are you' followed by the verb in the -ing form.<br><ul><li><b>do you drinking</b> (incorrect verb phrase): 'Do' is used for the present simple tense, and 'drinking' is the -ing form. This combination is incorrect because 'do' is not used with the -ing form.</li><li><b>are you drink</b> (incorrect verb phrase): 'Are' is used for the present continuous, but 'drink' is the base form. The correct form should be 'are you drinking'.</li><li><b>are you drinking</b> (present continuous): 'Are' is the correct auxiliary verb for 'you' in the present continuous tense, and 'drinking' is the -ing form of the verb. This is the correct structure.</li><li><b>does you drink</b> (incorrect verb phrase): 'Does' is used for the present simple tense with 'he/she/it', not 'you'. Also, 'does you' is grammatically incorrect.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing is used to talk about actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019ce",
+        "questionNumber": 9,
+        "questionText": "We ________ enjoying our holiday here so much.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "don't",
+            "raw": "A. don't",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "is",
+            "raw": "C. is",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "doesn't",
+            "raw": "D. doesn't",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We ________ enjoying our holiday here so much.' requires an auxiliary verb to form the present continuous tense. The present continuous tense is used to describe actions happening at the moment of speaking. The structure is: Subject + am/are/is + V-ing. Since the subject is 'We', the correct auxiliary verb is 'are'.<br><ul><li><b>don't</b> (auxiliary verb (negative, present simple)): Short form of 'do not', used for negative statements in the present simple tense, not suitable for present continuous.</li><li><b>are</b> (auxiliary verb (present continuous)): Auxiliary verb used with 'we' in the present continuous tense.</li><li><b>is</b> (auxiliary verb (present continuous)): Auxiliary verb used with singular subjects (he, she, it) in the present continuous tense, not with 'we'.</li><li><b>doesn't</b> (auxiliary verb (negative, present simple)): Short form of 'does not', used for negative statements with singular subjects in the present simple tense.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/are/is + V-ing<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We ________ enjoying our holiday here so much.' cần một trợ động từ để tạo thành thì hiện tại tiếp diễn. Thì hiện tại tiếp diễn dùng để diễn tả hành động đang xảy ra tại thời điểm nói. Cấu trúc là: Chủ ngữ + am/are/is + V-ing. Vì chủ ngữ là 'We', trợ động từ đúng là 'are'.<br><ul><li><b>don't</b> (trợ động từ (phủ định, hiện tại đơn)): Dạng viết tắt của 'do not', dùng cho câu phủ định ở thì hiện tại đơn, không phù hợp với thì hiện tại tiếp diễn.</li><li><b>are</b> (trợ động từ (hiện tại tiếp diễn)): Trợ động từ dùng với 'we' trong thì hiện tại tiếp diễn.</li><li><b>is</b> (trợ động từ (hiện tại tiếp diễn)): Trợ động từ dùng với chủ ngữ số ít (he, she, it) trong thì hiện tại tiếp diễn, không dùng với 'we'.</li><li><b>doesn't</b> (trợ động từ (phủ định, hiện tại đơn)): Dạng viết tắt của 'does not', dùng cho câu phủ định với chủ ngữ số ít ở thì hiện tại đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/are/is + V-ing<br><br><b>Tạm dịch:</b> Chúng tôi đang rất thích kỳ nghỉ của mình ở đây.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We ________ enjoying our holiday here so much.' requires an auxiliary verb to form the present continuous tense. The present continuous tense is used to describe actions happening at the moment of speaking. The structure is: Subject + am/are/is + V-ing. Since the subject is 'We', the correct auxiliary verb is 'are'.<br><ul><li><b>don't</b> (auxiliary verb (negative, present simple)): Short form of 'do not', used for negative statements in the present simple tense, not suitable for present continuous.</li><li><b>are</b> (auxiliary verb (present continuous)): Auxiliary verb used with 'we' in the present continuous tense.</li><li><b>is</b> (auxiliary verb (present continuous)): Auxiliary verb used with singular subjects (he, she, it) in the present continuous tense, not with 'we'.</li><li><b>doesn't</b> (auxiliary verb (negative, present simple)): Short form of 'does not', used for negative statements with singular subjects in the present simple tense.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/are/is + V-ing<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019cf",
+        "questionNumber": 10,
+        "questionText": "What _____ John ___________ at the moment?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "does / do",
+            "raw": "A. does / do",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is / do",
+            "raw": "B. is / do",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "are / doing",
+            "raw": "C. are / doing",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "is / doing",
+            "raw": "D. is / doing",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What _____ John ___________ at the moment?' requires the present continuous tense to describe an action happening right now. The present continuous is formed with 'is/am/are' + verb-ing. Since 'John' is a singular third-person subject, we use 'is' as the auxiliary verb and 'doing' as the present participle of 'do'.<br><ul><li><b>does / do</b> (auxiliary verb / base verb): 'Does' is used for present simple questions with he/she/it, but 'do' is the base form, not the present participle. This does not form the present continuous tense.</li><li><b>is / do</b> (auxiliary verb / base verb): 'Is' is correct for the subject 'John', but 'do' is the base form, not the present participle. The correct form should be 'doing'.</li><li><b>are / doing</b> (auxiliary verb / present participle): 'Are' is used with plural subjects or 'you/we/they', not with 'John'. 'Doing' is correct as the present participle.</li><li><b>is / doing</b> (auxiliary verb / present participle): 'Is' is the correct auxiliary verb for 'John', and 'doing' is the present participle of 'do'. This forms the present continuous tense correctly.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: is/am/are + V-ing. Used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'What _____ John ___________ at the moment?' cần thì hiện tại tiếp diễn để diễn tả hành động đang xảy ra ngay lúc nói. Thì hiện tại tiếp diễn được hình thành bởi 'is/am/are' + động từ thêm -ing. Vì 'John' là chủ ngữ số ít ngôi thứ ba, ta dùng 'is' làm trợ động từ và 'doing' là dạng V-ing của 'do'.<br><ul><li><b>does / do</b> (trợ động từ / động từ nguyên thể): 'Does' dùng cho câu hỏi thì hiện tại đơn với he/she/it, nhưng 'do' là dạng nguyên thể, không phải dạng V-ing. Không tạo thành thì hiện tại tiếp diễn.</li><li><b>is / do</b> (trợ động từ / động từ nguyên thể): 'Is' đúng với chủ ngữ 'John', nhưng 'do' là dạng nguyên thể, không phải V-ing. Dạng đúng phải là 'doing'.</li><li><b>are / doing</b> (trợ động từ / động từ V-ing): 'Are' dùng với chủ ngữ số nhiều hoặc 'you/we/they', không dùng với 'John'. 'Doing' là dạng V-ing đúng.</li><li><b>is / doing</b> (trợ động từ / động từ V-ing): 'Is' là trợ động từ đúng cho 'John', và 'doing' là dạng V-ing của 'do'. Đây là cấu trúc đúng của thì hiện tại tiếp diễn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: is/am/are + V-ing. Dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> What is John doing at the moment? --> John đang làm gì vào lúc này?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What _____ John ___________ at the moment?' requires the present continuous tense to describe an action happening right now. The present continuous is formed with 'is/am/are' + verb-ing. Since 'John' is a singular third-person subject, we use 'is' as the auxiliary verb and 'doing' as the present participle of 'do'.<br><ul><li><b>does / do</b> (auxiliary verb / base verb): 'Does' is used for present simple questions with he/she/it, but 'do' is the base form, not the present participle. This does not form the present continuous tense.</li><li><b>is / do</b> (auxiliary verb / base verb): 'Is' is correct for the subject 'John', but 'do' is the base form, not the present participle. The correct form should be 'doing'.</li><li><b>are / doing</b> (auxiliary verb / present participle): 'Are' is used with plural subjects or 'you/we/they', not with 'John'. 'Doing' is correct as the present participle.</li><li><b>is / doing</b> (auxiliary verb / present participle): 'Is' is the correct auxiliary verb for 'John', and 'doing' is the present participle of 'do'. This forms the present continuous tense correctly.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: is/am/are + V-ing. Used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d0",
+        "questionNumber": 11,
+        "questionText": "I ___________ sitting down at the moment.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am not",
+            "raw": "A. am not",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "are not",
+            "raw": "B. are not",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is",
+            "raw": "C. is",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "don't",
+            "raw": "D. don't",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb 'to be' to match the subject 'I' in the present continuous tense. The present continuous tense is formed by using the verb 'to be' (am/is/are) + verb-ing. For the subject 'I', the correct form is 'am'. The sentence is negative, so we use 'am not'. Therefore, the correct answer is 'am not sitting'.<br><ul><li><b>am not</b> (auxiliary verb (negative form)): The negative form of 'am', used with 'I' in the present continuous tense.</li><li><b>are not</b> (auxiliary verb (negative form)): The negative form of 'are', used with 'you/we/they', not with 'I'.</li><li><b>is</b> (auxiliary verb): The positive form of 'is', used with 'he/she/it', not with 'I'.</li><li><b>don't</b> (auxiliary verb (negative form)): The negative form of 'do', used in the present simple tense, not in the present continuous.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + verb-ing. For 'I', use 'am' or 'am not' in the negative form.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng đúng của động từ 'to be' phù hợp với chủ ngữ 'I' ở thì hiện tại tiếp diễn. Thì hiện tại tiếp diễn được hình thành bằng cách dùng động từ 'to be' (am/is/are) + động từ thêm -ing. Với chủ ngữ 'I', ta dùng 'am'. Câu này ở dạng phủ định nên ta dùng 'am not'. Vì vậy, đáp án đúng là 'am not sitting'.<br><ul><li><b>am not</b> (trợ động từ (dạng phủ định)): 'am not' là dạng phủ định của 'am', dùng với 'I' trong thì hiện tại tiếp diễn.</li><li><b>are not</b> (trợ động từ (dạng phủ định)): 'are not' là dạng phủ định của 'are', dùng với 'you/we/they', không dùng với 'I'.</li><li><b>is</b> (trợ động từ): 'is' là dạng khẳng định, dùng với 'he/she/it', không dùng với 'I'.</li><li><b>don't</b> (trợ động từ (dạng phủ định)): 'don't' là dạng phủ định của 'do', dùng trong thì hiện tại đơn, không dùng trong thì hiện tại tiếp diễn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + động từ-ing. Với 'I', dùng 'am' hoặc 'am not' nếu là câu phủ định.<br><br><b>Tạm dịch:</b> Tôi không ngồi xuống vào lúc này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb 'to be' to match the subject 'I' in the present continuous tense. The present continuous tense is formed by using the verb 'to be' (am/is/are) + verb-ing. For the subject 'I', the correct form is 'am'. The sentence is negative, so we use 'am not'. Therefore, the correct answer is 'am not sitting'.<br><ul><li><b>am not</b> (auxiliary verb (negative form)): The negative form of 'am', used with 'I' in the present continuous tense.</li><li><b>are not</b> (auxiliary verb (negative form)): The negative form of 'are', used with 'you/we/they', not with 'I'.</li><li><b>is</b> (auxiliary verb): The positive form of 'is', used with 'he/she/it', not with 'I'.</li><li><b>don't</b> (auxiliary verb (negative form)): The negative form of 'do', used in the present simple tense, not in the present continuous.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + verb-ing. For 'I', use 'am' or 'am not' in the negative form.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d1",
+        "questionNumber": 12,
+        "questionText": "Don't disturb him. He __________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "sleeps",
+            "raw": "A. sleeps",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is sleeping",
+            "raw": "B. is sleeping",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "is sleep",
+            "raw": "C. is sleep",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "sleep",
+            "raw": "D. sleep",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action is happening right now, so we need to use the present continuous tense (am/is/are + V-ing) to describe an action in progress at the moment of speaking.<br><ul><li><b>sleeps</b> (verb (simple present)): Simple present tense, used for habits or general truths, not for actions happening at the moment.</li><li><b>is sleeping</b> (verb (present continuous)): Present continuous tense, used for actions happening right now.</li><li><b>is sleep</b> (incorrect verb form): Incorrect structure. 'Is' must be followed by a verb in the -ing form for present continuous.</li><li><b>sleep</b> (verb (base form)): Base form of the verb, not suitable here without a subject or auxiliary verb.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing, used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, hành động đang xảy ra ngay lúc nói, vì vậy chúng ta cần sử dụng thì hiện tại tiếp diễn (am/is/are + V-ing) để diễn tả một hành động đang diễn ra tại thời điểm nói.<br><ul><li><b>sleeps</b> (động từ (hiện tại đơn)): Thì hiện tại đơn, dùng cho thói quen hoặc sự thật chung, không dùng cho hành động đang xảy ra ngay lúc nói.</li><li><b>is sleeping</b> (động từ (hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra ngay lúc nói.</li><li><b>is sleep</b> (dạng động từ sai): Cấu trúc sai. 'Is' phải đi với động từ dạng V-ing trong thì hiện tại tiếp diễn.</li><li><b>sleep</b> (động từ (nguyên mẫu)): Động từ nguyên mẫu, không phù hợp ở đây nếu không có chủ ngữ hoặc trợ động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: am/is/are + V-ing, dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> Đừng làm phiền anh ấy. Anh ấy đang ngủ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action is happening right now, so we need to use the present continuous tense (am/is/are + V-ing) to describe an action in progress at the moment of speaking.<br><ul><li><b>sleeps</b> (verb (simple present)): Simple present tense, used for habits or general truths, not for actions happening at the moment.</li><li><b>is sleeping</b> (verb (present continuous)): Present continuous tense, used for actions happening right now.</li><li><b>is sleep</b> (incorrect verb form): Incorrect structure. 'Is' must be followed by a verb in the -ing form for present continuous.</li><li><b>sleep</b> (verb (base form)): Base form of the verb, not suitable here without a subject or auxiliary verb.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing, used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d2",
+        "questionNumber": 13,
+        "questionText": "They are ___________ their coats.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "not",
+            "raw": "A. not",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "put on",
+            "raw": "B. put on",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "putting on",
+            "raw": "C. putting on",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "doesn't put",
+            "raw": "D. doesn't put",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'They are ___________ their coats.' requires a verb form that fits after the auxiliary verb 'are.' In English, after 'are' (a form of the verb 'to be'), we use the present participle (V-ing) to form the present continuous tense, which describes an action happening right now.<br><ul><li><b>not</b> (adverb): 'Not' is an adverb used for negation, not a verb form. It cannot be used directly after 'are' without a verb.</li><li><b>put on</b> (verb (base form)): 'Put on' is the base form (infinitive) of the verb, which cannot be used directly after 'are' without 'to' or without changing its form.</li><li><b>putting on</b> (verb (present participle)): 'Putting on' is the present participle (V-ing) form of the verb 'put on.' It is used after 'are' to form the present continuous tense, indicating an action happening now.</li><li><b>doesn't put</b> (verb (negative present simple)): 'Doesn't put' is the negative form of the simple present tense, which does not fit after 'are.'</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. Used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'They are ___________ their coats.' cần một dạng động từ phù hợp sau động từ 'are.' Trong tiếng Anh, sau 'are' (dạng của động từ 'to be'), ta dùng động từ ở dạng V-ing (hiện tại phân từ) để tạo thì hiện tại tiếp diễn, diễn tả hành động đang xảy ra ngay lúc nói.<br><ul><li><b>not</b> (trạng từ): 'Not' là trạng từ dùng để phủ định, không phải là động từ. Không thể dùng trực tiếp sau 'are' nếu không có động từ.</li><li><b>put on</b> (động từ (nguyên thể)): 'Put on' là động từ nguyên thể, không thể dùng trực tiếp sau 'are' nếu không có 'to' hoặc không chuyển sang dạng khác.</li><li><b>putting on</b> (động từ (hiện tại phân từ)): 'Putting on' là dạng hiện tại phân từ (V-ing) của động từ 'put on.' Dạng này dùng sau 'are' để tạo thì hiện tại tiếp diễn, diễn tả hành động đang xảy ra.</li><li><b>doesn't put</b> (động từ (phủ định hiện tại đơn)): 'Doesn't put' là dạng phủ định của thì hiện tại đơn, không phù hợp để dùng sau 'are.'</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: Chủ ngữ + am/is/are + V-ing. Dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> They are putting on their coats. --> Họ đang mặc áo khoác vào.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'They are ___________ their coats.' requires a verb form that fits after the auxiliary verb 'are.' In English, after 'are' (a form of the verb 'to be'), we use the present participle (V-ing) to form the present continuous tense, which describes an action happening right now.<br><ul><li><b>not</b> (adverb): 'Not' is an adverb used for negation, not a verb form. It cannot be used directly after 'are' without a verb.</li><li><b>put on</b> (verb (base form)): 'Put on' is the base form (infinitive) of the verb, which cannot be used directly after 'are' without 'to' or without changing its form.</li><li><b>putting on</b> (verb (present participle)): 'Putting on' is the present participle (V-ing) form of the verb 'put on.' It is used after 'are' to form the present continuous tense, indicating an action happening now.</li><li><b>doesn't put</b> (verb (negative present simple)): 'Doesn't put' is the negative form of the simple present tense, which does not fit after 'are.'</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: Subject + am/is/are + V-ing. Used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d3",
+        "questionNumber": 14,
+        "questionText": "Is Chris _____________ this weekend?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will work",
+            "raw": "A. will work",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "works",
+            "raw": "B. works",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "working",
+            "raw": "C. working",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "worked",
+            "raw": "D. worked",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Is Chris _____________ this weekend?' requires a verb form that fits after the auxiliary verb 'is' to form a present continuous tense. The present continuous tense is used to talk about actions happening around now or planned future arrangements. After 'is', we use the verb in the V-ing form (present participle).<br><ul><li><b>will work</b> (verb (future simple)): 'Will work' is the future simple tense, which is not used after 'is'.</li><li><b>works</b> (verb (present simple)): 'Works' is the present simple tense, which does not fit after 'is'.</li><li><b>working</b> (verb (present participle/V-ing)): 'Working' is the present participle (V-ing), which is used after 'is' to form the present continuous tense.</li><li><b>worked</b> (verb (past simple/past participle)): 'Worked' is the past simple or past participle form, which does not fit after 'is' in this context.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: is/am/are + V-ing. Used for actions happening now or planned future events.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'Is Chris _____________ this weekend?' cần một dạng động từ phù hợp sau động từ 'is' để tạo thành thì hiện tại tiếp diễn. Thì hiện tại tiếp diễn được dùng để nói về hành động đang diễn ra hoặc kế hoạch đã lên lịch trong tương lai gần. Sau 'is', ta dùng động từ ở dạng V-ing (hiện tại phân từ).<br><ul><li><b>will work</b> (động từ (thì tương lai đơn)): 'Will work' là thì tương lai đơn, không dùng sau 'is'.</li><li><b>works</b> (động từ (thì hiện tại đơn)): 'Works' là thì hiện tại đơn, không phù hợp sau 'is'.</li><li><b>working</b> (động từ (hiện tại phân từ/V-ing)): 'Working' là hiện tại phân từ (V-ing), dùng sau 'is' để tạo thành thì hiện tại tiếp diễn.</li><li><b>worked</b> (động từ (quá khứ đơn/quá khứ phân từ)): 'Worked' là thì quá khứ đơn hoặc quá khứ phân từ, không phù hợp sau 'is' trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: is/am/are + V-ing. Dùng để diễn tả hành động đang diễn ra hoặc kế hoạch đã lên lịch trong tương lai gần.<br><br><b>Tạm dịch:</b> Is Chris working this weekend? --> Chris có đang làm việc cuối tuần này không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Is Chris _____________ this weekend?' requires a verb form that fits after the auxiliary verb 'is' to form a present continuous tense. The present continuous tense is used to talk about actions happening around now or planned future arrangements. After 'is', we use the verb in the V-ing form (present participle).<br><ul><li><b>will work</b> (verb (future simple)): 'Will work' is the future simple tense, which is not used after 'is'.</li><li><b>works</b> (verb (present simple)): 'Works' is the present simple tense, which does not fit after 'is'.</li><li><b>working</b> (verb (present participle/V-ing)): 'Working' is the present participle (V-ing), which is used after 'is' to form the present continuous tense.</li><li><b>worked</b> (verb (past simple/past participle)): 'Worked' is the past simple or past participle form, which does not fit after 'is' in this context.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: is/am/are + V-ing. Used for actions happening now or planned future events.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d4",
+        "questionNumber": 15,
+        "questionText": "A: _________________________? B: Because I am happy.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Why are you smiling?",
+            "raw": "A. Why are you smiling?",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Why do you smiling?",
+            "raw": "B. Why do you smiling?",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Why do you smile?",
+            "raw": "C. Why do you smile?",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Why are you smile?",
+            "raw": "D. Why are you smile?",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question asks for the correct way to ask about the reason for someone's happiness, with the answer being 'Because I am happy.' The correct structure for asking about reasons is 'Why + auxiliary verb + subject + main verb?' In this case, the verb 'smile' is an action, and we need to use the present continuous tense to match the context (someone is smiling now because they are happy). The correct form is 'Why are you smiling?'<br><ul><li><b>Why are you smiling?</b> (Question (Present Continuous)): This is the correct present continuous question form: 'Why' (question word) + 'are' (auxiliary verb) + 'you' (subject) + 'smiling' (present participle).</li><li><b>Why do you smiling?</b> (Incorrect question form): 'Do' is used for present simple questions, but 'smiling' is the present participle, which is incorrect after 'do.'</li><li><b>Why do you smile?</b> (Question (Present Simple)): This is present simple tense, used for habits or general truths, not for actions happening right now.</li><li><b>Why are you smile?</b> (Incorrect question form): 'Are' is the auxiliary for present continuous, but it must be followed by 'smiling' (V-ing), not 'smile' (base form).</li></ul><b>Related structure or vocabulary:</b> Present continuous question form: Why + am/is/are + subject + V-ing? Used to ask about actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi yêu cầu chọn cách hỏi đúng về lý do ai đó cảm thấy vui, với câu trả lời là 'Because I am happy.' Cấu trúc đúng để hỏi về lý do là 'Why + trợ động từ + chủ ngữ + động từ chính?' Trong trường hợp này, động từ 'smile' là hành động, và chúng ta cần dùng thì hiện tại tiếp diễn để phù hợp với ngữ cảnh (ai đó đang cười vì họ vui). Dạng đúng là 'Why are you smiling?'<br><ul><li><b>Why are you smiling?</b> (Câu hỏi (Hiện tại tiếp diễn)): Đây là dạng câu hỏi hiện tại tiếp diễn đúng: 'Why' (từ để hỏi) + 'are' (trợ động từ) + 'you' (chủ ngữ) + 'smiling' (V-ing).</li><li><b>Why do you smiling?</b> (Dạng câu hỏi sai): 'Do' dùng cho thì hiện tại đơn, nhưng 'smiling' là dạng V-ing, không đúng sau 'do.'</li><li><b>Why do you smile?</b> (Câu hỏi (Hiện tại đơn)): Đây là thì hiện tại đơn, dùng cho thói quen hoặc sự thật chung, không dùng cho hành động đang xảy ra.</li><li><b>Why are you smile?</b> (Dạng câu hỏi sai): 'Are' là trợ động từ cho thì hiện tại tiếp diễn, nhưng phải đi với 'smiling' (V-ing), không phải 'smile' (nguyên thể).</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi hiện tại tiếp diễn: Why + am/is/are + chủ ngữ + V-ing? Dùng để hỏi về hành động đang diễn ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> A: Tại sao bạn đang cười? B: Bởi vì tôi vui.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question asks for the correct way to ask about the reason for someone's happiness, with the answer being 'Because I am happy.' The correct structure for asking about reasons is 'Why + auxiliary verb + subject + main verb?' In this case, the verb 'smile' is an action, and we need to use the present continuous tense to match the context (someone is smiling now because they are happy). The correct form is 'Why are you smiling?'<br><ul><li><b>Why are you smiling?</b> (Question (Present Continuous)): This is the correct present continuous question form: 'Why' (question word) + 'are' (auxiliary verb) + 'you' (subject) + 'smiling' (present participle).</li><li><b>Why do you smiling?</b> (Incorrect question form): 'Do' is used for present simple questions, but 'smiling' is the present participle, which is incorrect after 'do.'</li><li><b>Why do you smile?</b> (Question (Present Simple)): This is present simple tense, used for habits or general truths, not for actions happening right now.</li><li><b>Why are you smile?</b> (Incorrect question form): 'Are' is the auxiliary for present continuous, but it must be followed by 'smiling' (V-ing), not 'smile' (base form).</li></ul><b>Related structure or vocabulary:</b> Present continuous question form: Why + am/is/are + subject + V-ing? Used to ask about actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d5",
+        "questionNumber": 16,
+        "questionText": "I am ______________ about him a lot these days.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "think",
+            "raw": "A. think",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "thinking",
+            "raw": "B. thinking",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "thought",
+            "raw": "C. thought",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "think of",
+            "raw": "D. think of",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I am ______________ about him a lot these days.' requires the present continuous tense to express an action that is happening around the present time. The verb 'am' is a form of 'to be', which is used with the present participle (V-ing) to form the present continuous tense. Therefore, the correct answer is 'thinking'.<br><ul><li><b>think</b> (verb (base form)): Base form of the verb. Cannot be used directly after 'am' without 'ing'.</li><li><b>thinking</b> (verb (present participle)): Present participle (V-ing) form, used with 'am' to form the present continuous tense.</li><li><b>thought</b> (verb (past tense/past participle)): Past tense and past participle form of 'think'. Not suitable after 'am'.</li><li><b>think of</b> (phrasal verb): Phrasal verb, but the structure 'am think of' is incorrect; it should be 'am thinking of'.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing is used to describe actions happening now or around the present time.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I am ______________ about him a lot these days.' cần sử dụng thì hiện tại tiếp diễn để diễn tả một hành động đang diễn ra xung quanh thời điểm hiện tại. Động từ 'am' là một dạng của 'to be', được dùng với động từ thêm 'ing' (V-ing) để tạo thành thì hiện tại tiếp diễn. Vì vậy, đáp án đúng là 'thinking'.<br><ul><li><b>think</b> (động từ (nguyên thể)): Dạng nguyên thể của động từ. Không thể dùng trực tiếp sau 'am' mà không có 'ing'.</li><li><b>thinking</b> (động từ (hiện tại phân từ)): Dạng hiện tại phân từ (V-ing), dùng với 'am' để tạo thì hiện tại tiếp diễn.</li><li><b>thought</b> (động từ (quá khứ/quá khứ phân từ)): Dạng quá khứ và quá khứ phân từ của 'think'. Không phù hợp sau 'am'.</li><li><b>think of</b> (cụm động từ): Cụm động từ, nhưng cấu trúc 'am think of' là sai; đúng phải là 'am thinking of'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: am/is/are + V-ing dùng để diễn tả hành động đang xảy ra ở hiện tại hoặc xung quanh thời điểm nói.<br><br><b>Tạm dịch:</b> Tôi đang nghĩ về anh ấy rất nhiều dạo này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I am ______________ about him a lot these days.' requires the present continuous tense to express an action that is happening around the present time. The verb 'am' is a form of 'to be', which is used with the present participle (V-ing) to form the present continuous tense. Therefore, the correct answer is 'thinking'.<br><ul><li><b>think</b> (verb (base form)): Base form of the verb. Cannot be used directly after 'am' without 'ing'.</li><li><b>thinking</b> (verb (present participle)): Present participle (V-ing) form, used with 'am' to form the present continuous tense.</li><li><b>thought</b> (verb (past tense/past participle)): Past tense and past participle form of 'think'. Not suitable after 'am'.</li><li><b>think of</b> (phrasal verb): Phrasal verb, but the structure 'am think of' is incorrect; it should be 'am thinking of'.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: am/is/are + V-ing is used to describe actions happening now or around the present time.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d6",
+        "questionNumber": 17,
+        "questionText": "We can't go out tonight because we ________ dinner at my uncle's house.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "have",
+            "raw": "A. have",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are have",
+            "raw": "B. are have",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "are having",
+            "raw": "C. are having",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "had",
+            "raw": "D. had",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that correctly fits the context of a planned future arrangement. In English, when we talk about fixed plans or arrangements in the near future, we often use the present continuous tense (am/is/are + V-ing). The sentence is about a plan to have dinner at the uncle's house tonight, so the present continuous is the most suitable.<br><ul><li><b>have</b> (verb (base form)): Base form of the verb. Used for simple present tense, which describes habits or general truths, not a specific plan.</li><li><b>are have</b> (auxiliary verb + base verb (incorrect form)): Incorrect structure. 'Are' should be followed by a verb in the -ing form to make the present continuous tense.</li><li><b>are having</b> (present continuous): Present continuous tense (am/is/are + V-ing), used for actions happening now or for planned future arrangements.</li><li><b>had</b> (verb (past tense)): Past tense of 'have', used for actions that happened in the past, not suitable for a future plan.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense for future arrangements: am/is/are + V-ing. Example: We are meeting our friends tomorrow.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một dạng động từ phù hợp với ngữ cảnh của một kế hoạch đã được sắp xếp trước trong tương lai. Trong tiếng Anh, khi nói về những kế hoạch đã định hoặc sắp xếp cố định trong tương lai gần, ta thường dùng thì hiện tại tiếp diễn (am/is/are + V-ing). Câu này nói về việc đã lên kế hoạch ăn tối ở nhà chú tối nay, nên thì hiện tại tiếp diễn là phù hợp nhất.<br><ul><li><b>have</b> (động từ nguyên thể): Động từ nguyên thể. Dùng cho thì hiện tại đơn, diễn tả thói quen hoặc sự thật chung, không phù hợp với một kế hoạch cụ thể.</li><li><b>are have</b> (trợ động từ + động từ nguyên thể (sai cấu trúc)): Cấu trúc sai. 'Are' phải đi với động từ dạng V-ing để tạo thành thì hiện tại tiếp diễn.</li><li><b>are having</b> (thì hiện tại tiếp diễn): Thì hiện tại tiếp diễn (am/is/are + V-ing), dùng để diễn tả hành động đang xảy ra hoặc kế hoạch đã định trong tương lai.</li><li><b>had</b> (động từ quá khứ): Quá khứ của 'have', dùng cho hành động đã xảy ra trong quá khứ, không phù hợp với kế hoạch tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn dùng cho kế hoạch tương lai: am/is/are + V-ing. Ví dụ: We are meeting our friends tomorrow.<br><br><b>Tạm dịch:</b> Chúng ta không thể ra ngoài tối nay vì chúng ta sẽ ăn tối ở nhà chú.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that correctly fits the context of a planned future arrangement. In English, when we talk about fixed plans or arrangements in the near future, we often use the present continuous tense (am/is/are + V-ing). The sentence is about a plan to have dinner at the uncle's house tonight, so the present continuous is the most suitable.<br><ul><li><b>have</b> (verb (base form)): Base form of the verb. Used for simple present tense, which describes habits or general truths, not a specific plan.</li><li><b>are have</b> (auxiliary verb + base verb (incorrect form)): Incorrect structure. 'Are' should be followed by a verb in the -ing form to make the present continuous tense.</li><li><b>are having</b> (present continuous): Present continuous tense (am/is/are + V-ing), used for actions happening now or for planned future arrangements.</li><li><b>had</b> (verb (past tense)): Past tense of 'have', used for actions that happened in the past, not suitable for a future plan.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense for future arrangements: am/is/are + V-ing. Example: We are meeting our friends tomorrow.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d7",
+        "questionNumber": 18,
+        "questionText": "A: Why aren't you doing the exercise? B: Because I ______________________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am not understanding",
+            "raw": "A. am not understanding",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "am not understand",
+            "raw": "B. am not understand",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "don't understanding",
+            "raw": "C. don't understanding",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "don't understand",
+            "raw": "D. don't understand",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that correctly completes the sentence 'Because I __________.' The verb 'understand' is a stative verb, which usually does not take the continuous form (am/is/are + V-ing) in English. Instead, we use the simple present tense with stative verbs to express a general state or fact. Therefore, the correct answer is 'don't understand.'<br><ul><li><b>am not understanding</b> (Present continuous (am/is/are + V-ing)): 'Understand' is a stative verb and is not usually used in the continuous form. 'Am not understanding' is incorrect.</li><li><b>am not understand</b> (Incorrect verb form): This is grammatically incorrect because after 'am not,' we need a verb in the V-ing form, not the base form.</li><li><b>don't understanding</b> (Incorrect verb form): After 'don't,' we need the base form of the verb, not the V-ing form. 'Don't understanding' is incorrect.</li><li><b>don't understand</b> (Present simple negative): 'Don't' is the negative form of 'do' in the present simple tense, and it is followed by the base form of the verb. 'Don't understand' is correct for expressing a general state.</li></ul><b>Related structure or vocabulary:</b> Stative verbs (such as 'understand', 'know', 'like', etc.) are not usually used in the continuous form. Present simple tense is used to express general states or facts.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một dạng động từ phù hợp để hoàn thành câu 'Because I __________.' Động từ 'understand' là động từ chỉ trạng thái (stative verb), thường không dùng ở thì tiếp diễn (am/is/are + V-ing) trong tiếng Anh. Thay vào đó, ta dùng thì hiện tại đơn với các động từ chỉ trạng thái để diễn tả một trạng thái hoặc sự thật chung. Vì vậy, đáp án đúng là 'don't understand.'<br><ul><li><b>am not understanding</b> (Thì hiện tại tiếp diễn (am/is/are + V-ing)): 'Understand' là động từ chỉ trạng thái, không dùng ở thì tiếp diễn. 'Am not understanding' là sai.</li><li><b>am not understand</b> (Sai dạng động từ): Cấu trúc này sai ngữ pháp vì sau 'am not' phải là động từ dạng V-ing, không phải dạng nguyên thể.</li><li><b>don't understanding</b> (Sai dạng động từ): Sau 'don't' phải là động từ nguyên thể, không phải V-ing. 'Don't understanding' là sai.</li><li><b>don't understand</b> (Thì hiện tại đơn phủ định): 'Don't' là dạng phủ định của thì hiện tại đơn, theo sau là động từ nguyên thể. 'Don't understand' đúng để diễn tả trạng thái chung.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ chỉ trạng thái (stative verbs) như 'understand', 'know', 'like'... thường không dùng ở thì tiếp diễn. Thì hiện tại đơn dùng để diễn tả trạng thái hoặc sự thật chung.<br><br><b>Tạm dịch:</b> A: Tại sao em không làm bài tập? B: Bởi vì em không hiểu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that correctly completes the sentence 'Because I __________.' The verb 'understand' is a stative verb, which usually does not take the continuous form (am/is/are + V-ing) in English. Instead, we use the simple present tense with stative verbs to express a general state or fact. Therefore, the correct answer is 'don't understand.'<br><ul><li><b>am not understanding</b> (Present continuous (am/is/are + V-ing)): 'Understand' is a stative verb and is not usually used in the continuous form. 'Am not understanding' is incorrect.</li><li><b>am not understand</b> (Incorrect verb form): This is grammatically incorrect because after 'am not,' we need a verb in the V-ing form, not the base form.</li><li><b>don't understanding</b> (Incorrect verb form): After 'don't,' we need the base form of the verb, not the V-ing form. 'Don't understanding' is incorrect.</li><li><b>don't understand</b> (Present simple negative): 'Don't' is the negative form of 'do' in the present simple tense, and it is followed by the base form of the verb. 'Don't understand' is correct for expressing a general state.</li></ul><b>Related structure or vocabulary:</b> Stative verbs (such as 'understand', 'know', 'like', etc.) are not usually used in the continuous form. Present simple tense is used to express general states or facts.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d8",
+        "questionNumber": 19,
+        "questionText": "They are in the kitchen. They are ______________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "having dinner",
+            "raw": "A. having dinner",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "have dinner",
+            "raw": "B. have dinner",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have dinner",
+            "raw": "C. will have dinner",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had dinner",
+            "raw": "D. had dinner",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb phrase that describes what 'they' are doing in the kitchen at the present moment. The sentence uses the present continuous tense ('are + V-ing') to indicate an action happening right now.<br><ul><li><b>having dinner</b> (verb phrase (present continuous)): Present participle (V-ing) form, used with 'are' to form the present continuous tense, meaning 'they are eating dinner now.'</li><li><b>have dinner</b> (verb phrase (base form)): Base form of the verb, used for simple present tense or with modal verbs, not correct after 'are'.</li><li><b>will have dinner</b> (verb phrase (future tense)): Future tense, used to talk about actions that will happen in the future, not suitable for describing an action happening now.</li><li><b>had dinner</b> (verb phrase (past tense)): Past tense, used to describe an action that happened in the past, not suitable for the present continuous structure.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: 'be' (am/is/are) + V-ing is used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm động từ diễn tả hành động mà 'họ' đang làm trong bếp ở thời điểm hiện tại. Câu này sử dụng thì hiện tại tiếp diễn ('are + V-ing') để chỉ một hành động đang xảy ra ngay lúc nói.<br><ul><li><b>having dinner</b> (cụm động từ (thì hiện tại tiếp diễn)): Dạng hiện tại phân từ (V-ing), dùng với 'are' để tạo thì hiện tại tiếp diễn, nghĩa là 'họ đang ăn tối'.</li><li><b>have dinner</b> (cụm động từ (nguyên thể)): Dạng nguyên thể của động từ, dùng cho thì hiện tại đơn hoặc với động từ khuyết thiếu, không đúng sau 'are'.</li><li><b>will have dinner</b> (cụm động từ (thì tương lai)): Thì tương lai, dùng để nói về hành động sẽ xảy ra trong tương lai, không phù hợp để diễn tả hành động đang xảy ra.</li><li><b>had dinner</b> (cụm động từ (thì quá khứ)): Thì quá khứ, dùng để diễn tả hành động đã xảy ra, không phù hợp với cấu trúc hiện tại tiếp diễn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: 'be' (am/is/are) + V-ing dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> Họ đang ở trong bếp. Họ đang ăn tối.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb phrase that describes what 'they' are doing in the kitchen at the present moment. The sentence uses the present continuous tense ('are + V-ing') to indicate an action happening right now.<br><ul><li><b>having dinner</b> (verb phrase (present continuous)): Present participle (V-ing) form, used with 'are' to form the present continuous tense, meaning 'they are eating dinner now.'</li><li><b>have dinner</b> (verb phrase (base form)): Base form of the verb, used for simple present tense or with modal verbs, not correct after 'are'.</li><li><b>will have dinner</b> (verb phrase (future tense)): Future tense, used to talk about actions that will happen in the future, not suitable for describing an action happening now.</li><li><b>had dinner</b> (verb phrase (past tense)): Past tense, used to describe an action that happened in the past, not suitable for the present continuous structure.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: 'be' (am/is/are) + V-ing is used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204cd70d1bfab7a5b0019d9",
+        "questionNumber": 20,
+        "questionText": "Don't disturb him. He ________________ English.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "studied",
+            "raw": "A. studied",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is studying",
+            "raw": "B. is studying",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "studies",
+            "raw": "C. studies",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was studying",
+            "raw": "D. was studying",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Don't disturb him. He ________________ English.' requires a verb tense that shows an action happening right now. The phrase 'Don't disturb him' suggests that the action is in progress at this moment. Therefore, the present continuous tense (is/am/are + V-ing) is needed to indicate an ongoing action.<br><ul><li><b>studied</b> (verb (past simple)): Past simple tense, used for actions that happened and finished in the past.</li><li><b>is studying</b> (verb (present continuous)): Present continuous tense, used for actions happening at the moment of speaking.</li><li><b>studies</b> (verb (present simple)): Present simple tense, used for habitual or regular actions.</li><li><b>was studying</b> (verb (past continuous)): Past continuous tense, used for actions that were happening at a specific time in the past.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: is/am/are + V-ing, used to describe actions happening now.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Don't disturb him. He ________________ English.' cần một thì động từ diễn tả hành động đang xảy ra ngay lúc nói. Cụm 'Don't disturb him' (Đừng làm phiền anh ấy) cho thấy hành động đang diễn ra ở hiện tại. Vì vậy, ta cần dùng thì hiện tại tiếp diễn (is/am/are + V-ing) để chỉ hành động đang xảy ra.<br><ul><li><b>studied</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dùng cho hành động đã xảy ra và kết thúc trong quá khứ.</li><li><b>is studying</b> (động từ (hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra tại thời điểm nói.</li><li><b>studies</b> (động từ (hiện tại đơn)): Thì hiện tại đơn, dùng cho hành động lặp đi lặp lại hoặc thói quen.</li><li><b>was studying</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng cho hành động đang xảy ra tại một thời điểm xác định trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: is/am/are + V-ing, dùng để diễn tả hành động đang xảy ra.<br><br><b>Tạm dịch:</b> Đừng làm phiền anh ấy. Anh ấy đang học tiếng Anh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Don't disturb him. He ________________ English.' requires a verb tense that shows an action happening right now. The phrase 'Don't disturb him' suggests that the action is in progress at this moment. Therefore, the present continuous tense (is/am/are + V-ing) is needed to indicate an ongoing action.<br><ul><li><b>studied</b> (verb (past simple)): Past simple tense, used for actions that happened and finished in the past.</li><li><b>is studying</b> (verb (present continuous)): Present continuous tense, used for actions happening at the moment of speaking.</li><li><b>studies</b> (verb (present simple)): Present simple tense, used for habitual or regular actions.</li><li><b>was studying</b> (verb (past continuous)): Past continuous tense, used for actions that were happening at a specific time in the past.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: is/am/are + V-ing, used to describe actions happening now.<br><br>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "topicId": "6225aa6883f28145bcbc2eff",
+  "title": "PHRASES & CLAUSES - Practice 3",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc30fd",
+        "questionNumber": 1,
+        "questionText": "State whether the underlined part is a phrase or a clause. In spite of the heavy rains, we reached on time.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part, <strong>&quot;In spite of the heavy rains&quot;</strong>, is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, while a clause contains both a subject and a verb. In this case, &quot;In spite of the heavy rains&quot; does not have a verb or a subject; it only provides additional information about the circumstances under which the main action happened.</p>\n\n<h2>Structures and Vocabulary Expansion</h2>\n\n<ul>\n\t<li><strong>In spite of + noun/noun phrase</strong>: This structure is used to show contrast, meaning &#39;although&#39; or &#39;despite&#39;.</li>\n\t<li><strong>Heavy rains</strong>: This is a noun phrase, where &#39;heavy&#39; is an adjective describing the noun &#39;rains&#39;.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n, <strong>&quot;In spite of the heavy rains&quot;</strong>, l&agrave; một <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; một mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa chủ ngữ v&agrave; động từ, trong khi mệnh đề th&igrave; c&oacute; cả hai th&agrave;nh phần n&agrave;y. Trong trường hợp n&agrave;y, &quot;In spite of the heavy rains&quot; kh&ocirc;ng c&oacute; động từ hay chủ ngữ; n&oacute; chỉ cung cấp th&ecirc;m th&ocirc;ng tin về ho&agrave;n cảnh xảy ra h&agrave;nh động ch&iacute;nh.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>In spite of + danh từ/cụm danh từ</strong>: Cấu tr&uacute;c n&agrave;y d&ugrave;ng để diễn tả sự tương phản, nghĩa l&agrave; &#39;mặc d&ugrave;&#39; hoặc &#39;bất chấp&#39;.<br />\n\tV&iacute; dụ:<br />\n\t- <em>In spite of his illness, he went to work.</em> (Mặc d&ugrave; bị ốm, anh ấy vẫn đi l&agrave;m.)<br />\n\t- <em>In spite of the bad weather, the event continued.</em> (Mặc d&ugrave; thời tiết xấu, sự kiện vẫn tiếp tục.)</li>\n\t<li><strong>Heavy rains</strong>: L&agrave; một cụm danh từ, trong đ&oacute; &#39;heavy&#39; l&agrave; t&iacute;nh từ bổ nghĩa cho danh từ &#39;rains&#39;.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Mặc d&ugrave; mưa lớn, ch&uacute;ng t&ocirc;i vẫn đến đ&uacute;ng giờ.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part, <strong>&quot;In spite of the heavy rains&quot;</strong>, is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, while a clause contains both a subject and a verb. In this case, &quot;In spite of the heavy rains&quot; does not have a verb or a subject; it only provides additional information about the circumstances under which the main action happened.</p>\n\n<h2>Structures and Vocabulary Expansion</h2>\n\n<ul>\n\t<li><strong>In spite of + noun/noun phrase</strong>: This structure is used to show contrast, meaning &#39;although&#39; or &#39;despite&#39;.</li>\n\t<li><strong>Heavy rains</strong>: This is a noun phrase, where &#39;heavy&#39; is an adjective describing the noun &#39;rains&#39;.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc30fe",
+        "questionNumber": 2,
+        "questionText": "State whether the underlined part is a phrase or a clause. She passed her test because of her teacher.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;because of her teacher&quot; is a <strong>phrase</strong>, not a clause. A clause must contain a subject and a verb, but this part only contains a preposition (because of) and a noun (her teacher). It does not have its own subject or verb, so it cannot stand alone as a complete idea.</p>\n\n<h2>Structure and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Because of + noun/pronoun</strong>: This is a prepositional phrase used to show the reason for something. It is different from &quot;because&quot; (which is a conjunction and introduces a clause).</li>\n\t<li><strong>Passed her test</strong>: &quot;Pass&quot; is a verb meaning to succeed in an exam or test.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;because of her teacher&quot; l&agrave; <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; mệnh đề (clause). Một mệnh đề phải c&oacute; chủ ngữ v&agrave; động từ, nhưng phần n&agrave;y chỉ c&oacute; giới từ (because of) v&agrave; danh từ (her teacher). N&oacute; kh&ocirc;ng c&oacute; chủ ngữ hoặc động từ ri&ecirc;ng, n&ecirc;n kh&ocirc;ng thể đứng độc lập như một &yacute; ho&agrave;n chỉnh.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Because of + danh từ/đại từ</strong>: Đ&acirc;y l&agrave; một cụm giới từ d&ugrave;ng để chỉ l&yacute; do cho một việc g&igrave; đ&oacute;. Kh&aacute;c với &quot;because&quot; (li&ecirc;n từ, dẫn đầu một mệnh đề).</li>\n\t<li><strong>Passed her test</strong>: &quot;Pass&quot; l&agrave; động từ c&oacute; nghĩa l&agrave; vượt qua, thi đỗ một kỳ thi hoặc b&agrave;i kiểm tra.</li>\n</ul>\n\n<h2>V&iacute; dụ minh họa song ngữ</h2>\n\n<ul>\n\t<li>She stayed home <strong>because of</strong> the rain.<br />\n\tC&ocirc; ấy ở nh&agrave; <strong>v&igrave;</strong> trời mưa.</li>\n\t<li>He was late <strong>because of</strong> traffic.<br />\n\tAnh ấy đến muộn <strong>v&igrave;</strong> tắc đường.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>C&ocirc; ấy đ&atilde; vượt qua b&agrave;i kiểm tra nhờ v&agrave;o gi&aacute;o vi&ecirc;n của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;because of her teacher&quot; is a <strong>phrase</strong>, not a clause. A clause must contain a subject and a verb, but this part only contains a preposition (because of) and a noun (her teacher). It does not have its own subject or verb, so it cannot stand alone as a complete idea.</p>\n\n<h2>Structure and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Because of + noun/pronoun</strong>: This is a prepositional phrase used to show the reason for something. It is different from &quot;because&quot; (which is a conjunction and introduces a clause).</li>\n\t<li><strong>Passed her test</strong>: &quot;Pass&quot; is a verb meaning to succeed in an exam or test.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc30ff",
+        "questionNumber": 3,
+        "questionText": "State whether the underlined part is a phrase or a clause. She failed her exams because she had a bad teacher.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<h2>Detailed Explanation:</h2>\n\n<p>The underlined part &quot;she had a bad teacher&quot; is a <strong>clause</strong>. A clause is a group of words that contains both a subject and a verb. In this case, &quot;she&quot; is the subject and &quot;had&quot; is the verb. Therefore, it is not just a phrase (which lacks either a subject or a verb), but a complete clause.</p>\n\n<h2>Structures and Extended Vocabulary:</h2>\n\n<ul>\n\t<li><strong>Because-clause:</strong> The sentence uses a <em>because-clause</em> to show cause and effect. &quot;Because&quot; introduces a subordinate clause that explains the reason for the main clause.</li>\n\t<li><strong>Vocabulary:</strong>\n\t<ul>\n\t\t<li>fail (v): to not succeed in something</li>\n\t\t<li>exam (n): a test of knowledge</li>\n\t\t<li>teacher (n): a person who teaches</li>\n\t</ul>\n\t</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết:</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;she had a bad teacher&quot; l&agrave; một <strong>mệnh đề</strong>. Mệnh đề l&agrave; một nh&oacute;m từ c&oacute; đầy đủ chủ ngữ v&agrave; động từ. Trong trường hợp n&agrave;y, &quot;she&quot; l&agrave; chủ ngữ v&agrave; &quot;had&quot; l&agrave; động từ. Do đ&oacute;, đ&acirc;y kh&ocirc;ng chỉ l&agrave; một cụm từ (cụm từ th&igrave; thiếu chủ ngữ hoặc động từ), m&agrave; l&agrave; một mệnh đề ho&agrave;n chỉnh.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng:</h2>\n\n<ul>\n\t<li><strong>Mệnh đề because:</strong> C&acirc;u n&agrave;y sử dụng mệnh đề &quot;because&quot; để chỉ nguy&ecirc;n nh&acirc;n &ndash; kết quả. &quot;Because&quot; dẫn đầu một mệnh đề phụ giải th&iacute;ch l&yacute; do cho mệnh đề ch&iacute;nh.</li>\n\t<li><strong>Từ vựng:</strong>\n\t<ul>\n\t\t<li>fail (v): trượt, kh&ocirc;ng th&agrave;nh c&ocirc;ng</li>\n\t\t<li>exam (n): kỳ thi</li>\n\t\t<li>teacher (n): gi&aacute;o vi&ecirc;n</li>\n\t</ul>\n\t</li>\n</ul>\n\n<h2>V&iacute; dụ minh họa song ngữ:</h2>\n\n<ul>\n\t<li><strong>Because-clause:</strong><br />\n\tEnglish: She stayed at home because she was sick.<br />\n\tTiếng Việt: C&ocirc; ấy ở nh&agrave; v&igrave; c&ocirc; ấy bị ốm.</li>\n\t<li><strong>fail:</strong><br />\n\tEnglish: He failed the driving test.<br />\n\tTiếng Việt: Anh ấy trượt kỳ thi l&aacute;i xe.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt:</h2>\n\n<p>C&ocirc; ấy đ&atilde; trượt c&aacute;c kỳ thi v&igrave; c&ocirc; ấy c&oacute; một gi&aacute;o vi&ecirc;n kh&ocirc;ng tốt.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation:</h2>\n\n<p>The underlined part &quot;she had a bad teacher&quot; is a <strong>clause</strong>. A clause is a group of words that contains both a subject and a verb. In this case, &quot;she&quot; is the subject and &quot;had&quot; is the verb. Therefore, it is not just a phrase (which lacks either a subject or a verb), but a complete clause.</p>\n\n<h2>Structures and Extended Vocabulary:</h2>\n\n<ul>\n\t<li><strong>Because-clause:</strong> The sentence uses a <em>because-clause</em> to show cause and effect. &quot;Because&quot; introduces a subordinate clause that explains the reason for the main clause.</li>\n\t<li><strong>Vocabulary:</strong>\n\t<ul>\n\t\t<li>fail (v): to not succeed in something</li>\n\t\t<li>exam (n): a test of knowledge</li>\n\t\t<li>teacher (n): a person who teaches</li>\n\t</ul>\n\t</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3100",
+        "questionNumber": 4,
+        "questionText": "State whether the underlined part is a phrase or a clause. Though she performed well in the interview, she didn&rsquo;t get the job.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part, <strong>Though she performed well in the interview</strong>, is a <strong>clause</strong>. This is because it contains both a subject (<em>she</em>) and a verb (<em>performed</em>), and it expresses a complete idea, although it cannot stand alone as a sentence. It is a dependent (subordinate) clause, introduced by the subordinating conjunction <em>though</em>.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Though + subject + verb</strong>: This is a common structure used to introduce a contrast or concession. For example: <em>Though it was raining, we went outside.</em></li>\n\t<li><strong>Performed well</strong>: This phrase means to do something successfully or to a high standard. For example: <em>She performed well in her exams.</em></li>\n\t<li><strong>In the interview</strong>: This prepositional phrase indicates where the action took place.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n, <strong>D&ugrave; c&ocirc; ấy thể hiện tốt trong buổi phỏng vấn</strong>, l&agrave; một <strong>mệnh đề</strong>. Bởi v&igrave; n&oacute; bao gồm cả chủ ngữ (<em>c&ocirc; ấy</em>) v&agrave; động từ (<em>thể hiện</em>), v&agrave; diễn đạt một &yacute; ho&agrave;n chỉnh, mặc d&ugrave; kh&ocirc;ng thể đứng một m&igrave;nh như một c&acirc;u độc lập. Đ&acirc;y l&agrave; một mệnh đề phụ thuộc, được giới thiệu bởi li&ecirc;n từ phụ thuộc <em>d&ugrave;</em>.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>D&ugrave; + chủ ngữ + động từ</strong>: Đ&acirc;y l&agrave; cấu tr&uacute;c phổ biến d&ugrave;ng để diễn đạt sự tương phản hoặc nhượng bộ. V&iacute; dụ:<br />\n\t- <em>Though it was late, he kept working.</em> &ndash; <em>D&ugrave; đ&atilde; muộn, anh ấy vẫn tiếp tục l&agrave;m việc.</em><br />\n\t- <em>Though she was tired, she finished her homework.</em> &ndash; <em>D&ugrave; c&ocirc; ấy mệt, c&ocirc; ấy vẫn ho&agrave;n th&agrave;nh b&agrave;i tập về nh&agrave;.</em></li>\n\t<li><strong>Performed well</strong>: Cụm từ n&agrave;y c&oacute; nghĩa l&agrave; l&agrave;m điều g&igrave; đ&oacute; th&agrave;nh c&ocirc;ng hoặc đạt ti&ecirc;u chuẩn cao. V&iacute; dụ:<br />\n\t- <em>He performed well in the competition.</em> &ndash; <em>Anh ấy thể hiện tốt trong cuộc thi.</em></li>\n\t<li><strong>In the interview</strong>: Cụm giới từ n&agrave;y chỉ nơi h&agrave;nh động diễn ra.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Mặc d&ugrave; c&ocirc; ấy đ&atilde; thể hiện tốt trong buổi phỏng vấn, c&ocirc; ấy vẫn kh&ocirc;ng nhận được c&ocirc;ng việc.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part, <strong>Though she performed well in the interview</strong>, is a <strong>clause</strong>. This is because it contains both a subject (<em>she</em>) and a verb (<em>performed</em>), and it expresses a complete idea, although it cannot stand alone as a sentence. It is a dependent (subordinate) clause, introduced by the subordinating conjunction <em>though</em>.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Though + subject + verb</strong>: This is a common structure used to introduce a contrast or concession. For example: <em>Though it was raining, we went outside.</em></li>\n\t<li><strong>Performed well</strong>: This phrase means to do something successfully or to a high standard. For example: <em>She performed well in her exams.</em></li>\n\t<li><strong>In the interview</strong>: This prepositional phrase indicates where the action took place.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3101",
+        "questionNumber": 5,
+        "questionText": "State whether the underlined part is a phrase or a clause. In spite of his good grades, he couldn&rsquo;t secure admission in a good college.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;In spite of his good grades,&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a finite verb, whereas a clause contains both a subject and a verb. In this case, &quot;In spite of his good grades&quot; does not have a verb; it only has a preposition (in spite of) and a noun phrase (his good grades). Therefore, it is a prepositional phrase.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>In spite of + noun/noun phrase</strong>: This structure is used to show contrast, meaning &#39;although&#39; or &#39;despite&#39;.</li>\n\t<li><strong>Secure admission</strong>: This means to successfully get a place or be accepted, especially in an educational institution.</li>\n\t<li><strong>Good grades</strong>: Refers to high marks or scores in academic assessments.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;In spite of his good grades,&quot; l&agrave; một <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; một mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa cả chủ ngữ v&agrave; động từ chia th&igrave;, trong khi mệnh đề th&igrave; c&oacute; cả hai yếu tố n&agrave;y. Ở đ&acirc;y, &quot;In spite of his good grades&quot; kh&ocirc;ng c&oacute; động từ; n&oacute; chỉ gồm giới từ (in spite of) v&agrave; một cụm danh từ (his good grades). V&igrave; vậy, đ&acirc;y l&agrave; một cụm giới từ.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>In spite of + danh từ/cụm danh từ</strong>: Cấu tr&uacute;c n&agrave;y d&ugrave;ng để diễn tả sự tương phản, nghĩa l&agrave; &#39;mặc d&ugrave;&#39; hoặc &#39;bất chấp&#39;.<br />\n\tV&iacute; dụ:<br />\n\t- <em>In spite of the rain, they went for a walk.</em> (Mặc d&ugrave; trời mưa, họ vẫn đi dạo.)<br />\n\t- <em>In spite of her efforts, she failed the exam.</em> (Mặc d&ugrave; đ&atilde; cố gắng, c&ocirc; ấy vẫn trượt kỳ thi.)</li>\n\t<li><strong>Secure admission</strong>: C&oacute; nghĩa l&agrave; được nhận v&agrave;o, đặc biệt l&agrave; v&agrave;o một trường học hoặc tổ chức gi&aacute;o dục.<br />\n\tV&iacute; dụ:<br />\n\t- <em>He worked hard to secure admission to the university.</em> (Anh ấy đ&atilde; nỗ lực để được nhận v&agrave;o trường đại học.)</li>\n\t<li><strong>Good grades</strong>: Chỉ điểm số cao trong học tập.<br />\n\tV&iacute; dụ:<br />\n\t- <em>She always gets good grades in math.</em> (C&ocirc; ấy lu&ocirc;n đạt điểm cao m&ocirc;n to&aacute;n.)</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Mặc d&ugrave; c&oacute; điểm số cao, anh ấy vẫn kh&ocirc;ng thể tr&uacute;ng tuyển v&agrave;o một trường đại học tốt.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;In spite of his good grades,&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a finite verb, whereas a clause contains both a subject and a verb. In this case, &quot;In spite of his good grades&quot; does not have a verb; it only has a preposition (in spite of) and a noun phrase (his good grades). Therefore, it is a prepositional phrase.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>In spite of + noun/noun phrase</strong>: This structure is used to show contrast, meaning &#39;although&#39; or &#39;despite&#39;.</li>\n\t<li><strong>Secure admission</strong>: This means to successfully get a place or be accepted, especially in an educational institution.</li>\n\t<li><strong>Good grades</strong>: Refers to high marks or scores in academic assessments.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3102",
+        "questionNumber": 6,
+        "questionText": "State whether the underlined part is a phrase or a clause. Driven by the storm, we took shelter under a bridge.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;Driven by the storm&quot; is a <strong>phrase</strong>, not a clause. A clause must contain a subject and a verb, but this part does not have its own subject or a finite verb. Instead, it is a participial phrase that provides additional information about the subject &quot;we&quot; in the main clause.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Participial Phrase:</strong> A phrase that begins with a present or past participle and acts as an adjective to modify a noun. In this case, &quot;Driven by the storm&quot; modifies &quot;we.&quot;</li>\n\t<li><strong>Take shelter:</strong> An expression meaning to find a safe place, especially from danger or bad weather.</li>\n\t<li><strong>Under a bridge:</strong> A prepositional phrase indicating location.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;Driven by the storm&quot; l&agrave; một <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; một mệnh đề (clause). Một mệnh đề phải c&oacute; chủ ngữ v&agrave; động từ, nhưng phần n&agrave;y kh&ocirc;ng c&oacute; chủ ngữ ri&ecirc;ng hoặc động từ chia th&igrave;. Thay v&agrave;o đ&oacute;, đ&acirc;y l&agrave; một cụm ph&acirc;n từ (participial phrase) bổ sung th&ocirc;ng tin cho chủ ngữ &quot;ch&uacute;ng t&ocirc;i&quot; trong mệnh đề ch&iacute;nh.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Cụm ph&acirc;n từ (Participial Phrase):</strong> L&agrave; cụm từ bắt đầu bằng ph&acirc;n từ hiện tại hoặc qu&aacute; khứ, đ&oacute;ng vai tr&ograve; như t&iacute;nh từ để bổ nghĩa cho danh từ. Trong c&acirc;u n&agrave;y, &quot;Driven by the storm&quot; bổ nghĩa cho &quot;we&quot;.</li>\n\t<li><strong>Take shelter:</strong> Cụm từ chỉ h&agrave;nh động t&igrave;m nơi tr&uacute; ẩn, đặc biệt khi gặp nguy hiểm hoặc thời tiết xấu.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- We took shelter from the rain. (Ch&uacute;ng t&ocirc;i tr&uacute; mưa.)</li>\n\t<li><strong>Under a bridge:</strong> Cụm giới từ chỉ vị tr&iacute;.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- The cat is hiding under the bridge. (Con m&egrave;o đang trốn dưới gầm cầu.)</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Bị cơn b&atilde;o cuốn, ch&uacute;ng t&ocirc;i đ&atilde; t&igrave;m chỗ tr&uacute; dưới một c&acirc;y cầu.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;Driven by the storm&quot; is a <strong>phrase</strong>, not a clause. A clause must contain a subject and a verb, but this part does not have its own subject or a finite verb. Instead, it is a participial phrase that provides additional information about the subject &quot;we&quot; in the main clause.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Participial Phrase:</strong> A phrase that begins with a present or past participle and acts as an adjective to modify a noun. In this case, &quot;Driven by the storm&quot; modifies &quot;we.&quot;</li>\n\t<li><strong>Take shelter:</strong> An expression meaning to find a safe place, especially from danger or bad weather.</li>\n\t<li><strong>Under a bridge:</strong> A prepositional phrase indicating location.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3103",
+        "questionNumber": 7,
+        "questionText": "State whether the underlined part is a phrase or a clause. Having delivered the message, he departed.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;Having delivered the message&quot; is a <strong>phrase</strong>, not a clause. This is because it does not contain a subject and a finite verb. Instead, it is a participial phrase, which is used to provide additional information about the subject of the main clause (in this case, &quot;he&quot;). A clause must have both a subject and a verb, but this phrase only has a participle (&quot;Having delivered&quot;) and its object (&quot;the message&quot;).</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Participial Phrase:</strong> A group of words beginning with a participle and including any modifiers or objects. It acts as an adjective to modify a noun or pronoun.<br />\n\tExample: <em>Having finished his homework, Tom went out to play.</em></li>\n\t<li><strong>Deliver (v):</strong> To take something to a person or place.<br />\n\tExample: <em>The courier delivered the package on time.</em></li>\n\t<li><strong>Depart (v):</strong> To leave, especially to start a journey.<br />\n\tExample: <em>The train departs at 6 p.m.</em></li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;Having delivered the message&quot; l&agrave; một <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; một mệnh đề (clause). L&yacute; do l&agrave; v&igrave; n&oacute; kh&ocirc;ng chứa chủ ngữ v&agrave; động từ chia th&igrave;. Đ&acirc;y l&agrave; một cụm ph&acirc;n từ, d&ugrave;ng để bổ sung th&ocirc;ng tin cho chủ ngữ của mệnh đề ch&iacute;nh (ở đ&acirc;y l&agrave; &quot;he&quot;). Một mệnh đề phải c&oacute; cả chủ ngữ v&agrave; động từ, trong khi cụm từ n&agrave;y chỉ c&oacute; ph&acirc;n từ (&quot;Having delivered&quot;) v&agrave; t&acirc;n ngữ (&quot;the message&quot;).</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Cụm ph&acirc;n từ (Participial Phrase):</strong> Một nh&oacute;m từ bắt đầu bằng ph&acirc;n từ v&agrave; c&oacute; thể bao gồm c&aacute;c từ bổ nghĩa hoặc t&acirc;n ngữ. N&oacute; đ&oacute;ng vai tr&ograve; như một t&iacute;nh từ để bổ nghĩa cho danh từ hoặc đại từ.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- <em>Having finished his homework, Tom went out to play.</em><br />\n\t- <em>Sau khi l&agrave;m xong b&agrave;i tập về nh&agrave;, Tom ra ngo&agrave;i chơi.</em></li>\n\t<li><strong>Deliver (v):</strong> Giao, chuyển, chuyển ph&aacute;t.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- <em>The courier delivered the package on time.</em><br />\n\t- <em>Người chuyển ph&aacute;t đ&atilde; giao g&oacute;i h&agrave;ng đ&uacute;ng giờ.</em></li>\n\t<li><strong>Depart (v):</strong> Rời đi, khởi h&agrave;nh.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- <em>The train departs at 6 p.m.</em><br />\n\t- <em>Chuyến t&agrave;u khởi h&agrave;nh l&uacute;c 6 giờ tối.</em></li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Sau khi chuyển xong tin nhắn, anh ấy đ&atilde; rời đi.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;Having delivered the message&quot; is a <strong>phrase</strong>, not a clause. This is because it does not contain a subject and a finite verb. Instead, it is a participial phrase, which is used to provide additional information about the subject of the main clause (in this case, &quot;he&quot;). A clause must have both a subject and a verb, but this phrase only has a participle (&quot;Having delivered&quot;) and its object (&quot;the message&quot;).</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Participial Phrase:</strong> A group of words beginning with a participle and including any modifiers or objects. It acts as an adjective to modify a noun or pronoun.<br />\n\tExample: <em>Having finished his homework, Tom went out to play.</em></li>\n\t<li><strong>Deliver (v):</strong> To take something to a person or place.<br />\n\tExample: <em>The courier delivered the package on time.</em></li>\n\t<li><strong>Depart (v):</strong> To leave, especially to start a journey.<br />\n\tExample: <em>The train departs at 6 p.m.</em></li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3104",
+        "questionNumber": 8,
+        "questionText": "State whether the underlined part is a phrase or a clause. Not knowing what to do, she stood there motionless.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;Not knowing what to do&quot; is a <strong>phrase</strong>, not a clause. This is because it does not contain a subject and a finite verb. Instead, it is a participial phrase, which begins with the present participle &quot;knowing&quot; and provides additional information about the subject of the main clause (&quot;she&quot;).</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Participial Phrase:</strong> A group of words starting with a participle (e.g., &quot;Not knowing&quot;) and functioning as an adjective to modify a noun or pronoun. Example: &quot;Feeling tired, he went to bed early.&quot;</li>\n\t<li><strong>Clause:</strong> A group of words with a subject and a verb. Example: &quot;Because she was tired, she went to bed early.&quot;</li>\n\t<li><strong>Motionless:</strong> An adjective meaning &quot;without movement; still.&quot;</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;Not knowing what to do&quot; l&agrave; một <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; một mệnh đề (clause). L&yacute; do l&agrave; v&igrave; n&oacute; kh&ocirc;ng c&oacute; chủ ngữ v&agrave; động từ chia th&igrave;. Đ&acirc;y l&agrave; một cụm ph&acirc;n từ, bắt đầu bằng ph&acirc;n từ hiện tại &quot;knowing&quot; v&agrave; bổ sung th&ocirc;ng tin cho chủ ngữ của mệnh đề ch&iacute;nh (&quot;she&quot;).</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Cụm ph&acirc;n từ (Participial Phrase):</strong> Một nh&oacute;m từ bắt đầu bằng ph&acirc;n từ (v&iacute; dụ: &quot;Not knowing&quot;) v&agrave; đ&oacute;ng vai tr&ograve; như t&iacute;nh từ để bổ nghĩa cho danh từ hoặc đại từ.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- <em>Feeling hungry, he made a sandwich.</em> (Cảm thấy đ&oacute;i, anh ấy l&agrave;m một chiếc b&aacute;nh m&igrave; kẹp.)<br />\n\t- <em>Not understanding the question, she asked for help.</em> (Kh&ocirc;ng hiểu c&acirc;u hỏi, c&ocirc; ấy đ&atilde; nhờ gi&uacute;p đỡ.)</li>\n\t<li><strong>Mệnh đề (Clause):</strong> Một nh&oacute;m từ c&oacute; chủ ngữ v&agrave; động từ.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- <em>Because he was late, he missed the bus.</em> (V&igrave; anh ấy đến muộn, anh ấy đ&atilde; lỡ chuyến xe bu&yacute;t.)</li>\n\t<li><strong>Motionless:</strong> T&iacute;nh từ, nghĩa l&agrave; &quot;bất động, kh&ocirc;ng di chuyển&quot;.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>V&igrave; kh&ocirc;ng biết phải l&agrave;m g&igrave;, c&ocirc; ấy đứng đ&oacute; bất động.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;Not knowing what to do&quot; is a <strong>phrase</strong>, not a clause. This is because it does not contain a subject and a finite verb. Instead, it is a participial phrase, which begins with the present participle &quot;knowing&quot; and provides additional information about the subject of the main clause (&quot;she&quot;).</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Participial Phrase:</strong> A group of words starting with a participle (e.g., &quot;Not knowing&quot;) and functioning as an adjective to modify a noun or pronoun. Example: &quot;Feeling tired, he went to bed early.&quot;</li>\n\t<li><strong>Clause:</strong> A group of words with a subject and a verb. Example: &quot;Because she was tired, she went to bed early.&quot;</li>\n\t<li><strong>Motionless:</strong> An adjective meaning &quot;without movement; still.&quot;</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3105",
+        "questionNumber": 9,
+        "questionText": "State whether the underlined part is a phrase or a clause. Now that he is married, he has become more responsible.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<h2>Detailed Explanation:</h2>\n\n<p>The underlined part &quot;Now that he is married&quot; is a <strong>clause</strong>, not a phrase. This is because it contains both a subject (&quot;he&quot;) and a verb (&quot;is married&quot;). A clause is a group of words that contains a subject and a predicate (verb), whereas a phrase does not have both a subject and a verb.</p>\n\n<h2>Structures and Extended Vocabulary:</h2>\n\n<ul>\n\t<li><strong>Now that + clause</strong>: This structure is used to show that something has changed and, as a result, something else happens. It introduces a reason or a new situation.<br />\n\tExample: <em>Now that the rain has stopped, we can go outside.</em></li>\n\t<li><strong>Responsible</strong>: An adjective meaning having an obligation to do something, or having control over or care for someone, as part of one&#39;s job or role.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết:</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;Now that he is married&quot; l&agrave; một <strong>mệnh đề</strong> (clause), kh&ocirc;ng phải l&agrave; cụm từ (phrase). L&yacute; do l&agrave; v&igrave; n&oacute; chứa cả chủ ngữ (&quot;he&quot;) v&agrave; động từ (&quot;is married&quot;). Mệnh đề l&agrave; một nh&oacute;m từ c&oacute; đầy đủ chủ ngữ v&agrave; vị ngữ (động từ), trong khi cụm từ th&igrave; kh&ocirc;ng c&oacute; đủ cả hai th&agrave;nh phần n&agrave;y.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng:</h2>\n\n<ul>\n\t<li><strong>Now that + mệnh đề</strong>: Cấu tr&uacute;c n&agrave;y d&ugrave;ng để chỉ một sự thay đổi v&agrave; kết quả k&eacute;o theo sau đ&oacute;, thường d&ugrave;ng để n&ecirc;u l&yacute; do hoặc t&igrave;nh huống mới.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- Now that the rain has stopped, we can go outside.<br />\n\t- B&acirc;y giờ trời đ&atilde; tạnh mưa, ch&uacute;ng ta c&oacute; thể ra ngo&agrave;i.</li>\n\t<li><strong>Responsible</strong>: T&iacute;nh từ, nghĩa l&agrave; c&oacute; tr&aacute;ch nhiệm, c&oacute; nghĩa vụ l&agrave;m g&igrave; đ&oacute; hoặc kiểm so&aacute;t, chăm s&oacute;c ai đ&oacute; như một phần của c&ocirc;ng việc hoặc vai tr&ograve;.<br />\n\tV&iacute; dụ song ngữ:<br />\n\t- She is responsible for organizing the event.<br />\n\t- C&ocirc; ấy chịu tr&aacute;ch nhiệm tổ chức sự kiện.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt:</h2>\n\n<p>B&acirc;y giờ anh ấy đ&atilde; kết h&ocirc;n, anh ấy đ&atilde; trở n&ecirc;n c&oacute; tr&aacute;ch nhiệm hơn.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation:</h2>\n\n<p>The underlined part &quot;Now that he is married&quot; is a <strong>clause</strong>, not a phrase. This is because it contains both a subject (&quot;he&quot;) and a verb (&quot;is married&quot;). A clause is a group of words that contains a subject and a predicate (verb), whereas a phrase does not have both a subject and a verb.</p>\n\n<h2>Structures and Extended Vocabulary:</h2>\n\n<ul>\n\t<li><strong>Now that + clause</strong>: This structure is used to show that something has changed and, as a result, something else happens. It introduces a reason or a new situation.<br />\n\tExample: <em>Now that the rain has stopped, we can go outside.</em></li>\n\t<li><strong>Responsible</strong>: An adjective meaning having an obligation to do something, or having control over or care for someone, as part of one&#39;s job or role.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3106",
+        "questionNumber": 10,
+        "questionText": "State whether the underlined part is a phrase or a clause. Despite her protests, they took the child away.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part, <strong>&quot;Despite her protests&quot;</strong>, is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a finite verb, and therefore does not express a complete thought. In this case, &quot;her protests&quot; is a noun phrase, and &quot;despite&quot; is a preposition. There is no verb in this part, so it cannot be a clause.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Despite + noun/noun phrase</strong>: This structure is used to show contrast, similar to &quot;in spite of.&quot;</li>\n\t<li><strong>Protest (n)</strong>: An expression or declaration of objection or disapproval.</li>\n\t<li><strong>Take away (v)</strong>: To remove someone or something from a place.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n, <strong>&quot;Despite her protests&quot;</strong>, l&agrave; một <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; một mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa chủ ngữ v&agrave; động từ chia th&igrave;, do đ&oacute; kh&ocirc;ng diễn đạt một &yacute; ho&agrave;n chỉnh. Trong trường hợp n&agrave;y, &quot;her protests&quot; l&agrave; một cụm danh từ, c&ograve;n &quot;despite&quot; l&agrave; giới từ. Phần n&agrave;y kh&ocirc;ng c&oacute; động từ, n&ecirc;n kh&ocirc;ng thể l&agrave; một mệnh đề.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Despite + danh từ/cụm danh từ</strong>: Cấu tr&uacute;c n&agrave;y d&ugrave;ng để diễn tả sự tương phản, tương tự như &quot;in spite of&quot;.</li>\n\t<li><strong>Protest (danh từ)</strong>: Sự phản đối, sự phản kh&aacute;ng.</li>\n\t<li><strong>Take away (động từ)</strong>: Mang đi, đưa đi khỏi một nơi n&agrave;o đ&oacute;.</li>\n</ul>\n\n<h2>V&iacute; dụ minh họa song ngữ</h2>\n\n<ul>\n\t<li>Despite the rain, we went for a walk.<br />\n\t<em>Mặc d&ugrave; trời mưa, ch&uacute;ng t&ocirc;i vẫn đi dạo.</em></li>\n\t<li>They took the toys away from the children.<br />\n\t<em>Họ đ&atilde; lấy đồ chơi đi khỏi bọn trẻ.</em></li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Mặc d&ugrave; c&ocirc; ấy phản đối, họ vẫn đem đứa trẻ đi.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part, <strong>&quot;Despite her protests&quot;</strong>, is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a finite verb, and therefore does not express a complete thought. In this case, &quot;her protests&quot; is a noun phrase, and &quot;despite&quot; is a preposition. There is no verb in this part, so it cannot be a clause.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Despite + noun/noun phrase</strong>: This structure is used to show contrast, similar to &quot;in spite of.&quot;</li>\n\t<li><strong>Protest (n)</strong>: An expression or declaration of objection or disapproval.</li>\n\t<li><strong>Take away (v)</strong>: To remove someone or something from a place.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3107",
+        "questionNumber": 11,
+        "questionText": "State whether the underlined part is a phrase or a clause. It was an act of kindness.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;an act of kindness&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;an act of kindness&quot; is a noun phrase serving as the complement of the verb &quot;was.&quot; It does not have a subject or a verb within it.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Noun Phrase Structure:</strong> [article] + [noun] + [prepositional phrase]<br />\n\tExample: &quot;an act of kindness&quot; (article: an, noun: act, prepositional phrase: of kindness)</li>\n\t<li><strong>Prepositional Phrase:</strong> &quot;of kindness&quot; is a prepositional phrase modifying the noun &quot;act.&quot;<br />\n\tOther examples: &quot;a piece of cake,&quot; &quot;a cup of tea&quot;</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;an act of kindness&quot; l&agrave; <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa chủ ngữ v&agrave; động từ, v&agrave; kh&ocirc;ng thể đứng một m&igrave;nh như một c&acirc;u ho&agrave;n chỉnh. Trong trường hợp n&agrave;y, &quot;an act of kindness&quot; l&agrave; một cụm danh từ đ&oacute;ng vai tr&ograve; l&agrave; bổ ngữ cho động từ &quot;was.&quot; B&ecirc;n trong cụm từ n&agrave;y kh&ocirc;ng c&oacute; chủ ngữ hay động từ.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Cấu tr&uacute;c cụm danh từ:</strong> [mạo từ] + [danh từ] + [cụm giới từ]<br />\n\tV&iacute; dụ: &quot;an act of kindness&quot; (mạo từ: an, danh từ: act, cụm giới từ: of kindness)</li>\n\t<li><strong>Cụm giới từ:</strong> &quot;of kindness&quot; l&agrave; cụm giới từ bổ nghĩa cho danh từ &quot;act.&quot;<br />\n\tC&aacute;c v&iacute; dụ kh&aacute;c: &quot;a piece of cake&quot; (một miếng b&aacute;nh), &quot;a cup of tea&quot; (một t&aacute;ch tr&agrave;)</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Đ&oacute; l&agrave; một h&agrave;nh động nh&acirc;n hậu.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;an act of kindness&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;an act of kindness&quot; is a noun phrase serving as the complement of the verb &quot;was.&quot; It does not have a subject or a verb within it.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Noun Phrase Structure:</strong> [article] + [noun] + [prepositional phrase]<br />\n\tExample: &quot;an act of kindness&quot; (article: an, noun: act, prepositional phrase: of kindness)</li>\n\t<li><strong>Prepositional Phrase:</strong> &quot;of kindness&quot; is a prepositional phrase modifying the noun &quot;act.&quot;<br />\n\tOther examples: &quot;a piece of cake,&quot; &quot;a cup of tea&quot;</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3108",
+        "questionNumber": 12,
+        "questionText": "State whether the underlined part is a phrase or a clause. The sun moves around the earth.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;around the earth&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain both a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;around the earth&quot; is a prepositional phrase, starting with the preposition &quot;around&quot; and followed by the object &quot;the earth.&quot; It does not have a subject or a verb, so it is not a clause.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Prepositional Phrase:</strong> A phrase that begins with a preposition and ends with a noun or pronoun, which is the object of the preposition. Example: &quot;in the morning,&quot; &quot;under the table,&quot; &quot;with my friends.&quot;</li>\n\t<li><strong>Verb:</strong> &quot;moves&quot; is the main verb in the sentence, indicating the action performed by the subject &quot;the sun.&quot;</li>\n\t<li><strong>Subject:</strong> &quot;the sun&quot; is the subject of the sentence.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;around the earth&quot; l&agrave; <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa cả chủ ngữ v&agrave; động từ, v&agrave; kh&ocirc;ng thể đứng độc lập th&agrave;nh một c&acirc;u ho&agrave;n chỉnh. Trong trường hợp n&agrave;y, &quot;around the earth&quot; l&agrave; một cụm giới từ, bắt đầu bằng giới từ &quot;around&quot; v&agrave; theo sau l&agrave; t&acirc;n ngữ &quot;the earth.&quot; Cụm từ n&agrave;y kh&ocirc;ng c&oacute; chủ ngữ hoặc động từ, v&igrave; vậy n&oacute; kh&ocirc;ng phải l&agrave; mệnh đề.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Cụm giới từ (Prepositional Phrase):</strong> L&agrave; cụm từ bắt đầu bằng một giới từ v&agrave; kết th&uacute;c bằng một danh từ hoặc đại từ, l&agrave; t&acirc;n ngữ của giới từ. V&iacute; dụ:<br />\n\t- <em>in the morning</em> (v&agrave;o buổi s&aacute;ng)<br />\n\t- <em>under the table</em> (dưới c&aacute;i b&agrave;n)</li>\n\t<li><strong>Động từ (Verb):</strong> &quot;moves&quot; l&agrave; động từ ch&iacute;nh trong c&acirc;u, diễn tả h&agrave;nh động của chủ ngữ &quot;the sun.&quot;</li>\n\t<li><strong>Chủ ngữ (Subject):</strong> &quot;the sun&quot; l&agrave; chủ ngữ của c&acirc;u.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Mặt trời quay quanh Tr&aacute;i Đất.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;around the earth&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain both a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;around the earth&quot; is a prepositional phrase, starting with the preposition &quot;around&quot; and followed by the object &quot;the earth.&quot; It does not have a subject or a verb, so it is not a clause.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Prepositional Phrase:</strong> A phrase that begins with a preposition and ends with a noun or pronoun, which is the object of the preposition. Example: &quot;in the morning,&quot; &quot;under the table,&quot; &quot;with my friends.&quot;</li>\n\t<li><strong>Verb:</strong> &quot;moves&quot; is the main verb in the sentence, indicating the action performed by the subject &quot;the sun.&quot;</li>\n\t<li><strong>Subject:</strong> &quot;the sun&quot; is the subject of the sentence.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3109",
+        "questionNumber": 13,
+        "questionText": "State whether the underlined part is a phrase or a clause. He sat under the tree.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;under the tree&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain both a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;under the tree&quot; is a prepositional phrase, providing information about the location where the action took place. It does not have a subject or a verb.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Prepositional Phrase:</strong> A phrase that begins with a preposition (such as &quot;under&quot;) and ends with a noun or pronoun (such as &quot;the tree&quot;).</li>\n\t<li><strong>Verb:</strong> &quot;sat&quot; is the past tense of &quot;sit,&quot; indicating the action performed by the subject.</li>\n\t<li><strong>Subject:</strong> &quot;He&quot; is the subject of the sentence.</li>\n</ul>\n\n<p>Other examples of prepositional phrases include: &quot;in the room,&quot; &quot;on the table,&quot; and &quot;beside the river.&quot;</p>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;under the tree&quot; l&agrave; <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa cả chủ ngữ v&agrave; động từ, v&agrave; kh&ocirc;ng thể đứng độc lập th&agrave;nh một c&acirc;u ho&agrave;n chỉnh. Trong trường hợp n&agrave;y, &quot;under the tree&quot; l&agrave; một cụm giới từ, cung cấp th&ocirc;ng tin về vị tr&iacute; nơi h&agrave;nh động diễn ra. Cụm n&agrave;y kh&ocirc;ng c&oacute; chủ ngữ hoặc động từ.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Cụm giới từ:</strong> L&agrave; cụm bắt đầu bằng một giới từ (như &quot;under&quot;) v&agrave; kết th&uacute;c bằng một danh từ hoặc đại từ (như &quot;the tree&quot;).</li>\n\t<li><strong>Động từ:</strong> &quot;sat&quot; l&agrave; th&igrave; qu&aacute; khứ của &quot;sit&quot;, chỉ h&agrave;nh động m&agrave; chủ ngữ thực hiện.</li>\n\t<li><strong>Chủ ngữ:</strong> &quot;He&quot; l&agrave; chủ ngữ của c&acirc;u.</li>\n</ul>\n\n<p>Một số v&iacute; dụ kh&aacute;c về cụm giới từ:<br />\n- In the room: Trong ph&ograve;ng<br />\n- On the table: Tr&ecirc;n b&agrave;n<br />\n- Beside the river: B&ecirc;n cạnh d&ograve;ng s&ocirc;ng</p>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Anh ấy ngồi dưới gốc c&acirc;y.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;under the tree&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain both a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;under the tree&quot; is a prepositional phrase, providing information about the location where the action took place. It does not have a subject or a verb.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Prepositional Phrase:</strong> A phrase that begins with a preposition (such as &quot;under&quot;) and ends with a noun or pronoun (such as &quot;the tree&quot;).</li>\n\t<li><strong>Verb:</strong> &quot;sat&quot; is the past tense of &quot;sit,&quot; indicating the action performed by the subject.</li>\n\t<li><strong>Subject:</strong> &quot;He&quot; is the subject of the sentence.</li>\n</ul>\n\n<p>Other examples of prepositional phrases include: &quot;in the room,&quot; &quot;on the table,&quot; and &quot;beside the river.&quot;</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc310a",
+        "questionNumber": 14,
+        "questionText": "State whether the underlined part is a phrase or a clause. Put the books on the table.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation:</h2>\n\n<p>The underlined part &quot;on the table&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain both a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;on the table&quot; is a prepositional phrase, consisting of the preposition &quot;on&quot; and the noun phrase &quot;the table.&quot; It provides additional information about the location of the books but does not have a subject or a verb.</p>\n\n<h2>Structures and Extended Vocabulary:</h2>\n\n<ul>\n\t<li><strong>Prepositional Phrase:</strong> A phrase that begins with a preposition and ends with a noun or pronoun. Example: &quot;in the morning,&quot; &quot;under the bed.&quot;</li>\n\t<li><strong>Verb:</strong> &quot;Put&quot; is the base form of the verb, used here as an imperative (command).</li>\n\t<li><strong>Noun:</strong> &quot;books&quot; and &quot;table&quot; are both nouns.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết:</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;on the table&quot; l&agrave; <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa cả chủ ngữ v&agrave; động từ, v&agrave; kh&ocirc;ng thể đứng độc lập th&agrave;nh một c&acirc;u ho&agrave;n chỉnh. Trong trường hợp n&agrave;y, &quot;on the table&quot; l&agrave; một cụm giới từ, bao gồm giới từ &quot;on&quot; v&agrave; cụm danh từ &quot;the table.&quot; Cụm n&agrave;y bổ sung th&ocirc;ng tin về vị tr&iacute; của những quyển s&aacute;ch nhưng kh&ocirc;ng c&oacute; chủ ngữ hoặc động từ.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng:</h2>\n\n<ul>\n\t<li><strong>Cụm giới từ (Prepositional Phrase):</strong> L&agrave; cụm bắt đầu bằng giới từ v&agrave; kết th&uacute;c bằng danh từ hoặc đại từ. V&iacute; dụ:<br />\n\t- <em>in the morning</em> (v&agrave;o buổi s&aacute;ng)<br />\n\t- <em>under the bed</em> (dưới gầm giường)</li>\n\t<li><strong>Động từ:</strong> &quot;Put&quot; l&agrave; động từ nguy&ecirc;n thể, được d&ugrave;ng ở dạng mệnh lệnh (c&acirc;u ra lệnh).</li>\n\t<li><strong>Danh từ:</strong> &quot;books&quot; (những quyển s&aacute;ch) v&agrave; &quot;table&quot; (c&aacute;i b&agrave;n) đều l&agrave; danh từ.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt:</h2>\n\n<p>Đặt những cuốn s&aacute;ch l&ecirc;n b&agrave;n.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation:</h2>\n\n<p>The underlined part &quot;on the table&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain both a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;on the table&quot; is a prepositional phrase, consisting of the preposition &quot;on&quot; and the noun phrase &quot;the table.&quot; It provides additional information about the location of the books but does not have a subject or a verb.</p>\n\n<h2>Structures and Extended Vocabulary:</h2>\n\n<ul>\n\t<li><strong>Prepositional Phrase:</strong> A phrase that begins with a preposition and ends with a noun or pronoun. Example: &quot;in the morning,&quot; &quot;under the bed.&quot;</li>\n\t<li><strong>Verb:</strong> &quot;Put&quot; is the base form of the verb, used here as an imperative (command).</li>\n\t<li><strong>Noun:</strong> &quot;books&quot; and &quot;table&quot; are both nouns.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc310b",
+        "questionNumber": 15,
+        "questionText": "State whether the underlined part is a phrase or a clause. She looked out of the window.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation:</h2>\n\n<p>The underlined part &quot;out of the window&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;out of the window&quot; is a prepositional phrase, providing more information about where she looked. It does not have its own subject or verb.</p>\n\n<h2>Structures and Extended Vocabulary:</h2>\n\n<ul>\n\t<li><strong>Prepositional Phrase:</strong> A group of words beginning with a preposition and ending with a noun or pronoun. Example: &quot;in the morning,&quot; &quot;under the table.&quot;</li>\n\t<li><strong>Look out (of):</strong> A phrasal verb meaning to gaze or glance outside or beyond a place. Example: &quot;She looked out of the car.&quot;</li>\n\t<li><strong>Window:</strong> A noun referring to an opening in a wall fitted with glass.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết:</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;out of the window&quot; l&agrave; một <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; một mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa chủ ngữ v&agrave; động từ, v&agrave; kh&ocirc;ng thể đứng độc lập như một c&acirc;u ho&agrave;n chỉnh. Trong trường hợp n&agrave;y, &quot;out of the window&quot; l&agrave; một cụm giới từ, bổ sung th&ocirc;ng tin về nơi c&ocirc; ấy nh&igrave;n ra. N&oacute; kh&ocirc;ng c&oacute; chủ ngữ hoặc động từ ri&ecirc;ng.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng:</h2>\n\n<ul>\n\t<li><strong>Cụm giới từ (Prepositional Phrase):</strong> Một nh&oacute;m từ bắt đầu bằng giới từ v&agrave; kết th&uacute;c bằng danh từ hoặc đại từ. V&iacute; dụ:<br />\n\t- <em>in the morning</em> (v&agrave;o buổi s&aacute;ng)<br />\n\t- <em>under the table</em> (dưới c&aacute;i b&agrave;n)</li>\n\t<li><strong>Look out (of):</strong> Cụm động từ c&oacute; nghĩa l&agrave; nh&igrave;n ra ngo&agrave;i hoặc nh&igrave;n vượt ra khỏi một nơi n&agrave;o đ&oacute;. V&iacute; dụ:<br />\n\t- <em>She looked out of the car.</em> (C&ocirc; ấy nh&igrave;n ra ngo&agrave;i xe.)</li>\n\t<li><strong>Window:</strong> Danh từ chỉ cửa sổ, một lỗ mở tr&ecirc;n tường c&oacute; lắp k&iacute;nh.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt:</h2>\n\n<p>C&ocirc; ấy nh&igrave;n ra ngo&agrave;i cửa sổ.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation:</h2>\n\n<p>The underlined part &quot;out of the window&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, and it cannot stand alone as a complete sentence. In this case, &quot;out of the window&quot; is a prepositional phrase, providing more information about where she looked. It does not have its own subject or verb.</p>\n\n<h2>Structures and Extended Vocabulary:</h2>\n\n<ul>\n\t<li><strong>Prepositional Phrase:</strong> A group of words beginning with a preposition and ending with a noun or pronoun. Example: &quot;in the morning,&quot; &quot;under the table.&quot;</li>\n\t<li><strong>Look out (of):</strong> A phrasal verb meaning to gaze or glance outside or beyond a place. Example: &quot;She looked out of the car.&quot;</li>\n\t<li><strong>Window:</strong> A noun referring to an opening in a wall fitted with glass.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc310c",
+        "questionNumber": 16,
+        "questionText": "State whether the underlined part is a phrase or a clause. I know a man who works in Merchant Navy.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;who works in Merchant Navy&quot; is a <strong>clause</strong>, not a phrase. This is because it contains both a subject (&quot;who&quot;) and a verb (&quot;works&quot;). A clause is a group of words that contains a subject and a predicate (verb), whereas a phrase does not have both a subject and a verb.</p>\n\n<h2>Structure and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Relative Clause:</strong> The underlined part is a relative clause, introduced by the relative pronoun &quot;who.&quot; Relative clauses give more information about a noun (in this case, &quot;a man&quot;).</li>\n\t<li><strong>Relative Pronouns:</strong> Common relative pronouns include &quot;who,&quot; &quot;which,&quot; &quot;that,&quot; &quot;whose,&quot; and &quot;whom.&quot;</li>\n\t<li><strong>Vocabulary:</strong> &quot;Merchant Navy&quot; refers to a country&#39;s commercial shipping fleet.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;who works in Merchant Navy&quot; l&agrave; một <strong>mệnh đề</strong> (clause), kh&ocirc;ng phải l&agrave; một cụm từ (phrase). L&yacute; do l&agrave; v&igrave; n&oacute; chứa cả chủ ngữ (&quot;who&quot;) v&agrave; động từ (&quot;works&quot;). Mệnh đề l&agrave; một nh&oacute;m từ c&oacute; đầy đủ chủ ngữ v&agrave; vị ngữ (động từ), trong khi cụm từ th&igrave; kh&ocirc;ng c&oacute; đủ cả hai th&agrave;nh phần n&agrave;y.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Mệnh đề quan hệ:</strong> Phần được gạch ch&acirc;n l&agrave; mệnh đề quan hệ, bắt đầu bằng đại từ quan hệ &quot;who&quot;. Mệnh đề quan hệ d&ugrave;ng để bổ sung th&ocirc;ng tin cho danh từ đứng trước (ở đ&acirc;y l&agrave; &quot;a man&quot;).</li>\n\t<li><strong>Đại từ quan hệ:</strong> Một số đại từ quan hệ thường gặp l&agrave; &quot;who&quot;, &quot;which&quot;, &quot;that&quot;, &quot;whose&quot;, &quot;whom&quot;.</li>\n\t<li><strong>Từ vựng:</strong> &quot;Merchant Navy&quot; nghĩa l&agrave; ng&agrave;nh h&agrave;ng hải thương mại của một quốc gia.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>T&ocirc;i biết một người đ&agrave;n &ocirc;ng l&agrave;m việc trong Hải qu&acirc;n Thương mại.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;who works in Merchant Navy&quot; is a <strong>clause</strong>, not a phrase. This is because it contains both a subject (&quot;who&quot;) and a verb (&quot;works&quot;). A clause is a group of words that contains a subject and a predicate (verb), whereas a phrase does not have both a subject and a verb.</p>\n\n<h2>Structure and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Relative Clause:</strong> The underlined part is a relative clause, introduced by the relative pronoun &quot;who.&quot; Relative clauses give more information about a noun (in this case, &quot;a man&quot;).</li>\n\t<li><strong>Relative Pronouns:</strong> Common relative pronouns include &quot;who,&quot; &quot;which,&quot; &quot;that,&quot; &quot;whose,&quot; and &quot;whom.&quot;</li>\n\t<li><strong>Vocabulary:</strong> &quot;Merchant Navy&quot; refers to a country&#39;s commercial shipping fleet.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc310d",
+        "questionNumber": 17,
+        "questionText": "State whether the underlined part is a phrase or a clause. He wears a chain which is made of gold.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;which is made of gold&quot; is a <strong>clause</strong>, not a phrase. This is because it contains both a subject (&quot;which&quot;) and a verb (&quot;is made&quot;). A phrase does not have both a subject and a verb, while a clause does. In this sentence, the clause &quot;which is made of gold&quot; gives more information about the noun &quot;chain&quot; and is called a relative clause.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Relative Clause:</strong> A clause that describes or gives more information about a noun. It often starts with words like &quot;who,&quot; &quot;which,&quot; or &quot;that.&quot;</li>\n\t<li><strong>Be made of:</strong> This structure is used to describe the material something is composed of. For example: &quot;The table is made of wood.&quot;</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;which is made of gold&quot; l&agrave; một <strong>mệnh đề</strong> (clause), kh&ocirc;ng phải l&agrave; cụm từ (phrase). L&yacute; do l&agrave; v&igrave; n&oacute; c&oacute; đầy đủ cả chủ ngữ (&quot;which&quot;) v&agrave; động từ (&quot;is made&quot;). Một cụm từ th&igrave; kh&ocirc;ng c&oacute; đủ cả chủ ngữ v&agrave; động từ, c&ograve;n mệnh đề th&igrave; c&oacute;. Trong c&acirc;u n&agrave;y, mệnh đề &quot;which is made of gold&quot; bổ nghĩa cho danh từ &quot;chain&quot; v&agrave; được gọi l&agrave; mệnh đề quan hệ.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Mệnh đề quan hệ (Relative Clause):</strong> L&agrave; mệnh đề d&ugrave;ng để bổ nghĩa hoặc cung cấp th&ecirc;m th&ocirc;ng tin cho một danh từ. Thường bắt đầu bằng c&aacute;c từ như &quot;who&quot;, &quot;which&quot;, hoặc &quot;that&quot;.<br />\n\tV&iacute; dụ:<br />\n\t- The book <strong>which is on the table</strong> is mine.<br />\n\t- Quyển s&aacute;ch <strong>m&agrave; ở tr&ecirc;n b&agrave;n</strong> l&agrave; của t&ocirc;i.</li>\n\t<li><strong>Be made of:</strong> Cấu tr&uacute;c d&ugrave;ng để n&oacute;i về chất liệu tạo n&ecirc;n vật g&igrave; đ&oacute;.<br />\n\tV&iacute; dụ:<br />\n\t- This chair <strong>is made of</strong> plastic.<br />\n\t- Chiếc ghế n&agrave;y <strong>được l&agrave;m bằng</strong> nhựa.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Anh ấy đeo một sợi d&acirc;y chuyền được l&agrave;m bằng v&agrave;ng.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;which is made of gold&quot; is a <strong>clause</strong>, not a phrase. This is because it contains both a subject (&quot;which&quot;) and a verb (&quot;is made&quot;). A phrase does not have both a subject and a verb, while a clause does. In this sentence, the clause &quot;which is made of gold&quot; gives more information about the noun &quot;chain&quot; and is called a relative clause.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Relative Clause:</strong> A clause that describes or gives more information about a noun. It often starts with words like &quot;who,&quot; &quot;which,&quot; or &quot;that.&quot;</li>\n\t<li><strong>Be made of:</strong> This structure is used to describe the material something is composed of. For example: &quot;The table is made of wood.&quot;</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc310e",
+        "questionNumber": 18,
+        "questionText": "State whether the underlined part is a phrase or a clause. We cannot survive without food or water.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;without food or water&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, and it does not express a complete thought. In this case, &quot;without food or water&quot; does not have a subject or a verb; it simply provides additional information about the conditions under which we cannot survive.</p>\n\n<h2>Structure and Vocabulary Expansion</h2>\n\n<ul>\n\t<li><strong>without + noun</strong>: This is a prepositional phrase structure used to indicate the absence of something. For example: &quot;without money,&quot; &quot;without help.&quot;</li>\n\t<li><strong>survive</strong>: A verb meaning to continue to live or exist, especially in difficult conditions.</li>\n\t<li><strong>food or water</strong>: Nouns referring to essential things needed for survival.</li>\n</ul>\n\n<p>Other examples of prepositional phrases:<br />\n&bull; She left <strong>without saying goodbye</strong>.<br />\n&bull; He finished the work <strong>in a hurry</strong>.</p>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;without food or water&quot; l&agrave; <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa chủ ngữ v&agrave; động từ, v&agrave; kh&ocirc;ng diễn đạt một &yacute; ho&agrave;n chỉnh. Trong trường hợp n&agrave;y, &quot;without food or water&quot; kh&ocirc;ng c&oacute; chủ ngữ hay động từ; n&oacute; chỉ cung cấp th&ecirc;m th&ocirc;ng tin về điều kiện m&agrave; ch&uacute;ng ta kh&ocirc;ng thể tồn tại.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>without + danh từ</strong>: Đ&acirc;y l&agrave; cấu tr&uacute;c cụm giới từ d&ugrave;ng để chỉ sự thiếu vắng của một điều g&igrave; đ&oacute;. V&iacute; dụ: &quot;without money&quot; (kh&ocirc;ng c&oacute; tiền), &quot;without help&quot; (kh&ocirc;ng c&oacute; sự gi&uacute;p đỡ).</li>\n\t<li><strong>survive</strong>: Động từ c&oacute; nghĩa l&agrave; tiếp tục sống hoặc tồn tại, đặc biệt trong điều kiện kh&oacute; khăn.</li>\n\t<li><strong>food or water</strong>: Danh từ chỉ những thứ thiết yếu cần thiết cho sự sống c&ograve;n.</li>\n</ul>\n\n<p>Một số v&iacute; dụ kh&aacute;c về cụm giới từ:<br />\n&bull; She left <strong>without saying goodbye</strong>. (C&ocirc; ấy rời đi m&agrave; kh&ocirc;ng n&oacute;i lời tạm biệt.)<br />\n&bull; He finished the work <strong>in a hurry</strong>. (Anh ấy ho&agrave;n th&agrave;nh c&ocirc;ng việc một c&aacute;ch vội v&agrave;ng.)</p>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Ch&uacute;ng ta kh&ocirc;ng thể sống s&oacute;t nếu thiếu thức ăn hoặc nước uống.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;without food or water&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, and it does not express a complete thought. In this case, &quot;without food or water&quot; does not have a subject or a verb; it simply provides additional information about the conditions under which we cannot survive.</p>\n\n<h2>Structure and Vocabulary Expansion</h2>\n\n<ul>\n\t<li><strong>without + noun</strong>: This is a prepositional phrase structure used to indicate the absence of something. For example: &quot;without money,&quot; &quot;without help.&quot;</li>\n\t<li><strong>survive</strong>: A verb meaning to continue to live or exist, especially in difficult conditions.</li>\n\t<li><strong>food or water</strong>: Nouns referring to essential things needed for survival.</li>\n</ul>\n\n<p>Other examples of prepositional phrases:<br />\n&bull; She left <strong>without saying goodbye</strong>.<br />\n&bull; He finished the work <strong>in a hurry</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc310f",
+        "questionNumber": 19,
+        "questionText": "State whether the underlined part is a phrase or a clause. The man whom I met on the street was a traveller.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Clause",
+            "raw": "B. Clause",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part <strong>&quot;whom I met on the street&quot;</strong> is a <strong>clause</strong>, not a phrase. This is because it contains both a subject (<em>I</em>) and a verb (<em>met</em>), and it provides additional information about the noun <em>man</em>. Specifically, it is a relative clause (also called an adjective clause) that modifies the noun.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Relative Clause:</strong> A clause that describes or gives more information about a noun. It often begins with relative pronouns such as <em>who, whom, whose, which, that</em>.</li>\n\t<li><strong>Whom:</strong> Used as the object of a verb or preposition in formal English, referring to people.</li>\n\t<li><strong>Traveller:</strong> A person who is traveling or who often travels.</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n <strong>&quot;whom I met on the street&quot;</strong> l&agrave; một <strong>mệnh đề</strong> (clause), kh&ocirc;ng phải l&agrave; một cụm từ (phrase). L&yacute; do l&agrave; v&igrave; n&oacute; c&oacute; đầy đủ chủ ngữ (<em>I</em>) v&agrave; động từ (<em>met</em>), đồng thời cung cấp th&ocirc;ng tin bổ sung cho danh từ <em>man</em>. Cụ thể, đ&acirc;y l&agrave; một mệnh đề quan hệ (hay c&ograve;n gọi l&agrave; mệnh đề t&iacute;nh từ) d&ugrave;ng để bổ nghĩa cho danh từ.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Mệnh đề quan hệ (Relative Clause):</strong> L&agrave; mệnh đề d&ugrave;ng để mi&ecirc;u tả hoặc cung cấp th&ecirc;m th&ocirc;ng tin về một danh từ. Thường bắt đầu bằng c&aacute;c đại từ quan hệ như <em>who, whom, whose, which, that</em>.</li>\n\t<li><strong>Whom:</strong> Được d&ugrave;ng l&agrave;m t&acirc;n ngữ của động từ hoặc giới từ trong tiếng Anh trang trọng, chỉ người.</li>\n\t<li><strong>Traveller:</strong> Người đi du lịch hoặc thường xuy&ecirc;n đi lại.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>Người đ&agrave;n &ocirc;ng m&agrave; t&ocirc;i gặp tr&ecirc;n đường l&agrave; một kh&aacute;ch du lịch.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part <strong>&quot;whom I met on the street&quot;</strong> is a <strong>clause</strong>, not a phrase. This is because it contains both a subject (<em>I</em>) and a verb (<em>met</em>), and it provides additional information about the noun <em>man</em>. Specifically, it is a relative clause (also called an adjective clause) that modifies the noun.</p>\n\n<h2>Structures and Extended Vocabulary</h2>\n\n<ul>\n\t<li><strong>Relative Clause:</strong> A clause that describes or gives more information about a noun. It often begins with relative pronouns such as <em>who, whom, whose, which, that</em>.</li>\n\t<li><strong>Whom:</strong> Used as the object of a verb or preposition in formal English, referring to people.</li>\n\t<li><strong>Traveller:</strong> A person who is traveling or who often travels.</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6225ad0083f28145bcbc3110",
+        "questionNumber": 20,
+        "questionText": "State whether the underlined part is a phrase or a clause. She recognized him at once.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Phrase",
+            "raw": "A. Phrase",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Clause </p>",
+            "raw": "B. Clause </p>",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;at once&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, while a clause has both a subject and a verb. In this case, &quot;at once&quot; does not have a subject or a verb; it simply acts as an adverbial phrase indicating time.</p>\n\n<h2>Structures and Vocabulary Expansion</h2>\n\n<ul>\n\t<li><strong>Recognize (verb):</strong> To identify someone or something from previous encounters or knowledge.</li>\n\t<li><strong>At once (adverbial phrase):</strong> Means &quot;immediately&quot; or &quot;right away.&quot;</li>\n</ul>\n",
+        "explanationViHtml": "<h2>Giải th&iacute;ch chi tiết</h2>\n\n<p>Phần được gạch ch&acirc;n &quot;at once&quot; l&agrave; một <strong>cụm từ</strong> (phrase), kh&ocirc;ng phải l&agrave; một mệnh đề (clause). Cụm từ l&agrave; một nh&oacute;m từ kh&ocirc;ng chứa chủ ngữ v&agrave; động từ, trong khi mệnh đề th&igrave; c&oacute; cả hai yếu tố n&agrave;y. Trong trường hợp n&agrave;y, &quot;at once&quot; kh&ocirc;ng c&oacute; chủ ngữ hay động từ; n&oacute; chỉ đ&oacute;ng vai tr&ograve; l&agrave; một cụm trạng từ chỉ thời gian.</p>\n\n<h2>Cấu tr&uacute;c v&agrave; từ vựng mở rộng</h2>\n\n<ul>\n\t<li><strong>Recognize (động từ):</strong> Nhận ra ai đ&oacute; hoặc điều g&igrave; đ&oacute; dựa tr&ecirc;n những lần gặp trước hoặc kiến thức đ&atilde; c&oacute;.</li>\n\t<li><strong>At once (cụm trạng từ):</strong> C&oacute; nghĩa l&agrave; &quot;ngay lập tức&quot; hoặc &quot;tức th&igrave;.&quot;</li>\n</ul>\n\n<h2>V&iacute; dụ:</h2>\n\n<ul>\n\t<li>She answered the phone <strong>at once</strong>.<br />\n\tC&ocirc; ấy trả lời điện thoại <strong>ngay lập tức</strong>.</li>\n</ul>\n\n<h2>Bản dịch Tiếng Việt</h2>\n\n<p>C&ocirc; ấy nhận ra anh ấy ngay lập tức.</p>\n",
+        "transcriptHtml": "<h2>Detailed Explanation</h2>\n\n<p>The underlined part &quot;at once&quot; is a <strong>phrase</strong>, not a clause. A phrase is a group of words that does not contain a subject and a verb, while a clause has both a subject and a verb. In this case, &quot;at once&quot; does not have a subject or a verb; it simply acts as an adverbial phrase indicating time.</p>\n\n<h2>Structures and Vocabulary Expansion</h2>\n\n<ul>\n\t<li><strong>Recognize (verb):</strong> To identify someone or something from previous encounters or knowledge.</li>\n\t<li><strong>At once (adverbial phrase):</strong> Means &quot;immediately&quot; or &quot;right away.&quot;</li>\n</ul>\n"
+      }
+    }
+  ]
+}

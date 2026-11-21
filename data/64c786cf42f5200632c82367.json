@@ -1,0 +1,644 @@
+{
+  "topicId": "64c786cf42f5200632c82367",
+  "title": "Part 6: Text Completion - Test 21",
+  "totalCards": 4,
+  "totalQuestions": 16,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "64c786cf42f5200632c82368",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<p>November 16<br>Dear Ms. Charron,<br>It was a pleasure meeting you in person this morning to learn more about your desire to outsource Eastway Shipping's bookkeeping. <strong>(1)_____</strong> I understand that you no longer wish to handle these types of tasks. I am confident that our dependable certified accountants can take on the (<strong>2)______</strong>. I hope that your questions and concerns (<strong>3)______</strong> during our meeting. If not, please feel free to contact me at 555-7966 with further inquiries. In addition, I have enclosed a brochure of our services for you to <strong>(4)______</strong>.<br>Warmest regards,<br>William Satterfield</p>",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "64c786cf42f5200632c8236c",
+          "questionNumber": 1,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "I will delete the error from the October invoice right away.",
+              "raw": "(A) I will delete the error from the October invoice right away.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Please call my office if the items do not arrive on time.",
+              "raw": "(B) Please call my office if the items do not arrive on time.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Your accounting needs can easily be handled by our experienced team.",
+              "raw": "(C) Your accounting needs can easily be handled by our experienced team.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "The business transports goods to distribution centers all over the world.",
+              "raw": "(D) The business transports goods to distribution centers all over the world.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p><strong>C is correct </strong>because it can connect with the sentence <em>\"It was a pleasure meeting you in person this morning to learn more about your desire to outsource Eastway Shipping's bookkeeping.\"</em></p>\n\n<p><em>=&gt; </em>accounting = bookkeeping</p>\n",
+          "explanationViHtml": "<p><strong>C đ&uacute;ng</strong> v&igrave; n&oacute; c&oacute; thể nối với c&acirc;u <em>&quot;It was a pleasure meeting you in person this morning to learn more about your desire to outsource Eastway Shipping&#39;s bookkeeping.&quot;</em></p>\n\n<p>accounting = bookkeeping: kế to&aacute;n</p>\n",
+          "transcriptHtml": "<p><strong>C is correct </strong>because it can connect with the sentence <em>\"It was a pleasure meeting you in person this morning to learn more about your desire to outsource Eastway Shipping's bookkeeping.\"</em></p>\n\n<p><em>=&gt; </em>accounting = bookkeeping</p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c8236d",
+          "questionNumber": 2,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "incident",
+              "raw": "(A) incident",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "role",
+              "raw": "(B) role",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "outcome",
+              "raw": "(C) outcome",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "progress",
+              "raw": "(D) progress",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>incident:&nbsp;an event that is either unpleasant or unusual</p>\n\n<p>role:&nbsp;the position or purpose that someone or something has in a situation, organization, society, or relationship</p>\n\n<p>outcome:&nbsp;a result or effect of an action, situation, etc.</p>\n\n<p>progress:&nbsp;movement to an improved or more developed state, or to a forward position</p>\n\n<p>=&gt; \"role\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>incident: sự cố</p>\n<p>role: vai trò</p>\n<p>outcome: kết quả</p>\n<p>progress: quá trình</p>\n<p>take on the role: đảm nhận vai trò</p>\n<p><strong>Tạm dịch:</strong> Tôi tin tưởng rằng các kế toán viên được chứng nhận đáng tin cậy của chúng tôi có thể đảm nhận vai trò này.</p>\n<p><strong>=&gt; Chọn B</strong></p>",
+          "transcriptHtml": "<p>incident:&nbsp;an event that is either unpleasant or unusual</p>\n\n<p>role:&nbsp;the position or purpose that someone or something has in a situation, organization, society, or relationship</p>\n\n<p>outcome:&nbsp;a result or effect of an action, situation, etc.</p>\n\n<p>progress:&nbsp;movement to an improved or more developed state, or to a forward position</p>\n\n<p>=&gt; \"role\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c8236e",
+          "questionNumber": 3,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "addresses",
+              "raw": "(A) addresses",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "addressing",
+              "raw": "(B) addressing",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "were addressed",
+              "raw": "(C) were addressed",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "had addressed",
+              "raw": "(D) had addressed",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>The sentence needs to be in passive voice because questions and concerns can not address by themselves.&nbsp;</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n",
+          "explanationViHtml": "<p>Câu cần chia ở thể bị động vì các câu hỏi và mối quan tâm không thể tự mình giải quyết được.</p>\n<p><strong>Tạm dịch:</strong> Tôi hy vọng rằng các câu hỏi và mối quan tâm của bạn đã được giải quyết trong cuộc họp của chúng ta.</p>\n<p><strong>=&gt; Chọn C</strong></p>",
+          "transcriptHtml": "<p>The sentence needs to be in passive voice because questions and concerns can not address by themselves.&nbsp;</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c8236f",
+          "questionNumber": 4,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "translate",
+              "raw": "(A) translate",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "review",
+              "raw": "(B) review",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "recommend",
+              "raw": "(C) recommend",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "oversee",
+              "raw": "(D) oversee",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>translate:&nbsp;to change words into a different language</p>\n\n<p>review:&nbsp;to think or talk about something again, in order to make changes to it or to make a decision about it</p>\n\n<p>recommend:&nbsp;to suggest that someone or something would be good or suitable for a particular job or purpose</p>\n\n<p>oversee:&nbsp;to watch or organize a job or an activity to make certain that it is being done correctly</p>\n\n<p>=&gt; \"review\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>translate: dịch</p>\n\n<p>review: xem x&eacute;t lại</p>\n\n<p>recommend: giới thiệu</p>\n\n<p>oversee: gi&aacute;m s&aacute;t</p>\n\n<p><strong>Tạm dịch:</strong> Ngo&agrave;i ra, t&ocirc;i c&ograve;n đ&iacute;nh k&egrave;m một tập t&agrave;i liệu về c&aacute;c dịch vụ của ch&uacute;ng t&ocirc;i để bạn xem x&eacute;t.</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "transcriptHtml": "<p>translate:&nbsp;to change words into a different language</p>\n\n<p>review:&nbsp;to think or talk about something again, in order to make changes to it or to make a decision about it</p>\n\n<p>recommend:&nbsp;to suggest that someone or something would be good or suitable for a particular job or purpose</p>\n\n<p>oversee:&nbsp;to watch or organize a job or an activity to make certain that it is being done correctly</p>\n\n<p>=&gt; \"review\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c786cf42f5200632c82369",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "Mercury Fashions Fall Line<br>Mercury Fashions offers luxurious apparel that fits your lifestyle. On September 1, we <strong>(5)_____</strong> our new line of fall fashions at a runway show at Sapphire Plaza. We closely follow the latest fashion trends, so we plan to have clothes dominated by the hottest colors to help you show your style. These cutting-edge designs are flattering to a wide range of body types. <strong>(6)______</strong>, we have new accessories like scarves, handbags, and hats that you can mix and match. <strong>(7)_______.</strong> Visit www.mercuryfashions.com for a sneak peek. These beautiful items will be in <strong>(8)______</strong> high-end department stores on the same day as the runway show.",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "64c786cf42f5200632c82370",
+          "questionNumber": 5,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "have revealed",
+              "raw": "(A) have revealed",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "have been revealing",
+              "raw": "(B) have been revealing",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "are going to reveal",
+              "raw": "(C) are going to reveal",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "revealed",
+              "raw": "(D) revealed",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>The signal:&nbsp;we <strong>plan to</strong> have clothes&nbsp;dominated by the hottest colors to help you show your style.&nbsp;</p>\n\n<p>=&gt; The action will happen in the future</p>\n\n<p><strong>=&gt; C is correct.</strong> This is the near future tense</p>\n",
+          "explanationViHtml": "<p>Dấu hiệu: we&nbsp;<strong>plan to</strong>&nbsp;have clothes dominated by the hottest colors to help you show your style.&nbsp;</p>\n<p>=&gt; Hành động sẽ xảy ra ở tương lai. Chia động từ thì tương lai gần</p>\n<p><strong>Tạm dịch: </strong>Vào ngày 1 tháng 9, chúng tôi sẽ ra mắt dòng thời trang mùa thu mới tại buổi trình diễn thời trang ở Sapphire Plaza.</p>\n<p><strong>=&gt; Chọn C</strong></p>",
+          "transcriptHtml": "<p>The signal:&nbsp;we <strong>plan to</strong> have clothes&nbsp;dominated by the hottest colors to help you show your style.&nbsp;</p>\n\n<p>=&gt; The action will happen in the future</p>\n\n<p><strong>=&gt; C is correct.</strong> This is the near future tense</p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c82371",
+          "questionNumber": 6,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Even",
+              "raw": "(A) Even",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Also",
+              "raw": "(B) Also",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Rather",
+              "raw": "(C) Rather",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Merely",
+              "raw": "(D) Merely",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>Even:&nbsp;used to show that something is surprising, unusual, unexpected, or extreme</p>\n\n<p>Also:&nbsp;in addition</p>\n\n<p>Rather:&nbsp;quite; to a slight degree</p>\n\n<p>Merely:&nbsp;used to emphasize that you mean exactly what you are saying and nothing more</p>\n\n<p>=&gt; \"Also\" has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>Even: thậm chí, ngay cả</p>\n<p>Also: ngoài ra</p>\n<p>Rather: khá là</p>\n<p>Merely: chỉ</p>\n<p><strong>Tạm dịch:</strong> Ngoài ra, chúng tôi còn có các phụ kiện mới như khăn quàng cổ, túi xách và mũ mà bạn có thể kết hợp.</p>\n<p><strong>=&gt; Chọn B</strong></p>",
+          "transcriptHtml": "<p>Even:&nbsp;used to show that something is surprising, unusual, unexpected, or extreme</p>\n\n<p>Also:&nbsp;in addition</p>\n\n<p>Rather:&nbsp;quite; to a slight degree</p>\n\n<p>Merely:&nbsp;used to emphasize that you mean exactly what you are saying and nothing more</p>\n\n<p>=&gt; \"Also\" has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c82372",
+          "questionNumber": 7,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Our design team is always standing by you to meet your custom requests.",
+              "raw": "(A) Our design team is always standing by you to meet your custom requests.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The tags should be removed before wearing them.",
+              "raw": "(B) The tags should be removed before wearing them.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Create dozens of your own looks as you want.",
+              "raw": "(C) Create dozens of your own looks as you want.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Our headquarters will relocate in the city of New York.",
+              "raw": "(D) Our headquarters will relocate in the city of New York.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p><strong>C is correct</strong> because it can connect with the sentence <em>\"we have new accessories like scarves, handbags, and hats that <strong>you can mix and match</strong>.\"</em></p>\n\n<p>=&gt;&nbsp;you can mix and match =&nbsp;Create dozens of your own looks&nbsp;</p>\n",
+          "explanationViHtml": "<p><strong>C đ&uacute;ng</strong> v&igrave; n&oacute; c&oacute; thể kết nối với c&acirc;u <em>&quot;we have new accessories like scarves, handbags, and hats that&nbsp;<strong>you can mix and match</strong>.&quot;</em></p>\n\n<p><em>you can mix and match = Create dozens of your own looks&nbsp;</em></p>\n",
+          "transcriptHtml": "<p><strong>C is correct</strong> because it can connect with the sentence <em>\"we have new accessories like scarves, handbags, and hats that <strong>you can mix and match</strong>.\"</em></p>\n\n<p>=&gt;&nbsp;you can mix and match =&nbsp;Create dozens of your own looks&nbsp;</p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c82373",
+          "questionNumber": 8,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "most",
+              "raw": "(A) most",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "which",
+              "raw": "(B) which",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "their",
+              "raw": "(C) their",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "soon",
+              "raw": "(D) soon",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "<p>most:&nbsp;almost all</p>\n\n<p>which:&nbsp;what one or ones</p>\n\n<p>their:&nbsp;of or belonging to them</p>\n\n<p>soon:&nbsp;in or within a short time; before long; quickly</p>\n\n<p>=&gt; \"most\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+          "explanationViHtml": "<p>most: hầu hết</p>\n\n<p>which: c&aacute;i m&agrave;</p>\n\n<p>their: của họ</p>\n\n<p>soon: sớm</p>\n\n<p><strong>Tạm dịch:</strong> Những m&oacute;n đồ đẹp mắt n&agrave;y sẽ c&oacute; mặt ở hầu hết c&aacute;c cửa h&agrave;ng b&aacute;ch h&oacute;a cao cấp v&agrave;o c&ugrave;ng ng&agrave;y diễn ra buổi tr&igrave;nh diễn.</p>\n\n<p><strong>=&gt; Chọn A</strong></p>\n",
+          "transcriptHtml": "<p>most:&nbsp;almost all</p>\n\n<p>which:&nbsp;what one or ones</p>\n\n<p>their:&nbsp;of or belonging to them</p>\n\n<p>soon:&nbsp;in or within a short time; before long; quickly</p>\n\n<p>=&gt; \"most\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c786cf42f5200632c8236a",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<p>October 9<br>Ralph Benton<br>874 Everette Way<br>Coral Springs, FL 33065<br>Dear Mr. Benton,<br>Thanks to the collaborative <strong>(9)______</strong> of you and your team, Otis Rentals has become the number one car rental agency in Florida. Our market share has grown from 15% to 41% in just three years under your leadership. <strong>(10)______.</strong><br>On behalf of Otis Rentals, I would like to invite you to transfer to our Texas branch, where you would take on the role of regional manager. This region <strong>(11) ______ </strong>the most competitive one in the country, but I believe that you are up to the challenge. The preferred start date is November 15. <strong>(12) _______</strong>, we can be somewhat flexible if more time to make arrangements is needed.<br>Sincerely,<br>Lucille Walsh, Chief Operations Officer<br>Otis Rentals</p>",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "64c786cf42f5200632c82378",
+          "questionNumber": 9,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "efforts",
+              "raw": "(A) efforts",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "reports",
+              "raw": "(B) reports",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "panels",
+              "raw": "(C) panels",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "visits",
+              "raw": "(D) visits",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "<p>effort:&nbsp;physical or mental activity needed to achieve something<br>\nreport:&nbsp;give a spoken or written account of something that one has observed, heard, done, or investigated<br>\npanel:&nbsp;a small group of people chosen to give advice, make a decision, or publicly discuss their opinions as entertainment<br>\nvisit:&nbsp;an occasion when you visit a place or person<br>\n=&gt; \"effort\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+          "explanationViHtml": "<p>effort: nỗ lực<br>report: báo cáo<br>panel: nhóm hội thảo<br>visit: thăm</p>\n<p><strong>Tạm dịch:</strong> Nhờ những nỗ lực hợp tác của bạn và nhóm của bạn, Otis Rentals đã trở thành đại lý cho thuê ô tô số một ở Florida.</p>\n<p><strong>=&gt; Chọn A</strong></p>",
+          "transcriptHtml": "<p>effort:&nbsp;physical or mental activity needed to achieve something<br>\nreport:&nbsp;give a spoken or written account of something that one has observed, heard, done, or investigated<br>\npanel:&nbsp;a small group of people chosen to give advice, make a decision, or publicly discuss their opinions as entertainment<br>\nvisit:&nbsp;an occasion when you visit a place or person<br>\n=&gt; \"effort\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c82379",
+          "questionNumber": 10,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "I will take a trip to Florida for the first time.",
+              "raw": "(A) I will take a trip to Florida for the first time.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Such an accomplishment is rarely seen in our field.",
+              "raw": "(B) Such an accomplishment is rarely seen in our field.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Please confirm which job candidate you prefer.",
+              "raw": "(C) Please confirm which job candidate you prefer.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "It had four doors and a spacious trunk in the back.",
+              "raw": "(D) It had four doors and a spacious trunk in the back.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p><strong>B is correct</strong> because it can connect with the sentence <em>\"Our market share has grown from 15% to 41% in just three years under your leadership.\"</em></p>\n\n<p><em>=&gt; \"Such an accomplishment\" </em>refers to<em> \"market share has grown from 15% to 41% in just three years\"</em></p>\n",
+          "explanationViHtml": "<p><strong>B đ&uacute;ng</strong> v&igrave; n&oacute; c&oacute; thể kết nối với c&acirc;u&nbsp;<em>&quot;Our market share has grown from 15% to 41% in just three years under your leadership.&quot;</em></p>\n\n<p><em>&quot;Such an accomplishment&quot;&nbsp;</em> =<em>&nbsp;&quot;market share has grown from 15% to 41% in just three years&quot;</em></p>\n",
+          "transcriptHtml": "<p><strong>B is correct</strong> because it can connect with the sentence <em>\"Our market share has grown from 15% to 41% in just three years under your leadership.\"</em></p>\n\n<p><em>=&gt; \"Such an accomplishment\" </em>refers to<em> \"market share has grown from 15% to 41% in just three years\"</em></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c8237a",
+          "questionNumber": 11,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "considers",
+              "raw": "(A) considers",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "was considered",
+              "raw": "(B) was considered",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "is considered",
+              "raw": "(C) is considered",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "considering",
+              "raw": "(D) considering",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>The blank needs to be in passive voice. Addition, the action happens in present</p>\n\n<p><strong>=&gt; C is correct</strong></p>\n",
+          "explanationViHtml": "<p>Chỗ trống cần chia ở thể bị động -&gt; Loại A, D.</p>\n<p>Ngoài ra, hành động xảy ra ở hiện tại -&gt;&nbsp;<strong>Chọn C</strong></p>\n<p><strong>Tạm dịch: </strong>Khu vực này được coi là khu vực cạnh tranh nhất trong cả nước, nhưng tôi tin rằng bạn có thể vượt qua thử thách.</p>",
+          "transcriptHtml": "<p>The blank needs to be in passive voice. Addition, the action happens in present</p>\n\n<p><strong>=&gt; C is correct</strong></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c8237b",
+          "questionNumber": 12,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Consequently",
+              "raw": "(A) Consequently",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Besides",
+              "raw": "(B) Besides",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "For example",
+              "raw": "(C) For example",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "However",
+              "raw": "(D) However",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>Consequently:&nbsp;as a result</p>\n\n<p>Besides: in addition to; also</p>\n\n<p>For example:&nbsp;used when giving an example of the type of thing you mean</p>\n\n<p>However:&nbsp;despite whatever amount or degree</p>\n\n<p>=&gt; \"However\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n",
+          "explanationViHtml": "<p>Consequently: kết quả là</p>\n<p>Besides: bên cạnh đó</p>\n<p>For example: ví dụ</p>\n<p>However: tuy nhiên</p>\n<p>Tạm dịch: Ngày bắt đầu ưu tiên là ngày 15 tháng 11. <em><strong>Tuy nhiên, chúng tôi có thể linh hoạt phần nào nếu cần thêm thời gian để sắp xếp.</strong></em></p>\n<p><strong>=&gt; Chọn D</strong></p>",
+          "transcriptHtml": "<p>Consequently:&nbsp;as a result</p>\n\n<p>Besides: in addition to; also</p>\n\n<p>For example:&nbsp;used when giving an example of the type of thing you mean</p>\n\n<p>However:&nbsp;despite whatever amount or degree</p>\n\n<p>=&gt; \"However\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64c786cf42f5200632c8236b",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "(October 12) - Rapid Insurance, one of the nation's largest providers of homeowners insurance, has announced a change at the executive level. Lillian Howes has been selected by the Rapid Insurance board as the company's new CEO. She <strong>(13) ______</strong> James Loftin, who held the position for thirteen years.<br>\"Mr. Loftin will leave the company to work in the charity sector, and we wish him all the best in his (<strong>14)______</strong> endeavors,\" said Rapid Insurance spokesperson Anna Gilley. Investors are pleased with the change, as Ms. Howes is no stranger to Rapid Insurance's operations. \"Ms. Howes (<strong>15)______</strong> worked as the managing director of the company before becoming the chief operating officer three years ago,\" commented Ms. Gilley.”<strong>(16)______</strong>”",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "64c786cf42f5200632c82374",
+          "questionNumber": 13,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "has been succeeded",
+              "raw": "(A) has been succeeded",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "succeeds",
+              "raw": "(B) succeeds",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "would have succeeded",
+              "raw": "(C) would have succeeded",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "was succeeding",
+              "raw": "(D) was succeeding",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>The passage talks about action in the present</p>\n\n<p><strong>=&gt; B is correct</strong></p>\n",
+          "explanationViHtml": "<p>Các hành động diễn ra ở hiện tại, diển tả sự việc thực tế =&gt;&nbsp; chia thì hiện tại đơn</p>\n<p><strong>=&gt; Chọn B</strong></p>\n<p><strong>Tạm dịch:</strong> Cô kế nhiệm James Loftin, người đã giữ chức vụ này trong mười ba năm.</p>",
+          "transcriptHtml": "<p>The passage talks about action in the present</p>\n\n<p><strong>=&gt; B is correct</strong></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c82375",
+          "questionNumber": 14,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "constant",
+              "raw": "(A) constant",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "accurate",
+              "raw": "(B) accurate",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "future",
+              "raw": "(C) future",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "distant",
+              "raw": "(D) distant",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>constant:&nbsp;happening a lot or all the time</p>\n\n<p>accurate:&nbsp;correct, exact, and without any mistakes</p>\n\n<p>future:&nbsp;happening or existing in the future</p>\n\n<p>distant:&nbsp;far away</p>\n\n<p>=&gt; \"future\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n",
+          "explanationViHtml": "<p>constant (adj): liên tục</p>\n<p>accurate&nbsp;(adj): chính xác</p>\n<p>future&nbsp;(adj): trong tương lai</p>\n<p>distant&nbsp;(adj): xa</p>\n<p><strong>Tạm dịch:</strong> Người phát ngôn của Rapid Insurance, Anna Gilley, cho biết: “Ông Loftin sẽ rời công ty để làm việc trong lĩnh vực từ thiện và chúng tôi chúc ông mọi điều tốt đẹp nhất trong những nỗ lực trong tương lai”.</p>\n<p><strong>=&gt; Chọn C</strong></p>",
+          "transcriptHtml": "<p>constant:&nbsp;happening a lot or all the time</p>\n\n<p>accurate:&nbsp;correct, exact, and without any mistakes</p>\n\n<p>future:&nbsp;happening or existing in the future</p>\n\n<p>distant:&nbsp;far away</p>\n\n<p>=&gt; \"future\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c82376",
+          "questionNumber": 15,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "authentically",
+              "raw": "(A) authentically",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "suddenly",
+              "raw": "(B) suddenly",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "regrettably",
+              "raw": "(C) regrettably",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "previously",
+              "raw": "(D) previously",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>authentically:&nbsp;in a way that accurately represents how something really is</p>\n\n<p>suddenly:&nbsp;quickly and unexpectedly</p>\n\n<p>regrettably:&nbsp;in a way that makes you feel sad and sorry about something</p>\n\n<p>previously:&nbsp;before the present time or the time referred to</p>\n\n<p>=&gt; \"previously\" has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n",
+          "explanationViHtml": "<p>authentically (adv): đáng tin</p>\n<p>suddenly (adv): đột nhiên</p>\n<p>regrettably (adv): đáng tiếc</p>\n<p>previously (adv): trước đây</p>\n<p>Dựa vào nghĩa của các từ&nbsp;<strong>=&gt; Chọn D</strong></p>\n<p><strong>Tạm dịch:&nbsp;</strong>Bà Gilley nhận xét: “Bà Howes trước đây từng giữ chức vụ giám đốc điều hành của công ty trước khi trở thành giám đốc điều hành ba năm trước”</p>",
+          "transcriptHtml": "<p>authentically:&nbsp;in a way that accurately represents how something really is</p>\n\n<p>suddenly:&nbsp;quickly and unexpectedly</p>\n\n<p>regrettably:&nbsp;in a way that makes you feel sad and sorry about something</p>\n\n<p>previously:&nbsp;before the present time or the time referred to</p>\n\n<p>=&gt; \"previously\" has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n"
+        },
+        {
+          "id": "64c786cf42f5200632c82377",
+          "questionNumber": 16,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "We plan to look into the matter carefully.",
+              "raw": "(A) We plan to look into the matter carefully.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "We believe the transition will be a smooth one.",
+              "raw": "(B) We believe the transition will be a smooth one.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "The new insurance package has become popular.",
+              "raw": "(C) The new insurance package has become popular.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The board will make the final decision so",
+              "raw": "(D) The board will make the final decision so",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p><strong>B is correct</strong> because it fits the context which talks about the event that&nbsp;Ms. Howes becomes the company's new CEO.&nbsp;</p>\n",
+          "explanationViHtml": "<p><strong>B đ&uacute;ng</strong> v&igrave; n&oacute; ph&ugrave; hợp với bối cảnh n&oacute;i về sự kiện b&agrave; Howes trở th&agrave;nh CEO mới của c&ocirc;ng ty.</p>\n",
+          "transcriptHtml": "<p><strong>B is correct</strong> because it fits the context which talks about the event that&nbsp;Ms. Howes becomes the company's new CEO.&nbsp;</p>\n"
+        }
+      ]
+    }
+  ]
+}

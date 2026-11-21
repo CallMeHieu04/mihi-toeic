@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b12e",
+  "title": "Từ vựng: Marketing",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d5",
+        "questionNumber": 1,
+        "questionText": "attract",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev013.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/attract.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to draw by appeal",
+            "raw": "to draw by appeal",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The display <strong>attracted </strong>a number of people at the convention.</p>\n",
+        "explanationViHtml": "<p>M&agrave;n tr&igrave;nh diễn đ&atilde; <strong>thu h&uacute;t</strong> rất nhiều người đến tham dự hội nghị.</p>\n",
+        "transcriptHtml": "<p>The display <strong>attracted </strong>a number of people at the convention.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d6",
+        "questionNumber": 2,
+        "questionText": "compare",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev014.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/compare.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to examine similarities and differences",
+            "raw": "to examine similarities and differences",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Once the customer <strong>compared </strong>the two products, her choice was easy.</p>\n",
+        "explanationViHtml": "<p>Sau khi<strong> so s&aacute;nh</strong> hai sản phẩm, kh&aacute;ch h&agrave;ng đ&atilde; dễ d&agrave;ng đưa ra lựa chọn.</p>\n",
+        "transcriptHtml": "<p>Once the customer <strong>compared </strong>the two products, her choice was easy.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d7",
+        "questionNumber": 3,
+        "questionText": "competition",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev015.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/competition.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "contest or struggle",
+            "raw": "a contest or struggle",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We are&nbsp;in <strong>competition </strong>with&nbsp;four other companies for the contract.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i đang <strong>cạnh tranh</strong> với bốn c&ocirc;ng ty kh&aacute;c để gi&agrave;nh được hợp đồng n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>We are&nbsp;in <strong>competition </strong>with&nbsp;four other companies for the contract.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d8",
+        "questionNumber": 4,
+        "questionText": "consume",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev016.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/consume.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to absorb; to use up",
+            "raw": "to absorb; to use up",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The business plans <strong>consumed</strong> all of Fritz&rsquo;s attention this fall.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c kế hoạch kinh doanh đ&atilde; <strong>chiếm</strong> hết sự ch&uacute; &yacute; của Fritz v&agrave;o m&ugrave;a thu năm nay.</p>\n",
+        "transcriptHtml": "<p>The business plans <strong>consumed</strong> all of Fritz&rsquo;s attention this fall.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d9",
+        "questionNumber": 5,
+        "questionText": "convince",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev017.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/convince.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to bring to believe by argument; to persuade",
+            "raw": "to bring to believe by argument; to persuade",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The salesman <strong>convinced </strong>his customer to buy his entire inventory of pens.</p>\n",
+        "explanationViHtml": "<p>Người b&aacute;n h&agrave;ng đ&atilde; <strong>thuyết phục</strong> kh&aacute;ch h&agrave;ng mua to&agrave;n bộ số b&uacute;t c&ograve;n trong kho của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>The salesman <strong>convinced </strong>his customer to buy his entire inventory of pens.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1da",
+        "questionNumber": 6,
+        "questionText": "currently",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev018.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/currently.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "happening at the present time; now",
+            "raw": "happening at the present time; now",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p><strong>Currently</strong>, over 500 students are enrolled on the course.</p>\n",
+        "explanationViHtml": "<p><strong>Hiện nay</strong>, c&oacute; hơn 500 sinh vi&ecirc;n đang theo học kh&oacute;a học n&agrave;y.</p>\n",
+        "transcriptHtml": "<p><strong>Currently</strong>, over 500 students are enrolled on the course.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1db",
+        "questionNumber": 7,
+        "questionText": "fad",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev019.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fad.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "practice followed enthusiastically for a short time; a craze",
+            "raw": "a practice followed enthusiastically for a short time; a craze",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The mini dress was a <strong>fad </strong>once thought to be finished, but now it is making a comeback.</p>\n",
+        "explanationViHtml": "<p>V&aacute;y ngắn từng l&agrave; <strong>mốt thời thượng</strong> tưởng chừng đ&atilde; lỗi thời, nhưng giờ đ&acirc;y n&oacute; lại đang quay trở lại.</p>\n",
+        "transcriptHtml": "<p>The mini dress was a <strong>fad </strong>once thought to be finished, but now it is making a comeback.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1dc",
+        "questionNumber": 8,
+        "questionText": "inspiration",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev020.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/inspiration.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "thing or person that arouses a feeling",
+            "raw": "A thing or person that arouses a feeling",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Dreams can be a rich source of <strong>inspiration </strong>for an artist.</p>\n",
+        "explanationViHtml": "<p>Giấc mơ c&oacute; thể l&agrave; <strong>nguồn cảm hứng</strong> dồi d&agrave;o cho nghệ sĩ.</p>\n",
+        "transcriptHtml": "<p>Dreams can be a rich source of <strong>inspiration </strong>for an artist.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1dd",
+        "questionNumber": 9,
+        "questionText": "market",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev021.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/market.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the course of buying and selling a product; the demand for a product",
+            "raw": "the course of buying and selling a product; the demand for a product",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Are you sure there&#39;s a <strong>market </strong>for the product?</p>\n",
+        "explanationViHtml": "<p>Bạn c&oacute; chắc chắn l&agrave; c&oacute;<strong> thị trường</strong> cho sản phẩm n&agrave;y kh&ocirc;ng?</p>\n",
+        "transcriptHtml": "<p>Are you sure there&#39;s a <strong>market </strong>for the product?</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1de",
+        "questionNumber": 10,
+        "questionText": "persuasion",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev022.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/persuasion.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the power to influence; a deep conviction or belief",
+            "raw": "the power to influence; a deep conviction or belief",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The seminar teaches techniques of <strong>persuasion </strong>to increase sales.</p>\n",
+        "explanationViHtml": "<p>Hội thảo hướng dẫn c&aacute;c kỹ thuật<strong> thuyết phục</strong> để tăng doanh số.</p>\n",
+        "transcriptHtml": "<p>The seminar teaches techniques of <strong>persuasion </strong>to increase sales.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1df",
+        "questionNumber": 11,
+        "questionText": "productive",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev023.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/productive.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "onstructive; high yield",
+            "raw": "constructive; high yield",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>The un<strong>productive</strong> sales meeting brought many staff complaints.</p>\n",
+        "explanationViHtml": "<p>Cuộc họp b&aacute;n h&agrave;ng kh&ocirc;ng <strong>hiệu quả</strong> đ&atilde; g&acirc;y ra nhiều lời ph&agrave;n n&agrave;n của nh&acirc;n vi&ecirc;n.</p>\n",
+        "transcriptHtml": "<p>The un<strong>productive</strong> sales meeting brought many staff complaints.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e0",
+        "questionNumber": 12,
+        "questionText": "satisfaction",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev024.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/satisfaction.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "happiness",
+            "raw": "happiness",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>He&nbsp;had the <strong>satisfaction </strong>of&nbsp;seeing his book become a bestseller.</p>\n",
+        "explanationViHtml": "<p>&Ocirc;ng đ&atilde; c&oacute; được <strong>sự h&agrave;i l&ograve;ng</strong> khi thấy cuốn s&aacute;ch của m&igrave;nh trở th&agrave;nh s&aacute;ch b&aacute;n chạy nhất.</p>\n",
+        "transcriptHtml": "<p>He&nbsp;had the <strong>satisfaction </strong>of&nbsp;seeing his book become a bestseller.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b1d5",
+      "word": "attract",
+      "phonetic": "/əˈtrækt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev013.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/attract.mp3",
+      "meaningVi": "thu hút",
+      "meaningEn": "to draw by appeal",
+      "exampleEnHtml": "<p>The display <strong>attracted </strong>a number of people at the convention.</p>\n",
+      "exampleViHtml": "<p>M&agrave;n tr&igrave;nh diễn đ&atilde; <strong>thu h&uacute;t</strong> rất nhiều người đến tham dự hội nghị.</p>\n",
+      "exampleEn": "The display attracted a number of people at the convention.",
+      "exampleVi": "Màn trình diễn đã thu hút rất nhiều người đến tham dự hội nghị."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d6",
+      "word": "compare",
+      "phonetic": "/kəmˈper/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev014.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/compare.mp3",
+      "meaningVi": "so sánh",
+      "meaningEn": "to examine similarities and differences",
+      "exampleEnHtml": "<p>Once the customer <strong>compared </strong>the two products, her choice was easy.</p>\n",
+      "exampleViHtml": "<p>Sau khi<strong> so s&aacute;nh</strong> hai sản phẩm, kh&aacute;ch h&agrave;ng đ&atilde; dễ d&agrave;ng đưa ra lựa chọn.</p>\n",
+      "exampleEn": "Once the customer compared the two products, her choice was easy.",
+      "exampleVi": "Sau khi so sánh hai sản phẩm, khách hàng đã dễ dàng đưa ra lựa chọn."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d7",
+      "word": "competition",
+      "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev015.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/competition.mp3",
+      "meaningVi": "cạnh tranh",
+      "meaningEn": "a contest or struggle",
+      "exampleEnHtml": "<p>We are&nbsp;in <strong>competition </strong>with&nbsp;four other companies for the contract.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i đang <strong>cạnh tranh</strong> với bốn c&ocirc;ng ty kh&aacute;c để gi&agrave;nh được hợp đồng n&agrave;y.</p>\n",
+      "exampleEn": "We are in competition with four other companies for the contract.",
+      "exampleVi": "Chúng tôi đang cạnh tranh với bốn công ty khác để giành được hợp đồng này."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d8",
+      "word": "consume",
+      "phonetic": "/kənˈsuːm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev016.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/consume.mp3",
+      "meaningVi": "chiếm",
+      "meaningEn": "to absorb; to use up",
+      "exampleEnHtml": "<p>The business plans <strong>consumed</strong> all of Fritz&rsquo;s attention this fall.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c kế hoạch kinh doanh đ&atilde; <strong>chiếm</strong> hết sự ch&uacute; &yacute; của Fritz v&agrave;o m&ugrave;a thu năm nay.</p>\n",
+      "exampleEn": "The business plans consumed all of Fritz’s attention this fall.",
+      "exampleVi": "Các kế hoạch kinh doanh đã chiếm hết sự chú ý của Fritz vào mùa thu năm nay."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d9",
+      "word": "convince",
+      "phonetic": "/kənˈvɪns/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev017.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/convince.mp3",
+      "meaningVi": "thuyết phục",
+      "meaningEn": "to bring to believe by argument; to persuade",
+      "exampleEnHtml": "<p>The salesman <strong>convinced </strong>his customer to buy his entire inventory of pens.</p>\n",
+      "exampleViHtml": "<p>Người b&aacute;n h&agrave;ng đ&atilde; <strong>thuyết phục</strong> kh&aacute;ch h&agrave;ng mua to&agrave;n bộ số b&uacute;t c&ograve;n trong kho của m&igrave;nh.</p>\n",
+      "exampleEn": "The salesman convinced his customer to buy his entire inventory of pens.",
+      "exampleVi": "Người bán hàng đã thuyết phục khách hàng mua toàn bộ số bút còn trong kho của mình."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1da",
+      "word": "currently",
+      "phonetic": "/ˈkɜːrəntli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev018.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/currently.mp3",
+      "meaningVi": "Hiện nay",
+      "meaningEn": "happening at the present time; now",
+      "exampleEnHtml": "<p><strong>Currently</strong>, over 500 students are enrolled on the course.</p>\n",
+      "exampleViHtml": "<p><strong>Hiện nay</strong>, c&oacute; hơn 500 sinh vi&ecirc;n đang theo học kh&oacute;a học n&agrave;y.</p>\n",
+      "exampleEn": "Currently, over 500 students are enrolled on the course.",
+      "exampleVi": "Hiện nay, có hơn 500 sinh viên đang theo học khóa học này."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1db",
+      "word": "fad",
+      "phonetic": "/fæd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev019.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fad.mp3",
+      "meaningVi": "mốt thời thượng",
+      "meaningEn": "a practice followed enthusiastically for a short time; a craze",
+      "exampleEnHtml": "<p>The mini dress was a <strong>fad </strong>once thought to be finished, but now it is making a comeback.</p>\n",
+      "exampleViHtml": "<p>V&aacute;y ngắn từng l&agrave; <strong>mốt thời thượng</strong> tưởng chừng đ&atilde; lỗi thời, nhưng giờ đ&acirc;y n&oacute; lại đang quay trở lại.</p>\n",
+      "exampleEn": "The mini dress was a fad once thought to be finished, but now it is making a comeback.",
+      "exampleVi": "Váy ngắn từng là mốt thời thượng tưởng chừng đã lỗi thời, nhưng giờ đây nó lại đang quay trở lại."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1dc",
+      "word": "inspiration",
+      "phonetic": "/ˌɪnspəˈreɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev020.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/inspiration.mp3",
+      "meaningVi": "nguồn cảm hứng",
+      "meaningEn": "A thing or person that arouses a feeling",
+      "exampleEnHtml": "<p>Dreams can be a rich source of <strong>inspiration </strong>for an artist.</p>\n",
+      "exampleViHtml": "<p>Giấc mơ c&oacute; thể l&agrave; <strong>nguồn cảm hứng</strong> dồi d&agrave;o cho nghệ sĩ.</p>\n",
+      "exampleEn": "Dreams can be a rich source of inspiration for an artist.",
+      "exampleVi": "Giấc mơ có thể là nguồn cảm hứng dồi dào cho nghệ sĩ."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1dd",
+      "word": "market",
+      "phonetic": "/ˈmɑːrkɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev021.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/market.mp3",
+      "meaningVi": "thị trường",
+      "meaningEn": "the course of buying and selling a product; the demand for a product",
+      "exampleEnHtml": "<p>Are you sure there&#39;s a <strong>market </strong>for the product?</p>\n",
+      "exampleViHtml": "<p>Bạn c&oacute; chắc chắn l&agrave; c&oacute;<strong> thị trường</strong> cho sản phẩm n&agrave;y kh&ocirc;ng?</p>\n",
+      "exampleEn": "Are you sure there's a market for the product?",
+      "exampleVi": "Bạn có chắc chắn là có thị trường cho sản phẩm này không?"
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1de",
+      "word": "persuasion",
+      "phonetic": "/pərˈsweɪʒn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev022.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/persuasion.mp3",
+      "meaningVi": "thuyết phục",
+      "meaningEn": "the power to influence; a deep conviction or belief",
+      "exampleEnHtml": "<p>The seminar teaches techniques of <strong>persuasion </strong>to increase sales.</p>\n",
+      "exampleViHtml": "<p>Hội thảo hướng dẫn c&aacute;c kỹ thuật<strong> thuyết phục</strong> để tăng doanh số.</p>\n",
+      "exampleEn": "The seminar teaches techniques of persuasion to increase sales.",
+      "exampleVi": "Hội thảo hướng dẫn các kỹ thuật thuyết phục để tăng doanh số."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1df",
+      "word": "productive",
+      "phonetic": "/prəˈdʌktɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev023.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/productive.mp3",
+      "meaningVi": "hiệu quả",
+      "meaningEn": "constructive; high yield",
+      "exampleEnHtml": "<p>The un<strong>productive</strong> sales meeting brought many staff complaints.</p>\n",
+      "exampleViHtml": "<p>Cuộc họp b&aacute;n h&agrave;ng kh&ocirc;ng <strong>hiệu quả</strong> đ&atilde; g&acirc;y ra nhiều lời ph&agrave;n n&agrave;n của nh&acirc;n vi&ecirc;n.</p>\n",
+      "exampleEn": "The unproductive sales meeting brought many staff complaints.",
+      "exampleVi": "Cuộc họp bán hàng không hiệu quả đã gây ra nhiều lời phàn nàn của nhân viên."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e0",
+      "word": "satisfaction",
+      "phonetic": "/ˌsætɪsˈfækʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev024.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/satisfaction.mp3",
+      "meaningVi": "sự hài lòng",
+      "meaningEn": "happiness",
+      "exampleEnHtml": "<p>He&nbsp;had the <strong>satisfaction </strong>of&nbsp;seeing his book become a bestseller.</p>\n",
+      "exampleViHtml": "<p>&Ocirc;ng đ&atilde; c&oacute; được <strong>sự h&agrave;i l&ograve;ng</strong> khi thấy cuốn s&aacute;ch của m&igrave;nh trở th&agrave;nh s&aacute;ch b&aacute;n chạy nhất.</p>\n",
+      "exampleEn": "He had the satisfaction of seeing his book become a bestseller.",
+      "exampleVi": "Ông đã có được sự hài lòng khi thấy cuốn sách của mình trở thành sách bán chạy nhất."
+    }
+  ],
+  "totalFlashcards": 12
+}

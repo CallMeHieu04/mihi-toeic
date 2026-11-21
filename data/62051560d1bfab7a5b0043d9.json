@@ -1,0 +1,768 @@
+{
+  "topicId": "62051560d1bfab7a5b0043d9",
+  "title": "FUTURE PERFECT TENSE - Practice 5",
+  "totalCards": 19,
+  "totalQuestions": 19,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00635d",
+        "questionNumber": 1,
+        "questionText": "By this time next month, I hope they ______building the community center.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is finishing",
+            "raw": "A. is finishing ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will have finished",
+            "raw": "B. will have finished",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will finish",
+            "raw": "C. will finish ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "won’t have finished",
+            "raw": "D. won’t have finished ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate an action that will be completed before a specific time in the future. The phrase 'By this time next month' signals the use of the future perfect tense (will have + past participle), which is used to talk about something that will be finished before a certain point in the future.<br><ul><li><b>is finishing</b> (verb (present continuous)): Present continuous tense, used for actions happening now or around now, not suitable for an action completed before a future time.</li><li><b>will have finished</b> (verb (future perfect)): Future perfect tense, used to describe an action that will be completed before a specific time in the future.</li><li><b>will finish</b> (verb (simple future)): Simple future tense, used for actions that will happen in the future, but does not emphasize completion before a specific time.</li><li><b>won’t have finished</b> (verb (future perfect negative)): Negative form of the future perfect tense, used to indicate something will not be completed before a specific time in the future.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to express that something will be completed before a certain time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì động từ phù hợp để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Cụm từ 'By this time next month' (Vào thời điểm này tháng sau) là dấu hiệu nhận biết thì tương lai hoàn thành (will have + quá khứ phân từ), dùng để nói về một việc sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><ul><li><b>is finishing</b> (động từ (hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, dùng cho hành động đang diễn ra ở hiện tại hoặc xung quanh hiện tại, không phù hợp để diễn tả hành động hoàn thành trước một thời điểm trong tương lai.</li><li><b>will have finished</b> (động từ (tương lai hoàn thành)): Thì tương lai hoàn thành, dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.</li><li><b>will finish</b> (động từ (tương lai đơn)): Thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai, nhưng không nhấn mạnh việc hoàn thành trước một thời điểm xác định.</li><li><b>won’t have finished</b> (động từ (tương lai hoàn thành phủ định)): Dạng phủ định của thì tương lai hoàn thành, dùng để diễn tả một việc sẽ chưa hoàn thành trước một thời điểm xác định trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> By this time next month, I hope they will have finished building the community center. --> Vào thời điểm này tháng sau, tôi hy vọng họ sẽ hoàn thành việc xây dựng trung tâm cộng đồng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate an action that will be completed before a specific time in the future. The phrase 'By this time next month' signals the use of the future perfect tense (will have + past participle), which is used to talk about something that will be finished before a certain point in the future.<br><ul><li><b>is finishing</b> (verb (present continuous)): Present continuous tense, used for actions happening now or around now, not suitable for an action completed before a future time.</li><li><b>will have finished</b> (verb (future perfect)): Future perfect tense, used to describe an action that will be completed before a specific time in the future.</li><li><b>will finish</b> (verb (simple future)): Simple future tense, used for actions that will happen in the future, but does not emphasize completion before a specific time.</li><li><b>won’t have finished</b> (verb (future perfect negative)): Negative form of the future perfect tense, used to indicate something will not be completed before a specific time in the future.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to express that something will be completed before a certain time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00635e",
+        "questionNumber": 2,
+        "questionText": "By this time tomorrow night, we ______ in Australia.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be arrive",
+            "raw": "A. will be arrive ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "won’t have arrived",
+            "raw": "B. won’t have arrived ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have arrived",
+            "raw": "C. will have arrived",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "won’t arrive",
+            "raw": "D. won’t arrive ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'By this time tomorrow night, we ______ in Australia.' refers to an action that will be completed before a specific time in the future. In English, we use the future perfect tense (will have + past participle) to describe actions that will be finished before a certain future time.<br><ul><li><b>will be arrive</b> (Verb phrase): 'Will be arrive' is incorrect because after 'will be', we need a present participle (V-ing) for the future continuous tense, or 'will have' + past participle for the future perfect. 'Arrive' is the base form, so this is grammatically incorrect.</li><li><b>won’t have arrived</b> (Verb phrase): 'Won’t have arrived' is the negative form of the future perfect tense. It means the action will not be completed by the specified future time. However, the sentence does not indicate a negative meaning.</li><li><b>will have arrived</b> (Verb phrase): 'Will have arrived' is the correct form of the future perfect tense, indicating that the action (arriving in Australia) will be completed before 'this time tomorrow night'.</li><li><b>won’t arrive</b> (Verb phrase): 'Won’t arrive' is the negative form of the simple future tense. It means the action will not happen, but the sentence requires a completed action by a future time, not a negative statement.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle is used to describe an action that will be completed before a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'By this time tomorrow night, we ______ in Australia.' nói về một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Trong tiếng Anh, chúng ta sử dụng thì tương lai hoàn thành (will have + quá khứ phân từ) để diễn tả hành động sẽ hoàn thành trước một thời điểm nhất định trong tương lai.<br><ul><li><b>will be arrive</b> (Cụm động từ): 'Will be arrive' là sai ngữ pháp vì sau 'will be' cần dùng động từ dạng V-ing (thì tương lai tiếp diễn), hoặc 'will have' + quá khứ phân từ cho thì tương lai hoàn thành. 'Arrive' là động từ nguyên mẫu nên không đúng.</li><li><b>won’t have arrived</b> (Cụm động từ): 'Won’t have arrived' là dạng phủ định của thì tương lai hoàn thành, nghĩa là hành động sẽ chưa hoàn thành vào thời điểm xác định trong tương lai. Tuy nhiên, câu này không mang nghĩa phủ định.</li><li><b>will have arrived</b> (Cụm động từ): 'Will have arrived' là dạng đúng của thì tương lai hoàn thành, diễn tả hành động (đến Úc) sẽ hoàn thành trước 'thời điểm này vào tối mai'.</li><li><b>won’t arrive</b> (Cụm động từ): 'Won’t arrive' là dạng phủ định của thì tương lai đơn, nghĩa là hành động sẽ không xảy ra. Tuy nhiên, câu này yêu cầu diễn tả hành động đã hoàn thành vào một thời điểm trong tương lai, không phải phủ định.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ, dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Vào thời điểm này tối mai, chúng tôi sẽ đã đến Úc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'By this time tomorrow night, we ______ in Australia.' refers to an action that will be completed before a specific time in the future. In English, we use the future perfect tense (will have + past participle) to describe actions that will be finished before a certain future time.<br><ul><li><b>will be arrive</b> (Verb phrase): 'Will be arrive' is incorrect because after 'will be', we need a present participle (V-ing) for the future continuous tense, or 'will have' + past participle for the future perfect. 'Arrive' is the base form, so this is grammatically incorrect.</li><li><b>won’t have arrived</b> (Verb phrase): 'Won’t have arrived' is the negative form of the future perfect tense. It means the action will not be completed by the specified future time. However, the sentence does not indicate a negative meaning.</li><li><b>will have arrived</b> (Verb phrase): 'Will have arrived' is the correct form of the future perfect tense, indicating that the action (arriving in Australia) will be completed before 'this time tomorrow night'.</li><li><b>won’t arrive</b> (Verb phrase): 'Won’t arrive' is the negative form of the simple future tense. It means the action will not happen, but the sentence requires a completed action by a future time, not a negative statement.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle is used to describe an action that will be completed before a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00635f",
+        "questionNumber": 3,
+        "questionText": "The team _______ at the exhibition for five hours by the time I arrive there.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be working",
+            "raw": "A. will be working ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will work",
+            "raw": "B. will work ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have worked",
+            "raw": "C. will have worked",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "won’t have",
+            "raw": "D. won’t have ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct future perfect tense to indicate an action that will be completed before a specific time in the future. The phrase 'by the time I arrive there' signals that the action (the team working at the exhibition) will already have been happening for a certain period before another future event (my arrival). The correct tense to use is 'will have worked', which expresses that the team will have completed five hours of work by the time I arrive.<br><ul><li><b>will be working</b> (verb phrase (future continuous)): Future continuous tense, used to describe an action that will be ongoing at a specific time in the future. Not suitable here because the sentence emphasizes the completion of five hours, not the ongoing action.</li><li><b>will work</b> (verb phrase (simple future)): Simple future tense, used for actions that will happen in the future. Not suitable because it does not express the idea of completion before another future event.</li><li><b>will have worked</b> (verb phrase (future perfect)): Future perfect tense, used to indicate that an action will be completed before a specific time in the future. This fits the context of the sentence.</li><li><b>won’t have</b> (verb phrase (incomplete negative future perfect)): Negative form of the future perfect, but incomplete as it lacks the main verb. Grammatically incorrect in this context.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: S + will have + past participle (V3) + (by/before) + time in the future. Used to show that something will be finished before a certain time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì tương lai hoàn thành để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Cụm từ 'by the time I arrive there' (vào lúc tôi đến đó) cho thấy hành động (đội làm việc tại triển lãm) sẽ đã diễn ra được 5 tiếng trước khi một sự kiện tương lai khác xảy ra (tôi đến). Thì phù hợp nhất là 'will have worked', diễn tả đội sẽ đã làm việc được 5 tiếng khi tôi đến.<br><ul><li><b>will be working</b> (cụm động từ (thì tương lai tiếp diễn)): Thì tương lai tiếp diễn, dùng để diễn tả hành động đang diễn ra tại một thời điểm xác định trong tương lai. Không phù hợp vì câu nhấn mạnh sự hoàn thành 5 tiếng làm việc, không phải hành động đang diễn ra.</li><li><b>will work</b> (cụm động từ (thì tương lai đơn)): Thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai. Không phù hợp vì không diễn tả ý hoàn thành trước một sự kiện tương lai khác.</li><li><b>will have worked</b> (cụm động từ (thì tương lai hoàn thành)): Thì tương lai hoàn thành, dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Đây là đáp án phù hợp nhất.</li><li><b>won’t have</b> (cụm động từ (thì tương lai hoàn thành phủ định, không đầy đủ)): Dạng phủ định của thì tương lai hoàn thành nhưng thiếu động từ chính, không đầy đủ về mặt ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: S + will have + V3 (quá khứ phân từ) + (by/before) + thời điểm trong tương lai. Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Đội sẽ đã làm việc tại triển lãm được 5 tiếng vào lúc tôi đến đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct future perfect tense to indicate an action that will be completed before a specific time in the future. The phrase 'by the time I arrive there' signals that the action (the team working at the exhibition) will already have been happening for a certain period before another future event (my arrival). The correct tense to use is 'will have worked', which expresses that the team will have completed five hours of work by the time I arrive.<br><ul><li><b>will be working</b> (verb phrase (future continuous)): Future continuous tense, used to describe an action that will be ongoing at a specific time in the future. Not suitable here because the sentence emphasizes the completion of five hours, not the ongoing action.</li><li><b>will work</b> (verb phrase (simple future)): Simple future tense, used for actions that will happen in the future. Not suitable because it does not express the idea of completion before another future event.</li><li><b>will have worked</b> (verb phrase (future perfect)): Future perfect tense, used to indicate that an action will be completed before a specific time in the future. This fits the context of the sentence.</li><li><b>won’t have</b> (verb phrase (incomplete negative future perfect)): Negative form of the future perfect, but incomplete as it lacks the main verb. Grammatically incorrect in this context.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: S + will have + past participle (V3) + (by/before) + time in the future. Used to show that something will be finished before a certain time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006360",
+        "questionNumber": 4,
+        "questionText": "By the time we get on the plane, they ________already _________ the luggage.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "won’t have loaded",
+            "raw": "A. won’t have loaded ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will have already loaded",
+            "raw": "B. will have already loaded",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will already have loaded",
+            "raw": "C. will already have loaded ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "won’t have already loaded",
+            "raw": "D. won’t have already loaded ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'By the time we get on the plane, they ________already _________ the luggage.' requires the use of the future perfect tense. This tense is used to describe an action that will be completed before a specific point in the future. The structure of the future perfect tense is: will + have + past participle. The adverb 'already' is often placed between 'will' and 'have', or between 'have' and the past participle. Both positions are grammatically correct, but 'will already have loaded' is more commonly used in formal English.<br><ul><li><b>won’t have loaded</b> (verb phrase): Negative form of the future perfect tense, meaning the action will not be completed by a certain time.</li><li><b>will have already loaded</b> (verb phrase): Affirmative form of the future perfect tense with 'already' placed after 'have'.</li><li><b>will already have loaded</b> (verb phrase): Affirmative form of the future perfect tense with 'already' placed after 'will'. This is the most natural and commonly used word order.</li><li><b>won’t have already loaded</b> (verb phrase): Negative form of the future perfect tense with 'already' placed after 'have'.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will + have + past participle. Usage of 'already' in future perfect sentences.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'By the time we get on the plane, they ________already _________ the luggage.' yêu cầu sử dụng thì tương lai hoàn thành (future perfect). Thì này dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Cấu trúc của thì tương lai hoàn thành là: will + have + quá khứ phân từ (past participle). Trạng từ 'already' thường được đặt giữa 'will' và 'have', hoặc giữa 'have' và động từ phân từ. Cả hai vị trí đều đúng ngữ pháp, nhưng 'will already have loaded' là cách dùng phổ biến và tự nhiên hơn trong tiếng Anh.<br><ul><li><b>won’t have loaded</b> (cụm động từ): Dạng phủ định của thì tương lai hoàn thành, nghĩa là hành động sẽ chưa hoàn thành vào thời điểm xác định.</li><li><b>will have already loaded</b> (cụm động từ): Dạng khẳng định của thì tương lai hoàn thành, với 'already' đặt sau 'have'.</li><li><b>will already have loaded</b> (cụm động từ): Dạng khẳng định của thì tương lai hoàn thành, với 'already' đặt sau 'will'. Đây là trật tự từ phổ biến và tự nhiên nhất.</li><li><b>won’t have already loaded</b> (cụm động từ): Dạng phủ định của thì tương lai hoàn thành, với 'already' đặt sau 'have'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will + have + quá khứ phân từ. Cách dùng 'already' trong câu thì tương lai hoàn thành.<br><br><b>Tạm dịch:</b> Đến khi chúng ta lên máy bay, họ sẽ đã chất xong hành lý rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'By the time we get on the plane, they ________already _________ the luggage.' requires the use of the future perfect tense. This tense is used to describe an action that will be completed before a specific point in the future. The structure of the future perfect tense is: will + have + past participle. The adverb 'already' is often placed between 'will' and 'have', or between 'have' and the past participle. Both positions are grammatically correct, but 'will already have loaded' is more commonly used in formal English.<br><ul><li><b>won’t have loaded</b> (verb phrase): Negative form of the future perfect tense, meaning the action will not be completed by a certain time.</li><li><b>will have already loaded</b> (verb phrase): Affirmative form of the future perfect tense with 'already' placed after 'have'.</li><li><b>will already have loaded</b> (verb phrase): Affirmative form of the future perfect tense with 'already' placed after 'will'. This is the most natural and commonly used word order.</li><li><b>won’t have already loaded</b> (verb phrase): Negative form of the future perfect tense with 'already' placed after 'have'.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will + have + past participle. Usage of 'already' in future perfect sentences.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006361",
+        "questionNumber": 5,
+        "questionText": "In June next year, my parents ______ (be married) for 50 years.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will been married",
+            "raw": "A. will been married",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will have be married",
+            "raw": "B. will have be married",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have married",
+            "raw": "C. will have married",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have been married",
+            "raw": "D. will have been married",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct tense to express an action that will have been happening for a duration of time by a specific point in the future. This is the 'future perfect continuous' tense, which is formed as: will have been + V-ing (for actions), or 'will have been' + past participle (for states like 'be married'). In this sentence, 'be married' is a state, so we use 'will have been married'.<br><ul><li><b>will been married</b> (verb phrase): Incorrect. This is not a correct tense structure in English. 'Will' must be followed by the base form of the verb.</li><li><b>will have be married</b> (verb phrase): Incorrect. After 'will have', we need the past participle, not the base form 'be'.</li><li><b>will have married</b> (verb phrase): Incorrect. 'Will have married' means the action of getting married will be completed, not the state of being married for a period of time.</li><li><b>will have been married</b> (verb phrase): Correct. This is the future perfect tense in the passive form, used to show the duration of a state up to a point in the future.</li></ul><b>Related structure or vocabulary:</b> Future Perfect (Passive): will have been + past participle. Used to express that something will have happened or been true for a period of time by a certain point in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì đúng để diễn tả một hành động hoặc trạng thái đã xảy ra và kéo dài đến một thời điểm xác định trong tương lai. Đây là thì 'tương lai hoàn thành tiếp diễn' hoặc 'tương lai hoàn thành bị động' với các trạng thái như 'be married'. Cấu trúc đúng là: will have been + past participle (đối với trạng thái). Trong câu này, 'be married' là trạng thái, nên dùng 'will have been married'.<br><ul><li><b>will been married</b> (cụm động từ): Sai. Đây không phải là cấu trúc đúng trong tiếng Anh. Sau 'will' phải là động từ nguyên thể.</li><li><b>will have be married</b> (cụm động từ): Sai. Sau 'will have' phải là động từ phân từ II (past participle), không phải động từ nguyên thể 'be'.</li><li><b>will have married</b> (cụm động từ): Sai. 'Will have married' nghĩa là hành động kết hôn sẽ hoàn thành, không phải trạng thái đã kết hôn trong một khoảng thời gian.</li><li><b>will have been married</b> (cụm động từ): Đúng. Đây là thì tương lai hoàn thành ở thể bị động, dùng để diễn tả trạng thái kéo dài đến một thời điểm trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Tương lai hoàn thành (bị động): will have been + phân từ II. Dùng để diễn tả một hành động/trạng thái đã xảy ra và kéo dài đến một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Vào tháng Sáu năm sau, bố mẹ tôi sẽ kết hôn được 50 năm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct tense to express an action that will have been happening for a duration of time by a specific point in the future. This is the 'future perfect continuous' tense, which is formed as: will have been + V-ing (for actions), or 'will have been' + past participle (for states like 'be married'). In this sentence, 'be married' is a state, so we use 'will have been married'.<br><ul><li><b>will been married</b> (verb phrase): Incorrect. This is not a correct tense structure in English. 'Will' must be followed by the base form of the verb.</li><li><b>will have be married</b> (verb phrase): Incorrect. After 'will have', we need the past participle, not the base form 'be'.</li><li><b>will have married</b> (verb phrase): Incorrect. 'Will have married' means the action of getting married will be completed, not the state of being married for a period of time.</li><li><b>will have been married</b> (verb phrase): Correct. This is the future perfect tense in the passive form, used to show the duration of a state up to a point in the future.</li></ul><b>Related structure or vocabulary:</b> Future Perfect (Passive): will have been + past participle. Used to express that something will have happened or been true for a period of time by a certain point in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006362",
+        "questionNumber": 6,
+        "questionText": "I thought I ___________ (forget) you by then.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will have forgotten",
+            "raw": "A. will have forgotten",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will have been forget",
+            "raw": "B. will have been forget",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have forget",
+            "raw": "C. will have forget",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will been forgotten",
+            "raw": "D. will been forgotten",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I thought I ___________ (forget) you by then.' requires the correct tense and form of the verb 'forget' to indicate an action that would have been completed before a certain point in the future (by then). The correct tense for this situation is the future perfect tense: 'will have + past participle'.<br><ul><li><b>will have forgotten</b> (verb phrase (future perfect)): 'Will have forgotten' is the correct future perfect tense: 'will have' + past participle (forgotten). It means the action of forgetting will be completed before a specific time in the future.</li><li><b>will have been forget</b> (incorrect verb phrase): 'Will have been forget' is incorrect. 'Forget' is the base form, and this structure does not exist in English grammar.</li><li><b>will have forget</b> (incorrect verb phrase): 'Will have forget' is incorrect. After 'will have', we need the past participle 'forgotten', not the base form 'forget'.</li><li><b>will been forgotten</b> (incorrect verb phrase): 'Will been forgotten' is incorrect. The correct passive form would be 'will have been forgotten', but in this sentence, the subject is 'I', so the active form is needed.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle (used to describe an action that will be completed before a specific time in the future).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I thought I ___________ (forget) you by then.' cần điền đúng thì và dạng của động từ 'forget' để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai (by then). Thì phù hợp là thì tương lai hoàn thành: 'will have + quá khứ phân từ'.<br><ul><li><b>will have forgotten</b> (cụm động từ (thì tương lai hoàn thành)): 'Will have forgotten' là thì tương lai hoàn thành đúng: 'will have' + quá khứ phân từ (forgotten). Nghĩa là hành động quên sẽ hoàn thành trước một thời điểm trong tương lai.</li><li><b>will have been forget</b> (cụm động từ sai): 'Will have been forget' là sai. 'Forget' là dạng nguyên thể, cấu trúc này không tồn tại trong ngữ pháp tiếng Anh.</li><li><b>will have forget</b> (cụm động từ sai): 'Will have forget' là sai. Sau 'will have' phải dùng quá khứ phân từ 'forgotten', không dùng nguyên thể 'forget'.</li><li><b>will been forgotten</b> (cụm động từ sai): 'Will been forgotten' là sai. Dạng bị động đúng là 'will have been forgotten', nhưng trong câu này chủ ngữ là 'I' nên cần dùng dạng chủ động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ (dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai).<br><br><b>Tạm dịch:</b> Tôi nghĩ rằng tôi sẽ quên bạn vào lúc đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I thought I ___________ (forget) you by then.' requires the correct tense and form of the verb 'forget' to indicate an action that would have been completed before a certain point in the future (by then). The correct tense for this situation is the future perfect tense: 'will have + past participle'.<br><ul><li><b>will have forgotten</b> (verb phrase (future perfect)): 'Will have forgotten' is the correct future perfect tense: 'will have' + past participle (forgotten). It means the action of forgetting will be completed before a specific time in the future.</li><li><b>will have been forget</b> (incorrect verb phrase): 'Will have been forget' is incorrect. 'Forget' is the base form, and this structure does not exist in English grammar.</li><li><b>will have forget</b> (incorrect verb phrase): 'Will have forget' is incorrect. After 'will have', we need the past participle 'forgotten', not the base form 'forget'.</li><li><b>will been forgotten</b> (incorrect verb phrase): 'Will been forgotten' is incorrect. The correct passive form would be 'will have been forgotten', but in this sentence, the subject is 'I', so the active form is needed.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle (used to describe an action that will be completed before a specific time in the future).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006363",
+        "questionNumber": 7,
+        "questionText": "I ___________ (work) by June this year. Then I will quit.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will had worked",
+            "raw": "will had worked",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will been worked",
+            "raw": "will been worked",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will be worked",
+            "raw": " will be worked",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have worked",
+            "raw": " will have worked",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct future perfect tense form. The future perfect tense is used to describe an action that will be completed before a specific time in the future. The structure is: will have + past participle (V3). In this sentence, 'by June this year' is a future time point, and the action 'work' will be completed before that time.<br><ul><li><b>will had worked</b> (verb phrase): Incorrect. 'Will' is followed by 'have', not 'had'. The correct structure is 'will have + V3'.</li><li><b>will been worked</b> (verb phrase): Incorrect. This is not a correct tense. 'Been' is used in perfect continuous or passive forms, but not with 'will' in this way.</li><li><b>will be worked</b> (verb phrase): Incorrect. This is the future passive form, which does not fit the meaning of the sentence.</li><li><b>will have worked</b> (verb phrase): Correct. This is the future perfect tense: will have + past participle (worked).</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle (V3). Used to describe an action that will be completed before a certain time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì tương lai hoàn thành. Thì tương lai hoàn thành được dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Cấu trúc: will have + quá khứ phân từ (V3). Trong câu này, 'by June this year' là một mốc thời gian trong tương lai, và hành động 'work' sẽ hoàn thành trước thời điểm đó.<br><ul><li><b>will had worked</b> (cụm động từ): Sai. Sau 'will' phải là 'have', không phải 'had'. Cấu trúc đúng là 'will have + V3'.</li><li><b>will been worked</b> (cụm động từ): Sai. Đây không phải là một thì đúng. 'Been' dùng trong thì hoàn thành tiếp diễn hoặc bị động, nhưng không dùng với 'will' như thế này.</li><li><b>will be worked</b> (cụm động từ): Sai. Đây là dạng bị động của thì tương lai, không phù hợp với ý nghĩa của câu.</li><li><b>will have worked</b> (cụm động từ): Đúng. Đây là thì tương lai hoàn thành: will have + quá khứ phân từ (worked).</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ (V3). Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Tôi sẽ làm việc xong trước tháng Sáu năm nay. Sau đó tôi sẽ nghỉ việc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct future perfect tense form. The future perfect tense is used to describe an action that will be completed before a specific time in the future. The structure is: will have + past participle (V3). In this sentence, 'by June this year' is a future time point, and the action 'work' will be completed before that time.<br><ul><li><b>will had worked</b> (verb phrase): Incorrect. 'Will' is followed by 'have', not 'had'. The correct structure is 'will have + V3'.</li><li><b>will been worked</b> (verb phrase): Incorrect. This is not a correct tense. 'Been' is used in perfect continuous or passive forms, but not with 'will' in this way.</li><li><b>will be worked</b> (verb phrase): Incorrect. This is the future passive form, which does not fit the meaning of the sentence.</li><li><b>will have worked</b> (verb phrase): Correct. This is the future perfect tense: will have + past participle (worked).</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle (V3). Used to describe an action that will be completed before a certain time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006364",
+        "questionNumber": 8,
+        "questionText": "By the time she meets me, I _______ (own) all of her family business.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be owned",
+            "raw": "A. will be owned",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will been owned",
+            "raw": "B. will been owned",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have been owned",
+            "raw": "C. will have been owned",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have owned",
+            "raw": "D. will have owned",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct tense to indicate an action that will be completed before another future action. The phrase 'By the time she meets me' refers to a future point, and the action of owning her family business must be completed before that time. In English, we use the future perfect tense (will have + past participle) to show an action that will be finished before a specific time in the future.<br><ul><li><b>will be owned</b> (verb phrase (future passive)): This is the future passive form, meaning something will be owned by someone. It does not fit the context because the subject 'I' is the owner, not the object.</li><li><b>will been owned</b> (incorrect verb phrase): This is grammatically incorrect. 'Will' should be followed by 'have' for the perfect tense, not 'been'.</li><li><b>will have been owned</b> (verb phrase (future perfect passive)): This is the future perfect passive form, meaning something will have been owned by someone. It is not suitable here because the subject 'I' is the owner, not the object.</li><li><b>will have owned</b> (verb phrase (future perfect active)): This is the future perfect active form (will have + past participle). It correctly shows that 'I' will complete the action of owning all of her family business before she meets me.</li></ul><b>Related structure or vocabulary:</b> Future Perfect Tense: will have + past participle. Used to describe an action that will be completed before a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì đúng để diễn tả một hành động sẽ hoàn thành trước một hành động khác trong tương lai. Cụm từ 'By the time she meets me' (Khi cô ấy gặp tôi) nói về một thời điểm trong tương lai, và hành động sở hữu công việc kinh doanh của gia đình cô ấy phải hoàn thành trước thời điểm đó. Trong tiếng Anh, chúng ta dùng thì tương lai hoàn thành (will have + quá khứ phân từ) để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><ul><li><b>will be owned</b> (cụm động từ (tương lai bị động)): Đây là dạng bị động của thì tương lai, nghĩa là cái gì đó sẽ được sở hữu bởi ai đó. Không phù hợp vì chủ ngữ 'I' là người sở hữu, không phải đối tượng bị sở hữu.</li><li><b>will been owned</b> (cụm động từ sai ngữ pháp): Cấu trúc này sai ngữ pháp. Sau 'will' phải là 'have' để tạo thì hoàn thành, không phải 'been'.</li><li><b>will have been owned</b> (cụm động từ (tương lai hoàn thành bị động)): Đây là dạng bị động của thì tương lai hoàn thành, nghĩa là cái gì đó sẽ đã được sở hữu bởi ai đó. Không phù hợp vì chủ ngữ 'I' là người sở hữu, không phải đối tượng bị sở hữu.</li><li><b>will have owned</b> (cụm động từ (tương lai hoàn thành chủ động)): Đây là dạng chủ động của thì tương lai hoàn thành (will have + quá khứ phân từ). Đáp án này đúng vì diễn tả 'tôi' sẽ hoàn thành việc sở hữu toàn bộ công việc kinh doanh của gia đình cô ấy trước khi cô ấy gặp tôi.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> By the time she meets me, I will have owned all of her family business. --> Khi cô ấy gặp tôi, tôi sẽ đã sở hữu toàn bộ công việc kinh doanh của gia đình cô ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct tense to indicate an action that will be completed before another future action. The phrase 'By the time she meets me' refers to a future point, and the action of owning her family business must be completed before that time. In English, we use the future perfect tense (will have + past participle) to show an action that will be finished before a specific time in the future.<br><ul><li><b>will be owned</b> (verb phrase (future passive)): This is the future passive form, meaning something will be owned by someone. It does not fit the context because the subject 'I' is the owner, not the object.</li><li><b>will been owned</b> (incorrect verb phrase): This is grammatically incorrect. 'Will' should be followed by 'have' for the perfect tense, not 'been'.</li><li><b>will have been owned</b> (verb phrase (future perfect passive)): This is the future perfect passive form, meaning something will have been owned by someone. It is not suitable here because the subject 'I' is the owner, not the object.</li><li><b>will have owned</b> (verb phrase (future perfect active)): This is the future perfect active form (will have + past participle). It correctly shows that 'I' will complete the action of owning all of her family business before she meets me.</li></ul><b>Related structure or vocabulary:</b> Future Perfect Tense: will have + past participle. Used to describe an action that will be completed before a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006365",
+        "questionNumber": 9,
+        "questionText": "By the time he comes, we ___________ (finish) with the meal.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will have been finished",
+            "raw": " A. will have been finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will be finished",
+            "raw": "B. will be finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have finishing",
+            "raw": "C. will have finishing",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have finished",
+            "raw": "D. will have finished",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'By the time he comes, we ___________ (finish) with the meal.' requires the use of the future perfect tense. This tense is used to describe an action that will be completed before a specific time in the future. The structure for the future perfect tense is: will have + past participle (V3).<br><ul><li><b>will have been finished</b> (future perfect passive): This is the future perfect passive form. However, the subject 'we' is the doer of the action, so the active form is needed.</li><li><b>will be finished</b> (future simple passive): This is the future simple passive form, not the future perfect.</li><li><b>will have finishing</b> (incorrect form): This is an incorrect structure. 'Finishing' is the present participle, but the future perfect requires the past participle 'finished'.</li><li><b>will have finished</b> (future perfect): This is the correct future perfect tense: will have + past participle (finished).</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle (V3). Used to show that an action will be completed before a certain point in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'By the time he comes, we ___________ (finish) with the meal.' yêu cầu sử dụng thì tương lai hoàn thành. Thì này dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Cấu trúc của thì tương lai hoàn thành là: will have + quá khứ phân từ (V3).<br><ul><li><b>will have been finished</b> (tương lai hoàn thành bị động): Đây là dạng bị động của thì tương lai hoàn thành. Tuy nhiên, chủ ngữ 'we' là người thực hiện hành động nên cần dùng dạng chủ động.</li><li><b>will be finished</b> (tương lai đơn bị động): Đây là dạng bị động của thì tương lai đơn, không phải thì tương lai hoàn thành.</li><li><b>will have finishing</b> (dạng sai): Đây là cấu trúc sai. 'Finishing' là hiện tại phân từ, nhưng thì tương lai hoàn thành cần dùng quá khứ phân từ 'finished'.</li><li><b>will have finished</b> (tương lai hoàn thành): Đây là đáp án đúng với thì tương lai hoàn thành: will have + quá khứ phân từ (finished).</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ (V3). Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Khi anh ấy đến, chúng tôi sẽ đã ăn xong bữa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'By the time he comes, we ___________ (finish) with the meal.' requires the use of the future perfect tense. This tense is used to describe an action that will be completed before a specific time in the future. The structure for the future perfect tense is: will have + past participle (V3).<br><ul><li><b>will have been finished</b> (future perfect passive): This is the future perfect passive form. However, the subject 'we' is the doer of the action, so the active form is needed.</li><li><b>will be finished</b> (future simple passive): This is the future simple passive form, not the future perfect.</li><li><b>will have finishing</b> (incorrect form): This is an incorrect structure. 'Finishing' is the present participle, but the future perfect requires the past participle 'finished'.</li><li><b>will have finished</b> (future perfect): This is the correct future perfect tense: will have + past participle (finished).</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle (V3). Used to show that an action will be completed before a certain point in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006366",
+        "questionNumber": 10,
+        "questionText": "When you arrive, we ______ (leave) the house.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be left",
+            "raw": "A. will be left",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will have left",
+            "raw": "B. will have left",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will have leaving",
+            "raw": "C. will have leaving",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will be leaved",
+            "raw": "D. will be leaved",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action 'leave' needs to be in the correct future perfect tense to show that the action will be completed before another future action ('when you arrive'). The future perfect tense is formed with 'will have' + past participle (V3).<br><ul><li><b>will be left</b> (verb phrase (future passive)): 'Will be left' is the future passive form, which means something will be left by someone. It does not fit the context because the subject is 'we' and the verb should be active.</li><li><b>will have left</b> (verb phrase (future perfect)): 'Will have left' is the future perfect tense, used to show that an action will be completed before another future action. This fits the context perfectly.</li><li><b>will have leaving</b> (incorrect verb form): 'Will have leaving' is incorrect because 'leaving' is the present participle and cannot be used after 'will have'.</li><li><b>will be leaved</b> (incorrect verb form): 'Will be leaved' is incorrect because 'leaved' is not the correct past participle of 'leave' (it should be 'left'), and the passive form is not needed here.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle (V3). Used to describe an action that will be completed before a specific time or another action in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, hành động 'leave' cần được chia ở thì tương lai hoàn thành để diễn tả hành động sẽ hoàn thành trước một hành động khác trong tương lai ('when you arrive'). Thì tương lai hoàn thành được hình thành với 'will have' + quá khứ phân từ (V3).<br><ul><li><b>will be left</b> (cụm động từ (tương lai bị động)): 'Will be left' là dạng bị động của thì tương lai, nghĩa là một cái gì đó sẽ được để lại bởi ai đó. Không phù hợp với ngữ cảnh vì chủ ngữ là 'we' và động từ cần ở dạng chủ động.</li><li><b>will have left</b> (cụm động từ (tương lai hoàn thành)): 'Will have left' là thì tương lai hoàn thành, dùng để diễn tả một hành động sẽ hoàn thành trước một hành động khác trong tương lai. Đây là đáp án phù hợp nhất.</li><li><b>will have leaving</b> (dạng động từ sai): 'Will have leaving' là sai vì 'leaving' là hiện tại phân từ và không thể dùng sau 'will have'.</li><li><b>will be leaved</b> (dạng động từ sai): 'Will be leaved' là sai vì 'leaved' không phải là quá khứ phân từ đúng của 'leave' (phải là 'left'), và ở đây không cần dùng dạng bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ (V3). Dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm hoặc một hành động khác trong tương lai.<br><br><b>Tạm dịch:</b> Khi bạn đến nơi, chúng tôi sẽ đã rời khỏi nhà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action 'leave' needs to be in the correct future perfect tense to show that the action will be completed before another future action ('when you arrive'). The future perfect tense is formed with 'will have' + past participle (V3).<br><ul><li><b>will be left</b> (verb phrase (future passive)): 'Will be left' is the future passive form, which means something will be left by someone. It does not fit the context because the subject is 'we' and the verb should be active.</li><li><b>will have left</b> (verb phrase (future perfect)): 'Will have left' is the future perfect tense, used to show that an action will be completed before another future action. This fits the context perfectly.</li><li><b>will have leaving</b> (incorrect verb form): 'Will have leaving' is incorrect because 'leaving' is the present participle and cannot be used after 'will have'.</li><li><b>will be leaved</b> (incorrect verb form): 'Will be leaved' is incorrect because 'leaved' is not the correct past participle of 'leave' (it should be 'left'), and the passive form is not needed here.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle (V3). Used to describe an action that will be completed before a specific time or another action in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006367",
+        "questionNumber": 11,
+        "questionText": "She ______ (graduate) from this university by June.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be graduated",
+            "raw": "A. will be graduated",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will been graduated",
+            "raw": "B. will been graduated",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have been graduated",
+            "raw": "C. will have been graduated",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have graduated",
+            "raw": "D. will have graduated",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'She ______ (graduate) from this university by June.' requires a verb tense that expresses an action that will be completed before a specific time in the future. This is the perfect future tense: 'will have + past participle'. The verb 'graduate' is not used in the passive voice in this context because 'graduate' is an intransitive verb (it does not take a direct object). Therefore, the correct form is 'will have graduated'.<br><ul><li><b>will be graduated</b> (future passive): Incorrect. This is the future passive form, but 'graduate' is not typically used in the passive voice.</li><li><b>will been graduated</b> (incorrect structure): Incorrect. This is not a grammatically correct form in English.</li><li><b>will have been graduated</b> (future perfect passive): Incorrect. This is the future perfect passive, but 'graduate' is not used in the passive voice in this context.</li><li><b>will have graduated</b> (future perfect): Correct. This is the future perfect tense, used to show that an action will be completed before a certain time in the future.</li></ul><b>Related structure or vocabulary:</b> Future Perfect Tense: will have + past participle. Used to express an action that will be completed before a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'She ______ (graduate) from this university by June.' yêu cầu một thì động từ diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Đó là thì tương lai hoàn thành: 'will have + quá khứ phân từ'. Động từ 'graduate' không dùng ở thể bị động trong ngữ cảnh này vì đây là động từ nội động (không có tân ngữ trực tiếp). Do đó, dạng đúng là 'will have graduated'.<br><ul><li><b>will be graduated</b> (thể bị động tương lai): Sai. Đây là dạng bị động của thì tương lai, nhưng 'graduate' thường không dùng ở thể bị động.</li><li><b>will been graduated</b> (cấu trúc sai): Sai. Đây không phải là cấu trúc đúng trong tiếng Anh.</li><li><b>will have been graduated</b> (tương lai hoàn thành bị động): Sai. Đây là thì tương lai hoàn thành bị động, nhưng 'graduate' không dùng ở thể bị động trong trường hợp này.</li><li><b>will have graduated</b> (tương lai hoàn thành): Đúng. Đây là thì tương lai hoàn thành, dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Cô ấy sẽ tốt nghiệp trường đại học này trước tháng Sáu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'She ______ (graduate) from this university by June.' requires a verb tense that expresses an action that will be completed before a specific time in the future. This is the perfect future tense: 'will have + past participle'. The verb 'graduate' is not used in the passive voice in this context because 'graduate' is an intransitive verb (it does not take a direct object). Therefore, the correct form is 'will have graduated'.<br><ul><li><b>will be graduated</b> (future passive): Incorrect. This is the future passive form, but 'graduate' is not typically used in the passive voice.</li><li><b>will been graduated</b> (incorrect structure): Incorrect. This is not a grammatically correct form in English.</li><li><b>will have been graduated</b> (future perfect passive): Incorrect. This is the future perfect passive, but 'graduate' is not used in the passive voice in this context.</li><li><b>will have graduated</b> (future perfect): Correct. This is the future perfect tense, used to show that an action will be completed before a certain time in the future.</li></ul><b>Related structure or vocabulary:</b> Future Perfect Tense: will have + past participle. Used to express an action that will be completed before a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006368",
+        "questionNumber": 12,
+        "questionText": "When you reach the airport, the plane ______ (arrive).",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be arrived",
+            "raw": " will be arrived",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will have arrived",
+            "raw": " will have arrived",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will been arrived",
+            "raw": " will been arrived",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have arrive",
+            "raw": " will have arrive",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'When you reach the airport, the plane ______ (arrive).' requires the correct future perfect tense. The future perfect tense (will have + past participle) is used to describe an action that will be completed before a specific time in the future. In this case, by the time you reach the airport (a future moment), the plane will already have arrived.<br><ul><li><b>will be arrived</b> (verb phrase): Incorrect. 'Arrive' is an intransitive verb and does not use the passive form 'be arrived.'</li><li><b>will have arrived</b> (verb phrase): Correct. This is the future perfect tense: 'will have' + past participle ('arrived'). It shows the action will be completed before another future action.</li><li><b>will been arrived</b> (verb phrase): Incorrect. This is not a correct tense structure in English.</li><li><b>will have arrive</b> (verb phrase): Incorrect. The verb after 'have' must be in the past participle form ('arrived'), not the base form ('arrive').</li></ul><b>Related structure or vocabulary:</b> Future Perfect Tense: will have + past participle. Used to describe an action that will be completed before a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'When you reach the airport, the plane ______ (arrive).' yêu cầu sử dụng thì tương lai hoàn thành. Thì tương lai hoàn thành (will have + quá khứ phân từ) được dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Trong trường hợp này, khi bạn đến sân bay (một thời điểm trong tương lai), máy bay sẽ đã hạ cánh.<br><ul><li><b>will be arrived</b> (cụm động từ): Sai. 'Arrive' là động từ nội động, không dùng ở dạng bị động 'be arrived'.</li><li><b>will have arrived</b> (cụm động từ): Đúng. Đây là thì tương lai hoàn thành: 'will have' + quá khứ phân từ ('arrived'). Diễn tả hành động sẽ hoàn thành trước một hành động khác trong tương lai.</li><li><b>will been arrived</b> (cụm động từ): Sai. Đây không phải là cấu trúc thì đúng trong tiếng Anh.</li><li><b>will have arrive</b> (cụm động từ): Sai. Động từ sau 'have' phải ở dạng quá khứ phân từ ('arrived'), không phải dạng nguyên thể ('arrive').</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Khi bạn đến sân bay, máy bay sẽ đã hạ cánh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'When you reach the airport, the plane ______ (arrive).' requires the correct future perfect tense. The future perfect tense (will have + past participle) is used to describe an action that will be completed before a specific time in the future. In this case, by the time you reach the airport (a future moment), the plane will already have arrived.<br><ul><li><b>will be arrived</b> (verb phrase): Incorrect. 'Arrive' is an intransitive verb and does not use the passive form 'be arrived.'</li><li><b>will have arrived</b> (verb phrase): Correct. This is the future perfect tense: 'will have' + past participle ('arrived'). It shows the action will be completed before another future action.</li><li><b>will been arrived</b> (verb phrase): Incorrect. This is not a correct tense structure in English.</li><li><b>will have arrive</b> (verb phrase): Incorrect. The verb after 'have' must be in the past participle form ('arrived'), not the base form ('arrive').</li></ul><b>Related structure or vocabulary:</b> Future Perfect Tense: will have + past participle. Used to describe an action that will be completed before a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b006369",
+        "questionNumber": 13,
+        "questionText": "The way she started, she ______ (read) all books from our library by the time the next school year starts.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will been read",
+            "raw": "A. will been read",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will have been read",
+            "raw": "B. will have been read",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will be read",
+            "raw": "C. will be read",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have read",
+            "raw": "D. will have read",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to indicate an action that will be completed before a specific point in the future ('by the time the next school year starts'). This is the perfect future tense, specifically the 'future perfect' tense, which is formed as 'will have + past participle'. The subject 'she' is the doer of the action, so we use the active voice.<br><ul><li><b>will been read</b> (verb phrase): Incorrect. This is not a correct verb form in English. The correct structure for the future perfect is 'will have + past participle', not 'will been'.</li><li><b>will have been read</b> (verb phrase): Incorrect. This is the future perfect passive form. However, the sentence requires the active voice because 'she' is the one doing the reading.</li><li><b>will be read</b> (verb phrase): Incorrect. This is the simple future passive form. It means someone else will read the books, not 'she'.</li><li><b>will have read</b> (verb phrase): Correct. This is the future perfect active form, used to express that 'she' will finish reading all the books before the next school year starts.</li></ul><b>Related structure or vocabulary:</b> Future Perfect Tense: will have + past participle. Used to describe an action that will be completed before a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng động từ đúng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai ('by the time the next school year starts' - trước khi năm học mới bắt đầu). Đây là thì tương lai hoàn thành, cấu trúc là 'will have + quá khứ phân từ'. Chủ ngữ 'she' là người thực hiện hành động nên dùng thể chủ động.<br><ul><li><b>will been read</b> (cụm động từ): Sai. Đây không phải là cấu trúc đúng trong tiếng Anh. Thì tương lai hoàn thành phải là 'will have + quá khứ phân từ', không phải 'will been'.</li><li><b>will have been read</b> (cụm động từ): Sai. Đây là thì tương lai hoàn thành ở thể bị động. Tuy nhiên, câu này cần dùng thể chủ động vì 'she' là người đọc sách.</li><li><b>will be read</b> (cụm động từ): Sai. Đây là thì tương lai đơn ở thể bị động. Nghĩa là sách sẽ được ai đó đọc, không phải 'she'.</li><li><b>will have read</b> (cụm động từ): Đúng. Đây là thì tương lai hoàn thành ở thể chủ động, dùng để diễn tả 'cô ấy' sẽ đọc xong tất cả sách trước khi năm học mới bắt đầu.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Cách cô ấy bắt đầu, cô ấy sẽ đọc xong tất cả sách trong thư viện của chúng ta trước khi năm học mới bắt đầu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to indicate an action that will be completed before a specific point in the future ('by the time the next school year starts'). This is the perfect future tense, specifically the 'future perfect' tense, which is formed as 'will have + past participle'. The subject 'she' is the doer of the action, so we use the active voice.<br><ul><li><b>will been read</b> (verb phrase): Incorrect. This is not a correct verb form in English. The correct structure for the future perfect is 'will have + past participle', not 'will been'.</li><li><b>will have been read</b> (verb phrase): Incorrect. This is the future perfect passive form. However, the sentence requires the active voice because 'she' is the one doing the reading.</li><li><b>will be read</b> (verb phrase): Incorrect. This is the simple future passive form. It means someone else will read the books, not 'she'.</li><li><b>will have read</b> (verb phrase): Correct. This is the future perfect active form, used to express that 'she' will finish reading all the books before the next school year starts.</li></ul><b>Related structure or vocabulary:</b> Future Perfect Tense: will have + past participle. Used to describe an action that will be completed before a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00636a",
+        "questionNumber": 14,
+        "questionText": "When she comes, he ________ (be married) already.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will have married",
+            "raw": "A. will have married",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will been married",
+            "raw": "B. will been married",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have been married",
+            "raw": "C. will have been married",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "will have be married",
+            "raw": "D. will have be married",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'When she comes, he ________ (be married) already.' requires the correct future perfect passive form. The future perfect tense is used to describe an action that will be completed before a specific time in the future. In passive voice, the structure is: will have been + past participle. Here, 'be married' should be in the passive form because 'married' is a state that happens to the subject.<br><ul><li><b>will have married</b> (verb phrase (future perfect active)): This is the future perfect active form. It means 'he will have married someone', focusing on the action he performs, not the state of being married.</li><li><b>will been married</b> (incorrect verb phrase): This is grammatically incorrect. The correct structure is 'will have been' for the future perfect passive.</li><li><b>will have been married</b> (verb phrase (future perfect passive)): This is the correct future perfect passive form. It means 'he will already be in the state of being married' by the time she comes.</li><li><b>will have be married</b> (incorrect verb phrase): This is grammatically incorrect. After 'will have', the past participle 'been' is needed, not 'be'.</li></ul><b>Related structure or vocabulary:</b> Future perfect passive: will have been + past participle. Used to describe an action that will be completed before a certain time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'When she comes, he ________ (be married) already.' cần điền đúng dạng bị động của thì tương lai hoàn thành. Thì tương lai hoàn thành dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Ở thể bị động, cấu trúc là: will have been + quá khứ phân từ. Ở đây, 'be married' nên ở dạng bị động vì 'married' là trạng thái xảy ra với chủ ngữ.<br><ul><li><b>will have married</b> (cụm động từ (tương lai hoàn thành chủ động)): Đây là thì tương lai hoàn thành chủ động. Nghĩa là 'anh ấy sẽ kết hôn với ai đó', nhấn mạnh vào hành động anh ấy thực hiện, không phải trạng thái đã kết hôn.</li><li><b>will been married</b> (cụm động từ sai ngữ pháp): Cấu trúc này sai ngữ pháp. Cần dùng 'will have been' trong thì tương lai hoàn thành bị động.</li><li><b>will have been married</b> (cụm động từ (tương lai hoàn thành bị động)): Đây là dạng đúng của thì tương lai hoàn thành bị động. Nghĩa là 'anh ấy sẽ đã kết hôn' (ở trạng thái đã kết hôn) trước khi cô ấy đến.</li><li><b>will have be married</b> (cụm động từ sai ngữ pháp): Cấu trúc này sai ngữ pháp. Sau 'will have' phải là quá khứ phân từ 'been', không phải 'be'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành bị động: will have been + quá khứ phân từ. Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Khi cô ấy đến, anh ấy sẽ đã kết hôn rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'When she comes, he ________ (be married) already.' requires the correct future perfect passive form. The future perfect tense is used to describe an action that will be completed before a specific time in the future. In passive voice, the structure is: will have been + past participle. Here, 'be married' should be in the passive form because 'married' is a state that happens to the subject.<br><ul><li><b>will have married</b> (verb phrase (future perfect active)): This is the future perfect active form. It means 'he will have married someone', focusing on the action he performs, not the state of being married.</li><li><b>will been married</b> (incorrect verb phrase): This is grammatically incorrect. The correct structure is 'will have been' for the future perfect passive.</li><li><b>will have been married</b> (verb phrase (future perfect passive)): This is the correct future perfect passive form. It means 'he will already be in the state of being married' by the time she comes.</li><li><b>will have be married</b> (incorrect verb phrase): This is grammatically incorrect. After 'will have', the past participle 'been' is needed, not 'be'.</li></ul><b>Related structure or vocabulary:</b> Future perfect passive: will have been + past participle. Used to describe an action that will be completed before a certain time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00636b",
+        "questionNumber": 15,
+        "questionText": "In March, my father and mother ________  married for twelve years.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will have been married",
+            "raw": "A. will have been married",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will be marrying",
+            "raw": "B. will be marrying",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "are marrying",
+            "raw": "C. are marrying",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will marry",
+            "raw": "D. will marry",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a verb tense that shows an action that started in the past and will continue up to a specific point in the future (March). The correct tense for this is the future perfect continuous (will have been + V-ing or past participle for stative verbs). However, with the verb 'marry' in the context of 'be married' (a state), we use 'will have been married' to indicate the duration of the marriage up to March.<br><ul><li><b>will have been married</b> (verb phrase): Future perfect tense in passive form, used to show how long someone will have been in a state by a certain time in the future.</li><li><b>will be marrying</b> (verb phrase): Future continuous tense, used for actions that will be happening at a specific time in the future. Not suitable here because it refers to the act of getting married, not the state of being married.</li><li><b>are marrying</b> (verb phrase): Present continuous tense, used for actions happening now or in the near future. Not suitable for expressing duration up to a future point.</li><li><b>will marry</b> (verb phrase): Simple future tense, used for decisions or predictions about the future. Not suitable for expressing a duration.</li></ul><b>Related structure or vocabulary:</b> Future Perfect (Continuous) Tense: S + will have been + V-ing / V3 (for stative verbs) + for/since + time. Used to show how long something will have happened by a certain point in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một thì động từ diễn tả một hành động bắt đầu trong quá khứ và sẽ tiếp tục đến một thời điểm xác định trong tương lai (tháng Ba). Thì phù hợp là thì tương lai hoàn thành (will have been + V3 hoặc V-ing với động từ chỉ trạng thái). Với động từ 'marry' trong ngữ cảnh 'be married' (trạng thái đã kết hôn), ta dùng 'will have been married' để diễn tả khoảng thời gian đã kết hôn tính đến tháng Ba.<br><ul><li><b>will have been married</b> (cụm động từ): Thì tương lai hoàn thành ở dạng bị động, dùng để chỉ ai đó sẽ ở trong một trạng thái nào đó trong bao lâu tính đến một thời điểm trong tương lai.</li><li><b>will be marrying</b> (cụm động từ): Thì tương lai tiếp diễn, dùng cho hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai. Không phù hợp vì nó nói về hành động kết hôn, không phải trạng thái đã kết hôn.</li><li><b>are marrying</b> (cụm động từ): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra hoặc sắp xảy ra. Không phù hợp để diễn tả khoảng thời gian kéo dài đến một thời điểm trong tương lai.</li><li><b>will marry</b> (cụm động từ): Thì tương lai đơn, dùng cho quyết định hoặc dự đoán về tương lai. Không phù hợp để diễn tả khoảng thời gian.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành (Future Perfect): S + will have been + V3 (với động từ chỉ trạng thái) + for/since + thời gian. Dùng để diễn tả một hành động/trạng thái đã xảy ra và kéo dài đến một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Vào tháng Ba, bố mẹ tôi sẽ kết hôn được mười hai năm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a verb tense that shows an action that started in the past and will continue up to a specific point in the future (March). The correct tense for this is the future perfect continuous (will have been + V-ing or past participle for stative verbs). However, with the verb 'marry' in the context of 'be married' (a state), we use 'will have been married' to indicate the duration of the marriage up to March.<br><ul><li><b>will have been married</b> (verb phrase): Future perfect tense in passive form, used to show how long someone will have been in a state by a certain time in the future.</li><li><b>will be marrying</b> (verb phrase): Future continuous tense, used for actions that will be happening at a specific time in the future. Not suitable here because it refers to the act of getting married, not the state of being married.</li><li><b>are marrying</b> (verb phrase): Present continuous tense, used for actions happening now or in the near future. Not suitable for expressing duration up to a future point.</li><li><b>will marry</b> (verb phrase): Simple future tense, used for decisions or predictions about the future. Not suitable for expressing a duration.</li></ul><b>Related structure or vocabulary:</b> Future Perfect (Continuous) Tense: S + will have been + V-ing / V3 (for stative verbs) + for/since + time. Used to show how long something will have happened by a certain point in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00636c",
+        "questionNumber": 16,
+        "questionText": "On Saturday, he _________ for 3 weeks.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be waiting",
+            "raw": "A. will be waiting",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will wait",
+            "raw": "B. will wait",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have waited",
+            "raw": "C. will have waited",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "was waiting",
+            "raw": "D. was waiting",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'On Saturday, he _________ for 3 weeks.' requires a verb tense that shows an action will be completed by a specific time in the future. The phrase 'for 3 weeks' indicates a duration, and 'On Saturday' is the future point in time. The correct tense to use is the future perfect, which is formed as 'will have + past participle'. This tense is used to express that something will have happened or will have been completed before a certain point in the future.<br><ul><li><b>will be waiting</b> (verb phrase): Future continuous tense, used for actions that will be ongoing at a specific time in the future, not for actions completed by that time.</li><li><b>will wait</b> (verb phrase): Simple future tense, used for actions that will happen in the future, but does not express completion or duration up to a point.</li><li><b>will have waited</b> (verb phrase): Future perfect tense, used to show that an action will be completed before a specific time in the future.</li><li><b>was waiting</b> (verb phrase): Past continuous tense, used for actions that were ongoing in the past.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to indicate that an action will be completed before a certain time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'On Saturday, he _________ for 3 weeks.' yêu cầu một thì động từ diễn tả hành động sẽ hoàn thành vào một thời điểm xác định trong tương lai. Cụm 'for 3 weeks' chỉ khoảng thời gian, và 'On Saturday' là mốc thời gian trong tương lai. Thì phù hợp là thì tương lai hoàn thành (future perfect), được hình thành bởi 'will have + quá khứ phân từ'. Thì này dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm nhất định trong tương lai.<br><ul><li><b>will be waiting</b> (cụm động từ): Thì tương lai tiếp diễn, dùng cho hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai, không dùng để diễn tả hành động đã hoàn thành.</li><li><b>will wait</b> (cụm động từ): Thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai, nhưng không diễn tả sự hoàn thành hoặc kéo dài đến một thời điểm.</li><li><b>will have waited</b> (cụm động từ): Thì tương lai hoàn thành, dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.</li><li><b>was waiting</b> (cụm động từ): Thì quá khứ tiếp diễn, dùng cho hành động đang diễn ra trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để chỉ hành động sẽ hoàn thành trước một thời điểm trong tương lai.<br><br><b>Tạm dịch:</b> Vào thứ Bảy, anh ấy sẽ chờ được 3 tuần. (Tức là đến thứ Bảy thì hành động chờ đợi đã kéo dài và hoàn thành đủ 3 tuần.)",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'On Saturday, he _________ for 3 weeks.' requires a verb tense that shows an action will be completed by a specific time in the future. The phrase 'for 3 weeks' indicates a duration, and 'On Saturday' is the future point in time. The correct tense to use is the future perfect, which is formed as 'will have + past participle'. This tense is used to express that something will have happened or will have been completed before a certain point in the future.<br><ul><li><b>will be waiting</b> (verb phrase): Future continuous tense, used for actions that will be ongoing at a specific time in the future, not for actions completed by that time.</li><li><b>will wait</b> (verb phrase): Simple future tense, used for actions that will happen in the future, but does not express completion or duration up to a point.</li><li><b>will have waited</b> (verb phrase): Future perfect tense, used to show that an action will be completed before a specific time in the future.</li><li><b>was waiting</b> (verb phrase): Past continuous tense, used for actions that were ongoing in the past.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to indicate that an action will be completed before a certain time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00636d",
+        "questionNumber": 17,
+        "questionText": "Shilpa __________ the entire house by 8 am.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will have cleaned",
+            "raw": "A. will have cleaned",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will clean",
+            "raw": "B. will clean",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will be cleaning",
+            "raw": "C. will be cleaning",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was cleaning",
+            "raw": "D. was cleaning",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Shilpa __________ the entire house by 8 am.' requires a verb tense that shows an action will be completed before a specific time in the future. The correct tense for this situation is the future perfect tense, which is formed with 'will have' + past participle. This tense is used to indicate that something will be finished before a certain future time.<br><ul><li><b>will have cleaned</b> (verb phrase): Future perfect tense: used to show that an action will be completed before a specific time in the future.</li><li><b>will clean</b> (verb phrase): Simple future tense: used for actions that will happen in the future, but does not emphasize completion before a specific time.</li><li><b>will be cleaning</b> (verb phrase): Future continuous tense: used to show an action will be in progress at a specific time in the future.</li><li><b>was cleaning</b> (verb phrase): Past continuous tense: used to show an action was in progress at a specific time in the past.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to show that something will be finished before a certain time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Shilpa __________ the entire house by 8 am.' cần một thì động từ diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Thì phù hợp là thì tương lai hoàn thành, được hình thành bởi 'will have' + động từ ở dạng quá khứ phân từ. Thì này dùng để chỉ một việc sẽ hoàn thành trước một thời điểm nhất định trong tương lai.<br><ul><li><b>will have cleaned</b> (cụm động từ): Thì tương lai hoàn thành: dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.</li><li><b>will clean</b> (cụm động từ): Thì tương lai đơn: dùng để diễn tả hành động sẽ xảy ra trong tương lai, nhưng không nhấn mạnh việc hoàn thành trước một thời điểm cụ thể.</li><li><b>will be cleaning</b> (cụm động từ): Thì tương lai tiếp diễn: dùng để diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.</li><li><b>was cleaning</b> (cụm động từ): Thì quá khứ tiếp diễn: dùng để diễn tả hành động đang diễn ra tại một thời điểm xác định trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để diễn tả một việc sẽ hoàn thành trước một thời điểm nhất định trong tương lai.<br><br><b>Tạm dịch:</b> Shilpa sẽ dọn dẹp xong toàn bộ ngôi nhà trước 8 giờ sáng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Shilpa __________ the entire house by 8 am.' requires a verb tense that shows an action will be completed before a specific time in the future. The correct tense for this situation is the future perfect tense, which is formed with 'will have' + past participle. This tense is used to indicate that something will be finished before a certain future time.<br><ul><li><b>will have cleaned</b> (verb phrase): Future perfect tense: used to show that an action will be completed before a specific time in the future.</li><li><b>will clean</b> (verb phrase): Simple future tense: used for actions that will happen in the future, but does not emphasize completion before a specific time.</li><li><b>will be cleaning</b> (verb phrase): Future continuous tense: used to show an action will be in progress at a specific time in the future.</li><li><b>was cleaning</b> (verb phrase): Past continuous tense: used to show an action was in progress at a specific time in the past.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to show that something will be finished before a certain time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00636e",
+        "questionNumber": 18,
+        "questionText": "My cat _______ all of her food by the time we get home.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "ate",
+            "raw": "A. ate",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have eaten",
+            "raw": "B. have eaten ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will eat",
+            "raw": "C. will eat",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have eaten",
+            "raw": "D. will have eaten",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate that the action (the cat eating all her food) will be completed before another future action (we get home). In English, the future perfect tense ('will have + past participle') is used to show that something will be finished before a specific time in the future.<br><ul><li><b>ate</b> (verb (past simple)): 'Ate' is the simple past tense of 'eat', used for actions completed in the past, not for future actions.</li><li><b>have eaten</b> (verb (present perfect)): 'Have eaten' is the present perfect tense, used for actions that happened at an unspecified time before now, not for actions completed before a future time.</li><li><b>will eat</b> (verb (simple future)): 'Will eat' is the simple future tense, used for actions that will happen in the future, but it does not show that the action will be completed before another future event.</li><li><b>will have eaten</b> (verb (future perfect)): 'Will have eaten' is the future perfect tense, used to show that an action will be completed before a specific time in the future.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to describe an action that will be completed before a certain point in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì động từ đúng để diễn tả hành động (con mèo ăn hết thức ăn) sẽ hoàn thành trước một hành động khác trong tương lai (chúng ta về nhà). Trong tiếng Anh, thì tương lai hoàn thành ('will have + quá khứ phân từ') được dùng để chỉ một việc sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><ul><li><b>ate</b> (động từ (quá khứ đơn)): 'Ate' là thì quá khứ đơn của 'eat', dùng cho hành động đã hoàn thành trong quá khứ, không dùng cho hành động hoàn thành trước một thời điểm trong tương lai.</li><li><b>have eaten</b> (động từ (hiện tại hoàn thành)): 'Have eaten' là thì hiện tại hoàn thành, dùng cho hành động đã xảy ra vào một thời điểm không xác định trước hiện tại, không dùng cho hành động hoàn thành trước một thời điểm trong tương lai.</li><li><b>will eat</b> (động từ (tương lai đơn)): 'Will eat' là thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai, nhưng không diễn tả hành động sẽ hoàn thành trước một hành động khác trong tương lai.</li><li><b>will have eaten</b> (động từ (tương lai hoàn thành)): 'Will have eaten' là thì tương lai hoàn thành, dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: will have + quá khứ phân từ. Dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> My cat will have eaten all of her food by the time we get home. --> Con mèo của tôi sẽ ăn hết thức ăn của nó trước khi chúng tôi về đến nhà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate that the action (the cat eating all her food) will be completed before another future action (we get home). In English, the future perfect tense ('will have + past participle') is used to show that something will be finished before a specific time in the future.<br><ul><li><b>ate</b> (verb (past simple)): 'Ate' is the simple past tense of 'eat', used for actions completed in the past, not for future actions.</li><li><b>have eaten</b> (verb (present perfect)): 'Have eaten' is the present perfect tense, used for actions that happened at an unspecified time before now, not for actions completed before a future time.</li><li><b>will eat</b> (verb (simple future)): 'Will eat' is the simple future tense, used for actions that will happen in the future, but it does not show that the action will be completed before another future event.</li><li><b>will have eaten</b> (verb (future perfect)): 'Will have eaten' is the future perfect tense, used to show that an action will be completed before a specific time in the future.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: will have + past participle. Used to describe an action that will be completed before a certain point in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6205bcded1bfab7a5b00636f",
+        "questionNumber": 19,
+        "questionText": "By the time we reach home, my son _________ his homework.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was finishing",
+            "raw": "A. was finishing",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "finished",
+            "raw": "B. finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have finished",
+            "raw": "C. will have finished",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "had finished",
+            "raw": "D. had finished",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'By the time we reach home, my son _________ his homework.' requires a verb tense that shows an action will be completed before a specific time in the future. The phrase 'By the time we reach home' refers to a future point, so we need a tense that expresses an action completed before that future moment. The correct tense is the future perfect: 'will have + past participle.'<br><ul><li><b>was finishing</b> (verb (past continuous)): Past continuous tense, used for actions happening at a specific time in the past. Not suitable here because the sentence refers to a future action completed before another future action.</li><li><b>finished</b> (verb (simple past)): Simple past tense, used for actions completed in the past. Not suitable because the sentence is about the future.</li><li><b>will have finished</b> (verb (future perfect)): Future perfect tense, used to show that an action will be completed before a specific time in the future. This fits the context of the sentence.</li><li><b>had finished</b> (verb (past perfect)): Past perfect tense, used for actions completed before another action in the past. Not suitable because the sentence is about the future.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: S + will have + past participle (V3). Used to express an action that will be completed before a specific time or another action in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'By the time we reach home, my son _________ his homework.' yêu cầu một thì động từ diễn tả hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai. Cụm 'By the time we reach home' nói về một thời điểm trong tương lai, vì vậy cần dùng thì diễn tả hành động hoàn thành trước thời điểm này. Thì phù hợp là thì tương lai hoàn thành: 'will have + quá khứ phân từ (V3)'.<br><ul><li><b>was finishing</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng cho hành động đang xảy ra tại một thời điểm xác định trong quá khứ. Không phù hợp vì câu nói về hành động trong tương lai.</li><li><b>finished</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dùng cho hành động đã hoàn thành trong quá khứ. Không phù hợp vì câu nói về tương lai.</li><li><b>will have finished</b> (động từ (tương lai hoàn thành)): Thì tương lai hoàn thành, dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm hoặc hành động khác trong tương lai. Phù hợp với ngữ cảnh câu.</li><li><b>had finished</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành, dùng cho hành động đã hoàn thành trước một hành động khác trong quá khứ. Không phù hợp vì câu nói về tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai hoàn thành: S + will have + V3 (quá khứ phân từ). Dùng để diễn tả hành động sẽ hoàn thành trước một thời điểm hoặc hành động khác trong tương lai.<br><br><b>Tạm dịch:</b> Khi chúng ta về đến nhà, con trai tôi sẽ hoàn thành xong bài tập về nhà của mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'By the time we reach home, my son _________ his homework.' requires a verb tense that shows an action will be completed before a specific time in the future. The phrase 'By the time we reach home' refers to a future point, so we need a tense that expresses an action completed before that future moment. The correct tense is the future perfect: 'will have + past participle.'<br><ul><li><b>was finishing</b> (verb (past continuous)): Past continuous tense, used for actions happening at a specific time in the past. Not suitable here because the sentence refers to a future action completed before another future action.</li><li><b>finished</b> (verb (simple past)): Simple past tense, used for actions completed in the past. Not suitable because the sentence is about the future.</li><li><b>will have finished</b> (verb (future perfect)): Future perfect tense, used to show that an action will be completed before a specific time in the future. This fits the context of the sentence.</li><li><b>had finished</b> (verb (past perfect)): Past perfect tense, used for actions completed before another action in the past. Not suitable because the sentence is about the future.</li></ul><b>Related structure or vocabulary:</b> Future perfect tense: S + will have + past participle (V3). Used to express an action that will be completed before a specific time or another action in the future.<br><br>"
+      }
+    }
+  ]
+}

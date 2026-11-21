@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b136",
+  "title": "Từ vựng: Hiring and Training",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e1",
+        "questionNumber": 1,
+        "questionText": "conduct",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev145.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/conduct.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to hold, to take place, to behave; one’s behavior",
+            "raw": "to hold, to take place, to behave; one’s behavior",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Interviews were <strong>conducted</strong> over a period of three weeks.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c buổi phỏng vấn được<strong> tiến h&agrave;nh</strong> trong một khoảng thời gian ba tuần</p>\n",
+        "transcriptHtml": "<p>Interviews were <strong>conducted</strong> over a period of three weeks.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e2",
+        "questionNumber": 2,
+        "questionText": "generate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev146.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/generate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to create, to produce",
+            "raw": "to create, to produce",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The new training program <strong>generated</strong> a lot of interest among employees.</p>\n",
+        "explanationViHtml": "<p>Chương tr&igrave;nh đ&agrave;o tạo mới đ&atilde; <strong>tạo ra</strong> nhiều sự quan t&acirc;m trong số c&aacute;c nh&acirc;n vi&ecirc;n.</p>\n",
+        "transcriptHtml": "<p>The new training program <strong>generated</strong> a lot of interest among employees.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e3",
+        "questionNumber": 3,
+        "questionText": "hire",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev147.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/hire.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to employ, to offer a job or position; an employee",
+            "raw": "to employ, to offer a job or position; an employee",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>She was<strong> hired</strong> after her third interview.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; ấy được <strong>tuyển dụng</strong> sau buổi phỏng vấn thứ ba.</p>\n",
+        "transcriptHtml": "<p>She was<strong> hired</strong> after her third interview.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e4",
+        "questionNumber": 4,
+        "questionText": "keep up with",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev148.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/keep up with.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to stay equal with",
+            "raw": "to stay equal with",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The workers were told that they must <strong>keep up with</strong> the changes or they would find themselves without jobs.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c c&ocirc;ng nh&acirc;n được th&ocirc;ng b&aacute;o rằng họ phải<strong> theo kịp</strong> những thay đổi, nếu kh&ocirc;ng họ sẽ thấy m&igrave;nh mất việc.</p>\n",
+        "transcriptHtml": "<p>The workers were told that they must <strong>keep up with</strong> the changes or they would find themselves without jobs.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e5",
+        "questionNumber": 5,
+        "questionText": "look up to",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev149.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/look up to.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to admire, to think highly of",
+            "raw": "to admire, to think highly of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Staff members<strong> looked up to</strong> the director because he had earned their respect over the years.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c nh&acirc;n vi&ecirc;n rất <strong>k&iacute;nh trọng</strong> vị gi&aacute;m đốc n&agrave;y v&igrave; &ocirc;ng đ&atilde; gi&agrave;nh được sự t&ocirc;n trọng của họ trong nhiều năm qua.</p>\n",
+        "transcriptHtml": "<p>Staff members<strong> looked up to</strong> the director because he had earned their respect over the years.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e6",
+        "questionNumber": 6,
+        "questionText": "mentor",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev150.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mentor.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "person who guides and instructs, a resource",
+            "raw": "a person who guides and instructs, a resource",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>mentor</strong> helped her make some decisions about combining career and family.</p>\n",
+        "explanationViHtml": "<p><strong>Người hướng dẫn</strong> đ&atilde; gi&uacute;p c&ocirc; ấy đưa ra một số quyết định về việc kết hợp sự nghiệp v&agrave; gia đ&igrave;nh</p>\n",
+        "transcriptHtml": "<p>The <strong>mentor</strong> helped her make some decisions about combining career and family.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e7",
+        "questionNumber": 7,
+        "questionText": "stay on track",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev151.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/on track.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "on schedule; focused",
+            "raw": "on schedule; focused",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>lf we <strong>stay on track</strong>, the meeting should be finished at 9:30.</p>\n",
+        "explanationViHtml": "<p>Nếu ch&uacute;ng ta tiếp tục theo <strong>đ&uacute;ng tiến độ</strong>, cuộc họp sẽ kết th&uacute;c l&uacute;c 9:30.</p>\n",
+        "transcriptHtml": "<p>lf we <strong>stay on track</strong>, the meeting should be finished at 9:30.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e8",
+        "questionNumber": 8,
+        "questionText": "reject",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev152.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reject.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to turn down; to say no, to not accept",
+            "raw": "to turn down; to say no, to not accept",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Even though Mr. Lukin <strong>rejected</strong> their offer, they remained in contact.</p>\n",
+        "explanationViHtml": "<p>Mặc d&ugrave; &ocirc;ng Lukin <strong>từ chối</strong> lời đề nghị của họ nhưng họ vẫn giữ li&ecirc;n lạc.</p>\n",
+        "transcriptHtml": "<p>Even though Mr. Lukin <strong>rejected</strong> their offer, they remained in contact.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1e9",
+        "questionNumber": 9,
+        "questionText": "set up",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev153.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/set up.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to establish, to arrange; established, arranged",
+            "raw": "to establish, to arrange; established, arranged",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p><strong>Set up</strong> a time and place for the meeting and then inform everyone who is involved.</p>\n",
+        "explanationViHtml": "<p><strong>Thiết lập</strong>&nbsp;thời gian v&agrave; địa điểm họp v&agrave; th&ocirc;ng b&aacute;o cho tất cả những người tham gia.</p>\n",
+        "transcriptHtml": "<p><strong>Set up</strong> a time and place for the meeting and then inform everyone who is involved.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1ea",
+        "questionNumber": 10,
+        "questionText": "success",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev154.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/success.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n accomplishment; reaching a goal",
+            "raw": "an accomplishment; reaching a goal",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The director&rsquo;s <strong>success</strong> came after years of hiring the right people at the right time.</p>\n",
+        "explanationViHtml": "<p><strong>Th&agrave;nh c&ocirc;ng</strong> của đạo diễn đến sau nhiều năm tuyển dụng đ&uacute;ng người v&agrave;o đ&uacute;ng thời điểm.</p>\n",
+        "transcriptHtml": "<p>The director&rsquo;s <strong>success</strong> came after years of hiring the right people at the right time.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1eb",
+        "questionNumber": 11,
+        "questionText": "training",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev155.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/training.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the preparation or education for a specific job",
+            "raw": "the preparation or education for a specific job",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The new hire received such good <strong>training</strong> that, within a week, she was as productive as the other workers.</p>\n",
+        "explanationViHtml": "<p>Người mới được tuyển dụng đ&atilde; được <strong>đ&agrave;o tạo</strong> tốt đến mức chỉ sau một tuần, c&ocirc; ấy đ&atilde; c&oacute; năng suất l&agrave;m việc ngang bằng những c&ocirc;ng nh&acirc;n kh&aacute;c.</p>\n",
+        "transcriptHtml": "<p>The new hire received such good <strong>training</strong> that, within a week, she was as productive as the other workers.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1ec",
+        "questionNumber": 12,
+        "questionText": "update",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev156.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/update.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to make current; the latest information",
+            "raw": "to make current; the latest information",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The personnel officer <strong>updated </strong>the employees on the latest personnel changes.</p>\n",
+        "explanationViHtml": "<p>Nh&acirc;n vi&ecirc;n phụ tr&aacute;ch nh&acirc;n sự <strong>cập nhật</strong> cho nh&acirc;n vi&ecirc;n những thay đổi mới nhất về nh&acirc;n sự.</p>\n",
+        "transcriptHtml": "<p>The personnel officer <strong>updated </strong>the employees on the latest personnel changes.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b1e1",
+      "word": "conduct",
+      "phonetic": "/kənˈdʌkt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev145.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/conduct.mp3",
+      "meaningVi": "tiến hành",
+      "meaningEn": "to hold, to take place, to behave; one’s behavior",
+      "exampleEnHtml": "<p>Interviews were <strong>conducted</strong> over a period of three weeks.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c buổi phỏng vấn được<strong> tiến h&agrave;nh</strong> trong một khoảng thời gian ba tuần</p>\n",
+      "exampleEn": "Interviews were conducted over a period of three weeks.",
+      "exampleVi": "Các buổi phỏng vấn được tiến hành trong một khoảng thời gian ba tuần"
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e2",
+      "word": "generate",
+      "phonetic": "/ˈdʒenəreɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev146.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/generate.mp3",
+      "meaningVi": "tạo ra",
+      "meaningEn": "to create, to produce",
+      "exampleEnHtml": "<p>The new training program <strong>generated</strong> a lot of interest among employees.</p>\n",
+      "exampleViHtml": "<p>Chương tr&igrave;nh đ&agrave;o tạo mới đ&atilde; <strong>tạo ra</strong> nhiều sự quan t&acirc;m trong số c&aacute;c nh&acirc;n vi&ecirc;n.</p>\n",
+      "exampleEn": "The new training program generated a lot of interest among employees.",
+      "exampleVi": "Chương trình đào tạo mới đã tạo ra nhiều sự quan tâm trong số các nhân viên."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e3",
+      "word": "hire",
+      "phonetic": "/ˈhaɪər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev147.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/hire.mp3",
+      "meaningVi": "tuyển dụng",
+      "meaningEn": "to employ, to offer a job or position; an employee",
+      "exampleEnHtml": "<p>She was<strong> hired</strong> after her third interview.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; ấy được <strong>tuyển dụng</strong> sau buổi phỏng vấn thứ ba.</p>\n",
+      "exampleEn": "She was hired after her third interview.",
+      "exampleVi": "Cô ấy được tuyển dụng sau buổi phỏng vấn thứ ba."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e4",
+      "word": "keep up with",
+      "phonetic": "/kiːp/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev148.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/keep up with.mp3",
+      "meaningVi": "theo kịp",
+      "meaningEn": "to stay equal with",
+      "exampleEnHtml": "<p>The workers were told that they must <strong>keep up with</strong> the changes or they would find themselves without jobs.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c c&ocirc;ng nh&acirc;n được th&ocirc;ng b&aacute;o rằng họ phải<strong> theo kịp</strong> những thay đổi, nếu kh&ocirc;ng họ sẽ thấy m&igrave;nh mất việc.</p>\n",
+      "exampleEn": "The workers were told that they must keep up with the changes or they would find themselves without jobs.",
+      "exampleVi": "Các công nhân được thông báo rằng họ phải theo kịp những thay đổi, nếu không họ sẽ thấy mình mất việc."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e5",
+      "word": "look up to",
+      "phonetic": "/lʊk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev149.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/look up to.mp3",
+      "meaningVi": "kính trọng",
+      "meaningEn": "to admire, to think highly of",
+      "exampleEnHtml": "<p>Staff members<strong> looked up to</strong> the director because he had earned their respect over the years.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c nh&acirc;n vi&ecirc;n rất <strong>k&iacute;nh trọng</strong> vị gi&aacute;m đốc n&agrave;y v&igrave; &ocirc;ng đ&atilde; gi&agrave;nh được sự t&ocirc;n trọng của họ trong nhiều năm qua.</p>\n",
+      "exampleEn": "Staff members looked up to the director because he had earned their respect over the years.",
+      "exampleVi": "Các nhân viên rất kính trọng vị giám đốc này vì ông đã giành được sự tôn trọng của họ trong nhiều năm qua."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e6",
+      "word": "mentor",
+      "phonetic": "/ˈmentɔːr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev150.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mentor.mp3",
+      "meaningVi": "Người hướng dẫn",
+      "meaningEn": "a person who guides and instructs, a resource",
+      "exampleEnHtml": "<p>The <strong>mentor</strong> helped her make some decisions about combining career and family.</p>\n",
+      "exampleViHtml": "<p><strong>Người hướng dẫn</strong> đ&atilde; gi&uacute;p c&ocirc; ấy đưa ra một số quyết định về việc kết hợp sự nghiệp v&agrave; gia đ&igrave;nh</p>\n",
+      "exampleEn": "The mentor helped her make some decisions about combining career and family.",
+      "exampleVi": "Người hướng dẫn đã giúp cô ấy đưa ra một số quyết định về việc kết hợp sự nghiệp và gia đình"
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e7",
+      "word": "stay on track",
+      "phonetic": "/træk/,  phrasal verb",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev151.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/on track.mp3",
+      "meaningVi": "đúng tiến độ",
+      "meaningEn": "on schedule; focused",
+      "exampleEnHtml": "<p>lf we <strong>stay on track</strong>, the meeting should be finished at 9:30.</p>\n",
+      "exampleViHtml": "<p>Nếu ch&uacute;ng ta tiếp tục theo <strong>đ&uacute;ng tiến độ</strong>, cuộc họp sẽ kết th&uacute;c l&uacute;c 9:30.</p>\n",
+      "exampleEn": "lf we stay on track, the meeting should be finished at 9:30.",
+      "exampleVi": "Nếu chúng ta tiếp tục theo đúng tiến độ, cuộc họp sẽ kết thúc lúc 9:30."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e8",
+      "word": "reject",
+      "phonetic": "/rɪˈdʒekt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev152.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reject.mp3",
+      "meaningVi": "từ chối",
+      "meaningEn": "to turn down; to say no, to not accept",
+      "exampleEnHtml": "<p>Even though Mr. Lukin <strong>rejected</strong> their offer, they remained in contact.</p>\n",
+      "exampleViHtml": "<p>Mặc d&ugrave; &ocirc;ng Lukin <strong>từ chối</strong> lời đề nghị của họ nhưng họ vẫn giữ li&ecirc;n lạc.</p>\n",
+      "exampleEn": "Even though Mr. Lukin rejected their offer, they remained in contact.",
+      "exampleVi": "Mặc dù ông Lukin từ chối lời đề nghị của họ nhưng họ vẫn giữ liên lạc."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1e9",
+      "word": "set up",
+      "phonetic": "/ˈset̬.ʌp/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev153.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/set up.mp3",
+      "meaningVi": "Thiết lập",
+      "meaningEn": "to establish, to arrange; established, arranged",
+      "exampleEnHtml": "<p><strong>Set up</strong> a time and place for the meeting and then inform everyone who is involved.</p>\n",
+      "exampleViHtml": "<p><strong>Thiết lập</strong>&nbsp;thời gian v&agrave; địa điểm họp v&agrave; th&ocirc;ng b&aacute;o cho tất cả những người tham gia.</p>\n",
+      "exampleEn": "Set up a time and place for the meeting and then inform everyone who is involved.",
+      "exampleVi": "Thiết lập thời gian và địa điểm họp và thông báo cho tất cả những người tham gia."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1ea",
+      "word": "success",
+      "phonetic": "/səkˈses/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev154.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/success.mp3",
+      "meaningVi": "Thành công",
+      "meaningEn": "an accomplishment; reaching a goal",
+      "exampleEnHtml": "<p>The director&rsquo;s <strong>success</strong> came after years of hiring the right people at the right time.</p>\n",
+      "exampleViHtml": "<p><strong>Th&agrave;nh c&ocirc;ng</strong> của đạo diễn đến sau nhiều năm tuyển dụng đ&uacute;ng người v&agrave;o đ&uacute;ng thời điểm.</p>\n",
+      "exampleEn": "The director’s success came after years of hiring the right people at the right time.",
+      "exampleVi": "Thành công của đạo diễn đến sau nhiều năm tuyển dụng đúng người vào đúng thời điểm."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1eb",
+      "word": "training",
+      "phonetic": "/ˈtreɪnɪŋ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev155.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/training.mp3",
+      "meaningVi": "đào tạo",
+      "meaningEn": "the preparation or education for a specific job",
+      "exampleEnHtml": "<p>The new hire received such good <strong>training</strong> that, within a week, she was as productive as the other workers.</p>\n",
+      "exampleViHtml": "<p>Người mới được tuyển dụng đ&atilde; được <strong>đ&agrave;o tạo</strong> tốt đến mức chỉ sau một tuần, c&ocirc; ấy đ&atilde; c&oacute; năng suất l&agrave;m việc ngang bằng những c&ocirc;ng nh&acirc;n kh&aacute;c.</p>\n",
+      "exampleEn": "The new hire received such good training that, within a week, she was as productive as the other workers.",
+      "exampleVi": "Người mới được tuyển dụng đã được đào tạo tốt đến mức chỉ sau một tuần, cô ấy đã có năng suất làm việc ngang bằng những công nhân khác."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1ec",
+      "word": "update",
+      "phonetic": "/ˌʌpˈdeɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev156.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/update.mp3",
+      "meaningVi": "cập nhật",
+      "meaningEn": "to make current; the latest information",
+      "exampleEnHtml": "<p>The personnel officer <strong>updated </strong>the employees on the latest personnel changes.</p>\n",
+      "exampleViHtml": "<p>Nh&acirc;n vi&ecirc;n phụ tr&aacute;ch nh&acirc;n sự <strong>cập nhật</strong> cho nh&acirc;n vi&ecirc;n những thay đổi mới nhất về nh&acirc;n sự.</p>\n",
+      "exampleEn": "The personnel officer updated the employees on the latest personnel changes.",
+      "exampleVi": "Nhân viên phụ trách nhân sự cập nhật cho nhân viên những thay đổi mới nhất về nhân sự."
+    }
+  ],
+  "totalFlashcards": 12
+}

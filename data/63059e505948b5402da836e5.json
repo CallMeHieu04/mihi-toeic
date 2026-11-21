@@ -1,0 +1,1228 @@
+{
+  "topicId": "63059e505948b5402da836e5",
+  "title": "Part 4: Short Talks - Test 10",
+  "totalCards": 10,
+  "totalQuestions": 30,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da8370f",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/57180568.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nHello, Ms. Jansen. It&rsquo;s Kate Douglas. I&rsquo;m so grateful that you offered to babysit my son Michael this weekend. As you know, something urgent came up and I have to be away on business this weekend. An important merger will take place in April, and I need to be in New York in order to lead a meeting between my company and NX Electronics. Oh, and also, please let me know how much you expect to be compensated for babysitting. Thanks again.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Jansen. Đây là Kate Douglas. Tôi rất biết ơn vì cô đã đề nghị trông con trai Michael của tôi vào cuối tuần này. Như cô đã biết, có chuyện khẩn cấp xảy ra và tôi phải đi công tác vào cuối tuần này. Một cuộc sáp nhập quan trọng sẽ diễn ra vào tháng 4 và tôi cần có mặt ở New York để chủ trì cuộc họp giữa công ty của tôi và NX Electronics. Ồ, ngoài ra, xin vui lòng cho tôi biết cô mong đợi mức thù lao bao nhiêu cho việc trông trẻ. Cảm ơn một lần nữa.</p>\n",
+      "questions": [
+        {
+          "id": "6305d10b5948b5402da83719",
+          "questionNumber": 1,
+          "questionText": "What did the listener offer to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/57180568.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Attend a meeting",
+              "raw": "(A) Attend a meeting",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Go to New York",
+              "raw": "(B) Go to New York",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Take care of the speaker’s child",
+              "raw": "(C) Take care of the speaker’s child",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Lend a personal item",
+              "raw": "(D) Lend a personal item",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Jansen. Đây là Kate Douglas. Tôi rất biết ơn vì cô đã đề nghị trông con trai Michael của tôi vào cuối tuần này. Như cô đã biết, có chuyện khẩn cấp xảy ra và tôi phải đi công tác vào cuối tuần này. Một cuộc sáp nhập quan trọng sẽ diễn ra vào tháng 4 và tôi cần có mặt ở New York để chủ trì cuộc họp giữa công ty của tôi và NX Electronics. Ồ, ngoài ra, xin vui lòng cho tôi biết cô mong đợi mức thù lao bao nhiêu cho việc trông trẻ. Cảm ơn một lần nữa.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10b5948b5402da8371a",
+          "questionNumber": 2,
+          "questionText": "What will happen in April?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/57180568.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "An annual conference",
+              "raw": "(A) An annual conference",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A business merger",
+              "raw": "(B) A business merger",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A budget review",
+              "raw": "(C) A budget review",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A town meeting",
+              "raw": "(D) A town meeting",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Jansen. Đây là Kate Douglas. Tôi rất biết ơn vì cô đã đề nghị trông con trai Michael của tôi vào cuối tuần này. Như cô đã biết, có chuyện khẩn cấp xảy ra và tôi phải đi công tác vào cuối tuần này. Một cuộc sáp nhập quan trọng sẽ diễn ra vào tháng 4 và tôi cần có mặt ở New York để chủ trì cuộc họp giữa công ty của tôi và NX Electronics. Ồ, ngoài ra, xin vui lòng cho tôi biết cô mong đợi mức thù lao bao nhiêu cho việc trông trẻ. Cảm ơn một lần nữa.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10b5948b5402da8371b",
+          "questionNumber": 3,
+          "questionText": "What will the listener most likely inform the speaker about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/57180568.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The time of arrival",
+              "raw": "(A) The time of arrival",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The payment",
+              "raw": "(B) The payment",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "An event location",
+              "raw": "(C) An event location",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A weekend schedule",
+              "raw": "(D) A weekend schedule",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Jansen. Đây là Kate Douglas. Tôi rất biết ơn vì cô đã đề nghị trông con trai Michael của tôi vào cuối tuần này. Như cô đã biết, có chuyện khẩn cấp xảy ra và tôi phải đi công tác vào cuối tuần này. Một cuộc sáp nhập quan trọng sẽ diễn ra vào tháng 4 và tôi cần có mặt ở New York để chủ trì cuộc họp giữa công ty của tôi và NX Electronics. Ồ, ngoài ra, xin vui lòng cho tôi biết cô mong đợi mức thù lao bao nhiêu cho việc trông trẻ. Cảm ơn một lần nữa.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83710",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33476438.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nGood morning, ladies and gentlemen. On behalf of the staff, I regretfully announce that Flight 344 will be slightly delayed. The fueling process is taking longer than expected but should be completed soon. Passengers who are hungry can receive complimentary snacks and fruit juices here at the counter. However, we will be boarding relatively shortly, so we ask that passengers do not leave the boarding area. Thank you for your cooperation.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Chào buổi sáng, thưa quý ông quý bà. Thay mặt các nhân viên, tôi rất tiếc phải thông báo rằng Chuyến bay 344 sẽ khởi hành chậm một chút. Quá trình tiếp nhiên liệu mất nhiều thời gian hơn dự kiến nhưng sẽ sớm được hoàn thành. Hành khách nào cảm thấy đói có thể nhận đồ ăn nhẹ và nước ép trái cây miễn phí tại quầy. Tuy nhiên, chúng ta sẽ lên máy bay trong thời gian ngắn nên chúng tôi yêu cầu hành khách không rời khỏi khu vực chờ lên máy bay. Cảm ơn sự hợp tác của quý vị.</p>\n",
+      "questions": [
+        {
+          "id": "6305d10b5948b5402da8371c",
+          "questionNumber": 4,
+          "questionText": "Where most likely is this announcement being made?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33476438.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "In a factory",
+              "raw": "(A) In a factory",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "On an airplane",
+              "raw": "(B) On an airplane",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At a bus terminal",
+              "raw": "(C) At a bus terminal",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "At an airport",
+              "raw": "(D) At an airport",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Chào buổi sáng, thưa quý ông quý bà. Thay mặt các nhân viên, tôi rất tiếc phải thông báo rằng Chuyến bay 344 sẽ khởi hành chậm một chút. Quá trình tiếp nhiên liệu mất nhiều thời gian hơn dự kiến nhưng sẽ sớm được hoàn thành. Hành khách nào cảm thấy đói có thể nhận đồ ăn nhẹ và nước ép trái cây miễn phí tại quầy. Tuy nhiên, chúng ta sẽ lên máy bay trong thời gian ngắn nên chúng tôi yêu cầu hành khách không rời khỏi khu vực chờ lên máy bay. Cảm ơn sự hợp tác của quý vị.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10b5948b5402da8371d",
+          "questionNumber": 5,
+          "questionText": "What can listeners receive at the counter?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33476438.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A name tag",
+              "raw": "(A) A name tag",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A receipt",
+              "raw": "(B) A receipt",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A meal ticket",
+              "raw": "(C) A meal ticket",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Some refreshments",
+              "raw": "(D) Some refreshments",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Chào buổi sáng, thưa quý ông quý bà. Thay mặt các nhân viên, tôi rất tiếc phải thông báo rằng Chuyến bay 344 sẽ khởi hành chậm một chút. Quá trình tiếp nhiên liệu mất nhiều thời gian hơn dự kiến nhưng sẽ sớm được hoàn thành. Hành khách nào cảm thấy đói có thể nhận đồ ăn nhẹ và nước ép trái cây miễn phí tại quầy. Tuy nhiên, chúng ta sẽ lên máy bay trong thời gian ngắn nên chúng tôi yêu cầu hành khách không rời khỏi khu vực chờ lên máy bay. Cảm ơn sự hợp tác của quý vị.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10b5948b5402da8371e",
+          "questionNumber": 6,
+          "questionText": "What are listeners asked to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33476438.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Form a line",
+              "raw": "(A) Form a line",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Stay nearby",
+              "raw": "(B) Stay nearby",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Sign a document",
+              "raw": "(C) Sign a document",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Present a ticket",
+              "raw": "(D) Present a ticket",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Chào buổi sáng, thưa quý ông quý bà. Thay mặt các nhân viên, tôi rất tiếc phải thông báo rằng Chuyến bay 344 sẽ khởi hành chậm một chút. Quá trình tiếp nhiên liệu mất nhiều thời gian hơn dự kiến nhưng sẽ sớm được hoàn thành. Hành khách nào cảm thấy đói có thể nhận đồ ăn nhẹ và nước ép trái cây miễn phí tại quầy. Tuy nhiên, chúng ta sẽ lên máy bay trong thời gian ngắn nên chúng tôi yêu cầu hành khách không rời khỏi khu vực chờ lên máy bay. Cảm ơn sự hợp tác của quý vị.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83711",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/68378703.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nHello, everyone. Welcome to the guided tour of the Giant Dinosaurs exhibit. Today you will be able to see dinosaur skeletons that were excavated by Dr. Mark Simmons while on an expedition in South Africa. Dr. Simmons is one of the most respected scientists in the field and has discovered some of the oldest and most well-known fossils in the field. These fossils here were found in layers of sedimentary rock dated back over 65 million years ago. Because these fossils are delicate, I remind everyone that if you want to take pictures, please turn the flash off on your camera.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Xin chào tất cả mọi người. Chào mừng các bạn đến với chuyến tham quan tại triển lãm Khủng long khổng lồ. Hôm nay các bạn sẽ có thể nhìn thấy những bộ xương khủng long được Tiến sĩ Mark Simmons khai quật khi đang thực hiện chuyến thám hiểm ở Nam Phi. Tiến sĩ Simmons là một trong những nhà khoa học được kính trọng nhất trong lĩnh vực này và đã phát hiện ra một số hóa thạch lâu đời nhất và nổi tiếng nhất của khủng long. Những hóa thạch ở đây được tìm thấy dưới các lớp đá trầm tích có niên đại hơn 65 triệu năm trước. Vì những hóa thạch này rất mỏng manh nên tôi nhắc nhở mọi người rằng nếu muốn chụp ảnh, hãy tắt đèn flash trên máy ảnh.</p>\n",
+      "questions": [
+        {
+          "id": "6305d10b5948b5402da8371f",
+          "questionNumber": 7,
+          "questionText": "Where most likely is the speaker?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/68378703.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "In a museum",
+              "raw": "(A) In a museum",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "In a library",
+              "raw": "(B) In a library",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "In a lecture hall",
+              "raw": "(C) In a lecture hall",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "In a gift shop",
+              "raw": "(D) In a gift shop",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào tất cả mọi người. Chào mừng các bạn đến với chuyến tham quan tại triển lãm Khủng long khổng lồ. Hôm nay các bạn sẽ có thể nhìn thấy những bộ xương khủng long được Tiến sĩ Mark Simmons khai quật khi đang thực hiện chuyến thám hiểm ở Nam Phi. Tiến sĩ Simmons là một trong những nhà khoa học được kính trọng nhất trong lĩnh vực này và đã phát hiện ra một số hóa thạch lâu đời nhất và nổi tiếng nhất của khủng long. Những hóa thạch ở đây được tìm thấy dưới các lớp đá trầm tích có niên đại hơn 65 triệu năm trước. Vì những hóa thạch này rất mỏng manh nên tôi nhắc nhở mọi người rằng nếu muốn chụp ảnh, hãy tắt đèn flash trên máy ảnh.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10b5948b5402da83720",
+          "questionNumber": 8,
+          "questionText": "According to the speaker, what is Dr. Simmons famous for?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/68378703.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Writing best-selling books",
+              "raw": "(A) Writing best-selling books",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Making important discoveries",
+              "raw": "(B) Making important discoveries",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Finding ancient buildings",
+              "raw": "(C) Finding ancient buildings",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Conducting groundbreaking experiments",
+              "raw": "(D) Conducting groundbreaking experiments",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào tất cả mọi người. Chào mừng các bạn đến với chuyến tham quan tại triển lãm Khủng long khổng lồ. Hôm nay các bạn sẽ có thể nhìn thấy những bộ xương khủng long được Tiến sĩ Mark Simmons khai quật khi đang thực hiện chuyến thám hiểm ở Nam Phi. Tiến sĩ Simmons là một trong những nhà khoa học được kính trọng nhất trong lĩnh vực này và đã phát hiện ra một số hóa thạch lâu đời nhất và nổi tiếng nhất của khủng long. Những hóa thạch ở đây được tìm thấy dưới các lớp đá trầm tích có niên đại hơn 65 triệu năm trước. Vì những hóa thạch này rất mỏng manh nên tôi nhắc nhở mọi người rằng nếu muốn chụp ảnh, hãy tắt đèn flash trên máy ảnh.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10b5948b5402da83721",
+          "questionNumber": 9,
+          "questionText": "What does the speaker request that listeners do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/68378703.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Purchase a day pass",
+              "raw": "(A) Purchase a day pass",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Turn off a camera",
+              "raw": "(B) Turn off a camera",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Refrain from using a flash",
+              "raw": "(C) Refrain from using a flash",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Stay with the group",
+              "raw": "(D) Stay with the group",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào tất cả mọi người. Chào mừng các bạn đến với chuyến tham quan tại triển lãm Khủng long khổng lồ. Hôm nay các bạn sẽ có thể nhìn thấy những bộ xương khủng long được Tiến sĩ Mark Simmons khai quật khi đang thực hiện chuyến thám hiểm ở Nam Phi. Tiến sĩ Simmons là một trong những nhà khoa học được kính trọng nhất trong lĩnh vực này và đã phát hiện ra một số hóa thạch lâu đời nhất và nổi tiếng nhất của khủng long. Những hóa thạch ở đây được tìm thấy dưới các lớp đá trầm tích có niên đại hơn 65 triệu năm trước. Vì những hóa thạch này rất mỏng manh nên tôi nhắc nhở mọi người rằng nếu muốn chụp ảnh, hãy tắt đèn flash trên máy ảnh.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83712",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/604367.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nBefore this meeting concludes, I would like to mention a new opportunity available to all employees. As a benefit of our recent merger with TechSoft Solutions, you can now expand your medical insurance to include vision and dental coverage. You can visit our company website to calculate exactly how much this change would increase your monthly payment. If you have never accessed our website in the past, you will first need to contact Suzie Summers in order to get your login information. Please make sure to keep your login information private.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Trước khi cuộc họp này kết thúc, tôi muốn đề cập đến một phúc lợi mới dành cho tất cả nhân viên. Nhờ việc sáp nhập gần đây của chúng ta với TechSoft Solutions, giờ đây các bạn có thể mở rộng gói bảo hiểm y tế của mình để bao gồm cả bảo hiểm thị lực và nha khoa. Các bạn có thể truy cập trang web của công ty chúng ta để tính toán chính xác mức tăng của khoản thanh toán hàng tháng phải trả khi áp dụng thay đổi này. Nếu trước đây chưa từng truy cập trang web của chúng ta, trước tiên các bạn cần liên hệ với Suzie Summers để nhận thông tin đăng nhập của mình. Hãy đảm bảo giữ kín thông tin đăng nhập của các bạn.</p>\n",
+      "questions": [
+        {
+          "id": "6305d10b5948b5402da83722",
+          "questionNumber": 10,
+          "questionText": "What is the speaker mainly discussing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/604367.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A company picnic",
+              "raw": "(A) A company picnic",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A job opportunity",
+              "raw": "(B) A job opportunity",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A new benefit",
+              "raw": "(C) A new benefit",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Overseas expansion",
+              "raw": "(D) Overseas expansion",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Trước khi cuộc họp này kết thúc, tôi muốn đề cập đến một phúc lợi mới dành cho tất cả nhân viên. Nhờ việc sáp nhập gần đây của chúng ta với TechSoft Solutions, giờ đây các bạn có thể mở rộng gói bảo hiểm y tế của mình để bao gồm cả bảo hiểm thị lực và nha khoa. Các bạn có thể truy cập trang web của công ty chúng ta để tính toán chính xác mức tăng của khoản thanh toán hàng tháng phải trả khi áp dụng thay đổi này. Nếu trước đây chưa từng truy cập trang web của chúng ta, trước tiên các bạn cần liên hệ với Suzie Summers để nhận thông tin đăng nhập của mình. Hãy đảm bảo giữ kín thông tin đăng nhập của các bạn.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83723",
+          "questionNumber": 11,
+          "questionText": "According to the speaker, what can listeners do online?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/604367.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Find out a new payment",
+              "raw": "(A) Find out a new payment",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Register for a workshop",
+              "raw": "(B) Register for a workshop",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Remit a monthly payment",
+              "raw": "(C) Remit a monthly payment",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Review a proposal",
+              "raw": "(D) Review a proposal",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Trước khi cuộc họp này kết thúc, tôi muốn đề cập đến một phúc lợi mới dành cho tất cả nhân viên. Nhờ việc sáp nhập gần đây của chúng ta với TechSoft Solutions, giờ đây các bạn có thể mở rộng gói bảo hiểm y tế của mình để bao gồm cả bảo hiểm thị lực và nha khoa. Các bạn có thể truy cập trang web của công ty chúng ta để tính toán chính xác mức tăng của khoản thanh toán hàng tháng phải trả khi áp dụng thay đổi này. Nếu trước đây chưa từng truy cập trang web của chúng ta, trước tiên các bạn cần liên hệ với Suzie Summers để nhận thông tin đăng nhập của mình. Hãy đảm bảo giữ kín thông tin đăng nhập của các bạn.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83724",
+          "questionNumber": 12,
+          "questionText": "Why should some listeners contact Suzie Summers?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/604367.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To request a schedule change",
+              "raw": "(A) To request a schedule change",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To obtain personal information",
+              "raw": "(B) To obtain personal information",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "To cancel a subscription",
+              "raw": "(C) To cancel a subscription",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To congratulate a co-worker",
+              "raw": "(D) To congratulate a co-worker",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Trước khi cuộc họp này kết thúc, tôi muốn đề cập đến một phúc lợi mới dành cho tất cả nhân viên. Nhờ việc sáp nhập gần đây của chúng ta với TechSoft Solutions, giờ đây các bạn có thể mở rộng gói bảo hiểm y tế của mình để bao gồm cả bảo hiểm thị lực và nha khoa. Các bạn có thể truy cập trang web của công ty chúng ta để tính toán chính xác mức tăng của khoản thanh toán hàng tháng phải trả khi áp dụng thay đổi này. Nếu trước đây chưa từng truy cập trang web của chúng ta, trước tiên các bạn cần liên hệ với Suzie Summers để nhận thông tin đăng nhập của mình. Hãy đảm bảo giữ kín thông tin đăng nhập của các bạn.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83713",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/21557063.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nHi, everyone, we should get started with the monthly meeting. First of all, we have two new interns starting next week, they are both accounting majors who specialize in auditing. I know that you are all very busy, but I really need you to help the interns settle in as quickly as possible. I&rsquo;m going to give each of you a specific job that I want you to personally train the intern. I think it is the most efficient way to get them up to speed. I&rsquo;m going to prepare a task for each of you and email it to you. When the interns arrive, I want each of you to spend one full week each with them and train them. Thanks for your patience.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Xin chào mọi người, chúng ta nên bắt đầu với cuộc họp hàng tháng. Trước hết, chúng ta có hai thực tập sinh mới bắt đầu vào tuần tới, họ đều là sinh viên chuyên ngành kế toán, chuyên về kiểm toán. Tôi biết rằng tất cả các bạn đều rất bận rộn, nhưng tôi thực sự cần các bạn giúp các thực tập sinh ổn định công việc càng nhanh càng tốt. Tôi sẽ giao cho mỗi bạn một nhiệm vụ cụ thể mà tôi muốn bạn đích thân đào tạo thực tập sinh. Tôi nghĩ đó là cách hiệu quả nhất để giúp họ tăng tốc. Tôi sẽ chuẩn bị một nhiệm vụ cho mỗi bạn và gửi nó qua email. Khi các thực tập sinh đến, tôi muốn mỗi người trong số các bạn có thể dành trọn một tuần để huấn luyện họ. Cảm ơn sự kiên nhẫn của các bạn.</p>\n ",
+      "questions": [
+        {
+          "id": "6305d10c5948b5402da83725",
+          "questionNumber": 13,
+          "questionText": "Who most likely are the listeners?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/21557063.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Lawyers",
+              "raw": "(A) Lawyers",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Accountants",
+              "raw": "(B) Accountants",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Bankers",
+              "raw": "(C) Bankers",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Chefs",
+              "raw": "(D) Chefs",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào mọi người, chúng ta nên bắt đầu với cuộc họp hàng tháng. Trước hết, chúng ta có hai thực tập sinh mới bắt đầu vào tuần tới, họ đều là sinh viên chuyên ngành kế toán, chuyên về kiểm toán. Tôi biết rằng tất cả các bạn đều rất bận rộn, nhưng tôi thực sự cần các bạn giúp các thực tập sinh ổn định công việc càng nhanh càng tốt. Tôi sẽ giao cho mỗi bạn một nhiệm vụ cụ thể mà tôi muốn bạn đích thân đào tạo thực tập sinh. Tôi nghĩ đó là cách hiệu quả nhất để giúp họ tăng tốc. Tôi sẽ chuẩn bị một nhiệm vụ cho mỗi bạn và gửi nó qua email. Khi các thực tập sinh đến, tôi muốn mỗi người trong số các bạn có thể dành trọn một tuần để huấn luyện họ. Cảm ơn sự kiên nhẫn của các bạn.</p>\n ",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83726",
+          "questionNumber": 14,
+          "questionText": "What does the woman mean when she says, “I know that you are all very busy”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/21557063.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She wants to organize a meeting.",
+              "raw": "(A) She wants to organize a meeting.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "She needs more printers.",
+              "raw": "(B) She needs more printers.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She is recognizing their concerns.",
+              "raw": "(C) She is recognizing their concerns.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "She isn’t sure what to do.",
+              "raw": "(D) She isn’t sure what to do.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào mọi người, chúng ta nên bắt đầu với cuộc họp hàng tháng. Trước hết, chúng ta có hai thực tập sinh mới bắt đầu vào tuần tới, họ đều là sinh viên chuyên ngành kế toán, chuyên về kiểm toán. Tôi biết rằng tất cả các bạn đều rất bận rộn, nhưng tôi thực sự cần các bạn giúp các thực tập sinh ổn định công việc càng nhanh càng tốt. Tôi sẽ giao cho mỗi bạn một nhiệm vụ cụ thể mà tôi muốn bạn đích thân đào tạo thực tập sinh. Tôi nghĩ đó là cách hiệu quả nhất để giúp họ tăng tốc. Tôi sẽ chuẩn bị một nhiệm vụ cho mỗi bạn và gửi nó qua email. Khi các thực tập sinh đến, tôi muốn mỗi người trong số các bạn có thể dành trọn một tuần để huấn luyện họ. Cảm ơn sự kiên nhẫn của các bạn.</p>\n ",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83727",
+          "questionNumber": 15,
+          "questionText": "What task does the speaker assign to the listeners?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/21557063.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Spend a week with the interns",
+              "raw": "(A) Spend a week with the interns",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Don’t speak to the interns",
+              "raw": "(B) Don’t speak to the interns",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Write a training manual",
+              "raw": "(C) Write a training manual",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Report on sales figures",
+              "raw": "(D) Report on sales figures",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào mọi người, chúng ta nên bắt đầu với cuộc họp hàng tháng. Trước hết, chúng ta có hai thực tập sinh mới bắt đầu vào tuần tới, họ đều là sinh viên chuyên ngành kế toán, chuyên về kiểm toán. Tôi biết rằng tất cả các bạn đều rất bận rộn, nhưng tôi thực sự cần các bạn giúp các thực tập sinh ổn định công việc càng nhanh càng tốt. Tôi sẽ giao cho mỗi bạn một nhiệm vụ cụ thể mà tôi muốn bạn đích thân đào tạo thực tập sinh. Tôi nghĩ đó là cách hiệu quả nhất để giúp họ tăng tốc. Tôi sẽ chuẩn bị một nhiệm vụ cho mỗi bạn và gửi nó qua email. Khi các thực tập sinh đến, tôi muốn mỗi người trong số các bạn có thể dành trọn một tuần để huấn luyện họ. Cảm ơn sự kiên nhẫn của các bạn.</p>\n ",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83714",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/31769459.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nAs everyone knows, the line of keyboards and web cameras we produced this year are selling extremely well. I&rsquo;m not sure why but our LCD monitors are not selling well at all. I suspect the price point might be too high when compared with other brands. Whatever the reason, we need to start selling more so I have hired some marketing analysts that can help us try to figure out what the problem is. I&rsquo;ve arranged a meeting with them this afternoon after lunch, so please come to the boardroom on the 2nd floor and sit in on the meeting.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Như mọi người đã biết, dòng bàn phím và web camera chúng ta sản xuất năm nay đang bán rất chạy. Tôi không chắc tại sao nhưng màn hình LCD của chúng ta lại khá ế ẩm. Tôi nghi ngờ rằng mức giá của sản phẩm có thể đang quá cao khi so sánh với các thương hiệu khác. Dù lý do là gì đi nữa, chúng ta cần bắt đầu đẩy mạnh doanh số bán hàng nên tôi đã thuê một số nhà phân tích Marketing để có thể giúp chúng ta tìm ra vấn đề. Tôi đã sắp xếp một cuộc gặp với họ vào chiều nay sau bữa trưa, vì vậy vui lòng đến phòng họp ở tầng 2 và tham gia cuộc họp.</p>\n",
+      "questions": [
+        {
+          "id": "6305d10c5948b5402da83728",
+          "questionNumber": 16,
+          "questionText": "What product does the speaker’s company sell?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/31769459.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Electronics",
+              "raw": "(A) Electronics",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Food",
+              "raw": "(B) Food",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Clothing",
+              "raw": "(C) Clothing",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Apparel",
+              "raw": "(D) Apparel",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Như mọi người đã biết, dòng bàn phím và web camera chúng ta sản xuất năm nay đang bán rất chạy. Tôi không chắc tại sao nhưng màn hình LCD của chúng ta lại khá ế ẩm. Tôi nghi ngờ rằng mức giá của sản phẩm có thể đang quá cao khi so sánh với các thương hiệu khác. Dù lý do là gì đi nữa, chúng ta cần bắt đầu đẩy mạnh doanh số bán hàng nên tôi đã thuê một số nhà phân tích Marketing để có thể giúp chúng ta tìm ra vấn đề. Tôi đã sắp xếp một cuộc gặp với họ vào chiều nay sau bữa trưa, vì vậy vui lòng đến phòng họp ở tầng 2 và tham gia cuộc họp.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83729",
+          "questionNumber": 17,
+          "questionText": "What problem does the speaker describe?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/31769459.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She thinks there is not a problem.",
+              "raw": "(A) She thinks there is not a problem.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Some products are not selling well.",
+              "raw": "(B) Some products are not selling well.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "They have a new competitor.",
+              "raw": "(C) They have a new competitor.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "They will have to cut staff.",
+              "raw": "(D) They will have to cut staff.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Như mọi người đã biết, dòng bàn phím và web camera chúng ta sản xuất năm nay đang bán rất chạy. Tôi không chắc tại sao nhưng màn hình LCD của chúng ta lại khá ế ẩm. Tôi nghi ngờ rằng mức giá của sản phẩm có thể đang quá cao khi so sánh với các thương hiệu khác. Dù lý do là gì đi nữa, chúng ta cần bắt đầu đẩy mạnh doanh số bán hàng nên tôi đã thuê một số nhà phân tích Marketing để có thể giúp chúng ta tìm ra vấn đề. Tôi đã sắp xếp một cuộc gặp với họ vào chiều nay sau bữa trưa, vì vậy vui lòng đến phòng họp ở tầng 2 và tham gia cuộc họp.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da8372a",
+          "questionNumber": 18,
+          "questionText": "What does the woman mean when she says, “sit in on the meeting”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/31769459.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She will send employees an email.",
+              "raw": "(A) She will send employees an email.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "She wants employees to prepare a report.",
+              "raw": "(B) She wants employees to prepare a report.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She wants employees to come to the meeting.",
+              "raw": "(C) She wants employees to come to the meeting.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "She will have a conference call.",
+              "raw": "(D) She will have a conference call.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Như mọi người đã biết, dòng bàn phím và web camera chúng ta sản xuất năm nay đang bán rất chạy. Tôi không chắc tại sao nhưng màn hình LCD của chúng ta lại khá ế ẩm. Tôi nghi ngờ rằng mức giá của sản phẩm có thể đang quá cao khi so sánh với các thương hiệu khác. Dù lý do là gì đi nữa, chúng ta cần bắt đầu đẩy mạnh doanh số bán hàng nên tôi đã thuê một số nhà phân tích Marketing để có thể giúp chúng ta tìm ra vấn đề. Tôi đã sắp xếp một cuộc gặp với họ vào chiều nay sau bữa trưa, vì vậy vui lòng đến phòng họp ở tầng 2 và tham gia cuộc họp.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83715",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/25891579.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nGreat news, everybody. Our sales are up by 12 percent compared to last year. Our new range of electric blankets and space heaters sold more than we expected. The biggest seller was our new heated pillow inserts. Last month we signed a special contract to have our pillows used exclusively in Charleston Hotels, which means a huge boost in sales figures. We are expecting even more contracts like this in the future. How about that? Everyone should give themselves a pat on the back. I&rsquo;m really proud of your efforts.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Tin vui đây mọi người. Doanh số bán hàng của chúng ta đã tăng 12% so với năm ngoái. Dòng chăn điện và máy sưởi mới của chúng ta bán được nhiều hơn mong đợi. Sản phẩm bán chạy nhất là tấm lót gối sưởi ấm mới của chúng ta. Tháng trước, chúng ta đã ký một hợp đồng đặc biệt để sản phẩm gối này được sử dụng độc quyền tại Khách sạn Charleston, điều này đồng nghĩa với việc doanh số bán hàng sẽ tăng lên rất nhiều. Chúng ta đang mong đợi nhiều hợp đồng như thế này hơn nữa trong tương lai. Đó là chuyện tốt đúng chứ? Mọi người nên tự hào về bản thân. Tôi thực sự tự hào về nỗ lực của các bạn.</p>\n",
+      "questions": [
+        {
+          "id": "6305d10c5948b5402da8372b",
+          "questionNumber": 19,
+          "questionText": "What product does the speaker’s company sell?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/25891579.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Heating products",
+              "raw": "(A) Heating products",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Air conditioners",
+              "raw": "(B) Air conditioners",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Vacuum cleaners",
+              "raw": "(C) Vacuum cleaners",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Magazines",
+              "raw": "(D) Magazines",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tin vui đây mọi người. Doanh số bán hàng của chúng ta đã tăng 12% so với năm ngoái. Dòng chăn điện và máy sưởi mới của chúng ta bán được nhiều hơn mong đợi. Sản phẩm bán chạy nhất là tấm lót gối sưởi ấm mới của chúng ta. Tháng trước, chúng ta đã ký một hợp đồng đặc biệt để sản phẩm gối này được sử dụng độc quyền tại Khách sạn Charleston, điều này đồng nghĩa với việc doanh số bán hàng sẽ tăng lên rất nhiều. Chúng ta đang mong đợi nhiều hợp đồng như thế này hơn nữa trong tương lai. Đó là chuyện tốt đúng chứ? Mọi người nên tự hào về bản thân. Tôi thực sự tự hào về nỗ lực của các bạn.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da8372c",
+          "questionNumber": 20,
+          "questionText": "According to the speaker, what happened last month?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/25891579.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "They signed a special contract.",
+              "raw": "(A) They signed a special contract.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "They bought out another company.",
+              "raw": "(B) They bought out another company.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "They traded stocks",
+              "raw": "(C)    They traded stocks ",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Their sales went down",
+              "raw": "(D) Their sales went down ",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tin vui đây mọi người. Doanh số bán hàng của chúng ta đã tăng 12% so với năm ngoái. Dòng chăn điện và máy sưởi mới của chúng ta bán được nhiều hơn mong đợi. Sản phẩm bán chạy nhất là tấm lót gối sưởi ấm mới của chúng ta. Tháng trước, chúng ta đã ký một hợp đồng đặc biệt để sản phẩm gối này được sử dụng độc quyền tại Khách sạn Charleston, điều này đồng nghĩa với việc doanh số bán hàng sẽ tăng lên rất nhiều. Chúng ta đang mong đợi nhiều hợp đồng như thế này hơn nữa trong tương lai. Đó là chuyện tốt đúng chứ? Mọi người nên tự hào về bản thân. Tôi thực sự tự hào về nỗ lực của các bạn.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da8372d",
+          "questionNumber": 21,
+          "questionText": "What does the man mean when he says “How about that?”",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/25891579.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He is confused about the situation.",
+              "raw": "(A) He is confused about the situation.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "He is pleased with the results.",
+              "raw": "(B) He is pleased with the results.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "He isn’t happy.",
+              "raw": "(C) He isn’t happy.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He wants to try to upgrade their computers.",
+              "raw": "(D) He wants to try to upgrade their computers.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tin vui đây mọi người. Doanh số bán hàng của chúng ta đã tăng 12% so với năm ngoái. Dòng chăn điện và máy sưởi mới của chúng ta bán được nhiều hơn mong đợi. Sản phẩm bán chạy nhất là tấm lót gối sưởi ấm mới của chúng ta. Tháng trước, chúng ta đã ký một hợp đồng đặc biệt để sản phẩm gối này được sử dụng độc quyền tại Khách sạn Charleston, điều này đồng nghĩa với việc doanh số bán hàng sẽ tăng lên rất nhiều. Chúng ta đang mong đợi nhiều hợp đồng như thế này hơn nữa trong tương lai. Đó là chuyện tốt đúng chứ? Mọi người nên tự hào về bản thân. Tôi thực sự tự hào về nỗ lực của các bạn.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83716",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/74623985.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/13048702.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nSpringfield Dance Troupe has just added a new hip-hop workshop to our winter schedule. We are extremely excited to be able to offer more contemporary dance routines to the members of our community! We&#39;ll be having a live performance of some of the moves that we will be teaching people to master this Saturday at 12:00 P.M. We would like to invite all members of the community, young and old, boys and girls, to come down to the Recreational Center and enjoy the performance. Springfield Dance Troupe will of course be continuing to teach the courses that we have always offered, with one exception. Sally Jones, who many of you know from her fantastic Nutcracker performances, will be moving back to Westport. As a result, after this week we will not be offering ballet classes until we can find a teacher to replace her. I hope to see you all at the Recreation Center this Saturday at noon!</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Đoàn múa Springfield vừa bổ sung thêm một workshop hip-hop mới vào lịch trình mùa đông. Thật vô cùng vui mừng khi có thể lan toả nhiều điệu nhảy đương đại hơn tới các thành viên trong cộng đồng! Chúng tôi sẽ biểu diễn trực tiếp một số động tác dự định sẽ được dạy cho mọi người 12 giờ trưa Thứ Bảy tuần này. Xin mời tất cả thành viên của cộng đồng, bất kể độ tuổi và giới tính, đến Trung tâm Giải trí và thưởng thức buổi biểu diễn. Tất nhiên, Đoàn múa Springfield sẽ tiếp tục giảng dạy các khóa học mà chúng tôi luôn cung cấp, ngoại trừ một ngoại lệ. Sally Jones, người được đến qua màn trình diễn Nutcracker tuyệt vời, sẽ quay trở lại Westport. Do đó, sau tuần này, các lớp học múa ba lê sẽ không được tổ chức cho đến khi tìm được giáo viên thay thế. Tôi hy vọng được gặp tất cả các bạn tại Trung tâm Giải trí vào trưa Thứ Bảy tuần này!</p>\n",
+      "questions": [
+        {
+          "id": "6305d10c5948b5402da8372e",
+          "questionNumber": 22,
+          "questionText": "What is indicated about Springfield Dance Troupe?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/13048702.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/74623985.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "They are changing the music they like.",
+              "raw": "(A) They are changing the music they like.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "They are moving to a new location.",
+              "raw": "(B) They are moving to a new location.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "They want to find a new swing class instructor.",
+              "raw": "(C) They want to find a new swing class instructor.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "They are adding a new course.",
+              "raw": "(D) They are adding a new course.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Đoàn múa Springfield vừa bổ sung thêm một workshop hip-hop mới vào lịch trình mùa đông. Thật vô cùng vui mừng khi có thể lan toả nhiều điệu nhảy đương đại hơn tới các thành viên trong cộng đồng! Chúng tôi sẽ biểu diễn trực tiếp một số động tác dự định sẽ được dạy cho mọi người 12 giờ trưa Thứ Bảy tuần này. Xin mời tất cả thành viên của cộng đồng, bất kể độ tuổi và giới tính, đến Trung tâm Giải trí và thưởng thức buổi biểu diễn. Tất nhiên, Đoàn múa Springfield sẽ tiếp tục giảng dạy các khóa học mà chúng tôi luôn cung cấp, ngoại trừ một ngoại lệ. Sally Jones, người được đến qua màn trình diễn Nutcracker tuyệt vời, sẽ quay trở lại Westport. Do đó, sau tuần này, các lớp học múa ba lê sẽ không được tổ chức cho đến khi tìm được giáo viên thay thế. Tôi hy vọng được gặp tất cả các bạn tại Trung tâm Giải trí vào trưa Thứ Bảy tuần này!</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da8372f",
+          "questionNumber": 23,
+          "questionText": "Look at the graphic. What can you infer about the dance classes?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/13048702.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/74623985.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "They will be difficult.",
+              "raw": "(A) They will be difficult.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "They are for beginners.",
+              "raw": "(B) They are for beginners.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Dance classes last for three hours.",
+              "raw": "(C) Dance classes last for three hours.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "They are coed.",
+              "raw": "(D) They are coed.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Đoàn múa Springfield vừa bổ sung thêm một workshop hip-hop mới vào lịch trình mùa đông. Thật vô cùng vui mừng khi có thể lan toả nhiều điệu nhảy đương đại hơn tới các thành viên trong cộng đồng! Chúng tôi sẽ biểu diễn trực tiếp một số động tác dự định sẽ được dạy cho mọi người 12 giờ trưa Thứ Bảy tuần này. Xin mời tất cả thành viên của cộng đồng, bất kể độ tuổi và giới tính, đến Trung tâm Giải trí và thưởng thức buổi biểu diễn. Tất nhiên, Đoàn múa Springfield sẽ tiếp tục giảng dạy các khóa học mà chúng tôi luôn cung cấp, ngoại trừ một ngoại lệ. Sally Jones, người được đến qua màn trình diễn Nutcracker tuyệt vời, sẽ quay trở lại Westport. Do đó, sau tuần này, các lớp học múa ba lê sẽ không được tổ chức cho đến khi tìm được giáo viên thay thế. Tôi hy vọng được gặp tất cả các bạn tại Trung tâm Giải trí vào trưa Thứ Bảy tuần này!</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83730",
+          "questionNumber": 24,
+          "questionText": "What does Springfield Dance Troupe invite the public to do?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/13048702.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/74623985.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Come to their picnic",
+              "raw": "(A) Come to their picnic",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "See them in the concert hall downtown",
+              "raw": "(B) See them in the concert hall downtown",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Watch them perform a hip hop dance routine",
+              "raw": "(C) Watch them perform a hip hop dance routine",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Say goodbye to Sally Jones",
+              "raw": "(D) Say goodbye to Sally Jones",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Đoàn múa Springfield vừa bổ sung thêm một workshop hip-hop mới vào lịch trình mùa đông. Thật vô cùng vui mừng khi có thể lan toả nhiều điệu nhảy đương đại hơn tới các thành viên trong cộng đồng! Chúng tôi sẽ biểu diễn trực tiếp một số động tác dự định sẽ được dạy cho mọi người 12 giờ trưa Thứ Bảy tuần này. Xin mời tất cả thành viên của cộng đồng, bất kể độ tuổi và giới tính, đến Trung tâm Giải trí và thưởng thức buổi biểu diễn. Tất nhiên, Đoàn múa Springfield sẽ tiếp tục giảng dạy các khóa học mà chúng tôi luôn cung cấp, ngoại trừ một ngoại lệ. Sally Jones, người được đến qua màn trình diễn Nutcracker tuyệt vời, sẽ quay trở lại Westport. Do đó, sau tuần này, các lớp học múa ba lê sẽ không được tổ chức cho đến khi tìm được giáo viên thay thế. Tôi hy vọng được gặp tất cả các bạn tại Trung tâm Giải trí vào trưa Thứ Bảy tuần này!</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83717",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/51061611.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/67950764.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nPresidential Tailoring is committed to helping you look your best. If you have been thinking about updating your wardrobe to include custom fit ensembles, we would like to invite you to stop by our shop on the corner of Lexington and Dupont for complimentary measurement. Our tailors have a combined 120 years of experience with men&rsquo;s and women&rsquo;s tailoring. Our master tailor, Jeffrey Frye, apprenticed in London for 15 years at the prestigious Lorde Homme Tailors before returning home here to the US. Let us make you look presidential; you deserve it.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> President Tailoring cam kết giúp quý vị toả sang trong những bộ cánh đẹp nhất. Nếu quý vị đang nghĩ đến việc cập nhật tủ quần áo của mình để có những bộ trang phục vừa vặn tùy chỉnh, xin mời ghé qua cửa hàng của chúng tôi ở góc đường Lexington & Dupont để được lấy số đo miễn phí. Các thợ may của chúng tôi có tổng cộng 120 năm kinh nghiệm trong lĩnh vực may đo nam và nữ. Thợ may lành nghề nhất của chúng tôi, Jeffrey Frye, đã học nghề ở London trong 15 năm tại Học Viện Lorde Homme Tailors danh tiếng trước khi trở về quê hương ở Mỹ. Hãy để chúng tôi làm cho quý vị lịch lãm như một vị tổng thống; quý vị xứng đáng với điều đó.</p>\n",
+      "questions": [
+        {
+          "id": "6305d10c5948b5402da83731",
+          "questionNumber": 25,
+          "questionText": "What is indicated in the advertisement?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/67950764.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/51061611.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Presidential Tailoring is just getting started in their business.",
+              "raw": "(A) Presidential Tailoring is just getting started in their business.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Jeffrey Frye is an experienced American tailor trained overseas.",
+              "raw": "(B) Jeffrey Frye is an experienced American tailor trained overseas.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Presidential Tailors is having a big sale.",
+              "raw": "(C) Presidential Tailors is having a big sale.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "They only have one tailor on staff.",
+              "raw": "(D) They only have one tailor on staff.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> President Tailoring cam kết giúp quý vị toả sang trong những bộ cánh đẹp nhất. Nếu quý vị đang nghĩ đến việc cập nhật tủ quần áo của mình để có những bộ trang phục vừa vặn tùy chỉnh, xin mời ghé qua cửa hàng của chúng tôi ở góc đường Lexington & Dupont để được lấy số đo miễn phí. Các thợ may của chúng tôi có tổng cộng 120 năm kinh nghiệm trong lĩnh vực may đo nam và nữ. Thợ may lành nghề nhất của chúng tôi, Jeffrey Frye, đã học nghề ở London trong 15 năm tại Học Viện Lorde Homme Tailors danh tiếng trước khi trở về quê hương ở Mỹ. Hãy để chúng tôi làm cho quý vị lịch lãm như một vị tổng thống; quý vị xứng đáng với điều đó.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83732",
+          "questionNumber": 26,
+          "questionText": "Look at the graphic. What is true about the pricing?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/67950764.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/51061611.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It can change based upon what material people want.",
+              "raw": "(A) It can change based upon what material people want.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Women’s gowns are popular.",
+              "raw": "(B) Women’s gowns are popular.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Most people choose the trousers, because they are a good deal.",
+              "raw": "(C) Most people choose the trousers, because they are a good deal.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Women’s ensembles are overpriced.",
+              "raw": "(D) Women’s ensembles are overpriced.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> President Tailoring cam kết giúp quý vị toả sang trong những bộ cánh đẹp nhất. Nếu quý vị đang nghĩ đến việc cập nhật tủ quần áo của mình để có những bộ trang phục vừa vặn tùy chỉnh, xin mời ghé qua cửa hàng của chúng tôi ở góc đường Lexington & Dupont để được lấy số đo miễn phí. Các thợ may của chúng tôi có tổng cộng 120 năm kinh nghiệm trong lĩnh vực may đo nam và nữ. Thợ may lành nghề nhất của chúng tôi, Jeffrey Frye, đã học nghề ở London trong 15 năm tại Học Viện Lorde Homme Tailors danh tiếng trước khi trở về quê hương ở Mỹ. Hãy để chúng tôi làm cho quý vị lịch lãm như một vị tổng thống; quý vị xứng đáng với điều đó.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83733",
+          "questionNumber": 27,
+          "questionText": "What can you infer about Presidential Tailoring?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/67950764.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/51061611.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "They are a discount clothier.",
+              "raw": "(A) They are a discount clothier.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "They work with leather.",
+              "raw": "(B) They work with leather.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Their target market is children.",
+              "raw": "(C) Their target market is children.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "They take a lot of pride in their work.",
+              "raw": "(D) They take a lot of pride in their work.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> President Tailoring cam kết giúp quý vị toả sang trong những bộ cánh đẹp nhất. Nếu quý vị đang nghĩ đến việc cập nhật tủ quần áo của mình để có những bộ trang phục vừa vặn tùy chỉnh, xin mời ghé qua cửa hàng của chúng tôi ở góc đường Lexington & Dupont để được lấy số đo miễn phí. Các thợ may của chúng tôi có tổng cộng 120 năm kinh nghiệm trong lĩnh vực may đo nam và nữ. Thợ may lành nghề nhất của chúng tôi, Jeffrey Frye, đã học nghề ở London trong 15 năm tại Học Viện Lorde Homme Tailors danh tiếng trước khi trở về quê hương ở Mỹ. Hãy để chúng tôi làm cho quý vị lịch lãm như một vị tổng thống; quý vị xứng đáng với điều đó.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "6305d10b5948b5402da83718",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/75371872.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/51527829.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nHello Ms. Johnson, I am calling about the invoice that you sent me last week. I just have a few questions I need to ask you about the quantities and pricing of some of the supplies that I ordered. I thought that you told me that if I ordered more than two dozen of any item that I would receive a discount of 5%. Is this correct? Additionally, I want to just confirm the numbers with you. I ordered 36 foot stools, 12 chairs, 117 small end tables and NO large end tables. I believe there was some confusion. Can you change the invoice to reflect my requested items?</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Johnson, tôi gọi điện để hỏi về hóa đơn mà cô đã gửi cho tôi tuần trước. Tôi chỉ có một số câu hỏi cần hỏi cô về số lượng và giá cả của một số mặt hàng mà tôi đã đặt hàng. Tôi tưởng cô đã nói với tôi rằng nếu tôi đặt hàng hơn hai chục món hàng bất kỳ thì tôi sẽ được giảm giá 5%. Điều này có đúng không? Ngoài ra, tôi chỉ muốn xác nhận các con số với cô. Tôi đã đặt hàng vài chiếc ghế đẩu 36 feet, 12 chiếc ghế thường, 117 chiếc bàn đầu nhỏ và KHÔNG hề đặt bàn đầu lớn. Tôi tin rằng đã có sự nhầm lẫn nào đó. Cô có thể thay đổi hóa đơn cho đúng với các mặt hàng tôi yêu cầu không?</p>\n",
+      "questions": [
+        {
+          "id": "6305d10c5948b5402da83734",
+          "questionNumber": 28,
+          "questionText": "Look at the graphic. Which volume discounts are incorrect?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/51527829.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/75371872.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Foot stools 3%",
+              "raw": "(A) Foot stools 3%",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Chairs 0%",
+              "raw": "(B) Chairs 0%",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Small end tables 5%",
+              "raw": "(C) Small end tables 5%",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Large end tables 5%",
+              "raw": "(D) Large end tables 5%",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Johnson, tôi gọi điện để hỏi về hóa đơn mà cô đã gửi cho tôi tuần trước. Tôi chỉ có một số câu hỏi cần hỏi cô về số lượng và giá cả của một số mặt hàng mà tôi đã đặt hàng. Tôi tưởng cô đã nói với tôi rằng nếu tôi đặt hàng hơn hai chục món hàng bất kỳ thì tôi sẽ được giảm giá 5%. Điều này có đúng không? Ngoài ra, tôi chỉ muốn xác nhận các con số với cô. Tôi đã đặt hàng vài chiếc ghế đẩu 36 feet, 12 chiếc ghế thường, 117 chiếc bàn đầu nhỏ và KHÔNG hề đặt bàn đầu lớn. Tôi tin rằng đã có sự nhầm lẫn nào đó. Cô có thể thay đổi hóa đơn cho đúng với các mặt hàng tôi yêu cầu không?</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83735",
+          "questionNumber": 29,
+          "questionText": "What is the listener asked to do with the invoice?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/51527829.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/75371872.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Change the Large end table orders to two dozen",
+              "raw": "(A) Change the Large end table orders to two dozen",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Make the invoice match the order",
+              "raw": "(B) Make the invoice match the order",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Send the invoice to the factory for completion",
+              "raw": "(C) Send the invoice to the factory for completion",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Send the invoice to accounting",
+              "raw": "(D) Send the invoice to accounting",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Johnson, tôi gọi điện để hỏi về hóa đơn mà cô đã gửi cho tôi tuần trước. Tôi chỉ có một số câu hỏi cần hỏi cô về số lượng và giá cả của một số mặt hàng mà tôi đã đặt hàng. Tôi tưởng cô đã nói với tôi rằng nếu tôi đặt hàng hơn hai chục món hàng bất kỳ thì tôi sẽ được giảm giá 5%. Điều này có đúng không? Ngoài ra, tôi chỉ muốn xác nhận các con số với cô. Tôi đã đặt hàng vài chiếc ghế đẩu 36 feet, 12 chiếc ghế thường, 117 chiếc bàn đầu nhỏ và KHÔNG hề đặt bàn đầu lớn. Tôi tin rằng đã có sự nhầm lẫn nào đó. Cô có thể thay đổi hóa đơn cho đúng với các mặt hàng tôi yêu cầu không?</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "6305d10c5948b5402da83736",
+          "questionNumber": 30,
+          "questionText": "What does the speaker anticipate will happen next?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/51527829.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/75371872.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She will receive her order.",
+              "raw": "(A) She will receive her order.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "She will receive a new invoice.",
+              "raw": "(B) She will receive a new invoice.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "She will have to place the order a third time.",
+              "raw": "(C) She will have to place the order a third time.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She will need to use a different supplier.",
+              "raw": "(D) She will need to use a different supplier.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Johnson, tôi gọi điện để hỏi về hóa đơn mà cô đã gửi cho tôi tuần trước. Tôi chỉ có một số câu hỏi cần hỏi cô về số lượng và giá cả của một số mặt hàng mà tôi đã đặt hàng. Tôi tưởng cô đã nói với tôi rằng nếu tôi đặt hàng hơn hai chục món hàng bất kỳ thì tôi sẽ được giảm giá 5%. Điều này có đúng không? Ngoài ra, tôi chỉ muốn xác nhận các con số với cô. Tôi đã đặt hàng vài chiếc ghế đẩu 36 feet, 12 chiếc ghế thường, 117 chiếc bàn đầu nhỏ và KHÔNG hề đặt bàn đầu lớn. Tôi tin rằng đã có sự nhầm lẫn nào đó. Cô có thể thay đổi hóa đơn cho đúng với các mặt hàng tôi yêu cầu không?</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    }
+  ]
+}

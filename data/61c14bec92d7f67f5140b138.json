@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b138",
+  "title": "Từ vựng: Promotions, Pensions, and Awards",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b205",
+        "questionNumber": 1,
+        "questionText": "achievement",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev169.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/achievement.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n accomplishment, a completed act",
+            "raw": "an accomplishment, a completed act",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>It was a remarkable<strong> </strong><strong>achievement </strong>for such a young player.</p>\n",
+        "explanationViHtml": "<p>Đ&oacute; l&agrave; một <strong>th&agrave;nh tựu </strong>đ&aacute;ng kể cho một cầu thủ trẻ như vậy</p>\n",
+        "transcriptHtml": "<p>It was a remarkable<strong> </strong><strong>achievement </strong>for such a young player.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b206",
+        "questionNumber": 2,
+        "questionText": "contribute",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev170.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/contribute.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to add to; to donate, to give",
+            "raw": "to add to; to donate, to give",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Make sure your boss is aware of the work you <strong>contributed</strong> to the project.</p>\n",
+        "explanationViHtml": "<p>H&atilde;y đảm bảo rằng sếp của bạn biết về c&ocirc;ng sức bạn đ&atilde; <strong>đ&oacute;ng g&oacute;p</strong> cho dự &aacute;n.</p>\n",
+        "transcriptHtml": "<p>Make sure your boss is aware of the work you <strong>contributed</strong> to the project.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b207",
+        "questionNumber": 3,
+        "questionText": "dedication",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev171.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/dedication.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "commitment to something",
+            "raw": "a commitment to something",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The director&#39;s <strong>dedication</strong> to a high-quality product has motivated many of his employees.</p>\n",
+        "explanationViHtml": "<p><strong>Sự tận t&acirc;m</strong> của gi&aacute;m đốc đối với sản phẩm chất lượng cao đ&atilde; tạo động lực cho nhiều nh&acirc;n vi&ecirc;n của &ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>The director&#39;s <strong>dedication</strong> to a high-quality product has motivated many of his employees.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b208",
+        "questionNumber": 4,
+        "questionText": "look forward to",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev172.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/look forward to.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to anticipate, to be eager for something to happen",
+            "raw": "to anticipate, to be eager for something to happen",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The regional director was <strong>looking forward to</strong> the new, larger offices.</p>\n",
+        "explanationViHtml": "<p>Gi&aacute;m đốc khu vực đang<strong> mong đợi </strong>được l&agrave;m việc tại văn ph&ograve;ng mới rộng r&atilde;i hơn.</p>\n",
+        "transcriptHtml": "<p>The regional director was <strong>looking forward to</strong> the new, larger offices.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b209",
+        "questionNumber": 5,
+        "questionText": "look to",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev173.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/look to.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to depend on, to rely on",
+            "raw": "to depend on, to rely on",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Many people<strong> look to</strong> their leaders for guidance</p>\n",
+        "explanationViHtml": "<p>Nhiều người <strong>tr&ocirc;ng chờ</strong> v&agrave;o c&aacute;c nh&agrave; l&atilde;nh đạo của họ để được hướng dẫn.</p>\n",
+        "transcriptHtml": "<p>Many people<strong> look to</strong> their leaders for guidance</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b20a",
+        "questionNumber": 6,
+        "questionText": "loyal",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev174.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/loyal.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "faithful, believing in someone or something",
+            "raw": "faithful, believing in someone or something",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>You have been such a <strong>loyal</strong> advisor for so many years, I&#39;m not sure what I&#39;ll do without you.</p>\n",
+        "explanationViHtml": "<p>Bạn đ&atilde; l&agrave; một người cố vấn<strong> trung th&agrave;nh</strong> trong nhiều năm, t&ocirc;i kh&ocirc;ng chắc m&igrave;nh sẽ l&agrave;m g&igrave; thiếu bạn.</p>\n",
+        "transcriptHtml": "<p>You have been such a <strong>loyal</strong> advisor for so many years, I&#39;m not sure what I&#39;ll do without you.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b20b",
+        "questionNumber": 7,
+        "questionText": "merit",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev175.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/merit.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "excellence, high quality",
+            "raw": "excellence, high quality",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Employees are evaluated on their <strong>merit </strong>and not on seniority.</p>\n",
+        "explanationViHtml": "<p>Nh&acirc;n vi&ecirc;n được đ&aacute;nh gi&aacute; dựa tr&ecirc;n <strong>năng lực</strong> chứ kh&ocirc;ng phải th&acirc;m ni&ecirc;n.</p>\n",
+        "transcriptHtml": "<p>Employees are evaluated on their <strong>merit </strong>and not on seniority.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b20c",
+        "questionNumber": 8,
+        "questionText": "obviously",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev176.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/obviously.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "learly, evidently",
+            "raw": "clearly, evidently",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p><strong>Obviously</strong>, we don&#39;t want to spend too much money.</p>\n",
+        "explanationViHtml": "<p><strong>R&otilde; r&agrave;ng </strong>l&agrave; ch&uacute;ng ta kh&ocirc;ng muốn tốn qu&aacute; nhiều tiền.</p>\n",
+        "transcriptHtml": "<p><strong>Obviously</strong>, we don&#39;t want to spend too much money.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b20d",
+        "questionNumber": 9,
+        "questionText": "productive",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev177.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/productive.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "useful, getting a lot done",
+            "raw": "useful, getting a lot done",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The researcher wasn&#39;t as<strong> productive</strong> when he first started working here.</p>\n",
+        "explanationViHtml": "<p>Nh&agrave; nghi&ecirc;n cứu kh&ocirc;ng l&agrave;m việc <strong>hiệu quả</strong> khi mới bắt đầu l&agrave;m việc ở đ&acirc;y.</p>\n",
+        "transcriptHtml": "<p>The researcher wasn&#39;t as<strong> productive</strong> when he first started working here.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b20e",
+        "questionNumber": 10,
+        "questionText": "promote",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/16075336-1488873625067.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/promote.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to give someone a better job; to support, to make known",
+            "raw": "to give someone a better job; to support, to make known",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Even though the sales associate had a good year, it wasn&rsquo;t possible to <strong>promote</strong> him.</p>\n",
+        "explanationViHtml": "<p>Mặc d&ugrave; nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng đ&atilde; c&oacute; một năm l&agrave;m việc tốt nhưng vẫn kh&ocirc;ng thể <strong>thăng chức</strong> cho anh ta.</p>\n",
+        "transcriptHtml": "<p>Even though the sales associate had a good year, it wasn&rsquo;t possible to <strong>promote</strong> him.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b20f",
+        "questionNumber": 11,
+        "questionText": "recognition",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev179.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/recognition.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "redit, praise for doing something well",
+            "raw": "credit, praise for doing something well",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>The president&#39;s personal assistant was finally given the <strong>recognition</strong> that she has deserved for many years.</p>\n",
+        "explanationViHtml": "<p>Trợ l&yacute; ri&ecirc;ng của tổng thống cuối c&ugrave;ng cũng được<strong> ghi nhận</strong> những g&igrave; b&agrave; xứng đ&aacute;ng nhận được trong nhiều năm qua.</p>\n",
+        "transcriptHtml": "<p>The president&#39;s personal assistant was finally given the <strong>recognition</strong> that she has deserved for many years.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b210",
+        "questionNumber": 12,
+        "questionText": "value",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev180.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/value.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To state the worth",
+            "raw": "To state the worth",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>It is difficult to put a <strong>value</strong> on the work that an employee does.</p>\n",
+        "explanationViHtml": "<p>Thật kh&oacute; để đ&aacute;nh gi&aacute; đ&uacute;ng <strong>gi&aacute; trị </strong>c&ocirc;ng việc m&agrave; một nh&acirc;n vi&ecirc;n l&agrave;m.</p>\n",
+        "transcriptHtml": "<p>It is difficult to put a <strong>value</strong> on the work that an employee does.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b205",
+      "word": "achievement",
+      "phonetic": "/əˈtʃiːvmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev169.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/achievement.mp3",
+      "meaningVi": "thành tựu",
+      "meaningEn": "an accomplishment, a completed act",
+      "exampleEnHtml": "<p>It was a remarkable<strong> </strong><strong>achievement </strong>for such a young player.</p>\n",
+      "exampleViHtml": "<p>Đ&oacute; l&agrave; một <strong>th&agrave;nh tựu </strong>đ&aacute;ng kể cho một cầu thủ trẻ như vậy</p>\n",
+      "exampleEn": "It was a remarkable achievement for such a young player.",
+      "exampleVi": "Đó là một thành tựu đáng kể cho một cầu thủ trẻ như vậy"
+    },
+    {
+      "id": "61c14bee92d7f67f5140b206",
+      "word": "contribute",
+      "phonetic": "/kənˈtrɪbjuːt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev170.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/contribute.mp3",
+      "meaningVi": "đóng góp",
+      "meaningEn": "to add to; to donate, to give",
+      "exampleEnHtml": "<p>Make sure your boss is aware of the work you <strong>contributed</strong> to the project.</p>\n",
+      "exampleViHtml": "<p>H&atilde;y đảm bảo rằng sếp của bạn biết về c&ocirc;ng sức bạn đ&atilde; <strong>đ&oacute;ng g&oacute;p</strong> cho dự &aacute;n.</p>\n",
+      "exampleEn": "Make sure your boss is aware of the work you contributed to the project.",
+      "exampleVi": "Hãy đảm bảo rằng sếp của bạn biết về công sức bạn đã đóng góp cho dự án."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b207",
+      "word": "dedication",
+      "phonetic": "/ˌdedɪˈkeɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev171.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/dedication.mp3",
+      "meaningVi": "Sự tận tâm",
+      "meaningEn": "a commitment to something",
+      "exampleEnHtml": "<p>The director&#39;s <strong>dedication</strong> to a high-quality product has motivated many of his employees.</p>\n",
+      "exampleViHtml": "<p><strong>Sự tận t&acirc;m</strong> của gi&aacute;m đốc đối với sản phẩm chất lượng cao đ&atilde; tạo động lực cho nhiều nh&acirc;n vi&ecirc;n của &ocirc;ng.</p>\n",
+      "exampleEn": "The director's dedication to a high-quality product has motivated many of his employees.",
+      "exampleVi": "Sự tận tâm của giám đốc đối với sản phẩm chất lượng cao đã tạo động lực cho nhiều nhân viên của ông."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b208",
+      "word": "look forward to",
+      "phonetic": "/lʊk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev172.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/look forward to.mp3",
+      "meaningVi": "mong đợi",
+      "meaningEn": "to anticipate, to be eager for something to happen",
+      "exampleEnHtml": "<p>The regional director was <strong>looking forward to</strong> the new, larger offices.</p>\n",
+      "exampleViHtml": "<p>Gi&aacute;m đốc khu vực đang<strong> mong đợi </strong>được l&agrave;m việc tại văn ph&ograve;ng mới rộng r&atilde;i hơn.</p>\n",
+      "exampleEn": "The regional director was looking forward to the new, larger offices.",
+      "exampleVi": "Giám đốc khu vực đang mong đợi được làm việc tại văn phòng mới rộng rãi hơn."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b209",
+      "word": "look to",
+      "phonetic": "/lʊk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev173.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/look to.mp3",
+      "meaningVi": "trông chờ",
+      "meaningEn": "to depend on, to rely on",
+      "exampleEnHtml": "<p>Many people<strong> look to</strong> their leaders for guidance</p>\n",
+      "exampleViHtml": "<p>Nhiều người <strong>tr&ocirc;ng chờ</strong> v&agrave;o c&aacute;c nh&agrave; l&atilde;nh đạo của họ để được hướng dẫn.</p>\n",
+      "exampleEn": "Many people look to their leaders for guidance",
+      "exampleVi": "Nhiều người trông chờ vào các nhà lãnh đạo của họ để được hướng dẫn."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b20a",
+      "word": "loyal",
+      "phonetic": "/ˈlɔɪəl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev174.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/loyal.mp3",
+      "meaningVi": "trung thành",
+      "meaningEn": "faithful, believing in someone or something",
+      "exampleEnHtml": "<p>You have been such a <strong>loyal</strong> advisor for so many years, I&#39;m not sure what I&#39;ll do without you.</p>\n",
+      "exampleViHtml": "<p>Bạn đ&atilde; l&agrave; một người cố vấn<strong> trung th&agrave;nh</strong> trong nhiều năm, t&ocirc;i kh&ocirc;ng chắc m&igrave;nh sẽ l&agrave;m g&igrave; thiếu bạn.</p>\n",
+      "exampleEn": "You have been such a loyal advisor for so many years, I'm not sure what I'll do without you.",
+      "exampleVi": "Bạn đã là một người cố vấn trung thành trong nhiều năm, tôi không chắc mình sẽ làm gì thiếu bạn."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b20b",
+      "word": "merit",
+      "phonetic": "/ˈmerɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev175.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/merit.mp3",
+      "meaningVi": "năng lực",
+      "meaningEn": "excellence, high quality",
+      "exampleEnHtml": "<p>Employees are evaluated on their <strong>merit </strong>and not on seniority.</p>\n",
+      "exampleViHtml": "<p>Nh&acirc;n vi&ecirc;n được đ&aacute;nh gi&aacute; dựa tr&ecirc;n <strong>năng lực</strong> chứ kh&ocirc;ng phải th&acirc;m ni&ecirc;n.</p>\n",
+      "exampleEn": "Employees are evaluated on their merit and not on seniority.",
+      "exampleVi": "Nhân viên được đánh giá dựa trên năng lực chứ không phải thâm niên."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b20c",
+      "word": "obviously",
+      "phonetic": "/ˈɑːbviəsli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev176.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/obviously.mp3",
+      "meaningVi": "Rõ ràng",
+      "meaningEn": "clearly, evidently",
+      "exampleEnHtml": "<p><strong>Obviously</strong>, we don&#39;t want to spend too much money.</p>\n",
+      "exampleViHtml": "<p><strong>R&otilde; r&agrave;ng </strong>l&agrave; ch&uacute;ng ta kh&ocirc;ng muốn tốn qu&aacute; nhiều tiền.</p>\n",
+      "exampleEn": "Obviously, we don't want to spend too much money.",
+      "exampleVi": "Rõ ràng là chúng ta không muốn tốn quá nhiều tiền."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b20d",
+      "word": "productive",
+      "phonetic": "/prəˈdʌktɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev177.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/productive.mp3",
+      "meaningVi": "hiệu quả",
+      "meaningEn": "useful, getting a lot done",
+      "exampleEnHtml": "<p>The researcher wasn&#39;t as<strong> productive</strong> when he first started working here.</p>\n",
+      "exampleViHtml": "<p>Nh&agrave; nghi&ecirc;n cứu kh&ocirc;ng l&agrave;m việc <strong>hiệu quả</strong> khi mới bắt đầu l&agrave;m việc ở đ&acirc;y.</p>\n",
+      "exampleEn": "The researcher wasn't as productive when he first started working here.",
+      "exampleVi": "Nhà nghiên cứu không làm việc hiệu quả khi mới bắt đầu làm việc ở đây."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b20e",
+      "word": "promote",
+      "phonetic": "/prəˈmoʊt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/16075336-1488873625067.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/promote.mp3",
+      "meaningVi": "thăng chức",
+      "meaningEn": "to give someone a better job; to support, to make known",
+      "exampleEnHtml": "<p>Even though the sales associate had a good year, it wasn&rsquo;t possible to <strong>promote</strong> him.</p>\n",
+      "exampleViHtml": "<p>Mặc d&ugrave; nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng đ&atilde; c&oacute; một năm l&agrave;m việc tốt nhưng vẫn kh&ocirc;ng thể <strong>thăng chức</strong> cho anh ta.</p>\n",
+      "exampleEn": "Even though the sales associate had a good year, it wasn’t possible to promote him.",
+      "exampleVi": "Mặc dù nhân viên bán hàng đã có một năm làm việc tốt nhưng vẫn không thể thăng chức cho anh ta."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b20f",
+      "word": "recognition",
+      "phonetic": "/ˌrekəɡˈnɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev179.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/recognition.mp3",
+      "meaningVi": "ghi nhận",
+      "meaningEn": "credit, praise for doing something well",
+      "exampleEnHtml": "<p>The president&#39;s personal assistant was finally given the <strong>recognition</strong> that she has deserved for many years.</p>\n",
+      "exampleViHtml": "<p>Trợ l&yacute; ri&ecirc;ng của tổng thống cuối c&ugrave;ng cũng được<strong> ghi nhận</strong> những g&igrave; b&agrave; xứng đ&aacute;ng nhận được trong nhiều năm qua.</p>\n",
+      "exampleEn": "The president's personal assistant was finally given the recognition that she has deserved for many years.",
+      "exampleVi": "Trợ lý riêng của tổng thống cuối cùng cũng được ghi nhận những gì bà xứng đáng nhận được trong nhiều năm qua."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b210",
+      "word": "value",
+      "phonetic": "/ˈvæljuː/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev180.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/value.mp3",
+      "meaningVi": "giá trị",
+      "meaningEn": "To state the worth",
+      "exampleEnHtml": "<p>It is difficult to put a <strong>value</strong> on the work that an employee does.</p>\n",
+      "exampleViHtml": "<p>Thật kh&oacute; để đ&aacute;nh gi&aacute; đ&uacute;ng <strong>gi&aacute; trị </strong>c&ocirc;ng việc m&agrave; một nh&acirc;n vi&ecirc;n l&agrave;m.</p>\n",
+      "exampleEn": "It is difficult to put a value on the work that an employee does.",
+      "exampleVi": "Thật khó để đánh giá đúng giá trị công việc mà một nhân viên làm."
+    }
+  ],
+  "totalFlashcards": 12
+}

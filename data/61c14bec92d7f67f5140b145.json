@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b145",
+  "title": "Từ vựng: Financial Statements",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2b8",
+        "questionNumber": 1,
+        "questionText": "desire",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev289.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/desire.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to wish for",
+            "raw": "to wish for",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We all <strong>desire</strong> health and happiness.</p>\n",
+        "explanationViHtml": "<p>Tất cả ch&uacute;ng ta đều <strong>khao kh&aacute;t</strong> sức khỏe v&agrave; hạnh ph&uacute;c.</p>\n",
+        "transcriptHtml": "<p>We all <strong>desire</strong> health and happiness.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2b9",
+        "questionNumber": 2,
+        "questionText": "detail",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev290.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/detail.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to report or relate minutely or in particulars",
+            "raw": "to report or relate minutely or in particulars",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The office manager <strong>detailed</strong> each step of the inventory process at the staff meeting.</p>\n",
+        "explanationViHtml": "<p>Quản l&yacute; văn ph&ograve;ng đ&atilde; <strong>tr&igrave;nh b&agrave;y chi tiết</strong> từng bước của quy tr&igrave;nh kiểm k&ecirc; tại cuộc họp nh&acirc;n vi&ecirc;n.</p>\n",
+        "transcriptHtml": "<p>The office manager <strong>detailed</strong> each step of the inventory process at the staff meeting.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2ba",
+        "questionNumber": 3,
+        "questionText": "forecast",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev291.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/forecast.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "prediction of a future event; to estimate or calculate in advance",
+            "raw": "a prediction of a future event; to estimate or calculate in advance",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The financial <strong>forecast</strong> indicates a deficit in the next quarter.</p>\n",
+        "explanationViHtml": "<p><strong>Dự b&aacute;o</strong> t&agrave;i ch&iacute;nh cho thấy th&acirc;m hụt trong qu&yacute; tiếp theo.</p>\n",
+        "transcriptHtml": "<p>The financial <strong>forecast</strong> indicates a deficit in the next quarter.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2bb",
+        "questionNumber": 4,
+        "questionText": "level",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev292.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/level.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "relative position or rank on a scale",
+            "raw": "a relative position or rank on a scale",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We have never had an accountant work at such a sophisticated <strong>level</strong> before.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i chưa từng c&oacute; kế to&aacute;n n&agrave;o l&agrave;m việc ở <strong>mức độ</strong> tinh vi như vậy trước đ&acirc;y.</p>\n",
+        "transcriptHtml": "<p>We have never had an accountant work at such a sophisticated <strong>level</strong> before.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2bc",
+        "questionNumber": 5,
+        "questionText": "overall",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev293.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/Overall.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "regarded as a whole; general",
+            "raw": "regarded as a whole; general",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company&rsquo;s <strong>overall</strong> expectations were out of proportion.</p>\n",
+        "explanationViHtml": "<p>Kỳ vọng <strong>tổng thể</strong> của c&ocirc;ng ty đ&atilde; vượt qu&aacute; mức hợp l&yacute;.</p>\n",
+        "transcriptHtml": "<p>The company&rsquo;s <strong>overall</strong> expectations were out of proportion.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2bd",
+        "questionNumber": 6,
+        "questionText": "perspective",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev294.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/perspective.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "mental view or outlook",
+            "raw": "a mental view or outlook",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The budget statement will give the manager some <strong>perspective</strong> on where the costs of running the business are to be found.</p>\n",
+        "explanationViHtml": "<p>B&aacute;o c&aacute;o ng&acirc;n s&aacute;ch sẽ cung cấp cho người quản l&yacute; <strong>c&aacute;i nh&igrave;n</strong> tổng quan về c&aacute;c khoản chi ph&iacute; trong việc điều h&agrave;nh doanh nghiệp.</p>\n",
+        "transcriptHtml": "<p>The budget statement will give the manager some <strong>perspective</strong> on where the costs of running the business are to be found.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2be",
+        "questionNumber": 7,
+        "questionText": "project",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev295.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/project.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to estimate or project/ a planned piece of work",
+            "raw": "to estimate or project/ a planned piece of work",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The next edition of the book is <strong>projected</strong> for publication in March.</p>\n",
+        "explanationViHtml": "<p>Ấn bản tiếp theo của cuốn s&aacute;ch <strong>dự kiến</strong> sẽ được xuất bản v&agrave;o th&aacute;ng Ba.</p>\n",
+        "transcriptHtml": "<p>The next edition of the book is <strong>projected</strong> for publication in March.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2bf",
+        "questionNumber": 8,
+        "questionText": "realistic",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev296.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/realistic.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "tending to or expressing an awareness of things as they really are",
+            "raw": "tending to or expressing an awareness of things as they really are",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Stefano found that an accurate accounting gave him a <strong>realistic</strong> idea of his business&rsquo;s financial direction.</p>\n",
+        "explanationViHtml": "<p>Stefano nhận thấy rằng việc kế to&aacute;n ch&iacute;nh x&aacute;c đ&atilde; gi&uacute;p anh c&oacute; c&aacute;i nh&igrave;n <strong>thực tế</strong> về hướng đi t&agrave;i ch&iacute;nh của doanh nghiệp m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>Stefano found that an accurate accounting gave him a <strong>realistic</strong> idea of his business&rsquo;s financial direction.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c0",
+        "questionNumber": 9,
+        "questionText": "target",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev297.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/target.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to establish as a goal; a goal",
+            "raw": "to establish as a goal; a goal",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We <strong>targeted</strong> March as the deadline for completing the financial statement.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; <strong>x&aacute;c định</strong> th&aacute;ng Ba l&agrave; thời hạn để ho&agrave;n tất b&aacute;o c&aacute;o t&agrave;i ch&iacute;nh.</p>\n",
+        "transcriptHtml": "<p>We <strong>targeted</strong> March as the deadline for completing the financial statement.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c1",
+        "questionNumber": 10,
+        "questionText": "translation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev298.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/translation.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the act or process of translating",
+            "raw": "the act or process of translating",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>translation</strong> of the statement from Japanese into English was very helpful.</p>\n",
+        "explanationViHtml": "<p><strong>Bản dịch</strong> của tuy&ecirc;n bố từ tiếng Nhật sang tiếng Anh rất hữu &iacute;ch.</p>\n",
+        "transcriptHtml": "<p>The <strong>translation</strong> of the statement from Japanese into English was very helpful.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c2",
+        "questionNumber": 11,
+        "questionText": "typically",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev299.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/typically.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "cting in conformity to a type; characteristically",
+            "raw": "acting in conformity to a type; characteristically",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The factory <strong>typically</strong> produces 500 chairs a week.</p>\n",
+        "explanationViHtml": "<p>Nh&agrave; m&aacute;y <strong>thường</strong> sản xuất 500 chiếc ghế mỗi tuần.</p>\n",
+        "transcriptHtml": "<p>The factory <strong>typically</strong> produces 500 chairs a week.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c3",
+        "questionNumber": 12,
+        "questionText": "yield",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev300.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/yield.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n amount produced; to produce a profit",
+            "raw": "an amount produced; to produce a profit",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Henry&#39;s budget gave him the desired <strong>yield</strong>: a better indication of his expected profit.</p>\n",
+        "explanationViHtml": "<p>Ng&acirc;n s&aacute;ch của Henry đ&atilde; mang lại cho anh <strong>mức lợi nhuận</strong> như mong muốn: một chỉ b&aacute;o tốt hơn về lợi nhuận kỳ vọng của anh.</p>\n",
+        "transcriptHtml": "<p>Henry&#39;s budget gave him the desired <strong>yield</strong>: a better indication of his expected profit.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b2b8",
+      "word": "desire",
+      "phonetic": "/dɪˈzaɪər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev289.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/desire.mp3",
+      "meaningVi": "khao khát",
+      "meaningEn": "to wish for",
+      "exampleEnHtml": "<p>We all <strong>desire</strong> health and happiness.</p>\n",
+      "exampleViHtml": "<p>Tất cả ch&uacute;ng ta đều <strong>khao kh&aacute;t</strong> sức khỏe v&agrave; hạnh ph&uacute;c.</p>\n",
+      "exampleEn": "We all desire health and happiness.",
+      "exampleVi": "Tất cả chúng ta đều khao khát sức khỏe và hạnh phúc."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2b9",
+      "word": "detail",
+      "phonetic": "/ˈdiːteɪl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev290.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/detail.mp3",
+      "meaningVi": "trình bày chi tiết",
+      "meaningEn": "to report or relate minutely or in particulars",
+      "exampleEnHtml": "<p>The office manager <strong>detailed</strong> each step of the inventory process at the staff meeting.</p>\n",
+      "exampleViHtml": "<p>Quản l&yacute; văn ph&ograve;ng đ&atilde; <strong>tr&igrave;nh b&agrave;y chi tiết</strong> từng bước của quy tr&igrave;nh kiểm k&ecirc; tại cuộc họp nh&acirc;n vi&ecirc;n.</p>\n",
+      "exampleEn": "The office manager detailed each step of the inventory process at the staff meeting.",
+      "exampleVi": "Quản lý văn phòng đã trình bày chi tiết từng bước của quy trình kiểm kê tại cuộc họp nhân viên."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2ba",
+      "word": "forecast",
+      "phonetic": "/ˈfɔːrkæst/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev291.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/forecast.mp3",
+      "meaningVi": "Dự báo",
+      "meaningEn": "a prediction of a future event; to estimate or calculate in advance",
+      "exampleEnHtml": "<p>The financial <strong>forecast</strong> indicates a deficit in the next quarter.</p>\n",
+      "exampleViHtml": "<p><strong>Dự b&aacute;o</strong> t&agrave;i ch&iacute;nh cho thấy th&acirc;m hụt trong qu&yacute; tiếp theo.</p>\n",
+      "exampleEn": "The financial forecast indicates a deficit in the next quarter.",
+      "exampleVi": "Dự báo tài chính cho thấy thâm hụt trong quý tiếp theo."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2bb",
+      "word": "level",
+      "phonetic": "/ˈlevl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev292.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/level.mp3",
+      "meaningVi": "mức độ",
+      "meaningEn": "a relative position or rank on a scale",
+      "exampleEnHtml": "<p>We have never had an accountant work at such a sophisticated <strong>level</strong> before.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i chưa từng c&oacute; kế to&aacute;n n&agrave;o l&agrave;m việc ở <strong>mức độ</strong> tinh vi như vậy trước đ&acirc;y.</p>\n",
+      "exampleEn": "We have never had an accountant work at such a sophisticated level before.",
+      "exampleVi": "Chúng tôi chưa từng có kế toán nào làm việc ở mức độ tinh vi như vậy trước đây."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2bc",
+      "word": "overall",
+      "phonetic": "/ˌoʊvərˈɔːl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev293.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/Overall.mp3",
+      "meaningVi": "tổng thể",
+      "meaningEn": "regarded as a whole; general",
+      "exampleEnHtml": "<p>The company&rsquo;s <strong>overall</strong> expectations were out of proportion.</p>\n",
+      "exampleViHtml": "<p>Kỳ vọng <strong>tổng thể</strong> của c&ocirc;ng ty đ&atilde; vượt qu&aacute; mức hợp l&yacute;.</p>\n",
+      "exampleEn": "The company’s overall expectations were out of proportion.",
+      "exampleVi": "Kỳ vọng tổng thể của công ty đã vượt quá mức hợp lý."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2bd",
+      "word": "perspective",
+      "phonetic": "/pərˈspektɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev294.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/perspective.mp3",
+      "meaningVi": "cái nhìn",
+      "meaningEn": "a mental view or outlook",
+      "exampleEnHtml": "<p>The budget statement will give the manager some <strong>perspective</strong> on where the costs of running the business are to be found.</p>\n",
+      "exampleViHtml": "<p>B&aacute;o c&aacute;o ng&acirc;n s&aacute;ch sẽ cung cấp cho người quản l&yacute; <strong>c&aacute;i nh&igrave;n</strong> tổng quan về c&aacute;c khoản chi ph&iacute; trong việc điều h&agrave;nh doanh nghiệp.</p>\n",
+      "exampleEn": "The budget statement will give the manager some perspective on where the costs of running the business are to be found.",
+      "exampleVi": "Báo cáo ngân sách sẽ cung cấp cho người quản lý cái nhìn tổng quan về các khoản chi phí trong việc điều hành doanh nghiệp."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2be",
+      "word": "project",
+      "phonetic": "/ˈprɑːdʒekt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev295.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/project.mp3",
+      "meaningVi": "dự kiến",
+      "meaningEn": "to estimate or project/ a planned piece of work",
+      "exampleEnHtml": "<p>The next edition of the book is <strong>projected</strong> for publication in March.</p>\n",
+      "exampleViHtml": "<p>Ấn bản tiếp theo của cuốn s&aacute;ch <strong>dự kiến</strong> sẽ được xuất bản v&agrave;o th&aacute;ng Ba.</p>\n",
+      "exampleEn": "The next edition of the book is projected for publication in March.",
+      "exampleVi": "Ấn bản tiếp theo của cuốn sách dự kiến sẽ được xuất bản vào tháng Ba."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2bf",
+      "word": "realistic",
+      "phonetic": "/ˌriːəˈlɪstɪk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev296.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/realistic.mp3",
+      "meaningVi": "thực tế",
+      "meaningEn": "tending to or expressing an awareness of things as they really are",
+      "exampleEnHtml": "<p>Stefano found that an accurate accounting gave him a <strong>realistic</strong> idea of his business&rsquo;s financial direction.</p>\n",
+      "exampleViHtml": "<p>Stefano nhận thấy rằng việc kế to&aacute;n ch&iacute;nh x&aacute;c đ&atilde; gi&uacute;p anh c&oacute; c&aacute;i nh&igrave;n <strong>thực tế</strong> về hướng đi t&agrave;i ch&iacute;nh của doanh nghiệp m&igrave;nh.</p>\n",
+      "exampleEn": "Stefano found that an accurate accounting gave him a realistic idea of his business’s financial direction.",
+      "exampleVi": "Stefano nhận thấy rằng việc kế toán chính xác đã giúp anh có cái nhìn thực tế về hướng đi tài chính của doanh nghiệp mình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c0",
+      "word": "target",
+      "phonetic": "/ˈtɑːrɡɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev297.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/target.mp3",
+      "meaningVi": "xác định",
+      "meaningEn": "to establish as a goal; a goal",
+      "exampleEnHtml": "<p>We <strong>targeted</strong> March as the deadline for completing the financial statement.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; <strong>x&aacute;c định</strong> th&aacute;ng Ba l&agrave; thời hạn để ho&agrave;n tất b&aacute;o c&aacute;o t&agrave;i ch&iacute;nh.</p>\n",
+      "exampleEn": "We targeted March as the deadline for completing the financial statement.",
+      "exampleVi": "Chúng tôi đã xác định tháng Ba là thời hạn để hoàn tất báo cáo tài chính."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c1",
+      "word": "translation",
+      "phonetic": "/trænsˈleɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev298.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/translation.mp3",
+      "meaningVi": "Bản dịch",
+      "meaningEn": "the act or process of translating",
+      "exampleEnHtml": "<p>The <strong>translation</strong> of the statement from Japanese into English was very helpful.</p>\n",
+      "exampleViHtml": "<p><strong>Bản dịch</strong> của tuy&ecirc;n bố từ tiếng Nhật sang tiếng Anh rất hữu &iacute;ch.</p>\n",
+      "exampleEn": "The translation of the statement from Japanese into English was very helpful.",
+      "exampleVi": "Bản dịch của tuyên bố từ tiếng Nhật sang tiếng Anh rất hữu ích."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c2",
+      "word": "typically",
+      "phonetic": "/ˈtɪpɪkli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev299.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/typically.mp3",
+      "meaningVi": "thường",
+      "meaningEn": "acting in conformity to a type; characteristically",
+      "exampleEnHtml": "<p>The factory <strong>typically</strong> produces 500 chairs a week.</p>\n",
+      "exampleViHtml": "<p>Nh&agrave; m&aacute;y <strong>thường</strong> sản xuất 500 chiếc ghế mỗi tuần.</p>\n",
+      "exampleEn": "The factory typically produces 500 chairs a week.",
+      "exampleVi": "Nhà máy thường sản xuất 500 chiếc ghế mỗi tuần."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c3",
+      "word": "yield",
+      "phonetic": "/jiːld/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev300.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/yield.mp3",
+      "meaningVi": "mức lợi nhuận",
+      "meaningEn": "an amount produced; to produce a profit",
+      "exampleEnHtml": "<p>Henry&#39;s budget gave him the desired <strong>yield</strong>: a better indication of his expected profit.</p>\n",
+      "exampleViHtml": "<p>Ng&acirc;n s&aacute;ch của Henry đ&atilde; mang lại cho anh <strong>mức lợi nhuận</strong> như mong muốn: một chỉ b&aacute;o tốt hơn về lợi nhuận kỳ vọng của anh.</p>\n",
+      "exampleEn": "Henry's budget gave him the desired yield: a better indication of his expected profit.",
+      "exampleVi": "Ngân sách của Henry đã mang lại cho anh mức lợi nhuận như mong muốn: một chỉ báo tốt hơn về lợi nhuận kỳ vọng của anh."
+    }
+  ],
+  "totalFlashcards": 12
+}

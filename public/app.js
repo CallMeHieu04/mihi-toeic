@@ -1,0 +1,3785 @@
+/**
+ * TOEIC Test Pro 2026 - Modern Application Logic (V2 Accurate Engine)
+ */
+
+// Global State
+let testsSummary = { full_tests: [], mini_tests: [] };
+let practiceSummary = [];
+let currentTest = null;
+let flatQuestions = []; // Array of { question, group }
+let testClusters = []; // Array of clusters (single or group)
+let activeClusterIndex = 0;
+let activeQuestionIndex = 0;
+let userAnswers = {}; // { [questionNumber]: 'A' | 'B' | 'C' | 'D' }
+let flaggedQuestions = new Set();
+let isPracticeMode = false;
+let isSimulationMode = false;
+let activeSimulationPart = 1;
+let isSimulationPaused = false;
+let examTimer = null;
+let timeRemaining = 7200;
+let totalDurationSeconds = 7200;
+let timeSpentSeconds = 0;
+let lastResult = null;
+let currentReviewFilter = 'all';
+let passageFontSize = 14;
+
+const TOEIC_PARTS_INFO = [
+  { 
+    part: 1, 
+    name: 'Part 1: Photographs', 
+    shortName: 'Part 1', 
+    startQ: 1, 
+    endQ: 6, 
+    totalQ: 6, 
+    directions: 'Directions: For each question in this part, you will hear four statements about a picture on your screen. When you hear the statements, you must select the one statement that best describes what you see in the picture. Then, click on the letter of the answer you want to choose. The statements will not be shown on your screen and will be spoken only once.' 
+  },
+  { 
+    part: 2, 
+    name: 'Part 2: Question - Response', 
+    shortName: 'Part 2', 
+    startQ: 7, 
+    endQ: 31, 
+    totalQ: 25, 
+    directions: 'Directions: You will hear a question or statement and three responses spoken in English. They will not be spoken again and will not appear on your test screen. You must listen carefully and select the best response to the question or statement by choosing (A), (B), or (C).' 
+  },
+  { 
+    part: 3, 
+    name: 'Part 3: Conversations', 
+    shortName: 'Part 3', 
+    startQ: 32, 
+    endQ: 70, 
+    totalQ: 39, 
+    directions: 'Directions: You will hear some conversations between two or more people. You will be asked to answer three questions about what the speakers say in each conversation. Select the best response to each question and mark the letter (A), (B), (C), or (D). The conversations will not be printed on your screen and will be spoken only once.' 
+  },
+  { 
+    part: 4, 
+    name: 'Part 4: Short Talks', 
+    shortName: 'Part 4', 
+    startQ: 71, 
+    endQ: 100, 
+    totalQ: 30, 
+    directions: 'Directions: You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk. Select the best response to each question and mark the letter (A), (B), (C), or (D). The talks will not be printed on your screen and will be spoken only once.' 
+  },
+  { 
+    part: 5, 
+    name: 'Part 5: Incomplete Sentences', 
+    shortName: 'Part 5', 
+    startQ: 101, 
+    endQ: 130, 
+    totalQ: 30, 
+    directions: 'Directions: A word or phrase is missing in each of the following sentences. Four answer choices are given below each sentence. Select the best answer to complete the sentence by choosing (A), (B), (C), or (D).' 
+  },
+  { 
+    part: 6, 
+    name: 'Part 6: Text Completion', 
+    shortName: 'Part 6', 
+    startQ: 131, 
+    endQ: 146, 
+    totalQ: 16, 
+    directions: 'Directions: Read the texts that follow. A word, phrase, or sentence is missing in parts of each text. Four answer choices for each question are given below the text. Select the best answer to complete the text by choosing (A), (B), (C), or (D).' 
+  },
+  { 
+    part: 7, 
+    name: 'Part 7: Reading Comprehension', 
+    shortName: 'Part 7', 
+    startQ: 147, 
+    endQ: 200, 
+    totalQ: 54, 
+    directions: 'Directions: In this part you will read a selection of texts, such as notices, letters, forms, and newspaper and magazine articles. Each text or set of texts is followed by several questions. Select the best answer for each question and mark the letter (A), (B), (C), or (D).' 
+  }
+];
+
+// Initialize
+document.addEventListener('DOMContentLoaded', async () => {
+  if (window.lucide) lucide.createIcons();
+  await loadInitialData();
+  setupKeyboardShortcuts();
+});
+
+// Load summary metadata from API
+async function loadInitialData() {
+  try {
+    const [testsResp, practiceResp] = await Promise.all([
+      fetch('/api/tests'),
+      fetch('/api/practice')
+    ]);
+
+    if (testsResp.ok) {
+      testsSummary = await testsResp.json();
+      renderFullTestsGrid();
+      renderSimulationGrid();
+      renderMiniTestsGrid();
+    }
+
+    if (practiceResp.ok) {
+      practiceSummary = await practiceResp.json();
+      renderPracticeGrid();
+      renderGrammarGrid();
+      renderVocabularyGrid();
+    }
+  } catch (err) {
+    console.error('Failed to load initial data:', err);
+  }
+}
+
+// ================= VIEW SWITCHER =================
+function showView(viewName) {
+  document.querySelectorAll('.view-panel').forEach(p => p.classList.add('hidden'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+
+  const targetView = document.getElementById(`view-${viewName}`);
+  if (targetView) targetView.classList.remove('hidden');
+
+  // Hide Main Site Header & Footer in Focus Modes (Flashcard & Exam)
+  const mainHeader = document.querySelector('header');
+  const mainFooter = document.querySelector('footer');
+  if (viewName === 'flashcard' || viewName === 'exam') {
+    if (mainHeader) mainHeader.classList.add('hidden');
+    if (mainFooter) mainFooter.classList.add('hidden');
+  } else {
+    if (mainHeader) mainHeader.classList.remove('hidden');
+    if (mainFooter) mainFooter.classList.remove('hidden');
+  }
+
+  if (viewName !== 'exam' && examTimer) {
+    clearInterval(examTimer);
+    examTimer = null;
+  }
+
+  const matchingNav = Array.from(document.querySelectorAll('.nav-btn')).find(b => 
+    b.getAttribute('onclick')?.includes(viewName)
+  );
+  if (matchingNav) matchingNav.classList.add('active');
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  if (window.lucide) lucide.createIcons();
+
+  if (viewName === 'history') {
+    loadStudyHistory();
+  }
+}
+
+// Switch Category Tabs in Home View
+function switchTab(tabId) {
+  showView('home');
+
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden'));
+
+  const btn = document.getElementById(`tab-btn-${tabId}`);
+  const content = document.getElementById(`tab-${tabId}`);
+  if (btn) btn.classList.add('active');
+  if (content) content.classList.remove('hidden');
+
+  if (window.lucide) lucide.createIcons();
+}
+
+// ================= RENDER HOMEPAGE GRIDS =================
+
+function renderSimulationGrid() {
+  const container = document.getElementById('simulation-grid');
+  const countBadge = document.getElementById('simulation-count');
+  if (!container) return;
+
+  const tests = testsSummary.full_tests || [];
+  if (countBadge) countBadge.textContent = `${tests.length} đề thi mô phỏng`;
+
+  container.innerHTML = tests.map((t, idx) => `
+    <div class="bg-white rounded-3xl p-6 shadow-sm hover:shadow-xl border border-slate-200 transition-all flex flex-col justify-between group">
+      <div>
+        <div class="flex items-center justify-between mb-3">
+          <span class="px-3 py-1 rounded-full text-[11px] font-black uppercase tracking-wider bg-purple-50 text-[#5648ee]">
+            Mô phỏng máy tính
+          </span>
+          <span class="text-xs font-bold text-slate-400">#${String(idx + 1).padStart(2, '0')}</span>
+        </div>
+        <h3 class="text-xl font-extrabold text-slate-900 group-hover:text-[#5648ee] transition mb-3">
+          ${t.name}
+        </h3>
+        <p class="text-xs text-slate-500 mb-4 leading-relaxed">
+          Đầy đủ 7 Part (200 câu hỏi), thời gian 120 phút. Trải nghiệm giao diện thi thật trên máy tính chuẩn ETS TOEIC.
+        </p>
+        <div class="flex items-center gap-4 text-xs font-bold text-slate-500 mb-6">
+          <span class="flex items-center gap-1.5"><i data-lucide="help-circle" class="w-4 h-4 text-slate-400"></i> ${t.questionsNum || 200} câu</span>
+          <span class="flex items-center gap-1.5"><i data-lucide="clock" class="w-4 h-4 text-slate-400"></i> ${t.duration || 120} phút</span>
+          <span class="flex items-center gap-1.5"><i data-lucide="monitor" class="w-4 h-4 text-[#5648ee]"></i> Thi máy</span>
+        </div>
+      </div>
+      <div class="pt-4 border-t border-slate-100">
+        <button onclick="startSimulationTest('${t.id}', '${t.name.trim()}')" class="w-full py-3 px-4 rounded-xl bg-[#5648ee] hover:bg-[#4335df] text-white font-extrabold text-xs shadow-md shadow-indigo-500/20 transition flex items-center justify-center gap-2 cursor-pointer">
+          <i data-lucide="play" class="w-4 h-4 fill-current"></i> Bắt đầu thi mô phỏng
+        </button>
+      </div>
+    </div>
+  `).join('');
+
+  if (window.lucide) lucide.createIcons();
+}
+
+async function startSimulationTest(testId, testTitle) {
+  isSimulationMode = true;
+  activeSimulationPart = 1;
+  isSimulationPaused = false;
+  await startTest(testId, testTitle, false, true);
+}
+
+function renderFullTestsGrid() {
+  const container = document.getElementById('fulltest-grid');
+  const countBadge = document.getElementById('fulltest-count');
+  if (!container) return;
+
+  const tests = testsSummary.full_tests || [];
+  if (countBadge) countBadge.textContent = `${tests.length} đề thi`;
+
+  container.innerHTML = tests.map((t, idx) => `
+    <div class="bg-white rounded-3xl p-6 shadow-sm hover:shadow-xl border border-slate-200 transition-all flex flex-col justify-between group">
+      <div>
+        <div class="flex items-center justify-between mb-3">
+          <span class="px-3 py-1 rounded-full text-[11px] font-black uppercase tracking-wider bg-blue-50 text-[#5648ee]">
+            Full Test
+          </span>
+          <span class="text-xs font-bold text-slate-400">#${String(idx + 1).padStart(2, '0')}</span>
+        </div>
+        <h3 class="text-xl font-extrabold text-slate-900 group-hover:text-[#5648ee] transition mb-3">
+          ${t.name}
+        </h3>
+        <div class="flex items-center gap-4 text-xs font-bold text-slate-500 mb-6">
+          <span class="flex items-center gap-1.5"><i data-lucide="help-circle" class="w-4 h-4 text-slate-400"></i> ${t.questionsNum || 200} câu</span>
+          <span class="flex items-center gap-1.5"><i data-lucide="clock" class="w-4 h-4 text-slate-400"></i> ${t.duration || 120} phút</span>
+          <span class="flex items-center gap-1.5"><i data-lucide="headphones" class="w-4 h-4 text-slate-400"></i> LC & RC</span>
+        </div>
+      </div>
+      <div class="grid grid-cols-2 gap-3 pt-4 border-t border-slate-100">
+        <button onclick="startTest('${t.id}', '${t.name}', false)" class="py-2.5 px-4 rounded-xl bg-[#5648ee] hover:bg-[#4335df] text-white font-extrabold text-xs shadow-md shadow-indigo-500/20 transition flex items-center justify-center gap-1.5">
+          <i data-lucide="play" class="w-3.5 h-3.5 fill-current"></i> Thi thử
+        </button>
+        <button onclick="startTest('${t.id}', '${t.name}', true)" class="py-2.5 px-4 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition flex items-center justify-center gap-1.5">
+          <i data-lucide="book-open" class="w-3.5 h-3.5"></i> Luyện tập
+        </button>
+      </div>
+    </div>
+  `).join('');
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function renderMiniTestsGrid() {
+  const container = document.getElementById('minitest-grid');
+  const countBadge = document.getElementById('minitest-count');
+  if (!container) return;
+
+  const tests = testsSummary.mini_tests || [];
+  if (countBadge) countBadge.textContent = `${tests.length} đề thi`;
+
+  container.innerHTML = tests.map((t, idx) => `
+    <div class="bg-white rounded-3xl p-6 shadow-sm hover:shadow-xl border border-slate-200 transition-all flex flex-col justify-between group">
+      <div>
+        <div class="flex items-center justify-between mb-3">
+          <span class="px-3 py-1 rounded-full text-[11px] font-black uppercase tracking-wider bg-orange-50 text-orange-700">
+            Mini Test
+          </span>
+          <span class="text-xs font-bold text-slate-400">#${String(idx + 1).padStart(2, '0')}</span>
+        </div>
+        <h3 class="text-xl font-extrabold text-slate-900 group-hover:text-orange-600 transition mb-3">
+          ${t.name}
+        </h3>
+        <div class="flex items-center gap-4 text-xs font-bold text-slate-500 mb-6">
+          <span class="flex items-center gap-1.5"><i data-lucide="help-circle" class="w-4 h-4 text-slate-400"></i> ${t.questionsNum || 100} câu</span>
+          <span class="flex items-center gap-1.5"><i data-lucide="clock" class="w-4 h-4 text-slate-400"></i> ${t.duration || 60} phút</span>
+          <span class="flex items-center gap-1.5"><i data-lucide="zap" class="w-4 h-4 text-orange-500"></i> Nhanh</span>
+        </div>
+      </div>
+      <div class="grid grid-cols-2 gap-3 pt-4 border-t border-slate-100">
+        <button onclick="startTest('${t.id}', '${t.name}', false)" class="py-2.5 px-4 rounded-xl bg-orange-500 hover:bg-orange-600 text-white font-extrabold text-xs shadow-md shadow-orange-500/20 transition flex items-center justify-center gap-1.5">
+          <i data-lucide="play" class="w-3.5 h-3.5 fill-current"></i> Thi thử
+        </button>
+        <button onclick="startTest('${t.id}', '${t.name}', true)" class="py-2.5 px-4 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition flex items-center justify-center gap-1.5">
+          <i data-lucide="book-open" class="w-3.5 h-3.5"></i> Luyện tập
+        </button>
+      </div>
+    </div>
+  `).join('');
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function renderPracticeGrid() {
+  const container = document.getElementById('practice-grid');
+  if (!container) return;
+
+  const parts = (practiceSummary || []).filter(p => p.slug && p.slug.startsWith('part-'));
+
+  container.innerHTML = parts.map(p => {
+    const testsCount = p.testsCount || (p.tests && p.tests.length) || (p.subTopics && p.subTopics.length) || 25;
+    const lessonsCount = p.lessonsCount || (p.lessons && p.lessons.length) || 4;
+
+    return `
+      <div class="bg-white rounded-3xl p-6 sm:p-7 shadow-sm border border-slate-200 hover:border-indigo-300 hover:shadow-xl transition-all flex flex-col justify-between group">
+        <div>
+          <div class="flex items-center justify-between mb-4">
+            <div class="w-12 h-12 rounded-2xl bg-indigo-50 text-[#5648ee] flex items-center justify-center font-black text-base shadow-xs group-hover:bg-[#5648ee] group-hover:text-white transition">
+              ${p.partNumber ? `P${p.partNumber}` : (p.slug.split('-')[1]?.toUpperCase() || 'P')}
+            </div>
+            <span class="px-2.5 py-1 rounded-full text-[10px] font-black uppercase tracking-wider bg-slate-100 text-slate-600">
+              ${p.badge || 'TOEIC'}
+            </span>
+          </div>
+          <h3 class="text-xl font-black text-slate-900 mb-2 group-hover:text-[#5648ee] transition">${p.name}</h3>
+          <p class="text-xs text-slate-500 leading-relaxed mb-5 line-clamp-2">${p.description}</p>
+          <div class="flex items-center gap-2 text-xs font-bold text-slate-600 mb-5 bg-slate-50 p-3 rounded-2xl border border-slate-100">
+            <span class="flex items-center gap-1 text-[#5648ee]"><i data-lucide="award" class="w-3.5 h-3.5"></i> ${testsCount} đề</span> • 
+            <span class="flex items-center gap-1 text-emerald-600"><i data-lucide="book-open" class="w-3.5 h-3.5"></i> ${lessonsCount} bài lý thuyết</span>
+          </div>
+        </div>
+        <button onclick="openPracticeSubtopicsModal('${p.slug}')" class="w-full py-3 rounded-2xl bg-indigo-50 hover:bg-[#5648ee] hover:text-white text-[#5648ee] font-extrabold text-xs transition flex items-center justify-center gap-2 shadow-xs">
+          Vào luyện tập phần này <i data-lucide="arrow-right" class="w-4 h-4"></i>
+        </button>
+      </div>
+    `;
+  }).join('');
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function renderGrammarGrid() {
+  const container = document.getElementById('grammar-grid');
+  if (!container) return;
+
+  const grammar = (practiceSummary || []).find(p => p.slug === 'grammar');
+  const topics = grammar ? (grammar.topics || grammar.subTopics || []) : [];
+
+  container.innerHTML = topics.map((g, idx) => {
+    const testCount = (g.tests && g.tests.length) || g.practiceCount || 4;
+    const qCount = g.totalQuestions || (testCount * 20);
+
+    return `
+      <div class="bg-white rounded-3xl p-6 shadow-sm border border-slate-200 hover:shadow-xl hover:border-emerald-300 transition-all flex flex-col justify-between group">
+        <div>
+          <div class="flex items-center justify-between mb-3">
+            <span class="text-[10px] font-black uppercase px-2.5 py-1 rounded-full bg-emerald-100 text-emerald-800">Chuyên đề ${idx + 1}</span>
+            <span class="text-xs font-bold text-slate-400">Ngữ pháp TOEIC</span>
+          </div>
+          <h4 class="font-extrabold text-lg text-slate-900 group-hover:text-emerald-700 transition mb-2">${g.name}</h4>
+          <p class="text-xs text-slate-500 line-clamp-2">Lý thuyết, quy tắc trọng tâm, cấu trúc câu và các bẫy thường gặp.</p>
+          
+          <div class="flex items-center gap-2 text-xs font-bold text-slate-600 my-4 bg-emerald-50/70 p-2.5 rounded-2xl border border-emerald-100">
+            <span class="flex items-center gap-1 text-emerald-700"><i data-lucide="award" class="w-3.5 h-3.5"></i> ${testCount} bài tập</span> • 
+            <span class="flex items-center gap-1 text-slate-600"><i data-lucide="check-circle" class="w-3.5 h-3.5"></i> ${qCount} câu hỏi</span>
+          </div>
+        </div>
+        <div class="grid grid-cols-2 gap-2 mt-2 pt-4 border-t border-slate-100">
+          <button onclick="openLessonReader('${g.id}', '${g.name.replace(/'/g, "\\'")}')" class="py-2.5 px-3 rounded-xl bg-emerald-50 hover:bg-emerald-100 text-emerald-700 font-extrabold text-xs transition flex items-center justify-center gap-1">
+            <i data-lucide="book-open" class="w-3.5 h-3.5"></i> Lý thuyết
+          </button>
+          <button onclick="openGrammarTopicModal('${g.id}')" class="py-2.5 px-3 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-extrabold text-xs transition flex items-center justify-center gap-1 shadow-xs">
+            <i data-lucide="check-circle" class="w-3.5 h-3.5"></i> Luyện tập
+          </button>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function renderVocabularyGrid() {
+  const container = document.getElementById('vocabulary-grid');
+  if (!container) return;
+
+  const vocabData = (practiceSummary || []).find(p => p.slug === 'vocabulary');
+  const byTopic = (vocabData && vocabData.byTopic) || [];
+  const byPart = (vocabData && vocabData.byPart) || [];
+
+  container.innerHTML = `
+    <div class="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-slate-200 col-span-full">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-slate-100 mb-6">
+        <div>
+          <h3 class="text-2xl font-black text-slate-900">Kho Từ Vựng TOEIC Ăn Điểm 2026</h3>
+          <p class="text-xs sm:text-sm text-slate-500 mt-1">Đầy đủ 48 chủ đề kinh doanh/đời sống cốt lõi và 6 bộ từ vựng phân loại theo từng Part.</p>
+        </div>
+        <div class="inline-flex rounded-xl bg-slate-100 p-1 self-start sm:self-auto">
+          <button id="vocab-tab-topics-btn" onclick="switchVocabSubTab('topics')" class="px-4 py-2 rounded-lg text-xs font-extrabold bg-white text-[#5648ee] shadow-xs transition">
+            48 Chủ đề (${byTopic.length})
+          </button>
+          <button id="vocab-tab-parts-btn" onclick="switchVocabSubTab('parts')" class="px-4 py-2 rounded-lg text-xs font-extrabold text-slate-600 hover:text-slate-900 transition">
+            Theo Part (${byPart.length})
+          </button>
+        </div>
+      </div>
+
+      <!-- 48 Topics Grid -->
+      <div id="vocab-topics-content" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        ${byTopic.map((t, idx) => `
+          <div class="p-4 rounded-2xl bg-slate-50/80 hover:bg-indigo-50/70 border border-slate-200 hover:border-indigo-300 transition flex flex-col justify-between group">
+            <div>
+              <div class="flex items-center justify-between text-[11px] font-black text-slate-400 mb-2">
+                <span>#${String(idx + 1).padStart(2, '0')}</span>
+                <span class="text-indigo-600 bg-indigo-50 px-2 py-0.5 rounded-full">${t.questionsNum || 12} từ</span>
+              </div>
+              <div class="font-extrabold text-base text-slate-900 group-hover:text-[#5648ee] transition mb-1">${t.name}</div>
+            </div>
+            <div class="grid grid-cols-2 gap-2 mt-4 pt-3 border-t border-slate-100">
+              <button onclick="startFlashcardSession('${t.id}', '${t.name.replace(/'/g, "\\'")}')" class="py-2.5 px-2 rounded-xl bg-[#5648ee] hover:bg-[#4335df] text-white font-extrabold text-xs transition flex items-center justify-center gap-1.5 shadow-xs shadow-indigo-500/20" title="Lật thẻ xem nghĩa, phát âm & ví dụ">
+                <i data-lucide="layers" class="w-3.5 h-3.5"></i> Flashcard
+              </button>
+              <button onclick="startVocabQuizDirectly('${t.id}', '${t.name.replace(/'/g, "\\'")}')" class="py-2.5 px-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition flex items-center justify-center gap-1" title="Làm bài kiểm tra từ vựng">
+                <i data-lucide="check-square" class="w-3.5 h-3.5 text-[#5648ee]"></i> Kiểm tra
+              </button>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+
+      <!-- By Part Grid -->
+      <div id="vocab-parts-content" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 hidden">
+        ${byPart.map((p, idx) => `
+          <div class="p-6 rounded-2xl bg-slate-50/80 hover:bg-orange-50/70 border border-slate-200 hover:border-orange-300 transition flex flex-col justify-between group">
+            <div>
+              <span class="inline-block px-2.5 py-1 rounded-full text-[10px] font-black uppercase bg-orange-100 text-orange-800 mb-3">Từ vựng TOEIC</span>
+              <div class="font-black text-xl text-slate-900 group-hover:text-orange-600 transition mb-2">${p.name}</div>
+              <div class="text-xs font-bold text-slate-500 mb-4">${p.questionsNum || 200} câu hỏi trắc nghiệm từ vựng chuyên sâu</div>
+            </div>
+            <div class="grid grid-cols-2 gap-3 mt-2">
+              <button onclick="startFlashcardSession('${p.id}', 'Từ vựng ${p.name.replace(/'/g, "\\'")}')" class="py-2.5 px-3 rounded-xl bg-gradient-to-r from-orange-500 to-amber-500 hover:brightness-105 text-white font-extrabold text-xs transition flex items-center justify-center gap-1.5 shadow-xs">
+                <i data-lucide="layers" class="w-3.5 h-3.5"></i> Flashcard
+              </button>
+              <button onclick="startVocabQuizDirectly('${p.id}', 'Từ vựng ${p.name.replace(/'/g, "\\'")}')" class="py-2.5 px-3 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition flex items-center justify-center gap-1">
+                <i data-lucide="check-square" class="w-3.5 h-3.5 text-orange-600"></i> Kiểm tra
+              </button>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function switchVocabSubTab(tab) {
+  const topicsBtn = document.getElementById('vocab-tab-topics-btn');
+  const partsBtn = document.getElementById('vocab-tab-parts-btn');
+  const topicsContent = document.getElementById('vocab-topics-content');
+  const partsContent = document.getElementById('vocab-parts-content');
+
+  if (tab === 'topics') {
+    if (topicsBtn) topicsBtn.className = 'px-4 py-2 rounded-lg text-xs font-extrabold bg-white text-[#5648ee] shadow-xs transition';
+    if (partsBtn) partsBtn.className = 'px-4 py-2 rounded-lg text-xs font-extrabold text-slate-600 hover:text-slate-900 transition';
+    if (topicsContent) topicsContent.classList.remove('hidden');
+    if (partsContent) partsContent.classList.add('hidden');
+  } else {
+    if (partsBtn) partsBtn.className = 'px-4 py-2 rounded-lg text-xs font-extrabold bg-white text-[#ff7733] shadow-xs transition';
+    if (topicsBtn) topicsBtn.className = 'px-4 py-2 rounded-lg text-xs font-extrabold text-slate-600 hover:text-slate-900 transition';
+    if (partsContent) partsContent.classList.remove('hidden');
+    if (topicsContent) topicsContent.classList.add('hidden');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+// Modal for Part Subtopics (Lessons & Practice tests)
+function openPracticeSubtopicsModal(partSlug) {
+  const part = (practiceSummary || []).find(p => p.slug === partSlug);
+  if (!part) return;
+
+  const tests = part.tests || part.subTopics || [];
+  const lessons = part.lessons || [];
+
+  const modalHtml = `
+    <div id="practice-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-xs">
+      <div class="bg-white rounded-3xl p-6 sm:p-8 max-w-3xl w-full max-h-[90vh] flex flex-col shadow-2xl animate-in fade-in zoom-in duration-150">
+        
+        <!-- Header -->
+        <div class="flex items-center justify-between pb-4 border-b border-slate-100">
+          <div>
+            <div class="flex items-center gap-2 mb-1">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase bg-indigo-50 text-[#5648ee]">${part.badge || 'TOEIC'}</span>
+              <h3 class="text-xl font-black text-slate-900">${part.name}</h3>
+            </div>
+            <p class="text-xs text-slate-500">${part.description}</p>
+          </div>
+          <button onclick="closeModal('practice-modal')" class="w-8 h-8 flex items-center justify-center text-slate-400 hover:text-slate-700 rounded-full hover:bg-slate-100 transition">
+            ✕
+          </button>
+        </div>
+
+        <!-- Sub Tabs: Đề Luyện Tập & Bài Học -->
+        <div class="flex items-center gap-2 pt-4 pb-3">
+          <button id="modal-tab-tests-btn" onclick="switchModalSubTab('tests')" class="px-4 py-2 rounded-xl text-xs font-extrabold bg-[#5648ee] text-white shadow-xs transition flex items-center gap-1.5">
+            <i data-lucide="award" class="w-3.5 h-3.5"></i> Đề luyện tập (${tests.length})
+          </button>
+          ${lessons.length > 0 ? `
+          <button id="modal-tab-lessons-btn" onclick="switchModalSubTab('lessons')" class="px-4 py-2 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1.5">
+            <i data-lucide="book-open" class="w-3.5 h-3.5"></i> Lý thuyết & Mẹo (${lessons.length})
+          </button>
+          ` : ''}
+        </div>
+
+        <!-- Content: Tests List -->
+        <div id="modal-content-tests" class="overflow-y-auto py-2 flex-1 grid grid-cols-1 sm:grid-cols-2 gap-3">
+          ${tests.map((t, idx) => `
+            <div class="p-4 rounded-2xl bg-white border border-slate-200 hover:border-indigo-300 hover:shadow-md transition flex flex-col justify-between group">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-xs font-black text-[#5648ee]">${t.name}</span>
+                  <span class="text-[11px] font-bold text-slate-400">#${String(idx + 1).padStart(2, '0')}</span>
+                </div>
+                <div class="flex items-center gap-3 text-xs font-semibold text-slate-500 mb-4">
+                  <span>${t.questionsNum || 6} câu hỏi</span> • <span>${t.duration || 10} phút</span>
+                </div>
+              </div>
+              <div class="grid grid-cols-2 gap-2">
+                <button onclick="closeModal('practice-modal'); startTest('${t.id}', '${part.name} - ${t.name}', false)" class="py-2 px-3 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition flex items-center justify-center gap-1">
+                  <i data-lucide="play" class="w-3 h-3"></i> Thi thử
+                </button>
+                <button onclick="closeModal('practice-modal'); startTest('${t.id}', '${part.name} - ${t.name}', true)" class="py-2 px-3 rounded-xl bg-[#5648ee] hover:bg-[#4335df] text-white font-extrabold text-xs transition flex items-center justify-center gap-1 shadow-xs">
+                  <i data-lucide="check-circle" class="w-3 h-3"></i> Luyện tập
+                </button>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+
+        <!-- Content: Lessons List -->
+        <div id="modal-content-lessons" class="overflow-y-auto py-2 flex-1 flex flex-col gap-3 hidden">
+          ${lessons.map((l, idx) => `
+            <div class="p-4 rounded-2xl bg-slate-50 hover:bg-indigo-50/50 border border-slate-200 transition flex items-center justify-between">
+              <div>
+                <div class="text-[11px] font-black uppercase text-indigo-600 mb-0.5">Bài ${idx + 1}</div>
+                <div class="font-extrabold text-sm text-slate-900">${l.name}</div>
+              </div>
+              <button onclick="openLessonReader('${l.id}', '${l.name.replace(/'/g, "\\'")}')" class="px-4 py-2 rounded-xl bg-[#5648ee] hover:bg-[#4335df] text-white font-extrabold text-xs transition flex items-center gap-1.5 shadow-xs">
+                <i data-lucide="book-open" class="w-3.5 h-3.5"></i> Đọc bài học
+              </button>
+            </div>
+          `).join('')}
+        </div>
+
+      </div>
+    </div>
+  `;
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+  if (window.lucide) lucide.createIcons();
+}
+
+function switchModalSubTab(tab) {
+  const testsBtn = document.getElementById('modal-tab-tests-btn');
+  const lessonsBtn = document.getElementById('modal-tab-lessons-btn');
+  const testsContent = document.getElementById('modal-content-tests');
+  const lessonsContent = document.getElementById('modal-content-lessons');
+
+  if (tab === 'tests') {
+    if (testsBtn) testsBtn.className = 'px-4 py-2 rounded-xl text-xs font-extrabold bg-[#5648ee] text-white shadow-xs transition flex items-center gap-1.5';
+    if (lessonsBtn) lessonsBtn.className = 'px-4 py-2 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1.5';
+    if (testsContent) testsContent.classList.remove('hidden');
+    if (lessonsContent) lessonsContent.classList.add('hidden');
+  } else {
+    if (lessonsBtn) lessonsBtn.className = 'px-4 py-2 rounded-xl text-xs font-extrabold bg-[#5648ee] text-white shadow-xs transition flex items-center gap-1.5';
+    if (testsBtn) testsBtn.className = 'px-4 py-2 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1.5';
+    if (lessonsContent) lessonsContent.classList.remove('hidden');
+    if (testsContent) testsContent.classList.add('hidden');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+// Modal for Grammar Topic (Practice tests & Theory)
+function openGrammarTopicModal(topicId) {
+  const grammar = (practiceSummary || []).find(p => p.slug === 'grammar');
+  if (!grammar) return;
+  const topics = grammar.topics || grammar.subTopics || [];
+  const topic = topics.find(t => t.id === topicId);
+  if (!topic) return;
+
+  const tests = topic.tests || [];
+  const hasTheory = !!topic.description;
+
+  const modalHtml = `
+    <div id="grammar-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-xs">
+      <div class="bg-white rounded-3xl p-6 sm:p-8 max-w-3xl w-full max-h-[90vh] flex flex-col shadow-2xl animate-in fade-in zoom-in duration-150">
+        
+        <!-- Header -->
+        <div class="flex items-center justify-between pb-4 border-b border-slate-100">
+          <div>
+            <div class="flex items-center gap-2 mb-1">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase bg-emerald-50 text-emerald-700">Ngữ pháp TOEIC</span>
+              <h3 class="text-xl font-black text-slate-900">${topic.name}</h3>
+            </div>
+            <p class="text-xs text-slate-500">${tests.length} bài luyện tập trắc nghiệm • ${topic.totalQuestions || (tests.length * 20)} câu hỏi có giải thích chi tiết</p>
+          </div>
+          <button onclick="closeModal('grammar-modal')" class="w-8 h-8 flex items-center justify-center text-slate-400 hover:text-slate-700 rounded-full hover:bg-slate-100 transition">
+            ✕
+          </button>
+        </div>
+
+        <!-- Sub Tabs: Đề Luyện Tập & Bài Học -->
+        <div class="flex items-center gap-2 pt-4 pb-3">
+          <button id="grammar-tab-tests-btn" onclick="switchGrammarModalTab('tests')" class="px-4 py-2 rounded-xl text-xs font-extrabold bg-emerald-600 text-white shadow-xs transition flex items-center gap-1.5">
+            <i data-lucide="award" class="w-3.5 h-3.5"></i> Đề luyện tập (${tests.length})
+          </button>
+          ${hasTheory ? `
+          <button id="grammar-tab-theory-btn" onclick="switchGrammarModalTab('theory')" class="px-4 py-2 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1.5">
+            <i data-lucide="book-open" class="w-3.5 h-3.5"></i> Lý thuyết trọng tâm
+          </button>
+          ` : ''}
+        </div>
+
+        <!-- Content: Tests List -->
+        <div id="grammar-content-tests" class="overflow-y-auto py-2 flex-1 grid grid-cols-1 sm:grid-cols-2 gap-3">
+          ${tests.map((t, idx) => `
+            <div class="p-4 rounded-2xl bg-white border border-slate-200 hover:border-emerald-300 hover:shadow-md transition flex flex-col justify-between group">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-xs font-black text-emerald-700">${t.name}</span>
+                  <span class="text-[11px] font-bold text-slate-400">#${String(idx + 1).padStart(2, '0')}</span>
+                </div>
+                <div class="flex items-center gap-3 text-xs font-semibold text-slate-500 mb-4">
+                  <span>${t.questionsNum || 20} câu hỏi</span> • <span>${t.duration || 15} phút</span>
+                </div>
+              </div>
+              <div class="grid grid-cols-2 gap-2">
+                <button onclick="closeModal('grammar-modal'); startTest('${t.id}', '${topic.name} - ${t.name}', false)" class="py-2 px-3 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition flex items-center justify-center gap-1">
+                  <i data-lucide="play" class="w-3 h-3"></i> Thi thử
+                </button>
+                <button onclick="closeModal('grammar-modal'); startTest('${t.id}', '${topic.name} - ${t.name}', true)" class="py-2 px-3 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-extrabold text-xs transition flex items-center justify-center gap-1 shadow-xs">
+                  <i data-lucide="check-circle" class="w-3 h-3"></i> Luyện tập
+                </button>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+
+        <!-- Content: Theory -->
+        <div id="grammar-content-theory" class="overflow-y-auto py-4 px-2 flex-1 hidden">
+          <div class="prose max-w-none text-slate-800 text-sm leading-relaxed lesson-content">${topic.description || 'Chưa có nội dung lý thuyết.'}</div>
+        </div>
+
+      </div>
+    </div>
+  `;
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+  if (window.lucide) lucide.createIcons();
+}
+
+function switchGrammarModalTab(tab) {
+  const testsBtn = document.getElementById('grammar-tab-tests-btn');
+  const theoryBtn = document.getElementById('grammar-tab-theory-btn');
+  const testsContent = document.getElementById('grammar-content-tests');
+  const theoryContent = document.getElementById('grammar-content-theory');
+
+  if (tab === 'tests') {
+    if (testsBtn) testsBtn.className = 'px-4 py-2 rounded-xl text-xs font-extrabold bg-emerald-600 text-white shadow-xs transition flex items-center gap-1.5';
+    if (theoryBtn) theoryBtn.className = 'px-4 py-2 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1.5';
+    if (testsContent) testsContent.classList.remove('hidden');
+    if (theoryContent) theoryContent.classList.add('hidden');
+  } else {
+    if (theoryBtn) theoryBtn.className = 'px-4 py-2 rounded-xl text-xs font-extrabold bg-emerald-600 text-white shadow-xs transition flex items-center gap-1.5';
+    if (testsBtn) testsBtn.className = 'px-4 py-2 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition flex items-center gap-1.5';
+    if (theoryContent) theoryContent.classList.remove('hidden');
+    if (testsContent) testsContent.classList.add('hidden');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+// Modal for Reading Lessons & Grammar
+async function openLessonReader(lessonId, lessonTitle) {
+  let contentVi = '';
+  let contentEn = '';
+  let activeTopic = null;
+
+  // Check in practiceSummary first
+  for (const p of (practiceSummary || [])) {
+    const l = (p.lessons || []).find(x => x.id === lessonId);
+    if (l) {
+      activeTopic = l;
+      contentVi = l.descriptionVi || l.description || '';
+      contentEn = l.descriptionEn || '';
+      break;
+    }
+    const g = (p.topics || p.subTopics || []).find(x => x.id === lessonId);
+    if (g) {
+      activeTopic = g;
+      contentVi = g.descriptionVi || g.description || '';
+      contentEn = g.descriptionEn || '';
+      break;
+    }
+  }
+
+  // If not found in memory, fetch from /api/topic/:id
+  if (!contentVi && !contentEn) {
+    try {
+      const resp = await fetch(`/api/topic/${lessonId}`);
+      if (resp.ok) {
+        const data = await resp.json();
+        activeTopic = data;
+        contentVi = data.descriptionVi || data.description || '';
+        contentEn = data.descriptionEn || '';
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  }
+
+  window._currentLessonVi = contentVi || '<p class="text-slate-500">Chưa có bài viết lý thuyết chi tiết cho phần này.</p>';
+  window._currentLessonEn = contentEn || contentVi;
+
+  const displayTitle = (activeTopic && activeTopic.titleVi) ? activeTopic.titleVi : lessonTitle;
+  const initialContent = contentVi || contentEn || '<p class="text-slate-500">Chưa có bài viết lý thuyết chi tiết cho phần này.</p>';
+
+  const modalHtml = `
+    <div id="lesson-reader-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/65 backdrop-blur-xs">
+      <div class="bg-white rounded-3xl p-6 sm:p-8 max-w-4xl w-full max-h-[90vh] flex flex-col shadow-2xl animate-in fade-in zoom-in duration-150">
+        
+        <div class="flex items-center justify-between pb-4 border-b border-slate-100 gap-4">
+          <div class="min-w-0 flex-1">
+            <span class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase bg-emerald-50 text-emerald-700">Lý Thuyết & Phương Pháp Làm Bài</span>
+            <h3 class="text-lg sm:text-xl font-black text-slate-900 mt-1 truncate" title="${displayTitle}">${displayTitle}</h3>
+          </div>
+          <div class="flex items-center gap-3 shrink-0">
+            ${(contentVi && contentEn) ? `
+              <div class="inline-flex rounded-xl bg-slate-100 p-0.5 border border-slate-200/60 shadow-2xs">
+                <button id="btn-lesson-lang-vi" onclick="switchLessonLanguage('vi')" class="px-3 py-1 rounded-lg text-xs font-black transition bg-white text-[#5648ee] shadow-xs">
+                  🇻🇳 Tiếng Việt
+                </button>
+                <button id="btn-lesson-lang-en" onclick="switchLessonLanguage('en')" class="px-3 py-1 rounded-lg text-xs font-bold transition text-slate-500 hover:text-slate-800">
+                  🇺🇸 English
+                </button>
+              </div>
+            ` : ''}
+            <button onclick="closeModal('lesson-reader-modal')" class="w-8 h-8 flex items-center justify-center text-slate-400 hover:text-slate-700 rounded-full hover:bg-slate-100 transition">
+              ✕
+            </button>
+          </div>
+        </div>
+
+        <div id="lesson-reader-content" class="overflow-y-auto py-6 flex-1 prose max-w-none text-slate-700 text-sm sm:text-base leading-relaxed lesson-content">
+          ${initialContent}
+        </div>
+
+        <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
+          <button onclick="closeModal('lesson-reader-modal')" class="px-6 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition">
+            Đóng
+          </button>
+          <button onclick="closeModal('lesson-reader-modal'); if (window.openGrammarTopicModal && (practiceSummary || []).some(p => p.slug === 'grammar' && (p.topics||p.subTopics||[]).some(t => t.id === '${lessonId}'))) { openGrammarTopicModal('${lessonId}'); } else { startTest('${lessonId}', '${lessonTitle.replace(/'/g, "\\'")}', true); }" class="px-6 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-extrabold text-xs transition flex items-center gap-1.5 shadow-md shadow-emerald-500/20">
+            <i data-lucide="check-circle" class="w-3.5 h-3.5"></i> Luyện tập chuyên đề này
+          </button>
+        </div>
+
+      </div>
+    </div>
+  `;
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+  if (window.lucide) lucide.createIcons();
+}
+
+function switchLessonLanguage(lang) {
+  const container = document.getElementById('lesson-reader-content');
+  const btnVi = document.getElementById('btn-lesson-lang-vi');
+  const btnEn = document.getElementById('btn-lesson-lang-en');
+  if (!container) return;
+
+  if (lang === 'vi') {
+    container.innerHTML = window._currentLessonVi || '<p class="text-slate-500">Chưa có bài viết tiếng Việt.</p>';
+    if (btnVi) {
+      btnVi.className = "px-3 py-1 rounded-lg text-xs font-black transition bg-white text-[#5648ee] shadow-xs";
+    }
+    if (btnEn) {
+      btnEn.className = "px-3 py-1 rounded-lg text-xs font-bold transition text-slate-500 hover:text-slate-800";
+    }
+  } else {
+    container.innerHTML = window._currentLessonEn || '<p class="text-slate-500">No English description available.</p>';
+    if (btnEn) {
+      btnEn.className = "px-3 py-1 rounded-lg text-xs font-black transition bg-white text-[#5648ee] shadow-xs";
+    }
+    if (btnVi) {
+      btnVi.className = "px-3 py-1 rounded-lg text-xs font-bold transition text-slate-500 hover:text-slate-800";
+    }
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function closeModal(modalId) {
+  const modal = document.getElementById(modalId);
+  if (modal) modal.remove();
+}
+
+// ================= EXAM ENGINE (V2) =================
+
+async function startTest(testId, testTitle, practiceMode = false, simulationMode = false) {
+  isPracticeMode = practiceMode;
+  isSimulationMode = simulationMode;
+  if (!isSimulationMode) {
+    activeSimulationPart = 1;
+    isSimulationPaused = false;
+  }
+  userAnswers = {};
+  flaggedQuestions = new Set();
+  testClusters = [];
+  flatQuestions = [];
+  activeClusterIndex = 0;
+  activeQuestionIndex = 0;
+  timeSpentSeconds = 0;
+
+  // Show loading indicator
+  const loadToast = document.createElement('div');
+  loadToast.id = 'load-toast';
+  loadToast.className = 'fixed bottom-6 right-6 z-50 bg-slate-900 text-white px-5 py-3.5 rounded-2xl shadow-2xl flex items-center gap-3 text-sm font-bold animate-bounce';
+  loadToast.innerHTML = '<span class="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin"></span> Đang tải đề thi...';
+  document.body.appendChild(loadToast);
+
+  try {
+    const resp = await fetch(`/api/test/${testId}`);
+    if (!resp.ok) throw new Error('Không thể tải dữ liệu đề thi');
+    currentTest = await resp.json();
+    currentTest.title = testTitle || currentTest.title || 'TOEIC Practice Test';
+
+    // Populate testClusters & flatQuestions
+    let qCounter = 1;
+    for (const item of (currentTest.data || [])) {
+      if (item.type === 'single') {
+        const q = item.question;
+        const qNum = q.questionNumber || qCounter;
+        q.questionNumber = qNum;
+        const clusterIdx = testClusters.length;
+
+        flatQuestions.push({
+          question: q,
+          clusterIndex: clusterIdx,
+          indexInCluster: 0
+        });
+
+        testClusters.push({
+          type: 'single',
+          id: q.id || `single_${qNum}`,
+          audioUrl: q.audioUrl || '',
+          imageUrl: q.imageUrl || '',
+          passageHtml: '',
+          transcriptHtml: q.transcriptHtml || '',
+          transcriptViHtml: q.explanationViHtml || q.transcriptViHtml || '',
+          startQNum: qNum,
+          endQNum: qNum,
+          questions: [q]
+        });
+        qCounter++;
+      } else if (item.type === 'group') {
+        const subList = item.questions || [];
+        if (subList.length === 0) continue;
+
+        const clusterIdx = testClusters.length;
+        const startNum = subList[0].questionNumber || qCounter;
+        const endNum = subList[subList.length - 1].questionNumber || (startNum + subList.length - 1);
+
+        subList.forEach((sub, subIdx) => {
+          if (!sub.questionNumber) sub.questionNumber = qCounter + subIdx;
+          flatQuestions.push({
+            question: sub,
+            clusterIndex: clusterIdx,
+            indexInCluster: subIdx
+          });
+        });
+
+        testClusters.push({
+          type: 'group',
+          id: item.groupId || `group_${startNum}`,
+          audioUrl: item.audioUrl || '',
+          imageUrl: item.imageUrl || '',
+          passageHtml: item.passageHtml || '',
+          transcriptHtml: item.transcriptHtml || '',
+          transcriptViHtml: item.transcriptViHtml || '',
+          startQNum: startNum,
+          endQNum: endNum,
+          questions: subList
+        });
+        qCounter += subList.length;
+      }
+    }
+
+    if (flatQuestions.length === 0) {
+      alert('Đề thi này hiện chưa có câu hỏi.');
+      return;
+    }
+
+    // Set duration
+    if (isSimulationMode) {
+      totalDurationSeconds = 120 * 60; // 120 mins
+    } else if (flatQuestions.length >= 180) {
+      totalDurationSeconds = 120 * 60; // 120 mins
+    } else if (flatQuestions.length >= 90) {
+      totalDurationSeconds = 60 * 60;  // 60 mins
+    } else {
+      totalDurationSeconds = Math.max(10 * 60, flatQuestions.length * 60); // 1 min/q
+    }
+    timeRemaining = totalDurationSeconds;
+
+    // Switch view to exam
+    showView('exam');
+    toggleBottomDock(false);
+
+    // Setup Header info
+    const titleEl = document.getElementById('exam-title');
+    if (titleEl) titleEl.textContent = isSimulationMode ? 'Simulation Test' : currentTest.title;
+
+    // Start timer (counts up in practice mode matching EstudyMe)
+    startExamTimer();
+
+    const welcomeCard = document.getElementById('simulation-welcome-card');
+    const dirCard = document.getElementById('simulation-directions-card');
+    const questionCard = document.getElementById('exam-question-card');
+
+    if (isSimulationMode) {
+      const welcomeTitle = document.getElementById('sim-welcome-title');
+      if (welcomeTitle) welcomeTitle.textContent = currentTest.title || 'TEST 1';
+      if (welcomeCard) welcomeCard.classList.remove('hidden');
+      if (dirCard) dirCard.classList.add('hidden');
+      if (questionCard) questionCard.classList.add('hidden');
+      renderSimulationSidebar();
+      renderSimulationDock();
+    } else {
+      if (welcomeCard) welcomeCard.classList.add('hidden');
+      if (dirCard) dirCard.classList.add('hidden');
+      if (questionCard) questionCard.classList.remove('hidden');
+      const sidebar = document.getElementById('simulation-sidebar');
+      if (sidebar) {
+        sidebar.classList.add('hidden');
+        sidebar.style.display = 'none';
+      }
+      const expandBtn = document.getElementById('btn-expand-sim-sidebar');
+      if (expandBtn) {
+        expandBtn.classList.add('hidden');
+        expandBtn.style.display = 'none';
+      }
+      const dockSimulation = document.getElementById('exam-dock-simulation');
+      if (dockSimulation && flatQuestions.length < 180) dockSimulation.classList.add('hidden');
+      renderActiveCluster();
+      updateExamDock();
+    }
+
+  } catch (err) {
+    alert('Lỗi tải bài thi: ' + err.message);
+  } finally {
+    const toast = document.getElementById('load-toast');
+    if (toast) toast.remove();
+  }
+}
+
+// ================= SIMULATION SIDEBAR & CONTROLLERS =================
+
+function renderSimulationSidebar() {
+  const sidebar = document.getElementById('simulation-sidebar');
+  const expandBtn = document.getElementById('btn-expand-sim-sidebar');
+  const testsContainer = document.getElementById('simulation-sidebar-tests');
+  const progressBadge = document.getElementById('sim-sidebar-progress');
+  if (!sidebar || !testsContainer) return;
+
+  if (!isSimulationMode) {
+    sidebar.classList.add('hidden');
+    sidebar.style.display = 'none';
+    if (expandBtn) {
+      expandBtn.classList.add('hidden');
+      expandBtn.style.display = 'none';
+    }
+    return;
+  }
+
+  sidebar.classList.remove('hidden');
+  sidebar.style.display = 'flex';
+  if (expandBtn) {
+    expandBtn.classList.add('hidden');
+    expandBtn.style.display = 'none';
+  }
+
+  const tests = testsSummary.full_tests || [];
+  if (progressBadge) {
+    progressBadge.textContent = `0/${tests.length}`;
+  }
+
+  testsContainer.innerHTML = tests.map(t => {
+    const isCurrent = currentTest && (currentTest.topicId === t.id || currentTest.id === t.id);
+    return `
+      <div onclick="startSimulationTest('${t.id}', '${t.name.trim()}')" class="px-3 py-2 rounded-xl text-xs font-bold transition flex items-center justify-between cursor-pointer ${isCurrent ? 'bg-indigo-50 text-[#5648ee] border border-indigo-200' : 'text-slate-700 hover:bg-slate-50 border border-transparent'}">
+        <span class="truncate">${t.name.trim()}</span>
+        <span class="px-2 py-0.5 rounded-full text-[10px] font-black ${isCurrent ? 'bg-[#5648ee] text-white' : 'bg-slate-100 text-slate-500'}">0%</span>
+      </div>
+    `;
+  }).join('');
+}
+
+function toggleSimulationSidebar(forceOpen) {
+  const sidebar = document.getElementById('simulation-sidebar');
+  const expandBtn = document.getElementById('btn-expand-sim-sidebar');
+  if (!sidebar) return;
+
+  const isCollapsed = sidebar.classList.contains('hidden') || sidebar.style.display === 'none';
+  const shouldOpen = typeof forceOpen === 'boolean' ? forceOpen : isCollapsed;
+
+  if (shouldOpen) {
+    sidebar.classList.remove('hidden');
+    sidebar.style.display = 'flex';
+    if (expandBtn) {
+      expandBtn.classList.add('hidden');
+      expandBtn.style.display = 'none';
+    }
+  } else {
+    sidebar.classList.add('hidden');
+    sidebar.style.display = 'none';
+    if (expandBtn) {
+      expandBtn.classList.remove('hidden');
+      expandBtn.style.display = 'inline-flex';
+    }
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function dismissSimulationWelcome() {
+  const welcomeCard = document.getElementById('simulation-welcome-card');
+  if (welcomeCard) welcomeCard.classList.add('hidden');
+  switchSimulationPart(1);
+}
+
+function dismissSimulationDirections() {
+  const dirCard = document.getElementById('simulation-directions-card');
+  const questionCard = document.getElementById('exam-question-card');
+  if (dirCard) dirCard.classList.add('hidden');
+  if (questionCard) questionCard.classList.remove('hidden');
+
+  const pInfo = TOEIC_PARTS_INFO.find(p => p.part === activeSimulationPart) || TOEIC_PARTS_INFO[0];
+  jumpToSimulationQuestion(pInfo.startQ);
+}
+
+function switchSimulationPart(partNum) {
+  activeSimulationPart = partNum;
+  const pInfo = TOEIC_PARTS_INFO.find(p => p.part === partNum) || TOEIC_PARTS_INFO[0];
+
+  const welcomeCard = document.getElementById('simulation-welcome-card');
+  const dirCard = document.getElementById('simulation-directions-card');
+  const questionCard = document.getElementById('exam-question-card');
+
+  if (welcomeCard) welcomeCard.classList.add('hidden');
+  if (questionCard) questionCard.classList.add('hidden');
+
+  if (dirCard) {
+    const titleEl = document.getElementById('sim-directions-part-title');
+    const textEl = document.getElementById('sim-directions-text');
+    if (titleEl) titleEl.textContent = pInfo.shortName;
+    if (textEl) textEl.textContent = pInfo.directions;
+    dirCard.classList.remove('hidden');
+  }
+
+  renderSimulationDock();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  if (window.lucide) lucide.createIcons();
+}
+
+function jumpToSimulationQuestion(qNum) {
+  const welcomeCard = document.getElementById('simulation-welcome-card');
+  const dirCard = document.getElementById('simulation-directions-card');
+  const questionCard = document.getElementById('exam-question-card');
+
+  if (welcomeCard) welcomeCard.classList.add('hidden');
+  if (dirCard) dirCard.classList.add('hidden');
+  if (questionCard) questionCard.classList.remove('hidden');
+
+  const pInfo = TOEIC_PARTS_INFO.find(p => qNum >= p.startQ && qNum <= p.endQ);
+  if (pInfo) activeSimulationPart = pInfo.part;
+
+  const clusterIdx = testClusters.findIndex(c => qNum >= c.startQNum && qNum <= c.endQNum);
+  if (clusterIdx !== -1) {
+    activeClusterIndex = clusterIdx;
+    renderActiveCluster();
+    const fIdx = flatQuestions.findIndex(f => f.question.questionNumber === qNum);
+    if (fIdx !== -1) activeQuestionIndex = fIdx;
+
+    setTimeout(() => {
+      scrollToQuestion(qNum);
+    }, 100);
+  }
+
+  renderSimulationDock();
+}
+
+let isDockCollapsed = false;
+
+function toggleBottomDock(forceState) {
+  const dock = document.getElementById('exam-bottom-dock');
+  const icon = document.getElementById('dock-collapse-icon');
+  if (!dock) return;
+
+  isDockCollapsed = typeof forceState === 'boolean' ? forceState : !isDockCollapsed;
+
+  if (isDockCollapsed) {
+    dock.classList.add('dock-collapsed');
+    if (icon) icon.setAttribute('data-lucide', 'chevron-up');
+  } else {
+    dock.classList.remove('dock-collapsed');
+    if (icon) icon.setAttribute('data-lucide', 'chevron-down');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function renderSimulationDock() {
+  const dockSimulation = document.getElementById('exam-dock-simulation');
+  const singleDock = document.getElementById('exam-dock-single');
+  const clusteredDock = document.getElementById('exam-dock-clustered');
+  if (singleDock) singleDock.classList.add('hidden');
+  if (clusteredDock) clusteredDock.classList.add('hidden');
+  if (!dockSimulation) return;
+  dockSimulation.classList.remove('hidden');
+
+  // 1. Render Row 1: The 7 Part tabs
+  const tabsContainer = document.getElementById('simulation-parts-tabs');
+  if (tabsContainer) {
+    tabsContainer.innerHTML = TOEIC_PARTS_INFO.map(p => {
+      const isActive = p.part === activeSimulationPart;
+      let partAnswered = 0;
+      for (let q = p.startQ; q <= p.endQ; q++) {
+        if (userAnswers[q]) partAnswered++;
+      }
+      const isAllDone = partAnswered === p.totalQ;
+
+      return `
+        <div onclick="switchSimulationPart(${p.part})" class="flex-shrink-0 px-4 py-2 cursor-pointer flex flex-col justify-center transition border-b-2 select-none ${isActive ? 'bg-indigo-50/90 border-[#5648ee]' : 'border-transparent hover:bg-slate-50'}">
+          <div class="flex items-center gap-1.5 text-xs font-black ${isActive ? 'text-[#5648ee]' : 'text-slate-800'}">
+            <span>${p.shortName}</span>
+            ${isAllDone ? '<span class="text-emerald-500 font-black">✓</span>' : ''}
+          </div>
+          <div class="text-[11px] font-bold ${isActive ? 'text-[#5648ee]' : 'text-slate-400'} mt-0.5">
+            ${partAnswered}/${p.totalQ} questions
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  // 2. Render Row 2: Questions strip for activeSimulationPart
+  const qBarContainer = document.getElementById('simulation-questions-bar');
+  if (qBarContainer) {
+    const activePartInfo = TOEIC_PARTS_INFO.find(p => p.part === activeSimulationPart) || TOEIC_PARTS_INFO[0];
+    const currentQuestionObj = flatQuestions[activeQuestionIndex];
+    const currentQNum = currentQuestionObj ? currentQuestionObj.question.questionNumber : -1;
+
+    let pillsHtml = '';
+    for (let qNum = activePartInfo.startQ; qNum <= activePartInfo.endQ; qNum++) {
+      const isAnswered = !!userAnswers[qNum];
+      const isCurrent = currentQNum === qNum;
+      const isFlagged = flaggedQuestions.has(qNum);
+
+      let pillClasses = 'min-w-[36px] h-8 px-2 rounded-xl text-xs font-bold transition flex items-center justify-center relative cursor-pointer select-none border ';
+      if (isCurrent) {
+        pillClasses += 'ring-2 ring-[#5648ee] border-[#5648ee] text-[#5648ee] bg-indigo-50 font-black shadow-xs ';
+      } else if (isAnswered) {
+        pillClasses += 'bg-indigo-100 text-[#5648ee] border-indigo-200 font-bold ';
+      } else {
+        pillClasses += 'bg-white text-slate-600 border-slate-200 hover:border-slate-300 hover:bg-slate-50 ';
+      }
+
+      pillsHtml += `
+        <button onclick="jumpToSimulationQuestion(${qNum})" class="${pillClasses}" title="Câu hỏi ${qNum}">
+          ${qNum}
+          ${isFlagged ? '<span class="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-rose-500 border border-white"></span>' : ''}
+        </button>
+      `;
+    }
+    qBarContainer.innerHTML = pillsHtml;
+  }
+}
+
+function pauseSimulationExam() {
+  isSimulationPaused = true;
+  if (examTimer) {
+    clearInterval(examTimer);
+    examTimer = null;
+  }
+  const audio = document.getElementById('exam-audio-player');
+  if (audio && !audio.paused) {
+    audio.pause();
+    const playIcon = document.getElementById('exam-audio-play-icon');
+    if (playIcon) playIcon.setAttribute('data-lucide', 'play');
+    if (window.lucide) lucide.createIcons();
+  }
+
+  // Show pause modal
+  let pauseModal = document.getElementById('simulation-pause-modal');
+  if (!pauseModal) {
+    pauseModal = document.createElement('div');
+    pauseModal.id = 'simulation-pause-modal';
+    pauseModal.className = 'fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-xs';
+    document.body.appendChild(pauseModal);
+  }
+
+  const answered = Object.keys(userAnswers).length;
+  const total = flatQuestions.length || 200;
+
+  pauseModal.innerHTML = `
+    <div class="bg-white rounded-3xl p-8 max-w-md w-full text-center shadow-2xl animate-in fade-in zoom-in duration-150">
+      <div class="w-16 h-16 rounded-full bg-amber-50 text-amber-500 flex items-center justify-center mx-auto mb-4 border border-amber-200">
+        <i data-lucide="pause" class="w-8 h-8 fill-current"></i>
+      </div>
+      <h3 class="text-xl font-black text-slate-900 mb-2">Đang tạm dừng bài thi</h3>
+      <p class="text-xs text-slate-500 mb-6 leading-relaxed">
+        Thời gian làm bài đã được tạm dừng. Bạn đã trả lời <strong class="text-slate-800">${answered}/${total}</strong> câu hỏi. Bạn có thể tiếp tục làm bài bất cứ khi nào sẵn sàng.
+      </p>
+      <div class="flex flex-col gap-3">
+        <button onclick="resumeSimulationExam()" class="w-full py-3 rounded-2xl bg-[#5648ee] hover:bg-[#4335df] text-white font-extrabold text-xs shadow-md transition flex items-center justify-center gap-2 cursor-pointer">
+          <i data-lucide="play" class="w-4 h-4 fill-current"></i> Tiếp tục làm bài
+        </button>
+        <button onclick="confirmSubmitExam()" class="w-full py-2.5 rounded-2xl border-2 border-[#5648ee] text-[#5648ee] hover:bg-indigo-50 font-bold text-xs transition cursor-pointer">
+          Nộp bài ngay
+        </button>
+        <button onclick="closeModal('simulation-pause-modal'); confirmExitExam()" class="w-full py-2 rounded-xl text-slate-400 hover:text-slate-700 font-semibold text-xs transition cursor-pointer">
+          Thoát và hủy kết quả
+        </button>
+      </div>
+    </div>
+  `;
+  pauseModal.classList.remove('hidden');
+  if (window.lucide) lucide.createIcons();
+}
+
+function resumeSimulationExam() {
+  const pauseModal = document.getElementById('simulation-pause-modal');
+  if (pauseModal) pauseModal.classList.add('hidden');
+  isSimulationPaused = false;
+  startExamTimer();
+}
+
+function confirmSubmitExam() {
+  const pauseModal = document.getElementById('simulation-pause-modal');
+  if (pauseModal) pauseModal.classList.add('hidden');
+
+  let submitModal = document.getElementById('simulation-submit-modal');
+  if (!submitModal) {
+    submitModal = document.createElement('div');
+    submitModal.id = 'simulation-submit-modal';
+    submitModal.className = 'fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-xs';
+    document.body.appendChild(submitModal);
+  }
+
+  const answered = Object.keys(userAnswers).length;
+  const total = flatQuestions.length || 200;
+  const unanswered = total - answered;
+
+  submitModal.innerHTML = `
+    <div class="bg-white rounded-3xl p-8 max-w-md w-full text-center shadow-2xl animate-in fade-in zoom-in duration-150">
+      <div class="w-16 h-16 rounded-full bg-indigo-50 text-[#5648ee] flex items-center justify-center mx-auto mb-4 border border-indigo-200">
+        <i data-lucide="send" class="w-8 h-8"></i>
+      </div>
+      <h3 class="text-xl font-black text-slate-900 mb-2">Xác nhận nộp bài thi</h3>
+      <div class="bg-slate-50 p-4 rounded-2xl border border-slate-200/80 mb-6 text-left">
+        <div class="flex justify-between items-center text-xs font-bold text-slate-700 py-1 border-b border-slate-200/60">
+          <span>Tổng số câu hỏi:</span>
+          <span class="font-extrabold text-slate-900">${total} câu</span>
+        </div>
+        <div class="flex justify-between items-center text-xs font-bold text-slate-700 py-1 border-b border-slate-200/60">
+          <span>Đã hoàn thành:</span>
+          <span class="font-extrabold text-emerald-600">${answered} câu</span>
+        </div>
+        <div class="flex justify-between items-center text-xs font-bold text-slate-700 py-1">
+          <span>Chưa trả lời:</span>
+          <span class="font-extrabold ${unanswered > 0 ? 'text-rose-500' : 'text-slate-400'}">${unanswered} câu</span>
+        </div>
+      </div>
+      ${unanswered > 0 ? `
+        <p class="text-xs text-amber-600 bg-amber-50 p-3 rounded-xl border border-amber-200 mb-6 font-semibold">
+          ⚠️ Bạn vẫn còn <strong>${unanswered}</strong> câu chưa chọn đáp án. Bạn có chắc chắn muốn kết thúc bài thi?
+        </p>
+      ` : `
+        <p class="text-xs text-slate-500 mb-6">
+          Tuyệt vời! Bạn đã hoàn thành tất cả các câu hỏi trong đề thi. Nhấn xác nhận để tính điểm TOEIC ngay.
+        </p>
+      `}
+      <div class="flex flex-col sm:flex-row gap-3">
+        <button onclick="closeModal('simulation-submit-modal')" class="flex-1 py-3 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-extrabold text-xs transition cursor-pointer">
+          Tiếp tục làm bài
+        </button>
+        <button onclick="closeModal('simulation-submit-modal'); submitExam(true)" class="flex-1 py-3 rounded-2xl bg-[#5648ee] hover:bg-[#4335df] text-white font-extrabold text-xs shadow-md transition cursor-pointer">
+          Xác nhận nộp bài
+        </button>
+      </div>
+    </div>
+  `;
+  submitModal.classList.remove('hidden');
+  if (window.lucide) lucide.createIcons();
+}
+
+function formatTimerHHMMSS(totalSec) {
+  const h = Math.floor(totalSec / 3600);
+  const m = Math.floor((totalSec % 3600) / 60);
+  const s = totalSec % 60;
+  return `${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+}
+
+function startExamTimer() {
+  if (examTimer) clearInterval(examTimer);
+
+  const timerEl = document.getElementById('exam-timer');
+  const updateDisplay = () => {
+    if (!timerEl) return;
+    if (isPracticeMode) {
+      // Practice mode counts up like EstudyMe: 00:00:29
+      timerEl.textContent = formatTimerHHMMSS(timeSpentSeconds);
+    } else {
+      // Mock test mode counts down
+      const h = Math.floor(timeRemaining / 3600);
+      const m = Math.floor((timeRemaining % 3600) / 60);
+      const s = timeRemaining % 60;
+      timerEl.textContent = `${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+    }
+  };
+
+  updateDisplay();
+
+  examTimer = setInterval(() => {
+    timeSpentSeconds++;
+    if (!isPracticeMode) {
+      timeRemaining--;
+      if (timeRemaining <= 0) {
+        clearInterval(examTimer);
+        alert('Đã hết thời gian làm bài! Hệ thống đang tự động nộp bài.');
+        submitExam(true);
+        return;
+      }
+    }
+    updateDisplay();
+  }, 1000);
+}
+
+function sanitizeMediaUrl(url) {
+  if (!url) return '';
+  let clean = String(url).trim();
+  if (clean.startsWith('//')) clean = 'https:' + clean;
+  if (clean.startsWith('estudyme/')) clean = 'https://storage.googleapis.com/' + clean;
+  clean = clean.replace(/storage\.googleapis\.com\/+/g, 'storage.googleapis.com/');
+  if (!clean.startsWith('http://') && !clean.startsWith('https://') && !clean.startsWith('data:')) {
+    if (clean.startsWith('/')) clean = clean.substring(1);
+    clean = 'https://storage.googleapis.com/' + clean;
+  }
+  return clean;
+}
+
+function getCorrectLetter(ans) {
+  if (!ans) return 'A';
+  const match = String(ans).trim().match(/[A-Da-d]/);
+  return match ? match[0].toUpperCase() : 'A';
+}
+
+function normalizeChoices(rawChoices) {
+  if (!Array.isArray(rawChoices) || rawChoices.length === 0) {
+    return [
+      { letter: 'A', text: '' },
+      { letter: 'B', text: '' },
+      { letter: 'C', text: '' },
+      { letter: 'D', text: '' }
+    ];
+  }
+
+  return rawChoices.map((c, idx) => {
+    const defaultLetter = String.fromCharCode(65 + idx);
+    if (typeof c === 'string') {
+      const trimmed = c.trim();
+      const match = trimmed.match(/^\(?([A-Da-d])\)?[\.\:\s\-]*(.*)$/);
+      if (match) {
+        return { letter: match[1].toUpperCase(), text: match[2].trim() };
+      }
+      return { letter: defaultLetter, text: trimmed };
+    }
+    if (typeof c === 'object' && c !== null) {
+      let letter = c.letter;
+      let text = (c.text || c.content || '').trim();
+      if (!letter) {
+        const match = text.match(/^\(?([A-Da-d])\)?[\.\:\s\-]*(.*)$/);
+        if (match) {
+          letter = match[1].toUpperCase();
+          text = match[2].trim();
+        } else {
+          letter = defaultLetter;
+        }
+      }
+      return { letter: String(letter).toUpperCase(), text };
+    }
+    return { letter: defaultLetter, text: '' };
+  });
+}
+
+let examAudioListenersAttached = false;
+
+function setupExamCardAudio(audioUrl) {
+  const bar = document.getElementById('exam-card-audio-bar');
+  const player = document.getElementById('exam-audio-player');
+  const playIcon = document.getElementById('exam-audio-play-icon');
+  const timeDisplay = document.getElementById('exam-audio-time-display');
+  const scrubber = document.getElementById('exam-audio-scrubber');
+
+  if (!audioUrl) {
+    if (bar) bar.classList.add('hidden');
+    if (player) player.pause();
+    return;
+  }
+
+  if (bar) bar.classList.remove('hidden');
+  const cleanUrl = sanitizeMediaUrl(audioUrl);
+  if (player && player.src !== cleanUrl) {
+    player.src = cleanUrl;
+  }
+  if (timeDisplay) timeDisplay.textContent = '00:00 / 00:00';
+  if (scrubber) scrubber.value = 0;
+  if (playIcon) playIcon.setAttribute('data-lucide', 'play');
+
+  if (!examAudioListenersAttached && player) {
+    examAudioListenersAttached = true;
+
+    player.addEventListener('loadedmetadata', updateExamAudioTime);
+    player.addEventListener('timeupdate', updateExamAudioTime);
+    player.addEventListener('ended', () => {
+      const pIcon = document.getElementById('exam-audio-play-icon');
+      if (pIcon) pIcon.setAttribute('data-lucide', 'play');
+      const sc = document.getElementById('exam-audio-scrubber');
+      if (sc) sc.value = 0;
+      if (window.lucide) lucide.createIcons();
+    });
+  }
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function updateExamAudioTime() {
+  const player = document.getElementById('exam-audio-player');
+  const timeDisplay = document.getElementById('exam-audio-time-display');
+  const scrubber = document.getElementById('exam-audio-scrubber');
+  if (!player) return;
+
+  const cur = formatAudioTime(player.currentTime || 0);
+  const dur = formatAudioTime(player.duration || 0);
+  if (timeDisplay) timeDisplay.textContent = `${cur} / ${dur}`;
+
+  if (scrubber && player.duration) {
+    scrubber.value = Math.floor((player.currentTime / player.duration) * 100);
+  }
+}
+
+function toggleExamAudio() {
+  const player = document.getElementById('exam-audio-player');
+  const playIcon = document.getElementById('exam-audio-play-icon');
+  if (!player || !player.src) return;
+
+  if (player.paused) {
+    player.play().catch(e => console.log('Audio play error:', e));
+    if (playIcon) playIcon.setAttribute('data-lucide', 'pause');
+  } else {
+    player.pause();
+    if (playIcon) playIcon.setAttribute('data-lucide', 'play');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function seekExamAudio(val) {
+  const player = document.getElementById('exam-audio-player');
+  if (player && player.duration) {
+    player.currentTime = (val / 100) * player.duration;
+  }
+}
+
+function toggleExamMute() {
+  const player = document.getElementById('exam-audio-player');
+  const volIcon = document.getElementById('exam-audio-vol-icon');
+  if (!player) return;
+
+  player.muted = !player.muted;
+  if (volIcon) {
+    volIcon.setAttribute('data-lucide', player.muted ? 'volume-x' : 'volume-2');
+    if (window.lucide) lucide.createIcons();
+  }
+}
+
+// Render active cluster (Exact EstudyMe Layout for both Single and Grouped parts)
+function renderActiveCluster() {
+  if (!testClusters[activeClusterIndex]) return;
+
+  const cluster = testClusters[activeClusterIndex];
+
+  // 1. Audio player setup (at cluster level)
+  const audioSrc = cluster.audioUrl || (cluster.questions[0] && cluster.questions[0].audioUrl);
+  setupExamCardAudio(audioSrc);
+
+  // 2. Reading Passage (Part 6 & 7)
+  const passageWrap = document.getElementById('exam-passage-wrap');
+  const passageText = document.getElementById('exam-passage-text');
+  if (cluster.passageHtml && passageWrap && passageText) {
+    passageWrap.classList.remove('hidden');
+    passageText.innerHTML = cluster.passageHtml;
+  } else if (passageWrap) {
+    passageWrap.classList.add('hidden');
+  }
+
+  // 3. Shared Image (e.g. photo for Part 1 or diagram for cluster)
+  const imgWrap = document.getElementById('exam-img-wrap');
+  const imgEl = document.getElementById('exam-img');
+  const cleanClusterImg = sanitizeMediaUrl(cluster.imageUrl || (cluster.type === 'single' ? cluster.questions[0].imageUrl : ''));
+  if (cleanClusterImg && imgWrap && imgEl) {
+    imgWrap.classList.remove('hidden');
+    imgEl.src = cleanClusterImg;
+  } else if (imgWrap) {
+    imgWrap.classList.add('hidden');
+  }
+
+  // 4. Sub-questions Container
+  const container = document.getElementById('exam-cluster-questions-container');
+  if (!container) return;
+
+  container.innerHTML = cluster.questions.map((subQ, subIdx) => {
+    const qNum = subQ.questionNumber;
+    const isFlagged = flaggedQuestions.has(qNum);
+    const userAns = userAnswers[qNum];
+    const correctLetter = getCorrectLetter(subQ.correctAnswer);
+    const choicesList = normalizeChoices(subQ.choices);
+    const promptText = (subQ.questionText || '').trim();
+
+    // Specific sub-question image if any and different from cluster image
+    const cleanSubImg = sanitizeMediaUrl(subQ.imageUrl);
+    const showSubImg = cleanSubImg && cleanSubImg !== cleanClusterImg;
+    const subImgHtml = showSubImg ? `
+      <div class="w-full flex items-center justify-center my-3">
+        <div class="inline-flex p-1 rounded-2xl bg-white border border-slate-200/90 shadow-2xs max-w-[420px] max-h-[300px]">
+          <img src="${cleanSubImg}" alt="Question Image" class="max-h-64 object-contain rounded-xl">
+        </div>
+      </div>
+    ` : '';
+
+    // Find correct choice text
+    let correctText = '';
+    const correctChoiceObj = choicesList.find(c => (c.letter || 'A') === correctLetter);
+    if (correctChoiceObj && correctChoiceObj.text) {
+      correctText = correctChoiceObj.text;
+    }
+
+    // Choices HTML
+    const choicesHtml = choicesList.map(c => {
+      const letter = c.letter || 'A';
+      const text = (c.text || '').trim();
+      const isSelected = userAns === letter;
+      const isAudioOnly = !text;
+
+      let extraClass = '';
+      let circleContent = '';
+
+      if (userAns) {
+        if (isPracticeMode) {
+          extraClass += ' graded';
+          if (letter === correctLetter) {
+            extraClass += ' correct';
+            circleContent = '✓';
+          } else if (isSelected && letter !== correctLetter) {
+            extraClass += ' wrong';
+            circleContent = '✕';
+          }
+        } else if (isSelected) {
+          extraClass += ' selected';
+          circleContent = '●';
+        }
+      }
+
+      const displayLabel = isAudioOnly ? `(${letter})` : `<strong class="font-bold mr-1.5">(${letter})</strong> ${text}`;
+
+      return `
+        <div onclick="selectExamChoice(${qNum}, '${letter}')" class="exam-choice-item flex items-center gap-3.5 p-3.5 sm:p-4 rounded-2xl border border-slate-200/90 hover:border-indigo-400 hover:bg-slate-50/80 transition cursor-pointer select-none ${extraClass}">
+          <div class="exam-radio-circle w-5 h-5 rounded-full border-2 border-slate-300 flex items-center justify-center flex-shrink-0 text-xs font-black transition">
+            ${circleContent}
+          </div>
+          <span class="text-sm sm:text-base font-semibold text-slate-800">${displayLabel}</span>
+        </div>
+      `;
+    }).join('');
+
+    // Explanations (Practice Mode)
+    let explanationHtml = '';
+    if (isPracticeMode && userAns) {
+      const sections = parseExplanationSections(subQ, cluster);
+      let accordionsHtml = '';
+      if (sections.length === 0) {
+        accordionsHtml = '<p class="text-slate-500 italic text-sm">Không có giải thích chi tiết cho câu hỏi này.</p>';
+      } else {
+        accordionsHtml = sections.map((sec, idx) => `
+          <div class="rounded-2xl border border-slate-200/90 bg-white overflow-hidden shadow-2xs">
+            <button type="button" onclick="toggleAccordion('acc-q-${qNum}-${idx}')" class="w-full p-4 flex items-center justify-between text-left hover:bg-slate-50/70 transition cursor-pointer">
+              <div class="flex items-center gap-3">
+                <span class="w-6 h-6 rounded-full bg-[#5648ee] text-white flex items-center justify-center text-xs font-black flex-shrink-0">
+                  ${sec.num}
+                </span>
+                <span class="text-sm font-black text-slate-900">${sec.title}</span>
+              </div>
+              <i id="acc-icon-acc-q-${qNum}-${idx}" data-lucide="chevron-up" class="w-4 h-4 text-slate-400 transition-transform"></i>
+            </button>
+            <div id="acc-body-acc-q-${qNum}-${idx}" class="acc-content px-5 pb-5 pt-1 text-sm text-slate-700 leading-relaxed border-t border-slate-100/60 overflow-x-auto">
+              ${sec.content}
+            </div>
+          </div>
+        `).join('');
+      }
+
+      explanationHtml = `
+        <div id="exam-explanation-${qNum}" class="mt-5 pt-5 border-t border-slate-100">
+          <div class="flex items-center gap-2 text-xs font-semibold text-slate-500 mb-2">
+            <i data-lucide="users" class="w-4 h-4 text-slate-400"></i>
+            <span>86% of others answered correctly</span>
+          </div>
+          <div class="text-sm font-extrabold text-slate-900 mb-1">
+            Đáp án đúng: <span class="text-emerald-600 font-black">(${correctLetter})</span> <span class="font-medium text-slate-700">${correctText}</span>
+          </div>
+          <button type="button" onclick="toggleSubQuestionExplanation(${qNum})" class="text-xs font-bold text-[#5648ee] hover:underline flex items-center gap-1 mb-4 cursor-pointer">
+            <span id="exam-toggle-explain-text-${qNum}">Ẩn Giải thích</span>
+            <i id="exam-toggle-explain-icon-${qNum}" data-lucide="chevron-down" class="w-3.5 h-3.5"></i>
+          </button>
+          <div id="exam-accordions-${qNum}" class="flex flex-col gap-3.5 w-full">
+            ${accordionsHtml}
+          </div>
+        </div>
+      `;
+    }
+
+    return `
+      <div id="q-block-${qNum}" class="subquestion-block ${subIdx > 0 ? 'pt-8 border-t border-slate-100/90' : ''}">
+        <div class="flex items-center justify-between mb-3">
+          <div class="text-base font-extrabold text-slate-900">Câu hỏi ${qNum}.</div>
+          <button onclick="toggleFlagQuestion(${qNum})" class="p-1.5 rounded-xl text-slate-400 hover:text-rose-500 hover:bg-rose-50 transition cursor-pointer" title="Đánh dấu câu hỏi này">
+            <i id="exam-flag-icon-${qNum}" data-lucide="flag" class="w-5 h-5 ${isFlagged ? 'text-rose-500 fill-rose-500' : 'text-slate-400'}"></i>
+          </button>
+        </div>
+
+        ${promptText ? `<div class="text-base font-bold text-slate-900 mb-4 leading-relaxed">${promptText}</div>` : ''}
+        ${subImgHtml}
+
+        <div id="exam-choices-${qNum}" class="flex flex-col gap-3 w-full">
+          ${choicesHtml}
+        </div>
+
+        ${explanationHtml}
+      </div>
+    `;
+  }).join('');
+
+  // Floating Next Question Button
+  updateFloatingNextButton();
+
+  updateExamDock();
+  renderExamPalette();
+  if (window.lucide) lucide.createIcons();
+}
+
+// Backward compatibility alias
+function renderActiveQuestion() {
+  renderActiveCluster();
+}
+
+function selectExamChoice(qNumOrLetter, maybeLetter) {
+  let qNum, letter;
+  if (typeof qNumOrLetter === 'string' && maybeLetter === undefined) {
+    const cluster = testClusters[activeClusterIndex];
+    if (cluster && cluster.questions[0]) {
+      qNum = cluster.questions[0].questionNumber;
+      letter = qNumOrLetter;
+    } else {
+      return;
+    }
+  } else {
+    qNum = qNumOrLetter;
+    letter = maybeLetter;
+  }
+
+  if (isPracticeMode && userAnswers[qNum]) {
+    return; // Already answered in practice mode
+  }
+
+  userAnswers[qNum] = letter;
+  const fIdx = flatQuestions.findIndex(f => f.question.questionNumber === qNum);
+  if (fIdx !== -1) activeQuestionIndex = fIdx;
+
+  renderActiveCluster();
+  updateExamDock();
+}
+
+function toggleFlagQuestion(qNum) {
+  if (flaggedQuestions.has(qNum)) {
+    flaggedQuestions.delete(qNum);
+  } else {
+    flaggedQuestions.add(qNum);
+  }
+  renderActiveCluster();
+  if (isSimulationMode) {
+    renderSimulationDock();
+  }
+}
+
+function toggleSubQuestionExplanation(qNum) {
+  const container = document.getElementById(`exam-accordions-${qNum}`);
+  const textEl = document.getElementById(`exam-toggle-explain-text-${qNum}`);
+  const iconEl = document.getElementById(`exam-toggle-explain-icon-${qNum}`);
+  if (!container) return;
+
+  const isHidden = container.classList.contains('hidden');
+  if (isHidden) {
+    container.classList.remove('hidden');
+    if (textEl) textEl.textContent = 'Ẩn Giải thích';
+    if (iconEl) iconEl.setAttribute('data-lucide', 'chevron-down');
+  } else {
+    container.classList.add('hidden');
+    if (textEl) textEl.textContent = 'Xem Giải thích';
+    if (iconEl) iconEl.setAttribute('data-lucide', 'chevron-right');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function scrollToQuestion(qNum) {
+  const el = document.getElementById(`q-block-${qNum}`);
+  if (el) {
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+}
+
+function switchCluster(cIdx) {
+  if (cIdx < 0 || cIdx >= testClusters.length) return;
+  activeClusterIndex = cIdx;
+  if (isSimulationMode) {
+    const cluster = testClusters[cIdx];
+    if (cluster) {
+      const qNum = cluster.startQNum;
+      const pInfo = TOEIC_PARTS_INFO.find(p => qNum >= p.startQ && qNum <= p.endQ);
+      if (pInfo && pInfo.part !== activeSimulationPart) {
+        activeSimulationPart = pInfo.part;
+      }
+    }
+  }
+  renderActiveCluster();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function nextExamQuestion() {
+  const cluster = testClusters[activeClusterIndex];
+  if (!cluster) return;
+
+  // Find first unanswered question in current cluster
+  const firstUnanswered = cluster.questions.find(q => !userAnswers[q.questionNumber]);
+  if (firstUnanswered) {
+    scrollToQuestion(firstUnanswered.questionNumber);
+    return;
+  }
+
+  // All in current cluster answered, advance to next cluster
+  if (activeClusterIndex < testClusters.length - 1) {
+    activeClusterIndex++;
+    if (isSimulationMode) {
+      const nextCluster = testClusters[activeClusterIndex];
+      if (nextCluster) {
+        const qNum = nextCluster.startQNum;
+        const pInfo = TOEIC_PARTS_INFO.find(p => qNum >= p.startQ && qNum <= p.endQ);
+        if (pInfo && pInfo.part !== activeSimulationPart) {
+          activeSimulationPart = pInfo.part;
+        }
+      }
+    }
+    renderActiveCluster();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  } else {
+    if (isSimulationMode) {
+      confirmSubmitExam();
+    } else {
+      submitExam();
+    }
+  }
+}
+
+function updateFloatingNextButton() {
+  const floatingBtn = document.getElementById('exam-floating-next-btn');
+  if (!floatingBtn) return;
+
+  const cluster = testClusters[activeClusterIndex];
+  if (!cluster) return;
+
+  const isLastCluster = activeClusterIndex === testClusters.length - 1;
+  const allAnsweredInCluster = cluster.questions.every(q => !!userAnswers[q.questionNumber]);
+
+  floatingBtn.classList.remove('hidden');
+  if (isLastCluster && allAnsweredInCluster) {
+    floatingBtn.innerHTML = '<span>Nộp bài & Xem kết quả</span> <i data-lucide="check-circle" class="w-4 h-4"></i>';
+  } else {
+    floatingBtn.innerHTML = '<span>Next question</span> <i data-lucide="chevron-right" class="w-4 h-4"></i>';
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function parseExplanationSections(q, group) {
+  const rawVi = typeof (q.explanationViHtml || q.transcriptViHtml || (group && group.transcriptViHtml) || '') === 'string'
+    ? (q.explanationViHtml || q.transcriptViHtml || (group && group.transcriptViHtml) || '').trim() : '';
+  const rawEn = typeof (q.explanationHtml || q.transcriptHtml || (group && group.transcriptHtml) || '') === 'string'
+    ? (q.explanationHtml || q.transcriptHtml || (group && group.transcriptHtml) || '').trim() : '';
+
+  let viData = null;
+  let enData = null;
+
+  if (rawVi.startsWith('#json-mode')) {
+    try {
+      viData = JSON.parse(rawVi.substring(10));
+    } catch(e) {}
+  }
+  if (rawEn.startsWith('#json-mode')) {
+    try {
+      enData = JSON.parse(rawEn.substring(10));
+    } catch(e) {}
+  }
+
+  // Canonical 5 sections of EstudyMe (Matches media_1794824421115_8b36f99e.jpg etc.)
+  const canonicalOrder = [
+    { key: 'Chiến Thuật Làm Bài', altKey: 'Strategy', defaultTitle: 'Chiến Thuật Làm Bài' },
+    { key: 'Bản Dịch', altKey: 'Transcript', defaultTitle: 'Bản Dịch & Transcript Song Ngữ' },
+    { key: 'Đáp Án & Phân Tích', altKey: 'Answers & Analysis', defaultTitle: 'Đáp Án & Phân Tích' },
+    { key: 'Từ Vựng Cần Nhớ', altKey: 'Vocabulary Builder', defaultTitle: 'Từ Vựng Cần Nhớ' },
+    { key: 'Ngữ Pháp', altKey: 'Grammar Focus', defaultTitle: 'Ngữ Pháp' }
+  ];
+
+  const sections = [];
+
+  if (viData || enData) {
+    const dataSource = viData || {};
+    const fallbackSource = enData || {};
+
+    let index = 1;
+    for (const c of canonicalOrder) {
+      if (c.key === 'Bản Dịch') {
+        const viTrans = dataSource['Bản Dịch'] || fallbackSource['Bản Dịch'] || '';
+        const enTrans = fallbackSource['Transcript'] || dataSource['Transcript'] || '';
+
+        if (viTrans && enTrans) {
+          sections.push({
+            num: index++,
+            title: 'Bản Dịch & Transcript Song Ngữ',
+            content: `
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-5 bg-slate-50/70 p-4 sm:p-5 rounded-2xl border border-slate-200/80">
+                <div class="prose max-w-none text-xs sm:text-sm text-slate-800 border-b md:border-b-0 md:border-r border-slate-200/90 pb-3 md:pb-0 md:pr-4">
+                  <div class="font-extrabold text-xs uppercase tracking-wider text-[#5648ee] mb-2 flex items-center gap-1.5">
+                    <span class="w-2 h-2 rounded-full bg-[#5648ee]"></span> Transcript:
+                  </div>
+                  <div class="leading-relaxed text-slate-800">${enTrans}</div>
+                </div>
+                <div class="prose max-w-none text-xs sm:text-sm text-slate-700">
+                  <div class="font-extrabold text-xs uppercase tracking-wider text-emerald-600 mb-2 flex items-center gap-1.5">
+                    <span class="w-2 h-2 rounded-full bg-emerald-500"></span> Bản dịch:
+                  </div>
+                  <div class="leading-relaxed text-slate-700">${viTrans}</div>
+                </div>
+              </div>
+            `
+          });
+          continue;
+        } else if (viTrans || enTrans) {
+          sections.push({
+            num: index++,
+            title: viTrans ? 'Bản Dịch' : 'Transcript',
+            content: viTrans || enTrans
+          });
+          continue;
+        }
+      }
+
+      const content = dataSource[c.key] || dataSource[c.altKey] || fallbackSource[c.key] || fallbackSource[c.altKey];
+      if (content) {
+        sections.push({
+          num: index++,
+          title: c.defaultTitle,
+          content: content
+        });
+      }
+    }
+
+    // Check for any extra custom keys
+    for (const [k, v] of Object.entries(dataSource)) {
+      if (!canonicalOrder.some(c => c.key === k || c.altKey === k) && v) {
+        sections.push({
+          num: index++,
+          title: k,
+          content: v
+        });
+      }
+    }
+  }
+
+  // If no json-mode was found, fallback to raw HTML
+  if (sections.length === 0) {
+    if (rawVi && rawEn) {
+      // Both English Transcript and Vietnamese Translation are present
+      const cleanEn = rawEn.replace(/^(<p[^>]*>)?\s*(<br\s*\/?>)?\s*(<b>|<strong>)?\s*(Transcript|Detailed Explanation)\s*:?\s*(<\/b>|<\/strong>)?\s*(<br\s*\/?>)?\s*/i, '$1').trim();
+      const cleanVi = rawVi.replace(/^(<p[^>]*>)?\s*(<br\s*\/?>)?\s*(<b>|<strong>)?\s*(Bản dịch|Giải thích chi tiết)\s*:?\s*(<\/b>|<\/strong>)?\s*(<br\s*\/?>)?\s*/i, '$1').trim();
+
+      const isListening = rawEn.toLowerCase().includes('transcript') || rawVi.toLowerCase().includes('bản dịch') || rawEn.includes('(A)') || !!(q.audioUrl || (group && group.audioUrl));
+      const leftHeading = isListening ? 'Transcript:' : 'Giải thích (Tiếng Anh):';
+      const rightHeading = isListening ? 'Bản dịch:' : 'Giải thích (Tiếng Việt):';
+
+      sections.push({
+        num: 1,
+        title: isListening ? 'Transcript & Bản dịch Song Ngữ' : 'Giải thích chi tiết & Bản dịch Song Ngữ',
+        content: `
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-5 bg-slate-50/70 p-4 sm:p-5 rounded-2xl border border-slate-200/80">
+            <div class="prose max-w-none text-xs sm:text-sm text-slate-800 border-b md:border-b-0 md:border-r border-slate-200/90 pb-3 md:pb-0 md:pr-4">
+              <div class="font-extrabold text-xs uppercase tracking-wider text-[#5648ee] mb-2 flex items-center gap-1.5">
+                <span class="w-2 h-2 rounded-full bg-[#5648ee]"></span> ${leftHeading}
+              </div>
+              <div class="leading-relaxed text-slate-800">${cleanEn}</div>
+            </div>
+            <div class="prose max-w-none text-xs sm:text-sm text-slate-700">
+              <div class="font-extrabold text-xs uppercase tracking-wider text-emerald-600 mb-2 flex items-center gap-1.5">
+                <span class="w-2 h-2 rounded-full bg-emerald-500"></span> ${rightHeading}
+              </div>
+              <div class="leading-relaxed text-slate-700">${cleanVi}</div>
+            </div>
+          </div>
+        `
+      });
+    } else if (rawVi) {
+      sections.push({
+        num: 1,
+        title: 'Giải thích chi tiết & Bản dịch',
+        content: rawVi
+      });
+    } else if (rawEn) {
+      sections.push({
+        num: 1,
+        title: 'Transcript & Giải thích',
+        content: rawEn
+      });
+    }
+  }
+
+  return sections;
+}
+
+function toggleAccordion(id) {
+  const body = document.getElementById(`acc-body-${id}`);
+  const icon = document.getElementById(`acc-icon-${id}`);
+  if (!body) return;
+
+  const isHidden = body.classList.contains('hidden');
+  if (isHidden) {
+    body.classList.remove('hidden');
+    if (icon) icon.setAttribute('data-lucide', 'chevron-up');
+  } else {
+    body.classList.add('hidden');
+    if (icon) icon.setAttribute('data-lucide', 'chevron-down');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function toggleExamDrawer(forceState) {
+  const drawer = document.getElementById('exam-palette-drawer');
+  const icon = document.getElementById('exam-drawer-icon');
+  if (!drawer) return;
+
+  const isHidden = drawer.classList.contains('hidden');
+  const shouldOpen = typeof forceState === 'boolean' ? forceState : isHidden;
+
+  if (shouldOpen) {
+    drawer.classList.remove('hidden');
+    renderExamPalette();
+    if (icon) icon.setAttribute('data-lucide', 'chevron-down');
+  } else {
+    drawer.classList.add('hidden');
+    if (icon) icon.setAttribute('data-lucide', 'chevron-up');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+let currentPaletteFilter = 'all';
+
+function renderExamPalette(filterPart) {
+  if (filterPart !== undefined) currentPaletteFilter = filterPart;
+  const grid = document.getElementById('exam-palette-grid');
+  if (!grid) return;
+
+  const isFullOrMini = flatQuestions.length >= 90;
+  if (!isFullOrMini) {
+    grid.className = 'grid grid-cols-6 sm:grid-cols-10 gap-2 max-h-64 overflow-y-auto p-1';
+    grid.innerHTML = flatQuestions.map((item, idx) => {
+      const qNum = item.question.questionNumber;
+      const userAns = userAnswers[qNum];
+      const correctLetter = getCorrectLetter(item.question.correctAnswer);
+      const isCurrent = idx === activeQuestionIndex;
+      const isFlagged = flaggedQuestions.has(qNum);
+
+      let bg = 'bg-slate-100 text-slate-700 border-slate-200';
+      if (userAns) {
+        if (isPracticeMode) {
+          if (userAns === correctLetter) bg = 'bg-emerald-500 text-white border-emerald-600';
+          else bg = 'bg-rose-500 text-white border-rose-600';
+        } else {
+          bg = 'bg-[#5648ee] text-white border-[#5648ee]';
+        }
+      }
+      const ring = isCurrent ? 'ring-2 ring-[#5648ee] ring-offset-2' : '';
+      const flagDot = isFlagged ? '<span class="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-amber-400 border border-white"></span>' : '';
+
+      return `
+        <button onclick="jumpToExamQuestion(${idx})" class="relative h-9 rounded-xl border font-black text-xs transition flex items-center justify-center ${bg} ${ring}">
+          ${idx + 1}
+          ${flagDot}
+        </button>
+      `;
+    }).join('');
+    return;
+  }
+
+  // Multi-part TOEIC Exam: Grouped cleanly by Part!
+  grid.className = 'flex flex-col gap-4 max-h-[60vh] overflow-y-auto p-1';
+
+  const parts = TOEIC_PARTS_INFO.map(p => {
+    const questions = flatQuestions.map((fq, idx) => ({ ...fq, flatIdx: idx }))
+      .filter(fq => fq.question.questionNumber >= p.startQ && fq.question.questionNumber <= p.endQ);
+    const answeredCount = questions.filter(fq => !!userAnswers[fq.question.questionNumber]).length;
+    return { ...p, questions, answeredCount };
+  });
+
+  // Top Filter Tabs (Jump or isolate a Part)
+  const tabsHtml = `
+    <div class="flex items-center gap-1.5 overflow-x-auto pb-2 border-b border-slate-100 flex-shrink-0">
+      <button onclick="renderExamPalette('all')" class="px-3 py-1.5 rounded-xl text-xs font-bold transition whitespace-nowrap cursor-pointer ${currentPaletteFilter === 'all' ? 'bg-[#5648ee] text-white shadow-xs' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}">
+        Tất cả (${flatQuestions.length})
+      </button>
+      ${parts.map(p => `
+        <button onclick="renderExamPalette(${p.part})" class="px-2.5 py-1.5 rounded-xl text-xs font-bold transition whitespace-nowrap flex items-center gap-1.5 cursor-pointer ${currentPaletteFilter === p.part ? 'bg-[#5648ee] text-white shadow-xs' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'}">
+          <span>${p.shortName}</span>
+          <span class="text-[10px] font-black ${p.answeredCount === p.totalQ ? 'text-emerald-500' : 'opacity-70'}">(${p.answeredCount}/${p.totalQ})</span>
+        </button>
+      `).join('')}
+    </div>
+  `;
+
+  const partsToRender = currentPaletteFilter === 'all' ? parts : parts.filter(p => p.part === currentPaletteFilter);
+
+  const sectionsHtml = partsToRender.map(p => {
+    const btns = p.questions.map(item => {
+      const qNum = item.question.questionNumber;
+      const userAns = userAnswers[qNum];
+      const correctLetter = getCorrectLetter(item.question.correctAnswer);
+      const isCurrent = item.flatIdx === activeQuestionIndex;
+      const isFlagged = flaggedQuestions.has(qNum);
+
+      let bg = 'bg-white text-slate-700 border-slate-200 hover:border-indigo-300';
+      if (userAns) {
+        if (isPracticeMode) {
+          if (userAns === correctLetter) bg = 'bg-emerald-500 text-white border-emerald-600';
+          else bg = 'bg-rose-500 text-white border-rose-600';
+        } else {
+          bg = 'bg-[#5648ee] text-white border-[#5648ee]';
+        }
+      }
+      const ring = isCurrent ? 'ring-2 ring-[#5648ee] ring-offset-2' : '';
+      const flagDot = isFlagged ? '<span class="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-rose-500 border border-white"></span>' : '';
+
+      return `
+        <button onclick="jumpToExamQuestion(${item.flatIdx})" class="relative h-9 rounded-xl border font-black text-xs transition flex items-center justify-center cursor-pointer ${bg} ${ring}" title="Câu hỏi ${qNum}">
+          ${qNum}
+          ${flagDot}
+        </button>
+      `;
+    }).join('');
+
+    return `
+      <div class="rounded-2xl border border-slate-200/90 bg-slate-50/50 p-3">
+        <div class="flex items-center justify-between pb-2 mb-2 border-b border-slate-200/60">
+          <div class="flex items-center gap-2">
+            <span class="px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-indigo-100 text-[#5648ee]">${p.shortName}</span>
+            <span class="text-xs font-black text-slate-800">${p.name} (Câu ${p.startQ} - ${p.endQ})</span>
+          </div>
+          <span class="text-[11px] font-bold text-slate-500">Đã làm: <strong class="text-[#5648ee] font-black">${p.answeredCount}/${p.totalQ}</strong></span>
+        </div>
+        <div class="grid grid-cols-6 sm:grid-cols-10 gap-2">
+          ${btns}
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  grid.innerHTML = tabsHtml + sectionsHtml;
+}
+
+function jumpToExamQuestion(idx) {
+  if (idx < 0 || idx >= flatQuestions.length) return;
+  const item = flatQuestions[idx];
+  if (item && item.clusterIndex !== undefined) {
+    if (isSimulationMode || flatQuestions.length >= 180) {
+      const qNum = item.question.questionNumber;
+      jumpToSimulationQuestion(qNum);
+      toggleExamDrawer(false);
+      return;
+    }
+    activeClusterIndex = item.clusterIndex;
+    renderActiveCluster();
+    setTimeout(() => {
+      scrollToQuestion(item.question.questionNumber);
+    }, 150);
+  }
+  toggleExamDrawer(false);
+}
+
+function updateExamDock() {
+  if (isSimulationMode || flatQuestions.length >= 180) {
+    renderSimulationDock();
+    return;
+  }
+  const dockSimulation = document.getElementById('exam-dock-simulation');
+  if (dockSimulation) dockSimulation.classList.add('hidden');
+
+  if (testClusters.length === 0) return;
+
+  const isMultiQuestionClustered = testClusters.some(c => c.questions.length > 1);
+  const clusteredDock = document.getElementById('exam-dock-clustered');
+  const singleDock = document.getElementById('exam-dock-single');
+
+  // Compute total counts
+  let totalCorrect = 0;
+  let totalWrong = 0;
+  let totalAnswered = 0;
+  const totalQuestions = flatQuestions.length;
+
+  flatQuestions.forEach(item => {
+    const q = item.question;
+    const u = userAnswers[q.questionNumber];
+    const correctLetter = getCorrectLetter(q.correctAnswer);
+    if (u) {
+      totalAnswered++;
+      if (u === correctLetter) totalCorrect++;
+      else totalWrong++;
+    }
+  });
+  const totalUnanswered = totalQuestions - totalAnswered;
+
+  if (isMultiQuestionClustered && clusteredDock && singleDock) {
+    singleDock.classList.add('hidden');
+    clusteredDock.classList.remove('hidden');
+
+    clusteredDock.innerHTML = `
+      <div class="flex items-stretch overflow-x-auto divide-x divide-slate-200/80 flex-1 py-1">
+        ${testClusters.map((cluster, cIdx) => {
+          const isActive = cIdx === activeClusterIndex;
+          let cCorrect = 0;
+          let cWrong = 0;
+          let cAnswered = 0;
+          const cTotal = cluster.questions.length;
+
+          cluster.questions.forEach(q => {
+            const u = userAnswers[q.questionNumber];
+            const correctLetter = getCorrectLetter(q.correctAnswer);
+            if (u) {
+              cAnswered++;
+              if (u === correctLetter) cCorrect++;
+              else cWrong++;
+            }
+          });
+          const cUnanswered = cTotal - cAnswered;
+          const allDone = cAnswered === cTotal;
+
+          if (isActive) {
+            return `
+              <div class="flex-shrink-0 px-4 py-1.5 bg-indigo-50/70 border-b-2 border-[#5648ee] min-w-[210px]">
+                <div class="flex items-center justify-between text-xs font-black text-slate-900 mb-1">
+                  <span>Câu hỏi ${cluster.startQNum}-${cluster.endQNum}</span>
+                  ${allDone ? '<span class="w-4 h-4 rounded-full bg-emerald-500 text-white flex items-center justify-center text-[10px] font-black">✓</span>' : ''}
+                </div>
+                <div class="flex items-center gap-2.5 text-[11px] font-bold mb-1.5">
+                  <span class="text-emerald-700 flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-emerald-500"></span> ${cCorrect}/${cTotal} Đúng</span>
+                  <span class="text-rose-700 flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-rose-500"></span> ${cWrong}/${cTotal} Sai</span>
+                  <span class="text-slate-500 flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-slate-300"></span> ${cUnanswered}/${cTotal} Chưa</span>
+                </div>
+                <div class="flex items-center gap-1.5">
+                  ${cluster.questions.map(q => {
+                    const u = userAnswers[q.questionNumber];
+                    const correctLetter = getCorrectLetter(q.correctAnswer);
+                    let circleStyle = 'bg-slate-100 text-slate-700 border-slate-300';
+                    if (u) {
+                      if (u === correctLetter) circleStyle = 'bg-emerald-500 text-white border-emerald-500';
+                      else circleStyle = 'bg-rose-500 text-white border-rose-500';
+                    }
+                    return `<button onclick="scrollToQuestion(${q.questionNumber})" class="w-6 h-6 rounded-full border text-xs font-black flex items-center justify-center transition cursor-pointer ${circleStyle}">${q.questionNumber}</button>`;
+                  }).join('')}
+                </div>
+              </div>
+            `;
+          } else {
+            return `
+              <div onclick="switchCluster(${cIdx})" class="flex-shrink-0 px-4 py-1.5 hover:bg-slate-50 cursor-pointer min-w-[130px] flex flex-col justify-center transition">
+                <div class="text-xs font-bold text-slate-700">Câu hỏi ${cluster.startQNum}-${cluster.endQNum}</div>
+                <div class="text-[11px] font-medium text-slate-400 mt-1">${cAnswered}/${cTotal} Câu hỏi</div>
+              </div>
+            `;
+          }
+        }).join('')}
+      </div>
+
+      <!-- Right controls: Drawer toggle + Submit -->
+      <div class="flex-shrink-0 flex items-center gap-2 px-3 bg-white ml-auto border-l border-slate-200">
+        <button onclick="toggleExamDrawer()" class="p-1.5 rounded-xl border border-slate-200 text-slate-500 hover:bg-slate-100 transition shadow-2xs" title="Xem bảng câu hỏi">
+          <i id="exam-drawer-icon-clustered" data-lucide="chevron-up" class="w-4 h-4"></i>
+        </button>
+        <button onclick="submitExam()" class="px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-extrabold text-xs transition">
+          Nộp bài
+        </button>
+      </div>
+    `;
+  } else if (singleDock && clusteredDock) {
+    clusteredDock.classList.add('hidden');
+    singleDock.classList.remove('hidden');
+
+    const rangeEl = document.getElementById('exam-dock-range');
+    const correctEl = document.getElementById('exam-dock-correct');
+    const wrongEl = document.getElementById('exam-dock-wrong');
+    const unansEl = document.getElementById('exam-dock-unanswered');
+
+    if (rangeEl) rangeEl.textContent = `1-${totalQuestions}`;
+    if (correctEl) correctEl.textContent = `${totalCorrect}/${totalQuestions}`;
+    if (wrongEl) wrongEl.textContent = `${totalWrong}/${totalQuestions}`;
+    if (unansEl) unansEl.textContent = `${totalUnanswered}/${totalQuestions}`;
+  }
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function prevQuestion() {
+  if (activeQuestionIndex > 0) {
+    activeQuestionIndex--;
+    renderActiveQuestion();
+  }
+}
+
+function nextQuestion() {
+  if (activeQuestionIndex < flatQuestions.length - 1) {
+    activeQuestionIndex++;
+    renderActiveQuestion();
+  }
+}
+
+function jumpToQuestion(index) {
+  if (index >= 0 && index < flatQuestions.length) {
+    activeQuestionIndex = index;
+    renderActiveQuestion();
+  }
+}
+
+function rewindAudio(seconds) {
+  const a = document.getElementById('exam-audio');
+  if (a) a.currentTime = Math.max(0, a.currentTime - seconds);
+}
+
+function setAudioSpeed(val) {
+  const a = document.getElementById('exam-audio');
+  if (a) a.playbackRate = parseFloat(val);
+}
+
+function changePassageFontSize(delta) {
+  passageFontSize = Math.max(12, Math.min(22, passageFontSize + delta));
+  const el = document.getElementById('exam-passage-text');
+  if (el) el.style.fontSize = `${passageFontSize}px`;
+}
+
+function togglePracticeExplanation() {
+  const explainBox = document.getElementById('practice-explanation');
+  if (explainBox.classList.contains('hidden')) {
+    showPracticeExplanationBox();
+  } else {
+    explainBox.classList.add('hidden');
+  }
+}
+
+// Quick jump buttons for Parts
+function renderPalettePartsJump() {
+  const container = document.getElementById('palette-parts-jump');
+  if (!container) return;
+
+  const parts = [
+    { label: 'P1', q: 1 },
+    { label: 'P2', q: 7 },
+    { label: 'P3', q: 32 },
+    { label: 'P4', q: 71 },
+    { label: 'P5', q: 101 },
+    { label: 'P6', q: 131 },
+    { label: 'P7', q: 147 },
+  ];
+
+  container.innerHTML = parts.map(p => {
+    // Check if question exists in this test
+    const foundIdx = flatQuestions.findIndex(item => item.question.questionNumber >= p.q);
+    if (foundIdx === -1) return '';
+
+    return `
+      <button onclick="jumpToQuestion(${foundIdx})" class="px-2 py-1 rounded bg-slate-100 hover:bg-indigo-50 hover:text-[#5648ee] transition">
+        ${p.label}
+      </button>
+    `;
+  }).join('');
+}
+
+// ================= QUESTION PALETTE =================
+
+function renderQuestionPalette() {
+  const grid = document.getElementById('palette-grid');
+  if (!grid) return;
+
+  grid.innerHTML = flatQuestions.map((item, idx) => {
+    const qNum = item.question.questionNumber;
+    return `
+      <button onclick="jumpToQuestion(${idx})" id="palette-btn-${qNum}" class="palette-btn">
+        ${qNum}
+      </button>
+    `;
+  }).join('');
+
+  updateQuestionPalette();
+}
+
+function updateQuestionPalette() {
+  const answeredCount = Object.keys(userAnswers).length;
+  document.getElementById('palette-answered-count').textContent = answeredCount;
+  document.getElementById('palette-total-count').textContent = flatQuestions.length;
+
+  flatQuestions.forEach((item, idx) => {
+    const qNum = item.question.questionNumber;
+    const btn = document.getElementById(`palette-btn-${qNum}`);
+    if (!btn) return;
+
+    btn.className = 'palette-btn';
+
+    if (userAnswers[qNum]) {
+      btn.classList.add('answered');
+    }
+    if (flaggedQuestions.has(qNum)) {
+      btn.classList.add('flagged');
+    }
+    if (idx === activeQuestionIndex) {
+      btn.classList.add('active-q');
+    }
+  });
+}
+
+// ================= SUBMIT & RESULT ENGINE =================
+
+async function submitExam(force = false) {
+  const answeredCount = Object.keys(userAnswers).length;
+  const totalCount = flatQuestions.length;
+  const unansweredCount = totalCount - answeredCount;
+
+  if (!force && unansweredCount > 0) {
+    const ok = confirm(`Bạn còn ${unansweredCount} câu chưa làm. Bạn có chắc chắn muốn nộp bài ngay bây giờ?`);
+    if (!ok) return;
+  }
+
+  if (examTimer) clearInterval(examTimer);
+
+  try {
+    const resp = await fetch('/api/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        testId: currentTest.topicId,
+        testTitle: currentTest.title,
+        userAnswers,
+        totalQuestions: totalCount,
+        timeSpentSeconds,
+        testType: totalCount >= 180 ? 'full' : (totalCount >= 90 ? 'mini' : 'practice')
+      })
+    });
+
+    if (!resp.ok) throw new Error('Không thể nộp bài');
+    lastResult = await resp.json();
+
+    displayResultView(lastResult);
+  } catch (err) {
+    alert('Lỗi nộp bài: ' + err.message);
+  }
+}
+
+function displayResultView(result) {
+  showView('result');
+
+  document.getElementById('result-test-title').textContent = result.testTitle;
+  const mins = Math.floor(result.timeSpentSeconds / 60);
+  document.getElementById('result-date').textContent = `${new Date(result.date).toLocaleDateString('vi-VN')} • Thời gian làm bài: ${mins} phút`;
+
+  const totalScoreVal = typeof result.score.totalScore === 'number' 
+    ? result.score.totalScore 
+    : result.score.totalScore;
+  document.getElementById('result-total-score').textContent = totalScoreVal;
+
+  document.getElementById('result-l-score').textContent = typeof result.score.listeningScore === 'number' ? `${result.score.listeningScore} pts` : '--';
+  document.getElementById('result-r-score').textContent = typeof result.score.readingScore === 'number' ? `${result.score.readingScore} pts` : '--';
+
+  document.getElementById('result-l-correct').textContent = `${result.listeningCorrect}/100 câu`;
+  document.getElementById('result-r-correct').textContent = `${result.readingCorrect}/100 câu`;
+
+  document.getElementById('result-correct-count').textContent = result.correctCount;
+  document.getElementById('result-wrong-count').textContent = result.wrongCount;
+  document.getElementById('result-skipped-count').textContent = result.skippedCount;
+
+  const pct = Math.round((result.correctCount / result.totalQuestions) * 100);
+  document.getElementById('result-accuracy-pct').textContent = `${pct}%`;
+
+  // === PRO FEATURES (Exact Match Image 2) ===
+  const proBannerScore = document.getElementById('pro-banner-score');
+  if (proBannerScore) proBannerScore.textContent = totalScoreVal;
+
+  const proWrongBadge = document.getElementById('pro-wrong-badge-count');
+  const totalWrongAndSkipped = (result.wrongCount || 0) + (result.skippedCount || 0);
+  if (proWrongBadge) proWrongBadge.textContent = totalWrongAndSkipped;
+
+  // Render 7-Part Detailed Analytics
+  renderProPartsBreakdown(result);
+
+  if (window.lucide) lucide.createIcons();
+}
+
+// ================= PRO ANALYSIS FEATURES =================
+
+function renderProPartsBreakdown(result) {
+  const container = document.getElementById('pro-parts-breakdown-grid');
+  if (!container) return;
+
+  const detailed = result.detailedResults || [];
+  const partAdviceMap = {
+    1: 'Mẹo: Quan sát kỹ chủ thể, hành động và vị trí đồ vật trung tâm trong ảnh. Cẩn thận bẫy từ đồng âm & thì tiếp diễn bị động.',
+    2: 'Mẹo: Nghe kỹ từ để hỏi (Who, Where, When, Why, How). Chú ý các câu trả lời gián tiếp hoặc hỏi ngược lại thường xuất hiện.',
+    3: 'Mẹo: Đọc lướt 3 câu hỏi trước khi audio phát. Chú ý các lượt đổi giọng giữa người nói nam và nữ để bắt đúng keyword.',
+    4: 'Mẹo: Tập trung vào mục đích bài nói ở câu đầu tiên, chi tiết số liệu, bảng biểu và yêu cầu hành động ở câu cuối.',
+    5: 'Mẹo: Xác định từ loại cần điền (danh từ, động từ, tính từ, trạng từ) trước khi dịch nghĩa từ vựng để tiết kiệm thời gian.',
+    6: 'Mẹo: Đọc cả câu trước và câu sau chỗ trống để nắm ngữ cảnh liên kết đoạn văn, đặc biệt với dạng câu điền cả câu văn.',
+    7: 'Mẹo: Với bài đọc kép và đọc ba, chú ý các thông tin chéo liên kết giữa email, thông báo và hóa đơn hoặc lịch trình.'
+  };
+
+  const partSlugMap = {
+    1: 'part-1-photos',
+    2: 'part-2-question-response',
+    3: 'part-3-conversations',
+    4: 'part-4-short-talks',
+    5: 'part-5-incomplete-sentences',
+    6: 'part-6-text-completion',
+    7: 'part-7-single-passages'
+  };
+
+  container.innerHTML = TOEIC_PARTS_INFO.map(p => {
+    const qList = detailed.filter(d => d.questionNumber >= p.startQ && d.questionNumber <= p.endQ);
+    const total = p.totalQ;
+    const correct = qList.filter(d => d.isCorrect).length;
+    const wrong = qList.filter(d => !d.isCorrect && d.userAnswer).length;
+    const skipped = total - correct - wrong;
+    const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
+
+    let statusText = 'Cần ôn tập';
+    let statusColor = 'text-rose-600 bg-rose-50 border-rose-200';
+    let barColor = 'bg-rose-500';
+    if (pct >= 80) {
+      statusText = 'Thế mạnh';
+      statusColor = 'text-emerald-700 bg-emerald-50 border-emerald-200';
+      barColor = 'bg-emerald-500';
+    } else if (pct >= 50) {
+      statusText = 'Trung bình';
+      statusColor = 'text-amber-700 bg-amber-50 border-amber-200';
+      barColor = 'bg-amber-500';
+    }
+
+    return `
+      <div class="p-4 sm:p-5 rounded-2xl bg-slate-50/80 border border-slate-200/90 hover:border-indigo-300 transition flex flex-col justify-between shadow-2xs">
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <span class="font-extrabold text-xs sm:text-sm text-slate-800">${p.name}</span>
+            <span class="px-2 py-0.5 rounded-full text-[10px] font-black border ${statusColor}">${statusText}</span>
+          </div>
+          <div class="flex items-center justify-between text-xs text-slate-600 mb-1.5">
+            <span>Đúng <strong>${correct}/${total}</strong> câu (${wrong} sai, ${skipped} bỏ qua)</span>
+            <span class="font-black text-slate-900">${pct}%</span>
+          </div>
+          <div class="w-full h-2 rounded-full bg-slate-200 overflow-hidden mb-3">
+            <div class="h-full rounded-full transition-all duration-500 ${barColor}" style="width: ${pct}%"></div>
+          </div>
+          <div class="text-[11px] text-slate-500 leading-relaxed mb-4 bg-white p-2.5 rounded-xl border border-slate-200/60">
+            ${partAdviceMap[p.part] || ''}
+          </div>
+        </div>
+        <button onclick="switchTab('practice'); openPracticeSubtopicsModal('${partSlugMap[p.part]}')" class="w-full py-2 rounded-xl border border-indigo-200 bg-white hover:bg-indigo-50 text-[#5648ee] font-bold text-xs transition flex items-center justify-center gap-1.5 cursor-pointer">
+          <i data-lucide="zap" class="w-3.5 h-3.5 text-[#5648ee]"></i>
+          <span>Luyện tập riêng ${p.shortName}</span>
+        </button>
+      </div>
+    `;
+  }).join('');
+}
+
+let proAnalysisCollapsed = false;
+
+function toggleProAnalysisSection(forceOpen) {
+  const content = document.getElementById('pro-analysis-content');
+  const chevron = document.getElementById('pro-analysis-chevron');
+  if (!content) return;
+
+  if (forceOpen === true) {
+    proAnalysisCollapsed = false;
+    content.classList.remove('hidden');
+    if (chevron) chevron.setAttribute('data-lucide', 'chevron-up');
+    content.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  } else {
+    proAnalysisCollapsed = !proAnalysisCollapsed;
+    if (proAnalysisCollapsed) {
+      content.classList.add('hidden');
+      if (chevron) chevron.setAttribute('data-lucide', 'chevron-down');
+    } else {
+      content.classList.remove('hidden');
+      if (chevron) chevron.setAttribute('data-lucide', 'chevron-up');
+    }
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function revealProPartDetails() {
+  toggleProAnalysisSection(true);
+  const grid = document.getElementById('pro-parts-breakdown-grid');
+  if (grid) {
+    grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
+
+function retakeCurrentTest() {
+  if (currentTest) {
+    if (isSimulationMode) {
+      startSimulationTest(currentTest.topicId, currentTest.title);
+    } else {
+      startTest(currentTest.topicId, currentTest.title, isPracticeMode, false);
+    }
+  }
+}
+
+function confirmExitExam() {
+  const ok = confirm('Bạn có chắc chắn muốn rời bài thi? Tiến trình hiện tại sẽ không được lưu.');
+  if (ok) {
+    if (examTimer) {
+      clearInterval(examTimer);
+      examTimer = null;
+    }
+    isSimulationMode = false;
+    isSimulationPaused = false;
+    showView('home');
+  }
+}
+
+// ================= REVIEW MODE =================
+
+function startReviewMode() {
+  if (!lastResult) return;
+  showView('review');
+  document.getElementById('review-title').textContent = `Chi tiết lời giải: ${lastResult.testTitle}`;
+  filterReview('all');
+}
+
+function filterReview(filterType) {
+  currentReviewFilter = filterType;
+
+  ['all', 'wrong', 'correct'].forEach(t => {
+    const btn = document.getElementById(`btn-review-${t}`);
+    if (btn) {
+      if (t === filterType) {
+        btn.className = 'px-3 py-1.5 rounded-lg text-xs font-bold bg-[#5648ee] text-white transition';
+      } else {
+        btn.className = 'px-3 py-1.5 rounded-lg text-xs font-bold bg-slate-100 text-slate-700 hover:bg-slate-200 transition';
+      }
+    }
+  });
+
+  renderReviewList();
+}
+
+let allReviewExplanationsCollapsed = false;
+
+function toggleAllReviewAccordions() {
+  allReviewExplanationsCollapsed = !allReviewExplanationsCollapsed;
+  const groups = document.querySelectorAll('#review-list-container .review-accordions-group');
+  const textEl = document.getElementById('text-toggle-all-review');
+  
+  groups.forEach(g => {
+    if (allReviewExplanationsCollapsed) g.classList.add('hidden');
+    else g.classList.remove('hidden');
+  });
+
+  const questionButtons = document.querySelectorAll('#review-list-container [id^="review-toggle-text-"]');
+  questionButtons.forEach(btn => {
+    btn.textContent = allReviewExplanationsCollapsed ? 'Xem giải thích' : 'Ẩn giải thích';
+  });
+
+  const questionIcons = document.querySelectorAll('#review-list-container [id^="review-toggle-icon-"]');
+  questionIcons.forEach(icon => {
+    icon.setAttribute('data-lucide', allReviewExplanationsCollapsed ? 'chevron-right' : 'chevron-down');
+  });
+
+  if (textEl) {
+    textEl.textContent = allReviewExplanationsCollapsed ? 'Mở tất cả lời giải' : 'Thu gọn tất cả';
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function toggleReviewQuestionAccordions(qNum) {
+  const group = document.getElementById(`review-accordions-group-${qNum}`);
+  const textEl = document.getElementById(`review-toggle-text-${qNum}`);
+  const iconEl = document.getElementById(`review-toggle-icon-${qNum}`);
+  if (!group) return;
+
+  const isHidden = group.classList.contains('hidden');
+  if (isHidden) {
+    group.classList.remove('hidden');
+    if (textEl) textEl.textContent = 'Ẩn giải thích';
+    if (iconEl) iconEl.setAttribute('data-lucide', 'chevron-down');
+  } else {
+    group.classList.add('hidden');
+    if (textEl) textEl.textContent = 'Xem giải thích';
+    if (iconEl) iconEl.setAttribute('data-lucide', 'chevron-right');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function renderReviewList() {
+  const container = document.getElementById('review-list-container');
+  if (!container || !lastResult) return;
+
+  const list = lastResult.detailedResults.filter(r => {
+    if (currentReviewFilter === 'wrong') return !r.isCorrect;
+    if (currentReviewFilter === 'correct') return r.isCorrect;
+    return true;
+  });
+
+  if (list.length === 0) {
+    container.innerHTML = `
+      <div class="bg-white p-10 rounded-3xl text-center text-slate-500 font-bold border border-slate-200 shadow-2xs">
+        <i data-lucide="check-circle" class="w-12 h-12 mx-auto text-emerald-500 stroke-1 mb-2"></i>
+        Không có câu hỏi nào trong danh mục này.
+      </div>
+    `;
+    if (window.lucide) lucide.createIcons();
+    return;
+  }
+
+  container.innerHTML = list.map(q => {
+    const isCorrect = q.isCorrect;
+    const correctLetter = getCorrectLetter(q.correctAnswer);
+    const userAnsLetter = q.userAnswer ? getCorrectLetter(q.userAnswer) : '';
+    const isSkipped = !userAnsLetter;
+
+    // Header badge & status
+    let badgeClass = 'bg-rose-100 text-rose-800';
+    let statusText = '✕ Sai';
+    let borderClass = 'border-rose-200/90';
+
+    if (isCorrect) {
+      badgeClass = 'bg-emerald-100 text-emerald-800';
+      statusText = '✓ Đúng';
+      borderClass = 'border-emerald-200/90';
+    } else if (isSkipped) {
+      badgeClass = 'bg-slate-100 text-slate-600';
+      statusText = '○ Chưa làm';
+      borderClass = 'border-slate-200/90';
+    }
+
+    const userPickDisplay = userAnsLetter ? `(${userAnsLetter})` : 'Chưa chọn';
+    const userPickColor = isCorrect ? 'text-emerald-700 font-black' : (isSkipped ? 'text-slate-400 font-bold' : 'text-rose-600 font-black');
+
+    // Media
+    const cleanImg = sanitizeMediaUrl(q.imageUrl);
+    const cleanAudio = sanitizeMediaUrl(q.audioUrl);
+
+    const imageHtml = cleanImg ? `
+      <div class="mb-5 text-center">
+        <div class="inline-block p-1.5 bg-slate-50 border border-slate-200/90 rounded-2xl shadow-2xs">
+          <img src="${cleanImg}" class="max-h-72 rounded-xl object-contain mx-auto" alt="TOEIC Question Photo">
+        </div>
+      </div>
+    ` : '';
+
+    const audioHtml = cleanAudio ? `
+      <div class="mb-5 bg-slate-50/90 p-3 rounded-2xl border border-slate-200">
+        <audio controls src="${cleanAudio}" class="w-full h-8"></audio>
+      </div>
+    ` : '';
+
+    const passageHtml = q.passageHtml ? `
+      <div class="mb-5 p-5 rounded-2xl bg-amber-50/40 border border-amber-200/70 text-slate-800 text-sm leading-relaxed prose max-w-none">
+        ${q.passageHtml}
+      </div>
+    ` : '';
+
+    const promptHtml = q.questionText ? `
+      <div class="font-extrabold text-slate-900 mb-4 text-base">${q.questionText}</div>
+    ` : '';
+
+    // Choices
+    const choicesList = normalizeChoices(q.choices);
+    const choicesHtml = choicesList.map(c => {
+      const letter = c.letter || 'A';
+      const text = (c.text || '').trim();
+      const isAudioOnly = !text;
+      const isRealAns = letter === correctLetter;
+      const isUserPick = letter === userAnsLetter;
+
+      let cardStyle = 'border-slate-200/90 bg-white text-slate-700';
+      let tagHtml = '';
+
+      if (isRealAns && isUserPick) {
+        cardStyle = 'border-emerald-500 bg-emerald-50/80 text-emerald-950 shadow-2xs';
+        tagHtml = '<span class="text-xs font-black text-emerald-700 bg-emerald-100/90 px-2.5 py-1 rounded-xl flex items-center gap-1">✓ Bạn chọn đúng</span>';
+      } else if (isRealAns) {
+        cardStyle = 'border-emerald-500 bg-emerald-50/50 text-emerald-950 shadow-2xs';
+        tagHtml = '<span class="text-xs font-black text-emerald-700 bg-emerald-100/90 px-2.5 py-1 rounded-xl flex items-center gap-1">✓ Đáp án đúng</span>';
+      } else if (isUserPick) {
+        cardStyle = 'border-rose-400 bg-rose-50/80 text-rose-950 shadow-2xs';
+        tagHtml = '<span class="text-xs font-black text-rose-700 bg-rose-100/90 px-2.5 py-1 rounded-xl flex items-center gap-1">✕ Bạn chọn</span>';
+      }
+
+      const displayLabel = isAudioOnly ? `(${letter})` : `<strong class="font-black mr-2 text-slate-900">(${letter})</strong> ${text}`;
+
+      return `
+        <div class="p-3.5 sm:p-4 rounded-2xl border text-sm flex items-center justify-between transition ${cardStyle}">
+          <span class="font-medium">${displayLabel}</span>
+          ${tagHtml}
+        </div>
+      `;
+    }).join('');
+
+    // Explanations (5 canonical accordions)
+    const sections = parseExplanationSections(q);
+    let explanationBlock = '';
+
+    if (sections.length > 0) {
+      explanationBlock = `
+        <div class="mt-5 pt-4 border-t border-slate-100">
+          <div class="flex items-center justify-between mb-3">
+            <div class="flex items-center gap-2 text-xs font-black uppercase tracking-wider text-[#5648ee]">
+              <i data-lucide="book-open" class="w-4 h-4"></i> Lời giải chi tiết & Phân tích đáp án
+            </div>
+            <button type="button" onclick="toggleReviewQuestionAccordions(${q.questionNumber})" class="text-xs font-bold text-[#5648ee] hover:underline flex items-center gap-1 cursor-pointer">
+              <span id="review-toggle-text-${q.questionNumber}">Ẩn giải thích</span>
+              <i id="review-toggle-icon-${q.questionNumber}" data-lucide="chevron-down" class="w-3.5 h-3.5"></i>
+            </button>
+          </div>
+
+          <div id="review-accordions-group-${q.questionNumber}" class="review-accordions-group flex flex-col gap-3">
+            ${sections.map((sec, idx) => `
+              <div class="rounded-2xl border border-slate-200/90 bg-white overflow-hidden shadow-2xs">
+                <button type="button" onclick="toggleAccordion('rev-${q.questionNumber}-${idx}')" class="w-full p-3.5 sm:p-4 flex items-center justify-between text-left hover:bg-slate-50/70 transition cursor-pointer">
+                  <div class="flex items-center gap-3">
+                    <span class="w-6 h-6 rounded-full bg-[#5648ee] text-white flex items-center justify-center text-xs font-black flex-shrink-0">
+                      ${sec.num}
+                    </span>
+                    <span class="text-sm font-black text-slate-900">${sec.title}</span>
+                  </div>
+                  <i id="acc-icon-rev-${q.questionNumber}-${idx}" data-lucide="chevron-up" class="w-4 h-4 text-slate-400 transition-transform"></i>
+                </button>
+                <div id="acc-body-rev-${q.questionNumber}-${idx}" class="acc-content px-5 pb-5 pt-1 text-sm text-slate-700 leading-relaxed border-t border-slate-100/60 overflow-x-auto">
+                  ${sec.content}
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      `;
+    }
+
+    return `
+      <div class="bg-white p-6 sm:p-7 rounded-3xl shadow-xs border ${borderClass}">
+        <!-- Header -->
+        <div class="flex flex-wrap items-center justify-between gap-3 mb-5 pb-3 border-b border-slate-100">
+          <div class="flex items-center gap-3">
+            <span class="px-3.5 py-1 rounded-xl font-bold text-xs ${badgeClass}">
+              Câu ${q.questionNumber}
+            </span>
+            <span class="text-xs font-extrabold ${isCorrect ? 'text-emerald-700' : (isSkipped ? 'text-slate-500' : 'text-rose-700')}">
+              ${statusText}
+            </span>
+          </div>
+
+          <div class="flex items-center gap-3 text-xs font-bold">
+            <span class="text-slate-500">Bạn chọn: <b class="${userPickColor}">${userPickDisplay}</b></span>
+            <span class="text-emerald-800 bg-emerald-50 px-3 py-1 rounded-xl border border-emerald-200/90 font-black">Đáp án đúng: <b>(${correctLetter})</b></span>
+          </div>
+        </div>
+
+        ${passageHtml}
+        ${promptHtml}
+        ${imageHtml}
+        ${audioHtml}
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-4">
+          ${choicesHtml}
+        </div>
+
+        ${explanationBlock}
+      </div>
+    `;
+  }).join('');
+
+  if (window.lucide) lucide.createIcons();
+}
+
+// ================= STUDY HISTORY =================
+
+async function loadStudyHistory() {
+  const container = document.getElementById('history-container');
+  if (!container) return;
+
+  try {
+    const resp = await fetch('/api/history');
+    const history = await resp.json();
+
+    if (!history || history.length === 0) {
+      container.innerHTML = `
+        <div class="text-center py-12 text-slate-400">
+          <i data-lucide="inbox" class="w-12 h-12 mx-auto stroke-1 mb-2"></i>
+          <p class="font-semibold text-sm">Chưa có lịch sử làm bài nào.</p>
+          <button onclick="switchTab('fulltest')" class="mt-4 px-5 py-2.5 rounded-xl bg-[#5648ee] text-white font-bold text-xs">
+            Làm bài thi ngay
+          </button>
+        </div>
+      `;
+      if (window.lucide) lucide.createIcons();
+      return;
+    }
+
+    container.innerHTML = `
+      <div class="divide-y divide-slate-100">
+        ${history.map(item => `
+          <div class="py-4 flex flex-wrap items-center justify-between gap-4">
+            <div>
+              <h4 class="font-bold text-base text-slate-900">${item.testTitle || 'TOEIC Test'}</h4>
+              <div class="text-xs text-slate-400 mt-1">${new Date(item.date).toLocaleString('vi-VN')}</div>
+            </div>
+            <div class="flex items-center gap-6">
+              <div class="text-right">
+                <div class="text-2xl font-black text-[#5648ee]">${item.score}</div>
+                <div class="text-[11px] font-semibold text-slate-500">Độ chính xác: ${item.accuracy}%</div>
+              </div>
+              <button onclick="startTest('${item.testId}', '${item.testTitle}', false)" class="px-4 py-2 rounded-xl bg-slate-100 hover:bg-[#5648ee] hover:text-white text-slate-700 font-bold text-xs transition">
+                Làm lại
+              </button>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+
+    if (window.lucide) lucide.createIcons();
+  } catch (err) {
+    container.innerHTML = `<div class="text-red-500 text-sm">Lỗi tải lịch sử: ${err.message}</div>`;
+  }
+}
+
+// Keyboard shortcuts for Exam & Flashcard
+function setupKeyboardShortcuts() {
+  document.addEventListener('keydown', (e) => {
+    // 1. Flashcard Mode Shortcuts
+    const flashcardView = document.getElementById('view-flashcard');
+    if (flashcardView && !flashcardView.classList.contains('hidden')) {
+      if (e.code === 'Space' || e.key.toUpperCase() === 'F') {
+        e.preventDefault();
+        flipFlashcard();
+      } else if (e.key === 'ArrowLeft' || e.key === '1') {
+        e.preventDefault();
+        markFlashcard(false); // Chưa ghi nhớ
+      } else if (e.key === 'ArrowRight' || e.key === '2') {
+        e.preventDefault();
+        markFlashcard(true); // Đã ghi nhớ
+      } else if (e.key === 'ArrowUp' || e.key.toUpperCase() === 'R') {
+        e.preventDefault();
+        playFlashcardAudio();
+      }
+      return;
+    }
+
+    // 2. Exam Mode Shortcuts
+    const examView = document.getElementById('view-exam');
+    if (!examView || examView.classList.contains('hidden')) return;
+
+    const key = e.key.toUpperCase();
+    if (['A', 'B', 'C', 'D'].includes(key)) {
+      selectChoice(key);
+    } else if (e.key === 'ArrowRight') {
+      nextQuestion();
+    } else if (e.key === 'ArrowLeft') {
+      prevQuestion();
+    }
+  });
+}
+
+// ================= FLASHCARD & VOCAB QUIZ ENGINE (ESTUDYME MATCH) =================
+let currentFlashcardTopicId = null;
+let currentFlashcardTopicTitle = '';
+let currentFlashcards = [];
+let flashcardIndex = 0;
+let flashcardStatus = {}; // { [cardId]: boolean (true: learned, false: unlearned) }
+let flashcardFlags = new Set();
+let flashcardActiveMode = 'study'; // 'study' or 'quiz'
+
+// Vocab Quiz state
+let quizQuestions = [];
+let quizCurrentIndex = 0;
+let quizAnswers = {}; // { [index]: { selectedIdx, isCorrect, chosenText } }
+let quizFlags = new Set();
+let quizAudioListenersAttached = false;
+
+const fallbackVocabMeanings = [
+  "thỏa thuận", "hợp đồng", "tuân thủ", "sự đảm bảo", "hủy bỏ", "xác định",
+  "cam kết", "khẳng định", "bắt buộc", "các bên tham gia", "điều khoản",
+  "giải quyết", "cụ thể", "tiến hành", "cung cấp dịch vụ", "đàm phán",
+  "thanh toán", "thông báo", "yêu cầu", "sửa đổi, bổ sung", "bồi thường"
+];
+
+function switchFlashcardMode(mode) {
+  flashcardActiveMode = mode;
+
+  const studyPanel = document.getElementById('fc-study-panel');
+  const quizPanel = document.getElementById('fc-quiz-panel');
+  const dockStudy = document.getElementById('dock-study-content');
+  const dockQuiz = document.getElementById('dock-quiz-content');
+  const drawerToggleBtn = document.getElementById('quiz-drawer-toggle-btn');
+  const studyBtn = document.getElementById('fc-mode-study-btn');
+  const quizBtn = document.getElementById('fc-mode-quiz-btn');
+
+  // Pause audio when switching
+  const fcAudio = document.getElementById('fc-audio-element');
+  if (fcAudio) fcAudio.pause();
+  const quizAudio = document.getElementById('quiz-audio-element');
+  if (quizAudio) quizAudio.pause();
+
+  if (mode === 'study') {
+    if (studyPanel) studyPanel.classList.remove('hidden');
+    if (quizPanel) quizPanel.classList.add('hidden');
+    if (dockStudy) dockStudy.classList.remove('hidden');
+    if (dockQuiz) dockQuiz.classList.add('hidden');
+    if (drawerToggleBtn) drawerToggleBtn.classList.add('hidden');
+    toggleQuizDrawer(false);
+
+    if (studyBtn) {
+      studyBtn.className = 'px-3.5 sm:px-4 py-1.5 rounded-xl bg-white text-[#5648ee] shadow-2xs font-extrabold flex items-center gap-1.5 transition';
+    }
+    if (quizBtn) {
+      quizBtn.className = 'px-3.5 sm:px-4 py-1.5 rounded-xl text-slate-600 hover:text-slate-900 font-extrabold flex items-center gap-1.5 transition';
+    }
+
+    updateFlashcardOverview();
+    renderCurrentFlashcard();
+  } else {
+    // Mode is 'quiz'
+    if (studyPanel) studyPanel.classList.add('hidden');
+    if (quizPanel) {
+      quizPanel.classList.remove('hidden');
+      quizPanel.style.display = 'flex';
+    }
+    if (dockStudy) dockStudy.classList.add('hidden');
+    if (dockQuiz) dockQuiz.classList.remove('hidden');
+    if (drawerToggleBtn) drawerToggleBtn.classList.remove('hidden');
+
+    if (studyBtn) {
+      studyBtn.className = 'px-3.5 sm:px-4 py-1.5 rounded-xl text-slate-600 hover:text-slate-900 font-extrabold flex items-center gap-1.5 transition';
+    }
+    if (quizBtn) {
+      quizBtn.className = 'px-3.5 sm:px-4 py-1.5 rounded-xl bg-white text-[#5648ee] shadow-2xs font-extrabold flex items-center gap-1.5 transition';
+    }
+
+    if (quizQuestions.length === 0) {
+      initVocabQuiz();
+    } else {
+      renderCurrentQuizQuestion();
+      updateQuizDock();
+    }
+  }
+
+  if (window.lucide) lucide.createIcons();
+}
+
+async function startVocabQuizDirectly(topicId, topicTitle) {
+  await startFlashcardSession(topicId, topicTitle);
+  switchFlashcardMode('quiz');
+}
+
+function initVocabQuiz(retestWrongOnly = false) {
+  let cards = currentFlashcards.slice();
+  if (retestWrongOnly) {
+    cards = quizQuestions.filter((q, idx) => quizAnswers[idx] && !quizAnswers[idx].isCorrect).map(q => q.sourceCard);
+    if (cards.length === 0) cards = currentFlashcards.slice();
+  }
+
+  // Collect all distinct Vietnamese meanings available
+  const allMeanings = Array.from(new Set(
+    currentFlashcards.map(c => (c.meaningVi || c.meaningEn || '').trim()).filter(Boolean)
+  ));
+
+  quizQuestions = cards.map((card, idx) => {
+    const correctMeaning = (card.meaningVi || card.meaningEn || '').trim();
+
+    // Sample 3 distractors
+    const otherMeanings = allMeanings.filter(m => m !== correctMeaning);
+    let chosenDistractors = [];
+
+    // Shuffle other meanings
+    const shuffledOthers = otherMeanings.sort(() => 0.5 - Math.random());
+    chosenDistractors.push(...shuffledOthers.slice(0, 3));
+
+    // Fallback if not enough distractors
+    if (chosenDistractors.length < 3) {
+      const shuffledFallbacks = fallbackVocabMeanings.filter(m => m !== correctMeaning && !chosenDistractors.includes(m)).sort(() => 0.5 - Math.random());
+      for (const fb of shuffledFallbacks) {
+        if (chosenDistractors.length >= 3) break;
+        chosenDistractors.push(fb);
+      }
+    }
+
+    // Build 4 choices
+    const choices = [
+      { text: correctMeaning, isCorrect: true },
+      ...chosenDistractors.map(d => ({ text: d, isCorrect: false }))
+    ].sort(() => 0.5 - Math.random());
+
+    return {
+      index: idx,
+      word: card.word,
+      phonetic: card.phonetic,
+      imageUrl: card.imageUrl,
+      audioUrl: card.audioUrl,
+      correctMeaning: correctMeaning,
+      choices: choices,
+      sourceCard: card
+    };
+  });
+
+  quizCurrentIndex = 0;
+  quizAnswers = {};
+  quizFlags = new Set();
+
+  renderCurrentQuizQuestion();
+  updateQuizDock();
+}
+
+function renderCurrentQuizQuestion() {
+  if (!quizQuestions[quizCurrentIndex]) return;
+  const q = quizQuestions[quizCurrentIndex];
+
+  // Question label
+  const qNumEl = document.getElementById('quiz-q-num');
+  if (qNumEl) qNumEl.textContent = `Câu hỏi ${quizCurrentIndex + 1}.`;
+
+  // Flag button
+  const flagBtn = document.getElementById('quiz-flag-btn');
+  const flagIcon = document.getElementById('quiz-flag-icon');
+  if (flagIcon) {
+    if (quizFlags.has(quizCurrentIndex)) {
+      flagIcon.setAttribute('fill', '#ef4444');
+      flagIcon.classList.add('text-rose-500', 'fill-rose-500');
+    } else {
+      flagIcon.removeAttribute('fill');
+      flagIcon.classList.remove('text-rose-500', 'fill-rose-500');
+    }
+  }
+
+  // Target word
+  const wordEl = document.getElementById('quiz-word');
+  if (wordEl) wordEl.textContent = q.word;
+
+  // Illustration image (centered)
+  const imgEl = document.getElementById('quiz-img');
+  if (imgEl) {
+    imgEl.src = q.imageUrl || '';
+    imgEl.alt = q.word;
+  }
+
+  // Audio player setup
+  setupQuizAudioPlayer(q.audioUrl);
+
+  // Render 4 options
+  const container = document.getElementById('quiz-options-container');
+  if (container) {
+    const existingAnswer = quizAnswers[quizCurrentIndex];
+    container.innerHTML = q.choices.map((choice, idx) => {
+      let stateClass = '';
+      let circleContent = '';
+
+      if (existingAnswer) {
+        stateClass += ' graded';
+        if (choice.isCorrect) {
+          stateClass += ' correct';
+          circleContent = '✓';
+        } else if (existingAnswer.selectedIdx === idx && !choice.isCorrect) {
+          stateClass += ' wrong';
+          circleContent = '✕';
+        }
+      }
+
+      return `
+        <div onclick="selectQuizChoice(${idx})" class="quiz-choice-item flex items-center gap-3.5 p-3.5 sm:p-4 rounded-2xl border border-slate-200/90 hover:border-indigo-400 hover:bg-slate-50/80 transition cursor-pointer select-none ${stateClass}">
+          <div class="quiz-radio-circle w-5 h-5 rounded-full border-2 border-slate-300 flex items-center justify-center flex-shrink-0 text-xs font-black transition">
+            ${circleContent}
+          </div>
+          <span class="text-sm sm:text-base font-semibold text-slate-800">${choice.text}</span>
+        </div>
+      `;
+    }).join('');
+  }
+
+  renderQuizPalette();
+  if (window.lucide) lucide.createIcons();
+}
+
+function setupQuizAudioPlayer(audioUrl) {
+  const audioEl = document.getElementById('quiz-audio-element');
+  const playBtn = document.getElementById('quiz-play-btn');
+  const playIcon = document.getElementById('quiz-play-icon');
+  const timeDisplay = document.getElementById('quiz-time-display');
+  const scrubber = document.getElementById('quiz-audio-scrubber');
+
+  if (!audioEl) return;
+
+  // Reset UI
+  audioEl.src = audioUrl || '';
+  if (timeDisplay) timeDisplay.textContent = '00:00 / 00:00';
+  if (scrubber) scrubber.value = 0;
+  if (playIcon) playIcon.setAttribute('data-lucide', 'play');
+
+  if (!quizAudioListenersAttached) {
+    quizAudioListenersAttached = true;
+
+    audioEl.addEventListener('loadedmetadata', () => {
+      updateQuizAudioTime();
+    });
+
+    audioEl.addEventListener('timeupdate', () => {
+      updateQuizAudioTime();
+    });
+
+    audioEl.addEventListener('ended', () => {
+      const pIcon = document.getElementById('quiz-play-icon');
+      if (pIcon) pIcon.setAttribute('data-lucide', 'play');
+      const sc = document.getElementById('quiz-audio-scrubber');
+      if (sc) sc.value = 0;
+      if (window.lucide) lucide.createIcons();
+    });
+  }
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function updateQuizAudioTime() {
+  const audioEl = document.getElementById('quiz-audio-element');
+  const timeDisplay = document.getElementById('quiz-time-display');
+  const scrubber = document.getElementById('quiz-audio-scrubber');
+  if (!audioEl) return;
+
+  const cur = formatAudioTime(audioEl.currentTime || 0);
+  const dur = formatAudioTime(audioEl.duration || 0);
+  if (timeDisplay) timeDisplay.textContent = `${cur} / ${dur}`;
+
+  if (scrubber && audioEl.duration) {
+    scrubber.value = Math.floor((audioEl.currentTime / audioEl.duration) * 100);
+  }
+}
+
+function formatAudioTime(sec) {
+  if (isNaN(sec) || !isFinite(sec)) return '00:00';
+  const m = Math.floor(sec / 60);
+  const s = Math.floor(sec % 60);
+  return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+}
+
+function toggleQuizAudio() {
+  const audioEl = document.getElementById('quiz-audio-element');
+  const playIcon = document.getElementById('quiz-play-icon');
+  if (!audioEl || !audioEl.src) return;
+
+  if (audioEl.paused) {
+    audioEl.play().catch(e => console.log('Audio error:', e));
+    if (playIcon) playIcon.setAttribute('data-lucide', 'pause');
+  } else {
+    audioEl.pause();
+    if (playIcon) playIcon.setAttribute('data-lucide', 'play');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function seekQuizAudio(val) {
+  const audioEl = document.getElementById('quiz-audio-element');
+  if (audioEl && audioEl.duration) {
+    audioEl.currentTime = (val / 100) * audioEl.duration;
+  }
+}
+
+function toggleQuizMute() {
+  const audioEl = document.getElementById('quiz-audio-element');
+  const volIcon = document.getElementById('quiz-volume-icon');
+  if (!audioEl) return;
+
+  audioEl.muted = !audioEl.muted;
+  if (volIcon) {
+    volIcon.setAttribute('data-lucide', audioEl.muted ? 'volume-x' : 'volume-2');
+    if (window.lucide) lucide.createIcons();
+  }
+}
+
+function toggleQuizFlag() {
+  if (quizFlags.has(quizCurrentIndex)) {
+    quizFlags.delete(quizCurrentIndex);
+  } else {
+    quizFlags.add(quizCurrentIndex);
+  }
+  renderCurrentQuizQuestion();
+}
+
+function selectQuizChoice(choiceIdx) {
+  if (quizAnswers[quizCurrentIndex]) return; // Already answered
+
+  const q = quizQuestions[quizCurrentIndex];
+  const choice = q.choices[choiceIdx];
+  const isCorrect = !!choice.isCorrect;
+
+  quizAnswers[quizCurrentIndex] = {
+    selectedIdx: choiceIdx,
+    isCorrect: isCorrect,
+    chosenText: choice.text
+  };
+
+  // Immediate visual feedback on items
+  const container = document.getElementById('quiz-options-container');
+  if (container) {
+    const items = container.querySelectorAll('.quiz-choice-item');
+    items.forEach((item, idx) => {
+      item.classList.add('graded');
+      const c = q.choices[idx];
+      const circle = item.querySelector('.quiz-radio-circle');
+
+      if (c.isCorrect) {
+        item.classList.add('correct');
+        if (circle) circle.textContent = '✓';
+      } else if (idx === choiceIdx && !isCorrect) {
+        item.classList.add('wrong');
+        if (circle) circle.textContent = '✕';
+      }
+    });
+  }
+
+  updateQuizDock();
+  renderQuizPalette();
+
+  // Auto advance after 1.2s
+  setTimeout(() => {
+    if (flashcardActiveMode !== 'quiz') return;
+    if (quizCurrentIndex < quizQuestions.length - 1) {
+      quizCurrentIndex++;
+      renderCurrentQuizQuestion();
+      updateQuizDock();
+    } else {
+      showQuizSummaryModal();
+    }
+  }, 1200);
+}
+
+function updateQuizDock() {
+  const total = quizQuestions.length;
+  let correct = 0;
+  let wrong = 0;
+  let answered = 0;
+
+  Object.values(quizAnswers).forEach(ans => {
+    answered++;
+    if (ans.isCorrect) correct++;
+    else wrong++;
+  });
+
+  const unanswered = Math.max(0, total - answered);
+
+  const rangeEl = document.getElementById('quiz-dock-range');
+  if (rangeEl) rangeEl.textContent = `1-${total}`;
+
+  const corEl = document.getElementById('quiz-dock-correct');
+  if (corEl) corEl.textContent = correct;
+
+  const wrgEl = document.getElementById('quiz-dock-wrong');
+  if (wrgEl) wrgEl.textContent = wrong;
+
+  const unansEl = document.getElementById('quiz-dock-unanswered');
+  if (unansEl) unansEl.textContent = unanswered;
+}
+
+function toggleQuizDrawer(forceState) {
+  const drawer = document.getElementById('quiz-palette-drawer');
+  const icon = document.getElementById('quiz-drawer-icon');
+  if (!drawer) return;
+
+  const isHidden = drawer.classList.contains('hidden');
+  const shouldOpen = typeof forceState === 'boolean' ? forceState : isHidden;
+
+  if (shouldOpen) {
+    drawer.classList.remove('hidden');
+    renderQuizPalette();
+    if (icon) icon.setAttribute('data-lucide', 'chevron-down');
+  } else {
+    drawer.classList.add('hidden');
+    if (icon) icon.setAttribute('data-lucide', 'chevron-up');
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function renderQuizPalette() {
+  const grid = document.getElementById('quiz-palette-grid');
+  if (!grid) return;
+
+  grid.innerHTML = quizQuestions.map((q, idx) => {
+    const isCurrent = idx === quizCurrentIndex;
+    const ans = quizAnswers[idx];
+    const isFlagged = quizFlags.has(idx);
+
+    let bg = 'bg-slate-100 text-slate-700 border-slate-200';
+    let label = `${idx + 1}`;
+
+    if (ans) {
+      if (ans.isCorrect) {
+        bg = 'bg-emerald-500 text-white border-emerald-600';
+      } else {
+        bg = 'bg-rose-500 text-white border-rose-600';
+      }
+    }
+
+    const ring = isCurrent ? 'ring-2 ring-[#5648ee] ring-offset-2' : '';
+    const flagDot = isFlagged ? '<span class="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-amber-400 border border-white"></span>' : '';
+
+    return `
+      <button onclick="jumpToQuizQuestion(${idx})" class="relative h-9 rounded-xl border font-black text-xs transition flex items-center justify-center ${bg} ${ring}">
+        ${label}
+        ${flagDot}
+      </button>
+    `;
+  }).join('');
+}
+
+function jumpToQuizQuestion(idx) {
+  if (idx < 0 || idx >= quizQuestions.length) return;
+  quizCurrentIndex = idx;
+  renderCurrentQuizQuestion();
+  toggleQuizDrawer(false);
+}
+
+function endSessionButtonHandler() {
+  if (flashcardActiveMode === 'quiz') {
+    endQuizSession();
+  } else {
+    endFlashcardSession();
+  }
+}
+
+function endQuizSession() {
+  const answeredCount = Object.keys(quizAnswers).length;
+  const total = quizQuestions.length;
+  if (answeredCount < total) {
+    if (!confirm(`Bạn mới làm được ${answeredCount}/${total} câu. Bạn có chắc muốn nộp bài kiểm tra ngay không?`)) {
+      return;
+    }
+  }
+  showQuizSummaryModal();
+}
+
+function showQuizSummaryModal() {
+  const total = quizQuestions.length;
+  let correct = 0;
+  let wrong = 0;
+
+  quizQuestions.forEach((q, idx) => {
+    const a = quizAnswers[idx];
+    if (a && a.isCorrect) correct++;
+    else if (a && !a.isCorrect) wrong++;
+  });
+
+  const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
+
+  const modalHtml = `
+    <div id="quiz-summary-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/70 backdrop-blur-xs animate-in fade-in duration-200">
+      <div class="bg-white rounded-3xl p-6 sm:p-8 max-w-lg w-full shadow-2xl flex flex-col items-center text-center">
+        
+        <div class="w-16 h-16 rounded-full bg-emerald-50 text-emerald-600 flex items-center justify-center mb-3 shadow-xs">
+          <i data-lucide="award" class="w-8 h-8"></i>
+        </div>
+
+        <h3 class="text-2xl font-black text-slate-900">Kết quả Kiểm tra Từ vựng</h3>
+        <p class="text-xs text-slate-500 mt-1">${currentFlashcardTopicTitle}</p>
+
+        <!-- Stats Grid -->
+        <div class="my-5 p-4 rounded-2xl bg-slate-50 w-full grid grid-cols-3 gap-3 text-center border border-slate-100">
+          <div>
+            <div class="text-2xl font-black text-emerald-600">${correct}</div>
+            <div class="text-[11px] font-bold text-slate-500 mt-0.5">✓ Đúng</div>
+          </div>
+          <div>
+            <div class="text-2xl font-black text-rose-500">${wrong}</div>
+            <div class="text-[11px] font-bold text-slate-500 mt-0.5">✕ Sai</div>
+          </div>
+          <div>
+            <div class="text-2xl font-black text-[#5648ee]">${pct}%</div>
+            <div class="text-[11px] font-bold text-slate-500 mt-0.5">Chính xác</div>
+          </div>
+        </div>
+
+        <!-- Words Review List -->
+        <div class="w-full max-h-52 overflow-y-auto mb-5 text-left flex flex-col gap-2 p-1">
+          ${quizQuestions.map((q, idx) => {
+            const a = quizAnswers[idx];
+            const isOk = a && a.isCorrect;
+            const isWrong = a && !a.isCorrect;
+            return `
+              <div class="flex items-center justify-between p-2.5 rounded-xl border border-slate-100 text-xs">
+                <div>
+                  <span class="font-extrabold text-slate-900">${q.word}</span>
+                  <span class="text-slate-400 font-mono text-[11px] ml-1">${q.phonetic || ''}</span>
+                  <div class="text-slate-500 text-[11px] mt-0.5">${q.correctMeaning}</div>
+                </div>
+                <div class="text-right">
+                  <span class="font-extrabold ${isOk ? 'text-emerald-600' : (isWrong ? 'text-rose-500' : 'text-slate-400')}">
+                    ${isOk ? '✓ Đúng' : (isWrong ? '✕ Sai' : '○ Bỏ qua')}
+                  </span>
+                </div>
+              </div>
+            `;
+          }).join('')}
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="w-full flex flex-col gap-2.5">
+          ${wrong > 0 ? `
+            <button onclick="closeModal('quiz-summary-modal'); initVocabQuiz(true);" class="w-full py-3 rounded-2xl bg-rose-500 hover:bg-rose-600 text-white font-extrabold text-xs shadow-md transition flex items-center justify-center gap-1.5">
+              <i data-lucide="rotate-ccw" class="w-4 h-4"></i> Kiểm tra lại ${wrong} câu đã làm sai
+            </button>
+          ` : ''}
+          <button onclick="closeModal('quiz-summary-modal'); initVocabQuiz(false);" class="w-full py-3 rounded-2xl bg-[#5648ee] hover:bg-[#4335df] text-white font-extrabold text-xs shadow-md transition flex items-center justify-center gap-1.5">
+            <i data-lucide="refresh-cw" class="w-4 h-4"></i> Làm lại toàn bộ bài kiểm tra
+          </button>
+          <button onclick="closeModal('quiz-summary-modal'); switchFlashcardMode('study');" class="w-full py-2.5 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-extrabold text-xs transition flex items-center justify-center gap-1.5">
+            <i data-lucide="layers" class="w-4 h-4"></i> Quay lại học Flashcard
+          </button>
+          <button onclick="closeModal('quiz-summary-modal'); showView('home'); switchTab('vocabulary');" class="w-full py-2 text-slate-500 hover:text-slate-800 text-xs font-bold transition">
+            Quay về kho từ vựng
+          </button>
+        </div>
+
+      </div>
+    </div>
+  `;
+
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+  if (window.lucide) lucide.createIcons();
+}
+
+
+function cleanHtmlText(str) {
+  if (!str || typeof str !== 'string') return '';
+  return str.replace(/<[^>]+>/g, '')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&hellip;/g, '...')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+async function startFlashcardSession(topicId, topicTitle, onlyUnlearned = false) {
+  currentFlashcardTopicId = topicId;
+  currentFlashcardTopicTitle = topicTitle;
+
+  // Show loading indicator
+  const loadToast = document.createElement('div');
+  loadToast.id = 'loading-toast';
+  loadToast.className = 'fixed bottom-8 right-8 bg-slate-900 text-white px-5 py-3 rounded-2xl shadow-2xl flex items-center gap-3 z-50 animate-bounce text-xs font-bold';
+  loadToast.innerHTML = '<span class="w-2 h-2 rounded-full bg-[#5648ee] animate-ping"></span> Đang mở bộ thẻ flashcard...';
+  document.body.appendChild(loadToast);
+
+  try {
+    const resp = await fetch(`/api/test/${topicId}`);
+    if (!resp.ok) throw new Error('Không thể tải dữ liệu từ vựng');
+    const data = await resp.json();
+
+    let cards = (data.flashcards || []).map((c, idx) => ({
+      ...c,
+      id: c.id || String(idx),
+      word: cleanHtmlText(c.word || ''),
+      phonetic: cleanHtmlText(c.phonetic || ''),
+      meaningVi: cleanHtmlText(c.meaningVi || ''),
+      meaningEn: cleanHtmlText(c.meaningEn || ''),
+      exampleEn: cleanHtmlText(c.exampleEn || c.exampleEnHtml || ''),
+      exampleVi: cleanHtmlText(c.exampleVi || c.exampleViHtml || '')
+    }));
+
+    if (cards.length === 0) {
+      cards = (data.data || []).map((item, idx) => {
+        const q = item.question || {};
+        return {
+          id: q.id || String(idx),
+          word: cleanHtmlText(q.questionText || ''),
+          phonetic: cleanHtmlText(q.phonetic || ''),
+          imageUrl: q.imageUrl || '',
+          audioUrl: q.audioUrl || '',
+          meaningVi: cleanHtmlText(q.meaningVi || (q.choices && q.choices[0] && q.choices[0].text) || ''),
+          meaningEn: cleanHtmlText(q.meaningEn || ''),
+          exampleEnHtml: q.explanationHtml || '',
+          exampleViHtml: q.explanationViHtml || '',
+          exampleEn: cleanHtmlText(q.explanationHtml || ''),
+          exampleVi: cleanHtmlText(q.explanationViHtml || '')
+        };
+      });
+    }
+
+    if (onlyUnlearned) {
+      cards = cards.filter(c => flashcardStatus[c.id] === false);
+    } else {
+      flashcardStatus = {};
+      flashcardFlags = new Set();
+    }
+
+    if (cards.length === 0) {
+      alert('Không có thẻ nào để học!');
+      loadToast.remove();
+      return;
+    }
+
+    currentFlashcards = cards;
+    flashcardIndex = 0;
+    quizQuestions = [];
+    quizAnswers = {};
+    quizFlags = new Set();
+
+    loadToast.remove();
+    showView('flashcard');
+
+    document.getElementById('fc-topic-title').textContent = topicTitle;
+    switchFlashcardMode('study');
+  } catch (err) {
+    if (loadToast) loadToast.remove();
+    alert('Lỗi tải từ vựng: ' + err.message);
+  }
+}
+
+function renderCurrentFlashcard() {
+  if (!currentFlashcards[flashcardIndex]) return;
+  const card = currentFlashcards[flashcardIndex];
+
+  // Un-flip card if flipped
+  const cardEl = document.getElementById('flashcard-card-element');
+  if (cardEl) cardEl.classList.remove('is-flipped');
+
+  // Update progress text
+  const progEl = document.getElementById('fc-progress-text');
+  if (progEl) progEl.textContent = `${flashcardIndex + 1}/${currentFlashcards.length}`;
+
+  // Front Content
+  const imgWrap = document.getElementById('fc-front-img-wrap');
+  const imgEl = document.getElementById('fc-front-img');
+  if (card.imageUrl) {
+    imgEl.src = card.imageUrl;
+    imgWrap.classList.remove('hidden');
+  } else {
+    imgWrap.classList.add('hidden');
+  }
+
+  document.getElementById('fc-front-word').textContent = cleanHtmlText(card.word);
+  document.getElementById('fc-front-phonetic').textContent = cleanHtmlText(card.phonetic);
+
+  // Back Content
+  document.getElementById('fc-back-word').textContent = cleanHtmlText(card.word);
+  document.getElementById('fc-back-phonetic').textContent = cleanHtmlText(card.phonetic);
+  document.getElementById('fc-back-meaning').textContent = cleanHtmlText(card.meaningVi || card.meaningEn || 'Chưa cập nhật nghĩa');
+
+  const exEn = document.getElementById('fc-back-example-en');
+  const exVi = document.getElementById('fc-back-example-vi');
+
+  if (card.exampleEnHtml) {
+    exEn.innerHTML = card.exampleEnHtml;
+  } else if (card.exampleEn) {
+    exEn.textContent = `"${card.exampleEn}"`;
+  } else {
+    exEn.textContent = '';
+  }
+
+  if (card.exampleViHtml) {
+    exVi.innerHTML = card.exampleViHtml;
+  } else if (card.exampleVi) {
+    exVi.textContent = `"${card.exampleVi}"`;
+  } else {
+    exVi.textContent = '';
+  }
+
+  // Audio setup & auto preload
+  const audioEl = document.getElementById('fc-audio-element');
+  if (audioEl) {
+    audioEl.src = card.audioUrl || '';
+    audioEl.load();
+  }
+
+  // Flag state
+  const flagBtn = document.getElementById('fc-flag-btn');
+  if (flagBtn) {
+    if (flashcardFlags.has(card.id)) {
+      flagBtn.classList.add('text-amber-500');
+    } else {
+      flagBtn.classList.remove('text-amber-500');
+    }
+  }
+
+  // Update Overview Counters
+  updateFlashcardOverview();
+
+  if (window.lucide) lucide.createIcons();
+}
+
+function updateFlashcardOverview() {
+  const total = currentFlashcards.length;
+  let learned = 0;
+  let unlearned = 0;
+  currentFlashcards.forEach(c => {
+    if (flashcardStatus[c.id] === true) learned++;
+    else if (flashcardStatus[c.id] === false) unlearned++;
+  });
+  const unanswered = total - (learned + unlearned);
+
+  const lEl = document.getElementById('fc-overview-learned');
+  const uEl = document.getElementById('fc-overview-unlearned');
+  const unEl = document.getElementById('fc-overview-unanswered');
+
+  if (lEl) lEl.textContent = `${learned}/${total}`;
+  if (uEl) uEl.textContent = `${unlearned}/${total}`;
+  if (unEl) unEl.textContent = `${unanswered}/${total}`;
+}
+
+function flipFlashcard(e) {
+  if (e) e.stopPropagation();
+  const cardEl = document.getElementById('flashcard-card-element');
+  if (cardEl) cardEl.classList.toggle('is-flipped');
+}
+
+function playFlashcardAudio(e) {
+  if (e) e.stopPropagation();
+  const audioEl = document.getElementById('fc-audio-element');
+  if (audioEl && audioEl.src) {
+    audioEl.currentTime = 0;
+    audioEl.play().catch(err => console.log('Audio autoplay prevented:', err));
+  }
+}
+
+function toggleFlagFlashcard() {
+  const card = currentFlashcards[flashcardIndex];
+  if (!card) return;
+  if (flashcardFlags.has(card.id)) {
+    flashcardFlags.delete(card.id);
+  } else {
+    flashcardFlags.add(card.id);
+  }
+  const flagBtn = document.getElementById('fc-flag-btn');
+  if (flagBtn) {
+    if (flashcardFlags.has(card.id)) flagBtn.classList.add('text-amber-500');
+    else flagBtn.classList.remove('text-amber-500');
+  }
+}
+
+function markFlashcard(isMemorized) {
+  const card = currentFlashcards[flashcardIndex];
+  if (!card) return;
+
+  flashcardStatus[card.id] = isMemorized;
+  updateFlashcardOverview();
+
+  if (flashcardIndex < currentFlashcards.length - 1) {
+    flashcardIndex++;
+    renderCurrentFlashcard();
+  } else {
+    showFlashcardSummaryModal();
+  }
+}
+
+function endFlashcardSession() {
+  if (confirm('Bạn có muốn kết thúc phiên học từ vựng này không?')) {
+    showFlashcardSummaryModal();
+  }
+}
+
+function showFlashcardSummaryModal() {
+  const total = currentFlashcards.length;
+  let learned = 0;
+  let unlearned = 0;
+  currentFlashcards.forEach(c => {
+    if (flashcardStatus[c.id] === true) learned++;
+    else if (flashcardStatus[c.id] === false) unlearned++;
+  });
+  const pct = total > 0 ? Math.round((learned / total) * 100) : 0;
+
+  const modalHtml = `
+    <div id="fc-summary-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/70 backdrop-blur-xs animate-in fade-in duration-200">
+      <div class="bg-white rounded-3xl p-6 sm:p-8 max-w-lg w-full shadow-2xl flex flex-col items-center text-center">
+        
+        <div class="w-16 h-16 rounded-full bg-emerald-50 text-emerald-600 flex items-center justify-center mb-4 shadow-sm">
+          <i data-lucide="award" class="w-8 h-8"></i>
+        </div>
+
+        <h3 class="text-2xl font-black text-slate-900">Hoàn thành phiên học!</h3>
+        <p class="text-xs text-slate-500 mt-1">${currentFlashcardTopicTitle}</p>
+
+        <!-- Stats Circle / Score -->
+        <div class="my-6 p-4 rounded-2xl bg-slate-50 w-full grid grid-cols-3 gap-3 text-center border border-slate-100">
+          <div>
+            <div class="text-2xl font-black text-emerald-600">${learned}</div>
+            <div class="text-[11px] font-bold text-slate-500 mt-0.5">Đã thuộc</div>
+          </div>
+          <div>
+            <div class="text-2xl font-black text-rose-500">${unlearned}</div>
+            <div class="text-[11px] font-bold text-slate-500 mt-0.5">Chưa thuộc</div>
+          </div>
+          <div>
+            <div class="text-2xl font-black text-[#5648ee]">${pct}%</div>
+            <div class="text-[11px] font-bold text-slate-500 mt-0.5">Ghi nhớ</div>
+          </div>
+        </div>
+
+        <!-- Words List preview -->
+        <div class="w-full max-h-48 overflow-y-auto mb-6 text-left flex flex-col gap-2 p-1">
+          ${currentFlashcards.map(c => {
+            const isOk = flashcardStatus[c.id] === true;
+            const isNotOk = flashcardStatus[c.id] === false;
+            return `
+              <div class="flex items-center justify-between p-2.5 rounded-xl border border-slate-100 text-xs">
+                <span class="font-extrabold text-slate-800">${c.word} <span class="font-normal text-slate-400 font-mono">${c.phonetic || ''}</span></span>
+                <span class="font-bold ${isOk ? 'text-emerald-600' : (isNotOk ? 'text-rose-500' : 'text-slate-400')}">
+                  ${isOk ? '✓ Đã thuộc' : (isNotOk ? '✗ Chưa thuộc' : '○ Bỏ qua')}
+                </span>
+              </div>
+            `;
+          }).join('')}
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="w-full flex flex-col gap-2.5">
+          <button onclick="closeModal('fc-summary-modal'); switchFlashcardMode('quiz')" class="w-full py-3.5 rounded-2xl bg-gradient-to-r from-[#5648ee] to-indigo-600 hover:brightness-105 text-white font-extrabold text-sm shadow-md shadow-indigo-600/25 transition flex items-center justify-center gap-2">
+            <i data-lucide="check-square" class="w-4 h-4"></i> Bắt đầu kiểm tra từ vựng ngay (Quiz)
+          </button>
+          ${unlearned > 0 ? `
+            <button onclick="closeModal('fc-summary-modal'); startFlashcardSession('${currentFlashcardTopicId}', '${currentFlashcardTopicTitle.replace(/'/g, "\\'")}', true)" class="w-full py-2.5 rounded-2xl bg-rose-50 text-rose-700 hover:bg-rose-100 border border-rose-200 font-extrabold text-xs transition flex items-center justify-center gap-1.5">
+              <i data-lucide="rotate-ccw" class="w-4 h-4"></i> Ôn lại ${unlearned} từ chưa thuộc
+            </button>
+          ` : ''}
+          <button onclick="closeModal('fc-summary-modal'); startFlashcardSession('${currentFlashcardTopicId}', '${currentFlashcardTopicTitle.replace(/'/g, "\\'")}', false)" class="w-full py-2.5 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-extrabold text-xs transition flex items-center justify-center gap-1.5">
+            <i data-lucide="refresh-cw" class="w-4 h-4"></i> Học lại toàn bộ thẻ
+          </button>
+          <button onclick="closeModal('fc-summary-modal'); showView('home'); switchTab('vocabulary')" class="w-full py-2 text-slate-500 hover:text-slate-800 text-xs font-bold transition">
+            Quay về kho từ vựng
+          </button>
+        </div>
+
+      </div>
+    </div>
+  `;
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+  if (window.lucide) lucide.createIcons();
+}
+
+function toggleFullScreen() {
+  if (!document.fullscreenElement) {
+    document.documentElement.requestFullscreen().catch(err => console.log(err));
+  } else {
+    document.exitFullscreen().catch(err => console.log(err));
+  }
+}

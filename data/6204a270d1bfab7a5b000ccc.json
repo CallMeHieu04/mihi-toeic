@@ -1,0 +1,808 @@
+{
+  "topicId": "6204a270d1bfab7a5b000ccc",
+  "title": "PRONOUNS - Practice 4",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d0e",
+        "questionNumber": 1,
+        "questionText": "I finished writing up the report, but ____ hasn’t finished it yet.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "him",
+            "raw": "A. him ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "he",
+            "raw": "B. he",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "they",
+            "raw": "C. they",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "her",
+            "raw": "D. her",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'I finished writing up the report, but ____ hasn’t finished it yet.', the blank needs a subject pronoun because it is the subject of the verb 'hasn't finished'. After 'but', we need a pronoun that can act as the subject of the clause.<br><ul><li><b>him</b> (object pronoun): 'Him' is an object pronoun, used as the object of a verb or preposition, not as a subject.</li><li><b>he</b> (subject pronoun): 'He' is a subject pronoun, used as the subject of a verb. It is the correct choice here.</li><li><b>they</b> (subject pronoun): 'They' is a subject pronoun for plural or singular non-binary, but the sentence context suggests a singular male.</li><li><b>her</b> (object pronoun / possessive adjective): 'Her' is an object pronoun or possessive adjective, not used as a subject pronoun.</li></ul><b>Related structure or vocabulary:</b> Subject pronouns (I, you, he, she, it, we, they) are used as the subject of a verb. Object pronouns (me, you, him, her, it, us, them) are used as the object of a verb or preposition.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'I finished writing up the report, but ____ hasn’t finished it yet.', chỗ trống cần một đại từ chủ ngữ vì nó là chủ ngữ của động từ 'hasn't finished'. Sau 'but', chúng ta cần một đại từ có thể làm chủ ngữ cho mệnh đề phía sau.<br><ul><li><b>him</b> (đại từ tân ngữ): 'Him' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ, không dùng làm chủ ngữ.</li><li><b>he</b> (đại từ chủ ngữ): 'He' là đại từ chủ ngữ, dùng làm chủ ngữ cho động từ. Đây là đáp án đúng trong trường hợp này.</li><li><b>they</b> (đại từ chủ ngữ): 'They' là đại từ chủ ngữ cho số nhiều hoặc số ít không xác định giới tính, nhưng ngữ cảnh câu này nói về một người nam.</li><li><b>her</b> (đại từ tân ngữ / tính từ sở hữu): 'Her' là đại từ tân ngữ hoặc tính từ sở hữu, không dùng làm đại từ chủ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ chủ ngữ (I, you, he, she, it, we, they) dùng làm chủ ngữ của động từ. Đại từ tân ngữ (me, you, him, her, it, us, them) dùng làm tân ngữ cho động từ hoặc giới từ.<br><br><b>Tạm dịch:</b> Tôi đã hoàn thành việc viết báo cáo, nhưng anh ấy vẫn chưa hoàn thành nó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'I finished writing up the report, but ____ hasn’t finished it yet.', the blank needs a subject pronoun because it is the subject of the verb 'hasn't finished'. After 'but', we need a pronoun that can act as the subject of the clause.<br><ul><li><b>him</b> (object pronoun): 'Him' is an object pronoun, used as the object of a verb or preposition, not as a subject.</li><li><b>he</b> (subject pronoun): 'He' is a subject pronoun, used as the subject of a verb. It is the correct choice here.</li><li><b>they</b> (subject pronoun): 'They' is a subject pronoun for plural or singular non-binary, but the sentence context suggests a singular male.</li><li><b>her</b> (object pronoun / possessive adjective): 'Her' is an object pronoun or possessive adjective, not used as a subject pronoun.</li></ul><b>Related structure or vocabulary:</b> Subject pronouns (I, you, he, she, it, we, they) are used as the subject of a verb. Object pronouns (me, you, him, her, it, us, them) are used as the object of a verb or preposition.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d0f",
+        "questionNumber": 2,
+        "questionText": "Please inform ____ of any schedule changes.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I",
+            "raw": "A. I ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "my",
+            "raw": "B. my ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "mine",
+            "raw": "C. mine",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "me",
+            "raw": "D. me",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Please inform ____ of any schedule changes.', the verb 'inform' requires an object to indicate who should be informed. The correct object pronoun to use after 'inform' is 'me'.<br><ul><li><b>I</b> (subject pronoun): 'I' is a subject pronoun, used as the subject of a sentence, not as an object.</li><li><b>my</b> (possessive adjective): 'My' is a possessive adjective, used before a noun to show ownership.</li><li><b>mine</b> (possessive pronoun): 'Mine' is a possessive pronoun, used to indicate possession, not as an object of a verb.</li><li><b>me</b> (object pronoun): 'Me' is an object pronoun, used as the object of a verb or preposition.</li></ul><b>Related structure or vocabulary:</b> Object pronouns (me, you, him, her, us, them) are used as the object of verbs or prepositions. The verb 'inform' is always followed by an object (inform someone of something).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Please inform ____ of any schedule changes.' (Vui lòng thông báo cho ____ về bất kỳ thay đổi nào trong lịch trình.), động từ 'inform' cần một tân ngữ để chỉ người được thông báo. Đại từ tân ngữ đúng để dùng sau 'inform' là 'me'.<br><ul><li><b>I</b> (đại từ chủ ngữ): 'I' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không dùng làm tân ngữ.</li><li><b>my</b> (tính từ sở hữu): 'My' là tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu.</li><li><b>mine</b> (đại từ sở hữu): 'Mine' là đại từ sở hữu, dùng để chỉ sự sở hữu, không dùng làm tân ngữ của động từ.</li><li><b>me</b> (đại từ tân ngữ): 'Me' là đại từ tân ngữ, dùng làm tân ngữ của động từ hoặc giới từ.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ tân ngữ (me, you, him, her, us, them) được dùng làm tân ngữ của động từ hoặc giới từ. Động từ 'inform' luôn đi với tân ngữ (inform someone of something).<br><br><b>Tạm dịch:</b> Vui lòng thông báo cho tôi về bất kỳ thay đổi nào trong lịch trình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Please inform ____ of any schedule changes.', the verb 'inform' requires an object to indicate who should be informed. The correct object pronoun to use after 'inform' is 'me'.<br><ul><li><b>I</b> (subject pronoun): 'I' is a subject pronoun, used as the subject of a sentence, not as an object.</li><li><b>my</b> (possessive adjective): 'My' is a possessive adjective, used before a noun to show ownership.</li><li><b>mine</b> (possessive pronoun): 'Mine' is a possessive pronoun, used to indicate possession, not as an object of a verb.</li><li><b>me</b> (object pronoun): 'Me' is an object pronoun, used as the object of a verb or preposition.</li></ul><b>Related structure or vocabulary:</b> Object pronouns (me, you, him, her, us, them) are used as the object of verbs or prepositions. The verb 'inform' is always followed by an object (inform someone of something).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d10",
+        "questionNumber": 3,
+        "questionText": "These are my teachers. ____ names are Paul and Rita.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "They",
+            "raw": "A. They ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Their",
+            "raw": "B. Their",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Them",
+            "raw": "C. Them",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Theirs",
+            "raw": "D. Theirs",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'These are my teachers. ____ names are Paul and Rita.' requires a possessive adjective to show that the names belong to 'my teachers.' The correct possessive adjective for 'they' (referring to 'teachers') is 'their.'<br><ul><li><b>They</b> (pronoun): 'They' is a subject pronoun, used as the subject of a sentence (e.g., 'They are teachers.'). It cannot be used to show possession.</li><li><b>Their</b> (possessive adjective): 'Their' is a possessive adjective, used before a noun to show ownership or possession (e.g., 'their names').</li><li><b>Them</b> (pronoun): 'Them' is an object pronoun, used as the object of a verb or preposition (e.g., 'I see them.'). It cannot be used to show possession.</li><li><b>Theirs</b> (possessive pronoun): 'Theirs' is a possessive pronoun, used to replace a noun to show possession (e.g., 'The book is theirs.'). It is not used directly before a noun.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relationship.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'These are my teachers. ____ names are Paul and Rita.' cần một tính từ sở hữu để chỉ rằng tên thuộc về 'my teachers'. Tính từ sở hữu phù hợp với 'they' (chỉ 'teachers') là 'their'.<br><ul><li><b>They</b> (đại từ): 'They' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu (ví dụ: 'They are teachers.'). Không dùng để chỉ sở hữu.</li><li><b>Their</b> (tính từ sở hữu): 'Their' là tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu (ví dụ: 'their names').</li><li><b>Them</b> (đại từ): 'Them' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ (ví dụ: 'I see them.'). Không dùng để chỉ sở hữu.</li><li><b>Theirs</b> (đại từ sở hữu): 'Theirs' là đại từ sở hữu, dùng để thay thế cho danh từ nhằm chỉ sự sở hữu (ví dụ: 'The book is theirs.'). Không dùng trực tiếp trước danh từ.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) dùng trước danh từ để chỉ sự sở hữu hoặc mối quan hệ.<br><br><b>Tạm dịch:</b> Đây là các giáo viên của tôi. Tên của họ là Paul và Rita.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'These are my teachers. ____ names are Paul and Rita.' requires a possessive adjective to show that the names belong to 'my teachers.' The correct possessive adjective for 'they' (referring to 'teachers') is 'their.'<br><ul><li><b>They</b> (pronoun): 'They' is a subject pronoun, used as the subject of a sentence (e.g., 'They are teachers.'). It cannot be used to show possession.</li><li><b>Their</b> (possessive adjective): 'Their' is a possessive adjective, used before a noun to show ownership or possession (e.g., 'their names').</li><li><b>Them</b> (pronoun): 'Them' is an object pronoun, used as the object of a verb or preposition (e.g., 'I see them.'). It cannot be used to show possession.</li><li><b>Theirs</b> (possessive pronoun): 'Theirs' is a possessive pronoun, used to replace a noun to show possession (e.g., 'The book is theirs.'). It is not used directly before a noun.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relationship.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d11",
+        "questionNumber": 4,
+        "questionText": "Her mobile phone is broken. She borrowed ____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I",
+            "raw": "A. I ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "my",
+            "raw": "B. my ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "mine",
+            "raw": "C. mine",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "me",
+            "raw": "D. me",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Her mobile phone is broken. She borrowed ____', the blank needs a pronoun that refers to something that belongs to the speaker (the person talking). The correct pronoun should replace 'my mobile phone' to avoid repetition. In English, 'mine' is a possessive pronoun used to indicate that something belongs to the speaker and is used alone, not before a noun.<br><ul><li><b>I</b> (subject pronoun): 'I' is a subject pronoun, used as the subject of a sentence (e.g., I am a teacher). It cannot be used to show possession.</li><li><b>my</b> (possessive adjective): 'My' is a possessive adjective, used before a noun to show ownership (e.g., my phone). It cannot stand alone.</li><li><b>mine</b> (possessive pronoun): 'Mine' is a possessive pronoun, used to replace a noun phrase and show ownership (e.g., This phone is mine). It can stand alone.</li><li><b>me</b> (object pronoun): 'Me' is an object pronoun, used as the object of a verb or preposition (e.g., She called me). It does not show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive pronouns (mine, yours, his, hers, ours, theirs) are used to replace a noun phrase and show ownership. Example: This is my book. That book is mine.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Her mobile phone is broken. She borrowed ____', chỗ trống cần một đại từ chỉ sở hữu để thay thế cho cụm danh từ 'my mobile phone' nhằm tránh lặp lại. Đại từ sở hữu 'mine' được dùng để chỉ vật thuộc về người nói và có thể đứng một mình, không cần theo sau bởi danh từ.<br><ul><li><b>I</b> (đại từ chủ ngữ): 'I' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu (ví dụ: I am a teacher). Không dùng để chỉ sở hữu.</li><li><b>my</b> (tính từ sở hữu): 'My' là tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu (ví dụ: my phone). Không thể đứng một mình.</li><li><b>mine</b> (đại từ sở hữu): 'Mine' là đại từ sở hữu, dùng để thay thế cho cụm danh từ và chỉ sự sở hữu (ví dụ: This phone is mine). Có thể đứng một mình.</li><li><b>me</b> (đại từ tân ngữ): 'Me' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ (ví dụ: She called me). Không dùng để chỉ sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ sở hữu (mine, yours, his, hers, ours, theirs) dùng để thay thế cho cụm danh từ và chỉ sự sở hữu. Ví dụ: This is my book. That book is mine.<br><br><b>Tạm dịch:</b> Điện thoại di động của cô ấy bị hỏng. Cô ấy đã mượn cái của tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Her mobile phone is broken. She borrowed ____', the blank needs a pronoun that refers to something that belongs to the speaker (the person talking). The correct pronoun should replace 'my mobile phone' to avoid repetition. In English, 'mine' is a possessive pronoun used to indicate that something belongs to the speaker and is used alone, not before a noun.<br><ul><li><b>I</b> (subject pronoun): 'I' is a subject pronoun, used as the subject of a sentence (e.g., I am a teacher). It cannot be used to show possession.</li><li><b>my</b> (possessive adjective): 'My' is a possessive adjective, used before a noun to show ownership (e.g., my phone). It cannot stand alone.</li><li><b>mine</b> (possessive pronoun): 'Mine' is a possessive pronoun, used to replace a noun phrase and show ownership (e.g., This phone is mine). It can stand alone.</li><li><b>me</b> (object pronoun): 'Me' is an object pronoun, used as the object of a verb or preposition (e.g., She called me). It does not show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive pronouns (mine, yours, his, hers, ours, theirs) are used to replace a noun phrase and show ownership. Example: This is my book. That book is mine.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d12",
+        "questionNumber": 5,
+        "questionText": "Jenifer Lee said that she prefers travelling by ____ to travelling with lots of people.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "herself",
+            "raw": "A. herself",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "himself",
+            "raw": "B. himself ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "itself",
+            "raw": "C. itself",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "her",
+            "raw": "D. her",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Jenifer Lee said that she prefers travelling by ____ to travelling with lots of people.' requires a reflexive pronoun to indicate that Jenifer prefers to travel alone, by herself. The correct reflexive pronoun for 'Jenifer' (a female) is 'herself'.<br><ul><li><b>herself</b> (pronoun): Reflexive pronoun for 'she' (female). Used when the subject and object are the same person.</li><li><b>himself</b> (pronoun): Reflexive pronoun for 'he' (male). Not correct because Jenifer is female.</li><li><b>itself</b> (pronoun): Reflexive pronoun for 'it' (things or animals). Not correct for a person.</li><li><b>her</b> (pronoun): Object pronoun for 'she'. Not reflexive, so not correct in this context.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Used when the subject and object of the verb are the same person or thing.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Jenifer Lee said that she prefers travelling by ____ to travelling with lots of people.' cần một đại từ phản thân để diễn tả Jenifer thích đi du lịch một mình. Đại từ phản thân phù hợp cho 'Jenifer' (nữ) là 'herself'.<br><ul><li><b>herself</b> (đại từ): Đại từ phản thân cho 'she' (nữ). Dùng khi chủ ngữ và tân ngữ là cùng một người.</li><li><b>himself</b> (đại từ): Đại từ phản thân cho 'he' (nam). Không đúng vì Jenifer là nữ.</li><li><b>itself</b> (đại từ): Đại từ phản thân cho 'it' (vật hoặc động vật). Không dùng cho người.</li><li><b>her</b> (đại từ): Đại từ tân ngữ cho 'she'. Không phải đại từ phản thân nên không phù hợp.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ phản thân: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Dùng khi chủ ngữ và tân ngữ là cùng một người hoặc vật.<br><br><b>Tạm dịch:</b> Jenifer Lee nói rằng cô ấy thích đi du lịch một mình hơn là đi cùng nhiều người.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Jenifer Lee said that she prefers travelling by ____ to travelling with lots of people.' requires a reflexive pronoun to indicate that Jenifer prefers to travel alone, by herself. The correct reflexive pronoun for 'Jenifer' (a female) is 'herself'.<br><ul><li><b>herself</b> (pronoun): Reflexive pronoun for 'she' (female). Used when the subject and object are the same person.</li><li><b>himself</b> (pronoun): Reflexive pronoun for 'he' (male). Not correct because Jenifer is female.</li><li><b>itself</b> (pronoun): Reflexive pronoun for 'it' (things or animals). Not correct for a person.</li><li><b>her</b> (pronoun): Object pronoun for 'she'. Not reflexive, so not correct in this context.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Used when the subject and object of the verb are the same person or thing.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d13",
+        "questionNumber": 6,
+        "questionText": "The executives of the board ____ decided to conduct the analysis.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "himself",
+            "raw": "A. himself ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "herself",
+            "raw": "B. herself ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "themselves",
+            "raw": "C. themselves",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "their",
+            "raw": "D. their",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'The executives of the board ____ decided to conduct the analysis,' the blank needs a pronoun that refers back to 'the executives,' which is a plural noun. The correct reflexive pronoun for a plural subject like 'executives' is 'themselves.' Reflexive pronouns are used when the subject and the object of the verb are the same, or to emphasize the subject.<br><ul><li><b>himself</b> (reflexive pronoun): 'Himself' is a reflexive pronoun used for singular male subjects (he). It does not agree with the plural noun 'executives.'</li><li><b>herself</b> (reflexive pronoun): 'Herself' is a reflexive pronoun used for singular female subjects (she). It does not agree with the plural noun 'executives.'</li><li><b>themselves</b> (reflexive pronoun): 'Themselves' is the reflexive pronoun used for plural subjects (they/the executives). It matches the subject 'executives' and is the correct choice.</li><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective, used to show ownership, not as a reflexive pronoun. It does not fit grammatically in this sentence.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Used when the subject and object are the same or for emphasis.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'The executives of the board ____ decided to conduct the analysis.', chỗ trống cần một đại từ phản thân phù hợp với chủ ngữ 'the executives' (các giám đốc), là danh từ số nhiều. Đại từ phản thân đúng cho chủ ngữ số nhiều là 'themselves.' Đại từ phản thân được dùng khi chủ ngữ và tân ngữ là cùng một đối tượng, hoặc để nhấn mạnh chủ ngữ.<br><ul><li><b>himself</b> (đại từ phản thân): 'Himself' là đại từ phản thân dùng cho chủ ngữ nam số ít (he). Không phù hợp với danh từ số nhiều 'executives.'</li><li><b>herself</b> (đại từ phản thân): 'Herself' là đại từ phản thân dùng cho chủ ngữ nữ số ít (she). Không phù hợp với danh từ số nhiều 'executives.'</li><li><b>themselves</b> (đại từ phản thân): 'Themselves' là đại từ phản thân dùng cho chủ ngữ số nhiều (they/the executives). Phù hợp với chủ ngữ 'executives' và là đáp án đúng.</li><li><b>their</b> (tính từ sở hữu): 'Their' là tính từ sở hữu, dùng để chỉ sự sở hữu, không phải đại từ phản thân. Không phù hợp về mặt ngữ pháp trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ phản thân: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Dùng khi chủ ngữ và tân ngữ là cùng một đối tượng hoặc để nhấn mạnh chủ ngữ.<br><br><b>Tạm dịch:</b> Các giám đốc trong hội đồng đã tự mình quyết định tiến hành phân tích.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'The executives of the board ____ decided to conduct the analysis,' the blank needs a pronoun that refers back to 'the executives,' which is a plural noun. The correct reflexive pronoun for a plural subject like 'executives' is 'themselves.' Reflexive pronouns are used when the subject and the object of the verb are the same, or to emphasize the subject.<br><ul><li><b>himself</b> (reflexive pronoun): 'Himself' is a reflexive pronoun used for singular male subjects (he). It does not agree with the plural noun 'executives.'</li><li><b>herself</b> (reflexive pronoun): 'Herself' is a reflexive pronoun used for singular female subjects (she). It does not agree with the plural noun 'executives.'</li><li><b>themselves</b> (reflexive pronoun): 'Themselves' is the reflexive pronoun used for plural subjects (they/the executives). It matches the subject 'executives' and is the correct choice.</li><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective, used to show ownership, not as a reflexive pronoun. It does not fit grammatically in this sentence.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Used when the subject and object are the same or for emphasis.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d14",
+        "questionNumber": 7,
+        "questionText": "Mr. White worked so much overtime that ____  asked management for a salary increase.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "it",
+            "raw": "A. it ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "he",
+            "raw": "B. he",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "she",
+            "raw": "C. she",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "they",
+            "raw": "D. they",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. White worked so much overtime that ____ asked management for a salary increase.' requires a pronoun that refers to Mr. White. Since 'Mr. White' is a singular male, the correct pronoun is 'he.'<br><ul><li><b>it</b> (pronoun): 'It' is a pronoun used for things, animals, or sometimes babies, but not for people whose gender is known.</li><li><b>he</b> (pronoun): 'He' is a pronoun used for a singular male person, which matches 'Mr. White.'</li><li><b>she</b> (pronoun): 'She' is a pronoun used for a singular female person, which does not match 'Mr. White.'</li><li><b>they</b> (pronoun): 'They' is a pronoun used for plural nouns or as a gender-neutral singular pronoun, but since 'Mr. White' is specifically male, 'he' is more appropriate.</li></ul><b>Related structure or vocabulary:</b> Use of personal pronouns: 'he' for a singular male, 'she' for a singular female, 'it' for things/animals, 'they' for plural or gender-neutral singular.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mr. White worked so much overtime that ____ asked management for a salary increase.' cần một đại từ thay thế cho 'Mr. White.' Vì 'Mr. White' là một người đàn ông (số ít, nam giới), đại từ phù hợp là 'he.'<br><ul><li><b>it</b> (đại từ): 'It' là đại từ dùng cho vật, động vật hoặc đôi khi là trẻ sơ sinh, không dùng cho người đã biết giới tính.</li><li><b>he</b> (đại từ): 'He' là đại từ dùng cho một người nam (số ít), phù hợp với 'Mr. White.'</li><li><b>she</b> (đại từ): 'She' là đại từ dùng cho một người nữ (số ít), không phù hợp với 'Mr. White.'</li><li><b>they</b> (đại từ): 'They' là đại từ dùng cho số nhiều hoặc đôi khi dùng cho số ít không xác định giới tính, nhưng vì 'Mr. White' là nam nên 'he' phù hợp hơn.</li></ul><b>Cấu trúc và từ vựng:</b> Cách dùng đại từ nhân xưng: 'he' cho nam số ít, 'she' cho nữ số ít, 'it' cho vật/động vật, 'they' cho số nhiều hoặc không xác định giới tính.<br><br><b>Tạm dịch:</b> Mr. White đã làm thêm giờ rất nhiều đến mức ANH ẤY đã yêu cầu ban quản lý tăng lương.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. White worked so much overtime that ____ asked management for a salary increase.' requires a pronoun that refers to Mr. White. Since 'Mr. White' is a singular male, the correct pronoun is 'he.'<br><ul><li><b>it</b> (pronoun): 'It' is a pronoun used for things, animals, or sometimes babies, but not for people whose gender is known.</li><li><b>he</b> (pronoun): 'He' is a pronoun used for a singular male person, which matches 'Mr. White.'</li><li><b>she</b> (pronoun): 'She' is a pronoun used for a singular female person, which does not match 'Mr. White.'</li><li><b>they</b> (pronoun): 'They' is a pronoun used for plural nouns or as a gender-neutral singular pronoun, but since 'Mr. White' is specifically male, 'he' is more appropriate.</li></ul><b>Related structure or vocabulary:</b> Use of personal pronouns: 'he' for a singular male, 'she' for a singular female, 'it' for things/animals, 'they' for plural or gender-neutral singular.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d15",
+        "questionNumber": 8,
+        "questionText": "Company representatives spend the whole day answering phones and emails. ____  are always busy at work.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "It",
+            "raw": "A. It ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "She",
+            "raw": "B. She",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "We",
+            "raw": "C. We",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "They",
+            "raw": "D. They",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a pronoun that refers to 'Company representatives.' Since 'Company representatives' is a plural noun, the correct pronoun should also be plural. The sentence is talking about these representatives being busy at work.<br><ul><li><b>It</b> (pronoun): 'It' is a singular pronoun used for things or animals, not for people in plural.</li><li><b>She</b> (pronoun): 'She' is a singular pronoun used for one female person.</li><li><b>We</b> (pronoun): 'We' is a plural pronoun used when the speaker includes themselves in the group.</li><li><b>They</b> (pronoun): 'They' is a plural pronoun used to refer to a group of people or things that do not include the speaker.</li></ul><b>Related structure or vocabulary:</b> Use of pronouns to refer to nouns mentioned earlier in the sentence. 'They' is used for plural nouns.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một đại từ thay thế cho 'Company representatives'. Vì 'Company representatives' là danh từ số nhiều, đại từ thay thế cũng phải là số nhiều. Câu này đang nói về những người đại diện công ty luôn bận rộn tại nơi làm việc.<br><ul><li><b>It</b> (đại từ): 'It' là đại từ số ít, dùng cho vật hoặc động vật, không dùng cho người số nhiều.</li><li><b>She</b> (đại từ): 'She' là đại từ số ít, dùng cho một người nữ.</li><li><b>We</b> (đại từ): 'We' là đại từ số nhiều, dùng khi người nói bao gồm cả bản thân mình trong nhóm.</li><li><b>They</b> (đại từ): 'They' là đại từ số nhiều, dùng để chỉ một nhóm người hoặc vật không bao gồm người nói.</li></ul><b>Cấu trúc và từ vựng:</b> Cách sử dụng đại từ thay thế cho danh từ đã nhắc đến trước đó trong câu. 'They' dùng cho danh từ số nhiều.<br><br><b>Tạm dịch:</b> Các đại diện công ty dành cả ngày để trả lời điện thoại và email. Họ luôn bận rộn tại nơi làm việc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a pronoun that refers to 'Company representatives.' Since 'Company representatives' is a plural noun, the correct pronoun should also be plural. The sentence is talking about these representatives being busy at work.<br><ul><li><b>It</b> (pronoun): 'It' is a singular pronoun used for things or animals, not for people in plural.</li><li><b>She</b> (pronoun): 'She' is a singular pronoun used for one female person.</li><li><b>We</b> (pronoun): 'We' is a plural pronoun used when the speaker includes themselves in the group.</li><li><b>They</b> (pronoun): 'They' is a plural pronoun used to refer to a group of people or things that do not include the speaker.</li></ul><b>Related structure or vocabulary:</b> Use of pronouns to refer to nouns mentioned earlier in the sentence. 'They' is used for plural nouns.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d16",
+        "questionNumber": 9,
+        "questionText": "The president ____  checked the estimated sales figures for the next quarter.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "him",
+            "raw": "A. him ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "he",
+            "raw": "B. he",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "himself",
+            "raw": "C. himself",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "his",
+            "raw": "D. his",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the noun 'the president' and before the verb 'checked.' The sentence is emphasizing that the president personally checked the figures, so we need a reflexive pronoun to show that the subject did the action by himself. The correct reflexive pronoun for 'the president' (he) is 'himself.'<br><ul><li><b>him</b> (pronoun): Object pronoun, used as the object of a verb or preposition.</li><li><b>he</b> (pronoun): Subject pronoun, used as the subject of a verb.</li><li><b>himself</b> (reflexive pronoun): Reflexive pronoun, used when the subject and the object of the verb are the same person.</li><li><b>his</b> (possessive adjective): Possessive adjective, used to show ownership.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Used when the subject and object are the same person or to emphasize the subject.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống nằm sau danh từ 'the president' và trước động từ 'checked.' Câu này nhấn mạnh rằng tổng thống tự mình kiểm tra số liệu, vì vậy cần dùng đại từ phản thân để chỉ rằng chủ ngữ tự thực hiện hành động. Đại từ phản thân phù hợp với 'the president' (he) là 'himself.'<br><ul><li><b>him</b> (đại từ): Đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ.</li><li><b>he</b> (đại từ): Đại từ chủ ngữ, dùng làm chủ ngữ của động từ.</li><li><b>himself</b> (đại từ phản thân): Đại từ phản thân, dùng khi chủ ngữ và tân ngữ là cùng một người hoặc để nhấn mạnh chủ ngữ.</li><li><b>his</b> (tính từ sở hữu): Tính từ sở hữu, dùng để chỉ sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ phản thân: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Dùng khi chủ ngữ và tân ngữ là cùng một người hoặc để nhấn mạnh chủ ngữ.<br><br><b>Tạm dịch:</b> Tổng thống tự mình kiểm tra các số liệu doanh số dự kiến cho quý tới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the noun 'the president' and before the verb 'checked.' The sentence is emphasizing that the president personally checked the figures, so we need a reflexive pronoun to show that the subject did the action by himself. The correct reflexive pronoun for 'the president' (he) is 'himself.'<br><ul><li><b>him</b> (pronoun): Object pronoun, used as the object of a verb or preposition.</li><li><b>he</b> (pronoun): Subject pronoun, used as the subject of a verb.</li><li><b>himself</b> (reflexive pronoun): Reflexive pronoun, used when the subject and the object of the verb are the same person.</li><li><b>his</b> (possessive adjective): Possessive adjective, used to show ownership.</li></ul><b>Related structure or vocabulary:</b> Reflexive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Used when the subject and object are the same person or to emphasize the subject.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d17",
+        "questionNumber": 10,
+        "questionText": "We are going to experiment with ____  analysis on the symptoms of the influenza.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "she",
+            "raw": "A. she ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "her",
+            "raw": "B. her",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "hers",
+            "raw": "C. hers",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "herself",
+            "raw": "D. herself",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We are going to experiment with ____ analysis on the symptoms of the influenza.' requires a possessive adjective to modify the noun 'analysis.' In English, possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relation. Since 'analysis' is a noun and the context suggests the analysis belongs to or is related to a female person, the correct possessive adjective is 'her.'<br><ul><li><b>she</b> (pronoun (subject)): 'She' is a subject pronoun, used as the subject of a sentence (e.g., She is a doctor). It cannot be used before a noun to show possession.</li><li><b>her</b> (possessive adjective): 'Her' is a possessive adjective, used before a noun to show ownership (e.g., her book, her analysis).</li><li><b>hers</b> (possessive pronoun): 'Hers' is a possessive pronoun, used to replace a noun phrase (e.g., This book is hers). It cannot be used directly before a noun.</li><li><b>herself</b> (reflexive pronoun): 'Herself' is a reflexive pronoun, used for emphasis or to refer back to the subject (e.g., She did it herself). It cannot be used before a noun.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relation.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We are going to experiment with ____ analysis on the symptoms of the influenza.' cần một tính từ sở hữu để bổ nghĩa cho danh từ 'analysis.' Trong tiếng Anh, tính từ sở hữu (my, your, his, her, its, our, their) được dùng trước danh từ để chỉ sự sở hữu hoặc liên quan. Vì 'analysis' là danh từ và ngữ cảnh cho thấy phân tích này thuộc về hoặc liên quan đến một người nữ, nên tính từ sở hữu đúng là 'her.'<br><ul><li><b>she</b> (đại từ chủ ngữ): 'She' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu (ví dụ: She is a doctor). Không thể dùng trước danh từ để chỉ sở hữu.</li><li><b>her</b> (tính từ sở hữu): 'Her' là tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu (ví dụ: her book, her analysis).</li><li><b>hers</b> (đại từ sở hữu): 'Hers' là đại từ sở hữu, dùng để thay thế cho một cụm danh từ (ví dụ: This book is hers). Không thể dùng trực tiếp trước danh từ.</li><li><b>herself</b> (đại từ phản thân): 'Herself' là đại từ phản thân, dùng để nhấn mạnh hoặc chỉ về chủ ngữ (ví dụ: She did it herself). Không thể dùng trước danh từ.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) dùng trước danh từ để chỉ sự sở hữu hoặc liên quan.<br><br><b>Tạm dịch:</b> Chúng ta sẽ tiến hành thử nghiệm với PHÂN TÍCH của cô ấy về các triệu chứng của bệnh cúm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We are going to experiment with ____ analysis on the symptoms of the influenza.' requires a possessive adjective to modify the noun 'analysis.' In English, possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relation. Since 'analysis' is a noun and the context suggests the analysis belongs to or is related to a female person, the correct possessive adjective is 'her.'<br><ul><li><b>she</b> (pronoun (subject)): 'She' is a subject pronoun, used as the subject of a sentence (e.g., She is a doctor). It cannot be used before a noun to show possession.</li><li><b>her</b> (possessive adjective): 'Her' is a possessive adjective, used before a noun to show ownership (e.g., her book, her analysis).</li><li><b>hers</b> (possessive pronoun): 'Hers' is a possessive pronoun, used to replace a noun phrase (e.g., This book is hers). It cannot be used directly before a noun.</li><li><b>herself</b> (reflexive pronoun): 'Herself' is a reflexive pronoun, used for emphasis or to refer back to the subject (e.g., She did it herself). It cannot be used before a noun.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relation.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d18",
+        "questionNumber": 11,
+        "questionText": "The president hopes that you will call ____  immediately to let him know about the results.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "himself",
+            "raw": "A. himself ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "he",
+            "raw": "B. he",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "him",
+            "raw": "C. him",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "his",
+            "raw": "D. his",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the verb 'call' and is the object of the verb. The sentence structure is: 'call + object + immediately'. The correct object pronoun to refer to 'the president' is 'him'.<br><ul><li><b>himself</b> (Reflexive pronoun): Reflexive pronoun, used when the subject and object are the same person (e.g., He called himself). Not correct here because 'you' and 'the president' are different people.</li><li><b>he</b> (Subject pronoun): Subject pronoun, used as the subject of a sentence (e.g., He is here). Not correct because we need an object pronoun.</li><li><b>him</b> (Object pronoun): Object pronoun, used as the object of a verb or preposition (e.g., Call him). This is the correct choice.</li><li><b>his</b> (Possessive adjective): Possessive adjective, used to show ownership (e.g., his book). Not correct because we need an object pronoun.</li></ul><b>Related structure or vocabulary:</b> Object pronouns are used as the object of a verb or preposition. Common object pronouns: me, you, him, her, it, us, them.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống đứng sau động từ 'call' và là tân ngữ của động từ. Cấu trúc câu là: 'call + tân ngữ + immediately'. Đại từ tân ngữ phù hợp để chỉ 'the president' là 'him'.<br><ul><li><b>himself</b> (Đại từ phản thân): Đại từ phản thân, dùng khi chủ ngữ và tân ngữ là cùng một người (ví dụ: He called himself). Không đúng ở đây vì 'you' và 'the president' là hai người khác nhau.</li><li><b>he</b> (Đại từ chủ ngữ): Đại từ chủ ngữ, dùng làm chủ ngữ trong câu (ví dụ: He is here). Không đúng vì cần một đại từ tân ngữ.</li><li><b>him</b> (Đại từ tân ngữ): Đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ (ví dụ: Call him). Đây là đáp án đúng.</li><li><b>his</b> (Tính từ sở hữu): Tính từ sở hữu, dùng để chỉ sự sở hữu (ví dụ: his book). Không đúng vì cần một đại từ tân ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ tân ngữ dùng làm tân ngữ cho động từ hoặc giới từ. Một số đại từ tân ngữ thường gặp: me, you, him, her, it, us, them.<br><br><b>Tạm dịch:</b> The president hopes that you will call him immediately to let him know about the results. --> Tổng thống hy vọng rằng bạn sẽ gọi cho ông ấy ngay lập tức để thông báo cho ông ấy về kết quả.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after the verb 'call' and is the object of the verb. The sentence structure is: 'call + object + immediately'. The correct object pronoun to refer to 'the president' is 'him'.<br><ul><li><b>himself</b> (Reflexive pronoun): Reflexive pronoun, used when the subject and object are the same person (e.g., He called himself). Not correct here because 'you' and 'the president' are different people.</li><li><b>he</b> (Subject pronoun): Subject pronoun, used as the subject of a sentence (e.g., He is here). Not correct because we need an object pronoun.</li><li><b>him</b> (Object pronoun): Object pronoun, used as the object of a verb or preposition (e.g., Call him). This is the correct choice.</li><li><b>his</b> (Possessive adjective): Possessive adjective, used to show ownership (e.g., his book). Not correct because we need an object pronoun.</li></ul><b>Related structure or vocabulary:</b> Object pronouns are used as the object of a verb or preposition. Common object pronouns: me, you, him, her, it, us, them.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d19",
+        "questionNumber": 12,
+        "questionText": "I’m writing again to you on the recommendation of a colleague of ____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "my",
+            "raw": "A. my ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "mine",
+            "raw": "B. mine",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "me",
+            "raw": "C. me",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "myself",
+            "raw": "D. myself",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I’m writing again to you on the recommendation of a colleague of ____.' requires a possessive pronoun to indicate that the colleague belongs to the speaker. In English, after 'of', we use the possessive pronoun 'mine' to show possession. For example, 'a friend of mine' means 'one of my friends'.<br><ul><li><b>my</b> (possessive adjective): 'My' is a possessive adjective, used before a noun (e.g., my book), not after 'of'.</li><li><b>mine</b> (possessive pronoun): 'Mine' is a possessive pronoun, used after 'of' to indicate possession (e.g., a friend of mine).</li><li><b>me</b> (object pronoun): 'Me' is an object pronoun, not used to show possession.</li><li><b>myself</b> (reflexive pronoun): 'Myself' is a reflexive pronoun, used for emphasis or to refer back to the subject.</li></ul><b>Related structure or vocabulary:</b> Structure: 'a/an + noun + of + possessive pronoun' (e.g., a friend of mine, a colleague of his). This structure is used to indicate that the noun belongs to the person referred to by the pronoun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I’m writing again to you on the recommendation of a colleague of ____.' cần một đại từ sở hữu để chỉ rằng đồng nghiệp đó thuộc về người nói. Trong tiếng Anh, sau 'of', ta dùng đại từ sở hữu 'mine' để thể hiện sự sở hữu. Ví dụ, 'a friend of mine' nghĩa là 'một người bạn của tôi'.<br><ul><li><b>my</b> (tính từ sở hữu): 'My' là tính từ sở hữu, dùng trước danh từ (ví dụ: my book), không dùng sau 'of'.</li><li><b>mine</b> (đại từ sở hữu): 'Mine' là đại từ sở hữu, dùng sau 'of' để chỉ sự sở hữu (ví dụ: a friend of mine).</li><li><b>me</b> (đại từ tân ngữ): 'Me' là đại từ tân ngữ, không dùng để chỉ sự sở hữu.</li><li><b>myself</b> (đại từ phản thân): 'Myself' là đại từ phản thân, dùng để nhấn mạnh hoặc chỉ bản thân chủ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: 'a/an + danh từ + of + đại từ sở hữu' (ví dụ: a friend of mine, a colleague of his). Cấu trúc này dùng để chỉ rằng danh từ đó thuộc về người được nhắc đến bởi đại từ.<br><br><b>Tạm dịch:</b> Tôi viết lại cho bạn theo sự giới thiệu của một đồng nghiệp của tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I’m writing again to you on the recommendation of a colleague of ____.' requires a possessive pronoun to indicate that the colleague belongs to the speaker. In English, after 'of', we use the possessive pronoun 'mine' to show possession. For example, 'a friend of mine' means 'one of my friends'.<br><ul><li><b>my</b> (possessive adjective): 'My' is a possessive adjective, used before a noun (e.g., my book), not after 'of'.</li><li><b>mine</b> (possessive pronoun): 'Mine' is a possessive pronoun, used after 'of' to indicate possession (e.g., a friend of mine).</li><li><b>me</b> (object pronoun): 'Me' is an object pronoun, not used to show possession.</li><li><b>myself</b> (reflexive pronoun): 'Myself' is a reflexive pronoun, used for emphasis or to refer back to the subject.</li></ul><b>Related structure or vocabulary:</b> Structure: 'a/an + noun + of + possessive pronoun' (e.g., a friend of mine, a colleague of his). This structure is used to indicate that the noun belongs to the person referred to by the pronoun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d1a",
+        "questionNumber": 13,
+        "questionText": "The government praised ____  success in reorganizing and downsizing within a limited time.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "them",
+            "raw": "A. them ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "whose",
+            "raw": "B. whose",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "their",
+            "raw": "C. their",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "those",
+            "raw": "D. those ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The government praised ____ success in reorganizing and downsizing within a limited time.' requires a possessive adjective to show ownership of 'success.' The possessive adjective for a plural noun (such as 'they' or 'the people being praised') is 'their.'<br><ul><li><b>them</b> (pronoun (object)): 'Them' is an object pronoun, used as the object of a verb or preposition, not to show possession.</li><li><b>whose</b> (possessive pronoun/relative pronoun): 'Whose' is a possessive pronoun used to ask or tell whom something belongs to, but it is used before a noun to introduce a relative clause, not suitable here.</li><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective, used before a noun to show ownership by more than one person.</li><li><b>those</b> (demonstrative pronoun): 'Those' is a demonstrative pronoun, used to refer to plural nouns that are far away in distance or time.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relationship.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The government praised ____ success in reorganizing and downsizing within a limited time.' cần một tính từ sở hữu để chỉ sự sở hữu của 'success'. Tính từ sở hữu cho danh từ số nhiều (như 'they' hoặc nhóm người được khen ngợi) là 'their'.<br><ul><li><b>them</b> (đại từ tân ngữ): 'Them' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ, không dùng để chỉ sự sở hữu.</li><li><b>whose</b> (đại từ sở hữu/đại từ quan hệ): 'Whose' là đại từ sở hữu dùng để hỏi hoặc chỉ ai đó sở hữu cái gì, thường dùng trước danh từ để giới thiệu mệnh đề quan hệ, không phù hợp ở đây.</li><li><b>their</b> (tính từ sở hữu): 'Their' là tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu của nhiều người.</li><li><b>those</b> (đại từ chỉ định): 'Those' là đại từ chỉ định, dùng để chỉ các danh từ số nhiều ở xa về khoảng cách hoặc thời gian.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) dùng trước danh từ để chỉ sự sở hữu hoặc mối quan hệ.<br><br><b>Tạm dịch:</b> Chính phủ đã khen ngợi thành công của họ trong việc tổ chức lại và cắt giảm nhân sự trong một khoảng thời gian giới hạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The government praised ____ success in reorganizing and downsizing within a limited time.' requires a possessive adjective to show ownership of 'success.' The possessive adjective for a plural noun (such as 'they' or 'the people being praised') is 'their.'<br><ul><li><b>them</b> (pronoun (object)): 'Them' is an object pronoun, used as the object of a verb or preposition, not to show possession.</li><li><b>whose</b> (possessive pronoun/relative pronoun): 'Whose' is a possessive pronoun used to ask or tell whom something belongs to, but it is used before a noun to introduce a relative clause, not suitable here.</li><li><b>their</b> (possessive adjective): 'Their' is a possessive adjective, used before a noun to show ownership by more than one person.</li><li><b>those</b> (demonstrative pronoun): 'Those' is a demonstrative pronoun, used to refer to plural nouns that are far away in distance or time.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relationship.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d1b",
+        "questionNumber": 14,
+        "questionText": "Mr. Admin and Ms. Tota devised innovative strategies and ____  proved to be useful.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "we",
+            "raw": "A. we ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "themselves",
+            "raw": "B. themselves ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "they",
+            "raw": "C. they",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "us",
+            "raw": "D. us",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. Admin and Ms. Tota devised innovative strategies and ____ proved to be useful.' requires a subject pronoun that refers back to 'innovative strategies.' The correct pronoun to use here is 'they,' because 'strategies' is a plural noun and 'they' is the plural subject pronoun. The sentence means that the strategies proved to be useful.<br><ul><li><b>we</b> (pronoun): 'We' is a subject pronoun used to refer to the speaker and at least one other person. It does not refer to 'strategies,' so it is incorrect.</li><li><b>themselves</b> (reflexive pronoun): 'Themselves' is a reflexive pronoun, used for emphasis or to refer back to the subject. It cannot be used as the subject of a sentence.</li><li><b>they</b> (pronoun): 'They' is a subject pronoun used for plural nouns, such as 'strategies.' It is the correct choice here.</li><li><b>us</b> (pronoun): 'Us' is an object pronoun, used as the object of a verb or preposition, not as the subject.</li></ul><b>Related structure or vocabulary:</b> Use of subject pronouns to refer to previously mentioned plural nouns.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mr. Admin and Ms. Tota devised innovative strategies and ____ proved to be useful.' cần một đại từ chủ ngữ để thay thế cho 'innovative strategies.' Đại từ đúng ở đây là 'they' vì 'strategies' là danh từ số nhiều và 'they' là đại từ chủ ngữ số nhiều. Câu này có nghĩa là các chiến lược đã chứng tỏ là hữu ích.<br><ul><li><b>we</b> (đại từ): 'We' là đại từ chủ ngữ dùng để chỉ người nói và ít nhất một người khác. Nó không thay thế cho 'strategies' nên không đúng.</li><li><b>themselves</b> (đại từ phản thân): 'Themselves' là đại từ phản thân, dùng để nhấn mạnh hoặc thay thế cho chủ ngữ, nhưng không thể làm chủ ngữ của câu.</li><li><b>they</b> (đại từ): 'They' là đại từ chủ ngữ dùng cho danh từ số nhiều như 'strategies.' Đây là lựa chọn đúng.</li><li><b>us</b> (đại từ): 'Us' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ, không dùng làm chủ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Cách sử dụng đại từ chủ ngữ để thay thế cho danh từ số nhiều đã được nhắc đến trước đó.<br><br><b>Tạm dịch:</b> Mr. Admin và Ms. Tota đã nghĩ ra các chiến lược sáng tạo và chúng đã chứng tỏ là hữu ích.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. Admin and Ms. Tota devised innovative strategies and ____ proved to be useful.' requires a subject pronoun that refers back to 'innovative strategies.' The correct pronoun to use here is 'they,' because 'strategies' is a plural noun and 'they' is the plural subject pronoun. The sentence means that the strategies proved to be useful.<br><ul><li><b>we</b> (pronoun): 'We' is a subject pronoun used to refer to the speaker and at least one other person. It does not refer to 'strategies,' so it is incorrect.</li><li><b>themselves</b> (reflexive pronoun): 'Themselves' is a reflexive pronoun, used for emphasis or to refer back to the subject. It cannot be used as the subject of a sentence.</li><li><b>they</b> (pronoun): 'They' is a subject pronoun used for plural nouns, such as 'strategies.' It is the correct choice here.</li><li><b>us</b> (pronoun): 'Us' is an object pronoun, used as the object of a verb or preposition, not as the subject.</li></ul><b>Related structure or vocabulary:</b> Use of subject pronouns to refer to previously mentioned plural nouns.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d1c",
+        "questionNumber": 15,
+        "questionText": "You should fill out the forms and return them at ____  earliest convenience.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "you",
+            "raw": "A. you ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "your",
+            "raw": "B. your",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "yours",
+            "raw": "C. yours",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "yourself",
+            "raw": "D. yourself",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'You should fill out the forms and return them at ____ earliest convenience.' requires a possessive adjective to modify the noun phrase 'earliest convenience.' In English, the correct phrase is 'at your earliest convenience,' which is a polite way to ask someone to do something as soon as possible. The possessive adjective 'your' shows that the convenience belongs to the person being addressed.<br><ul><li><b>you</b> (pronoun): 'You' is a subject or object pronoun and cannot be used to modify a noun directly.</li><li><b>your</b> (possessive adjective): 'Your' is a possessive adjective, used to show ownership or relation to the person being addressed. It correctly modifies 'earliest convenience.'</li><li><b>yours</b> (possessive pronoun): 'Yours' is a possessive pronoun, used to replace a noun, not to modify one.</li><li><b>yourself</b> (reflexive pronoun): 'Yourself' is a reflexive pronoun, used for emphasis or to refer back to the subject.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relation. The phrase 'at your earliest convenience' is a common formal expression in business English.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'You should fill out the forms and return them at ____ earliest convenience.' cần một tính từ sở hữu để bổ nghĩa cho cụm danh từ 'earliest convenience'. Trong tiếng Anh, cụm từ đúng là 'at your earliest convenience', đây là cách lịch sự để yêu cầu ai đó làm việc gì đó càng sớm càng tốt. Tính từ sở hữu 'your' thể hiện sự sở hữu, tức là sự thuận tiện thuộc về người được nói đến.<br><ul><li><b>you</b> (đại từ nhân xưng): 'You' là đại từ nhân xưng (chủ ngữ hoặc tân ngữ), không thể dùng để bổ nghĩa trực tiếp cho danh từ.</li><li><b>your</b> (tính từ sở hữu): 'Your' là tính từ sở hữu, dùng để chỉ sự sở hữu hoặc liên quan đến người được nói đến. Nó bổ nghĩa đúng cho 'earliest convenience'.</li><li><b>yours</b> (đại từ sở hữu): 'Yours' là đại từ sở hữu, dùng để thay thế cho một danh từ, không dùng để bổ nghĩa cho danh từ.</li><li><b>yourself</b> (đại từ phản thân): 'Yourself' là đại từ phản thân, dùng để nhấn mạnh hoặc chỉ người thực hiện hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) dùng trước danh từ để chỉ sự sở hữu hoặc liên quan. Cụm từ 'at your earliest convenience' là một cách diễn đạt trang trọng, thường dùng trong tiếng Anh thương mại.<br><br><b>Tạm dịch:</b> Bạn nên điền vào các mẫu đơn và gửi lại chúng vào thời điểm thuận tiện nhất cho bạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'You should fill out the forms and return them at ____ earliest convenience.' requires a possessive adjective to modify the noun phrase 'earliest convenience.' In English, the correct phrase is 'at your earliest convenience,' which is a polite way to ask someone to do something as soon as possible. The possessive adjective 'your' shows that the convenience belongs to the person being addressed.<br><ul><li><b>you</b> (pronoun): 'You' is a subject or object pronoun and cannot be used to modify a noun directly.</li><li><b>your</b> (possessive adjective): 'Your' is a possessive adjective, used to show ownership or relation to the person being addressed. It correctly modifies 'earliest convenience.'</li><li><b>yours</b> (possessive pronoun): 'Yours' is a possessive pronoun, used to replace a noun, not to modify one.</li><li><b>yourself</b> (reflexive pronoun): 'Yourself' is a reflexive pronoun, used for emphasis or to refer back to the subject.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relation. The phrase 'at your earliest convenience' is a common formal expression in business English.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d1d",
+        "questionNumber": 16,
+        "questionText": "__________ took a month to find another suitable candidate to replace Ms. Phil.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Them",
+            "raw": "A. Them ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Our",
+            "raw": "B. Our ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "It",
+            "raw": "C. It",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "His",
+            "raw": "D. His",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a subject that refers to the situation or the action of finding another suitable candidate. In English, when we want to refer to a situation or an action in a general way, we often use the pronoun 'It' as a dummy subject. The sentence structure 'It takes (time) to do something' is commonly used to express how much time is needed for an action.<br><ul><li><b>A. Them</b> (pronoun): 'Them' is an object pronoun used to refer to people or things previously mentioned. It cannot be used as a subject to refer to a situation or action.</li><li><b>B. Our</b> (possessive adjective): 'Our' is a possessive adjective, used before a noun to show possession. It does not fit grammatically as the subject of this sentence.</li><li><b>C. It</b> (pronoun): 'It' is a pronoun often used as a dummy subject in sentences like 'It takes (time) to do something.' This is the correct choice.</li><li><b>D. His</b> (possessive adjective/pronoun): 'His' is a possessive adjective or pronoun, used to show possession for a male person. It does not fit as the subject in this context.</li></ul><b>Related structure or vocabulary:</b> Structure: It takes (time) to do something – used to express the amount of time needed for an action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một chủ ngữ để chỉ tình huống hoặc hành động tìm kiếm ứng viên phù hợp khác. Trong tiếng Anh, khi muốn nói về một tình huống hoặc hành động một cách chung chung, ta thường dùng đại từ 'It' làm chủ ngữ giả. Cấu trúc 'It takes (time) to do something' thường được dùng để diễn đạt mất bao nhiêu thời gian để làm việc gì đó.<br><ul><li><b>A. Them</b> (đại từ): 'Them' là đại từ tân ngữ, dùng để chỉ người hoặc vật đã được nhắc đến trước đó. Không thể dùng làm chủ ngữ để chỉ một tình huống hoặc hành động.</li><li><b>B. Our</b> (tính từ sở hữu): 'Our' là tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu. Không phù hợp về mặt ngữ pháp để làm chủ ngữ trong câu này.</li><li><b>C. It</b> (đại từ): 'It' là đại từ thường được dùng làm chủ ngữ giả trong các câu như 'It takes (time) to do something.' Đây là đáp án đúng.</li><li><b>D. His</b> (tính từ/đại từ sở hữu): 'His' là tính từ hoặc đại từ sở hữu, dùng để chỉ sự sở hữu của một người nam. Không phù hợp làm chủ ngữ trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: It takes (time) to do something – dùng để diễn đạt mất bao nhiêu thời gian để làm việc gì đó.<br><br><b>Tạm dịch:</b> Câu đầy đủ: It took a month to find another suitable candidate to replace Ms. Phil. --> Mất một tháng để tìm một ứng viên phù hợp khác thay thế cô Phil.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a subject that refers to the situation or the action of finding another suitable candidate. In English, when we want to refer to a situation or an action in a general way, we often use the pronoun 'It' as a dummy subject. The sentence structure 'It takes (time) to do something' is commonly used to express how much time is needed for an action.<br><ul><li><b>A. Them</b> (pronoun): 'Them' is an object pronoun used to refer to people or things previously mentioned. It cannot be used as a subject to refer to a situation or action.</li><li><b>B. Our</b> (possessive adjective): 'Our' is a possessive adjective, used before a noun to show possession. It does not fit grammatically as the subject of this sentence.</li><li><b>C. It</b> (pronoun): 'It' is a pronoun often used as a dummy subject in sentences like 'It takes (time) to do something.' This is the correct choice.</li><li><b>D. His</b> (possessive adjective/pronoun): 'His' is a possessive adjective or pronoun, used to show possession for a male person. It does not fit as the subject in this context.</li></ul><b>Related structure or vocabulary:</b> Structure: It takes (time) to do something – used to express the amount of time needed for an action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d1e",
+        "questionNumber": 17,
+        "questionText": "The plan which was appreciated by the director was not William’s but it was __________",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "me",
+            "raw": "A. me ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "my",
+            "raw": "B. my ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "mine",
+            "raw": "C. mine",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "I",
+            "raw": "D. I",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank is used to refer to the plan that belongs to someone, contrasting with William's plan. After 'it was', we need a possessive pronoun to indicate ownership and avoid repeating the noun 'plan'. The correct possessive pronoun for this context is 'mine', which means 'my plan'.<br><ul><li><b>me</b> (object pronoun): 'Me' is an object pronoun, used as the object of a verb or preposition, not to show possession.</li><li><b>my</b> (possessive adjective): 'My' is a possessive adjective, used before a noun (e.g., my plan), not alone after 'was'.</li><li><b>mine</b> (possessive pronoun): 'Mine' is a possessive pronoun, used to replace a noun phrase and show ownership (e.g., my plan = mine).</li><li><b>I</b> (subject pronoun): 'I' is a subject pronoun, used as the subject of a sentence, not after 'was' to show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive pronouns (mine, yours, his, hers, ours, theirs) are used to replace a noun phrase and indicate ownership. Structure: [noun] + 'was' + possessive pronoun (e.g., The book was not John's but mine).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống dùng để chỉ kế hoạch thuộc về ai đó, đối lập với kế hoạch của William. Sau 'it was', chúng ta cần một đại từ sở hữu để thể hiện sự sở hữu và tránh lặp lại danh từ 'plan'. Đại từ sở hữu phù hợp trong trường hợp này là 'mine', có nghĩa là 'kế hoạch của tôi'.<br><ul><li><b>me</b> (đại từ tân ngữ): 'Me' là đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ, không dùng để chỉ sự sở hữu.</li><li><b>my</b> (tính từ sở hữu): 'My' là tính từ sở hữu, dùng trước danh từ (ví dụ: my plan), không đứng một mình sau 'was'.</li><li><b>mine</b> (đại từ sở hữu): 'Mine' là đại từ sở hữu, dùng để thay thế cụm danh từ và chỉ sự sở hữu (ví dụ: my plan = mine).</li><li><b>I</b> (đại từ chủ ngữ): 'I' là đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không dùng sau 'was' để chỉ sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ sở hữu (mine, yours, his, hers, ours, theirs) dùng để thay thế cụm danh từ và chỉ sự sở hữu. Cấu trúc: [danh từ] + 'was' + đại từ sở hữu (ví dụ: The book was not John's but mine).<br><br><b>Tạm dịch:</b> Kế hoạch được giám đốc đánh giá cao không phải là của William mà là của tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank is used to refer to the plan that belongs to someone, contrasting with William's plan. After 'it was', we need a possessive pronoun to indicate ownership and avoid repeating the noun 'plan'. The correct possessive pronoun for this context is 'mine', which means 'my plan'.<br><ul><li><b>me</b> (object pronoun): 'Me' is an object pronoun, used as the object of a verb or preposition, not to show possession.</li><li><b>my</b> (possessive adjective): 'My' is a possessive adjective, used before a noun (e.g., my plan), not alone after 'was'.</li><li><b>mine</b> (possessive pronoun): 'Mine' is a possessive pronoun, used to replace a noun phrase and show ownership (e.g., my plan = mine).</li><li><b>I</b> (subject pronoun): 'I' is a subject pronoun, used as the subject of a sentence, not after 'was' to show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive pronouns (mine, yours, his, hers, ours, theirs) are used to replace a noun phrase and indicate ownership. Structure: [noun] + 'was' + possessive pronoun (e.g., The book was not John's but mine).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d1f",
+        "questionNumber": 18,
+        "questionText": "The residents demonstrated that they reserve the right to hold the local festival on__________ own.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "their",
+            "raw": "A. their",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "theirs",
+            "raw": "B. theirs ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "they",
+            "raw": "C. they ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "them",
+            "raw": "D. them",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The residents demonstrated that they reserve the right to hold the local festival on__________ own.' requires a possessive adjective to modify the noun 'own.' In English, possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership. Here, 'their' is the correct possessive adjective for 'the residents.'<br><ul><li><b>their</b> (possessive adjective): Possessive adjective, used before a noun to show ownership (e.g., their own).</li><li><b>theirs</b> (possessive pronoun): Possessive pronoun, used alone to replace a noun (e.g., This book is theirs). Not used before 'own.'</li><li><b>they</b> (subject pronoun): Subject pronoun, used as the subject of a sentence (e.g., They are happy). Not used to show possession.</li><li><b>them</b> (object pronoun): Object pronoun, used as the object of a verb or preposition (e.g., I saw them). Not used to show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives + own: used to emphasize possession (e.g., my own, your own, their own).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The residents demonstrated that they reserve the right to hold the local festival on__________ own.' cần một tính từ sở hữu để bổ nghĩa cho danh từ 'own.' Trong tiếng Anh, tính từ sở hữu (my, your, his, her, its, our, their) được dùng trước danh từ để chỉ quyền sở hữu. Ở đây, 'their' là tính từ sở hữu phù hợp với chủ ngữ 'the residents.'<br><ul><li><b>their</b> (tính từ sở hữu): Tính từ sở hữu, dùng trước danh từ để chỉ quyền sở hữu (ví dụ: their own).</li><li><b>theirs</b> (đại từ sở hữu): Đại từ sở hữu, dùng thay thế cho danh từ (ví dụ: This book is theirs). Không dùng trước 'own.'</li><li><b>they</b> (đại từ chủ ngữ): Đại từ chủ ngữ, dùng làm chủ ngữ trong câu (ví dụ: They are happy). Không dùng để chỉ quyền sở hữu.</li><li><b>them</b> (đại từ tân ngữ): Đại từ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ (ví dụ: I saw them). Không dùng để chỉ quyền sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu + own: dùng để nhấn mạnh quyền sở hữu (ví dụ: my own, your own, their own).<br><br><b>Tạm dịch:</b> Người dân đã chứng minh rằng họ giữ quyền tổ chức lễ hội địa phương theo cách của riêng họ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The residents demonstrated that they reserve the right to hold the local festival on__________ own.' requires a possessive adjective to modify the noun 'own.' In English, possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership. Here, 'their' is the correct possessive adjective for 'the residents.'<br><ul><li><b>their</b> (possessive adjective): Possessive adjective, used before a noun to show ownership (e.g., their own).</li><li><b>theirs</b> (possessive pronoun): Possessive pronoun, used alone to replace a noun (e.g., This book is theirs). Not used before 'own.'</li><li><b>they</b> (subject pronoun): Subject pronoun, used as the subject of a sentence (e.g., They are happy). Not used to show possession.</li><li><b>them</b> (object pronoun): Object pronoun, used as the object of a verb or preposition (e.g., I saw them). Not used to show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives + own: used to emphasize possession (e.g., my own, your own, their own).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d20",
+        "questionNumber": 19,
+        "questionText": "After 2 years working here, I find __________ gain vast experience.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I",
+            "raw": "A. I ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "myself",
+            "raw": "B. myself",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "my",
+            "raw": "C. my ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "mine",
+            "raw": "D. mine",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'After 2 years working here, I find __________ gain vast experience.' requires a reflexive pronoun to indicate that the subject (I) is referring back to themselves. The verb 'find' is often followed by an object and then a bare infinitive or adjective. In this case, 'myself' is the correct reflexive pronoun to use after 'I find' to show that the subject is experiencing the action personally.<br><ul><li><b>I</b> (pronoun): Subject pronoun, used as the subject of a sentence, not appropriate after 'find' in this structure.</li><li><b>myself</b> (reflexive pronoun): Reflexive pronoun, used when the subject and object are the same person. Correct in this context.</li><li><b>my</b> (possessive adjective): Possessive adjective, used before a noun to show ownership, not suitable here.</li><li><b>mine</b> (possessive pronoun): Possessive pronoun, used to indicate possession, not used before a verb.</li></ul><b>Related structure or vocabulary:</b> find + object + bare infinitive/adjective; reflexive pronouns (myself, yourself, himself, etc.)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'After 2 years working here, I find __________ gain vast experience.' cần một đại từ phản thân để chỉ rằng chủ ngữ (I) đang nói về chính mình. Động từ 'find' thường được theo sau bởi một tân ngữ và sau đó là động từ nguyên thể không 'to' hoặc tính từ. Trong trường hợp này, 'myself' là đại từ phản thân phù hợp sau 'I find' để thể hiện rằng chủ ngữ tự mình trải nghiệm hành động đó.<br><ul><li><b>I</b> (đại từ chủ ngữ): Đại từ chủ ngữ, dùng làm chủ ngữ trong câu, không phù hợp sau 'find' trong cấu trúc này.</li><li><b>myself</b> (đại từ phản thân): Đại từ phản thân, dùng khi chủ ngữ và tân ngữ là cùng một người. Đáp án đúng trong trường hợp này.</li><li><b>my</b> (tính từ sở hữu): Tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu, không phù hợp ở đây.</li><li><b>mine</b> (đại từ sở hữu): Đại từ sở hữu, dùng để chỉ sự sở hữu, không dùng trước động từ.</li></ul><b>Cấu trúc và từ vựng:</b> find + object + động từ nguyên thể không 'to'/tính từ; đại từ phản thân (myself, yourself, himself,...)<br><br><b>Tạm dịch:</b> Sau 2 năm làm việc ở đây, tôi nhận thấy mình đã tích lũy được nhiều kinh nghiệm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'After 2 years working here, I find __________ gain vast experience.' requires a reflexive pronoun to indicate that the subject (I) is referring back to themselves. The verb 'find' is often followed by an object and then a bare infinitive or adjective. In this case, 'myself' is the correct reflexive pronoun to use after 'I find' to show that the subject is experiencing the action personally.<br><ul><li><b>I</b> (pronoun): Subject pronoun, used as the subject of a sentence, not appropriate after 'find' in this structure.</li><li><b>myself</b> (reflexive pronoun): Reflexive pronoun, used when the subject and object are the same person. Correct in this context.</li><li><b>my</b> (possessive adjective): Possessive adjective, used before a noun to show ownership, not suitable here.</li><li><b>mine</b> (possessive pronoun): Possessive pronoun, used to indicate possession, not used before a verb.</li></ul><b>Related structure or vocabulary:</b> find + object + bare infinitive/adjective; reflexive pronouns (myself, yourself, himself, etc.)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204a2c6d1bfab7a5b000d21",
+        "questionNumber": 20,
+        "questionText": "The company is holding a training camp for all the staff, so please fill in and submit __________ application if you want to attend.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "you",
+            "raw": "A. you ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "yourself",
+            "raw": "B. yourself ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "yours",
+            "raw": "C. yours ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "your",
+            "raw": "D. your",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a possessive adjective to modify the noun 'application.' Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relation. In this context, 'your application' means the application that belongs to you.<br><ul><li><b>you</b> (pronoun): Personal pronoun, used as a subject or object, not to modify a noun.</li><li><b>yourself</b> (reflexive pronoun): Reflexive pronoun, used for emphasis or to refer back to the subject.</li><li><b>yours</b> (possessive pronoun): Possessive pronoun, used to replace a noun, not to modify one.</li><li><b>your</b> (possessive adjective): Possessive adjective, used before a noun to show ownership.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show possession or relation.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một tính từ sở hữu để bổ nghĩa cho danh từ 'application'. Tính từ sở hữu (my, your, his, her, its, our, their) được dùng trước danh từ để chỉ sự sở hữu hoặc mối quan hệ. Trong trường hợp này, 'your application' nghĩa là đơn đăng ký của bạn.<br><ul><li><b>you</b> (đại từ): Đại từ nhân xưng, dùng làm chủ ngữ hoặc tân ngữ, không dùng để bổ nghĩa cho danh từ.</li><li><b>yourself</b> (đại từ phản thân): Đại từ phản thân, dùng để nhấn mạnh hoặc ám chỉ lại chủ ngữ.</li><li><b>yours</b> (đại từ sở hữu): Đại từ sở hữu, dùng để thay thế cho một danh từ, không bổ nghĩa cho danh từ.</li><li><b>your</b> (tính từ sở hữu): Tính từ sở hữu, dùng trước danh từ để chỉ sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ sở hữu (my, your, his, her, its, our, their) dùng trước danh từ để chỉ sự sở hữu hoặc mối quan hệ.<br><br><b>Tạm dịch:</b> Công ty đang tổ chức một trại huấn luyện cho toàn thể nhân viên, vì vậy vui lòng điền và nộp ĐƠN ĐĂNG KÝ CỦA BẠN nếu bạn muốn tham gia.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a possessive adjective to modify the noun 'application.' Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show ownership or relation. In this context, 'your application' means the application that belongs to you.<br><ul><li><b>you</b> (pronoun): Personal pronoun, used as a subject or object, not to modify a noun.</li><li><b>yourself</b> (reflexive pronoun): Reflexive pronoun, used for emphasis or to refer back to the subject.</li><li><b>yours</b> (possessive pronoun): Possessive pronoun, used to replace a noun, not to modify one.</li><li><b>your</b> (possessive adjective): Possessive adjective, used before a noun to show ownership.</li></ul><b>Related structure or vocabulary:</b> Possessive adjectives (my, your, his, her, its, our, their) are used before nouns to show possession or relation.<br><br>"
+      }
+    }
+  ]
+}

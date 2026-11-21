@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b155",
+  "title": "Từ vựng: Theater",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b30c",
+        "questionNumber": 1,
+        "questionText": "action",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev493.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/action.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the series of events that form the plot of a story or play",
+            "raw": "the series of events that form the plot of a story or play",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The director decided that the second act needed more <strong>action </strong>and asked the playwright to review the work.</p>\n",
+        "explanationViHtml": "<p>Đạo diễn quyết định rằng m&agrave;n thứ hai cần nhiều <strong>h&agrave;nh động</strong> hơn v&agrave; y&ecirc;u cầu nh&agrave; viết kịch xem lại t&aacute;c phẩm.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The director decided that the second act needed more <strong>action </strong>and asked the playwright to review the work.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b30d",
+        "questionNumber": 2,
+        "questionText": "approach",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev494.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/approach.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to go near; to come close to in appearance or quality; a way or means of reaching something",
+            "raw": "to go near; to come close to in appearance or quality; a way or means of reaching something",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The performance <strong>approaches </strong>perfection.</p>\n",
+        "explanationViHtml": "<p>Hiệu suất <strong>đạt đến</strong> mức ho&agrave;n hảo.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The performance <strong>approaches </strong>perfection.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b30e",
+        "questionNumber": 3,
+        "questionText": "audience",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev495.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/audience.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the spectators at a performance",
+            "raw": "the spectators at a performance",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>audience </strong>cheered the actors as they walked off the stage.</p>\n",
+        "explanationViHtml": "<p><strong>Kh&aacute;n giả</strong> cổ vũ c&aacute;c diễn vi&ecirc;n khi họ bước ra khỏi s&acirc;n khấu.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The <strong>audience </strong>cheered the actors as they walked off the stage.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b30f",
+        "questionNumber": 4,
+        "questionText": "creative",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev496.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/creative.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to produce through artistic or imaginative effort",
+            "raw": "to produce through artistic or imaginative effort",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The art class encourages students to express their <strong>creative </strong>ideas</p>\n",
+        "explanationViHtml": "<p>Lớp mỹ thuật khuyến kh&iacute;ch học sinh thể hiện &yacute; tưởng <strong>s&aacute;ng tạo</strong><br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The art class encourages students to express their <strong>creative </strong>ideas</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b310",
+        "questionNumber": 5,
+        "questionText": "dialogue",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev497.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/dialogue.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "conversation between two or more persons",
+            "raw": "a conversation between two or more persons",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The actors performed the <strong>dialogue </strong>without using scripts.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c diễn vi&ecirc;n thực hiện <strong>lời thoại</strong> m&agrave; kh&ocirc;ng sử dụng kịch bản.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The actors performed the <strong>dialogue </strong>without using scripts.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b311",
+        "questionNumber": 6,
+        "questionText": "element",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev498.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/element.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "fundamental or essential constituent",
+            "raw": "fundamental or essential constituent",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The audience is an essential <strong>element </strong>of live theater.</p>\n",
+        "explanationViHtml": "<p>Kh&aacute;n giả l&agrave; một <strong>yếu tố</strong> thiết yếu của rạp h&aacute;t trực tiếp.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The audience is an essential <strong>element </strong>of live theater.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b312",
+        "questionNumber": 7,
+        "questionText": "experience",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev499.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/experience.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n event or a series of events participated in or lived through",
+            "raw": "an event or a series of events participated in or lived through",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>experience </strong>of live theater is very thrilling.</p>\n",
+        "explanationViHtml": "<p><strong>Trải nghiệm </strong>xem kịch trực tiếp rất th&uacute; vị.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The <strong>experience </strong>of live theater is very thrilling.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b313",
+        "questionNumber": 8,
+        "questionText": "occur",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev500.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/occur.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to take place; to come about",
+            "raw": "to take place; to come about",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The murder in the play <strong>occurs </strong>in the second act.</p>\n",
+        "explanationViHtml": "<p>Vụ giết người trong vở kịch <strong>xảy ra</strong> ở m&agrave;n thứ hai.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The murder in the play <strong>occurs </strong>in the second act.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b314",
+        "questionNumber": 9,
+        "questionText": "perform",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev501.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/perform.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to act before an audience, to give a public presentation of",
+            "raw": "to act before an audience, to give a public presentation of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The theater group <strong>performed </strong>a three-act play.</p>\n",
+        "explanationViHtml": "<p>Nh&oacute;m kịch <strong>biểu diễn</strong> một vở kịch gồm ba m&agrave;n.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The theater group <strong>performed </strong>a three-act play.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b315",
+        "questionNumber": 10,
+        "questionText": "rehearse",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev502.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/rehearse.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to practice in preparation for a public performance; to direct in rehearsal",
+            "raw": "to practice in preparation for a public performance; to direct in rehearsal",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The players <strong>rehearsed </strong>for only three weeks before the show opened.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c cầu thủ chỉ <strong>tập luyện</strong> trong ba tuần trước khi buổi biểu diễn khai mạc.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The players <strong>rehearsed </strong>for only three weeks before the show opened.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b316",
+        "questionNumber": 11,
+        "questionText": "review",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev503.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/review.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "critical estimate of a work or performance; writing a criticism of a performance",
+            "raw": "a critical estimate of a work or performance; writing a criticism of a performance",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The critic&#39;s influential <strong>review </strong>of the play was so negative that it sank the entire production.</p>\n",
+        "explanationViHtml": "<p><strong>B&agrave;i đ&aacute;nh gi&aacute;</strong> c&oacute; ảnh hưởng của nh&agrave; ph&ecirc; b&igrave;nh về vở kịch ti&ecirc;u cực đến mức đ&atilde; khiến cả sản phẩm đ&oacute; ch&igrave;m nghỉm</p>\n",
+        "transcriptHtml": "<p>The critic&#39;s influential <strong>review </strong>of the play was so negative that it sank the entire production.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b317",
+        "questionNumber": 12,
+        "questionText": "sell out",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev504.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/sell out.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to sell all the tickets",
+            "raw": "to sell all the tickets",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We&nbsp;<strong>sold&nbsp;out</strong>&nbsp;of&nbsp;the T-shirts in the first&nbsp;couple&nbsp;of&nbsp;hours.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; <strong>b&aacute;n hết</strong> &aacute;o ph&ocirc;ng trong v&agrave;i giờ đầu ti&ecirc;n.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>We&nbsp;<strong>sold&nbsp;out</strong>&nbsp;of&nbsp;the T-shirts in the first&nbsp;couple&nbsp;of&nbsp;hours.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b30c",
+      "word": "action",
+      "phonetic": "/ˈækʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev493.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/action.mp3",
+      "meaningVi": "hành động",
+      "meaningEn": "the series of events that form the plot of a story or play",
+      "exampleEnHtml": "<p>The director decided that the second act needed more <strong>action </strong>and asked the playwright to review the work.</p>\n",
+      "exampleViHtml": "<p>Đạo diễn quyết định rằng m&agrave;n thứ hai cần nhiều <strong>h&agrave;nh động</strong> hơn v&agrave; y&ecirc;u cầu nh&agrave; viết kịch xem lại t&aacute;c phẩm.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The director decided that the second act needed more action and asked the playwright to review the work.",
+      "exampleVi": "Đạo diễn quyết định rằng màn thứ hai cần nhiều hành động hơn và yêu cầu nhà viết kịch xem lại tác phẩm.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b30d",
+      "word": "approach",
+      "phonetic": "/əˈproʊtʃ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev494.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/approach.mp3",
+      "meaningVi": "đạt đến",
+      "meaningEn": "to go near; to come close to in appearance or quality; a way or means of reaching something",
+      "exampleEnHtml": "<p>The performance <strong>approaches </strong>perfection.</p>\n",
+      "exampleViHtml": "<p>Hiệu suất <strong>đạt đến</strong> mức ho&agrave;n hảo.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The performance approaches perfection.",
+      "exampleVi": "Hiệu suất đạt đến mức hoàn hảo.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b30e",
+      "word": "audience",
+      "phonetic": "/ˈɔːdiəns/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev495.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/audience.mp3",
+      "meaningVi": "Khán giả",
+      "meaningEn": "the spectators at a performance",
+      "exampleEnHtml": "<p>The <strong>audience </strong>cheered the actors as they walked off the stage.</p>\n",
+      "exampleViHtml": "<p><strong>Kh&aacute;n giả</strong> cổ vũ c&aacute;c diễn vi&ecirc;n khi họ bước ra khỏi s&acirc;n khấu.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The audience cheered the actors as they walked off the stage.",
+      "exampleVi": "Khán giả cổ vũ các diễn viên khi họ bước ra khỏi sân khấu.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b30f",
+      "word": "creative",
+      "phonetic": "/kriˈeɪtɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev496.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/creative.mp3",
+      "meaningVi": "sáng tạo",
+      "meaningEn": "to produce through artistic or imaginative effort",
+      "exampleEnHtml": "<p>The art class encourages students to express their <strong>creative </strong>ideas</p>\n",
+      "exampleViHtml": "<p>Lớp mỹ thuật khuyến kh&iacute;ch học sinh thể hiện &yacute; tưởng <strong>s&aacute;ng tạo</strong><br />\n&nbsp;</p>\n",
+      "exampleEn": "The art class encourages students to express their creative ideas",
+      "exampleVi": "Lớp mỹ thuật khuyến khích học sinh thể hiện ý tưởng sáng tạo\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b310",
+      "word": "dialogue",
+      "phonetic": "/ˈdaɪəlɑːɡ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev497.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/dialogue.mp3",
+      "meaningVi": "lời thoại",
+      "meaningEn": "a conversation between two or more persons",
+      "exampleEnHtml": "<p>The actors performed the <strong>dialogue </strong>without using scripts.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c diễn vi&ecirc;n thực hiện <strong>lời thoại</strong> m&agrave; kh&ocirc;ng sử dụng kịch bản.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The actors performed the dialogue without using scripts.",
+      "exampleVi": "Các diễn viên thực hiện lời thoại mà không sử dụng kịch bản.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b311",
+      "word": "element",
+      "phonetic": "/ˈelɪmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev498.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/element.mp3",
+      "meaningVi": "yếu tố",
+      "meaningEn": "fundamental or essential constituent",
+      "exampleEnHtml": "<p>The audience is an essential <strong>element </strong>of live theater.</p>\n",
+      "exampleViHtml": "<p>Kh&aacute;n giả l&agrave; một <strong>yếu tố</strong> thiết yếu của rạp h&aacute;t trực tiếp.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The audience is an essential element of live theater.",
+      "exampleVi": "Khán giả là một yếu tố thiết yếu của rạp hát trực tiếp.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b312",
+      "word": "experience",
+      "phonetic": "/ɪkˈspɪriəns/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev499.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/experience.mp3",
+      "meaningVi": "Trải nghiệm",
+      "meaningEn": "an event or a series of events participated in or lived through",
+      "exampleEnHtml": "<p>The <strong>experience </strong>of live theater is very thrilling.</p>\n",
+      "exampleViHtml": "<p><strong>Trải nghiệm </strong>xem kịch trực tiếp rất th&uacute; vị.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The experience of live theater is very thrilling.",
+      "exampleVi": "Trải nghiệm xem kịch trực tiếp rất thú vị.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b313",
+      "word": "occur",
+      "phonetic": "/əˈkɜːr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev500.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/occur.mp3",
+      "meaningVi": "xảy ra",
+      "meaningEn": "to take place; to come about",
+      "exampleEnHtml": "<p>The murder in the play <strong>occurs </strong>in the second act.</p>\n",
+      "exampleViHtml": "<p>Vụ giết người trong vở kịch <strong>xảy ra</strong> ở m&agrave;n thứ hai.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The murder in the play occurs in the second act.",
+      "exampleVi": "Vụ giết người trong vở kịch xảy ra ở màn thứ hai.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b314",
+      "word": "perform",
+      "phonetic": "/pərˈfɔːrm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev501.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/perform.mp3",
+      "meaningVi": "biểu diễn",
+      "meaningEn": "to act before an audience, to give a public presentation of",
+      "exampleEnHtml": "<p>The theater group <strong>performed </strong>a three-act play.</p>\n",
+      "exampleViHtml": "<p>Nh&oacute;m kịch <strong>biểu diễn</strong> một vở kịch gồm ba m&agrave;n.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The theater group performed a three-act play.",
+      "exampleVi": "Nhóm kịch biểu diễn một vở kịch gồm ba màn.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b315",
+      "word": "rehearse",
+      "phonetic": "/rɪˈhɜːrs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev502.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/rehearse.mp3",
+      "meaningVi": "tập luyện",
+      "meaningEn": "to practice in preparation for a public performance; to direct in rehearsal",
+      "exampleEnHtml": "<p>The players <strong>rehearsed </strong>for only three weeks before the show opened.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c cầu thủ chỉ <strong>tập luyện</strong> trong ba tuần trước khi buổi biểu diễn khai mạc.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The players rehearsed for only three weeks before the show opened.",
+      "exampleVi": "Các cầu thủ chỉ tập luyện trong ba tuần trước khi buổi biểu diễn khai mạc.\n "
+    },
+    {
+      "id": "61c14bef92d7f67f5140b316",
+      "word": "review",
+      "phonetic": "/rɪˈvjuː/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev503.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/review.mp3",
+      "meaningVi": "Bài đánh giá",
+      "meaningEn": "a critical estimate of a work or performance; writing a criticism of a performance",
+      "exampleEnHtml": "<p>The critic&#39;s influential <strong>review </strong>of the play was so negative that it sank the entire production.</p>\n",
+      "exampleViHtml": "<p><strong>B&agrave;i đ&aacute;nh gi&aacute;</strong> c&oacute; ảnh hưởng của nh&agrave; ph&ecirc; b&igrave;nh về vở kịch ti&ecirc;u cực đến mức đ&atilde; khiến cả sản phẩm đ&oacute; ch&igrave;m nghỉm</p>\n",
+      "exampleEn": "The critic's influential review of the play was so negative that it sank the entire production.",
+      "exampleVi": "Bài đánh giá có ảnh hưởng của nhà phê bình về vở kịch tiêu cực đến mức đã khiến cả sản phẩm đó chìm nghỉm"
+    },
+    {
+      "id": "61c14bef92d7f67f5140b317",
+      "word": "sell out",
+      "phonetic": "/sel/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev504.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/sell out.mp3",
+      "meaningVi": "bán hết",
+      "meaningEn": "to sell all the tickets",
+      "exampleEnHtml": "<p>We&nbsp;<strong>sold&nbsp;out</strong>&nbsp;of&nbsp;the T-shirts in the first&nbsp;couple&nbsp;of&nbsp;hours.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; <strong>b&aacute;n hết</strong> &aacute;o ph&ocirc;ng trong v&agrave;i giờ đầu ti&ecirc;n.<br />\n&nbsp;</p>\n",
+      "exampleEn": "We sold out of the T-shirts in the first couple of hours.",
+      "exampleVi": "Chúng tôi đã bán hết áo phông trong vài giờ đầu tiên.\n "
+    }
+  ],
+  "totalFlashcards": 12
+}

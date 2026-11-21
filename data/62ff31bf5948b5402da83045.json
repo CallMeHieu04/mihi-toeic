@@ -1,0 +1,1594 @@
+{
+  "topicId": "62ff31bf5948b5402da83045",
+  "title": "Part 3: Conversations - Test 15",
+  "totalCards": 13,
+  "totalQuestions": 39,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da83052",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/47696522.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW1: Sally, I can&#39;t believe it&#39;s so crowded here today. Look! There are not enough cashiers on duty. That&#39;s the problem! It seems like we will have to wait in line for ages.<br />\nW2: You can say that again, Jenny. Our lunch break is almost over. But I don&#39;t really want to miss this opportunity. It would save me about 100 dollars if I bought a fur coat here today.<br />\nW1: You say 100 bucks? That is such a bargain. I can&#39;t resist it either. But we&#39;d better get back to the office and prepare for the presentation this afternoon. We should have the materials at hand and have the text we want to reference marked for easy access. Maybe we can come back here after work.<br />\nW2: You&#39;re right. Hopefully, the store will be less crowded when we come back. Let me ask a clerk what time the store will close today.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW1: Sally, tôi không thể tin là hôm nay ở đây lại đông đúc như thế này. Nhìn này! Không có đủ nhân viên thu ngân. Đó là vấn đề! Có vẻ như chúng ta sẽ phải xếp hàng chờ đợi lâu lắm.<br />\nW2: Cô nói đúng đó, Jenny à. Giờ nghỉ trưa của chúng ta sắp kết thúc rồi. Nhưng tôi thực sự không muốn bỏ lỡ cơ hội này. Tôi sẽ tiết kiệm được khoảng 100 đô la nếu tôi mua chiếc áo khoác lông ở đây hôm nay.<br />\nW1: Cô nói 100 đô la ư? Thật là hời. Tôi cũng không thể cưỡng lại được. Nhưng chúng ta nên quay lại văn phòng và chuẩn bị cho bài thuyết trình vào chiều nay. Chúng ta nên chuẩn bị sẵn tài liệu và đánh dấu văn bản tham khảo để dễ dàng truy cập. Có lẽ chúng ta có thể quay lại mua sắm sau giờ làm việc.<br />\nW2: Cô nói đúng. Hy vọng là cửa hàng sẽ bớt đông đúc hơn khi chúng ta quay lại. Để tôi hỏi nhân viên bán hàng xem hôm nay cửa hàng đóng cửa lúc mấy giờ.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42135948b5402da8305c",
+          "questionNumber": 1,
+          "questionText": "Where are the speakers?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/47696522.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "In an office",
+              "raw": "(A) In an office",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "In a department store",
+              "raw": "(B) In a department store",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "In a restaurant",
+              "raw": "(C) In a restaurant",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "In a bank",
+              "raw": "(D) In a bank",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW1: Sally, tôi không thể tin là hôm nay ở đây lại đông đúc như thế này. Nhìn này! Không có đủ nhân viên thu ngân. Đó là vấn đề! Có vẻ như chúng ta sẽ phải xếp hàng chờ đợi lâu lắm.<br />\nW2: Cô nói đúng đó, Jenny à. Giờ nghỉ trưa của chúng ta sắp kết thúc rồi. Nhưng tôi thực sự không muốn bỏ lỡ cơ hội này. Tôi sẽ tiết kiệm được khoảng 100 đô la nếu tôi mua chiếc áo khoác lông ở đây hôm nay.<br />\nW1: Cô nói 100 đô la ư? Thật là hời. Tôi cũng không thể cưỡng lại được. Nhưng chúng ta nên quay lại văn phòng và chuẩn bị cho bài thuyết trình vào chiều nay. Chúng ta nên chuẩn bị sẵn tài liệu và đánh dấu văn bản tham khảo để dễ dàng truy cập. Có lẽ chúng ta có thể quay lại mua sắm sau giờ làm việc.<br />\nW2: Cô nói đúng. Hy vọng là cửa hàng sẽ bớt đông đúc hơn khi chúng ta quay lại. Để tôi hỏi nhân viên bán hàng xem hôm nay cửa hàng đóng cửa lúc mấy giờ.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42135948b5402da8305d",
+          "questionNumber": 2,
+          "questionText": "What does Jenny suggest?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/47696522.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To continue to wait in line",
+              "raw": "(A) To continue to wait in line",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To return later",
+              "raw": "(B) To return later",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "To delay the presentation",
+              "raw": "(C) To delay the presentation",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To talk to the boss",
+              "raw": "(D) To talk to the boss",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW1: Sally, tôi không thể tin là hôm nay ở đây lại đông đúc như thế này. Nhìn này! Không có đủ nhân viên thu ngân. Đó là vấn đề! Có vẻ như chúng ta sẽ phải xếp hàng chờ đợi lâu lắm.<br />\nW2: Cô nói đúng đó, Jenny à. Giờ nghỉ trưa của chúng ta sắp kết thúc rồi. Nhưng tôi thực sự không muốn bỏ lỡ cơ hội này. Tôi sẽ tiết kiệm được khoảng 100 đô la nếu tôi mua chiếc áo khoác lông ở đây hôm nay.<br />\nW1: Cô nói 100 đô la ư? Thật là hời. Tôi cũng không thể cưỡng lại được. Nhưng chúng ta nên quay lại văn phòng và chuẩn bị cho bài thuyết trình vào chiều nay. Chúng ta nên chuẩn bị sẵn tài liệu và đánh dấu văn bản tham khảo để dễ dàng truy cập. Có lẽ chúng ta có thể quay lại mua sắm sau giờ làm việc.<br />\nW2: Cô nói đúng. Hy vọng là cửa hàng sẽ bớt đông đúc hơn khi chúng ta quay lại. Để tôi hỏi nhân viên bán hàng xem hôm nay cửa hàng đóng cửa lúc mấy giờ.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42135948b5402da8305e",
+          "questionNumber": 3,
+          "questionText": "What will the speakers most likely do this afternoon?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/47696522.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Work on the presentation",
+              "raw": "(A) Work on the presentation",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Purchase a leather jacket",
+              "raw": "(B) Purchase a leather jacket",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Shop for their family",
+              "raw": "(C) Shop for their family",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Attend the conference together",
+              "raw": "(D) Attend the conference together",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW1: Sally, tôi không thể tin là hôm nay ở đây lại đông đúc như thế này. Nhìn này! Không có đủ nhân viên thu ngân. Đó là vấn đề! Có vẻ như chúng ta sẽ phải xếp hàng chờ đợi lâu lắm.<br />\nW2: Cô nói đúng đó, Jenny à. Giờ nghỉ trưa của chúng ta sắp kết thúc rồi. Nhưng tôi thực sự không muốn bỏ lỡ cơ hội này. Tôi sẽ tiết kiệm được khoảng 100 đô la nếu tôi mua chiếc áo khoác lông ở đây hôm nay.<br />\nW1: Cô nói 100 đô la ư? Thật là hời. Tôi cũng không thể cưỡng lại được. Nhưng chúng ta nên quay lại văn phòng và chuẩn bị cho bài thuyết trình vào chiều nay. Chúng ta nên chuẩn bị sẵn tài liệu và đánh dấu văn bản tham khảo để dễ dàng truy cập. Có lẽ chúng ta có thể quay lại mua sắm sau giờ làm việc.<br />\nW2: Cô nói đúng. Hy vọng là cửa hàng sẽ bớt đông đúc hơn khi chúng ta quay lại. Để tôi hỏi nhân viên bán hàng xem hôm nay cửa hàng đóng cửa lúc mấy giờ.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da83053",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/84411416.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nW: Hello, I&#39;d like to reserve a banquet hall at your hotel. We will have a banquet dinner on Monday at 6 p.m. and we&#39;re expecting about 20 people to come.<br />\nM: I&#39;m sorry, ma&#39;am. We don&#39;t have anything to accommodate 20 people available on Monday. However, our large function room is available after 8 o&#39;clock. Would you like to book that room instead?<br />\nW: That won&#39;t be any problem. I think we can get off work a little late on Monday. We&#39;ve got a huge backlog of work to do, anyway.<br />\nM: Great, can you give me your last name and phone number to secure your reservation? If you want to change or cancel the reservation, please contact me as soon as possible.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, tôi muốn đặt phòng tiệc tại khách sạn của anh. Chúng tôi sẽ tổ chức tiệc tối vào thứ Hai lúc 6 giờ và dự kiến sẽ có khoảng 20 người đến.<br />\nM: Xin lỗi, thưa bà. Chúng tôi không có phòng nào có thể phục vụ 20 người vào thứ Hai. Tuy nhiên, phòng chức năng lớn của chúng tôi có thể phục vụ sau 8 giờ tối. Bà có muốn đặt phòng đó không?<br />\nW: Sẽ không có vấn đề gì đâu. Tôi nghĩ chúng tôi có thể tan làm muộn một chút vào thứ Hai. Dù sao thì chúng tôi cũng khá bận rộn.<br />\nM: Tuyệt, bà có thể cho tôi biết tên họ và số điện thoại của bà để đảm bảo đặt chỗ không? Nếu bà muốn thay đổi hoặc hủy đặt chỗ, vui lòng liên hệ với tôi sớm nhất có thể.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42135948b5402da8305f",
+          "questionNumber": 4,
+          "questionText": "What is the purpose of the woman's call?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/84411416.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To book a private dining room",
+              "raw": "(A) To book a private dining room",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "To reserve a table for 5 people",
+              "raw": "(B) To reserve a table for 5 people",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To ask the man to call her back",
+              "raw": "(C) To ask the man to call her back",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To arrange accommodations",
+              "raw": "(D) To arrange accommodations",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, tôi muốn đặt phòng tiệc tại khách sạn của anh. Chúng tôi sẽ tổ chức tiệc tối vào thứ Hai lúc 6 giờ và dự kiến sẽ có khoảng 20 người đến.<br />\nM: Xin lỗi, thưa bà. Chúng tôi không có phòng nào có thể phục vụ 20 người vào thứ Hai. Tuy nhiên, phòng chức năng lớn của chúng tôi có thể phục vụ sau 8 giờ tối. Bà có muốn đặt phòng đó không?<br />\nW: Sẽ không có vấn đề gì đâu. Tôi nghĩ chúng tôi có thể tan làm muộn một chút vào thứ Hai. Dù sao thì chúng tôi cũng khá bận rộn.<br />\nM: Tuyệt, bà có thể cho tôi biết tên họ và số điện thoại của bà để đảm bảo đặt chỗ không? Nếu bà muốn thay đổi hoặc hủy đặt chỗ, vui lòng liên hệ với tôi sớm nhất có thể.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42135948b5402da83060",
+          "questionNumber": 5,
+          "questionText": "Why does the man suggest another option?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/84411416.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Because there is no room open at 8 p.m.",
+              "raw": "(A) Because there is no room open at 8 p.m.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Because no large room is available at 6 p.m.",
+              "raw": "(B) Because no large room is available at 6 p.m.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Because all smoking rooms are booked.",
+              "raw": "(C) Because all smoking rooms are booked.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Because the man will get off work later than usual.",
+              "raw": "(D) Because the man will get off work later than usual.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, tôi muốn đặt phòng tiệc tại khách sạn của anh. Chúng tôi sẽ tổ chức tiệc tối vào thứ Hai lúc 6 giờ và dự kiến sẽ có khoảng 20 người đến.<br />\nM: Xin lỗi, thưa bà. Chúng tôi không có phòng nào có thể phục vụ 20 người vào thứ Hai. Tuy nhiên, phòng chức năng lớn của chúng tôi có thể phục vụ sau 8 giờ tối. Bà có muốn đặt phòng đó không?<br />\nW: Sẽ không có vấn đề gì đâu. Tôi nghĩ chúng tôi có thể tan làm muộn một chút vào thứ Hai. Dù sao thì chúng tôi cũng khá bận rộn.<br />\nM: Tuyệt, bà có thể cho tôi biết tên họ và số điện thoại của bà để đảm bảo đặt chỗ không? Nếu bà muốn thay đổi hoặc hủy đặt chỗ, vui lòng liên hệ với tôi sớm nhất có thể.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42135948b5402da83061",
+          "questionNumber": 6,
+          "questionText": "What is suggested about the woman?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/84411416.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She will make an opening speech at the banquet.",
+              "raw": "(A) She will make an opening speech at the banquet.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "She will give the man a call tomorrow.",
+              "raw": "(B) She will give the man a call tomorrow.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She has lots of work to finish at work.",
+              "raw": "(C) She has lots of work to finish at work.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "She leaves her office late every Monday.",
+              "raw": "(D) She leaves her office late every Monday.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, tôi muốn đặt phòng tiệc tại khách sạn của anh. Chúng tôi sẽ tổ chức tiệc tối vào thứ Hai lúc 6 giờ và dự kiến sẽ có khoảng 20 người đến.<br />\nM: Xin lỗi, thưa bà. Chúng tôi không có phòng nào có thể phục vụ 20 người vào thứ Hai. Tuy nhiên, phòng chức năng lớn của chúng tôi có thể phục vụ sau 8 giờ tối. Bà có muốn đặt phòng đó không?<br />\nW: Sẽ không có vấn đề gì đâu. Tôi nghĩ chúng tôi có thể tan làm muộn một chút vào thứ Hai. Dù sao thì chúng tôi cũng khá bận rộn.<br />\nM: Tuyệt, bà có thể cho tôi biết tên họ và số điện thoại của bà để đảm bảo đặt chỗ không? Nếu bà muốn thay đổi hoặc hủy đặt chỗ, vui lòng liên hệ với tôi sớm nhất có thể.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da83054",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/15301368.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Hello, I&#39;m calling to see if you can give me a hand. I purchased a laptop computer from one of your stores half a year ago. But I think it has a fatal problem. It often crashes when I have multiple windows open at the same time. I have never experienced that before.<br />\nW: Well, I can&#39;t tell you exactly what the problem is. Why don&#39;t you bring it back to the store and get it examined? All our computers have a two-year warranty, so your laptop is still covered. You can get it repaired or replaced free of charge as long as you have the original receipt.<br />\nM: I wish I could take it to the store. But I&#39;m afraid I moved away from the area a month ago. It&#39;s not very convenient for me to come all the way back to repair it. To be honest, it&#39;s too far.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi gọi điện để xem cô có thể giúp tôi không. Tôi đã mua một chiếc máy tính xách tay từ một trong những cửa hàng của cô cách đây nửa năm. Nhưng tôi nghĩ là nó có vấn đề nghiêm trọng. Nó thường bị sập nguồn khi tôi mở nhiều cửa sổ cùng lúc. Tôi chưa từng gặp phải tình trạng đó trước đây.<br />\nW: Vâng, tôi không thể nói chính xác vấn đề là gì. Anh nên không mang nó trở lại cửa hàng và kiểm tra, được chứ? Tất cả máy tính của chúng tôi đều được bảo hành hai năm, vì vậy máy tính xách tay của anh vẫn được bảo hành. Anh có thể sửa chữa hoặc thay thế miễn phí miễn là anh có biên lai gốc.<br />\nM: Tôi ước mình có thể mang nó đến cửa hàng. Nhưng tôi sợ là tôi đã chuyển đi khỏi khu vực đó một tháng trước. Tôi không tiện quay lại để sửa nó. Thành thật mà nói, khoảng cách quá xa.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42135948b5402da83062",
+          "questionNumber": 7,
+          "questionText": "According to the man, what's the problem?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/15301368.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The warranty is expired.",
+              "raw": "(A) The warranty is expired.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The receipt is lost.",
+              "raw": "(B) The receipt is lost.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "The manufacturer has gone out of business.",
+              "raw": "(C) The manufacturer has gone out of business.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The computer is defective.",
+              "raw": "(D) The computer is defective.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi gọi điện để xem cô có thể giúp tôi không. Tôi đã mua một chiếc máy tính xách tay từ một trong những cửa hàng của cô cách đây nửa năm. Nhưng tôi nghĩ là nó có vấn đề nghiêm trọng. Nó thường bị sập nguồn khi tôi mở nhiều cửa sổ cùng lúc. Tôi chưa từng gặp phải tình trạng đó trước đây.<br />\nW: Vâng, tôi không thể nói chính xác vấn đề là gì. Anh nên không mang nó trở lại cửa hàng và kiểm tra, được chứ? Tất cả máy tính của chúng tôi đều được bảo hành hai năm, vì vậy máy tính xách tay của anh vẫn được bảo hành. Anh có thể sửa chữa hoặc thay thế miễn phí miễn là anh có biên lai gốc.<br />\nM: Tôi ước mình có thể mang nó đến cửa hàng. Nhưng tôi sợ là tôi đã chuyển đi khỏi khu vực đó một tháng trước. Tôi không tiện quay lại để sửa nó. Thành thật mà nói, khoảng cách quá xa.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42135948b5402da83063",
+          "questionNumber": 8,
+          "questionText": "When did the man buy the computer?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/15301368.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A month ago",
+              "raw": "(A) A month ago",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Six months ago",
+              "raw": "(B) Six months ago",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A year ago",
+              "raw": "(C) A year ago",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Two years ago",
+              "raw": "(D) Two years ago",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi gọi điện để xem cô có thể giúp tôi không. Tôi đã mua một chiếc máy tính xách tay từ một trong những cửa hàng của cô cách đây nửa năm. Nhưng tôi nghĩ là nó có vấn đề nghiêm trọng. Nó thường bị sập nguồn khi tôi mở nhiều cửa sổ cùng lúc. Tôi chưa từng gặp phải tình trạng đó trước đây.<br />\nW: Vâng, tôi không thể nói chính xác vấn đề là gì. Anh nên không mang nó trở lại cửa hàng và kiểm tra, được chứ? Tất cả máy tính của chúng tôi đều được bảo hành hai năm, vì vậy máy tính xách tay của anh vẫn được bảo hành. Anh có thể sửa chữa hoặc thay thế miễn phí miễn là anh có biên lai gốc.<br />\nM: Tôi ước mình có thể mang nó đến cửa hàng. Nhưng tôi sợ là tôi đã chuyển đi khỏi khu vực đó một tháng trước. Tôi không tiện quay lại để sửa nó. Thành thật mà nói, khoảng cách quá xa.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42135948b5402da83064",
+          "questionNumber": 9,
+          "questionText": "What does the woman recommend?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/15301368.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Renew the service contract",
+              "raw": "(A) Renew the service contract",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Call the store manager",
+              "raw": "(B) Call the store manager",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Mail the computer to the producer",
+              "raw": "(C) Mail the computer to the producer",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Send an email to the manufacturer",
+              "raw": "(D) Send an email to the manufacturer",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, tôi gọi điện để xem cô có thể giúp tôi không. Tôi đã mua một chiếc máy tính xách tay từ một trong những cửa hàng của cô cách đây nửa năm. Nhưng tôi nghĩ là nó có vấn đề nghiêm trọng. Nó thường bị sập nguồn khi tôi mở nhiều cửa sổ cùng lúc. Tôi chưa từng gặp phải tình trạng đó trước đây.<br />\nW: Vâng, tôi không thể nói chính xác vấn đề là gì. Anh nên không mang nó trở lại cửa hàng và kiểm tra, được chứ? Tất cả máy tính của chúng tôi đều được bảo hành hai năm, vì vậy máy tính xách tay của anh vẫn được bảo hành. Anh có thể sửa chữa hoặc thay thế miễn phí miễn là anh có biên lai gốc.<br />\nM: Tôi ước mình có thể mang nó đến cửa hàng. Nhưng tôi sợ là tôi đã chuyển đi khỏi khu vực đó một tháng trước. Tôi không tiện quay lại để sửa nó. Thành thật mà nói, khoảng cách quá xa.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da83055",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/87628579.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Hi, Lisa. I just heard that the factory workers went on strike, demanding better pay and conditions. If it&#39;s true, it&#39;ll definitely affect the shipment of office supplies for A&amp;P corporation.<br />\nW: No, they&#39;re all groundless rumors, Eric. Don&#39;t worry. I got a phone call from the warehouse manager this morning. He said that the order was shipped this morning as scheduled.<br />\nM: That&#39;s great. Ron in A&amp;P called me yesterday and said they need to receive office supplies before they open a new branch in Vancouver on May 15th. As you know, A&amp;P is one of our VIP customers and I don&#39;t want to let them down.<br />\nW: Today is May 1st and it shouldn&#39;t take more than 10 days for them to get there. We&#39;ll be fine.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, Lisa. Tôi vừa nghe tin công nhân nhà máy đang đình công, họ yêu cầu tăng lương và cải thiện điều kiện làm việc. Nếu đúng như vậy, chắc chắn sẽ ảnh hưởng đến việc vận chuyển đồ dùng văn phòng cho tập đoàn A&P.<br />\nW: Không, tất cả đều là tin đồn vô căn cứ, Eric. Đừng lo. Tôi nhận được cuộc gọi từ quản lý kho sáng nay. Ông ấy nói rằng đơn hàng đã được vận chuyển sáng nay theo đúng lịch trình.<br />\nM: Tuyệt quá. Ông Ron ở A&P đã gọi cho tôi hôm qua và nói rằng họ cần nhận đồ dùng văn phòng trước khi mở chi nhánh mới tại Vancouver vào ngày 15 tháng 5. Như cô biết đấy, A&P là một trong những khách hàng VIP của chúng ta và tôi không muốn làm họ thất vọng.<br />\nW: Hôm nay là ngày 1 tháng 5 và sẽ không mất quá 10 ngày để hàng đến nơi. Mọi việc sẽ ổn thôi.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42135948b5402da83065",
+          "questionNumber": 10,
+          "questionText": "What is the rumor about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/87628579.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The assembly line was shut down.",
+              "raw": "(A) The assembly line was shut down.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The union was formed.",
+              "raw": "(B) The union was formed.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "The company went bankrupt.",
+              "raw": "(C) The company went bankrupt.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The strike started.",
+              "raw": "(D) The strike started.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, Lisa. Tôi vừa nghe tin công nhân nhà máy đang đình công, họ yêu cầu tăng lương và cải thiện điều kiện làm việc. Nếu đúng như vậy, chắc chắn sẽ ảnh hưởng đến việc vận chuyển đồ dùng văn phòng cho tập đoàn A&P.<br />\nW: Không, tất cả đều là tin đồn vô căn cứ, Eric. Đừng lo. Tôi nhận được cuộc gọi từ quản lý kho sáng nay. Ông ấy nói rằng đơn hàng đã được vận chuyển sáng nay theo đúng lịch trình.<br />\nM: Tuyệt quá. Ông Ron ở A&P đã gọi cho tôi hôm qua và nói rằng họ cần nhận đồ dùng văn phòng trước khi mở chi nhánh mới tại Vancouver vào ngày 15 tháng 5. Như cô biết đấy, A&P là một trong những khách hàng VIP của chúng ta và tôi không muốn làm họ thất vọng.<br />\nW: Hôm nay là ngày 1 tháng 5 và sẽ không mất quá 10 ngày để hàng đến nơi. Mọi việc sẽ ổn thôi.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42135948b5402da83066",
+          "questionNumber": 11,
+          "questionText": "Who called Lisa this morning?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/87628579.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Eric",
+              "raw": "(A) Eric",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A warehouse manager",
+              "raw": "(B) A warehouse manager",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Ron",
+              "raw": "(C) Ron",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A union leader",
+              "raw": "(D) A union leader ",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, Lisa. Tôi vừa nghe tin công nhân nhà máy đang đình công, họ yêu cầu tăng lương và cải thiện điều kiện làm việc. Nếu đúng như vậy, chắc chắn sẽ ảnh hưởng đến việc vận chuyển đồ dùng văn phòng cho tập đoàn A&P.<br />\nW: Không, tất cả đều là tin đồn vô căn cứ, Eric. Đừng lo. Tôi nhận được cuộc gọi từ quản lý kho sáng nay. Ông ấy nói rằng đơn hàng đã được vận chuyển sáng nay theo đúng lịch trình.<br />\nM: Tuyệt quá. Ông Ron ở A&P đã gọi cho tôi hôm qua và nói rằng họ cần nhận đồ dùng văn phòng trước khi mở chi nhánh mới tại Vancouver vào ngày 15 tháng 5. Như cô biết đấy, A&P là một trong những khách hàng VIP của chúng ta và tôi không muốn làm họ thất vọng.<br />\nW: Hôm nay là ngày 1 tháng 5 và sẽ không mất quá 10 ngày để hàng đến nơi. Mọi việc sẽ ổn thôi.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83067",
+          "questionNumber": 12,
+          "questionText": "What does the man say about A&P corporation?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/87628579.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It’s a very important client.",
+              "raw": "(A) It’s a very important client.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "It carries office supplies.",
+              "raw": "(B) It carries office supplies.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "It will release a new product in Vancouver.",
+              "raw": "(C) It will release a new product in Vancouver.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Its workers went on strike this morning.",
+              "raw": "(D) Its workers went on strike this morning.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào, Lisa. Tôi vừa nghe tin công nhân nhà máy đang đình công, họ yêu cầu tăng lương và cải thiện điều kiện làm việc. Nếu đúng như vậy, chắc chắn sẽ ảnh hưởng đến việc vận chuyển đồ dùng văn phòng cho tập đoàn A&P.<br />\nW: Không, tất cả đều là tin đồn vô căn cứ, Eric. Đừng lo. Tôi nhận được cuộc gọi từ quản lý kho sáng nay. Ông ấy nói rằng đơn hàng đã được vận chuyển sáng nay theo đúng lịch trình.<br />\nM: Tuyệt quá. Ông Ron ở A&P đã gọi cho tôi hôm qua và nói rằng họ cần nhận đồ dùng văn phòng trước khi mở chi nhánh mới tại Vancouver vào ngày 15 tháng 5. Như cô biết đấy, A&P là một trong những khách hàng VIP của chúng ta và tôi không muốn làm họ thất vọng.<br />\nW: Hôm nay là ngày 1 tháng 5 và sẽ không mất quá 10 ngày để hàng đến nơi. Mọi việc sẽ ổn thôi.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da83056",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/30696936.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: I just finished unpacking all my clothes from the suitcase. At last, I can start looking around my new neighborhood, Kelly. I hope I will find many wonderful things around my new place.<br />\nW: You won&#39;t be disappointed, Matt. If you like music, you&#39;d better go to the outdoor rock concert this Friday. I was there last year and I had a lot of fun.<br />\nM: I know what you&#39;re talking about. I happened to read the article about the concert in the local newspaper yesterday. It says many famous singers and groups will participate in this year&#39;s concert. I surely want to go there and feel the music.<br />\nW: Go ahead. I&#39;m sure you&#39;ll have a great time unless you care for crowds. There&#39;ll be several huge LED screens and speakers set up around the stage. During the intermission, you will have access to snack bars and food stands where you can taste a variety of authentic local foods. You won&#39;t regret it.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Tôi vừa mới dỡ hết quần áo ra khỏi vali. Cuối cùng, tôi có thể bắt đầu đi dạo quanh khu phố mới của mình, Kelly. Tôi hy vọng mình sẽ tìm thấy nhiều điều tuyệt vời xung quanh nơi ở mới.<br />\nW: Anh sẽ không thất vọng đâu, Matt. Nếu anh thích âm nhạc, anh nên đến buổi hòa nhạc rock ngoài trời vào thứ sáu này. Tôi đã đến đó vào năm ngoái và có rất nhiều niềm vui.<br />\nM: Tôi biết cô đang nói về điều gì. Tôi tình cờ đọc được bài báo về buổi hòa nhạc trên tờ báo địa phương ngày hôm qua. Bài báo nói rằng nhiều ca sĩ và nhóm nhạc nổi tiếng sẽ tham gia buổi hòa nhạc năm nay. Tôi thực sự muốn đến đó và cảm nhận âm nhạc.<br />\nW: Cứ đến đi. Tôi chắc chắn anh sẽ có khoảng thời gian tuyệt vời trừ khi anh không thích đám đông. Sẽ có một số màn hình LED lớn và loa được bố trí xung quanh sân khấu. Trong giờ nghỉ giải lao, anh có thể vào các quầy đồ ăn nhẹ và quầy thức ăn để nếm thử nhiều loại đặc sản địa phương chính thống. Anh sẽ không hối tiếc đâu.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42145948b5402da83068",
+          "questionNumber": 13,
+          "questionText": "What did the man probably do recently?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/30696936.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He looked around his new neighborhood.",
+              "raw": "(A) He looked around his new neighborhood.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "He went to the outdoor music concert.",
+              "raw": "(B) He went to the outdoor music concert.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "He tried local foods.",
+              "raw": "(C) He tried local foods.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He moved into a new place.",
+              "raw": "(D) He moved into a new place.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Tôi vừa mới dỡ hết quần áo ra khỏi vali. Cuối cùng, tôi có thể bắt đầu đi dạo quanh khu phố mới của mình, Kelly. Tôi hy vọng mình sẽ tìm thấy nhiều điều tuyệt vời xung quanh nơi ở mới.<br />\nW: Anh sẽ không thất vọng đâu, Matt. Nếu anh thích âm nhạc, anh nên đến buổi hòa nhạc rock ngoài trời vào thứ sáu này. Tôi đã đến đó vào năm ngoái và có rất nhiều niềm vui.<br />\nM: Tôi biết cô đang nói về điều gì. Tôi tình cờ đọc được bài báo về buổi hòa nhạc trên tờ báo địa phương ngày hôm qua. Bài báo nói rằng nhiều ca sĩ và nhóm nhạc nổi tiếng sẽ tham gia buổi hòa nhạc năm nay. Tôi thực sự muốn đến đó và cảm nhận âm nhạc.<br />\nW: Cứ đến đi. Tôi chắc chắn anh sẽ có khoảng thời gian tuyệt vời trừ khi anh không thích đám đông. Sẽ có một số màn hình LED lớn và loa được bố trí xung quanh sân khấu. Trong giờ nghỉ giải lao, anh có thể vào các quầy đồ ăn nhẹ và quầy thức ăn để nếm thử nhiều loại đặc sản địa phương chính thống. Anh sẽ không hối tiếc đâu.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83069",
+          "questionNumber": 14,
+          "questionText": "How did the man know about the concert?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/30696936.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He attended it last year.",
+              "raw": "(A) He attended it last year.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "He read about it in the paper.",
+              "raw": "(B) He read about it in the paper.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "He heard from his neighbor.",
+              "raw": "(C) He heard from his neighbor.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He happened to see the TV commercial.",
+              "raw": "(D) He happened to see the TV commercial.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Tôi vừa mới dỡ hết quần áo ra khỏi vali. Cuối cùng, tôi có thể bắt đầu đi dạo quanh khu phố mới của mình, Kelly. Tôi hy vọng mình sẽ tìm thấy nhiều điều tuyệt vời xung quanh nơi ở mới.<br />\nW: Anh sẽ không thất vọng đâu, Matt. Nếu anh thích âm nhạc, anh nên đến buổi hòa nhạc rock ngoài trời vào thứ sáu này. Tôi đã đến đó vào năm ngoái và có rất nhiều niềm vui.<br />\nM: Tôi biết cô đang nói về điều gì. Tôi tình cờ đọc được bài báo về buổi hòa nhạc trên tờ báo địa phương ngày hôm qua. Bài báo nói rằng nhiều ca sĩ và nhóm nhạc nổi tiếng sẽ tham gia buổi hòa nhạc năm nay. Tôi thực sự muốn đến đó và cảm nhận âm nhạc.<br />\nW: Cứ đến đi. Tôi chắc chắn anh sẽ có khoảng thời gian tuyệt vời trừ khi anh không thích đám đông. Sẽ có một số màn hình LED lớn và loa được bố trí xung quanh sân khấu. Trong giờ nghỉ giải lao, anh có thể vào các quầy đồ ăn nhẹ và quầy thức ăn để nếm thử nhiều loại đặc sản địa phương chính thống. Anh sẽ không hối tiếc đâu.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da8306a",
+          "questionNumber": 15,
+          "questionText": "What does the woman say about the event?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/30696936.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She will attend it this year.",
+              "raw": "(A) She will attend it this year.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Many people will be there.",
+              "raw": "(B) Many people will be there.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "It will be held in a gymnasium.",
+              "raw": "(C) It will be held in a gymnasium.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Food stands will offer free samples.",
+              "raw": "(D) Food stands will offer free samples.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Tôi vừa mới dỡ hết quần áo ra khỏi vali. Cuối cùng, tôi có thể bắt đầu đi dạo quanh khu phố mới của mình, Kelly. Tôi hy vọng mình sẽ tìm thấy nhiều điều tuyệt vời xung quanh nơi ở mới.<br />\nW: Anh sẽ không thất vọng đâu, Matt. Nếu anh thích âm nhạc, anh nên đến buổi hòa nhạc rock ngoài trời vào thứ sáu này. Tôi đã đến đó vào năm ngoái và có rất nhiều niềm vui.<br />\nM: Tôi biết cô đang nói về điều gì. Tôi tình cờ đọc được bài báo về buổi hòa nhạc trên tờ báo địa phương ngày hôm qua. Bài báo nói rằng nhiều ca sĩ và nhóm nhạc nổi tiếng sẽ tham gia buổi hòa nhạc năm nay. Tôi thực sự muốn đến đó và cảm nhận âm nhạc.<br />\nW: Cứ đến đi. Tôi chắc chắn anh sẽ có khoảng thời gian tuyệt vời trừ khi anh không thích đám đông. Sẽ có một số màn hình LED lớn và loa được bố trí xung quanh sân khấu. Trong giờ nghỉ giải lao, anh có thể vào các quầy đồ ăn nhẹ và quầy thức ăn để nếm thử nhiều loại đặc sản địa phương chính thống. Anh sẽ không hối tiếc đâu.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da83057",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/54218338.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: Rick, how are your flight arrangements going? When I confirmed my flight on the internet this morning, most seats in economy class were almost sold out. I think you&#39;d better hurry in order to get a seat.<br />\nM: Not to worry. Our company decided not to send anyone to the marketing conference in London because we are on a tight budget. I ended up canceling my flight reservation this morning.<br />\nW: That&#39;s a shame. The conference consists of hands-on workshops in a variety of subjects, which are led by marketing experts. There is no doubt that it would be beneficial to you and your company.<br />\nM: I know what you mean. Frankly, I&#39;ve been looking forward to it for the whole year. But our company&#39;s travel budget has been drastically cut because our retail sales have been steadily decreasing since 2008. However, I hope to participate in the regional sales workshop held in Pittsburgh next month.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Rick, chuyến bay của anh thế nào rồi? Khi tôi xác nhận chuyến bay của mình trên internet sáng nay, hầu hết các ghế hạng phổ thông đã gần hết. Tôi nghĩ anh nên nhanh chân để có chỗ ngồi.<br />\nM: Đừng lo. Công ty tôi quyết định không cử bất kỳ ai đến hội nghị tiếp thị ở London vì đang eo hẹp ngân sách. Cuối cùng tôi đã hủy đặt chỗ chuyến bay sáng nay.<br />\nW: Thật đáng tiếc. Hội nghị bao gồm các hội thảo thực tế về nhiều chủ đề khác nhau và được hướng dẫn bởi các chuyên gia trong lĩnh vực Marketing. Chắc chắn sẽ có lợi cho anh và công ty của anh.<br />\nM: Tôi hiểu ý cô. Thực ra, tôi đã mong chờ hội nghị này cả năm nay rồi. Nhưng ngân sách đi lại của công ty chúng tôi đã bị cắt giảm mạnh vì doanh số bán lẻ liên tục giảm kể từ năm 2008. Tuy nhiên, tôi hy vọng vẫn có thể tham gia hội thảo bán hàng khu vực được tổ chức tại Pittsburgh vào tháng tới.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42145948b5402da8306b",
+          "questionNumber": 16,
+          "questionText": "What are the speakers mainly discussing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/54218338.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A vacation",
+              "raw": "(A) A vacation",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A meeting",
+              "raw": "(B) A meeting",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Market research",
+              "raw": "(C) Market research",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A budget report",
+              "raw": "(D) A budget report",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Rick, chuyến bay của anh thế nào rồi? Khi tôi xác nhận chuyến bay của mình trên internet sáng nay, hầu hết các ghế hạng phổ thông đã gần hết. Tôi nghĩ anh nên nhanh chân để có chỗ ngồi.<br />\nM: Đừng lo. Công ty tôi quyết định không cử bất kỳ ai đến hội nghị tiếp thị ở London vì đang eo hẹp ngân sách. Cuối cùng tôi đã hủy đặt chỗ chuyến bay sáng nay.<br />\nW: Thật đáng tiếc. Hội nghị bao gồm các hội thảo thực tế về nhiều chủ đề khác nhau và được hướng dẫn bởi các chuyên gia trong lĩnh vực Marketing. Chắc chắn sẽ có lợi cho anh và công ty của anh.<br />\nM: Tôi hiểu ý cô. Thực ra, tôi đã mong chờ hội nghị này cả năm nay rồi. Nhưng ngân sách đi lại của công ty chúng tôi đã bị cắt giảm mạnh vì doanh số bán lẻ liên tục giảm kể từ năm 2008. Tuy nhiên, tôi hy vọng vẫn có thể tham gia hội thảo bán hàng khu vực được tổ chức tại Pittsburgh vào tháng tới.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da8306c",
+          "questionNumber": 17,
+          "questionText": "What is said about Rick’s company?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/54218338.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It will allocate a bigger travel budget next year.",
+              "raw": "(A) It will allocate a bigger travel budget next year.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "It decided not to send anyone to the conference in Pittsburgh.",
+              "raw": "(B) It decided not to send anyone to the conference in Pittsburgh.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "It needs marketing experts with hands-on experience.",
+              "raw": "(C) It needs marketing experts with hands-on experience.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "It has experienced a decline in sales.",
+              "raw": "(D) It has experienced a decline in sales.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Rick, chuyến bay của anh thế nào rồi? Khi tôi xác nhận chuyến bay của mình trên internet sáng nay, hầu hết các ghế hạng phổ thông đã gần hết. Tôi nghĩ anh nên nhanh chân để có chỗ ngồi.<br />\nM: Đừng lo. Công ty tôi quyết định không cử bất kỳ ai đến hội nghị tiếp thị ở London vì đang eo hẹp ngân sách. Cuối cùng tôi đã hủy đặt chỗ chuyến bay sáng nay.<br />\nW: Thật đáng tiếc. Hội nghị bao gồm các hội thảo thực tế về nhiều chủ đề khác nhau và được hướng dẫn bởi các chuyên gia trong lĩnh vực Marketing. Chắc chắn sẽ có lợi cho anh và công ty của anh.<br />\nM: Tôi hiểu ý cô. Thực ra, tôi đã mong chờ hội nghị này cả năm nay rồi. Nhưng ngân sách đi lại của công ty chúng tôi đã bị cắt giảm mạnh vì doanh số bán lẻ liên tục giảm kể từ năm 2008. Tuy nhiên, tôi hy vọng vẫn có thể tham gia hội thảo bán hàng khu vực được tổ chức tại Pittsburgh vào tháng tới.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da8306d",
+          "questionNumber": 18,
+          "questionText": "What does the man want to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/54218338.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Attend the workshop next month",
+              "raw": "(A) Attend the workshop next month",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Donate money to his company",
+              "raw": "(B) Donate money to his company",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Cancel the flight reservation",
+              "raw": "(C) Cancel the flight reservation",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Reserve a seat in business class",
+              "raw": "(D) Reserve a seat in business class",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Rick, chuyến bay của anh thế nào rồi? Khi tôi xác nhận chuyến bay của mình trên internet sáng nay, hầu hết các ghế hạng phổ thông đã gần hết. Tôi nghĩ anh nên nhanh chân để có chỗ ngồi.<br />\nM: Đừng lo. Công ty tôi quyết định không cử bất kỳ ai đến hội nghị tiếp thị ở London vì đang eo hẹp ngân sách. Cuối cùng tôi đã hủy đặt chỗ chuyến bay sáng nay.<br />\nW: Thật đáng tiếc. Hội nghị bao gồm các hội thảo thực tế về nhiều chủ đề khác nhau và được hướng dẫn bởi các chuyên gia trong lĩnh vực Marketing. Chắc chắn sẽ có lợi cho anh và công ty của anh.<br />\nM: Tôi hiểu ý cô. Thực ra, tôi đã mong chờ hội nghị này cả năm nay rồi. Nhưng ngân sách đi lại của công ty chúng tôi đã bị cắt giảm mạnh vì doanh số bán lẻ liên tục giảm kể từ năm 2008. Tuy nhiên, tôi hy vọng vẫn có thể tham gia hội thảo bán hàng khu vực được tổ chức tại Pittsburgh vào tháng tới.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da83058",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/56489109.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nW: Hi, I&#39;m looking for a new book written by Carl Johnson. The title is Power of X-Generation. I searched everywhere but I can&#39;t find it anywhere.<br />\nM: Well, let me check our database. Umm ... It seems like they are all sold out. You know, he&#39;s a very popular author. I can put an order for you, if you&#39;d like. It usually takes about a week for books to be restocked.<br />\nW: Oh, no. I need it for my interview scheduled next Monday. Is there any way to get it within this week?<br />\nM: In that case, I can make a special order, which guarantees overnight delivery. However, you need to pay an additional charge. If you want that, you need to fill in this form.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, tôi đang tìm cuốn sách mới của Carl Johnson. Tựa đề là Power of X-Generation. Tôi đã tìm khắp nơi nhưng không thấy.<br />\nM: Vâng, để tôi kiểm tra cơ sở dữ liệu của chúng tôi. Ừm ... Có vẻ như tất cả đều đã bán hết. Cô biết đấy, ông ấy là một tác giả rất nổi tiếng. Tôi có thể đặt hàng cho cô, nếu cô muốn. Thường thì phải mất khoảng một tuần để có sách trở lại.<br />\nW: Ồ, không. Tôi cần nó cho buổi phỏng vấn được lên lịch vào thứ Hai tuần tới. Có cách nào để nhận được nó trong tuần này không?<br />\nM: Trong trường hợp đó, tôi có thể đặt hàng đặc biệt, đảm bảo giao hàng qua đêm. Tuy nhiên, cô cần phải trả thêm phí. Nếu cô muốn đặt hàng, cô cần điền vào biểu mẫu này.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42145948b5402da8306e",
+          "questionNumber": 19,
+          "questionText": "Where most likely are the speakers?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/56489109.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "In a library",
+              "raw": "(A) In a library",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "In a bookstore",
+              "raw": "(B) In a bookstore",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "In a post office",
+              "raw": "(C) In a post office",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "In a warehouse",
+              "raw": "(D) In a warehouse",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, tôi đang tìm cuốn sách mới của Carl Johnson. Tựa đề là Power of X-Generation. Tôi đã tìm khắp nơi nhưng không thấy.<br />\nM: Vâng, để tôi kiểm tra cơ sở dữ liệu của chúng tôi. Ừm ... Có vẻ như tất cả đều đã bán hết. Cô biết đấy, ông ấy là một tác giả rất nổi tiếng. Tôi có thể đặt hàng cho cô, nếu cô muốn. Thường thì phải mất khoảng một tuần để có sách trở lại.<br />\nW: Ồ, không. Tôi cần nó cho buổi phỏng vấn được lên lịch vào thứ Hai tuần tới. Có cách nào để nhận được nó trong tuần này không?<br />\nM: Trong trường hợp đó, tôi có thể đặt hàng đặc biệt, đảm bảo giao hàng qua đêm. Tuy nhiên, cô cần phải trả thêm phí. Nếu cô muốn đặt hàng, cô cần điền vào biểu mẫu này.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da8306f",
+          "questionNumber": 20,
+          "questionText": "Who is Mr. Johnson?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/56489109.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "An author",
+              "raw": "(A) An author",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "A librarian",
+              "raw": "(B) A librarian",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A bookstore clerk",
+              "raw": "(C) A bookstore clerk",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A delivery man",
+              "raw": "(D) A delivery man",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, tôi đang tìm cuốn sách mới của Carl Johnson. Tựa đề là Power of X-Generation. Tôi đã tìm khắp nơi nhưng không thấy.<br />\nM: Vâng, để tôi kiểm tra cơ sở dữ liệu của chúng tôi. Ừm ... Có vẻ như tất cả đều đã bán hết. Cô biết đấy, ông ấy là một tác giả rất nổi tiếng. Tôi có thể đặt hàng cho cô, nếu cô muốn. Thường thì phải mất khoảng một tuần để có sách trở lại.<br />\nW: Ồ, không. Tôi cần nó cho buổi phỏng vấn được lên lịch vào thứ Hai tuần tới. Có cách nào để nhận được nó trong tuần này không?<br />\nM: Trong trường hợp đó, tôi có thể đặt hàng đặc biệt, đảm bảo giao hàng qua đêm. Tuy nhiên, cô cần phải trả thêm phí. Nếu cô muốn đặt hàng, cô cần điền vào biểu mẫu này.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83070",
+          "questionNumber": 21,
+          "questionText": "What should the woman do if she wants express delivery?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/56489109.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Talk to the store manager",
+              "raw": "(A) Talk to the store manager",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Pay more money",
+              "raw": "(B) Pay more money",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Apply for a library card",
+              "raw": "(C) Apply for a library card",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Schedule an interview",
+              "raw": "(D) Schedule an interview",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin chào, tôi đang tìm cuốn sách mới của Carl Johnson. Tựa đề là Power of X-Generation. Tôi đã tìm khắp nơi nhưng không thấy.<br />\nM: Vâng, để tôi kiểm tra cơ sở dữ liệu của chúng tôi. Ừm ... Có vẻ như tất cả đều đã bán hết. Cô biết đấy, ông ấy là một tác giả rất nổi tiếng. Tôi có thể đặt hàng cho cô, nếu cô muốn. Thường thì phải mất khoảng một tuần để có sách trở lại.<br />\nW: Ồ, không. Tôi cần nó cho buổi phỏng vấn được lên lịch vào thứ Hai tuần tới. Có cách nào để nhận được nó trong tuần này không?<br />\nM: Trong trường hợp đó, tôi có thể đặt hàng đặc biệt, đảm bảo giao hàng qua đêm. Tuy nhiên, cô cần phải trả thêm phí. Nếu cô muốn đặt hàng, cô cần điền vào biểu mẫu này.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da83059",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/37292208.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: Hi, James. I&#39;m finally back from the business seminar that was held in Seattle. The return flight was delayed for about 3 hours due to a violent thunderstorm on the west coast. It was horrible. That&#39;s why I came back late last night.<br />\nM: That sounds awful. By the way, how was the seminar?<br />\nW: It was great. I learned a lot from a series of lectures from renowned professors and researchers. In particular, Professor Brown talked about business strategies and leadership style by giving examples of GT Motors. His talk was very helpful to me. I can definitely say that was the best seminar that I have ever been to.<br />\nM: I should have been there with you. Oh, I almost forgot to tell you. I&#39;ve got a message for you. Mr. Jennings from Global Tech wanted to talk to you about the contract sometime this week. Here is his phone number.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Chào James. Cuối cùng tôi cũng trở về từ hội thảo kinh doanh được tổ chức tại Seattle. Chuyến bay trở về bị hoãn khoảng 3 giờ do có một cơn giông bão dữ dội ở bờ biển phía tây. Thật kinh khủng. Đó là lý do tại sao tôi trở về muộn vào đêm qua.<br />\nM: Nghe có vẻ kinh khủng. Nhân tiện, hội thảo thế nào?<br />\nW: Thật tuyệt. Tôi đã học được rất nhiều từ một loạt bài giảng của các giáo sư và nhà nghiên cứu nổi tiếng. Đặc biệt, Giáo sư Brown đã nói về các chiến lược kinh doanh và phong cách lãnh đạo bằng cách đưa ra các ví dụ về GT Motors. Bài thuyết trình của ông ấy rất hữu ích đối với tôi. Tôi chắc chắn có thể nói rằng đó là hội thảo tuyệt vời nhất mà tôi từng tham dự.<br />\nM: Tôi nên ở đó với cô. À, tôi gần quên nói với cô. Tôi có một tin nhắn cho cô. Ông Jennings từ Global Tech muốn nói chuyện với cô về hợp đồng vào lúc nào đó trong tuần này. Đây là số điện thoại của ông ấy.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42145948b5402da83071",
+          "questionNumber": 22,
+          "questionText": "Why did the woman most likely feel terrible?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/37292208.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The seminar turned out to be the biggest disappointment.",
+              "raw": "(A) The seminar turned out to be the biggest disappointment.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "She could not attend a lecture from Professor Brown.",
+              "raw": "(B) She could not attend a lecture from Professor Brown.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She spent tedious hours at the airport.",
+              "raw": "(C) She spent tedious hours at the airport.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "The contract with Global Tech was terminated.",
+              "raw": "(D) The contract with Global Tech was terminated.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Chào James. Cuối cùng tôi cũng trở về từ hội thảo kinh doanh được tổ chức tại Seattle. Chuyến bay trở về bị hoãn khoảng 3 giờ do có một cơn giông bão dữ dội ở bờ biển phía tây. Thật kinh khủng. Đó là lý do tại sao tôi trở về muộn vào đêm qua.<br />\nM: Nghe có vẻ kinh khủng. Nhân tiện, hội thảo thế nào?<br />\nW: Thật tuyệt. Tôi đã học được rất nhiều từ một loạt bài giảng của các giáo sư và nhà nghiên cứu nổi tiếng. Đặc biệt, Giáo sư Brown đã nói về các chiến lược kinh doanh và phong cách lãnh đạo bằng cách đưa ra các ví dụ về GT Motors. Bài thuyết trình của ông ấy rất hữu ích đối với tôi. Tôi chắc chắn có thể nói rằng đó là hội thảo tuyệt vời nhất mà tôi từng tham dự.<br />\nM: Tôi nên ở đó với cô. À, tôi gần quên nói với cô. Tôi có một tin nhắn cho cô. Ông Jennings từ Global Tech muốn nói chuyện với cô về hợp đồng vào lúc nào đó trong tuần này. Đây là số điện thoại của ông ấy.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83072",
+          "questionNumber": 23,
+          "questionText": "What did the woman think of the seminar?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/37292208.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Horrible",
+              "raw": "(A) Horrible",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Informative",
+              "raw": "(B) Informative",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Boring",
+              "raw": "(C) Boring",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Useless",
+              "raw": "(D) Useless",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Chào James. Cuối cùng tôi cũng trở về từ hội thảo kinh doanh được tổ chức tại Seattle. Chuyến bay trở về bị hoãn khoảng 3 giờ do có một cơn giông bão dữ dội ở bờ biển phía tây. Thật kinh khủng. Đó là lý do tại sao tôi trở về muộn vào đêm qua.<br />\nM: Nghe có vẻ kinh khủng. Nhân tiện, hội thảo thế nào?<br />\nW: Thật tuyệt. Tôi đã học được rất nhiều từ một loạt bài giảng của các giáo sư và nhà nghiên cứu nổi tiếng. Đặc biệt, Giáo sư Brown đã nói về các chiến lược kinh doanh và phong cách lãnh đạo bằng cách đưa ra các ví dụ về GT Motors. Bài thuyết trình của ông ấy rất hữu ích đối với tôi. Tôi chắc chắn có thể nói rằng đó là hội thảo tuyệt vời nhất mà tôi từng tham dự.<br />\nM: Tôi nên ở đó với cô. À, tôi gần quên nói với cô. Tôi có một tin nhắn cho cô. Ông Jennings từ Global Tech muốn nói chuyện với cô về hợp đồng vào lúc nào đó trong tuần này. Đây là số điện thoại của ông ấy.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83073",
+          "questionNumber": 24,
+          "questionText": "What will the woman probably do next?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/37292208.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Contact Mr. Jennings",
+              "raw": "(A) Contact Mr. Jennings",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Complete the contract with GT Motors",
+              "raw": "(B) Complete the contract with GT Motors",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Attend the business seminar",
+              "raw": "(C) Attend the business seminar",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Talk about new business strategies with her boss",
+              "raw": "(D) Talk about new business strategies with her boss",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Chào James. Cuối cùng tôi cũng trở về từ hội thảo kinh doanh được tổ chức tại Seattle. Chuyến bay trở về bị hoãn khoảng 3 giờ do có một cơn giông bão dữ dội ở bờ biển phía tây. Thật kinh khủng. Đó là lý do tại sao tôi trở về muộn vào đêm qua.<br />\nM: Nghe có vẻ kinh khủng. Nhân tiện, hội thảo thế nào?<br />\nW: Thật tuyệt. Tôi đã học được rất nhiều từ một loạt bài giảng của các giáo sư và nhà nghiên cứu nổi tiếng. Đặc biệt, Giáo sư Brown đã nói về các chiến lược kinh doanh và phong cách lãnh đạo bằng cách đưa ra các ví dụ về GT Motors. Bài thuyết trình của ông ấy rất hữu ích đối với tôi. Tôi chắc chắn có thể nói rằng đó là hội thảo tuyệt vời nhất mà tôi từng tham dự.<br />\nM: Tôi nên ở đó với cô. À, tôi gần quên nói với cô. Tôi có một tin nhắn cho cô. Ông Jennings từ Global Tech muốn nói chuyện với cô về hợp đồng vào lúc nào đó trong tuần này. Đây là số điện thoại của ông ấy.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da8305a",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/63901676.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Excuse me, Betty. Can you tell me when our clients from Canada will be here this week? I&#39;ve been looking forward to seeing them, but I&#39;ve been asked to leave for Norway to attend the trade show this Saturday.<br />\nW: Oh, Brian! You don&#39;t have to worry about it. Tom in sales told me that they will arrive here next Wednesday instead of this Friday. He also said that the sales director really wants you to get involved in the negotiations with them.<br />\nM: Really? That&#39;s nice. As I&#39;m scheduled to be back next Monday, I can attend the meeting with them on Wednesday. In fact, I&#39;ve kept in touch with them since I saw them at the international marketing convention that was held in New York for the first time. I hope that I can be of assistance.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin lỗi, Betty. Cô có thể cho tôi biết khi nào khách hàng Canada của chúng ta sẽ đến công ty trong tuần này không? Tôi đã rất mong được gặp họ, nhưng tôi đã được yêu cầu phải đến Na Uy để tham dự hội chợ thương mại vào thứ Bảy tuần này.<br />\nW: Ồ, Brian! Anh không cần phải lo lắng về điều đó. Tom ở bộ phận bán hàng đã nói với tôi rằng họ sẽ đến đây vào thứ Tư tuần sau thay vì thứ Sáu tuần này. Anh ấy cũng nói rằng giám đốc bán hàng thực sự muốn anh tham gia vào các cuộc đàm phán cùng khách hàng.<br />\nM: Thật sao? Thật tuyệt. Vì tôi dự kiến sẽ quay lại vào thứ Hai tuần sau, nên tôi có thể tham dự cuộc họp với khách hàng vào thứ Tư. Trên thực tế, tôi đã giữ liên lạc với họ kể từ khi tôi gặp họ trong hội nghị tiếp thị quốc tế được tổ chức tại New York lần đầu tiên. Tôi hy vọng rằng tôi có thể giúp ích được cho cuộc đàm phán.</p>\n",
+      "questions": [
+        {
+          "id": "62ff42145948b5402da83074",
+          "questionNumber": 25,
+          "questionText": "What are the speakers discussing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/63901676.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The trip to Canada",
+              "raw": "(A) The trip to Canada",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Attending the marketing convention",
+              "raw": "(B) Attending the marketing convention",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "The goal of the trade show",
+              "raw": "(C) The goal of the trade show",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Meeting with customers",
+              "raw": "(D) Meeting with customers",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin lỗi, Betty. Cô có thể cho tôi biết khi nào khách hàng Canada của chúng ta sẽ đến công ty trong tuần này không? Tôi đã rất mong được gặp họ, nhưng tôi đã được yêu cầu phải đến Na Uy để tham dự hội chợ thương mại vào thứ Bảy tuần này.<br />\nW: Ồ, Brian! Anh không cần phải lo lắng về điều đó. Tom ở bộ phận bán hàng đã nói với tôi rằng họ sẽ đến đây vào thứ Tư tuần sau thay vì thứ Sáu tuần này. Anh ấy cũng nói rằng giám đốc bán hàng thực sự muốn anh tham gia vào các cuộc đàm phán cùng khách hàng.<br />\nM: Thật sao? Thật tuyệt. Vì tôi dự kiến sẽ quay lại vào thứ Hai tuần sau, nên tôi có thể tham dự cuộc họp với khách hàng vào thứ Tư. Trên thực tế, tôi đã giữ liên lạc với họ kể từ khi tôi gặp họ trong hội nghị tiếp thị quốc tế được tổ chức tại New York lần đầu tiên. Tôi hy vọng rằng tôi có thể giúp ích được cho cuộc đàm phán.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83075",
+          "questionNumber": 26,
+          "questionText": "When will the trade show be held?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/63901676.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "On Monday",
+              "raw": "(A) On Monday",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "On Wednesday",
+              "raw": "(B) On Wednesday",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "On Friday",
+              "raw": "(C) On Friday",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "On Saturday",
+              "raw": "(D) On Saturday",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin lỗi, Betty. Cô có thể cho tôi biết khi nào khách hàng Canada của chúng ta sẽ đến công ty trong tuần này không? Tôi đã rất mong được gặp họ, nhưng tôi đã được yêu cầu phải đến Na Uy để tham dự hội chợ thương mại vào thứ Bảy tuần này.<br />\nW: Ồ, Brian! Anh không cần phải lo lắng về điều đó. Tom ở bộ phận bán hàng đã nói với tôi rằng họ sẽ đến đây vào thứ Tư tuần sau thay vì thứ Sáu tuần này. Anh ấy cũng nói rằng giám đốc bán hàng thực sự muốn anh tham gia vào các cuộc đàm phán cùng khách hàng.<br />\nM: Thật sao? Thật tuyệt. Vì tôi dự kiến sẽ quay lại vào thứ Hai tuần sau, nên tôi có thể tham dự cuộc họp với khách hàng vào thứ Tư. Trên thực tế, tôi đã giữ liên lạc với họ kể từ khi tôi gặp họ trong hội nghị tiếp thị quốc tế được tổ chức tại New York lần đầu tiên. Tôi hy vọng rằng tôi có thể giúp ích được cho cuộc đàm phán.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83076",
+          "questionNumber": 27,
+          "questionText": "How did the man know the Canadian customers?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/63901676.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He met them at the conference.",
+              "raw": "(A) He met them at the conference.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "He went to college in Canada.",
+              "raw": "(B) He went to college in Canada.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "He participated in the last negotiation with them.",
+              "raw": "(C) He participated in the last negotiation with them.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He worked with them in Norway.",
+              "raw": "(D) He worked with them in Norway. ",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin lỗi, Betty. Cô có thể cho tôi biết khi nào khách hàng Canada của chúng ta sẽ đến công ty trong tuần này không? Tôi đã rất mong được gặp họ, nhưng tôi đã được yêu cầu phải đến Na Uy để tham dự hội chợ thương mại vào thứ Bảy tuần này.<br />\nW: Ồ, Brian! Anh không cần phải lo lắng về điều đó. Tom ở bộ phận bán hàng đã nói với tôi rằng họ sẽ đến đây vào thứ Tư tuần sau thay vì thứ Sáu tuần này. Anh ấy cũng nói rằng giám đốc bán hàng thực sự muốn anh tham gia vào các cuộc đàm phán cùng khách hàng.<br />\nM: Thật sao? Thật tuyệt. Vì tôi dự kiến sẽ quay lại vào thứ Hai tuần sau, nên tôi có thể tham dự cuộc họp với khách hàng vào thứ Tư. Trên thực tế, tôi đã giữ liên lạc với họ kể từ khi tôi gặp họ trong hội nghị tiếp thị quốc tế được tổ chức tại New York lần đầu tiên. Tôi hy vọng rằng tôi có thể giúp ích được cho cuộc đàm phán.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62ff42135948b5402da8305b",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/85856213.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Wow, this is a fantastic picture of the waterfall. Did you purchase it as a souvenir during your trip to the Rocky Mountains?<br />\nW: No, I took a picture of it myself. I love taking photos of great scenery such as seashore and mountains. It&#39;s been my favorite pastime for decades.<br />\nM: I thought the picture was taken by a professional photographer. I guess you are gifted.<br />\nW: I&#39;m so flattered. To be honest, I took some classes when I was in college. I do have more pictures from this trip. Do you want to see them?</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Wow, thật là bức ảnh thác nước tuyệt đẹp. Cô đã mua nó như quà lưu niệm trong chuyến đi đến dãy núi Rocky à?<br />\nW: Không, tôi tự chụp nó. Tôi thích chụp ảnh những phong cảnh tuyệt đẹp như bờ biển và núi non. Đó là thú vui yêu thích của tôi trong nhiều suất thập kỷ.<br />\nM: Tôi cứ nghĩ bức ảnh này được chụp bởi một nhiếp ảnh gia chuyên nghiệp đấy. Tôi đoán là cô rất có năng khiếu.<br />\nW: Cảm ơn lời khen của anh. Thành thật mà nói, tôi đã học một số lớp nhiếp ảnh khi còn học đại học. Tôi còn có nhiều ảnh khác nữa trong chuyến đi này. Anh có muốn xem chúng không?</p>\n",
+      "questions": [
+        {
+          "id": "62ff42145948b5402da83077",
+          "questionNumber": 28,
+          "questionText": "What are the speakers talking about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/85856213.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The marvelous canyon in the Rocky Mountains",
+              "raw": "(A) The marvelous canyon in the Rocky Mountains",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Souvenirs they bought at the mountain",
+              "raw": "(B) Souvenirs they bought at the mountain",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "An activity that the woman enjoys doing in her spare time",
+              "raw": "(C) An activity that the woman enjoys doing in her spare time",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "The computer courses that the man took in college",
+              "raw": "(D) The computer courses that the man took in college",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Wow, thật là bức ảnh thác nước tuyệt đẹp. Cô đã mua nó như quà lưu niệm trong chuyến đi đến dãy núi Rocky à?<br />\nW: Không, tôi tự chụp nó. Tôi thích chụp ảnh những phong cảnh tuyệt đẹp như bờ biển và núi non. Đó là thú vui yêu thích của tôi trong nhiều suất thập kỷ.<br />\nM: Tôi cứ nghĩ bức ảnh này được chụp bởi một nhiếp ảnh gia chuyên nghiệp đấy. Tôi đoán là cô rất có năng khiếu.<br />\nW: Cảm ơn lời khen của anh. Thành thật mà nói, tôi đã học một số lớp nhiếp ảnh khi còn học đại học. Tôi còn có nhiều ảnh khác nữa trong chuyến đi này. Anh có muốn xem chúng không?</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83078",
+          "questionNumber": 29,
+          "questionText": "What is said about the woman?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/85856213.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She takes pictures for a living.",
+              "raw": "(A) She takes pictures for a living.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "She bought a photo as a souvenir.",
+              "raw": "(B) She bought a photo as a souvenir.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She went to the waterfall during the trip.",
+              "raw": "(C) She went to the waterfall during the trip.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "She believes she is so talented.",
+              "raw": "(D) She believes she is so talented.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Wow, thật là bức ảnh thác nước tuyệt đẹp. Cô đã mua nó như quà lưu niệm trong chuyến đi đến dãy núi Rocky à?<br />\nW: Không, tôi tự chụp nó. Tôi thích chụp ảnh những phong cảnh tuyệt đẹp như bờ biển và núi non. Đó là thú vui yêu thích của tôi trong nhiều suất thập kỷ.<br />\nM: Tôi cứ nghĩ bức ảnh này được chụp bởi một nhiếp ảnh gia chuyên nghiệp đấy. Tôi đoán là cô rất có năng khiếu.<br />\nW: Cảm ơn lời khen của anh. Thành thật mà nói, tôi đã học một số lớp nhiếp ảnh khi còn học đại học. Tôi còn có nhiều ảnh khác nữa trong chuyến đi này. Anh có muốn xem chúng không?</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62ff42145948b5402da83079",
+          "questionNumber": 30,
+          "questionText": "What will the speakers probably do next?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/85856213.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Look at more photos",
+              "raw": "(A) Look at more photos",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Go on a trip overseas",
+              "raw": "(B) Go on a trip overseas",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Co-host this photo exhibition",
+              "raw": "(C) Co-host this photo exhibition",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Take some courses",
+              "raw": "(D) Take some courses",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Wow, thật là bức ảnh thác nước tuyệt đẹp. Cô đã mua nó như quà lưu niệm trong chuyến đi đến dãy núi Rocky à?<br />\nW: Không, tôi tự chụp nó. Tôi thích chụp ảnh những phong cảnh tuyệt đẹp như bờ biển và núi non. Đó là thú vui yêu thích của tôi trong nhiều suất thập kỷ.<br />\nM: Tôi cứ nghĩ bức ảnh này được chụp bởi một nhiếp ảnh gia chuyên nghiệp đấy. Tôi đoán là cô rất có năng khiếu.<br />\nW: Cảm ơn lời khen của anh. Thành thật mà nói, tôi đã học một số lớp nhiếp ảnh khi còn học đại học. Tôi còn có nhiều ảnh khác nữa trong chuyến đi này. Anh có muốn xem chúng không?</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630492025948b5402da831d2",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/34003827.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Hi, Cathy. Have you seen Linda, our new computer technician? I was told she was transferred from our London branch.<br />\nW: No, I didn&rsquo;t see her, Kyle. But Jeff said she is still in the training program at our headquarters located in New York. She won&rsquo;t start working with us until next Tuesday.<br />\nM: Oh, I can&rsquo;t wait to see her. We have been understaffed since Ted retired last month. I&rsquo;m sure that she will be a big help to our team.<br />\nW: That&rsquo;s right. I&rsquo;m supposed to pick her up at the airport on Tuesday. I&rsquo;ll introduce her to you as soon as she gets to our office.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Chào Cathy. Cô có thấy Linda, kỹ thuật viên máy tính mới của chúng tôi không? Tôi nghe nói cô ấy được chuyển từ chi nhánh London của chúng ta.<br />\nW: Không, tôi không thấy cô ấy, Kyle. Nhưng Jeff nói cô ấy vẫn đang trong chương trình đào tạo tại trụ sở chính ở New York. Cô ấy sẽ bắt đầu làm việc với chúng ta từ sau thứ Ba tuần tới.<br />\nM: Ồ, tôi không thể chờ để gặp cô ấy. Chúng tôi đã thiếu nhân sự kể từ khi Ted nghỉ hưu vào tháng trước. Tôi chắc chắn rằng cô ấy sẽ giúp ích rất nhiều cho phòng của chúng tôi.<br />\nW: Đúng vậy. Tôi phải đón cô ấy ở sân bay vào thứ Ba. Tôi sẽ giới thiệu cô ấy với anh ngay khi cô ấy đến văn phòng.</p>\n",
+      "questions": [
+        {
+          "id": "630492035948b5402da831dc",
+          "questionNumber": 31,
+          "questionText": "Who are the speakers talking about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/34003827.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A trainer",
+              "raw": "(A) A trainer",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A team leader",
+              "raw": "(B) A team leader",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A retiree",
+              "raw": "(C) A retiree",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A new co-worker",
+              "raw": "(D) A new co-worker",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Chào Cathy. Cô có thấy Linda, kỹ thuật viên máy tính mới của chúng tôi không? Tôi nghe nói cô ấy được chuyển từ chi nhánh London của chúng ta.<br />\nW: Không, tôi không thấy cô ấy, Kyle. Nhưng Jeff nói cô ấy vẫn đang trong chương trình đào tạo tại trụ sở chính ở New York. Cô ấy sẽ bắt đầu làm việc với chúng ta từ sau thứ Ba tuần tới.<br />\nM: Ồ, tôi không thể chờ để gặp cô ấy. Chúng tôi đã thiếu nhân sự kể từ khi Ted nghỉ hưu vào tháng trước. Tôi chắc chắn rằng cô ấy sẽ giúp ích rất nhiều cho phòng của chúng tôi.<br />\nW: Đúng vậy. Tôi phải đón cô ấy ở sân bay vào thứ Ba. Tôi sẽ giới thiệu cô ấy với anh ngay khi cô ấy đến văn phòng.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630492035948b5402da831dd",
+          "questionNumber": 32,
+          "questionText": "Where most likely is Linda now?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/34003827.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "London",
+              "raw": "(A) London",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "New York",
+              "raw": "(B) New York",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Toronto",
+              "raw": "(C) Toronto",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "L.A.",
+              "raw": "(D) L.A.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Chào Cathy. Cô có thấy Linda, kỹ thuật viên máy tính mới của chúng tôi không? Tôi nghe nói cô ấy được chuyển từ chi nhánh London của chúng ta.<br />\nW: Không, tôi không thấy cô ấy, Kyle. Nhưng Jeff nói cô ấy vẫn đang trong chương trình đào tạo tại trụ sở chính ở New York. Cô ấy sẽ bắt đầu làm việc với chúng ta từ sau thứ Ba tuần tới.<br />\nM: Ồ, tôi không thể chờ để gặp cô ấy. Chúng tôi đã thiếu nhân sự kể từ khi Ted nghỉ hưu vào tháng trước. Tôi chắc chắn rằng cô ấy sẽ giúp ích rất nhiều cho phòng của chúng tôi.<br />\nW: Đúng vậy. Tôi phải đón cô ấy ở sân bay vào thứ Ba. Tôi sẽ giới thiệu cô ấy với anh ngay khi cô ấy đến văn phòng.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630492035948b5402da831de",
+          "questionNumber": 33,
+          "questionText": "What does Cathy say she will do on Tuesday?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/34003827.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Participate in the training",
+              "raw": "(A) Participate in the training",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Give Linda a ride",
+              "raw": "(B) Give Linda a ride",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Go to the headquarters",
+              "raw": "(C) Go to the headquarters",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Transfer to London",
+              "raw": "(D) Transfer to London",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Chào Cathy. Cô có thấy Linda, kỹ thuật viên máy tính mới của chúng tôi không? Tôi nghe nói cô ấy được chuyển từ chi nhánh London của chúng ta.<br />\nW: Không, tôi không thấy cô ấy, Kyle. Nhưng Jeff nói cô ấy vẫn đang trong chương trình đào tạo tại trụ sở chính ở New York. Cô ấy sẽ bắt đầu làm việc với chúng ta từ sau thứ Ba tuần tới.<br />\nM: Ồ, tôi không thể chờ để gặp cô ấy. Chúng tôi đã thiếu nhân sự kể từ khi Ted nghỉ hưu vào tháng trước. Tôi chắc chắn rằng cô ấy sẽ giúp ích rất nhiều cho phòng của chúng tôi.<br />\nW: Đúng vậy. Tôi phải đón cô ấy ở sân bay vào thứ Ba. Tôi sẽ giới thiệu cô ấy với anh ngay khi cô ấy đến văn phòng.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630492025948b5402da831d3",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/59848749.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: Tom, I was relocated to our Seattle branch office last week. But there are not enough chairs we can use. Do you happen to know a good place to buy them at a reasonable price?<br />\nM: There is an office furniture store on fifth street. It&rsquo;s situated between the central bus station and Keiko gas station. It&rsquo;s called &ldquo;Super Office furniture.&rdquo; It offers a wide variety of quality office chairs. You won&rsquo;t be disappointed. As it closes at 6, you need to hurry if you want to buy one today.<br />\nW: I think I should leave now. There&rsquo;s just 30 minutes left before it closes. As I&rsquo;m not familiar with the area, I&rsquo;d better take a taxi.<br />\nM: You don&rsquo;t have to, Jane. It is just a 10-minute walk from here. Follow me and I can walk you there.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Tom, tuần trước tôi đã chuyển đến chi nhánh Seattle của công ty. Nhưng không có đủ ghế để chúng tôi sử dụng. Anh có biết một nơi nào đó để mua ghế với giá cả phải chăng không?<br />\nM: Có một cửa hàng đồ nội thất văn phòng trên phố Fifth. Nó nằm giữa bến xe buýt trung tâm và trạm xăng Keiko. Tên nó là Super Office furniture và cung cấp nhiều loại ghế văn phòng chất lượng. Cô sẽ không thất vọng đâu. Vì của hàng đó đóng cửa lúc 6 giờ, cô cần phải nhanh chân nếu muốn mua một chiếc vào hôm nay.<br />\nW: Tôi nghĩ tôi nên đi ngay bây giờ. Chỉ còn 30 phút nữa là đóng cửa rồi. Vì tôi không quen thuộc với khu vực này, tốt hơn là tôi nên đi taxi.<br />\nM: Cô không cần phải bắt taxi đâu, Jane. Cửa hàng đó chỉ cách đây 10 phút đi bộ. Đi theo tôi và tôi có thể đưa cô đến đó.</p>\n",
+      "questions": [
+        {
+          "id": "630492035948b5402da831df",
+          "questionNumber": 34,
+          "questionText": "What time is the conversation taking place?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/59848749.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "5:10 p.m.",
+              "raw": "(A) 5:10 p.m.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "5:30 p.m.",
+              "raw": "(B) 5:30 p.m.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "6:00 p.m.",
+              "raw": "(C) 6:00 p.m.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "6:10 p.m.",
+              "raw": "(D) 6:10 p.m.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Tom, tuần trước tôi đã chuyển đến chi nhánh Seattle của công ty. Nhưng không có đủ ghế để chúng tôi sử dụng. Anh có biết một nơi nào đó để mua ghế với giá cả phải chăng không?<br />\nM: Có một cửa hàng đồ nội thất văn phòng trên phố Fifth. Nó nằm giữa bến xe buýt trung tâm và trạm xăng Keiko. Tên nó là Super Office furniture và cung cấp nhiều loại ghế văn phòng chất lượng. Cô sẽ không thất vọng đâu. Vì của hàng đó đóng cửa lúc 6 giờ, cô cần phải nhanh chân nếu muốn mua một chiếc vào hôm nay.<br />\nW: Tôi nghĩ tôi nên đi ngay bây giờ. Chỉ còn 30 phút nữa là đóng cửa rồi. Vì tôi không quen thuộc với khu vực này, tốt hơn là tôi nên đi taxi.<br />\nM: Cô không cần phải bắt taxi đâu, Jane. Cửa hàng đó chỉ cách đây 10 phút đi bộ. Đi theo tôi và tôi có thể đưa cô đến đó.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630492035948b5402da831e0",
+          "questionNumber": 35,
+          "questionText": "Why should Jane leave now?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/59848749.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The shop will close soon.",
+              "raw": "(A) The shop will close soon.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "The bus departs in 10 minutes.",
+              "raw": "(B) The bus departs in 10 minutes.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She has to return chairs.",
+              "raw": "(C) She has to return chairs.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She needs to be familiar with the downtown area.",
+              "raw": "(D) She needs to be familiar with the downtown area.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Tom, tuần trước tôi đã chuyển đến chi nhánh Seattle của công ty. Nhưng không có đủ ghế để chúng tôi sử dụng. Anh có biết một nơi nào đó để mua ghế với giá cả phải chăng không?<br />\nM: Có một cửa hàng đồ nội thất văn phòng trên phố Fifth. Nó nằm giữa bến xe buýt trung tâm và trạm xăng Keiko. Tên nó là Super Office furniture và cung cấp nhiều loại ghế văn phòng chất lượng. Cô sẽ không thất vọng đâu. Vì của hàng đó đóng cửa lúc 6 giờ, cô cần phải nhanh chân nếu muốn mua một chiếc vào hôm nay.<br />\nW: Tôi nghĩ tôi nên đi ngay bây giờ. Chỉ còn 30 phút nữa là đóng cửa rồi. Vì tôi không quen thuộc với khu vực này, tốt hơn là tôi nên đi taxi.<br />\nM: Cô không cần phải bắt taxi đâu, Jane. Cửa hàng đó chỉ cách đây 10 phút đi bộ. Đi theo tôi và tôi có thể đưa cô đến đó.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630492035948b5402da831e1",
+          "questionNumber": 36,
+          "questionText": "How will the woman get to the shop?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/59848749.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "By bus",
+              "raw": "(A) By bus",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "By subway",
+              "raw": "(B) By subway",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "On foot",
+              "raw": "(C) On foot",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "By car",
+              "raw": "(D) By car",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Tom, tuần trước tôi đã chuyển đến chi nhánh Seattle của công ty. Nhưng không có đủ ghế để chúng tôi sử dụng. Anh có biết một nơi nào đó để mua ghế với giá cả phải chăng không?<br />\nM: Có một cửa hàng đồ nội thất văn phòng trên phố Fifth. Nó nằm giữa bến xe buýt trung tâm và trạm xăng Keiko. Tên nó là Super Office furniture và cung cấp nhiều loại ghế văn phòng chất lượng. Cô sẽ không thất vọng đâu. Vì của hàng đó đóng cửa lúc 6 giờ, cô cần phải nhanh chân nếu muốn mua một chiếc vào hôm nay.<br />\nW: Tôi nghĩ tôi nên đi ngay bây giờ. Chỉ còn 30 phút nữa là đóng cửa rồi. Vì tôi không quen thuộc với khu vực này, tốt hơn là tôi nên đi taxi.<br />\nM: Cô không cần phải bắt taxi đâu, Jane. Cửa hàng đó chỉ cách đây 10 phút đi bộ. Đi theo tôi và tôi có thể đưa cô đến đó.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630492025948b5402da831d4",
+      "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/22232707.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: I don&rsquo;t understand why the shuttle bus isn&rsquo;t here yet. It&rsquo;s already 2:20. I really don&rsquo;t want to miss the first part of the World Trade Convention.<br />\nM: Neither do I. I heard the opening ceremony is pretty much a &lsquo;must-see&rsquo; for everyone. Also, Ms. Watson&rsquo;s opening address is something that I don&rsquo;t want to miss. That&rsquo;s why I want to be there in time.<br />\nW: According to the bus schedule, it should have been here 20 minutes ago. I guess it bypassed this stop. The opening ceremony commences at 3 p.m. Let us hurry or we&rsquo;ll be late. Why don&rsquo;t we take a taxi?<br />\nM: That&rsquo;s a good idea. Wait a moment. Let me go back to the front desk and ask them to call a taxi for us.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Tôi không hiểu tại sao xe buýt đưa đón vẫn chưa đến. Đã 2:20 rồi. Tôi thực sự không muốn bỏ lỡ phần đầu tiên của Hội nghị Thương mại Thế giới.<br />\nM: Tôi cũng không muốn bỏ lỡ. Nghe nói lễ khai mạc là sự rất đáng xem đối với bất kỳ ai. Ngoài ra, bài phát biểu khai mạc của cô Watson cũng là điều tôi không muốn bỏ lỡ. Đó là lý do tại sao tôi muốn đến đó đúng giờ.<br />\nW: Theo lịch trình xe buýt, xe buýt phải đến đây cách đây 20 phút. Tôi đoán là xe buýt đã bỏ qua điểm dừng này. Lễ khai mạc bắt đầu lúc 3 giờ chiều. Chúng ta hãy nhanh lên nếu không chúng ta sẽ đến muộn. Hay là chúng ta đi taxi nhé?<br />\nM: Ý kiến hay đấy. Đợi một lát. Để tôi quay lại quầy lễ tân và yêu cầu họ gọi taxi cho chúng ta.</p>\n",
+      "questions": [
+        {
+          "id": "630492035948b5402da831e2",
+          "questionNumber": 37,
+          "questionText": "Where is the conversation taking place?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/22232707.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At a bus stop",
+              "raw": "(A) At a bus stop",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "At a taxi stand",
+              "raw": "(B) At a taxi stand",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At the front desk",
+              "raw": "(C) At the front desk",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "At the convention center",
+              "raw": "(D) At the convention center",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Tôi không hiểu tại sao xe buýt đưa đón vẫn chưa đến. Đã 2:20 rồi. Tôi thực sự không muốn bỏ lỡ phần đầu tiên của Hội nghị Thương mại Thế giới.<br />\nM: Tôi cũng không muốn bỏ lỡ. Nghe nói lễ khai mạc là sự rất đáng xem đối với bất kỳ ai. Ngoài ra, bài phát biểu khai mạc của cô Watson cũng là điều tôi không muốn bỏ lỡ. Đó là lý do tại sao tôi muốn đến đó đúng giờ.<br />\nW: Theo lịch trình xe buýt, xe buýt phải đến đây cách đây 20 phút. Tôi đoán là xe buýt đã bỏ qua điểm dừng này. Lễ khai mạc bắt đầu lúc 3 giờ chiều. Chúng ta hãy nhanh lên nếu không chúng ta sẽ đến muộn. Hay là chúng ta đi taxi nhé?<br />\nM: Ý kiến hay đấy. Đợi một lát. Để tôi quay lại quầy lễ tân và yêu cầu họ gọi taxi cho chúng ta.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630492035948b5402da831e3",
+          "questionNumber": 38,
+          "questionText": "According to the conversation, what time is the event scheduled to begin?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/22232707.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "In 20 minutes",
+              "raw": "(A) In 20 minutes",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "In 30 minutes",
+              "raw": "(B) In 30 minutes",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "In 40 minutes",
+              "raw": "(C) In 40 minutes",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "In 60 minutes",
+              "raw": "(D) In 60 minutes",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Tôi không hiểu tại sao xe buýt đưa đón vẫn chưa đến. Đã 2:20 rồi. Tôi thực sự không muốn bỏ lỡ phần đầu tiên của Hội nghị Thương mại Thế giới.<br />\nM: Tôi cũng không muốn bỏ lỡ. Nghe nói lễ khai mạc là sự rất đáng xem đối với bất kỳ ai. Ngoài ra, bài phát biểu khai mạc của cô Watson cũng là điều tôi không muốn bỏ lỡ. Đó là lý do tại sao tôi muốn đến đó đúng giờ.<br />\nW: Theo lịch trình xe buýt, xe buýt phải đến đây cách đây 20 phút. Tôi đoán là xe buýt đã bỏ qua điểm dừng này. Lễ khai mạc bắt đầu lúc 3 giờ chiều. Chúng ta hãy nhanh lên nếu không chúng ta sẽ đến muộn. Hay là chúng ta đi taxi nhé?<br />\nM: Ý kiến hay đấy. Đợi một lát. Để tôi quay lại quầy lễ tân và yêu cầu họ gọi taxi cho chúng ta.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630492035948b5402da831e4",
+          "questionNumber": 39,
+          "questionText": "How will the speakers probably get to the venue?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/toeic/2024/10/10/22232707.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "By bus",
+              "raw": "(A) By bus",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "By subway",
+              "raw": "(B) By subway",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "By cab",
+              "raw": "(C) By cab",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "On foot",
+              "raw": "(D) On foot",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Tôi không hiểu tại sao xe buýt đưa đón vẫn chưa đến. Đã 2:20 rồi. Tôi thực sự không muốn bỏ lỡ phần đầu tiên của Hội nghị Thương mại Thế giới.<br />\nM: Tôi cũng không muốn bỏ lỡ. Nghe nói lễ khai mạc là sự rất đáng xem đối với bất kỳ ai. Ngoài ra, bài phát biểu khai mạc của cô Watson cũng là điều tôi không muốn bỏ lỡ. Đó là lý do tại sao tôi muốn đến đó đúng giờ.<br />\nW: Theo lịch trình xe buýt, xe buýt phải đến đây cách đây 20 phút. Tôi đoán là xe buýt đã bỏ qua điểm dừng này. Lễ khai mạc bắt đầu lúc 3 giờ chiều. Chúng ta hãy nhanh lên nếu không chúng ta sẽ đến muộn. Hay là chúng ta đi taxi nhé?<br />\nM: Ý kiến hay đấy. Đợi một lát. Để tôi quay lại quầy lễ tân và yêu cầu họ gọi taxi cho chúng ta.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    }
+  ]
+}

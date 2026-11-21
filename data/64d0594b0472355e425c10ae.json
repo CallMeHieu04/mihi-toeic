@@ -1,0 +1,644 @@
+{
+  "topicId": "64d0594b0472355e425c10ae",
+  "title": "Part 6: Text Completion - Test 22",
+  "totalCards": 4,
+  "totalQuestions": 16,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "64d05d760472355e425c21c0",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<p><strong>refer to the following letter.</strong><br>Daniel Vance<br>1749 Oxford Court<br>Tulsa, OK 74106<br>January 7<br>Dear Mr. Vance,<br>I’m writing regarding your recent order of a Montclair stereo system, which was supposed to be delivered on December 20 but did not arrive until January 2. We are very sorry that this item <strong>(1) ______</strong>. We agree that you are entitled to compensation due to the <strong>(2) ______</strong>. Firstly, we will refund all shipping charges for this merchandise.<br>We will also credit your account in the amount of $50 to help make up for any issues that resulted <strong>(3) ______</strong> our error. <strong>(4) _____</strong>. The credit will be posted on your account by January 15.</p>",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "64d05d760472355e425c21c4",
+          "questionNumber": 1,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "had to delay",
+              "raw": "(A) had to delay",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "will be delayed",
+              "raw": "(B) will be delayed",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "is delaying",
+              "raw": "(C) is delaying",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "was delayed",
+              "raw": "(D) was delayed",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>The sentence is in the past simple tense (Signal: ...<em>which <strong>was </strong>supposed to be delivered on December 20 but <strong>did not </strong>arrive until January 2.</em>)</p>\n\n<p>=&gt; Either A or D is correct</p>\n\n<p>The sentence is in the passive voice.</p>\n\n<p><strong>=&gt; D is correct</strong></p>\n",
+          "explanationViHtml": "<p>Câu ở thì quá khứ đơn (Dấu hiệu: ...<em>which&nbsp;<strong>was&nbsp;</strong>supposed to be delivered on December 20 but&nbsp;<strong>did not&nbsp;</strong>arrive until January 2.</em>)</p>\n<p>=&gt;Loại B, C</p>\n<p>Câu cần chia ở thể bị động.</p>\n<p><strong>=&gt; Chọn D</strong></p>",
+          "transcriptHtml": "<p>The sentence is in the past simple tense (Signal: ...<em>which <strong>was </strong>supposed to be delivered on December 20 but <strong>did not </strong>arrive until January 2.</em>)</p>\n\n<p>=&gt; Either A or D is correct</p>\n\n<p>The sentence is in the passive voice.</p>\n\n<p><strong>=&gt; D is correct</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21c5",
+          "questionNumber": 2,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "absence",
+              "raw": "(A) absence",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "disadvantage",
+              "raw": "(B) disadvantage",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "inconvenience",
+              "raw": "(C) inconvenience",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "shortage",
+              "raw": "(D) shortage\t",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>absence:&nbsp;the fact of somebody being away from a place where they are usually expected to be; the occasion or period of time when somebody is away</p>\n\n<p>disadvantage:&nbsp;a condition or situation that causes problems, especially one that causes something or someone to be less successful than other things or people</p>\n\n<p>inconvenience:&nbsp;a state or an example of problems or trouble, often causing a delay or loss of comfort</p>\n\n<p>shortage:&nbsp;a situation in which there is not enough of something</p>\n\n<p>=&gt; \"inconvenience\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n",
+          "explanationViHtml": "<p>absence: sự vắng mặt</p>\n<p>disadvantage: điều bất lợi</p>\n<p>inconvenience: Sự bất tiện</p>\n<p>shortage: sự thiếu sót</p>\n<p>Dựa trên nghĩa của từ <strong>=&gt; Chọn C</strong></p>\n<p><strong>Tạm dịch: </strong>Chúng tôi đồng ý rằng bạn có quyền được bồi thường do sự bất tiện này.</p>",
+          "transcriptHtml": "<p>absence:&nbsp;the fact of somebody being away from a place where they are usually expected to be; the occasion or period of time when somebody is away</p>\n\n<p>disadvantage:&nbsp;a condition or situation that causes problems, especially one that causes something or someone to be less successful than other things or people</p>\n\n<p>inconvenience:&nbsp;a state or an example of problems or trouble, often causing a delay or loss of comfort</p>\n\n<p>shortage:&nbsp;a situation in which there is not enough of something</p>\n\n<p>=&gt; \"inconvenience\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21c6",
+          "questionNumber": 3,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "from",
+              "raw": "(A) from",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "onto",
+              "raw": "(B) onto",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "among",
+              "raw": "(C) among",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "until",
+              "raw": "(D) until",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "<p>result from:&nbsp;to emerge from something; to be the outcome of something</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+          "explanationViHtml": "<p>result from: xuất phát từ (nguyên nhân)</p>\n<p><strong>Tạm dịch:</strong> Chúng tôi cũng sẽ ghi có vào tài khoản của bạn số tiền 50 USD để giúp bù đắp mọi vấn đề phát sinh từ lỗi của chúng tôi.</p>\n<p><strong>=&gt; Chọn A</strong></p>",
+          "transcriptHtml": "<p>result from:&nbsp;to emerge from something; to be the outcome of something</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21c7",
+          "questionNumber": 4,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Our warehouse team will check for the item.",
+              "raw": "(A) Our warehouse team will check for the item.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The sale will run for as long as supplies last.",
+              "raw": "(B) The sale will run for as long as supplies last.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "We hope you will be satisfied with this proposal.",
+              "raw": "(C) We hope you will be satisfied with this proposal.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Both payments are printed on last month’s statement.",
+              "raw": "(D) Both payments are printed on last month’s statement.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p><strong>C is correct </strong>because it can connect with the sentence <em>\"We will also credit your account in the amount of $50 to help make up for any issues that resulted from our error.\"</em></p>\n\n<p><em>\"This&nbsp;proposal\" </em>refers to <em>\"We will also credit your account in the amount of $50\"</em></p>\n",
+          "explanationViHtml": "<p><strong>C đ&uacute;ng</strong> v&igrave; n&oacute; c&oacute; thể kết nối với c&acirc;u <em>&quot;We will also credit your account in the amount of $50 to help make up for any issues that resulted from our error.&quot;</em></p>\n\n<p><em>&quot;This&nbsp;proposal&quot;&nbsp; =&gt;</em>&nbsp;<em>&quot;We will also credit your account in the amount of $50&quot;</em></p>\n\n<p><strong>Tạm dịch:&nbsp;</strong>Ch&uacute;ng t&ocirc;i cũng sẽ ghi c&oacute; v&agrave;o t&agrave;i khoản của bạn số tiền 50 USD để gi&uacute;p b&ugrave; đắp mọi vấn đề ph&aacute;t sinh từ lỗi của ch&uacute;ng t&ocirc;i. Ch&uacute;ng t&ocirc;i hy vọng bạn sẽ h&agrave;i l&ograve;ng với đề xuất n&agrave;y.</p>\n",
+          "transcriptHtml": "<p><strong>C is correct </strong>because it can connect with the sentence <em>\"We will also credit your account in the amount of $50 to help make up for any issues that resulted from our error.\"</em></p>\n\n<p><em>\"This&nbsp;proposal\" </em>refers to <em>\"We will also credit your account in the amount of $50\"</em></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64d05d760472355e425c21c1",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<p><strong>refer to the following article.</strong><br>Jobs Report Released<br>January 3<br>Figures gathered by the city’s Department of Labor indicate that the employment rate is up in Lawton. <strong>(5)_____</strong>, the city is at an all-time low for unemployment. This is partially thanks to the opening of the Marquette manufacturing facility six months ago. The factory, which employs nearly 150 people, uses laser cutters to fashion custom-made components out of <strong>(6) ______</strong> such as wood, metal, and plastic. <strong>(7)_____. </strong>Therefore, new jobs become available regularly. City officials <strong>(8) _____</strong> the upturn in the manufacturing sector<strong> </strong>will lead to growth in other local businesses as well.</p>",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "64d05d760472355e425c21c8",
+          "questionNumber": 5,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Otherwise",
+              "raw": "(A) Otherwise",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "In fact",
+              "raw": "(B) In fact",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Nonetheless",
+              "raw": "(C) Nonetheless",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "On the contrary",
+              "raw": "(D) On the contrary",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>Otherwise:&nbsp;used after an order or suggestion to show what the result will be if you do not follow that order or suggestion</p>\n\n<p>In fact:&nbsp; actually</p>\n\n<p>Nonetheless:&nbsp;despite what has just been said or done</p>\n\n<p>On the contrary:&nbsp;used to show that you think or feel the opposite of what has just been stated</p>\n\n<p>=&gt; \"In fact\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>Otherwise: nếu không thì</p>\n<p>In fact:&nbsp; Thực tế là</p>\n<p>Nonetheless: Tuy nhiên</p>\n<p>On the contrary: Trái lại</p>\n<p>Dựa vào nghĩa của câu <strong>=&gt; Chọn B</strong></p>\n<p><strong>Tạm dịch:&nbsp;</strong>Số liệu do Sở Lao động thành phố thu thập cho thấy tỷ lệ việc làm ở Lawton đã tăng lên. <strong>Trên thực tế</strong>, thành phố đang ở mức thất nghiệp thấp nhất mọi thời đại.</p>",
+          "transcriptHtml": "<p>Otherwise:&nbsp;used after an order or suggestion to show what the result will be if you do not follow that order or suggestion</p>\n\n<p>In fact:&nbsp; actually</p>\n\n<p>Nonetheless:&nbsp;despite what has just been said or done</p>\n\n<p>On the contrary:&nbsp;used to show that you think or feel the opposite of what has just been stated</p>\n\n<p>=&gt; \"In fact\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21c9",
+          "questionNumber": 6,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "productions",
+              "raw": "(A) productions",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "advantages",
+              "raw": "(B) advantages",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "expenses",
+              "raw": "(C) expenses",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "materials",
+              "raw": "(D) materials",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>production:&nbsp;the process of making or growing goods to be sold</p>\n\n<p>advantage:&nbsp;a condition giving a greater chance of success</p>\n\n<p>expense:&nbsp;the use of money, time, or effort</p>\n\n<p>material:&nbsp;a physical substance that things can be made from</p>\n\n<p>=&gt; \"material\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n",
+          "explanationViHtml": "<p>production: sự sản xuất</p>\n<p>advantage: lợi thế</p>\n<p>expense: sự tiêu tốn</p>\n<p>material: nguyên liệu, vật liệu</p>\n<p>Dựa vào nghĩa của câu <strong>=&gt; Chọn D</strong></p>\n<p><strong>Tạm dịch:</strong> Nhà máy có gần 150 nhân viên này sử dụng máy cắt laser để tạo ra các bộ phận theo yêu cầu từ vật liệu như gỗ, kim loại và nhựa.</p>",
+          "transcriptHtml": "<p>production:&nbsp;the process of making or growing goods to be sold</p>\n\n<p>advantage:&nbsp;a condition giving a greater chance of success</p>\n\n<p>expense:&nbsp;the use of money, time, or effort</p>\n\n<p>material:&nbsp;a physical substance that things can be made from</p>\n\n<p>=&gt; \"material\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21ca",
+          "questionNumber": 7,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Reports on job conditions are prepared once per quarter.",
+              "raw": "(A) Reports on job conditions are prepared once per quarter.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The factory provided data about its staffing procedures.",
+              "raw": "(B) The factory provided data about its staffing procedures.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Each product comes with a money-back guarantee.",
+              "raw": "(C) Each product comes with a money-back guarantee.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The demand for the company’s goods has been rising.",
+              "raw": "(D) The demand for the company’s goods has been rising.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p><strong>D is correct </strong>because it can connect with the sentence <em>\"The factory, which employs nearly 150 people, uses laser cutters to fashion custom-made components out of materials&nbsp;such as wood, metal, and plastic.\"</em></p>\n",
+          "explanationViHtml": "<p><strong>D đ&uacute;ng</strong> v&igrave; n&oacute; c&oacute; thể li&ecirc;n kết với c&acirc;u liền sau<em>&quot;Therefore, new jobs become available regularly&quot;</em></p>\n\n<p><strong>Tạm dịch:</strong> <em><strong>Nhu cầu về h&agrave;ng h&oacute;a của c&ocirc;ng ty ng&agrave;y c&agrave;ng tăng</strong></em>. V&igrave; vậy, việc l&agrave;m mới trở n&ecirc;n thường xuy&ecirc;n.</p>\n",
+          "transcriptHtml": "<p><strong>D is correct </strong>because it can connect with the sentence <em>\"The factory, which employs nearly 150 people, uses laser cutters to fashion custom-made components out of materials&nbsp;such as wood, metal, and plastic.\"</em></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21cb",
+          "questionNumber": 8,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "believing",
+              "raw": "(A) believing",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "believe",
+              "raw": "(B) believe",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "are believed",
+              "raw": "(C) are believed",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "believes",
+              "raw": "(D) believes",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>The sentence is in the present simple tense</p>\n\n<p>Because the subject is \"City officials\"</p>\n\n<p><strong>=&gt; (B) believe is correct</strong></p>\n",
+          "explanationViHtml": "<p>Câu diễn tả sự việc ở thì hiện tại đơn</p>\n<p>Chủ ngữ của câu là \"City officials\" - &gt; chia động từ số nhiều</p>\n<p><strong>=&gt; Chọn B</strong></p>",
+          "transcriptHtml": "<p>The sentence is in the present simple tense</p>\n\n<p>Because the subject is \"City officials\"</p>\n\n<p><strong>=&gt; (B) believe is correct</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64d05d760472355e425c21c2",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<strong>refer to the following e-mail.</strong><br>To: All staff<br>From: Loni Jordan <br>Date: November 2 <br>Subject: staff awards<br>Hello Everyone,<br>The year has gone by quickly, and it is almost time again for our <strong>(9) _____</strong> ceremony to present awards to employees. This is the perfect opportunity <strong>(10)_____</strong> the hard work and dedication of our staff members. Of course, we can also enjoy socializing together over a delicious meal. Our usual place is Newton Hall, but it is already fully booked for December. I’m looking for another facility that has a <strong>(11)_____</strong> of one hundred people, as the entire staff will be in attendance and some employees may choose to bring their spouses. Most likely, we will use the ballroom at the Violet Hotel. <strong>(12)_____</strong>. The catering company we’re using can accommodate vegetarians, vegans, and more. You will be given more information as the event date approaches.<br>Sincerely,<br>Loni Jordan<br>Events Committee, Sanders Inc.",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "64d05d760472355e425c21cc",
+          "questionNumber": 9,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "closing",
+              "raw": "(A) closing",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "debut",
+              "raw": "(B) debut",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "annual",
+              "raw": "(C) annual",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "recruitment",
+              "raw": "(D) recruitment",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>closing:&nbsp;coming near the end of a speech, event, activity</p>\n\n<p>debut:&nbsp;the occasion when someone performs or presents something to the public for the first time</p>\n\n<p>annual:&nbsp;happening once every year</p>\n\n<p>recruitment:&nbsp;the process of finding people to work for a company or become a new member of an organization</p>\n\n<p>=&gt; \"annual\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n",
+          "explanationViHtml": "<p>closing (n): hồi kết</p>\n<p>debut (n): buổi ra mắt</p>\n<p>annual (adj): thường niên</p>\n<p>recruitment (n): sự tuyển dụng</p>\n<p>Cần điền một tính từ để bổ nghĩa cho danh từ \"ceremony\" <strong>=&gt; Chọn C</strong></p>\n<p><strong>Tạm dịch:&nbsp;</strong>Một năm trôi qua thật nhanh, gần đến lúc chúng ta phải tổ chức buổi lễ trao giải thường niên cho nhân viên.</p>",
+          "transcriptHtml": "<p>closing:&nbsp;coming near the end of a speech, event, activity</p>\n\n<p>debut:&nbsp;the occasion when someone performs or presents something to the public for the first time</p>\n\n<p>annual:&nbsp;happening once every year</p>\n\n<p>recruitment:&nbsp;the process of finding people to work for a company or become a new member of an organization</p>\n\n<p>=&gt; \"annual\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21cd",
+          "questionNumber": 10,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "will recognize",
+              "raw": "(A) will recognize",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "to recognize",
+              "raw": "(B) to recognize",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "recognizing",
+              "raw": "(C) recognizing",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "having recognized",
+              "raw": "(D) having recognized",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>\"to + V\" shows purpose</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>Sử dụng to + V-inf để diễn tả mục đích</p>\n<p><strong>Tạm dịch:</strong> Đây là cơ hội hoàn hảo <strong>để ghi nhận sự</strong> chăm chỉ và cống hiến của các nhân viên của chúng tôi.</p>\n<p><strong>=&gt; Chọn B</strong></p>",
+          "transcriptHtml": "<p>\"to + V\" shows purpose</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21ce",
+          "questionNumber": 11,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "space",
+              "raw": "(A) space",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "capacity",
+              "raw": "(B) capacity",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "result",
+              "raw": "(C) result",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "sample",
+              "raw": "(D) sample",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>space:&nbsp;an empty area that is available to be used</p>\n\n<p>capacity:&nbsp;the total amount that can be contained or produced</p>\n\n<p>result:&nbsp;something that happens or exists because of something else</p>\n\n<p>sample:&nbsp;a small amount of something that shows you what the rest is or should be like</p>\n\n<p>=&gt; \"capacity\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>space: không gian</p>\n<p>capacity: sức chứa</p>\n<p>result: kết quả</p>\n<p>sample: mẫu</p>\n<p>Dựa vào nghĩa của câu <strong>=&gt; Chọn B</strong></p>\n<p><strong>Tạm dịch:</strong> Tôi đang tìm một cơ sở khác có sức chứa một trăm người, vì toàn bộ nhân viên sẽ có mặt và một số nhân viên có thể chọn dẫn theo vợ/chồng của họ.</p>",
+          "transcriptHtml": "<p>space:&nbsp;an empty area that is available to be used</p>\n\n<p>capacity:&nbsp;the total amount that can be contained or produced</p>\n\n<p>result:&nbsp;something that happens or exists because of something else</p>\n\n<p>sample:&nbsp;a small amount of something that shows you what the rest is or should be like</p>\n\n<p>=&gt; \"capacity\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21cf",
+          "questionNumber": 12,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The final seating chart can be downloaded.",
+              "raw": "(A) The final seating chart can be downloaded.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "This delay will not happen again.",
+              "raw": "(B) This delay will not happen again.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Thank you for volunteering to assist with the planning.",
+              "raw": "(C) Thank you for volunteering to assist with the planning.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Please let me know if you have dietary restrictions.",
+              "raw": "(D) Please let me know if you have dietary restrictions.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p><strong>D is correct</strong> because it can connect with the sentence <em>\"The catering company we’re using can accommodate vegetarians, vegans, and more.\"</em></p>\n\n<p><em>=&gt; \"dietary restrictions\" </em>refers to<em> \"vegetarians, vegans\"&nbsp;</em></p>\n",
+          "explanationViHtml": "<p><strong>D đ&uacute;ng</strong> v&igrave; n&oacute; c&oacute; thể nối với c&acirc;u <em>&quot;The catering company we&rsquo;re using can accommodate vegetarians, vegans, and more.&quot;</em></p>\n\n<p><em>&quot;dietary restrictions&quot; </em>~<em>&nbsp;&quot;vegetarians, vegans&quot;&nbsp;</em></p>\n\n<p><strong>Tạm dịch:</strong>&nbsp;<em><strong>Xin vui l&ograve;ng cho t&ocirc;i biết nếu bạn c&oacute; những hạn chế về chế độ ăn uống</strong></em>. C&ocirc;ng ty cung cấp dịch vụ ăn uống m&agrave; ch&uacute;ng t&ocirc;i đang sử dụng c&oacute; thể phục vụ người ăn chay, người ăn chay, v.v.</p>\n",
+          "transcriptHtml": "<p><strong>D is correct</strong> because it can connect with the sentence <em>\"The catering company we’re using can accommodate vegetarians, vegans, and more.\"</em></p>\n\n<p><em>=&gt; \"dietary restrictions\" </em>refers to<em> \"vegetarians, vegans\"&nbsp;</em></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "64d05d760472355e425c21c3",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<p><strong>refer to the following memo.</strong><br>To: All Sunset Hair Salon Employees<br>From: Geneva Curtis, General Manager<br>Date: Wednesday, May 31<br>Subject: Hair-washing area<br>The plumber we hired to install two new sinks in our hair-washing area has taken several sick days and will now complete the work on June 4 instead of June 1. Given this unexpected <strong>(13)______,</strong> we will not be able to easily handle the high volume of customers that have already made reservations. To keep up with the demand, please complete the hair-washing for your customers as quickly as possible, especially if you are using the high-pressure tap <strong>(14) ______</strong> the storage closet. I <strong>(15) ______</strong> any problems this might cause with your customers, but we will only have to put up with it for a few days. <strong>(16)______.</strong></p>",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "64d05d760472355e425c21d0",
+          "questionNumber": 13,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "structure",
+              "raw": "(A) structure",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "situation",
+              "raw": "(B) situation",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "treatment",
+              "raw": "(C) treatment",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "hesitation",
+              "raw": "(D) hesitation",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>structure:&nbsp;the way in which the parts of a system or object are arranged or organized, or a system arranged in this way</p>\n\n<p>situation:&nbsp;the set of things that are happening and the conditions that exist at a particular time and place</p>\n\n<p>treatment:&nbsp;the way you deal with or behave towards someone or something</p>\n\n<p>hesitation:&nbsp;the act of pausing before doing something, especially because you are nervous or not certain</p>\n\n<p>=&gt; \"situation\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>structure: cấu trúc</p>\n<p>situation: tình thế, tình hình</p>\n<p>treatment: cách đối xử</p>\n<p>hesitation: sự do dự</p>\n<p>Dựa vào nghĩa câu <strong>=&gt; Chọn B</strong></p>\n<p><strong>Tạm dịch</strong>: Với tình huống bất ngờ này, chúng tôi sẽ không thể dễ dàng xử lý khối lượng lớn của những khách hàng đã đặt chỗ trước.</p>",
+          "transcriptHtml": "<p>structure:&nbsp;the way in which the parts of a system or object are arranged or organized, or a system arranged in this way</p>\n\n<p>situation:&nbsp;the set of things that are happening and the conditions that exist at a particular time and place</p>\n\n<p>treatment:&nbsp;the way you deal with or behave towards someone or something</p>\n\n<p>hesitation:&nbsp;the act of pausing before doing something, especially because you are nervous or not certain</p>\n\n<p>=&gt; \"situation\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21d1",
+          "questionNumber": 14,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "furnished",
+              "raw": "(A) furnished",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "adjacent",
+              "raw": "(B) adjacent",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "essential",
+              "raw": "(C) essential",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "comparable",
+              "raw": "(D) comparable",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>furnished:&nbsp;containing furniture or containing furniture of a particular type</p>\n\n<p>adjacent:&nbsp;very near, next to</p>\n\n<p>essential:&nbsp;necessary or needed</p>\n\n<p>comparable:&nbsp;similar in size, amount, or quality to something else</p>\n\n<p>=&gt; \"adjacent\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>furnished (adj): có sẵn đồ đạc</p>\n<p>adjacent (adj): kề, ngay sát</p>\n<p>essential (adj): thiết yếu</p>\n<p>comparable (adj): tương đồng, ngang với</p>\n<p>Dựa vào nghĩa của câu <strong>=&gt; Chọn B</strong></p>\n<p><strong>Tạm dịch:&nbsp;</strong>Để đáp ứng nhu cầu, quý khách vui lòng hoàn thành việc gội đầu cho khách hàng càng nhanh càng tốt, đặc biệt nếu quý khách đang sử dụng vòi áp suất cao cạnh tủ đựng đồ.</p>",
+          "transcriptHtml": "<p>furnished:&nbsp;containing furniture or containing furniture of a particular type</p>\n\n<p>adjacent:&nbsp;very near, next to</p>\n\n<p>essential:&nbsp;necessary or needed</p>\n\n<p>comparable:&nbsp;similar in size, amount, or quality to something else</p>\n\n<p>=&gt; \"adjacent\"&nbsp;has the most appropriate meaning</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21d2",
+          "questionNumber": 15,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "to regret",
+              "raw": "(A) to regret",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "regrets",
+              "raw": "(B) regrets",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "was regretting",
+              "raw": "(C) was regretting",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "regret",
+              "raw": "(D) regret",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>The sentence is in the present simple tense</p>\n\n<p>Because the subject is \"I\"</p>\n\n<p><strong>=&gt;&nbsp;(D) regret is correct</strong></p>\n",
+          "explanationViHtml": "<p>Câu diễn tả sự việc ở thì hiện tại đơn</p>\n<p>Chủ ngữ là \"I\" =&gt; Chia động từ nguyên mẫu</p>\n<p><strong>Tạm dịch:</strong> Tôi rất tiếc về bất kỳ vấn đề nào mà điều này có thể gây ra cho khách hàng của bạn, nhưng chúng tôi sẽ chỉ phải chịu đựng nó trong vài ngày.</p>\n<p><strong>=&gt; Chọn đáp án D</strong></p>",
+          "transcriptHtml": "<p>The sentence is in the present simple tense</p>\n\n<p>Because the subject is \"I\"</p>\n\n<p><strong>=&gt;&nbsp;(D) regret is correct</strong></p>\n"
+        },
+        {
+          "id": "64d05d760472355e425c21d3",
+          "questionNumber": 16,
+          "questionText": "",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Let me know what style you prefer.",
+              "raw": "(A) Let me know what style you prefer.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Please tell them to come back soon.",
+              "raw": "(B) Please tell them to come back soon.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "The change will be well worth it in the end.",
+              "raw": "(C) The change will be well worth it in the end.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Each session should only take a few minutes.",
+              "raw": "(D) Each session should only take a few minutes.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p><strong>C is correct</strong> because it can connect with the sentence <em>\"I&nbsp;regret any problems this might cause with your customers, but we will only have to put up with it for a few days.\"</em></p>\n",
+          "explanationViHtml": "<p><strong>C đ&uacute;ng</strong> v&igrave; n&oacute; li&ecirc;n kết với c&acirc;u trước đ&oacute;: <em>&quot;I regret any problems this might cause with your customers, but we will only have to put up with it for a few days.&quot;</em></p>\n\n<p><strong>Tạm dịch:</strong> T&ocirc;i rất tiếc về bất kỳ vấn đề n&agrave;o m&agrave; điều n&agrave;y c&oacute; thể g&acirc;y ra cho kh&aacute;ch h&agrave;ng của bạn, nhưng ch&uacute;ng t&ocirc;i sẽ chỉ phải chịu đựng n&oacute; trong v&agrave;i ng&agrave;y. <strong>Sự thay đổi cuối c&ugrave;ng sẽ c&oacute; gi&aacute; trị</strong>.</p>\n",
+          "transcriptHtml": "<p><strong>C is correct</strong> because it can connect with the sentence <em>\"I&nbsp;regret any problems this might cause with your customers, but we will only have to put up with it for a few days.\"</em></p>\n"
+        }
+      ]
+    }
+  ]
+}

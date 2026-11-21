@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b15a",
+  "title": "Từ vựng: Health Insurance",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b384",
+        "questionNumber": 1,
+        "questionText": "allow",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev565.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/allow.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to let do or happen; to permit",
+            "raw": "to let do or happen; to permit",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My insurance does not <strong>allow </strong>me to choose my own hospital.</p>\n",
+        "explanationViHtml": "<p>Bảo hiểm của t&ocirc;i kh&ocirc;ng <strong>cho ph&eacute;p</strong> t&ocirc;i chọn bệnh viện theo &yacute; m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>My insurance does not <strong>allow </strong>me to choose my own hospital.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b385",
+        "questionNumber": 2,
+        "questionText": "alternative",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev566.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/alternative.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the choice between two mutually exclusive possibilities",
+            "raw": "the choice between two mutually exclusive possibilities",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>To lower the cost of health insurance, my employer chose an <strong>alternative </strong>method of insuring us.</p>\n",
+        "explanationViHtml": "<p>Để giảm chi ph&iacute; bảo hiểm y tế, c&ocirc;ng ty t&ocirc;i đ&atilde; chọn một phương thức bảo hiểm <strong>thay thế</strong> cho ch&uacute;ng t&ocirc;i.</p>\n",
+        "transcriptHtml": "<p>To lower the cost of health insurance, my employer chose an <strong>alternative </strong>method of insuring us.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b386",
+        "questionNumber": 3,
+        "questionText": "aspect",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev567.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/aspect.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "feature element: an appearance",
+            "raw": "a feature element: an appearance",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The right to choose their own doctor is an important <strong>aspect </strong>of health coverage for many people.</p>\n",
+        "explanationViHtml": "<p>Quyền được chọn b&aacute;c sĩ ri&ecirc;ng l&agrave; một <strong>kh&iacute;a cạnh</strong> quan trọng của bảo hiểm y tế đối với nhiều người.</p>\n",
+        "transcriptHtml": "<p>The right to choose their own doctor is an important <strong>aspect </strong>of health coverage for many people.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b387",
+        "questionNumber": 4,
+        "questionText": "concern",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev568.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/concern.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "worried or nervous feeling about something, or something that makes you feel worried",
+            "raw": "a worried or nervous feeling about something, or something that makes you feel worried",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Whenever i have health <strong>concerns</strong>, I call my doctor.</p>\n",
+        "explanationViHtml": "<p>Mỗi khi c&oacute; <strong>lo ngại</strong> về sức khỏe, t&ocirc;i đều gọi cho b&aacute;c sĩ của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>Whenever i have health <strong>concerns</strong>, I call my doctor.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b388",
+        "questionNumber": 5,
+        "questionText": "emphasize",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev569.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/emphasize.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to stress",
+            "raw": "to stress",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The nurse <strong>emphasized </strong>the importance of eating a balanced diet.</p>\n",
+        "explanationViHtml": "<p>Y t&aacute; <strong>nhấn mạnh</strong> tầm quan trọng của việc ăn uống c&acirc;n bằng dinh dưỡng.</p>\n",
+        "transcriptHtml": "<p>The nurse <strong>emphasized </strong>the importance of eating a balanced diet.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b389",
+        "questionNumber": 6,
+        "questionText": "incur",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev570.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/incur.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to acquire or come into",
+            "raw": "to acquire or come into",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I <strong>incurred </strong>substantial expenses that my health plan does not cover.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i đ&atilde; phải <strong>chịu </strong>chi ph&iacute; đ&aacute;ng kể m&agrave; g&oacute;i bảo hiểm của t&ocirc;i kh&ocirc;ng chi trả.</p>\n",
+        "transcriptHtml": "<p>I <strong>incurred </strong>substantial expenses that my health plan does not cover.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b38a",
+        "questionNumber": 7,
+        "questionText": "personnel",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev571.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/personnel.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "group of employees or workers",
+            "raw": "a group of employees or workers",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The office manager insisted that she needed more <strong>personnel </strong>to finish the project on time.</p>\n",
+        "explanationViHtml": "<p>Quản l&yacute; văn ph&ograve;ng khăng khăng rằng c&ocirc; ấy cần th&ecirc;m <strong>nh&acirc;n sự</strong> để ho&agrave;n th&agrave;nh dự &aacute;n đ&uacute;ng hạn.</p>\n",
+        "transcriptHtml": "<p>The office manager insisted that she needed more <strong>personnel </strong>to finish the project on time.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b38b",
+        "questionNumber": 8,
+        "questionText": "policy",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev572.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/policy.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "set of rules and regulations",
+            "raw": "a set of rules and regulations",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Company <strong>policy </strong>did not provide for overtime pay.</p>\n",
+        "explanationViHtml": "<p><strong>Ch&iacute;nh s&aacute;ch</strong> c&ocirc;ng ty kh&ocirc;ng hỗ trợ việc trả lương ngo&agrave;i giờ.</p>\n",
+        "transcriptHtml": "<p>Company <strong>policy </strong>did not provide for overtime pay.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b38c",
+        "questionNumber": 9,
+        "questionText": "portion",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev573.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/portion.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "section or quantity within a larger thing; a part of a whole",
+            "raw": "a section or quantity within a larger thing; a part of a whole",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>A <strong>portion </strong>of my benefits is my health care coverage.</p>\n",
+        "explanationViHtml": "<p><strong>Một phần</strong> trong ph&uacute;c lợi của t&ocirc;i l&agrave; bảo hiểm chăm s&oacute;c sức khỏe.</p>\n",
+        "transcriptHtml": "<p>A <strong>portion </strong>of my benefits is my health care coverage.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b38d",
+        "questionNumber": 10,
+        "questionText": "regardless",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev574.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/regardless.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "in spite of",
+            "raw": "in spite of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p><strong>Regardless </strong>of the cost, we all need health insurance.</p>\n",
+        "explanationViHtml": "<p><strong>Bất kể</strong> chi ph&iacute; ra sao, ch&uacute;ng ta đều cần c&oacute; bảo hiểm y tế.</p>\n",
+        "transcriptHtml": "<p><strong>Regardless </strong>of the cost, we all need health insurance.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b38e",
+        "questionNumber": 11,
+        "questionText": "salary",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev575.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/salary.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "fixed compensation paid regularly for work done; one's pay",
+            "raw": "a fixed compensation paid regularly for work done; one's pay",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The receptionist believed that he worked too hard for such a small <strong>salary</strong>.</p>\n",
+        "explanationViHtml": "<p>Nh&acirc;n vi&ecirc;n tiếp t&acirc;n cho rằng anh ấy l&agrave;m việc qu&aacute; vất vả so với mức <strong>lương </strong>&iacute;t ỏi.</p>\n",
+        "transcriptHtml": "<p>The receptionist believed that he worked too hard for such a small <strong>salary</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b38f",
+        "questionNumber": 12,
+        "questionText": "suit",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev576.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/suit.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be appropriate; to satisfy",
+            "raw": "to be appropriate; to satisfy",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I have finally found a health plan that <strong>suits </strong>my needs.</p>\n",
+        "explanationViHtml": "<p>Cuối c&ugrave;ng t&ocirc;i cũng đ&atilde; t&igrave;m được g&oacute;i bảo hiểm y tế <strong>ph&ugrave; hợp</strong> với nhu cầu của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>I have finally found a health plan that <strong>suits </strong>my needs.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b384",
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev565.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/allow.mp3",
+      "meaningVi": "cho phép",
+      "meaningEn": "to let do or happen; to permit",
+      "exampleEnHtml": "<p>My insurance does not <strong>allow </strong>me to choose my own hospital.</p>\n",
+      "exampleViHtml": "<p>Bảo hiểm của t&ocirc;i kh&ocirc;ng <strong>cho ph&eacute;p</strong> t&ocirc;i chọn bệnh viện theo &yacute; m&igrave;nh.</p>\n",
+      "exampleEn": "My insurance does not allow me to choose my own hospital.",
+      "exampleVi": "Bảo hiểm của tôi không cho phép tôi chọn bệnh viện theo ý mình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b385",
+      "word": "alternative",
+      "phonetic": "/ɔːlˈtɜːrnətɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev566.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/alternative.mp3",
+      "meaningVi": "thay thế",
+      "meaningEn": "the choice between two mutually exclusive possibilities",
+      "exampleEnHtml": "<p>To lower the cost of health insurance, my employer chose an <strong>alternative </strong>method of insuring us.</p>\n",
+      "exampleViHtml": "<p>Để giảm chi ph&iacute; bảo hiểm y tế, c&ocirc;ng ty t&ocirc;i đ&atilde; chọn một phương thức bảo hiểm <strong>thay thế</strong> cho ch&uacute;ng t&ocirc;i.</p>\n",
+      "exampleEn": "To lower the cost of health insurance, my employer chose an alternative method of insuring us.",
+      "exampleVi": "Để giảm chi phí bảo hiểm y tế, công ty tôi đã chọn một phương thức bảo hiểm thay thế cho chúng tôi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b386",
+      "word": "aspect",
+      "phonetic": "/ˈæspekt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev567.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/aspect.mp3",
+      "meaningVi": "khía cạnh",
+      "meaningEn": "a feature element: an appearance",
+      "exampleEnHtml": "<p>The right to choose their own doctor is an important <strong>aspect </strong>of health coverage for many people.</p>\n",
+      "exampleViHtml": "<p>Quyền được chọn b&aacute;c sĩ ri&ecirc;ng l&agrave; một <strong>kh&iacute;a cạnh</strong> quan trọng của bảo hiểm y tế đối với nhiều người.</p>\n",
+      "exampleEn": "The right to choose their own doctor is an important aspect of health coverage for many people.",
+      "exampleVi": "Quyền được chọn bác sĩ riêng là một khía cạnh quan trọng của bảo hiểm y tế đối với nhiều người."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b387",
+      "word": "concern",
+      "phonetic": "/kənˈsɜːn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev568.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/concern.mp3",
+      "meaningVi": "lo ngại",
+      "meaningEn": "a worried or nervous feeling about something, or something that makes you feel worried",
+      "exampleEnHtml": "<p>Whenever i have health <strong>concerns</strong>, I call my doctor.</p>\n",
+      "exampleViHtml": "<p>Mỗi khi c&oacute; <strong>lo ngại</strong> về sức khỏe, t&ocirc;i đều gọi cho b&aacute;c sĩ của m&igrave;nh.</p>\n",
+      "exampleEn": "Whenever i have health concerns, I call my doctor.",
+      "exampleVi": "Mỗi khi có lo ngại về sức khỏe, tôi đều gọi cho bác sĩ của mình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b388",
+      "word": "emphasize",
+      "phonetic": "/ˈemfəsaɪz/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev569.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/emphasize.mp3",
+      "meaningVi": "nhấn mạnh",
+      "meaningEn": "to stress",
+      "exampleEnHtml": "<p>The nurse <strong>emphasized </strong>the importance of eating a balanced diet.</p>\n",
+      "exampleViHtml": "<p>Y t&aacute; <strong>nhấn mạnh</strong> tầm quan trọng của việc ăn uống c&acirc;n bằng dinh dưỡng.</p>\n",
+      "exampleEn": "The nurse emphasized the importance of eating a balanced diet.",
+      "exampleVi": "Y tá nhấn mạnh tầm quan trọng của việc ăn uống cân bằng dinh dưỡng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b389",
+      "word": "incur",
+      "phonetic": "/ɪnˈkɜːr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev570.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/incur.mp3",
+      "meaningVi": "chịu",
+      "meaningEn": "to acquire or come into",
+      "exampleEnHtml": "<p>I <strong>incurred </strong>substantial expenses that my health plan does not cover.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i đ&atilde; phải <strong>chịu </strong>chi ph&iacute; đ&aacute;ng kể m&agrave; g&oacute;i bảo hiểm của t&ocirc;i kh&ocirc;ng chi trả.</p>\n",
+      "exampleEn": "I incurred substantial expenses that my health plan does not cover.",
+      "exampleVi": "Tôi đã phải chịu chi phí đáng kể mà gói bảo hiểm của tôi không chi trả."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b38a",
+      "word": "personnel",
+      "phonetic": "/ˌpɜːrsəˈnel/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev571.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/personnel.mp3",
+      "meaningVi": "nhân sự",
+      "meaningEn": "a group of employees or workers",
+      "exampleEnHtml": "<p>The office manager insisted that she needed more <strong>personnel </strong>to finish the project on time.</p>\n",
+      "exampleViHtml": "<p>Quản l&yacute; văn ph&ograve;ng khăng khăng rằng c&ocirc; ấy cần th&ecirc;m <strong>nh&acirc;n sự</strong> để ho&agrave;n th&agrave;nh dự &aacute;n đ&uacute;ng hạn.</p>\n",
+      "exampleEn": "The office manager insisted that she needed more personnel to finish the project on time.",
+      "exampleVi": "Quản lý văn phòng khăng khăng rằng cô ấy cần thêm nhân sự để hoàn thành dự án đúng hạn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b38b",
+      "word": "policy",
+      "phonetic": "/ˈpɑːləsi/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev572.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/policy.mp3",
+      "meaningVi": "Chính sách",
+      "meaningEn": "a set of rules and regulations",
+      "exampleEnHtml": "<p>Company <strong>policy </strong>did not provide for overtime pay.</p>\n",
+      "exampleViHtml": "<p><strong>Ch&iacute;nh s&aacute;ch</strong> c&ocirc;ng ty kh&ocirc;ng hỗ trợ việc trả lương ngo&agrave;i giờ.</p>\n",
+      "exampleEn": "Company policy did not provide for overtime pay.",
+      "exampleVi": "Chính sách công ty không hỗ trợ việc trả lương ngoài giờ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b38c",
+      "word": "portion",
+      "phonetic": "/ˈpɔːrʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev573.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/portion.mp3",
+      "meaningVi": "Một phần",
+      "meaningEn": "a section or quantity within a larger thing; a part of a whole",
+      "exampleEnHtml": "<p>A <strong>portion </strong>of my benefits is my health care coverage.</p>\n",
+      "exampleViHtml": "<p><strong>Một phần</strong> trong ph&uacute;c lợi của t&ocirc;i l&agrave; bảo hiểm chăm s&oacute;c sức khỏe.</p>\n",
+      "exampleEn": "A portion of my benefits is my health care coverage.",
+      "exampleVi": "Một phần trong phúc lợi của tôi là bảo hiểm chăm sóc sức khỏe."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b38d",
+      "word": "regardless",
+      "phonetic": "/rɪˈɡɑːrdləs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev574.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/regardless.mp3",
+      "meaningVi": "Bất kể",
+      "meaningEn": "in spite of",
+      "exampleEnHtml": "<p><strong>Regardless </strong>of the cost, we all need health insurance.</p>\n",
+      "exampleViHtml": "<p><strong>Bất kể</strong> chi ph&iacute; ra sao, ch&uacute;ng ta đều cần c&oacute; bảo hiểm y tế.</p>\n",
+      "exampleEn": "Regardless of the cost, we all need health insurance.",
+      "exampleVi": "Bất kể chi phí ra sao, chúng ta đều cần có bảo hiểm y tế."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b38e",
+      "word": "salary",
+      "phonetic": "/ˈsæləri/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev575.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/salary.mp3",
+      "meaningVi": "lương",
+      "meaningEn": "a fixed compensation paid regularly for work done; one's pay",
+      "exampleEnHtml": "<p>The receptionist believed that he worked too hard for such a small <strong>salary</strong>.</p>\n",
+      "exampleViHtml": "<p>Nh&acirc;n vi&ecirc;n tiếp t&acirc;n cho rằng anh ấy l&agrave;m việc qu&aacute; vất vả so với mức <strong>lương </strong>&iacute;t ỏi.</p>\n",
+      "exampleEn": "The receptionist believed that he worked too hard for such a small salary.",
+      "exampleVi": "Nhân viên tiếp tân cho rằng anh ấy làm việc quá vất vả so với mức lương ít ỏi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b38f",
+      "word": "suit",
+      "phonetic": "/suːt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev576.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/suit.mp3",
+      "meaningVi": "phù hợp",
+      "meaningEn": "to be appropriate; to satisfy",
+      "exampleEnHtml": "<p>I have finally found a health plan that <strong>suits </strong>my needs.</p>\n",
+      "exampleViHtml": "<p>Cuối c&ugrave;ng t&ocirc;i cũng đ&atilde; t&igrave;m được g&oacute;i bảo hiểm y tế <strong>ph&ugrave; hợp</strong> với nhu cầu của m&igrave;nh.</p>\n",
+      "exampleEn": "I have finally found a health plan that suits my needs.",
+      "exampleVi": "Cuối cùng tôi cũng đã tìm được gói bảo hiểm y tế phù hợp với nhu cầu của mình."
+    }
+  ],
+  "totalFlashcards": 12
+}

@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b132",
+  "title": "Từ vựng: Computers",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1c9",
+        "questionNumber": 1,
+        "questionText": "access",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev061.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/access.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to obtain; to gain entry",
+            "raw": "to obtain; to gain entry",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We <strong>accessed </strong>the information on the company&#39;s Website.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; <strong>truy cập</strong> th&ocirc;ng tin tr&ecirc;n trang web của c&ocirc;ng ty.</p>\n",
+        "transcriptHtml": "<p>We <strong>accessed </strong>the information on the company&#39;s Website.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1ca",
+        "questionNumber": 2,
+        "questionText": "allocate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev062.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/allocate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to designate for a specific purpose",
+            "raw": "to designate for a specific purpose",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The office manager did not <strong>allocate </strong>enough money to purchase software.</p>\n",
+        "explanationViHtml": "<p>Người quản l&yacute; văn ph&ograve;ng kh&ocirc;ng <strong>ph&acirc;n bổ </strong>đủ tiền để mua phần mềm.</p>\n",
+        "transcriptHtml": "<p>The office manager did not <strong>allocate </strong>enough money to purchase software.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1cb",
+        "questionNumber": 3,
+        "questionText": "compatible",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev063.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/compatible.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "ble to function together",
+            "raw": "able to function together",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>This operating system is not <strong>compatible </strong>with this model computer.</p>\n",
+        "explanationViHtml": "<p>Hệ điều h&agrave;nh n&agrave;y kh&ocirc;ng <strong>tương th&iacute;ch</strong> với mẫu m&aacute;y t&iacute;nh n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>This operating system is not <strong>compatible </strong>with this model computer.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1cc",
+        "questionNumber": 4,
+        "questionText": "delete",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev064.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/delete.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to remove; to erase",
+            "raw": "to remove; to erase",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The technicians <strong>deleted </strong>all the data on the disk accidentally.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c kỹ thuật vi&ecirc;n đ&atilde; v&ocirc; t&igrave;nh <strong>x&oacute;a </strong>to&agrave;n bộ dữ liệu tr&ecirc;n đĩa.</p>\n",
+        "transcriptHtml": "<p>The technicians <strong>deleted </strong>all the data on the disk accidentally.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1cd",
+        "questionNumber": 5,
+        "questionText": "display",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev065.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/display.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "what is visible on a monitor; to show",
+            "raw": "what is visible on a monitor; to show",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The light on the LCD <strong>display </strong>is too weak.</p>\n",
+        "explanationViHtml": "<p>&Aacute;nh s&aacute;ng tr&ecirc;n m&agrave;n h&igrave;nh LCD <strong>hiển thị </strong>qu&aacute; yếu.</p>\n",
+        "transcriptHtml": "<p>The light on the LCD <strong>display </strong>is too weak.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1ce",
+        "questionNumber": 6,
+        "questionText": "duplicate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev066.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/Duplicate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to produce something equal; to make identical",
+            "raw": "to produce something equal; to make identical",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I think the new word processing program will <strong>duplicate </strong>the success of the one introduced last year.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i nghĩ chương tr&igrave;nh xử l&yacute; văn bản mới sẽ <strong>lặp lại </strong>th&agrave;nh c&ocirc;ng như chương tr&igrave;nh đ&atilde; ra mắt năm ngo&aacute;i.</p>\n",
+        "transcriptHtml": "<p>I think the new word processing program will <strong>duplicate </strong>the success of the one introduced last year.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1cf",
+        "questionNumber": 7,
+        "questionText": "failure",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev067.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/failure.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "not to succeed; not to work correctly",
+            "raw": "not to succeed; not to work correctly",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The success or <strong>failure </strong>of the plan depends on you.</p>\n",
+        "explanationViHtml": "<p>Sự th&agrave;nh c&ocirc;ng hay<strong> thất bại </strong>của kế hoạch phụ thuộc v&agrave;o bạn.</p>\n",
+        "transcriptHtml": "<p>The success or <strong>failure </strong>of the plan depends on you.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d0",
+        "questionNumber": 8,
+        "questionText": "figure out",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev068.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/figure out.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to understand; to solve",
+            "raw": "to understand; to solve",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>By examining all at the errors, the technicians<strong> figured out</strong> how to fix the problem.</p>\n",
+        "explanationViHtml": "<p>Bằng c&aacute;ch kiểm tra tất cả c&aacute;c lỗi, c&aacute;c kỹ thuật vi&ecirc;n đ&atilde;<strong> t&igrave;m ra </strong>c&aacute;ch khắc phục sự cố.</p>\n",
+        "transcriptHtml": "<p>By examining all at the errors, the technicians<strong> figured out</strong> how to fix the problem.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d1",
+        "questionNumber": 9,
+        "questionText": "ignore",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev069.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ignore.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "not to notice; to disregard",
+            "raw": "not to notice; to disregard",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>When the director is working at the computer, she <strong>ignores </strong>everything around her.</p>\n",
+        "explanationViHtml": "<p>Khi gi&aacute;m đốc l&agrave;m việc tr&ecirc;n m&aacute;y t&iacute;nh, c&ocirc; ấy <strong>kh&ocirc;ng để &yacute;</strong> đến mọi thứ xung quanh.</p>\n",
+        "transcriptHtml": "<p>When the director is working at the computer, she <strong>ignores </strong>everything around her.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d2",
+        "questionNumber": 10,
+        "questionText": "search",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev070.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/search.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to look for;  investigation",
+            "raw": "to look for;  investigation",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The computer <strong>searched </strong>for all names that began with W.</p>\n",
+        "explanationViHtml": "<p>M&aacute;y t&iacute;nh <strong>t&igrave;m kiếm</strong> tất cả c&aacute;c t&ecirc;n bắt đầu bằng chữ W.</p>\n",
+        "transcriptHtml": "<p>The computer <strong>searched </strong>for all names that began with W.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d3",
+        "questionNumber": 11,
+        "questionText": "shut down",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev071.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/shut down.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to turn all; to cease operations",
+            "raw": "to turn all; to cease operations",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Please <strong>shut down </strong>the computer before you leave.</p>\n",
+        "explanationViHtml": "<p>Vui l&ograve;ng <strong>tắt </strong>m&aacute;y t&iacute;nh trước khi rời đi.</p>\n",
+        "transcriptHtml": "<p>Please <strong>shut down </strong>the computer before you leave.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1d4",
+        "questionNumber": 12,
+        "questionText": "warning",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev072.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/warning.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n alert to danger or problem",
+            "raw": "An alert to danger or problem",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>She had ignored the&nbsp;<strong>warning </strong>signs&nbsp;of trouble ahead.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; đ&atilde; bỏ qua những dấu hiệu <strong>cảnh b&aacute;o</strong> rắc rối sắp xảy ra.</p>\n",
+        "transcriptHtml": "<p>She had ignored the&nbsp;<strong>warning </strong>signs&nbsp;of trouble ahead.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b1c9",
+      "word": "access",
+      "phonetic": "/ˈækses/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev061.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/access.mp3",
+      "meaningVi": "truy cập",
+      "meaningEn": "to obtain; to gain entry",
+      "exampleEnHtml": "<p>We <strong>accessed </strong>the information on the company&#39;s Website.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; <strong>truy cập</strong> th&ocirc;ng tin tr&ecirc;n trang web của c&ocirc;ng ty.</p>\n",
+      "exampleEn": "We accessed the information on the company's Website.",
+      "exampleVi": "Chúng tôi đã truy cập thông tin trên trang web của công ty."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1ca",
+      "word": "allocate",
+      "phonetic": "/ˈæləkeɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev062.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/allocate.mp3",
+      "meaningVi": "phân bổ",
+      "meaningEn": "to designate for a specific purpose",
+      "exampleEnHtml": "<p>The office manager did not <strong>allocate </strong>enough money to purchase software.</p>\n",
+      "exampleViHtml": "<p>Người quản l&yacute; văn ph&ograve;ng kh&ocirc;ng <strong>ph&acirc;n bổ </strong>đủ tiền để mua phần mềm.</p>\n",
+      "exampleEn": "The office manager did not allocate enough money to purchase software.",
+      "exampleVi": "Người quản lý văn phòng không phân bổ đủ tiền để mua phần mềm."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1cb",
+      "word": "compatible",
+      "phonetic": "/kəmˈpætəbl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev063.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/compatible.mp3",
+      "meaningVi": "tương thích",
+      "meaningEn": "able to function together",
+      "exampleEnHtml": "<p>This operating system is not <strong>compatible </strong>with this model computer.</p>\n",
+      "exampleViHtml": "<p>Hệ điều h&agrave;nh n&agrave;y kh&ocirc;ng <strong>tương th&iacute;ch</strong> với mẫu m&aacute;y t&iacute;nh n&agrave;y.</p>\n",
+      "exampleEn": "This operating system is not compatible with this model computer.",
+      "exampleVi": "Hệ điều hành này không tương thích với mẫu máy tính này."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1cc",
+      "word": "delete",
+      "phonetic": "/dɪˈliːt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev064.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/delete.mp3",
+      "meaningVi": "xóa",
+      "meaningEn": "to remove; to erase",
+      "exampleEnHtml": "<p>The technicians <strong>deleted </strong>all the data on the disk accidentally.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c kỹ thuật vi&ecirc;n đ&atilde; v&ocirc; t&igrave;nh <strong>x&oacute;a </strong>to&agrave;n bộ dữ liệu tr&ecirc;n đĩa.</p>\n",
+      "exampleEn": "The technicians deleted all the data on the disk accidentally.",
+      "exampleVi": "Các kỹ thuật viên đã vô tình xóa toàn bộ dữ liệu trên đĩa."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1cd",
+      "word": "display",
+      "phonetic": "/dɪˈspleɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev065.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/display.mp3",
+      "meaningVi": "hiển thị",
+      "meaningEn": "what is visible on a monitor; to show",
+      "exampleEnHtml": "<p>The light on the LCD <strong>display </strong>is too weak.</p>\n",
+      "exampleViHtml": "<p>&Aacute;nh s&aacute;ng tr&ecirc;n m&agrave;n h&igrave;nh LCD <strong>hiển thị </strong>qu&aacute; yếu.</p>\n",
+      "exampleEn": "The light on the LCD display is too weak.",
+      "exampleVi": "Ánh sáng trên màn hình LCD hiển thị quá yếu."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1ce",
+      "word": "duplicate",
+      "phonetic": "/ˈduːplɪkeɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev066.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/Duplicate.mp3",
+      "meaningVi": "lặp lại",
+      "meaningEn": "to produce something equal; to make identical",
+      "exampleEnHtml": "<p>I think the new word processing program will <strong>duplicate </strong>the success of the one introduced last year.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i nghĩ chương tr&igrave;nh xử l&yacute; văn bản mới sẽ <strong>lặp lại </strong>th&agrave;nh c&ocirc;ng như chương tr&igrave;nh đ&atilde; ra mắt năm ngo&aacute;i.</p>\n",
+      "exampleEn": "I think the new word processing program will duplicate the success of the one introduced last year.",
+      "exampleVi": "Tôi nghĩ chương trình xử lý văn bản mới sẽ lặp lại thành công như chương trình đã ra mắt năm ngoái."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1cf",
+      "word": "failure",
+      "phonetic": "/ˈfeɪljər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev067.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/failure.mp3",
+      "meaningVi": "thất bại",
+      "meaningEn": "not to succeed; not to work correctly",
+      "exampleEnHtml": "<p>The success or <strong>failure </strong>of the plan depends on you.</p>\n",
+      "exampleViHtml": "<p>Sự th&agrave;nh c&ocirc;ng hay<strong> thất bại </strong>của kế hoạch phụ thuộc v&agrave;o bạn.</p>\n",
+      "exampleEn": "The success or failure of the plan depends on you.",
+      "exampleVi": "Sự thành công hay thất bại của kế hoạch phụ thuộc vào bạn."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d0",
+      "word": "figure out",
+      "phonetic": "/ˈfɪɡjər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev068.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/figure out.mp3",
+      "meaningVi": "tìm ra",
+      "meaningEn": "to understand; to solve",
+      "exampleEnHtml": "<p>By examining all at the errors, the technicians<strong> figured out</strong> how to fix the problem.</p>\n",
+      "exampleViHtml": "<p>Bằng c&aacute;ch kiểm tra tất cả c&aacute;c lỗi, c&aacute;c kỹ thuật vi&ecirc;n đ&atilde;<strong> t&igrave;m ra </strong>c&aacute;ch khắc phục sự cố.</p>\n",
+      "exampleEn": "By examining all at the errors, the technicians figured out how to fix the problem.",
+      "exampleVi": "Bằng cách kiểm tra tất cả các lỗi, các kỹ thuật viên đã tìm ra cách khắc phục sự cố."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d1",
+      "word": "ignore",
+      "phonetic": "/ɪɡˈnɔːr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev069.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ignore.mp3",
+      "meaningVi": "không để ý",
+      "meaningEn": "not to notice; to disregard",
+      "exampleEnHtml": "<p>When the director is working at the computer, she <strong>ignores </strong>everything around her.</p>\n",
+      "exampleViHtml": "<p>Khi gi&aacute;m đốc l&agrave;m việc tr&ecirc;n m&aacute;y t&iacute;nh, c&ocirc; ấy <strong>kh&ocirc;ng để &yacute;</strong> đến mọi thứ xung quanh.</p>\n",
+      "exampleEn": "When the director is working at the computer, she ignores everything around her.",
+      "exampleVi": "Khi giám đốc làm việc trên máy tính, cô ấy không để ý đến mọi thứ xung quanh."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d2",
+      "word": "search",
+      "phonetic": "/sɜːrtʃ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev070.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/search.mp3",
+      "meaningVi": "tìm kiếm",
+      "meaningEn": "to look for;  investigation",
+      "exampleEnHtml": "<p>The computer <strong>searched </strong>for all names that began with W.</p>\n",
+      "exampleViHtml": "<p>M&aacute;y t&iacute;nh <strong>t&igrave;m kiếm</strong> tất cả c&aacute;c t&ecirc;n bắt đầu bằng chữ W.</p>\n",
+      "exampleEn": "The computer searched for all names that began with W.",
+      "exampleVi": "Máy tính tìm kiếm tất cả các tên bắt đầu bằng chữ W."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d3",
+      "word": "shut down",
+      "phonetic": "/ʃʌt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev071.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/shut down.mp3",
+      "meaningVi": "tắt",
+      "meaningEn": "to turn all; to cease operations",
+      "exampleEnHtml": "<p>Please <strong>shut down </strong>the computer before you leave.</p>\n",
+      "exampleViHtml": "<p>Vui l&ograve;ng <strong>tắt </strong>m&aacute;y t&iacute;nh trước khi rời đi.</p>\n",
+      "exampleEn": "Please shut down the computer before you leave.",
+      "exampleVi": "Vui lòng tắt máy tính trước khi rời đi."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1d4",
+      "word": "warning",
+      "phonetic": "/ˈwɔːrnɪŋ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev072.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/warning.mp3",
+      "meaningVi": "cảnh báo",
+      "meaningEn": "An alert to danger or problem",
+      "exampleEnHtml": "<p>She had ignored the&nbsp;<strong>warning </strong>signs&nbsp;of trouble ahead.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; đ&atilde; bỏ qua những dấu hiệu <strong>cảnh b&aacute;o</strong> rắc rối sắp xảy ra.</p>\n",
+      "exampleEn": "She had ignored the warning signs of trouble ahead.",
+      "exampleVi": "Cô đã bỏ qua những dấu hiệu cảnh báo rắc rối sắp xảy ra."
+    }
+  ],
+  "totalFlashcards": 12
+}

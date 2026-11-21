@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b13d",
+  "title": "Từ vựng: Office Technology",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b211",
+        "questionNumber": 1,
+        "questionText": "affordable",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev073.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/affordable.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "ble to be paid for;  not too expensive",
+            "raw": "able to be paid for;  not too expensive",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company&lsquo;s first priority was to find an <strong>affordable</strong> phone system.</p>\n",
+        "explanationViHtml": "<p>Ưu ti&ecirc;n h&agrave;ng đầu của c&ocirc;ng ty l&agrave; t&igrave;m ra một hệ thống điện thoại <strong>c&oacute; thể chi trả được</strong>, gi&aacute; cả phải chăng.&nbsp;<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The company&lsquo;s first priority was to find an <strong>affordable</strong> phone system.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b212",
+        "questionNumber": 2,
+        "questionText": "as needed",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev074.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/as needed.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "s necessary",
+            "raw": "as necessary",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The courier service did not come every day, only <strong>as needed.</strong></p>\n",
+        "explanationViHtml": "<p>Dịch vụ chuyển ph&aacute;t nhanh kh&ocirc;ng đến h&agrave;ng ng&agrave;y, <strong>chỉ khi cần thiết</strong>.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The courier service did not come every day, only <strong>as needed.</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b213",
+        "questionNumber": 3,
+        "questionText": "be in charge of",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev075.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/be in charge of.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be in control or command of",
+            "raw": "to be in control or command of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The&nbsp;teacher&nbsp;put me<strong> in charge of</strong>&nbsp;organizing&nbsp;the&nbsp;project.</p>\n",
+        "explanationViHtml": "<p>Gi&aacute;o vi&ecirc;n giao cho t&ocirc;i <strong>phụ tr&aacute;ch</strong> tổ chức dự &aacute;n.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The&nbsp;teacher&nbsp;put me<strong> in charge of</strong>&nbsp;organizing&nbsp;the&nbsp;project.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b214",
+        "questionNumber": 4,
+        "questionText": "capacity",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev076.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/capacity.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the ability to contain or hold; the maximum that something can hold or do",
+            "raw": "the ability to contain or hold; the maximum that something can hold or do",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The new conference room is much larger and has a <strong>capacity</strong> of one hundred people.</p>\n",
+        "explanationViHtml": "<p>Ph&ograve;ng hội nghị mới lớn hơn nhiều v&agrave; c&oacute; <strong>sức chứa</strong> một trăm người.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The new conference room is much larger and has a <strong>capacity</strong> of one hundred people.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b215",
+        "questionNumber": 5,
+        "questionText": "durable",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev077.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/durable.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "sturdy;  strong;  lasting",
+            "raw": "sturdy;  strong;  lasting",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>This printer is so <strong>durable</strong> that, with a little care, it will last another five years.</p>\n",
+        "explanationViHtml": "<p>M&aacute;y in n&agrave;y <strong>bền </strong>đến mức chỉ cần cẩn thận một ch&uacute;t, n&oacute; d&ugrave;ng được th&ecirc;m 5 năm nữa.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>This printer is so <strong>durable</strong> that, with a little care, it will last another five years.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b216",
+        "questionNumber": 6,
+        "questionText": "initiative",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev078.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/initiative.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the first step; an active role the",
+            "raw": "the first step; an active role the",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Employees are encouraged to take the<strong> initiative</strong> and share their ideas with management.</p>\n",
+        "explanationViHtml": "<p>Nh&acirc;n vi&ecirc;n được khuyến kh&iacute;ch <strong>chủ động</strong> v&agrave; chia sẻ &yacute; tưởng của m&igrave;nh với cấp quản l&yacute;.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Employees are encouraged to take the<strong> initiative</strong> and share their ideas with management.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b217",
+        "questionNumber": 7,
+        "questionText": "physically",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev079.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/physically.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "with the senses; of the body",
+            "raw": "with the senses; of the body",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I don&#39;t find him <strong>physically</strong> attractive.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i kh&ocirc;ng thấy anh ấy hấp dẫn về <strong>mặt thể chất.</strong><br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>I don&#39;t find him <strong>physically</strong> attractive.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b218",
+        "questionNumber": 8,
+        "questionText": "provider",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev080.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/provider.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "supplier",
+            "raw": "a supplier",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The department was extremely pleased with the service they received from a the phone <strong>provider</strong>.</p>\n",
+        "explanationViHtml": "<p>Bộ v&ocirc; c&ugrave;ng h&agrave;i l&ograve;ng với dịch vụ họ nhận được từ <strong>nh&agrave; cung cấp</strong> điện thoại.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The department was extremely pleased with the service they received from a the phone <strong>provider</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b219",
+        "questionNumber": 9,
+        "questionText": "recur",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev081.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/recur.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to occur again or repeatedly",
+            "raw": "to occur again or repeatedly",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The subject at decreasing sales<strong> recurs</strong> in each meeting, sometimes several times.</p>\n",
+        "explanationViHtml": "<p>Chủ đề giảm doanh số vẫn <strong>t&aacute;i diễn</strong> trong mỗi cuộc họp, đ&ocirc;i khi nhiều lần.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The subject at decreasing sales<strong> recurs</strong> in each meeting, sometimes several times.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b21a",
+        "questionNumber": 10,
+        "questionText": "reduction",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev082.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reduction.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "lessening; a decrease",
+            "raw": "a lessening; a decrease",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The outlet store gave a 20 percent <strong>reduction</strong> in the price of the shelves and bookcases</p>\n",
+        "explanationViHtml": "<p>Cửa h&agrave;ng đại l&yacute; <strong>giảm</strong>&nbsp;20% gi&aacute; của&nbsp; kệ v&agrave; tủ s&aacute;ch<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The outlet store gave a 20 percent <strong>reduction</strong> in the price of the shelves and bookcases</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b21b",
+        "questionNumber": 11,
+        "questionText": "stay on top of",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev083.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/stay on top of.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to know what is going on; to know the latest information",
+            "raw": "to know what is going on; to know the latest information",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>You&nbsp;have&nbsp;to <strong>stay&nbsp;on&nbsp;top&nbsp;of&nbsp;</strong>her&nbsp;if&nbsp;you&nbsp;want&nbsp;her&nbsp;to&nbsp;do&nbsp;it&nbsp;right.</p>\n",
+        "explanationViHtml": "<p>Bạn phải <strong>theo d&otilde;i</strong> c&ocirc; ấy nếu bạn muốn c&ocirc; ấy l&agrave;m điều đ&oacute; đ&uacute;ng.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>You&nbsp;have&nbsp;to <strong>stay&nbsp;on&nbsp;top&nbsp;of&nbsp;</strong>her&nbsp;if&nbsp;you&nbsp;want&nbsp;her&nbsp;to&nbsp;do&nbsp;it&nbsp;right.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b21c",
+        "questionNumber": 12,
+        "questionText": "stock",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev084.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/stock.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "supply;  to keep on hand",
+            "raw": "a supply;  to keep on hand",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The office&rsquo;s <strong>stock</strong> of toner for the fax machine was quickly running out.</p>\n",
+        "explanationViHtml": "<p>Lượng mực <strong>dự trữ </strong>cho m&aacute;y fax của văn ph&ograve;ng nhanh ch&oacute;ng cạn kiệt.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The office&rsquo;s <strong>stock</strong> of toner for the fax machine was quickly running out.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b211",
+      "word": "affordable",
+      "phonetic": "/əˈfɔːrdəbl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev073.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/affordable.mp3",
+      "meaningVi": "có thể chi trả được",
+      "meaningEn": "able to be paid for;  not too expensive",
+      "exampleEnHtml": "<p>The company&lsquo;s first priority was to find an <strong>affordable</strong> phone system.</p>\n",
+      "exampleViHtml": "<p>Ưu ti&ecirc;n h&agrave;ng đầu của c&ocirc;ng ty l&agrave; t&igrave;m ra một hệ thống điện thoại <strong>c&oacute; thể chi trả được</strong>, gi&aacute; cả phải chăng.&nbsp;<br />\n&nbsp;</p>\n",
+      "exampleEn": "The company‘s first priority was to find an affordable phone system.",
+      "exampleVi": "Ưu tiên hàng đầu của công ty là tìm ra một hệ thống điện thoại có thể chi trả được, giá cả phải chăng. \n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b212",
+      "word": "as needed",
+      "phonetic": "/ˈniː.dɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev074.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/as needed.mp3",
+      "meaningVi": "chỉ khi cần thiết",
+      "meaningEn": "as necessary",
+      "exampleEnHtml": "<p>The courier service did not come every day, only <strong>as needed.</strong></p>\n",
+      "exampleViHtml": "<p>Dịch vụ chuyển ph&aacute;t nhanh kh&ocirc;ng đến h&agrave;ng ng&agrave;y, <strong>chỉ khi cần thiết</strong>.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The courier service did not come every day, only as needed.",
+      "exampleVi": "Dịch vụ chuyển phát nhanh không đến hàng ngày, chỉ khi cần thiết.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b213",
+      "word": "be in charge of",
+      "phonetic": "/tʃɑːrdʒ/, prepositional phrase",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev075.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/be in charge of.mp3",
+      "meaningVi": "phụ trách",
+      "meaningEn": "to be in control or command of",
+      "exampleEnHtml": "<p>The&nbsp;teacher&nbsp;put me<strong> in charge of</strong>&nbsp;organizing&nbsp;the&nbsp;project.</p>\n",
+      "exampleViHtml": "<p>Gi&aacute;o vi&ecirc;n giao cho t&ocirc;i <strong>phụ tr&aacute;ch</strong> tổ chức dự &aacute;n.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The teacher put me in charge of organizing the project.",
+      "exampleVi": "Giáo viên giao cho tôi phụ trách tổ chức dự án.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b214",
+      "word": "capacity",
+      "phonetic": "/kəˈpæsəti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev076.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/capacity.mp3",
+      "meaningVi": "sức chứa",
+      "meaningEn": "the ability to contain or hold; the maximum that something can hold or do",
+      "exampleEnHtml": "<p>The new conference room is much larger and has a <strong>capacity</strong> of one hundred people.</p>\n",
+      "exampleViHtml": "<p>Ph&ograve;ng hội nghị mới lớn hơn nhiều v&agrave; c&oacute; <strong>sức chứa</strong> một trăm người.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The new conference room is much larger and has a capacity of one hundred people.",
+      "exampleVi": "Phòng hội nghị mới lớn hơn nhiều và có sức chứa một trăm người.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b215",
+      "word": "durable",
+      "phonetic": "/ˈdʊrəbl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev077.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/durable.mp3",
+      "meaningVi": "bền",
+      "meaningEn": "sturdy;  strong;  lasting",
+      "exampleEnHtml": "<p>This printer is so <strong>durable</strong> that, with a little care, it will last another five years.</p>\n",
+      "exampleViHtml": "<p>M&aacute;y in n&agrave;y <strong>bền </strong>đến mức chỉ cần cẩn thận một ch&uacute;t, n&oacute; d&ugrave;ng được th&ecirc;m 5 năm nữa.<br />\n&nbsp;</p>\n",
+      "exampleEn": "This printer is so durable that, with a little care, it will last another five years.",
+      "exampleVi": "Máy in này bền đến mức chỉ cần cẩn thận một chút, nó dùng được thêm 5 năm nữa.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b216",
+      "word": "initiative",
+      "phonetic": "/ɪˈnɪʃətɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev078.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/initiative.mp3",
+      "meaningVi": "chủ động",
+      "meaningEn": "the first step; an active role the",
+      "exampleEnHtml": "<p>Employees are encouraged to take the<strong> initiative</strong> and share their ideas with management.</p>\n",
+      "exampleViHtml": "<p>Nh&acirc;n vi&ecirc;n được khuyến kh&iacute;ch <strong>chủ động</strong> v&agrave; chia sẻ &yacute; tưởng của m&igrave;nh với cấp quản l&yacute;.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Employees are encouraged to take the initiative and share their ideas with management.",
+      "exampleVi": "Nhân viên được khuyến khích chủ động và chia sẻ ý tưởng của mình với cấp quản lý.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b217",
+      "word": "physically",
+      "phonetic": "/ˈfɪzɪkli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev079.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/physically.mp3",
+      "meaningVi": "mặt thể chất.",
+      "meaningEn": "with the senses; of the body",
+      "exampleEnHtml": "<p>I don&#39;t find him <strong>physically</strong> attractive.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i kh&ocirc;ng thấy anh ấy hấp dẫn về <strong>mặt thể chất.</strong><br />\n&nbsp;</p>\n",
+      "exampleEn": "I don't find him physically attractive.",
+      "exampleVi": "Tôi không thấy anh ấy hấp dẫn về mặt thể chất.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b218",
+      "word": "provider",
+      "phonetic": "/prəˈvaɪdər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev080.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/provider.mp3",
+      "meaningVi": "nhà cung cấp",
+      "meaningEn": "a supplier",
+      "exampleEnHtml": "<p>The department was extremely pleased with the service they received from a the phone <strong>provider</strong>.</p>\n",
+      "exampleViHtml": "<p>Bộ v&ocirc; c&ugrave;ng h&agrave;i l&ograve;ng với dịch vụ họ nhận được từ <strong>nh&agrave; cung cấp</strong> điện thoại.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The department was extremely pleased with the service they received from a the phone provider.",
+      "exampleVi": "Bộ vô cùng hài lòng với dịch vụ họ nhận được từ nhà cung cấp điện thoại.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b219",
+      "word": "recur",
+      "phonetic": "/rɪˈkɜːr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev081.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/recur.mp3",
+      "meaningVi": "tái diễn",
+      "meaningEn": "to occur again or repeatedly",
+      "exampleEnHtml": "<p>The subject at decreasing sales<strong> recurs</strong> in each meeting, sometimes several times.</p>\n",
+      "exampleViHtml": "<p>Chủ đề giảm doanh số vẫn <strong>t&aacute;i diễn</strong> trong mỗi cuộc họp, đ&ocirc;i khi nhiều lần.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The subject at decreasing sales recurs in each meeting, sometimes several times.",
+      "exampleVi": "Chủ đề giảm doanh số vẫn tái diễn trong mỗi cuộc họp, đôi khi nhiều lần.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b21a",
+      "word": "reduction",
+      "phonetic": "/rɪˈdʌkʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev082.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reduction.mp3",
+      "meaningVi": "giảm",
+      "meaningEn": "a lessening; a decrease",
+      "exampleEnHtml": "<p>The outlet store gave a 20 percent <strong>reduction</strong> in the price of the shelves and bookcases</p>\n",
+      "exampleViHtml": "<p>Cửa h&agrave;ng đại l&yacute; <strong>giảm</strong>&nbsp;20% gi&aacute; của&nbsp; kệ v&agrave; tủ s&aacute;ch<br />\n&nbsp;</p>\n",
+      "exampleEn": "The outlet store gave a 20 percent reduction in the price of the shelves and bookcases",
+      "exampleVi": "Cửa hàng đại lý giảm 20% giá của  kệ và tủ sách\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b21b",
+      "word": "stay on top of",
+      "phonetic": "/steɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev083.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/stay on top of.mp3",
+      "meaningVi": "theo dõi",
+      "meaningEn": "to know what is going on; to know the latest information",
+      "exampleEnHtml": "<p>You&nbsp;have&nbsp;to <strong>stay&nbsp;on&nbsp;top&nbsp;of&nbsp;</strong>her&nbsp;if&nbsp;you&nbsp;want&nbsp;her&nbsp;to&nbsp;do&nbsp;it&nbsp;right.</p>\n",
+      "exampleViHtml": "<p>Bạn phải <strong>theo d&otilde;i</strong> c&ocirc; ấy nếu bạn muốn c&ocirc; ấy l&agrave;m điều đ&oacute; đ&uacute;ng.<br />\n&nbsp;</p>\n",
+      "exampleEn": "You have to stay on top of her if you want her to do it right.",
+      "exampleVi": "Bạn phải theo dõi cô ấy nếu bạn muốn cô ấy làm điều đó đúng.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b21c",
+      "word": "stock",
+      "phonetic": "/stɑːk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev084.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/stock.mp3",
+      "meaningVi": "dự trữ",
+      "meaningEn": "a supply;  to keep on hand",
+      "exampleEnHtml": "<p>The office&rsquo;s <strong>stock</strong> of toner for the fax machine was quickly running out.</p>\n",
+      "exampleViHtml": "<p>Lượng mực <strong>dự trữ </strong>cho m&aacute;y fax của văn ph&ograve;ng nhanh ch&oacute;ng cạn kiệt.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The office’s stock of toner for the fax machine was quickly running out.",
+      "exampleVi": "Lượng mực dự trữ cho máy fax của văn phòng nhanh chóng cạn kiệt.\n "
+    }
+  ],
+  "totalFlashcards": 12
+}

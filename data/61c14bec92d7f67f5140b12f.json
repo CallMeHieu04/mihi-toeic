@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b12f",
+  "title": "Từ vựng: Warranties",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b181",
+        "questionNumber": 1,
+        "questionText": "characteristic",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev025.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/characteristic.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "typical feature or quality that something/somebody has",
+            "raw": "a typical feature or quality that something/somebody has",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The cooking pot has features <strong>characteristic </strong>of the brand, such as &ldquo;stay cool&quot; handles.</p>\n",
+        "explanationViHtml": "<p>Nồi nấu c&oacute; những<strong> </strong>t&iacute;nh năng <strong>đặc trưng</strong> của thương hiệu n&agrave;y, chẳng hạn như tay cầm &ldquo;giữ m&aacute;t&rdquo;.</p>\n",
+        "transcriptHtml": "<p>The cooking pot has features <strong>characteristic </strong>of the brand, such as &ldquo;stay cool&quot; handles.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b182",
+        "questionNumber": 2,
+        "questionText": "consequence",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev026.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/consequence.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that which follows necessarily",
+            "raw": "that which follows necessarily",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>consequence </strong>of not following the service instructions for your car is that the warranty is invalidated.</p>\n",
+        "explanationViHtml": "<p><strong>Hậu quả</strong> của việc kh&ocirc;ng tu&acirc;n theo hướng dẫn bảo dưỡng xe l&agrave; chế độ bảo h&agrave;nh sẽ kh&ocirc;ng c&ograve;n hiệu lực.</p>\n",
+        "transcriptHtml": "<p>The <strong>consequence </strong>of not following the service instructions for your car is that the warranty is invalidated.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b183",
+        "questionNumber": 3,
+        "questionText": "consider",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev027.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/consider.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to think about carefully",
+            "raw": "to think about carefully",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The customer <strong>considered </strong>buying the VCR until he learned that the warranty coverage was very limited.</p>\n",
+        "explanationViHtml": "<p>Kh&aacute;ch h&agrave;ng đ&atilde; <strong>c&acirc;n nhắc</strong> việc mua đầu VCR cho đến khi biết rằng thời hạn bảo h&agrave;nh rất hạn chế.</p>\n",
+        "transcriptHtml": "<p>The customer <strong>considered </strong>buying the VCR until he learned that the warranty coverage was very limited.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b184",
+        "questionNumber": 4,
+        "questionText": "cover",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev028.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/cover.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to provide protection against",
+            "raw": "to provide protection against",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Will my medical insurance <strong>cover </strong>this surgery?</p>\n",
+        "explanationViHtml": "<p>Bảo hiểm y tế của t&ocirc;i c&oacute; <strong>chi trả</strong> cho ca phẫu thuật n&agrave;y kh&ocirc;ng?</p>\n",
+        "transcriptHtml": "<p>Will my medical insurance <strong>cover </strong>this surgery?</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b185",
+        "questionNumber": 5,
+        "questionText": "expiration",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev029.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/expiration.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the end",
+            "raw": "the end",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>He&nbsp;stayed&nbsp;on past the <strong>expiration </strong>of his&nbsp;tourist&nbsp;visa.</p>\n",
+        "explanationViHtml": "<p>Anh ấy đ&atilde; ở lại sau khi thị thực du lịch của anh ấy <strong>hết hạn</strong>.</p>\n",
+        "transcriptHtml": "<p>He&nbsp;stayed&nbsp;on past the <strong>expiration </strong>of his&nbsp;tourist&nbsp;visa.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b186",
+        "questionNumber": 6,
+        "questionText": "frequently",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev030.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/frequently.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "occurring commonly; widespread",
+            "raw": "occurring commonly; widespread",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Appliances <strong>frequently </strong>come with a one-year warranty.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c thiết bị gia dụng <strong>thường </strong>được bảo h&agrave;nh một năm.</p>\n",
+        "transcriptHtml": "<p>Appliances <strong>frequently </strong>come with a one-year warranty.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b187",
+        "questionNumber": 7,
+        "questionText": "imply",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev031.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/imply.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to indicate by inference",
+            "raw": "to indicate by inference",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The guarantee on the Walkman <strong>implied</strong> that all damages were covered under warranty for one year.</p>\n",
+        "explanationViHtml": "<p>Chế độ bảo h&agrave;nh của Walkman <strong>ngụ &yacute; </strong>rằng mọi hư hỏng đều được bảo h&agrave;nh trong một năm.</p>\n",
+        "transcriptHtml": "<p>The guarantee on the Walkman <strong>implied</strong> that all damages were covered under warranty for one year.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b188",
+        "questionNumber": 8,
+        "questionText": "promise",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev032.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/promise.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to pledge to do;  bring about;  or provide",
+            "raw": "to pledge to do;  bring about;  or provide",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>A warranty is a <strong>promise </strong>the manufacturer makes to the consumer.</p>\n",
+        "explanationViHtml": "<p>Bảo h&agrave;nh l&agrave; <strong>lời hứa </strong>của nh&agrave; sản xuất với người ti&ecirc;u d&ugrave;ng.</p>\n",
+        "transcriptHtml": "<p>A warranty is a <strong>promise </strong>the manufacturer makes to the consumer.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b189",
+        "questionNumber": 9,
+        "questionText": "protect",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev033.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/protect.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to guard",
+            "raw": "to guard",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Consumer laws are designed to <strong>protect </strong>the public against unscrupulous vendors.</p>\n",
+        "explanationViHtml": "<p>Luật bảo vệ người ti&ecirc;u d&ugrave;ng được thiết kế để <strong>bảo vệ</strong> c&ocirc;ng ch&uacute;ng khỏi những nh&agrave; cung cấp v&ocirc; đạo đức.</p>\n",
+        "transcriptHtml": "<p>Consumer laws are designed to <strong>protect </strong>the public against unscrupulous vendors.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b18a",
+        "questionNumber": 10,
+        "questionText": "reputation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev034.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reputation.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the overall quality of character",
+            "raw": "the overall quality of character",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Even though the salesperson showed me a product i had never heard of, I bought it because of the good <strong>reputation </strong>of the manufacturer.</p>\n",
+        "explanationViHtml": "<p>Mặc d&ugrave; nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng giới thiệu cho t&ocirc;i một sản phẩm m&agrave; t&ocirc;i chưa từng nghe đến, t&ocirc;i vẫn mua n&oacute; v&igrave; <strong>uy t&iacute;n</strong> của nh&agrave; sản xuất.</p>\n",
+        "transcriptHtml": "<p>Even though the salesperson showed me a product i had never heard of, I bought it because of the good <strong>reputation </strong>of the manufacturer.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b18b",
+        "questionNumber": 11,
+        "questionText": "require",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev035.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/require.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to deem necessary or essential",
+            "raw": "to deem necessary or essential",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>A car warranty may <strong>require </strong>the owner to have it serviced by a certified mechanic.</p>\n",
+        "explanationViHtml": "<p>Bảo h&agrave;nh xe c&oacute; thể <strong>y&ecirc;u cầu</strong> chủ xe phải mang xe đến thợ m&aacute;y được chứng nhận để bảo dưỡng.</p>\n",
+        "transcriptHtml": "<p>A car warranty may <strong>require </strong>the owner to have it serviced by a certified mechanic.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b18c",
+        "questionNumber": 12,
+        "questionText": "variety",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev036.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/variety.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Many different kinds",
+            "raw": "Many different kinds",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>He resigned for a <strong>variety </strong>of reasons.</p>\n",
+        "explanationViHtml": "<p>&Ocirc;ng từ chức v&igrave; <strong>nhiều</strong> l&yacute; do.</p>\n",
+        "transcriptHtml": "<p>He resigned for a <strong>variety </strong>of reasons.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bed92d7f67f5140b181",
+      "word": "characteristic",
+      "phonetic": "/ˌkærəktəˈrɪstɪk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev025.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/characteristic.mp3",
+      "meaningVi": "",
+      "meaningEn": "a typical feature or quality that something/somebody has",
+      "exampleEnHtml": "<p>The cooking pot has features <strong>characteristic </strong>of the brand, such as &ldquo;stay cool&quot; handles.</p>\n",
+      "exampleViHtml": "<p>Nồi nấu c&oacute; những<strong> </strong>t&iacute;nh năng <strong>đặc trưng</strong> của thương hiệu n&agrave;y, chẳng hạn như tay cầm &ldquo;giữ m&aacute;t&rdquo;.</p>\n",
+      "exampleEn": "The cooking pot has features characteristic of the brand, such as “stay cool\" handles.",
+      "exampleVi": "Nồi nấu có những tính năng đặc trưng của thương hiệu này, chẳng hạn như tay cầm “giữ mát”."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b182",
+      "word": "consequence",
+      "phonetic": "/ˈkɑːnsəkwens/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev026.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/consequence.mp3",
+      "meaningVi": "Hậu quả",
+      "meaningEn": "that which follows necessarily",
+      "exampleEnHtml": "<p>The <strong>consequence </strong>of not following the service instructions for your car is that the warranty is invalidated.</p>\n",
+      "exampleViHtml": "<p><strong>Hậu quả</strong> của việc kh&ocirc;ng tu&acirc;n theo hướng dẫn bảo dưỡng xe l&agrave; chế độ bảo h&agrave;nh sẽ kh&ocirc;ng c&ograve;n hiệu lực.</p>\n",
+      "exampleEn": "The consequence of not following the service instructions for your car is that the warranty is invalidated.",
+      "exampleVi": "Hậu quả của việc không tuân theo hướng dẫn bảo dưỡng xe là chế độ bảo hành sẽ không còn hiệu lực."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b183",
+      "word": "consider",
+      "phonetic": "/kənˈsɪdər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev027.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/consider.mp3",
+      "meaningVi": "cân nhắc",
+      "meaningEn": "to think about carefully",
+      "exampleEnHtml": "<p>The customer <strong>considered </strong>buying the VCR until he learned that the warranty coverage was very limited.</p>\n",
+      "exampleViHtml": "<p>Kh&aacute;ch h&agrave;ng đ&atilde; <strong>c&acirc;n nhắc</strong> việc mua đầu VCR cho đến khi biết rằng thời hạn bảo h&agrave;nh rất hạn chế.</p>\n",
+      "exampleEn": "The customer considered buying the VCR until he learned that the warranty coverage was very limited.",
+      "exampleVi": "Khách hàng đã cân nhắc việc mua đầu VCR cho đến khi biết rằng thời hạn bảo hành rất hạn chế."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b184",
+      "word": "cover",
+      "phonetic": "/ˈkʌvər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev028.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/cover.mp3",
+      "meaningVi": "chi trả",
+      "meaningEn": "to provide protection against",
+      "exampleEnHtml": "<p>Will my medical insurance <strong>cover </strong>this surgery?</p>\n",
+      "exampleViHtml": "<p>Bảo hiểm y tế của t&ocirc;i c&oacute; <strong>chi trả</strong> cho ca phẫu thuật n&agrave;y kh&ocirc;ng?</p>\n",
+      "exampleEn": "Will my medical insurance cover this surgery?",
+      "exampleVi": "Bảo hiểm y tế của tôi có chi trả cho ca phẫu thuật này không?"
+    },
+    {
+      "id": "61c14bed92d7f67f5140b185",
+      "word": "expiration",
+      "phonetic": "/ˌekspəˈreɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev029.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/expiration.mp3",
+      "meaningVi": "hết hạn",
+      "meaningEn": "the end",
+      "exampleEnHtml": "<p>He&nbsp;stayed&nbsp;on past the <strong>expiration </strong>of his&nbsp;tourist&nbsp;visa.</p>\n",
+      "exampleViHtml": "<p>Anh ấy đ&atilde; ở lại sau khi thị thực du lịch của anh ấy <strong>hết hạn</strong>.</p>\n",
+      "exampleEn": "He stayed on past the expiration of his tourist visa.",
+      "exampleVi": "Anh ấy đã ở lại sau khi thị thực du lịch của anh ấy hết hạn."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b186",
+      "word": "frequently",
+      "phonetic": "/ˈfriːkwəntli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev030.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/frequently.mp3",
+      "meaningVi": "thường",
+      "meaningEn": "occurring commonly; widespread",
+      "exampleEnHtml": "<p>Appliances <strong>frequently </strong>come with a one-year warranty.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c thiết bị gia dụng <strong>thường </strong>được bảo h&agrave;nh một năm.</p>\n",
+      "exampleEn": "Appliances frequently come with a one-year warranty.",
+      "exampleVi": "Các thiết bị gia dụng thường được bảo hành một năm."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b187",
+      "word": "imply",
+      "phonetic": "/ɪmˈplaɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev031.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/imply.mp3",
+      "meaningVi": "ngụ ý",
+      "meaningEn": "to indicate by inference",
+      "exampleEnHtml": "<p>The guarantee on the Walkman <strong>implied</strong> that all damages were covered under warranty for one year.</p>\n",
+      "exampleViHtml": "<p>Chế độ bảo h&agrave;nh của Walkman <strong>ngụ &yacute; </strong>rằng mọi hư hỏng đều được bảo h&agrave;nh trong một năm.</p>\n",
+      "exampleEn": "The guarantee on the Walkman implied that all damages were covered under warranty for one year.",
+      "exampleVi": "Chế độ bảo hành của Walkman ngụ ý rằng mọi hư hỏng đều được bảo hành trong một năm."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b188",
+      "word": "promise",
+      "phonetic": "/ˈprɑːmɪs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev032.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/promise.mp3",
+      "meaningVi": "lời hứa",
+      "meaningEn": "to pledge to do;  bring about;  or provide",
+      "exampleEnHtml": "<p>A warranty is a <strong>promise </strong>the manufacturer makes to the consumer.</p>\n",
+      "exampleViHtml": "<p>Bảo h&agrave;nh l&agrave; <strong>lời hứa </strong>của nh&agrave; sản xuất với người ti&ecirc;u d&ugrave;ng.</p>\n",
+      "exampleEn": "A warranty is a promise the manufacturer makes to the consumer.",
+      "exampleVi": "Bảo hành là lời hứa của nhà sản xuất với người tiêu dùng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b189",
+      "word": "protect",
+      "phonetic": "/prəˈtekt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev033.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/protect.mp3",
+      "meaningVi": "bảo vệ",
+      "meaningEn": "to guard",
+      "exampleEnHtml": "<p>Consumer laws are designed to <strong>protect </strong>the public against unscrupulous vendors.</p>\n",
+      "exampleViHtml": "<p>Luật bảo vệ người ti&ecirc;u d&ugrave;ng được thiết kế để <strong>bảo vệ</strong> c&ocirc;ng ch&uacute;ng khỏi những nh&agrave; cung cấp v&ocirc; đạo đức.</p>\n",
+      "exampleEn": "Consumer laws are designed to protect the public against unscrupulous vendors.",
+      "exampleVi": "Luật bảo vệ người tiêu dùng được thiết kế để bảo vệ công chúng khỏi những nhà cung cấp vô đạo đức."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b18a",
+      "word": "reputation",
+      "phonetic": "/ˌrepjuˈteɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev034.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reputation.mp3",
+      "meaningVi": "uy tín",
+      "meaningEn": "the overall quality of character",
+      "exampleEnHtml": "<p>Even though the salesperson showed me a product i had never heard of, I bought it because of the good <strong>reputation </strong>of the manufacturer.</p>\n",
+      "exampleViHtml": "<p>Mặc d&ugrave; nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng giới thiệu cho t&ocirc;i một sản phẩm m&agrave; t&ocirc;i chưa từng nghe đến, t&ocirc;i vẫn mua n&oacute; v&igrave; <strong>uy t&iacute;n</strong> của nh&agrave; sản xuất.</p>\n",
+      "exampleEn": "Even though the salesperson showed me a product i had never heard of, I bought it because of the good reputation of the manufacturer.",
+      "exampleVi": "Mặc dù nhân viên bán hàng giới thiệu cho tôi một sản phẩm mà tôi chưa từng nghe đến, tôi vẫn mua nó vì uy tín của nhà sản xuất."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b18b",
+      "word": "require",
+      "phonetic": "/rɪˈkwaɪər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev035.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/require.mp3",
+      "meaningVi": "yêu cầu",
+      "meaningEn": "to deem necessary or essential",
+      "exampleEnHtml": "<p>A car warranty may <strong>require </strong>the owner to have it serviced by a certified mechanic.</p>\n",
+      "exampleViHtml": "<p>Bảo h&agrave;nh xe c&oacute; thể <strong>y&ecirc;u cầu</strong> chủ xe phải mang xe đến thợ m&aacute;y được chứng nhận để bảo dưỡng.</p>\n",
+      "exampleEn": "A car warranty may require the owner to have it serviced by a certified mechanic.",
+      "exampleVi": "Bảo hành xe có thể yêu cầu chủ xe phải mang xe đến thợ máy được chứng nhận để bảo dưỡng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b18c",
+      "word": "variety",
+      "phonetic": "/vəˈraɪəti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev036.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/variety.mp3",
+      "meaningVi": "nhiều",
+      "meaningEn": "Many different kinds",
+      "exampleEnHtml": "<p>He resigned for a <strong>variety </strong>of reasons.</p>\n",
+      "exampleViHtml": "<p>&Ocirc;ng từ chức v&igrave; <strong>nhiều</strong> l&yacute; do.</p>\n",
+      "exampleEn": "He resigned for a variety of reasons.",
+      "exampleVi": "Ông từ chức vì nhiều lý do."
+    }
+  ],
+  "totalFlashcards": 12
+}

@@ -1,0 +1,808 @@
+{
+  "topicId": "6204f9eed1bfab7a5b0031dd",
+  "title": "FUTURE SIMPLE TENSE - Practice 1",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032ce",
+        "questionNumber": 1,
+        "questionText": "_______ you put your car away from me, please ? Yes, certainly.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Will",
+            "raw": "A. Will",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Do",
+            "raw": "B. Do",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Are",
+            "raw": "C. Are",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Does",
+            "raw": "D. Does",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_______ you put your car away from me, please? Yes, certainly.' requires an auxiliary/modal verb to form a polite request. In English, 'Will you...' is commonly used to make polite requests, especially when asking someone to do something for you. The other options ('Do', 'Are', 'Does') do not fit the structure of a polite request in this context.<br><ul><li><b>Will</b> (modal verb): 'Will' is a modal verb used to make polite requests or offers. The structure 'Will you + base verb' is correct for asking someone to do something.</li><li><b>Do</b> (auxiliary verb): 'Do' is an auxiliary verb used for questions in the present simple tense, but not for polite requests in this form.</li><li><b>Are</b> (verb (to be)): 'Are' is a form of the verb 'to be', used for present continuous tense or questions about state, not for making requests.</li><li><b>Does</b> (auxiliary verb): 'Does' is an auxiliary verb used for present simple questions with third person singular subjects, not for polite requests.</li></ul><b>Related structure or vocabulary:</b> Polite requests: 'Will you + base verb...?' is a common structure for making polite requests in English.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '_______ you put your car away from me, please? Yes, certainly.' cần một trợ động từ hoặc động từ khuyết thiếu để tạo thành câu yêu cầu lịch sự. Trong tiếng Anh, 'Will you...' thường được dùng để đưa ra lời yêu cầu lịch sự, đặc biệt khi nhờ ai đó làm gì cho mình. Các lựa chọn khác ('Do', 'Are', 'Does') không phù hợp với cấu trúc câu yêu cầu lịch sự trong trường hợp này.<br><ul><li><b>Will</b> (động từ khuyết thiếu): 'Will' là động từ khuyết thiếu, dùng để đưa ra lời yêu cầu hoặc đề nghị lịch sự. Cấu trúc 'Will you + động từ nguyên thể' là đúng khi muốn nhờ ai đó làm gì.</li><li><b>Do</b> (trợ động từ): 'Do' là trợ động từ dùng trong câu hỏi thì hiện tại đơn, nhưng không dùng để yêu cầu lịch sự theo cấu trúc này.</li><li><b>Are</b> (động từ 'to be'): 'Are' là động từ 'to be', dùng trong thì hiện tại tiếp diễn hoặc hỏi về trạng thái, không dùng để yêu cầu.</li><li><b>Does</b> (trợ động từ): 'Does' là trợ động từ dùng trong câu hỏi thì hiện tại đơn với chủ ngữ ngôi thứ ba số ít, không dùng để yêu cầu lịch sự.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc yêu cầu lịch sự: 'Will you + động từ nguyên thể...?' là cấu trúc phổ biến để nhờ ai đó làm gì một cách lịch sự trong tiếng Anh.<br><br><b>Tạm dịch:</b> Bạn có thể đỗ xe của mình xa tôi ra được không? Vâng, chắc chắn rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_______ you put your car away from me, please? Yes, certainly.' requires an auxiliary/modal verb to form a polite request. In English, 'Will you...' is commonly used to make polite requests, especially when asking someone to do something for you. The other options ('Do', 'Are', 'Does') do not fit the structure of a polite request in this context.<br><ul><li><b>Will</b> (modal verb): 'Will' is a modal verb used to make polite requests or offers. The structure 'Will you + base verb' is correct for asking someone to do something.</li><li><b>Do</b> (auxiliary verb): 'Do' is an auxiliary verb used for questions in the present simple tense, but not for polite requests in this form.</li><li><b>Are</b> (verb (to be)): 'Are' is a form of the verb 'to be', used for present continuous tense or questions about state, not for making requests.</li><li><b>Does</b> (auxiliary verb): 'Does' is an auxiliary verb used for present simple questions with third person singular subjects, not for polite requests.</li></ul><b>Related structure or vocabulary:</b> Polite requests: 'Will you + base verb...?' is a common structure for making polite requests in English.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032cf",
+        "questionNumber": 2,
+        "questionText": "I’ve torn my dress. I ____ it for you.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "mend",
+            "raw": "A. mend",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will mend",
+            "raw": "B. will mend",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "am going to mend",
+            "raw": "C. am going to mend",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to mend",
+            "raw": "D. to mend",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is responding to a situation that has just happened (the dress is torn) and is making a decision at the moment of speaking to help. In English, when we make a decision at the moment of speaking (an instant decision), we use 'will' + base verb. Therefore, the correct answer is 'will mend'.<br><ul><li><b>mend</b> (verb (base form)): This is the base form of the verb, which cannot stand alone after the subject 'I' in this context.</li><li><b>will mend</b> (modal verb + base verb): 'Will' + base verb is used for instant decisions or offers made at the moment of speaking.</li><li><b>am going to mend</b> (be going to + base verb): 'Be going to' is used for plans or intentions decided before the moment of speaking, not for instant decisions.</li><li><b>to mend</b> (to + base verb (infinitive)): The infinitive form is not used after the subject 'I' without another verb before it.</li></ul><b>Related structure or vocabulary:</b> Use 'will' for instant decisions, offers, or promises made at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, người nói đang phản ứng với một tình huống vừa xảy ra (váy bị rách) và đưa ra quyết định ngay tại thời điểm nói để giúp đỡ. Trong tiếng Anh, khi chúng ta đưa ra quyết định ngay tại thời điểm nói (quyết định tức thì), chúng ta sử dụng 'will' + động từ nguyên thể. Vì vậy, đáp án đúng là 'will mend'.<br><ul><li><b>mend</b> (động từ nguyên thể): Đây là động từ nguyên thể, không thể đứng một mình sau chủ ngữ 'I' trong trường hợp này.</li><li><b>will mend</b> (động từ khuyết thiếu + động từ nguyên thể): 'Will' + động từ nguyên thể được dùng cho các quyết định tức thì hoặc đề nghị giúp đỡ tại thời điểm nói.</li><li><b>am going to mend</b> (be going to + động từ nguyên thể): 'Be going to' dùng cho các kế hoạch hoặc ý định đã được quyết định trước thời điểm nói, không dùng cho quyết định tức thì.</li><li><b>to mend</b> (to + động từ nguyên thể): Dạng động từ nguyên thể có 'to' không dùng sau chủ ngữ 'I' nếu không có động từ khác đứng trước.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'will' cho các quyết định tức thì, đề nghị hoặc lời hứa tại thời điểm nói.<br><br><b>Tạm dịch:</b> Tôi đã làm rách váy của mình. Tôi sẽ vá nó cho bạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is responding to a situation that has just happened (the dress is torn) and is making a decision at the moment of speaking to help. In English, when we make a decision at the moment of speaking (an instant decision), we use 'will' + base verb. Therefore, the correct answer is 'will mend'.<br><ul><li><b>mend</b> (verb (base form)): This is the base form of the verb, which cannot stand alone after the subject 'I' in this context.</li><li><b>will mend</b> (modal verb + base verb): 'Will' + base verb is used for instant decisions or offers made at the moment of speaking.</li><li><b>am going to mend</b> (be going to + base verb): 'Be going to' is used for plans or intentions decided before the moment of speaking, not for instant decisions.</li><li><b>to mend</b> (to + base verb (infinitive)): The infinitive form is not used after the subject 'I' without another verb before it.</li></ul><b>Related structure or vocabulary:</b> Use 'will' for instant decisions, offers, or promises made at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d0",
+        "questionNumber": 3,
+        "questionText": "His five-year-old son _____ to school this fall.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "shall go",
+            "raw": "A. shall go",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will goes",
+            "raw": "B. will goes",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will go",
+            "raw": "C. will go",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "shall goes",
+            "raw": "D. shall goes",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a correct future tense form of the verb 'go' to match the subject 'his five-year-old son.' In English, for future simple tense, we use 'will' or 'shall' + base verb. 'Will' is commonly used for all subjects, especially in American English. The verb after 'will' or 'shall' must be in its base form (go).<br><ul><li><b>shall go</b> (modal verb + base verb): 'Shall' + base verb is grammatically correct, but 'shall' is rarely used with 'he/she/it' in modern English, especially in American English.</li><li><b>will goes</b> (modal verb + verb (wrong form)): Incorrect. After 'will,' the verb must be in base form, not 'goes.'</li><li><b>will go</b> (modal verb + base verb): Correct. 'Will' + base verb 'go' is the standard future simple tense for all subjects.</li><li><b>shall goes</b> (modal verb + verb (wrong form)): Incorrect. After 'shall,' the verb must be in base form, not 'goes.'</li></ul><b>Related structure or vocabulary:</b> Future Simple Tense: Subject + will/shall + base verb. 'Will' is used for all subjects in modern English. The verb after 'will/shall' must be in base form.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ ở thì tương lai đơn phù hợp với chủ ngữ 'his five-year-old son.' Trong tiếng Anh, thì tương lai đơn được tạo bằng 'will' hoặc 'shall' + động từ nguyên thể. 'Will' được dùng phổ biến cho tất cả các chủ ngữ, đặc biệt trong tiếng Anh Mỹ. Động từ sau 'will' hoặc 'shall' phải ở dạng nguyên thể (go).<br><ul><li><b>shall go</b> (động từ khuyết thiếu + động từ nguyên thể): 'Shall' + động từ nguyên thể là đúng về mặt ngữ pháp, nhưng 'shall' hiếm khi được dùng với 'he/she/it' trong tiếng Anh hiện đại, đặc biệt là tiếng Anh Mỹ.</li><li><b>will goes</b> (động từ khuyết thiếu + động từ (sai dạng)): Sai. Sau 'will', động từ phải ở dạng nguyên thể, không phải 'goes'.</li><li><b>will go</b> (động từ khuyết thiếu + động từ nguyên thể): Đúng. 'Will' + động từ nguyên thể 'go' là cấu trúc chuẩn của thì tương lai đơn cho mọi chủ ngữ.</li><li><b>shall goes</b> (động từ khuyết thiếu + động từ (sai dạng)): Sai. Sau 'shall', động từ phải ở dạng nguyên thể, không phải 'goes'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn: Chủ ngữ + will/shall + động từ nguyên thể. 'Will' được dùng cho mọi chủ ngữ trong tiếng Anh hiện đại. Động từ sau 'will/shall' phải ở dạng nguyên thể.<br><br><b>Tạm dịch:</b> Con trai năm tuổi của anh ấy sẽ đi học vào mùa thu này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a correct future tense form of the verb 'go' to match the subject 'his five-year-old son.' In English, for future simple tense, we use 'will' or 'shall' + base verb. 'Will' is commonly used for all subjects, especially in American English. The verb after 'will' or 'shall' must be in its base form (go).<br><ul><li><b>shall go</b> (modal verb + base verb): 'Shall' + base verb is grammatically correct, but 'shall' is rarely used with 'he/she/it' in modern English, especially in American English.</li><li><b>will goes</b> (modal verb + verb (wrong form)): Incorrect. After 'will,' the verb must be in base form, not 'goes.'</li><li><b>will go</b> (modal verb + base verb): Correct. 'Will' + base verb 'go' is the standard future simple tense for all subjects.</li><li><b>shall goes</b> (modal verb + verb (wrong form)): Incorrect. After 'shall,' the verb must be in base form, not 'goes.'</li></ul><b>Related structure or vocabulary:</b> Future Simple Tense: Subject + will/shall + base verb. 'Will' is used for all subjects in modern English. The verb after 'will/shall' must be in base form.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d1",
+        "questionNumber": 4,
+        "questionText": "I can’t understand this letter. I____ my son. He will translate it for you.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will call",
+            "raw": "A. will call",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "am calling",
+            "raw": "B. am calling",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "called",
+            "raw": "C. called",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "calls",
+            "raw": "D. calls",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is making a decision at the moment of speaking to call their son for help with translating the letter. In English, when we decide to do something at the moment of speaking (an instant decision), we use 'will' + base verb. Therefore, the correct answer is 'will call'.<br><ul><li><b>will call</b> (verb (future simple)): 'Will call' is the future simple tense, used for decisions made at the moment of speaking or for offers and promises.</li><li><b>am calling</b> (verb (present continuous)): 'Am calling' is the present continuous tense, usually used for actions happening now or planned future arrangements, not for instant decisions.</li><li><b>called</b> (verb (past simple)): 'Called' is the past simple tense, used for actions that happened in the past.</li><li><b>calls</b> (verb (present simple)): 'Calls' is the present simple tense, used for habitual actions or general truths.</li></ul><b>Related structure or vocabulary:</b> We use 'will' + base verb for instant decisions, offers, and promises. Example: 'It's cold. I will close the window.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, người nói đang quyết định ngay tại thời điểm nói sẽ gọi con trai mình để nhờ giúp dịch lá thư. Trong tiếng Anh, khi chúng ta quyết định làm điều gì đó ngay lúc nói (quyết định tức thì), ta dùng 'will' + động từ nguyên thể. Vì vậy, đáp án đúng là 'will call'.<br><ul><li><b>will call</b> (động từ (thì tương lai đơn)): 'Will call' là thì tương lai đơn, dùng cho các quyết định được đưa ra ngay tại thời điểm nói hoặc cho lời đề nghị, hứa hẹn.</li><li><b>am calling</b> (động từ (thì hiện tại tiếp diễn)): 'Am calling' là thì hiện tại tiếp diễn, thường dùng cho hành động đang diễn ra hoặc kế hoạch đã định trước, không dùng cho quyết định tức thì.</li><li><b>called</b> (động từ (thì quá khứ đơn)): 'Called' là thì quá khứ đơn, dùng cho hành động đã xảy ra trong quá khứ.</li><li><b>calls</b> (động từ (thì hiện tại đơn)): 'Calls' là thì hiện tại đơn, dùng cho hành động lặp đi lặp lại hoặc sự thật hiển nhiên.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: will + động từ nguyên thể dùng cho quyết định tức thì, lời đề nghị hoặc hứa hẹn. Ví dụ: 'It's raining. I will take an umbrella.'<br><br><b>Tạm dịch:</b> Tôi không hiểu bức thư này. Tôi sẽ gọi con trai tôi. Nó sẽ dịch cho bạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is making a decision at the moment of speaking to call their son for help with translating the letter. In English, when we decide to do something at the moment of speaking (an instant decision), we use 'will' + base verb. Therefore, the correct answer is 'will call'.<br><ul><li><b>will call</b> (verb (future simple)): 'Will call' is the future simple tense, used for decisions made at the moment of speaking or for offers and promises.</li><li><b>am calling</b> (verb (present continuous)): 'Am calling' is the present continuous tense, usually used for actions happening now or planned future arrangements, not for instant decisions.</li><li><b>called</b> (verb (past simple)): 'Called' is the past simple tense, used for actions that happened in the past.</li><li><b>calls</b> (verb (present simple)): 'Calls' is the present simple tense, used for habitual actions or general truths.</li></ul><b>Related structure or vocabulary:</b> We use 'will' + base verb for instant decisions, offers, and promises. Example: 'It's cold. I will close the window.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d2",
+        "questionNumber": 5,
+        "questionText": "If I catch some fish, ____ you cook them for me ?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are",
+            "raw": "A. are",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "does",
+            "raw": "B. does",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "do",
+            "raw": "C. do",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will",
+            "raw": "D. will",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If I catch some fish, ____ you cook them for me?' requires a verb that matches the subject 'you' and fits the structure of a first conditional sentence. In first conditional sentences, we use 'will' + base verb in the main clause to talk about a possible future action that depends on a present condition.<br><ul><li><b>are</b> (verb (to be)): 'Are' is the present tense of the verb 'to be' used with plural subjects or 'you', but it does not fit the structure of the first conditional, which requires 'will' + base verb.</li><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used for third person singular subjects (he, she, it) in the present simple tense. Here, the subject is 'you', so 'does' is incorrect.</li><li><b>do</b> (auxiliary verb): 'Do' is the auxiliary verb used for plural subjects and 'you' in the present simple tense. However, in the first conditional, we need 'will' + base verb, not 'do'.</li><li><b>will</b> (modal verb): 'Will' is the modal verb used to express future actions or promises. In the first conditional, 'will' is used in the main clause after 'if'.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If I catch some fish, ____ you cook them for me?' cần một động từ phù hợp với chủ ngữ 'you' và đúng với cấu trúc câu điều kiện loại 1. Trong câu điều kiện loại 1, ta dùng 'will' + động từ nguyên thể ở mệnh đề chính để nói về một hành động có thể xảy ra trong tương lai nếu điều kiện ở hiện tại được đáp ứng.<br><ul><li><b>are</b> (động từ (to be)): 'Are' là động từ 'to be' ở thì hiện tại dùng với chủ ngữ số nhiều hoặc 'you', nhưng không phù hợp với cấu trúc câu điều kiện loại 1, vốn cần 'will' + động từ nguyên thể.</li><li><b>does</b> (trợ động từ): 'Does' là trợ động từ dùng cho chủ ngữ ngôi thứ ba số ít (he, she, it) ở thì hiện tại đơn. Ở đây chủ ngữ là 'you' nên không đúng.</li><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng cho chủ ngữ số nhiều và 'you' ở thì hiện tại đơn. Tuy nhiên, trong câu điều kiện loại 1, ta cần 'will' + động từ nguyên thể, không phải 'do'.</li><li><b>will</b> (động từ khuyết thiếu): 'Will' là động từ khuyết thiếu dùng để diễn tả hành động hoặc lời hứa trong tương lai. Trong câu điều kiện loại 1, 'will' được dùng ở mệnh đề chính sau 'if'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể. Dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Nếu tôi bắt được cá, bạn sẽ nấu chúng cho tôi chứ?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If I catch some fish, ____ you cook them for me?' requires a verb that matches the subject 'you' and fits the structure of a first conditional sentence. In first conditional sentences, we use 'will' + base verb in the main clause to talk about a possible future action that depends on a present condition.<br><ul><li><b>are</b> (verb (to be)): 'Are' is the present tense of the verb 'to be' used with plural subjects or 'you', but it does not fit the structure of the first conditional, which requires 'will' + base verb.</li><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used for third person singular subjects (he, she, it) in the present simple tense. Here, the subject is 'you', so 'does' is incorrect.</li><li><b>do</b> (auxiliary verb): 'Do' is the auxiliary verb used for plural subjects and 'you' in the present simple tense. However, in the first conditional, we need 'will' + base verb, not 'do'.</li><li><b>will</b> (modal verb): 'Will' is the modal verb used to express future actions or promises. In the first conditional, 'will' is used in the main clause after 'if'.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d3",
+        "questionNumber": 6,
+        "questionText": "A glass of wine now and then ____ you any harm.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will do",
+            "raw": "A. will do",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "do",
+            "raw": "B. do",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "did",
+            "raw": "C. did",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "won't do",
+            "raw": "D. won't do",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A glass of wine now and then ____ you any harm.' requires a verb that fits the context and tense of the sentence. The phrase 'now and then' means occasionally, and the sentence is making a general statement about the effect of drinking a glass of wine occasionally. In English, when making general statements about the present or future, we often use the simple present or simple future tense. However, the phrase 'will do you any harm' is a common expression, but since the sentence is negative ('not do you any harm'), the correct form is 'won't do you any harm', which is the contracted form of 'will not do'.<br><ul><li><b>will do</b> (verb phrase): Simple future tense, positive form. 'A glass of wine now and then will do you any harm' is incorrect because it suggests that wine will harm you, which is not the intended meaning.</li><li><b>do</b> (verb): Simple present tense, but the sentence structure 'do you any harm' without an auxiliary verb is incorrect in this context.</li><li><b>did</b> (verb): Simple past tense, which does not fit the general statement about the present or future.</li><li><b>won't do</b> (verb phrase): Contracted form of 'will not do', simple future tense, negative form. This fits the sentence structure and meaning: 'A glass of wine now and then won't do you any harm.'</li></ul><b>Related structure or vocabulary:</b> General statements about the present/future often use 'will (not) do'. The phrase 'won't do you any harm' is a common English expression meaning 'will not harm you'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'A glass of wine now and then ____ you any harm.' cần một động từ phù hợp với ngữ cảnh và thì của câu. Cụm từ 'now and then' nghĩa là thỉnh thoảng, và câu này đang đưa ra một nhận định chung về việc uống một ly rượu vang thỉnh thoảng. Trong tiếng Anh, khi nói về những nhận định chung ở hiện tại hoặc tương lai, chúng ta thường dùng thì hiện tại đơn hoặc tương lai đơn. Tuy nhiên, cụm 'will do you any harm' là một cách diễn đạt phổ biến, nhưng vì câu mang nghĩa phủ định ('không gây hại cho bạn'), nên dạng đúng là 'won't do you any harm', là dạng rút gọn của 'will not do'.<br><ul><li><b>will do</b> (cụm động từ): Thì tương lai đơn, dạng khẳng định. 'A glass of wine now and then will do you any harm' là không đúng vì nó mang nghĩa rượu vang sẽ gây hại cho bạn, không đúng với ý câu.</li><li><b>do</b> (động từ): Thì hiện tại đơn, nhưng cấu trúc 'do you any harm' mà không có trợ động từ là không đúng trong ngữ cảnh này.</li><li><b>did</b> (động từ): Thì quá khứ đơn, không phù hợp với nhận định chung về hiện tại hoặc tương lai.</li><li><b>won't do</b> (cụm động từ): Dạng rút gọn của 'will not do', thì tương lai đơn, dạng phủ định. Đây là đáp án phù hợp với cấu trúc và ý nghĩa của câu: 'A glass of wine now and then won't do you any harm.'</li></ul><b>Cấu trúc và từ vựng:</b> Những nhận định chung về hiện tại/tương lai thường dùng 'will (not) do'. Cụm 'won't do you any harm' là một cách diễn đạt phổ biến trong tiếng Anh, nghĩa là 'không gây hại cho bạn'.<br><br><b>Tạm dịch:</b> Một ly rượu vang thỉnh thoảng sẽ không gây hại gì cho bạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A glass of wine now and then ____ you any harm.' requires a verb that fits the context and tense of the sentence. The phrase 'now and then' means occasionally, and the sentence is making a general statement about the effect of drinking a glass of wine occasionally. In English, when making general statements about the present or future, we often use the simple present or simple future tense. However, the phrase 'will do you any harm' is a common expression, but since the sentence is negative ('not do you any harm'), the correct form is 'won't do you any harm', which is the contracted form of 'will not do'.<br><ul><li><b>will do</b> (verb phrase): Simple future tense, positive form. 'A glass of wine now and then will do you any harm' is incorrect because it suggests that wine will harm you, which is not the intended meaning.</li><li><b>do</b> (verb): Simple present tense, but the sentence structure 'do you any harm' without an auxiliary verb is incorrect in this context.</li><li><b>did</b> (verb): Simple past tense, which does not fit the general statement about the present or future.</li><li><b>won't do</b> (verb phrase): Contracted form of 'will not do', simple future tense, negative form. This fits the sentence structure and meaning: 'A glass of wine now and then won't do you any harm.'</li></ul><b>Related structure or vocabulary:</b> General statements about the present/future often use 'will (not) do'. The phrase 'won't do you any harm' is a common English expression meaning 'will not harm you'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d4",
+        "questionNumber": 7,
+        "questionText": "_____ you have another cup of coffee ? No, thanks.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Do",
+            "raw": "A. Do",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Does",
+            "raw": "B. Does",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Will",
+            "raw": "C. Will",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Are",
+            "raw": "D. Are",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_____ you have another cup of coffee? No, thanks.' requires an auxiliary verb to form a question. In this context, the speaker is offering another cup of coffee, so the correct structure is 'Will you have another cup of coffee?' which is used to make polite offers or invitations in English.<br><ul><li><b>Do</b> (auxiliary verb): 'Do you have another cup of coffee?' is a question about possession or habit, not an offer. It is not appropriate for making offers.</li><li><b>Does</b> (auxiliary verb): 'Does you have another cup of coffee?' is grammatically incorrect because 'does' is used with third person singular subjects (he, she, it), not 'you'.</li><li><b>Will</b> (auxiliary verb): 'Will you have another cup of coffee?' is the correct form for making polite offers or invitations.</li><li><b>Are</b> (auxiliary verb): 'Are you have another cup of coffee?' is grammatically incorrect because 'are' is not used with 'have' in this context.</li></ul><b>Related structure or vocabulary:</b> Use 'Will you ...?' to make polite offers or invitations in English.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '_____ you have another cup of coffee? No, thanks.' cần một trợ động từ để tạo thành câu hỏi. Trong ngữ cảnh này, người nói đang mời thêm một tách cà phê, nên cấu trúc đúng là 'Will you have another cup of coffee?' – đây là cách dùng phổ biến để đưa ra lời mời hoặc đề nghị lịch sự trong tiếng Anh.<br><ul><li><b>Do</b> (trợ động từ): 'Do you have another cup of coffee?' là câu hỏi về sự sở hữu hoặc thói quen, không phù hợp để đưa ra lời mời.</li><li><b>Does</b> (trợ động từ): 'Does you have another cup of coffee?' là sai ngữ pháp vì 'does' dùng cho chủ ngữ số ít ngôi thứ ba (he, she, it), không dùng với 'you'.</li><li><b>Will</b> (trợ động từ): 'Will you have another cup of coffee?' là cấu trúc đúng để đưa ra lời mời hoặc đề nghị lịch sự.</li><li><b>Are</b> (trợ động từ): 'Are you have another cup of coffee?' là sai ngữ pháp vì 'are' không dùng với 'have' trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc 'Will you ...?' dùng để đưa ra lời mời hoặc đề nghị lịch sự trong tiếng Anh.<br><br><b>Tạm dịch:</b> Bạn có muốn uống thêm một tách cà phê không? – Không, cảm ơn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_____ you have another cup of coffee? No, thanks.' requires an auxiliary verb to form a question. In this context, the speaker is offering another cup of coffee, so the correct structure is 'Will you have another cup of coffee?' which is used to make polite offers or invitations in English.<br><ul><li><b>Do</b> (auxiliary verb): 'Do you have another cup of coffee?' is a question about possession or habit, not an offer. It is not appropriate for making offers.</li><li><b>Does</b> (auxiliary verb): 'Does you have another cup of coffee?' is grammatically incorrect because 'does' is used with third person singular subjects (he, she, it), not 'you'.</li><li><b>Will</b> (auxiliary verb): 'Will you have another cup of coffee?' is the correct form for making polite offers or invitations.</li><li><b>Are</b> (auxiliary verb): 'Are you have another cup of coffee?' is grammatically incorrect because 'are' is not used with 'have' in this context.</li></ul><b>Related structure or vocabulary:</b> Use 'Will you ...?' to make polite offers or invitations in English.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d5",
+        "questionNumber": 8,
+        "questionText": "____ you open the door, please? Yes, certainly.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Are",
+            "raw": "A. Are",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Did",
+            "raw": "B. Did",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Will",
+            "raw": "C. Will",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Do",
+            "raw": "D. Do",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '____ you open the door, please? Yes, certainly.' requires an auxiliary/modal verb to form a polite request. In English, 'Will you...' is commonly used to politely ask someone to do something. The other options do not fit the context of making a polite request.<br><ul><li><b>Are</b> (auxiliary verb): 'Are you open the door?' is grammatically incorrect because 'are' is not used to form requests in this way.</li><li><b>Did</b> (auxiliary verb (past simple)): 'Did you open the door?' is a question about a past action, not a request.</li><li><b>Will</b> (modal verb): 'Will you open the door, please?' is the correct and polite way to ask someone to do something.</li><li><b>Do</b> (auxiliary verb (present simple)): 'Do you open the door?' is not used to make requests; it asks about a habitual action.</li></ul><b>Related structure or vocabulary:</b> Polite requests: 'Will you...?', 'Could you...?', 'Would you...?' are commonly used to make polite requests in English.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '____ you open the door, please? Yes, certainly.' cần một trợ động từ hoặc động từ khuyết thiếu để tạo thành một lời yêu cầu lịch sự. Trong tiếng Anh, 'Will you...' thường được dùng để nhờ ai đó làm việc gì một cách lịch sự. Các lựa chọn khác không phù hợp với ngữ cảnh yêu cầu lịch sự.<br><ul><li><b>Are</b> (trợ động từ): 'Are you open the door?' là sai ngữ pháp vì 'are' không được dùng để tạo câu yêu cầu như thế này.</li><li><b>Did</b> (trợ động từ (quá khứ đơn)): 'Did you open the door?' là câu hỏi về hành động đã xảy ra trong quá khứ, không phải là lời yêu cầu.</li><li><b>Will</b> (động từ khuyết thiếu): 'Will you open the door, please?' là cách nói đúng và lịch sự để nhờ ai đó làm việc gì.</li><li><b>Do</b> (trợ động từ (hiện tại đơn)): 'Do you open the door?' không dùng để yêu cầu mà hỏi về thói quen.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc yêu cầu lịch sự: 'Will you...?', 'Could you...?', 'Would you...?' thường được dùng để nhờ ai đó làm việc gì một cách lịch sự trong tiếng Anh.<br><br><b>Tạm dịch:</b> Bạn có thể mở cửa giúp tôi được không? Vâng, chắc chắn rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '____ you open the door, please? Yes, certainly.' requires an auxiliary/modal verb to form a polite request. In English, 'Will you...' is commonly used to politely ask someone to do something. The other options do not fit the context of making a polite request.<br><ul><li><b>Are</b> (auxiliary verb): 'Are you open the door?' is grammatically incorrect because 'are' is not used to form requests in this way.</li><li><b>Did</b> (auxiliary verb (past simple)): 'Did you open the door?' is a question about a past action, not a request.</li><li><b>Will</b> (modal verb): 'Will you open the door, please?' is the correct and polite way to ask someone to do something.</li><li><b>Do</b> (auxiliary verb (present simple)): 'Do you open the door?' is not used to make requests; it asks about a habitual action.</li></ul><b>Related structure or vocabulary:</b> Polite requests: 'Will you...?', 'Could you...?', 'Would you...?' are commonly used to make polite requests in English.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d6",
+        "questionNumber": 9,
+        "questionText": "There are chances that Manchester United ____ the last match against Juventus.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will win",
+            "raw": "A. will win",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "win",
+            "raw": "B. win",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has won",
+            "raw": "C. has won",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "are win",
+            "raw": "D. are win",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'There are chances that Manchester United ____ the last match against Juventus.' requires a verb form that fits with the phrase 'There are chances that...' which is often followed by a perfect tense to indicate a possibility about a completed action in the past. The context suggests we are talking about the possibility that Manchester United has already won the match.<br><ul><li><b>will win</b> (verb (future simple)): Future simple tense, used to talk about actions that will happen in the future. Not suitable here because the match has already happened.</li><li><b>win</b> (verb (present simple)): Present simple tense, used for general truths or repeated actions. Not suitable for a specific event in the past.</li><li><b>has won</b> (verb (present perfect)): Present perfect tense, used to talk about actions that happened at an unspecified time in the past and have relevance to the present. This fits the context of the sentence.</li><li><b>are win</b> (incorrect verb form): Incorrect verb form. 'Are' is the present tense of 'to be', and 'win' is the base form of the verb. The correct form would be 'are winning' for present continuous, but that does not fit the context.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: S + has/have + V3/ed, used to describe an action that happened at an unspecified time before now and is relevant to the present.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'There are chances that Manchester United ____ the last match against Juventus.' cần một dạng động từ phù hợp với cụm 'There are chances that...', thường theo sau bởi thì hiện tại hoàn thành để chỉ khả năng về một hành động đã hoàn thành trong quá khứ. Ngữ cảnh cho thấy chúng ta đang nói về khả năng Manchester United đã thắng trận đấu.<br><ul><li><b>will win</b> (động từ (thì tương lai đơn)): Thì tương lai đơn, dùng để nói về hành động sẽ xảy ra trong tương lai. Không phù hợp vì trận đấu đã diễn ra.</li><li><b>win</b> (động từ (thì hiện tại đơn)): Thì hiện tại đơn, dùng cho sự thật chung hoặc hành động lặp lại. Không phù hợp với một sự kiện cụ thể trong quá khứ.</li><li><b>has won</b> (động từ (thì hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng để nói về hành động đã xảy ra tại một thời điểm không xác định trong quá khứ và có liên quan đến hiện tại. Phù hợp với ngữ cảnh câu.</li><li><b>are win</b> (dạng động từ sai): Dạng động từ sai. 'Are' là thì hiện tại của 'to be', còn 'win' là động từ nguyên mẫu. Dạng đúng phải là 'are winning' (thì hiện tại tiếp diễn), nhưng không phù hợp với ngữ cảnh.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: S + has/have + V3/ed, dùng để diễn tả hành động đã xảy ra tại một thời điểm không xác định trong quá khứ và còn liên quan đến hiện tại.<br><br><b>Tạm dịch:</b> Có khả năng Manchester United đã thắng trận đấu cuối cùng với Juventus.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'There are chances that Manchester United ____ the last match against Juventus.' requires a verb form that fits with the phrase 'There are chances that...' which is often followed by a perfect tense to indicate a possibility about a completed action in the past. The context suggests we are talking about the possibility that Manchester United has already won the match.<br><ul><li><b>will win</b> (verb (future simple)): Future simple tense, used to talk about actions that will happen in the future. Not suitable here because the match has already happened.</li><li><b>win</b> (verb (present simple)): Present simple tense, used for general truths or repeated actions. Not suitable for a specific event in the past.</li><li><b>has won</b> (verb (present perfect)): Present perfect tense, used to talk about actions that happened at an unspecified time in the past and have relevance to the present. This fits the context of the sentence.</li><li><b>are win</b> (incorrect verb form): Incorrect verb form. 'Are' is the present tense of 'to be', and 'win' is the base form of the verb. The correct form would be 'are winning' for present continuous, but that does not fit the context.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: S + has/have + V3/ed, used to describe an action that happened at an unspecified time before now and is relevant to the present.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d7",
+        "questionNumber": 10,
+        "questionText": "You look frozen. Sit down by the fire and I ____ you a cup of tea.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "makes",
+            "raw": "A. makes",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "am going to make",
+            "raw": "B. am going to make",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will make",
+            "raw": "C. will make",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "make",
+            "raw": "D. make",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is responding to someone who looks cold and is offering to make them a cup of tea. The correct verb tense to use here is the simple future tense ('will make'), which is commonly used for spontaneous decisions made at the moment of speaking.<br><ul><li><b>makes</b> (verb (present simple)): 'Makes' is the present simple tense, which is not appropriate here because the speaker is making an offer right now, not describing a habitual action.</li><li><b>am going to make</b> (verb (future intention)): 'Am going to make' is the 'be going to' future, usually used for planned actions or intentions decided before the moment of speaking. In this context, the decision is made at the moment, so 'will make' is more suitable.</li><li><b>will make</b> (verb (simple future)): 'Will make' is the simple future tense, used for offers, promises, or decisions made at the moment of speaking. This fits the context perfectly.</li><li><b>make</b> (verb (base form)): 'Make' is the base form of the verb, which is not correct here because the sentence requires a finite verb to match the subject 'I'.</li></ul><b>Related structure or vocabulary:</b> We use 'will' + base verb to make offers or promises at the moment of speaking. Example: 'You look tired. I will get you some water.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, người nói đang phản ứng với việc ai đó trông có vẻ lạnh và đề nghị pha cho họ một tách trà. Thì động từ phù hợp ở đây là thì tương lai đơn ('will make'), thường được dùng cho những quyết định hoặc lời đề nghị được đưa ra ngay tại thời điểm nói.<br><ul><li><b>makes</b> (động từ (hiện tại đơn)): 'Makes' là thì hiện tại đơn, không phù hợp trong trường hợp này vì người nói đang đưa ra lời đề nghị ngay lúc này, không phải mô tả một hành động thường xuyên.</li><li><b>am going to make</b> (động từ (tương lai gần)): 'Am going to make' là cấu trúc tương lai gần, thường dùng cho các kế hoạch hoặc ý định đã được quyết định trước khi nói. Trong ngữ cảnh này, quyết định được đưa ra ngay lúc nói, nên 'will make' phù hợp hơn.</li><li><b>will make</b> (động từ (tương lai đơn)): 'Will make' là thì tương lai đơn, dùng để đưa ra lời đề nghị, lời hứa hoặc quyết định ngay tại thời điểm nói. Đây là đáp án phù hợp nhất.</li><li><b>make</b> (động từ (nguyên thể)): 'Make' là dạng nguyên thể của động từ, không đúng trong trường hợp này vì câu cần một động từ chia phù hợp với chủ ngữ 'I'.</li></ul><b>Cấu trúc và từ vựng:</b> Chúng ta dùng 'will' + động từ nguyên thể để đưa ra lời đề nghị hoặc lời hứa ngay tại thời điểm nói. Ví dụ: 'You look tired. I will get you some water.'<br><br><b>Tạm dịch:</b> Bạn trông có vẻ lạnh cóng. Ngồi xuống bên lò sưởi đi, tôi sẽ pha cho bạn một tách trà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is responding to someone who looks cold and is offering to make them a cup of tea. The correct verb tense to use here is the simple future tense ('will make'), which is commonly used for spontaneous decisions made at the moment of speaking.<br><ul><li><b>makes</b> (verb (present simple)): 'Makes' is the present simple tense, which is not appropriate here because the speaker is making an offer right now, not describing a habitual action.</li><li><b>am going to make</b> (verb (future intention)): 'Am going to make' is the 'be going to' future, usually used for planned actions or intentions decided before the moment of speaking. In this context, the decision is made at the moment, so 'will make' is more suitable.</li><li><b>will make</b> (verb (simple future)): 'Will make' is the simple future tense, used for offers, promises, or decisions made at the moment of speaking. This fits the context perfectly.</li><li><b>make</b> (verb (base form)): 'Make' is the base form of the verb, which is not correct here because the sentence requires a finite verb to match the subject 'I'.</li></ul><b>Related structure or vocabulary:</b> We use 'will' + base verb to make offers or promises at the moment of speaking. Example: 'You look tired. I will get you some water.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d8",
+        "questionNumber": 11,
+        "questionText": "The secretary ____ for you to visit our factory next week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "arranged",
+            "raw": "A. arranged",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "shall arrange",
+            "raw": "B. shall arrange",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "arranging",
+            "raw": "C. arranging",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will arrange",
+            "raw": "D. will arrange",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after 'The secretary', which is the subject, and before 'for you to visit our factory next week', which is an infinitive phrase indicating purpose or arrangement. The sentence is talking about a future plan or arrangement. In English, when talking about official or scheduled plans in the future, we often use 'will + verb' (simple future tense) or 'has/have arranged' (present perfect). However, since the secretary is making the arrangement now for a future event, 'will arrange' is the most appropriate choice.<br><ul><li><b>arranged</b> (verb (past tense/past participle)): Past tense or past participle of 'arrange', used for actions completed in the past.</li><li><b>shall arrange</b> (modal verb + base verb): 'Shall' is a modal verb, often used in formal or legal English, mainly with 'I' or 'we'. Not commonly used with 'he/she/they/you' in modern English.</li><li><b>arranging</b> (verb (V-ing)): Present participle or gerund form, used after prepositions or as part of continuous tenses.</li><li><b>will arrange</b> (modal verb + base verb): Simple future tense, used to express a decision or plan for the future.</li></ul><b>Related structure or vocabulary:</b> Simple future tense: will + base verb is used to express future plans or decisions made at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống đứng sau 'The secretary' (thư ký) là chủ ngữ và trước cụm 'for you to visit our factory next week' (để bạn đến thăm nhà máy của chúng tôi vào tuần tới), là một cụm động từ chỉ mục đích hoặc sự sắp xếp. Câu này nói về một kế hoạch hoặc sự sắp xếp trong tương lai. Trong tiếng Anh, khi nói về các kế hoạch chính thức hoặc đã được lên lịch trong tương lai, chúng ta thường dùng 'will + động từ nguyên thể' (thì tương lai đơn) hoặc 'has/have arranged' (thì hiện tại hoàn thành). Tuy nhiên, vì thư ký đang sắp xếp cho một sự kiện trong tương lai, 'will arrange' là lựa chọn phù hợp nhất.<br><ul><li><b>arranged</b> (động từ (quá khứ đơn/quá khứ phân từ)): Dạng quá khứ đơn hoặc quá khứ phân từ của 'arrange', dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>shall arrange</b> (động từ khuyết thiếu + động từ nguyên thể): 'Shall' là động từ khuyết thiếu, thường dùng trong tiếng Anh trang trọng hoặc pháp lý, chủ yếu với 'I' hoặc 'we'. Không thường dùng với 'he/she/they/you' trong tiếng Anh hiện đại.</li><li><b>arranging</b> (động từ (V-ing)): Dạng hiện tại phân từ hoặc danh động từ, dùng sau giới từ hoặc trong các thì tiếp diễn.</li><li><b>will arrange</b> (động từ khuyết thiếu + động từ nguyên thể): Thì tương lai đơn, dùng để diễn tả quyết định hoặc kế hoạch cho tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn: will + động từ nguyên thể dùng để diễn tả kế hoạch hoặc quyết định cho tương lai.<br><br><b>Tạm dịch:</b> The secretary will arrange for you to visit our factory next week. --> Thư ký sẽ sắp xếp để bạn đến thăm nhà máy của chúng tôi vào tuần tới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank comes after 'The secretary', which is the subject, and before 'for you to visit our factory next week', which is an infinitive phrase indicating purpose or arrangement. The sentence is talking about a future plan or arrangement. In English, when talking about official or scheduled plans in the future, we often use 'will + verb' (simple future tense) or 'has/have arranged' (present perfect). However, since the secretary is making the arrangement now for a future event, 'will arrange' is the most appropriate choice.<br><ul><li><b>arranged</b> (verb (past tense/past participle)): Past tense or past participle of 'arrange', used for actions completed in the past.</li><li><b>shall arrange</b> (modal verb + base verb): 'Shall' is a modal verb, often used in formal or legal English, mainly with 'I' or 'we'. Not commonly used with 'he/she/they/you' in modern English.</li><li><b>arranging</b> (verb (V-ing)): Present participle or gerund form, used after prepositions or as part of continuous tenses.</li><li><b>will arrange</b> (modal verb + base verb): Simple future tense, used to express a decision or plan for the future.</li></ul><b>Related structure or vocabulary:</b> Simple future tense: will + base verb is used to express future plans or decisions made at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032d9",
+        "questionNumber": 12,
+        "questionText": "We ____ this problem to an end soon.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "shall brings",
+            "raw": "A. shall brings",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have brought",
+            "raw": "B. have brought",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will bring",
+            "raw": "C. will bring",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "bring",
+            "raw": "D. bring",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We ____ this problem to an end soon.' requires a verb in the correct tense and form to match the context. The sentence talks about a future action, as indicated by the word 'soon.' Therefore, the correct answer should be a future tense verb. The structure 'will + base verb' is used to express future actions or intentions.<br><ul><li><b>shall brings</b> (modal + verb (incorrect form)): 'Shall' is a modal verb and should be followed by the base form of the verb, not the 's' form. 'Brings' is incorrect here.</li><li><b>have brought</b> (present perfect): 'Have brought' is the present perfect tense, which is used for actions that have happened up to now, not for future intentions.</li><li><b>will bring</b> (future simple): 'Will bring' is the correct future simple tense, used to express an action that will happen in the future.</li><li><b>bring</b> (base verb): 'Bring' is the base form of the verb, but it does not fit grammatically in this sentence without a modal or auxiliary verb.</li></ul><b>Related structure or vocabulary:</b> Future Simple Tense: will + base verb is used to express future actions or intentions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We ____ this problem to an end soon.' cần một động từ ở thì và dạng đúng để phù hợp với ngữ cảnh. Câu này nói về một hành động sẽ xảy ra trong tương lai, được thể hiện qua từ 'soon' (sớm). Vì vậy, đáp án đúng phải là động từ ở thì tương lai đơn. Cấu trúc 'will + động từ nguyên thể' được dùng để diễn tả hành động hoặc ý định trong tương lai.<br><ul><li><b>shall brings</b> (động từ khuyết thiếu + động từ (sai dạng)): 'Shall' là động từ khuyết thiếu và phải đi với động từ nguyên thể, không phải dạng thêm 's'. 'Brings' ở đây là sai ngữ pháp.</li><li><b>have brought</b> (thì hiện tại hoàn thành): 'Have brought' là thì hiện tại hoàn thành, dùng cho hành động đã xảy ra cho tới hiện tại, không phù hợp để diễn tả ý định trong tương lai.</li><li><b>will bring</b> (thì tương lai đơn): 'Will bring' là thì tương lai đơn, dùng để diễn tả hành động sẽ xảy ra trong tương lai.</li><li><b>bring</b> (động từ nguyên thể): 'Bring' là động từ nguyên thể, nhưng không phù hợp về mặt ngữ pháp trong câu này nếu không có động từ khuyết thiếu hoặc trợ động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn: will + động từ nguyên thể dùng để diễn tả hành động hoặc ý định trong tương lai.<br><br><b>Tạm dịch:</b> Chúng tôi sẽ sớm kết thúc vấn đề này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We ____ this problem to an end soon.' requires a verb in the correct tense and form to match the context. The sentence talks about a future action, as indicated by the word 'soon.' Therefore, the correct answer should be a future tense verb. The structure 'will + base verb' is used to express future actions or intentions.<br><ul><li><b>shall brings</b> (modal + verb (incorrect form)): 'Shall' is a modal verb and should be followed by the base form of the verb, not the 's' form. 'Brings' is incorrect here.</li><li><b>have brought</b> (present perfect): 'Have brought' is the present perfect tense, which is used for actions that have happened up to now, not for future intentions.</li><li><b>will bring</b> (future simple): 'Will bring' is the correct future simple tense, used to express an action that will happen in the future.</li><li><b>bring</b> (base verb): 'Bring' is the base form of the verb, but it does not fit grammatically in this sentence without a modal or auxiliary verb.</li></ul><b>Related structure or vocabulary:</b> Future Simple Tense: will + base verb is used to express future actions or intentions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032da",
+        "questionNumber": 13,
+        "questionText": "I hope you ____ the match.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will win",
+            "raw": "A. will win",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "win",
+            "raw": "B. win",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to win",
+            "raw": "C. to win",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "winning",
+            "raw": "D. winning",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'I hope you ____ the match,' the verb after 'hope' should be in the base form (bare infinitive) when expressing a wish or desire for someone else to do something. The correct structure is 'hope (that) someone + verb (base form)'.<br><ul><li><b>will win</b> (verb (future simple)): 'Will win' is the future simple tense. While it can be used in some contexts, after 'hope' when talking about someone else, we usually use the base form, not 'will'.</li><li><b>win</b> (verb (base form)): 'Win' is the base form of the verb, which is correct after 'hope' when expressing a wish for someone else.</li><li><b>to win</b> (verb (to-infinitive)): 'To win' is the infinitive form. After 'hope', we do not use 'to' when the subject of 'hope' and the subject of the next verb are different.</li><li><b>winning</b> (verb (gerund)): 'Winning' is the gerund form. It is not used after 'hope' in this structure.</li></ul><b>Related structure or vocabulary:</b> hope (that) + subject + verb (base form): used to express a wish or desire for someone else to do something.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, 'I hope you ____ the match', động từ sau 'hope' nên ở dạng nguyên thể (bare infinitive) khi diễn tả mong muốn hoặc hy vọng ai đó làm gì. Cấu trúc đúng là 'hope (that) someone + verb (nguyên thể)'.<br><ul><li><b>will win</b> (động từ (thì tương lai đơn)): 'Will win' là thì tương lai đơn. Dù có thể dùng trong một số trường hợp, nhưng sau 'hope' khi nói về người khác, ta thường dùng động từ nguyên thể, không dùng 'will'.</li><li><b>win</b> (động từ (nguyên thể)): 'Win' là động từ nguyên thể, đúng với cấu trúc sau 'hope' khi diễn tả mong muốn cho người khác.</li><li><b>to win</b> (động từ (nguyên mẫu có 'to')): 'To win' là động từ nguyên mẫu có 'to'. Sau 'hope', ta không dùng 'to' khi chủ ngữ của 'hope' và động từ phía sau khác nhau.</li><li><b>winning</b> (động từ (V-ing)): 'Winning' là dạng V-ing (danh động từ). Không dùng sau 'hope' trong cấu trúc này.</li></ul><b>Cấu trúc và từ vựng:</b> hope (that) + subject + verb (nguyên thể): dùng để diễn tả mong muốn hoặc hy vọng ai đó làm gì.<br><br><b>Tạm dịch:</b> Tôi hy vọng bạn thắng trận đấu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'I hope you ____ the match,' the verb after 'hope' should be in the base form (bare infinitive) when expressing a wish or desire for someone else to do something. The correct structure is 'hope (that) someone + verb (base form)'.<br><ul><li><b>will win</b> (verb (future simple)): 'Will win' is the future simple tense. While it can be used in some contexts, after 'hope' when talking about someone else, we usually use the base form, not 'will'.</li><li><b>win</b> (verb (base form)): 'Win' is the base form of the verb, which is correct after 'hope' when expressing a wish for someone else.</li><li><b>to win</b> (verb (to-infinitive)): 'To win' is the infinitive form. After 'hope', we do not use 'to' when the subject of 'hope' and the subject of the next verb are different.</li><li><b>winning</b> (verb (gerund)): 'Winning' is the gerund form. It is not used after 'hope' in this structure.</li></ul><b>Related structure or vocabulary:</b> hope (that) + subject + verb (base form): used to express a wish or desire for someone else to do something.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032db",
+        "questionNumber": 14,
+        "questionText": "Will you lend me your season ticket?  No, I____ it to you. It is against the law.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am not lend",
+            "raw": "A. am not lend",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "isn’t lend",
+            "raw": "B. isn’t lend",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "don’t lend",
+            "raw": "C. don’t lend",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "won’t lend",
+            "raw": "D. won’t lend",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is refusing to lend their season ticket because it is against the law. The blank requires a verb form that fits the negative future tense, as the speaker is making a decision not to lend the ticket in the future. The correct structure for refusing to do something in the future is 'will not' or its contraction 'won't' + base verb.<br><ul><li><b>am not lend</b> (incorrect verb phrase): 'am not lend' is incorrect because 'am not' cannot be directly followed by the base form of a verb. The correct form would be 'am not lending' for present continuous, but that does not fit the context.</li><li><b>isn’t lend</b> (incorrect verb phrase): 'isn’t lend' is incorrect because 'isn’t' (is not) cannot be followed by the base form of a verb. The correct form would be 'isn’t lending', but that does not fit the context.</li><li><b>don’t lend</b> (present simple negative): 'don’t lend' is incorrect because it is present simple negative, which is not suitable here. The speaker is talking about a decision or refusal for the future, not a general habit.</li><li><b>won’t lend</b> (future simple negative): 'won’t lend' is the correct answer. 'Won’t' is the contraction of 'will not', used to express refusal or decision not to do something in the future.</li></ul><b>Related structure or vocabulary:</b> Future simple negative: will not (won’t) + base verb is used to express refusal or decision not to do something in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, người nói từ chối cho mượn vé mùa vì điều đó là trái pháp luật. Chỗ trống cần một động từ ở thì tương lai phủ định, vì người nói đang đưa ra quyết định sẽ không cho mượn vé trong tương lai. Cấu trúc đúng để từ chối làm điều gì đó trong tương lai là 'will not' hoặc dạng rút gọn 'won’t' + động từ nguyên thể.<br><ul><li><b>am not lend</b> (cụm động từ sai): 'am not lend' là sai vì 'am not' không thể đi trực tiếp với động từ nguyên thể. Dạng đúng là 'am not lending' (thì hiện tại tiếp diễn), nhưng không phù hợp với ngữ cảnh.</li><li><b>isn’t lend</b> (cụm động từ sai): 'isn’t lend' là sai vì 'isn’t' (is not) không thể đi với động từ nguyên thể. Dạng đúng là 'isn’t lending', nhưng không phù hợp với ngữ cảnh.</li><li><b>don’t lend</b> (thì hiện tại đơn phủ định): 'don’t lend' là sai vì đây là thì hiện tại đơn phủ định, không phù hợp ở đây. Người nói đang nói về quyết định hoặc sự từ chối trong tương lai, không phải thói quen chung.</li><li><b>won’t lend</b> (thì tương lai đơn phủ định): 'won’t lend' là đáp án đúng. 'Won’t' là dạng rút gọn của 'will not', dùng để diễn tả sự từ chối hoặc quyết định không làm gì đó trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn phủ định: will not (won’t) + động từ nguyên thể dùng để diễn tả sự từ chối hoặc quyết định không làm gì đó trong tương lai.<br><br><b>Tạm dịch:</b> Bạn sẽ cho tôi mượn vé mùa của bạn chứ? Không, tôi sẽ không cho bạn mượn đâu. Điều đó là trái pháp luật.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is refusing to lend their season ticket because it is against the law. The blank requires a verb form that fits the negative future tense, as the speaker is making a decision not to lend the ticket in the future. The correct structure for refusing to do something in the future is 'will not' or its contraction 'won't' + base verb.<br><ul><li><b>am not lend</b> (incorrect verb phrase): 'am not lend' is incorrect because 'am not' cannot be directly followed by the base form of a verb. The correct form would be 'am not lending' for present continuous, but that does not fit the context.</li><li><b>isn’t lend</b> (incorrect verb phrase): 'isn’t lend' is incorrect because 'isn’t' (is not) cannot be followed by the base form of a verb. The correct form would be 'isn’t lending', but that does not fit the context.</li><li><b>don’t lend</b> (present simple negative): 'don’t lend' is incorrect because it is present simple negative, which is not suitable here. The speaker is talking about a decision or refusal for the future, not a general habit.</li><li><b>won’t lend</b> (future simple negative): 'won’t lend' is the correct answer. 'Won’t' is the contraction of 'will not', used to express refusal or decision not to do something in the future.</li></ul><b>Related structure or vocabulary:</b> Future simple negative: will not (won’t) + base verb is used to express refusal or decision not to do something in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032dc",
+        "questionNumber": 15,
+        "questionText": "That tree makes the house very dark. Very well, I____ it.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "m going to cut",
+            "raw": " am going to cut",
+            "isCorrect": false
+          },
+          {
+            "letter": "A",
+            "text": "m cut",
+            "raw": "am cut",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will cut",
+            "raw": "will cut",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "ut",
+            "raw": "cut",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is responding to a situation where the tree makes the house very dark. The phrase 'Very well, I____ it.' shows a decision made at the moment of speaking. In English, when we make a decision at the moment (instant decision), we use 'will' + base verb. Therefore, the correct answer is 'will cut'.<br><ul><li><b>am going to cut</b> (future (be going to)): Used for plans or intentions decided before the moment of speaking. Not suitable here because the decision is made at the moment.</li><li><b>am cut</b> (present simple passive): Incorrect grammar. 'Am cut' is not a valid verb form in this context.</li><li><b>will cut</b> (future simple): Used for decisions made at the moment of speaking (instant decisions). Correct answer.</li><li><b>cut</b> (bare infinitive): Base form of the verb. Not correct here because a subject and auxiliary verb are needed.</li></ul><b>Related structure or vocabulary:</b> Use 'will' + base verb for instant decisions made at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, người nói đang phản ứng với tình huống cái cây làm ngôi nhà rất tối. Cụm 'Very well, I____ it.' thể hiện một quyết định được đưa ra ngay tại thời điểm nói. Trong tiếng Anh, khi đưa ra quyết định ngay lúc nói (instant decision), ta dùng 'will' + động từ nguyên thể. Vì vậy, đáp án đúng là 'will cut'.<br><ul><li><b>am going to cut</b> (tương lai (be going to)): Dùng cho kế hoạch hoặc ý định đã được quyết định trước thời điểm nói. Không phù hợp ở đây vì quyết định được đưa ra ngay lúc nói.</li><li><b>am cut</b> (hiện tại đơn bị động): Sai ngữ pháp. 'Am cut' không phải là dạng động từ đúng trong ngữ cảnh này.</li><li><b>will cut</b> (tương lai đơn): Dùng cho quyết định được đưa ra ngay tại thời điểm nói (instant decision). Là đáp án đúng.</li><li><b>cut</b> (động từ nguyên thể): Dạng nguyên thể của động từ. Không đúng ở đây vì cần có chủ ngữ và trợ động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'will' + động từ nguyên thể cho quyết định đưa ra ngay tại thời điểm nói.<br><br><b>Tạm dịch:</b> Cái cây đó làm ngôi nhà rất tối. Được rồi, tôi sẽ chặt nó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is responding to a situation where the tree makes the house very dark. The phrase 'Very well, I____ it.' shows a decision made at the moment of speaking. In English, when we make a decision at the moment (instant decision), we use 'will' + base verb. Therefore, the correct answer is 'will cut'.<br><ul><li><b>am going to cut</b> (future (be going to)): Used for plans or intentions decided before the moment of speaking. Not suitable here because the decision is made at the moment.</li><li><b>am cut</b> (present simple passive): Incorrect grammar. 'Am cut' is not a valid verb form in this context.</li><li><b>will cut</b> (future simple): Used for decisions made at the moment of speaking (instant decisions). Correct answer.</li><li><b>cut</b> (bare infinitive): Base form of the verb. Not correct here because a subject and auxiliary verb are needed.</li></ul><b>Related structure or vocabulary:</b> Use 'will' + base verb for instant decisions made at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032dd",
+        "questionNumber": 16,
+        "questionText": "You _____ your hand if you put it into that hot water.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will scald",
+            "raw": "A. will scald",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "scalds",
+            "raw": "B. scalds",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have scalded",
+            "raw": "C. have scalded",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "shall scald",
+            "raw": "D. shall scald",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'You _____ your hand if you put it into that hot water.' requires the correct verb tense to match the conditional structure. This is a type 1 conditional sentence, which is used to talk about real and possible situations in the future. The structure for type 1 conditional is: If + present simple, will + base verb. Therefore, the correct answer is 'will scald'.<br><ul><li><b>will scald</b> (verb (future simple)): 'Will scald' is the future simple tense, used to express what will happen if the condition is met.</li><li><b>scalds</b> (verb (present simple)): 'Scalds' is the present simple tense, which is not suitable for the main clause of a type 1 conditional sentence.</li><li><b>have scalded</b> (verb (present perfect)): 'Have scalded' is the present perfect tense, which is not used in this conditional structure.</li><li><b>shall scald</b> (verb (future simple, formal/old-fashioned)): 'Shall scald' is also a future form, but 'shall' is rarely used with 'you' in modern English, and 'will' is preferred.</li></ul><b>Related structure or vocabulary:</b> Type 1 conditional: If + present simple, will + base verb. Used for real or possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'You _____ your hand if you put it into that hot water.' cần một thì động từ phù hợp với cấu trúc câu điều kiện loại 1. Câu điều kiện loại 1 dùng để nói về những tình huống có thể xảy ra trong tương lai. Cấu trúc là: If + hiện tại đơn, will + động từ nguyên thể. Vì vậy, đáp án đúng là 'will scald'.<br><ul><li><b>will scald</b> (động từ (tương lai đơn)): 'Will scald' là thì tương lai đơn, dùng để diễn tả điều sẽ xảy ra nếu điều kiện được đáp ứng.</li><li><b>scalds</b> (động từ (hiện tại đơn)): 'Scalds' là thì hiện tại đơn, không phù hợp với mệnh đề chính của câu điều kiện loại 1.</li><li><b>have scalded</b> (động từ (hiện tại hoàn thành)): 'Have scalded' là thì hiện tại hoàn thành, không dùng trong cấu trúc câu điều kiện này.</li><li><b>shall scald</b> (động từ (tương lai đơn, trang trọng/cũ)): 'Shall scald' cũng là thì tương lai, nhưng 'shall' hiếm khi dùng với 'you' trong tiếng Anh hiện đại, 'will' được ưu tiên hơn.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể. Dùng để nói về những tình huống thực tế hoặc có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Bạn sẽ bị bỏng tay nếu bạn cho tay vào nước nóng đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'You _____ your hand if you put it into that hot water.' requires the correct verb tense to match the conditional structure. This is a type 1 conditional sentence, which is used to talk about real and possible situations in the future. The structure for type 1 conditional is: If + present simple, will + base verb. Therefore, the correct answer is 'will scald'.<br><ul><li><b>will scald</b> (verb (future simple)): 'Will scald' is the future simple tense, used to express what will happen if the condition is met.</li><li><b>scalds</b> (verb (present simple)): 'Scalds' is the present simple tense, which is not suitable for the main clause of a type 1 conditional sentence.</li><li><b>have scalded</b> (verb (present perfect)): 'Have scalded' is the present perfect tense, which is not used in this conditional structure.</li><li><b>shall scald</b> (verb (future simple, formal/old-fashioned)): 'Shall scald' is also a future form, but 'shall' is rarely used with 'you' in modern English, and 'will' is preferred.</li></ul><b>Related structure or vocabulary:</b> Type 1 conditional: If + present simple, will + base verb. Used for real or possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032de",
+        "questionNumber": 17,
+        "questionText": "When your train arrives, I _____ from the station.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will pick you up",
+            "raw": "A. will pick you up",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "pick up",
+            "raw": "B. pick up",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will pick up you",
+            "raw": "C. will pick up you",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "shall picks up",
+            "raw": "D. shall picks up",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb phrase that correctly fits the future meaning of the sentence. The sentence describes an action that will happen in the future when the train arrives. In English, we often use 'will' + base verb to express a future action. The correct structure is 'will pick you up'.<br><ul><li><b>will pick you up</b> (verb phrase): This is the correct future simple tense structure: 'will' + base verb + object. 'Pick you up' means to collect someone from a place.</li><li><b>pick up</b> (verb): This is the base form of the verb. It is not correct here because the sentence needs a future tense verb.</li><li><b>will pick up you</b> (verb phrase): This is incorrect word order. In English, the object pronoun 'you' should come between 'pick' and 'up': 'pick you up'.</li><li><b>shall picks up</b> (verb phrase): 'Shall' is sometimes used for future, but 'picks' is the wrong verb form. After 'shall', we use the base form 'pick', not 'picks'.</li></ul><b>Related structure or vocabulary:</b> Future Simple Tense: will/shall + base verb. 'Pick someone up' means to collect someone, usually by car or from a place.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm động từ phù hợp với ý nghĩa tương lai của câu. Câu này mô tả một hành động sẽ xảy ra trong tương lai khi tàu đến. Trong tiếng Anh, chúng ta thường dùng 'will' + động từ nguyên thể để diễn tả hành động trong tương lai. Cấu trúc đúng là 'will pick you up'.<br><ul><li><b>will pick you up</b> (cụm động từ): Đây là cấu trúc thì tương lai đơn đúng: 'will' + động từ nguyên thể + tân ngữ. 'Pick you up' nghĩa là đón ai đó từ một nơi nào đó.</li><li><b>pick up</b> (động từ): Đây là động từ nguyên thể. Không đúng ở đây vì câu cần động từ ở thì tương lai.</li><li><b>will pick up you</b> (cụm động từ): Sai trật tự từ. Trong tiếng Anh, đại từ tân ngữ 'you' phải đứng giữa 'pick' và 'up': 'pick you up'.</li><li><b>shall picks up</b> (cụm động từ): 'Shall' đôi khi dùng cho thì tương lai, nhưng 'picks' là dạng động từ sai. Sau 'shall', phải dùng động từ nguyên thể 'pick', không phải 'picks'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn: will/shall + động từ nguyên thể. 'Pick someone up' nghĩa là đón ai đó, thường bằng xe hoặc từ một nơi nào đó.<br><br><b>Tạm dịch:</b> Khi tàu của bạn đến, tôi sẽ đón bạn từ nhà ga.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb phrase that correctly fits the future meaning of the sentence. The sentence describes an action that will happen in the future when the train arrives. In English, we often use 'will' + base verb to express a future action. The correct structure is 'will pick you up'.<br><ul><li><b>will pick you up</b> (verb phrase): This is the correct future simple tense structure: 'will' + base verb + object. 'Pick you up' means to collect someone from a place.</li><li><b>pick up</b> (verb): This is the base form of the verb. It is not correct here because the sentence needs a future tense verb.</li><li><b>will pick up you</b> (verb phrase): This is incorrect word order. In English, the object pronoun 'you' should come between 'pick' and 'up': 'pick you up'.</li><li><b>shall picks up</b> (verb phrase): 'Shall' is sometimes used for future, but 'picks' is the wrong verb form. After 'shall', we use the base form 'pick', not 'picks'.</li></ul><b>Related structure or vocabulary:</b> Future Simple Tense: will/shall + base verb. 'Pick someone up' means to collect someone, usually by car or from a place.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032df",
+        "questionNumber": 18,
+        "questionText": "If I see you standing around the coffee machine talking again, you _____ a rise.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "don’t get",
+            "raw": "A. don’t get",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "aren’t getting",
+            "raw": "B. aren’t getting",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "won’t get",
+            "raw": "C. won’t get",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "didn’t get",
+            "raw": "D. didn’t get",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct verb form to complete the first conditional structure. The first conditional is used to talk about real and possible situations in the future. The structure is: If + present simple, will + base verb. In this sentence, 'If I see you standing around the coffee machine talking again' is the if-clause (present simple), so the main clause should use 'will' + base verb. Therefore, the correct answer is 'won’t get' (will not get).<br><ul><li><b>don’t get</b> (verb phrase): Present simple negative. Not suitable for the main clause of the first conditional.</li><li><b>aren’t getting</b> (verb phrase): Present continuous negative. Not suitable for the main clause of the first conditional.</li><li><b>won’t get</b> (verb phrase): Future simple negative (will not get). Correct form for the main clause in the first conditional.</li><li><b>didn’t get</b> (verb phrase): Past simple negative. Used for past events, not suitable for the first conditional.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu yêu cầu dạng động từ đúng để hoàn thành cấu trúc câu điều kiện loại 1. Câu điều kiện loại 1 dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai. Cấu trúc là: If + hiện tại đơn, will + động từ nguyên thể. Trong câu này, 'If I see you standing around the coffee machine talking again' là mệnh đề if (hiện tại đơn), nên mệnh đề chính phải dùng 'will' + động từ nguyên thể. Vì vậy, đáp án đúng là 'won’t get' (will not get).<br><ul><li><b>don’t get</b> (cụm động từ): Hiện tại đơn phủ định. Không phù hợp với mệnh đề chính của câu điều kiện loại 1.</li><li><b>aren’t getting</b> (cụm động từ): Hiện tại tiếp diễn phủ định. Không phù hợp với mệnh đề chính của câu điều kiện loại 1.</li><li><b>won’t get</b> (cụm động từ): Tương lai đơn phủ định (will not get). Dạng đúng cho mệnh đề chính trong câu điều kiện loại 1.</li><li><b>didn’t get</b> (cụm động từ): Quá khứ đơn phủ định. Dùng cho sự việc trong quá khứ, không phù hợp với câu điều kiện loại 1.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể. Dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Nếu tôi thấy bạn lại đứng quanh máy pha cà phê nói chuyện nữa, bạn sẽ không được tăng lương.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct verb form to complete the first conditional structure. The first conditional is used to talk about real and possible situations in the future. The structure is: If + present simple, will + base verb. In this sentence, 'If I see you standing around the coffee machine talking again' is the if-clause (present simple), so the main clause should use 'will' + base verb. Therefore, the correct answer is 'won’t get' (will not get).<br><ul><li><b>don’t get</b> (verb phrase): Present simple negative. Not suitable for the main clause of the first conditional.</li><li><b>aren’t getting</b> (verb phrase): Present continuous negative. Not suitable for the main clause of the first conditional.</li><li><b>won’t get</b> (verb phrase): Future simple negative (will not get). Correct form for the main clause in the first conditional.</li><li><b>didn’t get</b> (verb phrase): Past simple negative. Used for past events, not suitable for the first conditional.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032e0",
+        "questionNumber": 19,
+        "questionText": "If you study hard, you _____ the exam.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will pass",
+            "raw": "A. will pass",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "pass",
+            "raw": "B. pass",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "would pass",
+            "raw": "C. would pass",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have passed",
+            "raw": "D. have passed",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If you study hard, you _____ the exam.' is a first conditional sentence. In first conditional sentences, we use the present simple tense in the 'if' clause and the future simple tense (will + base verb) in the main clause to talk about a real possibility in the future.<br><ul><li><b>will pass</b> (verb (future simple)): 'Will pass' is the future simple tense, used to express a likely result in the future if the condition is met.</li><li><b>pass</b> (verb (present simple)): 'Pass' is the present simple tense, which is not correct in the main clause of a first conditional sentence.</li><li><b>would pass</b> (verb (modal + base verb)): 'Would pass' is used in the second conditional to talk about unreal or hypothetical situations, not real future possibilities.</li><li><b>have passed</b> (verb (present perfect)): 'Have passed' is the present perfect tense, which is not suitable here because the action is in the future, not completed.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If you study hard, you _____ the exam.' là câu điều kiện loại 1. Trong câu điều kiện loại 1, ta dùng thì hiện tại đơn ở mệnh đề 'if' và thì tương lai đơn (will + động từ nguyên mẫu) ở mệnh đề chính để nói về khả năng thực sự có thể xảy ra trong tương lai.<br><ul><li><b>will pass</b> (động từ (thì tương lai đơn)): 'Will pass' là thì tương lai đơn, dùng để diễn tả kết quả có khả năng xảy ra trong tương lai nếu điều kiện được đáp ứng.</li><li><b>pass</b> (động từ (thì hiện tại đơn)): 'Pass' là thì hiện tại đơn, không phù hợp để dùng ở mệnh đề chính của câu điều kiện loại 1.</li><li><b>would pass</b> (động từ (modal + động từ nguyên mẫu)): 'Would pass' dùng trong câu điều kiện loại 2 để nói về tình huống không có thật hoặc giả định, không phải khả năng thực tế trong tương lai.</li><li><b>have passed</b> (động từ (thì hiện tại hoàn thành)): 'Have passed' là thì hiện tại hoàn thành, không phù hợp vì hành động này xảy ra trong tương lai, chưa hoàn thành.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên mẫu. Dùng để nói về tình huống thực tế, có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Nếu bạn học chăm chỉ, bạn sẽ vượt qua kỳ thi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If you study hard, you _____ the exam.' is a first conditional sentence. In first conditional sentences, we use the present simple tense in the 'if' clause and the future simple tense (will + base verb) in the main clause to talk about a real possibility in the future.<br><ul><li><b>will pass</b> (verb (future simple)): 'Will pass' is the future simple tense, used to express a likely result in the future if the condition is met.</li><li><b>pass</b> (verb (present simple)): 'Pass' is the present simple tense, which is not correct in the main clause of a first conditional sentence.</li><li><b>would pass</b> (verb (modal + base verb)): 'Would pass' is used in the second conditional to talk about unreal or hypothetical situations, not real future possibilities.</li><li><b>have passed</b> (verb (present perfect)): 'Have passed' is the present perfect tense, which is not suitable here because the action is in the future, not completed.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204fc50d1bfab7a5b0032e1",
+        "questionNumber": 20,
+        "questionText": "If I read this manual, I _____ any mistakes.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am not making",
+            "raw": "A. am not making",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "don’t make",
+            "raw": "B. don’t make",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "won’t make",
+            "raw": "C. won’t make",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "didn’t make",
+            "raw": "D. didn’t make",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I read this manual, I _____ any mistakes.' is a first conditional sentence, which is used to talk about real and possible situations in the future. The structure of the first conditional is: If + present simple, will + base verb. Therefore, the correct answer should be in the future simple tense (will + base verb) to indicate the result of the condition.<br><ul><li><b>am not making</b> (verb phrase): Present continuous tense, used for actions happening right now or around the present time. Not suitable for first conditional.</li><li><b>don’t make</b> (verb phrase): Present simple tense, negative form. Used for habits or general truths, not for the result clause in first conditional.</li><li><b>won’t make</b> (verb phrase): Future simple tense, negative form. Correct structure for the result clause in first conditional sentences.</li><li><b>didn’t make</b> (verb phrase): Past simple tense, negative form. Used for actions in the past, not suitable for first conditional.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If I read this manual, I _____ any mistakes.' là câu điều kiện loại 1, dùng để nói về những tình huống có thể xảy ra trong tương lai. Cấu trúc của câu điều kiện loại 1 là: If + hiện tại đơn, will + động từ nguyên thể. Vì vậy, đáp án đúng phải ở thì tương lai đơn (will + động từ nguyên thể) để diễn tả kết quả của điều kiện.<br><ul><li><b>am not making</b> (cụm động từ): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra ở hiện tại hoặc xung quanh thời điểm nói. Không phù hợp với câu điều kiện loại 1.</li><li><b>don’t make</b> (cụm động từ): Thì hiện tại đơn, dạng phủ định. Dùng cho thói quen hoặc sự thật chung, không dùng cho mệnh đề kết quả trong câu điều kiện loại 1.</li><li><b>won’t make</b> (cụm động từ): Thì tương lai đơn, dạng phủ định. Đúng cấu trúc cho mệnh đề kết quả trong câu điều kiện loại 1.</li><li><b>didn’t make</b> (cụm động từ): Thì quá khứ đơn, dạng phủ định. Dùng cho hành động đã xảy ra trong quá khứ, không phù hợp với câu điều kiện loại 1.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể. Dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Nếu tôi đọc hướng dẫn này, tôi sẽ không mắc bất kỳ sai lầm nào.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I read this manual, I _____ any mistakes.' is a first conditional sentence, which is used to talk about real and possible situations in the future. The structure of the first conditional is: If + present simple, will + base verb. Therefore, the correct answer should be in the future simple tense (will + base verb) to indicate the result of the condition.<br><ul><li><b>am not making</b> (verb phrase): Present continuous tense, used for actions happening right now or around the present time. Not suitable for first conditional.</li><li><b>don’t make</b> (verb phrase): Present simple tense, negative form. Used for habits or general truths, not for the result clause in first conditional.</li><li><b>won’t make</b> (verb phrase): Future simple tense, negative form. Correct structure for the result clause in first conditional sentences.</li><li><b>didn’t make</b> (verb phrase): Past simple tense, negative form. Used for actions in the past, not suitable for first conditional.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    }
+  ]
+}

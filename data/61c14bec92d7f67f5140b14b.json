@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b14b",
+  "title": "Từ vựng: Renting and Leasing",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2f4",
+        "questionNumber": 1,
+        "questionText": "apprehensive",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev349.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/apprehensive.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "nxious about the future",
+            "raw": "anxious about the future",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Most new home buyers are <strong>apprehensive </strong>about their decision.</p>\n",
+        "explanationViHtml": "<p>Hầu hết những người mua nh&agrave; lần đầu đều <strong>lo lắng </strong>về quyết định của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>Most new home buyers are <strong>apprehensive </strong>about their decision.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2f5",
+        "questionNumber": 2,
+        "questionText": "circumstance",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev350.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/circumstance.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "condition; a situation",
+            "raw": "a condition; a situation",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Under the current economic <strong>circumstances</strong>, they will not be able to purchase the property.</p>\n",
+        "explanationViHtml": "<p>Với <strong>t&igrave;nh h&igrave;nh</strong> kinh tế hiện tại, họ sẽ kh&ocirc;ng thể mua được bất động sản.</p>\n",
+        "transcriptHtml": "<p>Under the current economic <strong>circumstances</strong>, they will not be able to purchase the property.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2f6",
+        "questionNumber": 3,
+        "questionText": "condition",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev351.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/condition.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the state of something; a requirement",
+            "raw": "the state of something; a requirement",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Except for some minor repairs. the building is in very good <strong>condition</strong>.</p>\n",
+        "explanationViHtml": "<p>Ngoại trừ một v&agrave;i sửa chữa nhỏ, t&ograve;a nh&agrave; đang trong<strong> t&igrave;nh trạng </strong>rất tốt.</p>\n",
+        "transcriptHtml": "<p>Except for some minor repairs. the building is in very good <strong>condition</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2f7",
+        "questionNumber": 4,
+        "questionText": "due to",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev352.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/due to.mp3",
+        "choices": [
+          {
+            "letter": "B",
+            "text": "ecause of",
+            "raw": "because of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<p><strong>Due to </strong>the low interest rates, good office space is difficult to find.</p>\n",
+        "explanationViHtml": "<p><strong>Do</strong> l&atilde;i suất thấp, kh&ocirc;ng dễ để t&igrave;m được văn ph&ograve;ng tốt.</p>\n",
+        "transcriptHtml": "<p><strong>Due to </strong>the low interest rates, good office space is difficult to find.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2f8",
+        "questionNumber": 5,
+        "questionText": "fluctuate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev353.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fluctuate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to go up and down; to change",
+            "raw": "to go up and down; to change",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>No one is very comfortable making a large investment while the currency values <strong>fluctuate </strong>almost daily.</p>\n",
+        "explanationViHtml": "<p>Kh&ocirc;ng ai cảm thấy thoải m&aacute;i khi đầu tư lớn trong l&uacute;c gi&aacute; trị tiền tệ <strong>thay đổi </strong>gần như h&agrave;ng ng&agrave;y.</p>\n",
+        "transcriptHtml": "<p>No one is very comfortable making a large investment while the currency values <strong>fluctuate </strong>almost daily.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2f9",
+        "questionNumber": 6,
+        "questionText": "get out of",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev354.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/get out of.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to escape; to exit",
+            "raw": "to escape; to exit",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The agent wasn&rsquo;t sure if the executives could <strong>get out of </strong>their prior real estate arrangement.</p>\n",
+        "explanationViHtml": "<p>Người m&ocirc;i giới kh&ocirc;ng chắc c&aacute;c gi&aacute;m đốc c&oacute; thể <strong>tho&aacute;t khỏi </strong>thỏa thuận bất động sản trước đ&oacute; hay kh&ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>The agent wasn&rsquo;t sure if the executives could <strong>get out of </strong>their prior real estate arrangement.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2fa",
+        "questionNumber": 7,
+        "questionText": "indicator",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev355.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/indicator.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "sign, a signal",
+            "raw": "a sign, a signal",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>If the economy is an accurate <strong>indicator</strong>, rental prices will increase rapidly in the next six months.</p>\n",
+        "explanationViHtml": "<p aria-label=\"Bản dịch: Nếu nền kinh tế là một chỉ báo chính xác, giá thuê nhà sẽ tăng nhanh trong sáu tháng tới.\" data-placeholder=\"Bản dịch\" data-ved=\"2ahUKEwjizM-B4tGKAxWyh1YBHdGYIKoQ3ewLegQICRAU\" dir=\"ltr\" id=\"tw-target-text\">Nếu nền kinh tế l&agrave; một <strong>chỉ b&aacute;o</strong> ch&iacute;nh x&aacute;c, gi&aacute; thu&ecirc; nh&agrave; sẽ tăng nhanh trong s&aacute;u th&aacute;ng tới.</p>\n",
+        "transcriptHtml": "<p>If the economy is an accurate <strong>indicator</strong>, rental prices will increase rapidly in the next six months.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2fb",
+        "questionNumber": 8,
+        "questionText": "lease",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev356.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/lease.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "contract to pay to use property for an amount of time; to make a contract to use property",
+            "raw": "a contract to pay to use property for an amount of time; to make a contract to use property",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>With the <strong>lease </strong>expiring next year. they need to start looking for a new location as soon as possible.</p>\n",
+        "explanationViHtml": "<p>V&igrave; <strong>hợp đồng thu&ecirc; </strong>sẽ hết hạn v&agrave;o năm sau, họ cần bắt đầu t&igrave;m kiếm địa điểm mới c&agrave;ng sớm c&agrave;ng tốt.</p>\n",
+        "transcriptHtml": "<p>With the <strong>lease </strong>expiring next year. they need to start looking for a new location as soon as possible.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2fc",
+        "questionNumber": 9,
+        "questionText": "lock into",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev357.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/lock into.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to commit; to be unable to change",
+            "raw": "to commit; to be unable to change",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company<strong> locked itself into </strong>a ten-year lease that they didn&rsquo;t want.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng ty đ&atilde; tự <strong>r&agrave;ng buộc </strong>v&agrave;o hợp đồng thu&ecirc; 10 năm m&agrave; họ kh&ocirc;ng muốn.</p>\n",
+        "transcriptHtml": "<p>The company<strong> locked itself into </strong>a ten-year lease that they didn&rsquo;t want.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2fd",
+        "questionNumber": 10,
+        "questionText": "occupy",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev358.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/occupy.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to dwell or reside in",
+            "raw": "to dwell or reside in",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The bed seemed to <strong>occupy </strong>most of the room.</p>\n",
+        "explanationViHtml": "<p>Chiếc giường dường như <strong>chiếm </strong>gần hết kh&ocirc;ng gian trong ph&ograve;ng.</p>\n",
+        "transcriptHtml": "<p>The bed seemed to <strong>occupy </strong>most of the room.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2fe",
+        "questionNumber": 11,
+        "questionText": "option",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev359.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/option.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "choice, an alternative",
+            "raw": "a choice, an alternative",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>You could arrange the lease with an <strong>option </strong>to buy after a certain amount of time.</p>\n",
+        "explanationViHtml": "<p>Bạn c&oacute; thể sắp xếp hợp đồng thu&ecirc; với <strong>t&ugrave;y chọn</strong> mua sau một thời gian nhất định.</p>\n",
+        "transcriptHtml": "<p>You could arrange the lease with an <strong>option </strong>to buy after a certain amount of time.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2ff",
+        "questionNumber": 12,
+        "questionText": "subject to",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev360.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/subject to.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "under legal power; dependent",
+            "raw": "under legal power; dependent",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>This contract is <strong>subject to</strong> all the laws and regulations of the state.</p>\n",
+        "explanationViHtml": "<p>Hợp đồng n&agrave;y <strong>chịu sự điều chỉnh </strong>của tất cả c&aacute;c luật v&agrave; quy định của bang.</p>\n",
+        "transcriptHtml": "<p>This contract is <strong>subject to</strong> all the laws and regulations of the state.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b2f4",
+      "word": "apprehensive",
+      "phonetic": "/ˌæprɪˈhensɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev349.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/apprehensive.mp3",
+      "meaningVi": "lo lắng",
+      "meaningEn": "anxious about the future",
+      "exampleEnHtml": "<p>Most new home buyers are <strong>apprehensive </strong>about their decision.</p>\n",
+      "exampleViHtml": "<p>Hầu hết những người mua nh&agrave; lần đầu đều <strong>lo lắng </strong>về quyết định của m&igrave;nh.</p>\n",
+      "exampleEn": "Most new home buyers are apprehensive about their decision.",
+      "exampleVi": "Hầu hết những người mua nhà lần đầu đều lo lắng về quyết định của mình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2f5",
+      "word": "circumstance",
+      "phonetic": "/ˈsɜːrkəmstæns/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev350.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/circumstance.mp3",
+      "meaningVi": "tình hình",
+      "meaningEn": "a condition; a situation",
+      "exampleEnHtml": "<p>Under the current economic <strong>circumstances</strong>, they will not be able to purchase the property.</p>\n",
+      "exampleViHtml": "<p>Với <strong>t&igrave;nh h&igrave;nh</strong> kinh tế hiện tại, họ sẽ kh&ocirc;ng thể mua được bất động sản.</p>\n",
+      "exampleEn": "Under the current economic circumstances, they will not be able to purchase the property.",
+      "exampleVi": "Với tình hình kinh tế hiện tại, họ sẽ không thể mua được bất động sản."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2f6",
+      "word": "condition",
+      "phonetic": "/kənˈdɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev351.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/condition.mp3",
+      "meaningVi": "tình trạng",
+      "meaningEn": "the state of something; a requirement",
+      "exampleEnHtml": "<p>Except for some minor repairs. the building is in very good <strong>condition</strong>.</p>\n",
+      "exampleViHtml": "<p>Ngoại trừ một v&agrave;i sửa chữa nhỏ, t&ograve;a nh&agrave; đang trong<strong> t&igrave;nh trạng </strong>rất tốt.</p>\n",
+      "exampleEn": "Except for some minor repairs. the building is in very good condition.",
+      "exampleVi": "Ngoại trừ một vài sửa chữa nhỏ, tòa nhà đang trong tình trạng rất tốt."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2f7",
+      "word": "due to",
+      "phonetic": "/duː tu/,  prepositional phrase",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev352.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/due to.mp3",
+      "meaningVi": "Do",
+      "meaningEn": "because of",
+      "exampleEnHtml": "<p><strong>Due to </strong>the low interest rates, good office space is difficult to find.</p>\n",
+      "exampleViHtml": "<p><strong>Do</strong> l&atilde;i suất thấp, kh&ocirc;ng dễ để t&igrave;m được văn ph&ograve;ng tốt.</p>\n",
+      "exampleEn": "Due to the low interest rates, good office space is difficult to find.",
+      "exampleVi": "Do lãi suất thấp, không dễ để tìm được văn phòng tốt."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2f8",
+      "word": "fluctuate",
+      "phonetic": "/ˈflʌktʃueɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev353.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fluctuate.mp3",
+      "meaningVi": "thay đổi",
+      "meaningEn": "to go up and down; to change",
+      "exampleEnHtml": "<p>No one is very comfortable making a large investment while the currency values <strong>fluctuate </strong>almost daily.</p>\n",
+      "exampleViHtml": "<p>Kh&ocirc;ng ai cảm thấy thoải m&aacute;i khi đầu tư lớn trong l&uacute;c gi&aacute; trị tiền tệ <strong>thay đổi </strong>gần như h&agrave;ng ng&agrave;y.</p>\n",
+      "exampleEn": "No one is very comfortable making a large investment while the currency values fluctuate almost daily.",
+      "exampleVi": "Không ai cảm thấy thoải mái khi đầu tư lớn trong lúc giá trị tiền tệ thay đổi gần như hàng ngày."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2f9",
+      "word": "get out of",
+      "phonetic": "/ˌɡet.aʊt.əv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev354.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/get out of.mp3",
+      "meaningVi": "thoát khỏi",
+      "meaningEn": "to escape; to exit",
+      "exampleEnHtml": "<p>The agent wasn&rsquo;t sure if the executives could <strong>get out of </strong>their prior real estate arrangement.</p>\n",
+      "exampleViHtml": "<p>Người m&ocirc;i giới kh&ocirc;ng chắc c&aacute;c gi&aacute;m đốc c&oacute; thể <strong>tho&aacute;t khỏi </strong>thỏa thuận bất động sản trước đ&oacute; hay kh&ocirc;ng.</p>\n",
+      "exampleEn": "The agent wasn’t sure if the executives could get out of their prior real estate arrangement.",
+      "exampleVi": "Người môi giới không chắc các giám đốc có thể thoát khỏi thỏa thuận bất động sản trước đó hay không."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2fa",
+      "word": "indicator",
+      "phonetic": "/ˈɪndɪkeɪtər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev355.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/indicator.mp3",
+      "meaningVi": "chỉ báo",
+      "meaningEn": "a sign, a signal",
+      "exampleEnHtml": "<p>If the economy is an accurate <strong>indicator</strong>, rental prices will increase rapidly in the next six months.</p>\n",
+      "exampleViHtml": "<p aria-label=\"Bản dịch: Nếu nền kinh tế là một chỉ báo chính xác, giá thuê nhà sẽ tăng nhanh trong sáu tháng tới.\" data-placeholder=\"Bản dịch\" data-ved=\"2ahUKEwjizM-B4tGKAxWyh1YBHdGYIKoQ3ewLegQICRAU\" dir=\"ltr\" id=\"tw-target-text\">Nếu nền kinh tế l&agrave; một <strong>chỉ b&aacute;o</strong> ch&iacute;nh x&aacute;c, gi&aacute; thu&ecirc; nh&agrave; sẽ tăng nhanh trong s&aacute;u th&aacute;ng tới.</p>\n",
+      "exampleEn": "If the economy is an accurate indicator, rental prices will increase rapidly in the next six months.",
+      "exampleVi": "Nếu nền kinh tế là một chỉ báo chính xác, giá thuê nhà sẽ tăng nhanh trong sáu tháng tới."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2fb",
+      "word": "lease",
+      "phonetic": "/liːs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev356.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/lease.mp3",
+      "meaningVi": "hợp đồng thuê",
+      "meaningEn": "a contract to pay to use property for an amount of time; to make a contract to use property",
+      "exampleEnHtml": "<p>With the <strong>lease </strong>expiring next year. they need to start looking for a new location as soon as possible.</p>\n",
+      "exampleViHtml": "<p>V&igrave; <strong>hợp đồng thu&ecirc; </strong>sẽ hết hạn v&agrave;o năm sau, họ cần bắt đầu t&igrave;m kiếm địa điểm mới c&agrave;ng sớm c&agrave;ng tốt.</p>\n",
+      "exampleEn": "With the lease expiring next year. they need to start looking for a new location as soon as possible.",
+      "exampleVi": "Vì hợp đồng thuê sẽ hết hạn vào năm sau, họ cần bắt đầu tìm kiếm địa điểm mới càng sớm càng tốt."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2fc",
+      "word": "lock into",
+      "phonetic": "/lɑːk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev357.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/lock into.mp3",
+      "meaningVi": "ràng buộc",
+      "meaningEn": "to commit; to be unable to change",
+      "exampleEnHtml": "<p>The company<strong> locked itself into </strong>a ten-year lease that they didn&rsquo;t want.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng ty đ&atilde; tự <strong>r&agrave;ng buộc </strong>v&agrave;o hợp đồng thu&ecirc; 10 năm m&agrave; họ kh&ocirc;ng muốn.</p>\n",
+      "exampleEn": "The company locked itself into a ten-year lease that they didn’t want.",
+      "exampleVi": "Công ty đã tự ràng buộc vào hợp đồng thuê 10 năm mà họ không muốn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2fd",
+      "word": "occupy",
+      "phonetic": "/ˈɑːkjupaɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev358.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/occupy.mp3",
+      "meaningVi": "chiếm",
+      "meaningEn": "to dwell or reside in",
+      "exampleEnHtml": "<p>The bed seemed to <strong>occupy </strong>most of the room.</p>\n",
+      "exampleViHtml": "<p>Chiếc giường dường như <strong>chiếm </strong>gần hết kh&ocirc;ng gian trong ph&ograve;ng.</p>\n",
+      "exampleEn": "The bed seemed to occupy most of the room.",
+      "exampleVi": "Chiếc giường dường như chiếm gần hết không gian trong phòng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2fe",
+      "word": "option",
+      "phonetic": "/ˈɑːpʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev359.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/option.mp3",
+      "meaningVi": "tùy chọn",
+      "meaningEn": "a choice, an alternative",
+      "exampleEnHtml": "<p>You could arrange the lease with an <strong>option </strong>to buy after a certain amount of time.</p>\n",
+      "exampleViHtml": "<p>Bạn c&oacute; thể sắp xếp hợp đồng thu&ecirc; với <strong>t&ugrave;y chọn</strong> mua sau một thời gian nhất định.</p>\n",
+      "exampleEn": "You could arrange the lease with an option to buy after a certain amount of time.",
+      "exampleVi": "Bạn có thể sắp xếp hợp đồng thuê với tùy chọn mua sau một thời gian nhất định."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2ff",
+      "word": "subject to",
+      "phonetic": "/ˈsʌbdʒɪkt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev360.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/subject to.mp3",
+      "meaningVi": "chịu sự điều chỉnh",
+      "meaningEn": "under legal power; dependent",
+      "exampleEnHtml": "<p>This contract is <strong>subject to</strong> all the laws and regulations of the state.</p>\n",
+      "exampleViHtml": "<p>Hợp đồng n&agrave;y <strong>chịu sự điều chỉnh </strong>của tất cả c&aacute;c luật v&agrave; quy định của bang.</p>\n",
+      "exampleEn": "This contract is subject to all the laws and regulations of the state.",
+      "exampleVi": "Hợp đồng này chịu sự điều chỉnh của tất cả các luật và quy định của bang."
+    }
+  ],
+  "totalFlashcards": 12
+}

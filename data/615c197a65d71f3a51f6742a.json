@@ -1,0 +1,644 @@
+{
+  "topicId": "615c197a65d71f3a51f6742a",
+  "title": "Part 6: Text Completion - Test 17",
+  "totalCards": 4,
+  "totalQuestions": 16,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "615d0d5765d71f3a51f6760f",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<br><b><u>Parking Notice</u></b><br>Parking along the streets in the Frederickton downtown area is prohibited every second and fourth Tuesday of the month between 8 a.m. and 12 p.m. for cleaning. ---1---. Anyone who violates this rule will be ticketed and charged a $15 penalty for the first three offenses. This must be paid within 30 days of ---2---.<br>City statutes permit vehicle owners to challenge a ticket's validity within the same 30-day period, and owners may make an appeal if they disagree with the outcome. On ---3--- violations, vehicles will be towed at the owner's expense. Repeated negligence could also ---4--- to the suspension of a driver's license.",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "615d0d5765d71f3a51f67613",
+          "questionNumber": 1,
+          "questionText": "Parking along the streets in the Frederickton downtown area is prohibited every second and fourth Tuesday of the month between 8 a.m. and 12 p.m. for cleaning. ---1---.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The city had to adjust parking rates every two months.",
+              "raw": "(A) The city had to adjust parking rates every two months.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The city's sanitation vehicles and crews will be working on roadways during this time.",
+              "raw": "(B) The city's sanitation vehicles and crews will be working on roadways during this time.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "This regulation has been implemented to reduce weekend traffic.",
+              "raw": "(C) This regulation has been implemented to reduce weekend traffic.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "There are several ways you can pay the fees for parking",
+              "raw": "(D) There are several ways you can pay the fees for parking",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>The previous sentence mentions that the Frederickton downtown area is prohibited every second and fourth Tuesday of the month between 8 a.m. and 12 p.m. for cleaning</p>\n\n<p><strong>=&gt; B is correct</strong></p>\n",
+          "explanationViHtml": "<p><strong>Đ&aacute;p &aacute;n B đ&uacute;ng</strong> v&igrave; n&oacute; giải th&iacute;ch l&yacute; do tại sao việc đậu xe bị cấm v&agrave;o mỗi thứ Ba thứ hai v&agrave; thứ tư h&agrave;ng th&aacute;ng, từ 8 giờ s&aacute;ng đến 12 giờ trưa để l&agrave;m sạch đường phố.&nbsp;</p>\n",
+          "transcriptHtml": "<p>The previous sentence mentions that the Frederickton downtown area is prohibited every second and fourth Tuesday of the month between 8 a.m. and 12 p.m. for cleaning</p>\n\n<p><strong>=&gt; B is correct</strong></p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f67614",
+          "questionNumber": 2,
+          "questionText": "This must be paid within 30 days of ---2---.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "receipt",
+              "raw": "(A) receipt",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "receive",
+              "raw": "(B) receive",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "receivable",
+              "raw": "(C) receivable",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "receives",
+              "raw": "(D) receives",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "<p>We need a noun after \"of\"</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+          "explanationViHtml": "<p>Trước chỗ trống l&agrave; giới từ &quot;of&quot;</p>\n\n<p>=&gt; Chỗ trống cần 1 danh từ&nbsp;</p>\n\n<p><strong>=&gt; Chọn đ&aacute;p &aacute;n A</strong></p>\n\n<p>&nbsp;receipt: h&oacute;a đơn</p>\n",
+          "transcriptHtml": "<p>We need a noun after \"of\"</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f67615",
+          "questionNumber": 3,
+          "questionText": "<p>On ---3--- violations, vehicles will be towed at the owner's expense.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "flexible",
+              "raw": "(A) flexible",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "technical",
+              "raw": "(B) technical",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "exemplary",
+              "raw": "(C) exemplary",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "subsequent",
+              "raw": "(D) subsequent",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>(A) flexible:&nbsp;able to change to suit new conditions or situations</p>\n\n<p>(B) technical:&nbsp;connected with the practical use of machines, methods, etc. in science and industry</p>\n\n<p>(C) exemplary:&nbsp;providing a good example for people to copy</p>\n\n<p>(D) subsequent:&nbsp;happening or coming after something else</p>\n\n<p>Based on the meaning of adjectives to choose the correct answer.</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n",
+          "explanationViHtml": "<p>flexible: linh hoạt</p>\n\n<p>technical: thuộc về kỹ thuật&nbsp;</p>\n\n<p>exemplary: mẫu mực</p>\n\n<p>subsequent: tiếp theo, xảy ra sau</p>\n\n<p><strong>=&gt; D c&oacute; nghĩa ph&ugrave; hợp nhất</strong></p>\n\n<p>&nbsp;</p>\n",
+          "transcriptHtml": "<p>(A) flexible:&nbsp;able to change to suit new conditions or situations</p>\n\n<p>(B) technical:&nbsp;connected with the practical use of machines, methods, etc. in science and industry</p>\n\n<p>(C) exemplary:&nbsp;providing a good example for people to copy</p>\n\n<p>(D) subsequent:&nbsp;happening or coming after something else</p>\n\n<p>Based on the meaning of adjectives to choose the correct answer.</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f67616",
+          "questionNumber": 4,
+          "questionText": "<p>Repeated negligence could also ---4--- to the suspension of a driver's license.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "lead",
+              "raw": "(A) lead",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "leads",
+              "raw": "(B) leads",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "led",
+              "raw": "(C) led",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "leading",
+              "raw": "(D) leading",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "<p>could + infinitive</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+          "explanationViHtml": "<p>could + V nguy&ecirc;n thể</p>\n\n<p><strong>=&gt; Chọn đ&aacute;p &aacute;n A</strong></p>\n",
+          "transcriptHtml": "<p>could + infinitive</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "615d0d5765d71f3a51f67610",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<p><br>To: Denise Barton [dbarton@officetime.com]<br>From: Elmer Wittson [elm_witt@wittsons.com]<br>Date: July 8<br>Subject: Inquiry<br>Dear Ms. Barton,<br>I am writing in regard to one of the ---1--- advertised in your sales flyer last week. The Cambridge XD multi-function printer was listed at a discounted price of only $449. As I have never seen it offered at such a large markdown, I am ---2--- to buy one.<br>However, I noticed the listing says that supplies may be limited. This is not surprising given that it is a very ---3--- model. ---4--- . I am looking forward to hearing back from you.<br>Thank you,<br>Elmer Wittson</p>",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "615d0d5765d71f3a51f67617",
+          "questionNumber": 5,
+          "questionText": "I am writing in regard to one of the ---1--- advertised in your sales flyer last week.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "positions",
+              "raw": "(A) positions",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "stores",
+              "raw": "(B) stores",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "products",
+              "raw": "(C) products",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "venues",
+              "raw": "(D) venues",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>This sentence mentions \"sales flyer\" =&gt; \"products\" is correct</p>\n",
+          "explanationViHtml": "<p>position: vị trí</p>\n<p>store: cửa hàng</p>\n<p>product: sản phẩm</p>\n<p>venue: địa điểm</p>\n<p>=&gt; C có nghĩa phù hợp nhất</p>",
+          "transcriptHtml": "<p>This sentence mentions \"sales flyer\" =&gt; \"products\" is correct</p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f67618",
+          "questionNumber": 6,
+          "questionText": "<p>As I have never seen it offered at such a large markdown, I am ---2--- to buy one.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "acceptable",
+              "raw": "(A) acceptable",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "intense",
+              "raw": "(B) intense",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "eager",
+              "raw": "(C) eager",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "strong",
+              "raw": "(D) strong",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>be eager to + infinitive: showing desire to do something</p>\n",
+          "explanationViHtml": "<p>acceptable: chấp nhận được</p>\n<p>intense: dữ dội</p>\n<p>eager: háo hức</p>\n<p>strong: mạnh mẽ</p>\n<p>=&gt; C có nghĩa phù hợp nhất</p>",
+          "transcriptHtml": "<p>be eager to + infinitive: showing desire to do something</p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f67619",
+          "questionNumber": 7,
+          "questionText": "<p>This is not surprising given that it is a very ---3--- model.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "popularize",
+              "raw": "(A) popularize",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "popular",
+              "raw": "(B) popular",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "popularly",
+              "raw": "(C) popularly",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "popularity",
+              "raw": "(D) popularity",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>We need an adjective to modify the noun \"model\"</p>\n",
+          "explanationViHtml": "<p>Trước chỗ trống là 1 trạng từ (very)</p>\n<p>=&gt; Chỗ trống cần 1 tính từ&nbsp;</p>\n<p>=&gt; Chọn đáp án B</p>\n<p>popular: phổ biến</p>",
+          "transcriptHtml": "<p>We need an adjective to modify the noun \"model\"</p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f6761a",
+          "questionNumber": 8,
+          "questionText": "<p>---4--- . I am looking forward to hearing back from you.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "I sincerely appreciate your business as a first-time client.",
+              "raw": "(A) I sincerely appreciate your business as a first-time client.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Don't forget to correct any errors before sending the next invoice.",
+              "raw": "(B) Don't forget to correct any errors before sending the next invoice.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "It is fortunate that I was able to buy it last week.",
+              "raw": "(C) It is fortunate that I was able to buy it last week.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Please let me know if there are any left as soon as possible.",
+              "raw": "(D) Please let me know if there are any left as soon as possible.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>Previously it is mentioned that \"supplies may be limited\" and this person is eager to buy one =&gt; D is correct</p>\n",
+          "explanationViHtml": "<p>Đáp án D đúng vì phản ánh sự quan tâm của người nói về sự hạn chế về cung cấp và mong muốn được thông báo ngay lập tức nếu vẫn còn hàng. (However, I noticed the listing says that supplies may be limited.&nbsp;&nbsp;I am looking forward to hearing back from you.)</p>\n<p>&nbsp;</p>",
+          "transcriptHtml": "<p>Previously it is mentioned that \"supplies may be limited\" and this person is eager to buy one =&gt; D is correct</p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "615d0d5765d71f3a51f67611",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<br>The Tulsa Airport is getting a major facelift this year, as announced by officials from the Department of Aviation. At a press conference held earlier, spokesperson Oliver Conway shared some details about the project. \"In response to ---1--- growth in regional aviation, city authorities and airport management have decided that now is the time to make renovations. In addition to an extra runway and gate facilities, the airport's interior ---2--- a significant transformation designed to enhance security and ease passenger flow,\" he said. The airport was first constructed over four decades ago at a cost of $11 million, but the cost of the current work is expected to exceed $1 billion. ---3---. If all goes according to plan, the new Tulsa Airport will be completed next year. It will ---4--- state-of-the-art equipment and facilities.",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "615d0d5765d71f3a51f6761b",
+          "questionNumber": 9,
+          "questionText": "In response to ---1--- growth in regional aviation, city authorities and airport management have decided that now is the time to make renovations.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "continue",
+              "raw": "(A) continue",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "continued",
+              "raw": "(B) continued",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "continuation",
+              "raw": "(C) continuation",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "continually",
+              "raw": "(D) continually",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>We need an adjective to modify the noun \"growth\"</p>\n",
+          "explanationViHtml": "<p>Chỗ trống cần 1 tính từ để bổ nghĩa cho danh từ \"growth\"</p>\n<p>=&gt; Chọn đáp án B</p>\n<p>continued: tiếp tục</p>",
+          "transcriptHtml": "<p>We need an adjective to modify the noun \"growth\"</p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f6761c",
+          "questionNumber": 10,
+          "questionText": "<p>In addition to an extra runway and gate facilities, the airport's interior ---2--- a significant transformation designed to enhance security and ease passenger flow,\" he said.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "to undergo",
+              "raw": "(A) to undergo",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "underwent",
+              "raw": "(B) underwent",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "has undergone",
+              "raw": "(C) has undergone",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "will undergo",
+              "raw": "(D) will undergo",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>This sentence is about a prediction =&gt; use future simple tense</p>\n",
+          "explanationViHtml": "<p>Đoạn văn nói về hành động sẽ xảy ra trong tương lai (Dấu hiệu: this year: năm nay)</p>\n<p>=&gt; Dùng thì tương lai đơn</p>\n<p>=&gt; Chọn đáp án D</p>\n<p>&nbsp;</p>",
+          "transcriptHtml": "<p>This sentence is about a prediction =&gt; use future simple tense</p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f6761d",
+          "questionNumber": 11,
+          "questionText": "<p>The airport was first constructed over four decades ago at a cost of $11 million, but the cost of the current work is expected to exceed $1 billion. ---3---.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The amount needed has forced officials to cancel the renovation.",
+              "raw": "(A) The amount needed has forced officials to cancel the renovation.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "This figure is reasonable given the project's significant size.",
+              "raw": "(B) This figure is reasonable given the project's significant size.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "This is due to a decrease in the number of transit passengers.",
+              "raw": "(C) This is due to a decrease in the number of transit passengers.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Anticipated tourist arrivals could bring added revenues on top of that.",
+              "raw": "(D) Anticipated tourist arrivals could bring added revenues on top of that.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>The previous sentence mentions a cost =&gt; B is correct</p>\n",
+          "explanationViHtml": "<p>Câu trước \"<em>The airport was first constructed over four decades ago at a cost of $11 million, but the cost of the current work is expected to exceed $1 billion.</em>\" (Sân bay được xây dựng lần đầu tiên cách đây hơn bốn thập kỷ với chi phí 11 triệu USD, nhưng chi phí cho công trình hiện tại dự kiến sẽ vượt quá 1 tỷ USD.)</p>\n<p>=&gt; Đáp án B đúng vì nó phản ánh ý rằng chi phí dự án hiện tại là đáng kể và phù hợp với quy mô của công việc cần thực hiện.</p>\n<p>=&gt; \"This figure\" chỉ \"$1 billion\"&nbsp;</p>\n<p>&nbsp;</p>",
+          "transcriptHtml": "<p>The previous sentence mentions a cost =&gt; B is correct</p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f6761e",
+          "questionNumber": 12,
+          "questionText": "<p>It will ---4--- state-of-the-art equipment and facilities.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "disclose",
+              "raw": "(A) disclose",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "process",
+              "raw": "(B) process",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "feature",
+              "raw": "(C) feature",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "distract",
+              "raw": "(D) distract",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>disclose:&nbsp;to give somebody information about something, especially something that was previously secret</p>\n\n<p>process:&nbsp;to treat raw material, food, etc. in order to change it, preserve it, etc.</p>\n\n<p>feature:&nbsp;to include a particular person or thing as a special feature</p>\n\n<p>distract:&nbsp;to take somebody’s attention away from what they are trying to do</p>\n\n<p>Based on the meaning of words</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n",
+          "explanationViHtml": "<p>disclose: tiết lộ</p>\n\n<p>process: xử l&yacute;, chế biến</p>\n\n<p>feature: bao gồm</p>\n\n<p>distract: l&agrave;m xao nh&atilde;ng</p>\n\n<p><strong>=&gt; C c&oacute; nghĩa ph&ugrave; hợp nhất</strong></p>\n",
+          "transcriptHtml": "<p>disclose:&nbsp;to give somebody information about something, especially something that was previously secret</p>\n\n<p>process:&nbsp;to treat raw material, food, etc. in order to change it, preserve it, etc.</p>\n\n<p>feature:&nbsp;to include a particular person or thing as a special feature</p>\n\n<p>distract:&nbsp;to take somebody’s attention away from what they are trying to do</p>\n\n<p>Based on the meaning of words</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "615d0d5765d71f3a51f67612",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<br> Claire Lewis<br>Coapow Industries<br>5411 Superior Avenue<br>Cleveland, OH 44103<br>Dear Ms. Lewis,<br>I am writing in reference to a conversation we had at last year's Food Expo in Beijing. You asked me to contact you if an opportunity ---1--- business together ever arose.<br>As it happens, I have since established a cocoa farm and processing plant called Ecuacao near Quito, Ecuador. I recall you mentioning your interest in products ---2--- from Forastero cocoa beans. It was difficult to grow at first, but I have successfully produced a good quantity of beans, as you can see from the catalog I sent you. Enclosed in the package that came with this letter are some ---3---  of my products. After trying them, please let me know what you think of the quality. ---4---. I'm certain our product will add to your revenues.<br>Thank you, and I look forward to hearing from you.<br>Sincerely,<br>Daniel Gerber",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "615d0d5765d71f3a51f6761f",
+          "questionNumber": 13,
+          "questionText": "You asked me to contact you if an opportunity ---1--- business together ever arose.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "conduct",
+              "raw": "(A) conduct",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "will conduct",
+              "raw": "(B) will conduct",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "conducting",
+              "raw": "(C) conducting",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "to conduct",
+              "raw": "(D) to conduct",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>opportunity + to infinitive</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n",
+          "explanationViHtml": "<p>opportunity + to V</p>\n\n<p><strong>=&gt; Chọn đ&aacute;p &aacute;n D</strong></p>\n",
+          "transcriptHtml": "<p>opportunity + to infinitive</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f67620",
+          "questionNumber": 14,
+          "questionText": "I recall you mentioning your interest in products ---2--- from Forastero cocoa beans.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "enjoyed",
+              "raw": "(A) enjoyed",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "derived",
+              "raw": "(B) derived",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "implemented",
+              "raw": "(C) implemented",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "prevented",
+              "raw": "(D) prevented",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>products derived from: coming from</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>derived from: c&oacute; nguồn gốc từ</p>\n\n<p><strong>=&gt; Chọn đ&aacute;p &aacute;n B</strong></p>\n",
+          "transcriptHtml": "<p>products derived from: coming from</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f67621",
+          "questionNumber": 15,
+          "questionText": "Enclosed in the package that came with this letter are some ---3---  of my products.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "descriptions",
+              "raw": "(A) descriptions",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "samples",
+              "raw": "(B) samples",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "surveys",
+              "raw": "(C) surveys",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "formulas",
+              "raw": "(D) formulas",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>description:&nbsp;something that tells you what something or someone is like</p>\n\n<p>sample:&nbsp;a small amount of something that shows you what the rest is or should be like</p>\n\n<p>survey:&nbsp;an examination of opinions, behaviour, etc., made by asking people questions</p>\n\n<p>formula:&nbsp;a standard or accepted way of doing or making something</p>\n\n<p>Based on the meaning of words</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p>description: m&ocirc; tả</p>\n\n<p>sample: mẫu, h&agrave;ng mẫu</p>\n\n<p>survey: khảo s&aacute;t</p>\n\n<p>formula: c&ocirc;ng thức&nbsp;</p>\n\n<p><strong>=&gt; B c&oacute; nghĩa ph&ugrave; hợp nhất</strong></p>\n",
+          "transcriptHtml": "<p>description:&nbsp;something that tells you what something or someone is like</p>\n\n<p>sample:&nbsp;a small amount of something that shows you what the rest is or should be like</p>\n\n<p>survey:&nbsp;an examination of opinions, behaviour, etc., made by asking people questions</p>\n\n<p>formula:&nbsp;a standard or accepted way of doing or making something</p>\n\n<p>Based on the meaning of words</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "615d0d5765d71f3a51f67622",
+          "questionNumber": 16,
+          "questionText": "<p>After trying them, please let me know what you think of the quality. ---4---.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Your suggestions for improving the quality of the beans were very useful to me.",
+              "raw": "(A) Your suggestions for improving the quality of the beans were very useful to me.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "We produced a smaller quantity than was originally projected.",
+              "raw": "(B) We produced a smaller quantity than was originally projected.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "I hope you will consider ordering a supply for your company.",
+              "raw": "(C) I hope you will consider ordering a supply for your company.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "I plan to set up my first factory facilities with the money.",
+              "raw": "(D) I plan to set up my first factory facilities with the money.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>C makes most sense.</p>\n",
+          "explanationViHtml": "<p>Dựa vào câu trước đó (After trying them, please let me know what you think of the quality) - Sau khi dùng thử, vui lòng cho tôi biết cảm nhận của bạn về chất lượng.</p>\n<p>=&gt; Chọn đáp án C</p>\n<p>Câu này thể hiện một lời mời hoặc gợi ý đối với người nhận hàng để họ xem xét việc đặt hàng cho công ty của họ.</p>",
+          "transcriptHtml": "<p>C makes most sense.</p>\n"
+        }
+      ]
+    }
+  ]
+}

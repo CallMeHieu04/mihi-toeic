@@ -1,0 +1,808 @@
+{
+  "topicId": "6204ce35d1bfab7a5b001a71",
+  "title": "PRESENT PERFECT TENSE - Practice 4",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b83",
+        "questionNumber": 1,
+        "questionText": "I don’t live with my family now and we ____________ .",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "haven't seen each other since five years",
+            "raw": "A. haven't seen each other since five years",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "didn't seen each other for five years",
+            "raw": "B. didn't seen each other for five years",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "haven't seen each other for five years",
+            "raw": "C. haven't seen each other for five years",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "don't see each other for five years",
+            "raw": "D. don't see each other for five years",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the present perfect tense to express an action that started in the past and continues up to the present, especially with the phrase 'for five years'. The present perfect is formed with 'have/has + past participle'.<br><ul><li><b>haven't seen each other since five years</b> (phrase): 'Since' is used with a specific point in time, not a period. The correct phrase should be 'for five years'.</li><li><b>didn't seen each other for five years</b> (verb phrase): 'Didn't' is followed by the base form 'see', not 'seen'. Also, the past simple is not appropriate here because the action continues to the present.</li><li><b>haven't seen each other for five years</b> (verb phrase): This is the correct present perfect form ('have/has + past participle') and uses 'for' with a period of time.</li><li><b>don't see each other for five years</b> (verb phrase): The present simple ('don't see') is not used with 'for' to describe an action that started in the past and continues to the present.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Use 'for' with a period of time (e.g., for five years), and 'since' with a point in time (e.g., since 2019).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì hiện tại hoàn thành để diễn tả một hành động bắt đầu trong quá khứ và kéo dài đến hiện tại, đặc biệt với cụm 'for five years'. Thì hiện tại hoàn thành được tạo thành bởi 'have/has + quá khứ phân từ'.<br><ul><li><b>haven't seen each other since five years</b> (cụm từ): 'Since' dùng với mốc thời gian cụ thể, không dùng với khoảng thời gian. Cụm đúng phải là 'for five years'.</li><li><b>didn't seen each other for five years</b> (cụm động từ): 'Didn't' phải đi với động từ nguyên thể 'see', không phải 'seen'. Ngoài ra, thì quá khứ đơn không phù hợp vì hành động này vẫn tiếp diễn đến hiện tại.</li><li><b>haven't seen each other for five years</b> (cụm động từ): Đây là dạng đúng của thì hiện tại hoàn thành ('have/has + quá khứ phân từ') và dùng 'for' với khoảng thời gian.</li><li><b>don't see each other for five years</b> (cụm động từ): Thì hiện tại đơn ('don't see') không dùng với 'for' để diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: have/has + quá khứ phân từ. Dùng 'for' với khoảng thời gian (ví dụ: for five years), và 'since' với mốc thời gian cụ thể (ví dụ: since 2019).<br><br><b>Tạm dịch:</b> Tôi không còn sống với gia đình nữa và chúng tôi đã không gặp nhau trong 5 năm rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the present perfect tense to express an action that started in the past and continues up to the present, especially with the phrase 'for five years'. The present perfect is formed with 'have/has + past participle'.<br><ul><li><b>haven't seen each other since five years</b> (phrase): 'Since' is used with a specific point in time, not a period. The correct phrase should be 'for five years'.</li><li><b>didn't seen each other for five years</b> (verb phrase): 'Didn't' is followed by the base form 'see', not 'seen'. Also, the past simple is not appropriate here because the action continues to the present.</li><li><b>haven't seen each other for five years</b> (verb phrase): This is the correct present perfect form ('have/has + past participle') and uses 'for' with a period of time.</li><li><b>don't see each other for five years</b> (verb phrase): The present simple ('don't see') is not used with 'for' to describe an action that started in the past and continues to the present.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Use 'for' with a period of time (e.g., for five years), and 'since' with a point in time (e.g., since 2019).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b84",
+        "questionNumber": 2,
+        "questionText": "____ yet ?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Have the letters been typed",
+            "raw": "A. Have the letters been typed",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Have been the letters typed",
+            "raw": "B. Have been the letters typed",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Have the letters typed",
+            "raw": "C. Have the letters typed",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Had the letters typed",
+            "raw": "D. Had the letters typed",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question '____ yet?' requires the correct form of a present perfect passive question. In English, the present perfect passive is formed as: Have/Has + object + been + past participle (V3). The word order in a question is: Have/Has + subject + been + past participle. The word 'yet' is often used in questions and negatives in the present perfect tense to ask if something has happened up to now.<br><ul><li><b>A. Have the letters been typed</b> (Present perfect passive question): This is the correct structure for a present perfect passive question: Have + subject (the letters) + been + past participle (typed).</li><li><b>B. Have been the letters typed</b> (Incorrect structure): Incorrect word order. In questions, the subject should come immediately after 'Have'.</li><li><b>C. Have the letters typed</b> (Incorrect structure): Missing 'been', so it is not a passive form.</li><li><b>D. Had the letters typed</b> (Incorrect tense): Uses 'Had' (past perfect), not 'Have' (present perfect), and is not the correct tense for 'yet' questions.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: Have/Has + object + been + past participle (V3). 'Yet' is used in present perfect questions to ask if something has happened up to now.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi '____ yet?' cần điền dạng câu hỏi bị động ở thì hiện tại hoàn thành. Ở tiếng Anh, thì hiện tại hoàn thành bị động được hình thành theo cấu trúc: Have/Has + tân ngữ + been + động từ phân từ II (V3). Thứ tự từ trong câu hỏi là: Have/Has + chủ ngữ + been + V3. Từ 'yet' thường dùng trong câu hỏi và phủ định ở thì hiện tại hoàn thành để hỏi liệu việc gì đó đã xảy ra cho đến thời điểm hiện tại chưa.<br><ul><li><b>A. Have the letters been typed</b> (Câu hỏi bị động hiện tại hoàn thành): Đây là cấu trúc đúng của câu hỏi bị động ở thì hiện tại hoàn thành: Have + chủ ngữ (the letters) + been + phân từ II (typed).</li><li><b>B. Have been the letters typed</b> (Cấu trúc sai): Sai thứ tự từ. Trong câu hỏi, chủ ngữ phải đứng ngay sau 'Have'.</li><li><b>C. Have the letters typed</b> (Cấu trúc sai): Thiếu 'been', nên không phải dạng bị động.</li><li><b>D. Had the letters typed</b> (Sai thì): Dùng 'Had' (quá khứ hoàn thành), không phải 'Have' (hiện tại hoàn thành), và không đúng thì cho câu hỏi với 'yet'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động hiện tại hoàn thành: Have/Has + tân ngữ + been + phân từ II (V3). 'Yet' dùng trong câu hỏi hiện tại hoàn thành để hỏi việc gì đó đã xảy ra chưa.<br><br><b>Tạm dịch:</b> Câu hỏi: ____ yet? Đáp án đúng là: A. Have the letters been typed. Dịch: Những bức thư đã được đánh máy xong chưa?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question '____ yet?' requires the correct form of a present perfect passive question. In English, the present perfect passive is formed as: Have/Has + object + been + past participle (V3). The word order in a question is: Have/Has + subject + been + past participle. The word 'yet' is often used in questions and negatives in the present perfect tense to ask if something has happened up to now.<br><ul><li><b>A. Have the letters been typed</b> (Present perfect passive question): This is the correct structure for a present perfect passive question: Have + subject (the letters) + been + past participle (typed).</li><li><b>B. Have been the letters typed</b> (Incorrect structure): Incorrect word order. In questions, the subject should come immediately after 'Have'.</li><li><b>C. Have the letters typed</b> (Incorrect structure): Missing 'been', so it is not a passive form.</li><li><b>D. Had the letters typed</b> (Incorrect tense): Uses 'Had' (past perfect), not 'Have' (present perfect), and is not the correct tense for 'yet' questions.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: Have/Has + object + been + past participle (V3). 'Yet' is used in present perfect questions to ask if something has happened up to now.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b85",
+        "questionNumber": 3,
+        "questionText": "____ by the police.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The stolen car has just been found",
+            "raw": "A. The stolen car has just been found",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The stealing car has just been found",
+            "raw": "B. The stealing car has just been found",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The stealing car has just found",
+            "raw": "C. The stealing car has just found",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The stolen car has just found",
+            "raw": "D. The stolen car has just found",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank is at the beginning of the sentence, followed by 'by the police.' This structure suggests a passive voice, where the subject (the stolen car) receives the action. In passive voice, we use 'be' + past participle (V3). The correct form is 'The stolen car has just been found by the police.'<br><ul><li><b>The stolen car has just been found</b> (Passive voice (present perfect)): 'Stolen' is the past participle of 'steal', used to describe something that has been taken illegally. 'Has just been found' is the present perfect passive form, indicating the action was completed recently.</li><li><b>The stealing car has just been found</b> (Present participle (incorrect usage)): 'Stealing' is the present participle, which describes something that is doing the action. 'Stealing car' would mean a car that is stealing, which is incorrect.</li><li><b>The stealing car has just found</b> (Present participle + active voice (incorrect)): This option uses 'stealing' incorrectly and lacks the passive structure. 'Has just found' is active voice, which does not fit the context.</li><li><b>The stolen car has just found</b> (Past participle + active voice (incorrect)): 'The stolen car' is correct, but 'has just found' is active voice, which means the car found something. The sentence needs passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle (V3). Present perfect passive: has/have + been + V3.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống nằm ở đầu câu, theo sau là 'by the police.' Cấu trúc này cho thấy đây là câu bị động, trong đó chủ ngữ (the stolen car) nhận hành động. Ở thể bị động, ta dùng 'be' + quá khứ phân từ (V3). Dạng đúng là 'The stolen car has just been found by the police.'<br><ul><li><b>The stolen car has just been found</b> (Câu bị động (hiện tại hoàn thành)): 'Stolen' là quá khứ phân từ của 'steal', dùng để miêu tả vật đã bị lấy trộm. 'Has just been found' là thì hiện tại hoàn thành bị động, diễn tả hành động vừa mới hoàn thành.</li><li><b>The stealing car has just been found</b> (Hiện tại phân từ (sai ngữ nghĩa)): 'Stealing' là hiện tại phân từ, dùng để miêu tả vật đang thực hiện hành động. 'Stealing car' nghĩa là chiếc xe đang ăn trộm, không đúng ngữ nghĩa.</li><li><b>The stealing car has just found</b> (Hiện tại phân từ + chủ động (sai)): Câu này dùng 'stealing' sai và thiếu cấu trúc bị động. 'Has just found' là chủ động, không phù hợp với ngữ cảnh.</li><li><b>The stolen car has just found</b> (Quá khứ phân từ + chủ động (sai)): 'The stolen car' đúng, nhưng 'has just found' là chủ động, nghĩa là chiếc xe tìm thấy cái gì đó. Câu này cần bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: be + quá khứ phân từ (V3). Hiện tại hoàn thành bị động: has/have + been + V3.<br><br><b>Tạm dịch:</b> Chiếc xe bị đánh cắp vừa mới được cảnh sát tìm thấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank is at the beginning of the sentence, followed by 'by the police.' This structure suggests a passive voice, where the subject (the stolen car) receives the action. In passive voice, we use 'be' + past participle (V3). The correct form is 'The stolen car has just been found by the police.'<br><ul><li><b>The stolen car has just been found</b> (Passive voice (present perfect)): 'Stolen' is the past participle of 'steal', used to describe something that has been taken illegally. 'Has just been found' is the present perfect passive form, indicating the action was completed recently.</li><li><b>The stealing car has just been found</b> (Present participle (incorrect usage)): 'Stealing' is the present participle, which describes something that is doing the action. 'Stealing car' would mean a car that is stealing, which is incorrect.</li><li><b>The stealing car has just found</b> (Present participle + active voice (incorrect)): This option uses 'stealing' incorrectly and lacks the passive structure. 'Has just found' is active voice, which does not fit the context.</li><li><b>The stolen car has just found</b> (Past participle + active voice (incorrect)): 'The stolen car' is correct, but 'has just found' is active voice, which means the car found something. The sentence needs passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle (V3). Present perfect passive: has/have + been + V3.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b86",
+        "questionNumber": 4,
+        "questionText": "____  to you yet ?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Are the book been giving back",
+            "raw": "A. Are the book been giving back",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Was the book been given back",
+            "raw": "B. Was the book been given back",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Has the book been given back",
+            "raw": "C. Has the book been given back",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Has been the book given back</p>",
+            "raw": "D. Has been the book given back</p>",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question '____ to you yet?' requires the correct passive voice form of the present perfect tense. In English, the present perfect passive is formed as: 'has/have + been + past participle (V3)'. The subject here is 'the book', which is singular, so we use 'has'. The correct word order in questions is: 'Has + subject + been + past participle...?' Therefore, the correct answer is 'Has the book been given back to you yet?'<br><ul><li><b>Are the book been giving back</b> (Verb phrase): 'Are' is present simple plural, 'been giving' is incorrect tense and form. The subject 'the book' is singular, so 'are' is wrong. 'Been giving' is not used in passive voice.</li><li><b>Was the book been given back</b> (Verb phrase): 'Was' is past simple, but 'been given' is present perfect passive. The combination is grammatically incorrect.</li><li><b>Has the book been given back</b> (Verb phrase): This is the correct present perfect passive form: 'Has + the book + been + given (V3)'.</li><li><b>Has been the book given back</b> (Verb phrase): Incorrect word order for questions in English. The subject should come after 'has'.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: has/have + been + past participle (V3). In questions: Has/have + subject + been + V3...?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi '____ to you yet?' yêu cầu dạng bị động của thì hiện tại hoàn thành. Trong tiếng Anh, thì hiện tại hoàn thành bị động được hình thành theo cấu trúc: 'has/have + been + quá khứ phân từ (V3)'. Chủ ngữ ở đây là 'the book' (quyển sách), là danh từ số ít nên dùng 'has'. Thứ tự từ trong câu hỏi là: 'Has + chủ ngữ + been + V3...?'. Vì vậy, đáp án đúng là 'Has the book been given back to you yet?'<br><ul><li><b>Are the book been giving back</b> (Cụm động từ): 'Are' là động từ số nhiều ở thì hiện tại đơn, 'been giving' là dạng thì và cấu trúc sai. Chủ ngữ 'the book' là số ít nên 'are' không đúng. 'Been giving' không dùng trong bị động.</li><li><b>Was the book been given back</b> (Cụm động từ): 'Was' là thì quá khứ đơn, nhưng 'been given' là hiện tại hoàn thành bị động. Sự kết hợp này sai ngữ pháp.</li><li><b>Has the book been given back</b> (Cụm động từ): Đây là dạng đúng của thì hiện tại hoàn thành bị động: 'Has + the book + been + given (V3)'.</li><li><b>Has been the book given back</b> (Cụm động từ): Thứ tự từ trong câu hỏi tiếng Anh sai. Chủ ngữ phải đứng sau 'has'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động thì hiện tại hoàn thành: has/have + been + V3. Trong câu hỏi: Has/have + chủ ngữ + been + V3...?<br><br><b>Tạm dịch:</b> Quyển sách đã được trả lại cho bạn chưa?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question '____ to you yet?' requires the correct passive voice form of the present perfect tense. In English, the present perfect passive is formed as: 'has/have + been + past participle (V3)'. The subject here is 'the book', which is singular, so we use 'has'. The correct word order in questions is: 'Has + subject + been + past participle...?' Therefore, the correct answer is 'Has the book been given back to you yet?'<br><ul><li><b>Are the book been giving back</b> (Verb phrase): 'Are' is present simple plural, 'been giving' is incorrect tense and form. The subject 'the book' is singular, so 'are' is wrong. 'Been giving' is not used in passive voice.</li><li><b>Was the book been given back</b> (Verb phrase): 'Was' is past simple, but 'been given' is present perfect passive. The combination is grammatically incorrect.</li><li><b>Has the book been given back</b> (Verb phrase): This is the correct present perfect passive form: 'Has + the book + been + given (V3)'.</li><li><b>Has been the book given back</b> (Verb phrase): Incorrect word order for questions in English. The subject should come after 'has'.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: has/have + been + past participle (V3). In questions: Has/have + subject + been + V3...?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b87",
+        "questionNumber": 5,
+        "questionText": "I _____________ my homework yet.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "have finish",
+            "raw": "A. have finish",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "has finished",
+            "raw": "B. has finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "did finished",
+            "raw": "C. did finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "haven't finished",
+            "raw": "D. haven't finished",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _____________ my homework yet.' requires the present perfect tense because of the word 'yet', which is commonly used with the present perfect to indicate that something has not happened up to now. The present perfect is formed with 'have/has' + past participle (V3). Since the subject is 'I', we use 'have' + past participle. The correct past participle of 'finish' is 'finished'. The negative form is 'haven't finished'.<br><ul><li><b>have finish</b> (verb phrase): 'finish' is the base form, not the past participle. The correct form should be 'have finished'.</li><li><b>has finished</b> (verb phrase): 'has' is used with third person singular subjects (he, she, it), not with 'I'.</li><li><b>did finished</b> (verb phrase): 'Did' is used for the past simple tense, and it should be followed by the base form 'finish', not 'finished'. Also, 'yet' is not usually used with the past simple.</li><li><b>haven't finished</b> (verb phrase): This is the correct present perfect negative form for 'I'. 'Haven't' is the contraction of 'have not', and 'finished' is the past participle.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle (V3); 'yet' is often used in negative sentences and questions with the present perfect.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I _____________ my homework yet.' cần sử dụng thì hiện tại hoàn thành vì có từ 'yet', thường dùng với thì hiện tại hoàn thành để diễn tả một việc chưa xảy ra cho đến thời điểm hiện tại. Thì hiện tại hoàn thành được hình thành với 'have/has' + quá khứ phân từ (V3). Chủ ngữ là 'I' nên dùng 'have' + quá khứ phân từ. Quá khứ phân từ của 'finish' là 'finished'. Dạng phủ định là 'haven't finished'.<br><ul><li><b>have finish</b> (cụm động từ): 'finish' là dạng nguyên thể, không phải quá khứ phân từ. Dạng đúng phải là 'have finished'.</li><li><b>has finished</b> (cụm động từ): 'has' dùng với chủ ngữ số ít ngôi thứ ba (he, she, it), không dùng với 'I'.</li><li><b>did finished</b> (cụm động từ): 'Did' dùng cho thì quá khứ đơn và phải đi với động từ nguyên thể 'finish', không phải 'finished'. Ngoài ra, 'yet' thường không dùng với thì quá khứ đơn.</li><li><b>haven't finished</b> (cụm động từ): Đây là dạng phủ định đúng của thì hiện tại hoàn thành với chủ ngữ 'I'. 'Haven't' là viết tắt của 'have not', 'finished' là quá khứ phân từ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: have/has + quá khứ phân từ (V3); 'yet' thường dùng trong câu phủ định và nghi vấn với thì hiện tại hoàn thành.<br><br><b>Tạm dịch:</b> Tôi vẫn chưa làm xong bài tập về nhà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _____________ my homework yet.' requires the present perfect tense because of the word 'yet', which is commonly used with the present perfect to indicate that something has not happened up to now. The present perfect is formed with 'have/has' + past participle (V3). Since the subject is 'I', we use 'have' + past participle. The correct past participle of 'finish' is 'finished'. The negative form is 'haven't finished'.<br><ul><li><b>have finish</b> (verb phrase): 'finish' is the base form, not the past participle. The correct form should be 'have finished'.</li><li><b>has finished</b> (verb phrase): 'has' is used with third person singular subjects (he, she, it), not with 'I'.</li><li><b>did finished</b> (verb phrase): 'Did' is used for the past simple tense, and it should be followed by the base form 'finish', not 'finished'. Also, 'yet' is not usually used with the past simple.</li><li><b>haven't finished</b> (verb phrase): This is the correct present perfect negative form for 'I'. 'Haven't' is the contraction of 'have not', and 'finished' is the past participle.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle (V3); 'yet' is often used in negative sentences and questions with the present perfect.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b88",
+        "questionNumber": 6,
+        "questionText": "My father is on the way. He ____________ home yet.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "haven't arrived",
+            "raw": "A. haven't arrived",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "hasn't arrived",
+            "raw": "B. hasn't arrived",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "didn't arrived",
+            "raw": "C. didn't arrived",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "arrived",
+            "raw": "D. arrived",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs the present perfect tense because the sentence refers to an action that has not happened up to the present moment. The subject 'he' requires the auxiliary verb 'has' in the present perfect. The correct structure is 'has/have + past participle'.<br><ul><li><b>haven't arrived</b> (verb phrase): 'Haven't' is the contraction of 'have not', which is used with plural subjects or 'I/you/we/they', not with 'he'.</li><li><b>hasn't arrived</b> (verb phrase): 'Hasn't' is the contraction of 'has not', used with singular third person subjects like 'he/she/it'. 'Arrived' is the past participle of 'arrive'. This is the correct present perfect negative form.</li><li><b>didn't arrived</b> (verb phrase): 'Didn't' is the past simple negative auxiliary, and it must be followed by the base form of the verb, not the past participle. 'Arrived' is incorrect here.</li><li><b>arrived</b> (verb): This is the past simple form, but the sentence requires the present perfect tense to indicate an action that has not happened up to now.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. Used to describe actions that have not happened up to the present moment.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần thì hiện tại hoàn thành vì câu nói về một hành động chưa xảy ra cho đến thời điểm hiện tại. Chủ ngữ 'he' cần dùng trợ động từ 'has' trong thì hiện tại hoàn thành. Cấu trúc đúng là 'has/have + quá khứ phân từ'.<br><ul><li><b>haven't arrived</b> (cụm động từ): 'Haven't' là viết tắt của 'have not', dùng với các chủ ngữ số nhiều hoặc 'I/you/we/they', không dùng với 'he'.</li><li><b>hasn't arrived</b> (cụm động từ): 'Hasn't' là viết tắt của 'has not', dùng với chủ ngữ số ít ngôi thứ ba như 'he/she/it'. 'Arrived' là quá khứ phân từ của 'arrive'. Đây là dạng phủ định đúng của thì hiện tại hoàn thành.</li><li><b>didn't arrived</b> (cụm động từ): 'Didn't' là trợ động từ phủ định của thì quá khứ đơn, sau 'didn't' phải là động từ nguyên thể, không dùng quá khứ phân từ. 'Arrived' ở đây là sai.</li><li><b>arrived</b> (động từ): Đây là dạng quá khứ đơn, nhưng câu cần thì hiện tại hoàn thành để diễn tả hành động chưa xảy ra cho đến hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + quá khứ phân từ. Dùng để diễn tả hành động chưa xảy ra cho đến thời điểm hiện tại.<br><br><b>Tạm dịch:</b> Bố tôi đang trên đường về. Ông ấy vẫn chưa về đến nhà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs the present perfect tense because the sentence refers to an action that has not happened up to the present moment. The subject 'he' requires the auxiliary verb 'has' in the present perfect. The correct structure is 'has/have + past participle'.<br><ul><li><b>haven't arrived</b> (verb phrase): 'Haven't' is the contraction of 'have not', which is used with plural subjects or 'I/you/we/they', not with 'he'.</li><li><b>hasn't arrived</b> (verb phrase): 'Hasn't' is the contraction of 'has not', used with singular third person subjects like 'he/she/it'. 'Arrived' is the past participle of 'arrive'. This is the correct present perfect negative form.</li><li><b>didn't arrived</b> (verb phrase): 'Didn't' is the past simple negative auxiliary, and it must be followed by the base form of the verb, not the past participle. 'Arrived' is incorrect here.</li><li><b>arrived</b> (verb): This is the past simple form, but the sentence requires the present perfect tense to indicate an action that has not happened up to now.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. Used to describe actions that have not happened up to the present moment.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b89",
+        "questionNumber": 7,
+        "questionText": "I am not hungry. I have _______ eaten.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "yet",
+            "raw": "A. yet",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "now",
+            "raw": "B. now",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "just",
+            "raw": "C. just",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "ever",
+            "raw": "D. ever",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I am not hungry. I have _______ eaten.' requires an adverb that fits the present perfect tense. In English, 'just' is commonly used with the present perfect to indicate that something happened a short time ago. The sentence means the person has eaten recently, so they are not hungry.<br><ul><li><b>yet</b> (adverb): 'Yet' is used in negative sentences and questions with the present perfect to mean 'up to now', usually at the end of the sentence.</li><li><b>now</b> (adverb): 'Now' means 'at this moment', but it is not used with the present perfect in this context.</li><li><b>just</b> (adverb): 'Just' is used with the present perfect to show that something happened a short time ago.</li><li><b>ever</b> (adverb): 'Ever' is used in questions and negative sentences with the present perfect to mean 'at any time'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense + just: used to talk about a recently completed action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I am not hungry. I have _______ eaten.' cần một trạng từ phù hợp với thì hiện tại hoàn thành. Trong tiếng Anh, 'just' thường được dùng với thì hiện tại hoàn thành để diễn tả một hành động vừa mới xảy ra. Câu này có nghĩa là người nói vừa ăn xong nên không đói.<br><ul><li><b>yet</b> (trạng từ): 'Yet' được dùng trong câu phủ định và nghi vấn với thì hiện tại hoàn thành, mang nghĩa 'cho đến bây giờ', thường đứng ở cuối câu.</li><li><b>now</b> (trạng từ): 'Now' nghĩa là 'bây giờ', nhưng không dùng với thì hiện tại hoàn thành trong trường hợp này.</li><li><b>just</b> (trạng từ): 'Just' dùng với thì hiện tại hoàn thành để chỉ một hành động vừa mới xảy ra.</li><li><b>ever</b> (trạng từ): 'Ever' dùng trong câu hỏi và phủ định với thì hiện tại hoàn thành, mang nghĩa 'từng', 'bao giờ'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành + just: dùng để nói về một hành động vừa mới hoàn thành.<br><br><b>Tạm dịch:</b> Tôi không đói. Tôi vừa mới ăn xong.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I am not hungry. I have _______ eaten.' requires an adverb that fits the present perfect tense. In English, 'just' is commonly used with the present perfect to indicate that something happened a short time ago. The sentence means the person has eaten recently, so they are not hungry.<br><ul><li><b>yet</b> (adverb): 'Yet' is used in negative sentences and questions with the present perfect to mean 'up to now', usually at the end of the sentence.</li><li><b>now</b> (adverb): 'Now' means 'at this moment', but it is not used with the present perfect in this context.</li><li><b>just</b> (adverb): 'Just' is used with the present perfect to show that something happened a short time ago.</li><li><b>ever</b> (adverb): 'Ever' is used in questions and negative sentences with the present perfect to mean 'at any time'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense + just: used to talk about a recently completed action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b8a",
+        "questionNumber": 8,
+        "questionText": "I have never ___________ to Paris.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "been",
+            "raw": "A. been",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "went",
+            "raw": "B. went",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "go",
+            "raw": "C. go",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was",
+            "raw": "D. was",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the present perfect tense is required because the action refers to an experience at an unspecified time in the past. The structure for the present perfect is 'have/has + past participle'.<br><ul><li><b>been</b> (past participle (verb)): 'Been' is the past participle of 'be' and is used with 'have/has' to form the present perfect tense, especially when talking about experiences or visits to places.</li><li><b>went</b> (past simple (verb)): 'Went' is the past simple form of 'go', used for actions that happened at a specific time in the past.</li><li><b>go</b> (base form (verb)): 'Go' is the base form of the verb, not suitable after 'have never' in this context.</li><li><b>was</b> (past simple (verb)): 'Was' is the past simple form of 'be', used for the first and third person singular. It does not fit the present perfect structure.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used to talk about experiences or actions that happened at an unspecified time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, thì hiện tại hoàn thành được sử dụng vì hành động nói về một trải nghiệm đã xảy ra vào một thời điểm không xác định trong quá khứ. Cấu trúc của thì hiện tại hoàn thành là 'have/has + quá khứ phân từ'.<br><ul><li><b>been</b> (quá khứ phân từ (động từ)): 'Been' là quá khứ phân từ của động từ 'be', được dùng với 'have/has' để tạo thành thì hiện tại hoàn thành, đặc biệt khi nói về trải nghiệm hoặc việc đã từng đến một nơi nào đó.</li><li><b>went</b> (quá khứ đơn (động từ)): 'Went' là thì quá khứ đơn của động từ 'go', dùng cho hành động đã xảy ra tại một thời điểm xác định trong quá khứ.</li><li><b>go</b> (nguyên thể (động từ)): 'Go' là dạng nguyên thể của động từ, không phù hợp sau 'have never' trong trường hợp này.</li><li><b>was</b> (quá khứ đơn (động từ)): 'Was' là thì quá khứ đơn của động từ 'be', dùng cho ngôi thứ nhất và thứ ba số ít. Không phù hợp với cấu trúc thì hiện tại hoàn thành.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: have/has + quá khứ phân từ. Dùng để nói về trải nghiệm hoặc hành động đã xảy ra vào một thời điểm không xác định trong quá khứ.<br><br><b>Tạm dịch:</b> Tôi chưa bao giờ đến Paris.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the present perfect tense is required because the action refers to an experience at an unspecified time in the past. The structure for the present perfect is 'have/has + past participle'.<br><ul><li><b>been</b> (past participle (verb)): 'Been' is the past participle of 'be' and is used with 'have/has' to form the present perfect tense, especially when talking about experiences or visits to places.</li><li><b>went</b> (past simple (verb)): 'Went' is the past simple form of 'go', used for actions that happened at a specific time in the past.</li><li><b>go</b> (base form (verb)): 'Go' is the base form of the verb, not suitable after 'have never' in this context.</li><li><b>was</b> (past simple (verb)): 'Was' is the past simple form of 'be', used for the first and third person singular. It does not fit the present perfect structure.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used to talk about experiences or actions that happened at an unspecified time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b8b",
+        "questionNumber": 9,
+        "questionText": "________ you ever been to New York?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Are",
+            "raw": "A. Are",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Were",
+            "raw": "B. Were",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Do",
+            "raw": "C. Do",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Have",
+            "raw": "D. Have",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question '________ you ever been to New York?' requires an auxiliary verb to form the present perfect tense. The present perfect tense is used to talk about experiences at an unspecified time in the past. The correct auxiliary verb for 'you' in the present perfect is 'have'.<br><ul><li><b>Are</b> (auxiliary verb): 'Are' is the present simple form of the verb 'to be', used for present continuous or to describe a state, not for present perfect tense.</li><li><b>Were</b> (auxiliary verb): 'Were' is the past simple form of the verb 'to be', used for past continuous or to describe a state in the past, not for present perfect tense.</li><li><b>Do</b> (auxiliary verb): 'Do' is an auxiliary verb used for present simple questions, not for present perfect tense.</li><li><b>Have</b> (auxiliary verb): 'Have' is the correct auxiliary verb used to form the present perfect tense with 'you'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used to talk about experiences or actions that happened at an unspecified time before now.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi '________ you ever been to New York?' cần một trợ động từ để tạo thành thì hiện tại hoàn thành. Thì hiện tại hoàn thành được dùng để nói về trải nghiệm đã từng xảy ra vào một thời điểm không xác định trong quá khứ. Trợ động từ đúng cho 'you' ở thì hiện tại hoàn thành là 'have'.<br><ul><li><b>Are</b> (trợ động từ): 'Are' là dạng hiện tại đơn của động từ 'to be', dùng cho thì hiện tại tiếp diễn hoặc để mô tả trạng thái, không dùng cho thì hiện tại hoàn thành.</li><li><b>Were</b> (trợ động từ): 'Were' là dạng quá khứ đơn của động từ 'to be', dùng cho thì quá khứ tiếp diễn hoặc mô tả trạng thái trong quá khứ, không dùng cho thì hiện tại hoàn thành.</li><li><b>Do</b> (trợ động từ): 'Do' là trợ động từ dùng cho câu hỏi ở thì hiện tại đơn, không dùng cho thì hiện tại hoàn thành.</li><li><b>Have</b> (trợ động từ): 'Have' là trợ động từ đúng dùng để tạo thì hiện tại hoàn thành với 'you'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: have/has + quá khứ phân từ. Dùng để nói về trải nghiệm hoặc hành động đã xảy ra vào một thời điểm không xác định trước hiện tại.<br><br><b>Tạm dịch:</b> Bạn đã từng đến New York chưa?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question '________ you ever been to New York?' requires an auxiliary verb to form the present perfect tense. The present perfect tense is used to talk about experiences at an unspecified time in the past. The correct auxiliary verb for 'you' in the present perfect is 'have'.<br><ul><li><b>Are</b> (auxiliary verb): 'Are' is the present simple form of the verb 'to be', used for present continuous or to describe a state, not for present perfect tense.</li><li><b>Were</b> (auxiliary verb): 'Were' is the past simple form of the verb 'to be', used for past continuous or to describe a state in the past, not for present perfect tense.</li><li><b>Do</b> (auxiliary verb): 'Do' is an auxiliary verb used for present simple questions, not for present perfect tense.</li><li><b>Have</b> (auxiliary verb): 'Have' is the correct auxiliary verb used to form the present perfect tense with 'you'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used to talk about experiences or actions that happened at an unspecified time before now.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b8c",
+        "questionNumber": 10,
+        "questionText": "I am still working. I haven't finished my work ________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "already",
+            "raw": "A. already",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "yet",
+            "raw": "B. yet",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "still",
+            "raw": "C. still",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "never",
+            "raw": "D. never",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I am still working. I haven't finished my work ________.' requires an adverb that fits with the present perfect negative form 'haven't finished'. In English, 'yet' is commonly used at the end of negative sentences in the present perfect tense to indicate that something has not happened up to now, but is expected to happen.<br><ul><li><b>already</b> (adverb): 'Already' is used in affirmative sentences, usually to show that something has happened sooner than expected. It is not used in negative sentences like this one.</li><li><b>yet</b> (adverb): 'Yet' is used in negative sentences and questions in the present perfect tense to mean 'up to now'. It is placed at the end of the sentence.</li><li><b>still</b> (adverb): 'Still' is used to show that something continues to happen, often placed before the main verb. It does not fit at the end of the sentence in this context.</li><li><b>never</b> (adverb): 'Never' means 'at no time in the past'. It is used with the present perfect but not in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense + 'yet' in negative sentences: Subject + have/has not + past participle + yet.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I am still working. I haven't finished my work ________.' cần một trạng từ phù hợp với thì hiện tại hoàn thành phủ định 'haven't finished'. Trong tiếng Anh, 'yet' thường được dùng ở cuối câu phủ định ở thì hiện tại hoàn thành để diễn tả một việc chưa xảy ra cho đến thời điểm hiện tại nhưng dự kiến sẽ xảy ra.<br><ul><li><b>already</b> (trạng từ): 'Already' dùng trong câu khẳng định, thường để chỉ điều gì đó đã xảy ra sớm hơn mong đợi. Không dùng trong câu phủ định như câu này.</li><li><b>yet</b> (trạng từ): 'Yet' dùng trong câu phủ định và nghi vấn ở thì hiện tại hoàn thành, mang nghĩa 'cho đến bây giờ'. Được đặt ở cuối câu.</li><li><b>still</b> (trạng từ): 'Still' dùng để chỉ một hành động vẫn đang tiếp diễn, thường đặt trước động từ chính. Không phù hợp đặt ở cuối câu trong ngữ cảnh này.</li><li><b>never</b> (trạng từ): 'Never' nghĩa là 'không bao giờ', dùng với thì hiện tại hoàn thành nhưng không phù hợp với cấu trúc câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành + 'yet' trong câu phủ định: Chủ ngữ + have/has not + động từ phân từ II + yet.<br><br><b>Tạm dịch:</b> Tôi vẫn đang làm việc. Tôi chưa hoàn thành công việc của mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I am still working. I haven't finished my work ________.' requires an adverb that fits with the present perfect negative form 'haven't finished'. In English, 'yet' is commonly used at the end of negative sentences in the present perfect tense to indicate that something has not happened up to now, but is expected to happen.<br><ul><li><b>already</b> (adverb): 'Already' is used in affirmative sentences, usually to show that something has happened sooner than expected. It is not used in negative sentences like this one.</li><li><b>yet</b> (adverb): 'Yet' is used in negative sentences and questions in the present perfect tense to mean 'up to now'. It is placed at the end of the sentence.</li><li><b>still</b> (adverb): 'Still' is used to show that something continues to happen, often placed before the main verb. It does not fit at the end of the sentence in this context.</li><li><b>never</b> (adverb): 'Never' means 'at no time in the past'. It is used with the present perfect but not in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense + 'yet' in negative sentences: Subject + have/has not + past participle + yet.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b8d",
+        "questionNumber": 11,
+        "questionText": "I am looking for my pen. I __________ it.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "have lost",
+            "raw": "A. have lost",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "lost",
+            "raw": "B. lost",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "did lost",
+            "raw": "C. did lost",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was lost",
+            "raw": "D. was lost",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the present perfect tense because the action (losing the pen) happened at an unspecified time in the past and has a present result (the pen is still missing). The present perfect is formed with 'have/has + past participle'.<br><ul><li><b>have lost</b> (verb (present perfect)): 'Have lost' is the present perfect tense, used for actions that happened at an unspecified time in the past and have a present result.</li><li><b>lost</b> (verb (simple past)): 'Lost' is the simple past tense, used for actions that happened at a specific time in the past.</li><li><b>did lost</b> (incorrect verb form): 'Did lost' is incorrect because 'did' is used with the base form of the verb, so it should be 'did lose'.</li><li><b>was lost</b> (verb (past passive)): 'Was lost' is the past passive form, which means the pen was lost (by someone), not that 'I' lost it.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used for actions with present results or unspecified time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì hiện tại hoàn thành vì hành động (làm mất bút) xảy ra vào một thời điểm không xác định trong quá khứ và có kết quả ở hiện tại (vẫn chưa tìm thấy bút). Thì hiện tại hoàn thành được tạo thành bởi 'have/has + quá khứ phân từ'.<br><ul><li><b>have lost</b> (động từ (hiện tại hoàn thành)): 'Have lost' là thì hiện tại hoàn thành, dùng cho hành động xảy ra ở một thời điểm không xác định trong quá khứ và có kết quả ở hiện tại.</li><li><b>lost</b> (động từ (quá khứ đơn)): 'Lost' là thì quá khứ đơn, dùng cho hành động xảy ra ở một thời điểm xác định trong quá khứ.</li><li><b>did lost</b> (dạng động từ sai): 'Did lost' là sai ngữ pháp vì 'did' phải đi với động từ nguyên thể, đúng phải là 'did lose'.</li><li><b>was lost</b> (động từ (bị động quá khứ)): 'Was lost' là dạng bị động quá khứ, nghĩa là cây bút bị mất (bởi ai đó), không phải 'tôi' làm mất.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: have/has + quá khứ phân từ. Dùng cho hành động có kết quả ở hiện tại hoặc xảy ra vào thời điểm không xác định trong quá khứ.<br><br><b>Tạm dịch:</b> Tôi đang tìm cây bút của mình. Tôi đã làm mất nó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the present perfect tense because the action (losing the pen) happened at an unspecified time in the past and has a present result (the pen is still missing). The present perfect is formed with 'have/has + past participle'.<br><ul><li><b>have lost</b> (verb (present perfect)): 'Have lost' is the present perfect tense, used for actions that happened at an unspecified time in the past and have a present result.</li><li><b>lost</b> (verb (simple past)): 'Lost' is the simple past tense, used for actions that happened at a specific time in the past.</li><li><b>did lost</b> (incorrect verb form): 'Did lost' is incorrect because 'did' is used with the base form of the verb, so it should be 'did lose'.</li><li><b>was lost</b> (verb (past passive)): 'Was lost' is the past passive form, which means the pen was lost (by someone), not that 'I' lost it.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used for actions with present results or unspecified time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b8e",
+        "questionNumber": 12,
+        "questionText": "During the two years David ____________ ten different jobs.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has has",
+            "raw": "A. has has",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "has had",
+            "raw": "B. has had",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "have had",
+            "raw": "C. have had",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have has",
+            "raw": "D. have has",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the present perfect tense because the sentence refers to an action that started in the past and continues up to the present (during the two years). The present perfect is formed with 'has/have' + past participle. Since the subject is 'David' (singular), we use 'has' + 'had' (the past participle of 'have').<br><ul><li><b>has has</b> (auxiliary verb + auxiliary verb): 'has' is used twice, which is grammatically incorrect. Only one auxiliary verb is needed.</li><li><b>has had</b> (auxiliary verb + past participle): 'has' is the correct auxiliary verb for 'David' (he/she/it), and 'had' is the past participle of 'have'. This forms the correct present perfect tense.</li><li><b>have had</b> (auxiliary verb + past participle): 'have' is used for plural subjects or 'I/you/we/they', not for 'David' (singular).</li><li><b>have has</b> (auxiliary verb + auxiliary verb): This is incorrect because 'has' is not the past participle of 'have', and 'have' is not the correct auxiliary for 'David'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Subject + has/have + past participle. Used for actions that happened at an unspecified time in the past and may continue to the present.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì hiện tại hoàn thành vì câu nói về một hành động bắt đầu trong quá khứ và kéo dài đến hiện tại (trong hai năm qua). Thì hiện tại hoàn thành được hình thành bởi 'has/have' + quá khứ phân từ. Chủ ngữ là 'David' (số ít), nên dùng 'has' + 'had' (quá khứ phân từ của 'have').<br><ul><li><b>has has</b> (trợ động từ + trợ động từ): 'has' được dùng hai lần liên tiếp, điều này sai ngữ pháp. Chỉ cần một trợ động từ.</li><li><b>has had</b> (trợ động từ + quá khứ phân từ): 'has' là trợ động từ đúng cho chủ ngữ 'David' (he/she/it), và 'had' là quá khứ phân từ của 'have'. Đây là cấu trúc đúng của thì hiện tại hoàn thành.</li><li><b>have had</b> (trợ động từ + quá khứ phân từ): 'have' dùng cho chủ ngữ số nhiều hoặc 'I/you/we/they', không dùng cho 'David' (số ít).</li><li><b>have has</b> (trợ động từ + trợ động từ): Cấu trúc này sai vì 'has' không phải là quá khứ phân từ của 'have', và 'have' cũng không phải trợ động từ đúng cho 'David'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: Chủ ngữ + has/have + quá khứ phân từ. Dùng để diễn tả hành động xảy ra trong quá khứ và còn liên quan đến hiện tại.<br><br><b>Tạm dịch:</b> Trong hai năm qua, David đã làm mười công việc khác nhau.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the present perfect tense because the sentence refers to an action that started in the past and continues up to the present (during the two years). The present perfect is formed with 'has/have' + past participle. Since the subject is 'David' (singular), we use 'has' + 'had' (the past participle of 'have').<br><ul><li><b>has has</b> (auxiliary verb + auxiliary verb): 'has' is used twice, which is grammatically incorrect. Only one auxiliary verb is needed.</li><li><b>has had</b> (auxiliary verb + past participle): 'has' is the correct auxiliary verb for 'David' (he/she/it), and 'had' is the past participle of 'have'. This forms the correct present perfect tense.</li><li><b>have had</b> (auxiliary verb + past participle): 'have' is used for plural subjects or 'I/you/we/they', not for 'David' (singular).</li><li><b>have has</b> (auxiliary verb + auxiliary verb): This is incorrect because 'has' is not the past participle of 'have', and 'have' is not the correct auxiliary for 'David'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Subject + has/have + past participle. Used for actions that happened at an unspecified time in the past and may continue to the present.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b8f",
+        "questionNumber": 13,
+        "questionText": "I __________ a teacher since 2002.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was",
+            "raw": "A. was",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have be",
+            "raw": "B. have be",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have been",
+            "raw": "C. have been",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "had be",
+            "raw": "D. had be",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I __________ a teacher since 2002.' requires the present perfect tense because the action started in the past (since 2002) and continues up to the present. The present perfect tense is formed with 'have/has + past participle'. The correct past participle of 'be' is 'been'.<br><ul><li><b>was</b> (verb (past simple)): 'Was' is the past simple form of 'be', used for actions that happened and finished in the past. It cannot be used with 'since' to indicate an action that continues to the present.</li><li><b>have be</b> (auxiliary verb + base verb): 'Have be' is incorrect because 'be' is the base form, not the past participle. The correct form should be 'have been'.</li><li><b>have been</b> (auxiliary verb + past participle): 'Have been' is the present perfect form, used to describe an action that started in the past and continues to the present. This fits the sentence with 'since 2002'.</li><li><b>had be</b> (auxiliary verb (past perfect) + base verb): 'Had be' is incorrect because 'had' is used for the past perfect tense, and 'be' should be in the past participle form 'been'. Also, past perfect is not suitable here.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used with 'since' or 'for' to indicate an action that started in the past and continues to the present.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I __________ a teacher since 2002.' cần thì hiện tại hoàn thành vì hành động bắt đầu từ quá khứ (năm 2002) và kéo dài đến hiện tại. Thì hiện tại hoàn thành được hình thành với 'have/has + quá khứ phân từ'. Quá khứ phân từ của 'be' là 'been'.<br><ul><li><b>was</b> (động từ (quá khứ đơn)): 'Was' là thì quá khứ đơn của 'be', dùng cho hành động đã xảy ra và kết thúc trong quá khứ. Không thể dùng với 'since' để chỉ hành động kéo dài đến hiện tại.</li><li><b>have be</b> (trợ động từ + động từ nguyên thể): 'Have be' là sai vì 'be' là dạng nguyên thể, không phải quá khứ phân từ. Dạng đúng phải là 'have been'.</li><li><b>have been</b> (trợ động từ + quá khứ phân từ): 'Have been' là thì hiện tại hoàn thành, dùng để diễn tả hành động bắt đầu từ quá khứ và kéo dài đến hiện tại. Phù hợp với câu có 'since 2002'.</li><li><b>had be</b> (trợ động từ (quá khứ hoàn thành) + động từ nguyên thể): 'Had be' là sai vì 'had' dùng cho thì quá khứ hoàn thành, và 'be' phải ở dạng quá khứ phân từ là 'been'. Ngoài ra, thì quá khứ hoàn thành không phù hợp ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: have/has + quá khứ phân từ. Dùng với 'since' hoặc 'for' để chỉ hành động bắt đầu từ quá khứ và kéo dài đến hiện tại.<br><br><b>Tạm dịch:</b> Tôi đã là giáo viên từ năm 2002.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I __________ a teacher since 2002.' requires the present perfect tense because the action started in the past (since 2002) and continues up to the present. The present perfect tense is formed with 'have/has + past participle'. The correct past participle of 'be' is 'been'.<br><ul><li><b>was</b> (verb (past simple)): 'Was' is the past simple form of 'be', used for actions that happened and finished in the past. It cannot be used with 'since' to indicate an action that continues to the present.</li><li><b>have be</b> (auxiliary verb + base verb): 'Have be' is incorrect because 'be' is the base form, not the past participle. The correct form should be 'have been'.</li><li><b>have been</b> (auxiliary verb + past participle): 'Have been' is the present perfect form, used to describe an action that started in the past and continues to the present. This fits the sentence with 'since 2002'.</li><li><b>had be</b> (auxiliary verb (past perfect) + base verb): 'Had be' is incorrect because 'had' is used for the past perfect tense, and 'be' should be in the past participle form 'been'. Also, past perfect is not suitable here.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used with 'since' or 'for' to indicate an action that started in the past and continues to the present.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b90",
+        "questionNumber": 14,
+        "questionText": "My friend ______________ my new dress yet.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "haven't seen",
+            "raw": "A. haven't seen",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "didn't see",
+            "raw": "B. didn't see",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "hasn't see",
+            "raw": "C. hasn't see",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "hasn't seen",
+            "raw": "D. hasn't seen",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My friend ______________ my new dress yet.' requires the present perfect tense because of the word 'yet', which is commonly used with the present perfect to indicate that something has not happened up to now. The present perfect is formed with 'has/have' + past participle. Since 'my friend' is a singular subject, we use 'has'. The past participle of 'see' is 'seen'. Therefore, the correct answer is 'hasn't seen'.<br><ul><li><b>haven't seen</b> (verb phrase): 'Haven't' is the contraction of 'have not', which is used with plural subjects or 'I/you/we/they'. 'My friend' is singular, so this is incorrect.</li><li><b>didn't see</b> (verb phrase): This is the simple past tense. However, 'yet' is usually used with the present perfect, not the simple past.</li><li><b>hasn't see</b> (verb phrase): 'Hasn't' is correct for a singular subject, but 'see' is the base form, not the past participle. The correct form should be 'seen'.</li><li><b>hasn't seen</b> (verb phrase): 'Hasn't' is the contraction of 'has not', used for singular subjects, and 'seen' is the past participle of 'see'. This is the correct present perfect form.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. 'Yet' is often used in negative sentences and questions with the present perfect.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'My friend ______________ my new dress yet.' cần sử dụng thì hiện tại hoàn thành vì có từ 'yet', thường dùng với thì hiện tại hoàn thành để chỉ một hành động chưa xảy ra cho đến thời điểm hiện tại. Thì hiện tại hoàn thành được hình thành bởi 'has/have' + quá khứ phân từ. Chủ ngữ 'my friend' là số ít nên dùng 'has'. Quá khứ phân từ của 'see' là 'seen'. Vì vậy, đáp án đúng là 'hasn't seen'.<br><ul><li><b>haven't seen</b> (cụm động từ): 'Haven't' là viết tắt của 'have not', dùng cho chủ ngữ số nhiều hoặc 'I/you/we/they'. 'My friend' là số ít nên không đúng.</li><li><b>didn't see</b> (cụm động từ): Đây là thì quá khứ đơn. Tuy nhiên, 'yet' thường dùng với thì hiện tại hoàn thành, không phải quá khứ đơn.</li><li><b>hasn't see</b> (cụm động từ): 'Hasn't' đúng cho chủ ngữ số ít, nhưng 'see' là động từ nguyên mẫu, không phải quá khứ phân từ. Dạng đúng phải là 'seen'.</li><li><b>hasn't seen</b> (cụm động từ): 'Hasn't' là viết tắt của 'has not', dùng cho chủ ngữ số ít, và 'seen' là quá khứ phân từ của 'see'. Đây là dạng đúng của thì hiện tại hoàn thành.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + quá khứ phân từ. 'Yet' thường dùng trong câu phủ định và nghi vấn với thì hiện tại hoàn thành.<br><br><b>Tạm dịch:</b> Bạn tôi vẫn chưa nhìn thấy chiếc váy mới của tôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My friend ______________ my new dress yet.' requires the present perfect tense because of the word 'yet', which is commonly used with the present perfect to indicate that something has not happened up to now. The present perfect is formed with 'has/have' + past participle. Since 'my friend' is a singular subject, we use 'has'. The past participle of 'see' is 'seen'. Therefore, the correct answer is 'hasn't seen'.<br><ul><li><b>haven't seen</b> (verb phrase): 'Haven't' is the contraction of 'have not', which is used with plural subjects or 'I/you/we/they'. 'My friend' is singular, so this is incorrect.</li><li><b>didn't see</b> (verb phrase): This is the simple past tense. However, 'yet' is usually used with the present perfect, not the simple past.</li><li><b>hasn't see</b> (verb phrase): 'Hasn't' is correct for a singular subject, but 'see' is the base form, not the past participle. The correct form should be 'seen'.</li><li><b>hasn't seen</b> (verb phrase): 'Hasn't' is the contraction of 'has not', used for singular subjects, and 'seen' is the past participle of 'see'. This is the correct present perfect form.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. 'Yet' is often used in negative sentences and questions with the present perfect.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b91",
+        "questionNumber": 15,
+        "questionText": "He ____________ three gold medals so far.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has win",
+            "raw": "A. has win",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "won",
+            "raw": "B. won",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has won",
+            "raw": "C. has won",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "did win",
+            "raw": "D. did win",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'He ____________ three gold medals so far.' requires the present perfect tense. The phrase 'so far' indicates an action that started in the past and continues up to the present, which is a typical use of the present perfect tense (have/has + past participle).<br><ul><li><b>has win</b> (verb (base form)): 'win' is the base form of the verb. After 'has', we need the past participle form, not the base form.</li><li><b>won</b> (verb (past simple/past participle)): 'won' is the past simple and past participle form of 'win', but it is not used alone here because the sentence requires the present perfect tense.</li><li><b>has won</b> (verb (present perfect)): 'has won' is the present perfect tense (has + past participle), which is correct for actions that happened at an unspecified time before now and may continue.</li><li><b>did win</b> (verb (past simple, emphatic)): 'did win' is the past simple tense (emphatic form), used for actions completed in the past at a specific time, not suitable with 'so far'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used with time expressions like 'so far', 'already', 'yet', 'ever', 'never'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'He ____________ three gold medals so far.' cần sử dụng thì hiện tại hoàn thành. Cụm từ 'so far' (cho đến nay) chỉ hành động bắt đầu trong quá khứ và vẫn còn tiếp diễn hoặc có liên quan đến hiện tại, đây là trường hợp điển hình dùng thì hiện tại hoàn thành (have/has + quá khứ phân từ).<br><ul><li><b>has win</b> (động từ (nguyên thể)): 'win' là động từ nguyên thể. Sau 'has' cần dùng dạng quá khứ phân từ, không phải nguyên thể.</li><li><b>won</b> (động từ (quá khứ đơn/quá khứ phân từ)): 'won' là dạng quá khứ đơn và quá khứ phân từ của 'win', nhưng không thể đứng một mình ở đây vì câu cần thì hiện tại hoàn thành.</li><li><b>has won</b> (động từ (hiện tại hoàn thành)): 'has won' là thì hiện tại hoàn thành (has + quá khứ phân từ), phù hợp với hành động đã xảy ra trong quá khứ và còn liên quan đến hiện tại.</li><li><b>did win</b> (động từ (quá khứ đơn, nhấn mạnh)): 'did win' là thì quá khứ đơn (dạng nhấn mạnh), dùng cho hành động đã hoàn thành tại một thời điểm xác định trong quá khứ, không phù hợp với 'so far'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: have/has + quá khứ phân từ. Thường dùng với các trạng từ chỉ thời gian như 'so far', 'already', 'yet', 'ever', 'never'.<br><br><b>Tạm dịch:</b> Anh ấy đã giành được ba huy chương vàng cho đến nay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'He ____________ three gold medals so far.' requires the present perfect tense. The phrase 'so far' indicates an action that started in the past and continues up to the present, which is a typical use of the present perfect tense (have/has + past participle).<br><ul><li><b>has win</b> (verb (base form)): 'win' is the base form of the verb. After 'has', we need the past participle form, not the base form.</li><li><b>won</b> (verb (past simple/past participle)): 'won' is the past simple and past participle form of 'win', but it is not used alone here because the sentence requires the present perfect tense.</li><li><b>has won</b> (verb (present perfect)): 'has won' is the present perfect tense (has + past participle), which is correct for actions that happened at an unspecified time before now and may continue.</li><li><b>did win</b> (verb (past simple, emphatic)): 'did win' is the past simple tense (emphatic form), used for actions completed in the past at a specific time, not suitable with 'so far'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. Used with time expressions like 'so far', 'already', 'yet', 'ever', 'never'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b92",
+        "questionNumber": 16,
+        "questionText": "I ___________ kayaking yet.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "didn't tried",
+            "raw": "A. didn't tried",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "haven't tried",
+            "raw": "B. haven't tried",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "haven't try",
+            "raw": "C. haven't try",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "wasn't tried",
+            "raw": "D. wasn't tried",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ___________ kayaking yet.' requires the present perfect tense because of the word 'yet', which is commonly used with present perfect to indicate that something has not happened up to now. The present perfect is formed with 'have/has + past participle'.<br><ul><li><b>didn't tried</b> (verb phrase): 'Didn't' is the past simple negative auxiliary, and it should be followed by the base form of the verb, not the past participle. 'Tried' is the past participle or past simple form, so this is incorrect.</li><li><b>haven't tried</b> (verb phrase): 'Haven't' is the contraction of 'have not', and 'tried' is the past participle of 'try'. This is the correct present perfect form.</li><li><b>haven't try</b> (verb phrase): 'Haven't' should be followed by the past participle, but 'try' is the base form, so this is incorrect.</li><li><b>wasn't tried</b> (verb phrase): 'Wasn't tried' is the passive voice in the past simple tense, which does not fit the context of the sentence.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. 'Yet' is often used in negative sentences and questions with the present perfect to mean 'up to now'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I ___________ kayaking yet.' cần sử dụng thì hiện tại hoàn thành vì có từ 'yet', thường dùng với thì hiện tại hoàn thành để diễn tả một việc chưa xảy ra cho đến thời điểm hiện tại. Thì hiện tại hoàn thành được hình thành bởi 'have/has + quá khứ phân từ'.<br><ul><li><b>didn't tried</b> (cụm động từ): 'Didn't' là trợ động từ phủ định ở thì quá khứ đơn, sau đó phải là động từ nguyên thể, không phải quá khứ phân từ. 'Tried' là dạng quá khứ hoặc quá khứ phân từ, nên đáp án này sai.</li><li><b>haven't tried</b> (cụm động từ): 'Haven't' là viết tắt của 'have not', 'tried' là quá khứ phân từ của 'try'. Đây là cấu trúc đúng của thì hiện tại hoàn thành.</li><li><b>haven't try</b> (cụm động từ): 'Haven't' phải đi với động từ ở dạng quá khứ phân từ, nhưng 'try' là động từ nguyên thể, nên đáp án này sai.</li><li><b>wasn't tried</b> (cụm động từ): 'Wasn't tried' là bị động ở thì quá khứ đơn, không phù hợp với ngữ cảnh của câu.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: have/has + quá khứ phân từ. 'Yet' thường dùng trong câu phủ định và nghi vấn với thì hiện tại hoàn thành để chỉ 'cho đến bây giờ'.<br><br><b>Tạm dịch:</b> Tôi chưa từng chèo thuyền kayak.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ___________ kayaking yet.' requires the present perfect tense because of the word 'yet', which is commonly used with present perfect to indicate that something has not happened up to now. The present perfect is formed with 'have/has + past participle'.<br><ul><li><b>didn't tried</b> (verb phrase): 'Didn't' is the past simple negative auxiliary, and it should be followed by the base form of the verb, not the past participle. 'Tried' is the past participle or past simple form, so this is incorrect.</li><li><b>haven't tried</b> (verb phrase): 'Haven't' is the contraction of 'have not', and 'tried' is the past participle of 'try'. This is the correct present perfect form.</li><li><b>haven't try</b> (verb phrase): 'Haven't' should be followed by the past participle, but 'try' is the base form, so this is incorrect.</li><li><b>wasn't tried</b> (verb phrase): 'Wasn't tried' is the passive voice in the past simple tense, which does not fit the context of the sentence.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: have/has + past participle. 'Yet' is often used in negative sentences and questions with the present perfect to mean 'up to now'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b93",
+        "questionNumber": 17,
+        "questionText": "___________ Dave __________ the basketball team?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Has / joined",
+            "raw": "A. Has / joined",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Did / joined",
+            "raw": "B. Did / joined",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Was / joined",
+            "raw": "C. Was / joined",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Have / joined",
+            "raw": "D. Have / joined",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question is asking about whether Dave has become a member of the basketball team. The correct structure for this type of question is the present perfect tense, which is formed with 'Has/Have + past participle'. Since 'Dave' is a singular subject, we use 'Has'. The past participle of 'join' is 'joined'. Therefore, the correct question is: 'Has Dave joined the basketball team?'<br><ul><li><b>Has / joined</b> (auxiliary verb / past participle): 'Has' is the auxiliary verb for present perfect tense with singular subjects. 'Joined' is the past participle of 'join'. This forms the correct present perfect question.</li><li><b>Did / joined</b> (auxiliary verb / verb): 'Did' is used for simple past questions, but it must be followed by the base form of the verb, not the past participle. The correct form would be 'Did Dave join...?'</li><li><b>Was / joined</b> (auxiliary verb): 'Was' is the past tense of 'be', used in passive voice or continuous tenses, not for forming questions about completed actions by the subject.</li><li><b>Have / joined</b> (auxiliary verb / past participle): 'Have' is used for present perfect tense with plural subjects or 'I/you/we/they', not with singular third person like 'Dave'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Has/Have + past participle is used to ask about experiences or completed actions with relevance to the present.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi đang hỏi về việc Dave đã trở thành thành viên của đội bóng rổ hay chưa. Cấu trúc đúng cho loại câu hỏi này là thì hiện tại hoàn thành, được hình thành bởi 'Has/Have + quá khứ phân từ'. Vì 'Dave' là chủ ngữ số ít, nên dùng 'Has'. Quá khứ phân từ của 'join' là 'joined'. Do đó, câu hỏi đúng là: 'Has Dave joined the basketball team?'<br><ul><li><b>Has / joined</b> (trợ động từ / quá khứ phân từ): 'Has' là trợ động từ dùng cho thì hiện tại hoàn thành với chủ ngữ số ít. 'Joined' là quá khứ phân từ của 'join'. Đây là cấu trúc câu hỏi đúng.</li><li><b>Did / joined</b> (trợ động từ / động từ): 'Did' dùng cho thì quá khứ đơn, nhưng sau 'did' phải là động từ nguyên thể, không phải quá khứ phân từ. Dạng đúng sẽ là 'Did Dave join...?'</li><li><b>Was / joined</b> (trợ động từ): 'Was' là thì quá khứ của 'be', dùng trong câu bị động hoặc tiếp diễn, không dùng để hỏi về hành động đã hoàn thành do chủ ngữ thực hiện.</li><li><b>Have / joined</b> (trợ động từ / quá khứ phân từ): 'Have' dùng cho thì hiện tại hoàn thành với chủ ngữ số nhiều hoặc 'I/you/we/they', không dùng với chủ ngữ số ít như 'Dave'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: Has/Have + quá khứ phân từ dùng để hỏi về trải nghiệm hoặc hành động đã hoàn thành có liên quan đến hiện tại.<br><br><b>Tạm dịch:</b> Câu hỏi: 'Has Dave joined the basketball team?' nghĩa là 'Dave đã gia nhập đội bóng rổ chưa?'. Đáp án đúng là A. Has / joined vì đây là cấu trúc đúng của thì hiện tại hoàn thành với chủ ngữ số ít.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question is asking about whether Dave has become a member of the basketball team. The correct structure for this type of question is the present perfect tense, which is formed with 'Has/Have + past participle'. Since 'Dave' is a singular subject, we use 'Has'. The past participle of 'join' is 'joined'. Therefore, the correct question is: 'Has Dave joined the basketball team?'<br><ul><li><b>Has / joined</b> (auxiliary verb / past participle): 'Has' is the auxiliary verb for present perfect tense with singular subjects. 'Joined' is the past participle of 'join'. This forms the correct present perfect question.</li><li><b>Did / joined</b> (auxiliary verb / verb): 'Did' is used for simple past questions, but it must be followed by the base form of the verb, not the past participle. The correct form would be 'Did Dave join...?'</li><li><b>Was / joined</b> (auxiliary verb): 'Was' is the past tense of 'be', used in passive voice or continuous tenses, not for forming questions about completed actions by the subject.</li><li><b>Have / joined</b> (auxiliary verb / past participle): 'Have' is used for present perfect tense with plural subjects or 'I/you/we/they', not with singular third person like 'Dave'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Has/Have + past participle is used to ask about experiences or completed actions with relevance to the present.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b94",
+        "questionNumber": 18,
+        "questionText": "She ____________ a competition so far.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "hasn't lost",
+            "raw": "A. hasn't lost",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "haven't lose",
+            "raw": "B. haven't lose",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "didn't lost",
+            "raw": "C. didn't lost",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "wasn't lose",
+            "raw": "D. wasn't lose",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She ____________ a competition so far.' requires the present perfect tense because of the time expression 'so far', which refers to an action that has happened up to the present. The present perfect is formed with 'has/have' + past participle. The subject 'She' uses 'has'. The correct past participle of 'lose' is 'lost'. Therefore, the correct answer is 'hasn't lost'.<br><ul><li><b>hasn't lost</b> (verb phrase): Present perfect negative form: 'has not' + past participle ('lost'). Used for actions that have not happened up to now.</li><li><b>haven't lose</b> (verb phrase): 'Haven't' is used with plural subjects or 'I/you/we/they', not 'she'. Also, 'lose' is the base form, not the past participle.</li><li><b>didn't lost</b> (verb phrase): 'Didn't' is the past simple negative, and should be followed by the base form 'lose', not 'lost'. Also, 'so far' suggests present perfect, not past simple.</li><li><b>wasn't lose</b> (verb phrase): 'Wasn't' is the past simple negative of 'be', and cannot be used with 'lose' in this context.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. Used with time expressions like 'so far', 'already', 'yet', 'ever', 'never'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'She ____________ a competition so far.' cần thì hiện tại hoàn thành vì có cụm từ 'so far' (cho đến nay), chỉ hành động xảy ra từ quá khứ đến hiện tại. Thì hiện tại hoàn thành được tạo bởi 'has/have' + động từ phân từ II. Chủ ngữ 'She' đi với 'has'. Phân từ II của 'lose' là 'lost'. Vì vậy, đáp án đúng là 'hasn't lost'.<br><ul><li><b>hasn't lost</b> (cụm động từ): Dạng phủ định của thì hiện tại hoàn thành: 'has not' + phân từ II ('lost'). Dùng để nói về hành động chưa xảy ra cho đến hiện tại.</li><li><b>haven't lose</b> (cụm động từ): 'Haven't' dùng với chủ ngữ số nhiều hoặc 'I/you/we/they', không dùng với 'she'. Ngoài ra, 'lose' là dạng nguyên thể, không phải phân từ II.</li><li><b>didn't lost</b> (cụm động từ): 'Didn't' là phủ định của thì quá khứ đơn, sau đó phải là động từ nguyên thể 'lose', không phải 'lost'. Hơn nữa, 'so far' thường dùng với thì hiện tại hoàn thành, không phải quá khứ đơn.</li><li><b>wasn't lose</b> (cụm động từ): 'Wasn't' là phủ định của động từ 'be' ở quá khứ đơn, không thể dùng với 'lose' trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + phân từ II. Thường dùng với các trạng từ chỉ thời gian như 'so far', 'already', 'yet', 'ever', 'never'.<br><br><b>Tạm dịch:</b> Cô ấy chưa từng thua một cuộc thi nào cho đến nay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She ____________ a competition so far.' requires the present perfect tense because of the time expression 'so far', which refers to an action that has happened up to the present. The present perfect is formed with 'has/have' + past participle. The subject 'She' uses 'has'. The correct past participle of 'lose' is 'lost'. Therefore, the correct answer is 'hasn't lost'.<br><ul><li><b>hasn't lost</b> (verb phrase): Present perfect negative form: 'has not' + past participle ('lost'). Used for actions that have not happened up to now.</li><li><b>haven't lose</b> (verb phrase): 'Haven't' is used with plural subjects or 'I/you/we/they', not 'she'. Also, 'lose' is the base form, not the past participle.</li><li><b>didn't lost</b> (verb phrase): 'Didn't' is the past simple negative, and should be followed by the base form 'lose', not 'lost'. Also, 'so far' suggests present perfect, not past simple.</li><li><b>wasn't lose</b> (verb phrase): 'Wasn't' is the past simple negative of 'be', and cannot be used with 'lose' in this context.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. Used with time expressions like 'so far', 'already', 'yet', 'ever', 'never'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b95",
+        "questionNumber": 19,
+        "questionText": "The game ____________ yet.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "didn't finish",
+            "raw": "A. didn't finish",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "wasn't finish",
+            "raw": "B. wasn't finish",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "haven't finished",
+            "raw": "C. haven't finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "hasn't finished",
+            "raw": "D. hasn't finished",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The game ____________ yet.' requires the present perfect tense because of the word 'yet', which is commonly used with the present perfect to indicate that something has not happened up to now. The present perfect is formed with 'has/have' + past participle. Since 'the game' is a singular subject, we use 'has' + past participle ('finished').<br><ul><li><b>didn't finish</b> (verb (past simple negative)): 'Didn't finish' is the past simple negative form. It is not correct here because 'yet' is used with the present perfect, not the past simple.</li><li><b>wasn't finish</b> (verb phrase (incorrect structure)): 'Wasn't finish' is incorrect because 'finish' is a verb, and after 'wasn't' (past simple of 'to be'), we need a past participle or adjective, not the base form of a verb.</li><li><b>haven't finished</b> (verb (present perfect negative, plural)): 'Haven't finished' is the present perfect negative form for plural subjects or 'I/you/we/they'. 'The game' is singular, so 'haven't' is incorrect.</li><li><b>hasn't finished</b> (verb (present perfect negative, singular)): 'Hasn't finished' is the present perfect negative form for singular subjects (he/she/it/the game). This is the correct answer.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle; 'yet' is often used in negative sentences and questions with the present perfect.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The game ____________ yet.' cần sử dụng thì hiện tại hoàn thành vì có từ 'yet', thường dùng với thì hiện tại hoàn thành để diễn tả một việc chưa xảy ra cho đến thời điểm hiện tại. Thì hiện tại hoàn thành được hình thành bởi 'has/have' + động từ phân từ II (past participle). Vì 'the game' là chủ ngữ số ít nên ta dùng 'has' + phân từ II ('finished').<br><ul><li><b>didn't finish</b> (động từ (quá khứ đơn phủ định)): 'Didn't finish' là dạng phủ định của thì quá khứ đơn. Không phù hợp ở đây vì 'yet' thường đi với thì hiện tại hoàn thành, không phải quá khứ đơn.</li><li><b>wasn't finish</b> (cụm động từ (cấu trúc sai)): 'Wasn't finish' sai vì 'finish' là động từ, sau 'wasn't' (quá khứ đơn của 'to be') cần một tính từ hoặc phân từ II, không phải động từ nguyên thể.</li><li><b>haven't finished</b> (động từ (hiện tại hoàn thành phủ định, số nhiều)): 'Haven't finished' là thì hiện tại hoàn thành phủ định cho chủ ngữ số nhiều hoặc 'I/you/we/they'. 'The game' là chủ ngữ số ít nên dùng 'haven't' là sai.</li><li><b>hasn't finished</b> (động từ (hiện tại hoàn thành phủ định, số ít)): 'Hasn't finished' là thì hiện tại hoàn thành phủ định cho chủ ngữ số ít (he/she/it/the game). Đây là đáp án đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + phân từ II; 'yet' thường dùng trong câu phủ định và nghi vấn với thì hiện tại hoàn thành.<br><br><b>Tạm dịch:</b> The game hasn't finished yet. --> Trận đấu vẫn chưa kết thúc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The game ____________ yet.' requires the present perfect tense because of the word 'yet', which is commonly used with the present perfect to indicate that something has not happened up to now. The present perfect is formed with 'has/have' + past participle. Since 'the game' is a singular subject, we use 'has' + past participle ('finished').<br><ul><li><b>didn't finish</b> (verb (past simple negative)): 'Didn't finish' is the past simple negative form. It is not correct here because 'yet' is used with the present perfect, not the past simple.</li><li><b>wasn't finish</b> (verb phrase (incorrect structure)): 'Wasn't finish' is incorrect because 'finish' is a verb, and after 'wasn't' (past simple of 'to be'), we need a past participle or adjective, not the base form of a verb.</li><li><b>haven't finished</b> (verb (present perfect negative, plural)): 'Haven't finished' is the present perfect negative form for plural subjects or 'I/you/we/they'. 'The game' is singular, so 'haven't' is incorrect.</li><li><b>hasn't finished</b> (verb (present perfect negative, singular)): 'Hasn't finished' is the present perfect negative form for singular subjects (he/she/it/the game). This is the correct answer.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle; 'yet' is often used in negative sentences and questions with the present perfect.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d00fd1bfab7a5b001b96",
+        "questionNumber": 20,
+        "questionText": "________ you ever ___________ archery?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Have / tried",
+            "raw": "A. Have / tried",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Did / tried",
+            "raw": "B. Did / tried",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Have / trying",
+            "raw": "C. Have / trying",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Were / tried",
+            "raw": "D. Were / tried",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb to ask about someone's experience. In English, when asking if someone has ever done something in their life, we use the present perfect tense: 'Have/Has + subject + past participle'. The verb 'try' in the past participle form is 'tried'.<br><ul><li><b>Have / tried</b> (auxiliary verb / past participle): 'Have' is the auxiliary verb for present perfect (used with 'you'), and 'tried' is the past participle of 'try'. This is the correct structure for asking about life experience.</li><li><b>Did / tried</b> (auxiliary verb / past tense): 'Did' is used for simple past questions, but it should be followed by the base form of the verb ('try'), not 'tried'.</li><li><b>Have / trying</b> (auxiliary verb / present participle): 'Trying' is the present participle (V-ing), which is incorrect after 'have' in the present perfect tense.</li><li><b>Were / tried</b> (auxiliary verb / past participle): 'Were' is the past form of 'be', not used for present perfect or experience questions. 'Tried' is the past participle, but the auxiliary is incorrect.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Have/Has + subject + past participle. Used to ask about life experiences. Example: Have you ever eaten sushi?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền đúng cấu trúc thì hiện tại hoàn thành để hỏi về trải nghiệm của ai đó. Trong tiếng Anh, khi hỏi ai đó đã từng làm việc gì trong đời chưa, ta dùng thì hiện tại hoàn thành: 'Have/Has + chủ ngữ + động từ phân từ II (past participle)'. Động từ 'try' ở dạng phân từ II là 'tried'.<br><ul><li><b>Have / tried</b> (trợ động từ / phân từ II): 'Have' là trợ động từ của thì hiện tại hoàn thành (dùng với 'you'), 'tried' là phân từ II của 'try'. Đây là cấu trúc đúng để hỏi về trải nghiệm.</li><li><b>Did / tried</b> (trợ động từ / quá khứ): 'Did' dùng cho thì quá khứ đơn, nhưng sau 'did' phải là động từ nguyên mẫu ('try'), không phải 'tried'.</li><li><b>Have / trying</b> (trợ động từ / hiện tại phân từ): 'Trying' là dạng V-ing (hiện tại phân từ), không đúng sau 'have' trong thì hiện tại hoàn thành.</li><li><b>Were / tried</b> (trợ động từ / phân từ II): 'Were' là quá khứ của 'be', không dùng để hỏi về trải nghiệm hoặc thì hiện tại hoàn thành. 'Tried' là phân từ II, nhưng trợ động từ sai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: Have/Has + chủ ngữ + động từ phân từ II. Dùng để hỏi về trải nghiệm trong cuộc sống. Ví dụ: Have you ever eaten sushi?<br><br><b>Tạm dịch:</b> Bạn đã từng thử bắn cung bao giờ chưa?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb to ask about someone's experience. In English, when asking if someone has ever done something in their life, we use the present perfect tense: 'Have/Has + subject + past participle'. The verb 'try' in the past participle form is 'tried'.<br><ul><li><b>Have / tried</b> (auxiliary verb / past participle): 'Have' is the auxiliary verb for present perfect (used with 'you'), and 'tried' is the past participle of 'try'. This is the correct structure for asking about life experience.</li><li><b>Did / tried</b> (auxiliary verb / past tense): 'Did' is used for simple past questions, but it should be followed by the base form of the verb ('try'), not 'tried'.</li><li><b>Have / trying</b> (auxiliary verb / present participle): 'Trying' is the present participle (V-ing), which is incorrect after 'have' in the present perfect tense.</li><li><b>Were / tried</b> (auxiliary verb / past participle): 'Were' is the past form of 'be', not used for present perfect or experience questions. 'Tried' is the past participle, but the auxiliary is incorrect.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: Have/Has + subject + past participle. Used to ask about life experiences. Example: Have you ever eaten sushi?<br><br>"
+      }
+    }
+  ]
+}

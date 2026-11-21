@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b152",
+  "title": "Từ vựng: Car Rentals",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b354",
+        "questionNumber": 1,
+        "questionText": "busy",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev469.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/busy.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "engaged in activity",
+            "raw": "engaged in activity",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Alfred was <strong>busy </strong>getting ready for his vacation.</p>\n",
+        "explanationViHtml": "<p>Alfred đang <strong>bận rộn</strong> chuẩn bị cho kỳ nghỉ của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>Alfred was <strong>busy </strong>getting ready for his vacation.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b355",
+        "questionNumber": 2,
+        "questionText": "coincide",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev470.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/coincide.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to happen at the same time",
+            "raw": "to happen at the same time",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My cousin&rsquo;s wedding <strong>coincided </strong>with a holiday weekend, so it was a perfect time to rent a car and go for a drive.</p>\n",
+        "explanationViHtml": "<p>Đ&aacute;m cưới của anh họ t&ocirc;i <strong>tr&ugrave;ng </strong>v&agrave;o dịp nghỉ lễ cuối tuần, n&ecirc;n đ&acirc;y l&agrave; thời điểm ho&agrave;n hảo để thu&ecirc; xe v&agrave; l&aacute;i đi chơi.</p>\n",
+        "transcriptHtml": "<p>My cousin&rsquo;s wedding <strong>coincided </strong>with a holiday weekend, so it was a perfect time to rent a car and go for a drive.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b356",
+        "questionNumber": 3,
+        "questionText": "confusion",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev471.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/confusion.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "lack of clarity, order, or understanding",
+            "raw": "a lack of clarity, order, or understanding",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>However, it seems to us that there are several <strong>confusions </strong>in this part of his discussion.</p>\n",
+        "explanationViHtml": "<p>Tuy nhi&ecirc;n, ch&uacute;ng t&ocirc;i thấy rằng c&oacute; một số <strong>điểm kh&oacute; hiểu</strong> trong phần thảo luận n&agrave;y của &ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>However, it seems to us that there are several <strong>confusions </strong>in this part of his discussion.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b357",
+        "questionNumber": 4,
+        "questionText": "contact",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev472.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/contact.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to get in touch with",
+            "raw": "to get in touch with",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Manuel <strong>contacted</strong> at least a dozen car rental agencies to get the best deal.</p>\n",
+        "explanationViHtml": "<p>Manuel đ&atilde; <strong>li&ecirc;n hệ</strong> với &iacute;t nhất một chục c&ocirc;ng ty cho thu&ecirc; xe để c&oacute; được thỏa thuận tốt nhất.</p>\n",
+        "transcriptHtml": "<p>Manuel <strong>contacted</strong> at least a dozen car rental agencies to get the best deal.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b358",
+        "questionNumber": 5,
+        "questionText": "disappoint",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev473.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/disappoint.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to fail to satisfy the hope, desire, or expectation of",
+            "raw": "to fail to satisfy the hope, desire, or expectation of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Leila was <strong>disappointed </strong>to discover that no rental cars were available the weekend she wished to travel.</p>\n",
+        "explanationViHtml": "<p>Leila <strong>thất vọng </strong>khi ph&aacute;t hiện ra rằng kh&ocirc;ng c&oacute; xe cho thu&ecirc; n&agrave;o c&oacute; sẵn v&agrave;o cuối tuần c&ocirc; muốn đi du lịch.</p>\n",
+        "transcriptHtml": "<p>Leila was <strong>disappointed </strong>to discover that no rental cars were available the weekend she wished to travel.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b359",
+        "questionNumber": 6,
+        "questionText": "intend",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev474.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/intend.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to have in mind",
+            "raw": "to have in mind",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I never <strong>intended </strong>to drive to Los Angeles until my brother suggested we do it together.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i chưa bao giờ<strong> c&oacute; &yacute; định</strong> l&aacute;i xe đến Los Angeles cho đến khi anh trai t&ocirc;i gợi &yacute; ch&uacute;ng t&ocirc;i c&ugrave;ng đi.</p>\n",
+        "transcriptHtml": "<p>I never <strong>intended </strong>to drive to Los Angeles until my brother suggested we do it together.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b35a",
+        "questionNumber": 7,
+        "questionText": "license",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev475.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/license.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the legal permission to do or own a specified thing",
+            "raw": "the legal permission to do or own a specified thing",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>First, I&#39;ll need to see your driver&#39;s <strong>license </strong>and a major credit card.</p>\n",
+        "explanationViHtml": "<p>Đầu ti&ecirc;n, t&ocirc;i cần xem <strong>bằng </strong>l&aacute;i xe v&agrave; thẻ t&iacute;n dụng ch&iacute;nh của bạn.</p>\n",
+        "transcriptHtml": "<p>First, I&#39;ll need to see your driver&#39;s <strong>license </strong>and a major credit card.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b35b",
+        "questionNumber": 8,
+        "questionText": "nervously",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev476.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/nervously.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "in a distressed or uneasy manner",
+            "raw": "in a distressed or uneasy manner",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>He&nbsp;looked&nbsp;<strong>nervously </strong>over his&nbsp;shoulder, making&nbsp;sure&nbsp;no one&nbsp;else&nbsp;was&nbsp;listening.</p>\n",
+        "explanationViHtml": "<p>Anh ta<strong> lo lắng </strong>nh&igrave;n qua vai m&igrave;nh, đảm bảo rằng kh&ocirc;ng c&oacute; ai kh&aacute;c đang nghe thấy.</p>\n",
+        "transcriptHtml": "<p>He&nbsp;looked&nbsp;<strong>nervously </strong>over his&nbsp;shoulder, making&nbsp;sure&nbsp;no one&nbsp;else&nbsp;was&nbsp;listening.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b35c",
+        "questionNumber": 9,
+        "questionText": "optional",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev477.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/optional.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "not compulsory or automatic",
+            "raw": "not compulsory or automatic",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Check this box if you wish to have this <strong>Optional </strong>insurance.</p>\n",
+        "explanationViHtml": "<p>Đ&aacute;nh dấu v&agrave;o &ocirc; n&agrave;y nếu bạn muốn c&oacute; loại bảo hiểm <strong>t&ugrave;y chọn</strong> n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>Check this box if you wish to have this <strong>Optional </strong>insurance.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b35d",
+        "questionNumber": 10,
+        "questionText": "tempt",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev478.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/tempt.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be inviting or attractive to",
+            "raw": "to be inviting or attractive to",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I am <strong>tempted </strong>by the idea of driving across the country instead of flying.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i đang <strong>muốn</strong> l&aacute;i xe xuy&ecirc;n quốc gia thay v&igrave; đi m&aacute;y bay.</p>\n",
+        "transcriptHtml": "<p>I am <strong>tempted </strong>by the idea of driving across the country instead of flying.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b35e",
+        "questionNumber": 11,
+        "questionText": "thrill",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev479.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/thrill.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the source or cause of excitement or emotion",
+            "raw": "the source or cause of excitement or emotion",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The thought of renting a sports car gave John a <strong>thrill</strong>.</p>\n",
+        "explanationViHtml": "<p>&Yacute; nghĩ thu&ecirc; một chiếc xe thể thao khiến John cảm thấy <strong>th&iacute;ch th&uacute;</strong>.</p>\n",
+        "transcriptHtml": "<p>The thought of renting a sports car gave John a <strong>thrill</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b35f",
+        "questionNumber": 12,
+        "questionText": "tier",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev480.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/tier.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "rank or class",
+            "raw": "a rank or class",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The car rental company had a few <strong>tiers </strong>of cars, each one costing more than the previous tier.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng ty cho thu&ecirc; xe c&oacute; một số <strong>loại </strong>xe, mỗi loại c&oacute; gi&aacute; cao hơn loại trước đ&oacute;.</p>\n",
+        "transcriptHtml": "<p>The car rental company had a few <strong>tiers </strong>of cars, each one costing more than the previous tier.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b354",
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev469.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/busy.mp3",
+      "meaningVi": "bận rộn",
+      "meaningEn": "engaged in activity",
+      "exampleEnHtml": "<p>Alfred was <strong>busy </strong>getting ready for his vacation.</p>\n",
+      "exampleViHtml": "<p>Alfred đang <strong>bận rộn</strong> chuẩn bị cho kỳ nghỉ của m&igrave;nh.</p>\n",
+      "exampleEn": "Alfred was busy getting ready for his vacation.",
+      "exampleVi": "Alfred đang bận rộn chuẩn bị cho kỳ nghỉ của mình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b355",
+      "word": "coincide",
+      "phonetic": "/ˌkoʊɪnˈsaɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev470.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/coincide.mp3",
+      "meaningVi": "trùng",
+      "meaningEn": "to happen at the same time",
+      "exampleEnHtml": "<p>My cousin&rsquo;s wedding <strong>coincided </strong>with a holiday weekend, so it was a perfect time to rent a car and go for a drive.</p>\n",
+      "exampleViHtml": "<p>Đ&aacute;m cưới của anh họ t&ocirc;i <strong>tr&ugrave;ng </strong>v&agrave;o dịp nghỉ lễ cuối tuần, n&ecirc;n đ&acirc;y l&agrave; thời điểm ho&agrave;n hảo để thu&ecirc; xe v&agrave; l&aacute;i đi chơi.</p>\n",
+      "exampleEn": "My cousin’s wedding coincided with a holiday weekend, so it was a perfect time to rent a car and go for a drive.",
+      "exampleVi": "Đám cưới của anh họ tôi trùng vào dịp nghỉ lễ cuối tuần, nên đây là thời điểm hoàn hảo để thuê xe và lái đi chơi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b356",
+      "word": "confusion",
+      "phonetic": "/kənˈfjuːʒn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev471.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/confusion.mp3",
+      "meaningVi": "điểm khó hiểu",
+      "meaningEn": "a lack of clarity, order, or understanding",
+      "exampleEnHtml": "<p>However, it seems to us that there are several <strong>confusions </strong>in this part of his discussion.</p>\n",
+      "exampleViHtml": "<p>Tuy nhi&ecirc;n, ch&uacute;ng t&ocirc;i thấy rằng c&oacute; một số <strong>điểm kh&oacute; hiểu</strong> trong phần thảo luận n&agrave;y của &ocirc;ng.</p>\n",
+      "exampleEn": "However, it seems to us that there are several confusions in this part of his discussion.",
+      "exampleVi": "Tuy nhiên, chúng tôi thấy rằng có một số điểm khó hiểu trong phần thảo luận này của ông."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b357",
+      "word": "contact",
+      "phonetic": "/ˈkɑːntækt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev472.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/contact.mp3",
+      "meaningVi": "liên hệ",
+      "meaningEn": "to get in touch with",
+      "exampleEnHtml": "<p>Manuel <strong>contacted</strong> at least a dozen car rental agencies to get the best deal.</p>\n",
+      "exampleViHtml": "<p>Manuel đ&atilde; <strong>li&ecirc;n hệ</strong> với &iacute;t nhất một chục c&ocirc;ng ty cho thu&ecirc; xe để c&oacute; được thỏa thuận tốt nhất.</p>\n",
+      "exampleEn": "Manuel contacted at least a dozen car rental agencies to get the best deal.",
+      "exampleVi": "Manuel đã liên hệ với ít nhất một chục công ty cho thuê xe để có được thỏa thuận tốt nhất."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b358",
+      "word": "disappoint",
+      "phonetic": "/ˌdɪsəˈpɔɪnt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev473.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/disappoint.mp3",
+      "meaningVi": "thất vọng",
+      "meaningEn": "to fail to satisfy the hope, desire, or expectation of",
+      "exampleEnHtml": "<p>Leila was <strong>disappointed </strong>to discover that no rental cars were available the weekend she wished to travel.</p>\n",
+      "exampleViHtml": "<p>Leila <strong>thất vọng </strong>khi ph&aacute;t hiện ra rằng kh&ocirc;ng c&oacute; xe cho thu&ecirc; n&agrave;o c&oacute; sẵn v&agrave;o cuối tuần c&ocirc; muốn đi du lịch.</p>\n",
+      "exampleEn": "Leila was disappointed to discover that no rental cars were available the weekend she wished to travel.",
+      "exampleVi": "Leila thất vọng khi phát hiện ra rằng không có xe cho thuê nào có sẵn vào cuối tuần cô muốn đi du lịch."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b359",
+      "word": "intend",
+      "phonetic": "/ɪnˈtend/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev474.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/intend.mp3",
+      "meaningVi": "có ý định",
+      "meaningEn": "to have in mind",
+      "exampleEnHtml": "<p>I never <strong>intended </strong>to drive to Los Angeles until my brother suggested we do it together.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i chưa bao giờ<strong> c&oacute; &yacute; định</strong> l&aacute;i xe đến Los Angeles cho đến khi anh trai t&ocirc;i gợi &yacute; ch&uacute;ng t&ocirc;i c&ugrave;ng đi.</p>\n",
+      "exampleEn": "I never intended to drive to Los Angeles until my brother suggested we do it together.",
+      "exampleVi": "Tôi chưa bao giờ có ý định lái xe đến Los Angeles cho đến khi anh trai tôi gợi ý chúng tôi cùng đi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b35a",
+      "word": "license",
+      "phonetic": "/ˈlaɪsns/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev475.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/license.mp3",
+      "meaningVi": "bằng",
+      "meaningEn": "the legal permission to do or own a specified thing",
+      "exampleEnHtml": "<p>First, I&#39;ll need to see your driver&#39;s <strong>license </strong>and a major credit card.</p>\n",
+      "exampleViHtml": "<p>Đầu ti&ecirc;n, t&ocirc;i cần xem <strong>bằng </strong>l&aacute;i xe v&agrave; thẻ t&iacute;n dụng ch&iacute;nh của bạn.</p>\n",
+      "exampleEn": "First, I'll need to see your driver's license and a major credit card.",
+      "exampleVi": "Đầu tiên, tôi cần xem bằng lái xe và thẻ tín dụng chính của bạn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b35b",
+      "word": "nervously",
+      "phonetic": "/ˈnɜːrvəsli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev476.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/nervously.mp3",
+      "meaningVi": "lo lắng",
+      "meaningEn": "in a distressed or uneasy manner",
+      "exampleEnHtml": "<p>He&nbsp;looked&nbsp;<strong>nervously </strong>over his&nbsp;shoulder, making&nbsp;sure&nbsp;no one&nbsp;else&nbsp;was&nbsp;listening.</p>\n",
+      "exampleViHtml": "<p>Anh ta<strong> lo lắng </strong>nh&igrave;n qua vai m&igrave;nh, đảm bảo rằng kh&ocirc;ng c&oacute; ai kh&aacute;c đang nghe thấy.</p>\n",
+      "exampleEn": "He looked nervously over his shoulder, making sure no one else was listening.",
+      "exampleVi": "Anh ta lo lắng nhìn qua vai mình, đảm bảo rằng không có ai khác đang nghe thấy."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b35c",
+      "word": "optional",
+      "phonetic": "/ˈɑːpʃənl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev477.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/optional.mp3",
+      "meaningVi": "tùy chọn",
+      "meaningEn": "not compulsory or automatic",
+      "exampleEnHtml": "<p>Check this box if you wish to have this <strong>Optional </strong>insurance.</p>\n",
+      "exampleViHtml": "<p>Đ&aacute;nh dấu v&agrave;o &ocirc; n&agrave;y nếu bạn muốn c&oacute; loại bảo hiểm <strong>t&ugrave;y chọn</strong> n&agrave;y.</p>\n",
+      "exampleEn": "Check this box if you wish to have this Optional insurance.",
+      "exampleVi": "Đánh dấu vào ô này nếu bạn muốn có loại bảo hiểm tùy chọn này."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b35d",
+      "word": "tempt",
+      "phonetic": "/tempt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev478.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/tempt.mp3",
+      "meaningVi": "muốn",
+      "meaningEn": "to be inviting or attractive to",
+      "exampleEnHtml": "<p>I am <strong>tempted </strong>by the idea of driving across the country instead of flying.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i đang <strong>muốn</strong> l&aacute;i xe xuy&ecirc;n quốc gia thay v&igrave; đi m&aacute;y bay.</p>\n",
+      "exampleEn": "I am tempted by the idea of driving across the country instead of flying.",
+      "exampleVi": "Tôi đang muốn lái xe xuyên quốc gia thay vì đi máy bay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b35e",
+      "word": "thrill",
+      "phonetic": "/θrɪl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev479.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/thrill.mp3",
+      "meaningVi": "thích thú",
+      "meaningEn": "the source or cause of excitement or emotion",
+      "exampleEnHtml": "<p>The thought of renting a sports car gave John a <strong>thrill</strong>.</p>\n",
+      "exampleViHtml": "<p>&Yacute; nghĩ thu&ecirc; một chiếc xe thể thao khiến John cảm thấy <strong>th&iacute;ch th&uacute;</strong>.</p>\n",
+      "exampleEn": "The thought of renting a sports car gave John a thrill.",
+      "exampleVi": "Ý nghĩ thuê một chiếc xe thể thao khiến John cảm thấy thích thú."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b35f",
+      "word": "tier",
+      "phonetic": "/tɪr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev480.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/tier.mp3",
+      "meaningVi": "loại",
+      "meaningEn": "a rank or class",
+      "exampleEnHtml": "<p>The car rental company had a few <strong>tiers </strong>of cars, each one costing more than the previous tier.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng ty cho thu&ecirc; xe c&oacute; một số <strong>loại </strong>xe, mỗi loại c&oacute; gi&aacute; cao hơn loại trước đ&oacute;.</p>\n",
+      "exampleEn": "The car rental company had a few tiers of cars, each one costing more than the previous tier.",
+      "exampleVi": "Công ty cho thuê xe có một số loại xe, mỗi loại có giá cao hơn loại trước đó."
+    }
+  ],
+  "totalFlashcards": 12
+}

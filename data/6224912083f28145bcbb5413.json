@@ -1,0 +1,408 @@
+{
+  "topicId": "6224912083f28145bcbb5413",
+  "title": "CONDITIONAL SENTENCES - Practice 1",
+  "totalCards": 10,
+  "totalQuestions": 10,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb585e",
+        "questionNumber": 1,
+        "questionText": "Unless we _______ throwing garbage into the river, it will be polluted.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "won't stop",
+            "raw": "A. won't stop ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "stop",
+            "raw": "B. stop",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will stop",
+            "raw": "C. will stop ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "don't stop",
+            "raw": "D. don't stop",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after 'unless', which is a conditional word. In conditional sentences with 'unless', we use the present simple tense to talk about a possible situation and its result. The correct structure is: Unless + subject + present simple, ...<br><ul><li><b>A. won't stop</b> (verb (future simple negative)): 'won't stop' is the future simple negative form. In conditional sentences with 'unless', we do not use the future tense in the 'unless' clause.</li><li><b>B. stop</b> (verb (present simple)): 'stop' is the present simple form, which is correct for the 'unless' clause.</li><li><b>C. will stop</b> (verb (future simple)): 'will stop' is the future simple form. We do not use 'will' after 'unless' in this type of conditional sentence.</li><li><b>D. don't stop</b> (verb (present simple negative)): 'don't stop' is the present simple negative. However, 'unless' already means 'if not', so using 'don't' would create a double negative, which is incorrect.</li></ul><b>Related structure or vocabulary:</b> Unless + present simple, ...: This is a type 1 conditional sentence used to talk about real or possible situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống nằm sau 'unless', đây là từ dùng trong câu điều kiện. Trong câu điều kiện với 'unless', chúng ta sử dụng thì hiện tại đơn để nói về một tình huống có thể xảy ra và kết quả của nó. Cấu trúc đúng là: Unless + chủ ngữ + hiện tại đơn, ...<br><ul><li><b>A. won't stop</b> (động từ (tương lai đơn phủ định)): 'won't stop' là thì tương lai đơn phủ định. Trong câu điều kiện với 'unless', chúng ta không dùng thì tương lai trong mệnh đề 'unless'.</li><li><b>B. stop</b> (động từ (hiện tại đơn)): 'stop' là thì hiện tại đơn, phù hợp với mệnh đề 'unless'.</li><li><b>C. will stop</b> (động từ (tương lai đơn)): 'will stop' là thì tương lai đơn. Không dùng 'will' sau 'unless' trong loại câu điều kiện này.</li><li><b>D. don't stop</b> (động từ (hiện tại đơn phủ định)): 'don't stop' là thì hiện tại đơn phủ định. Tuy nhiên, 'unless' đã mang nghĩa 'nếu không', nên dùng thêm 'don't' sẽ tạo thành phủ định kép, không đúng ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Unless + hiện tại đơn, ...: Đây là câu điều kiện loại 1 dùng để nói về tình huống thực tế hoặc có thể xảy ra ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Trừ khi chúng ta dừng việc vứt rác xuống sông, nếu không nó sẽ bị ô nhiễm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after 'unless', which is a conditional word. In conditional sentences with 'unless', we use the present simple tense to talk about a possible situation and its result. The correct structure is: Unless + subject + present simple, ...<br><ul><li><b>A. won't stop</b> (verb (future simple negative)): 'won't stop' is the future simple negative form. In conditional sentences with 'unless', we do not use the future tense in the 'unless' clause.</li><li><b>B. stop</b> (verb (present simple)): 'stop' is the present simple form, which is correct for the 'unless' clause.</li><li><b>C. will stop</b> (verb (future simple)): 'will stop' is the future simple form. We do not use 'will' after 'unless' in this type of conditional sentence.</li><li><b>D. don't stop</b> (verb (present simple negative)): 'don't stop' is the present simple negative. However, 'unless' already means 'if not', so using 'don't' would create a double negative, which is incorrect.</li></ul><b>Related structure or vocabulary:</b> Unless + present simple, ...: This is a type 1 conditional sentence used to talk about real or possible situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb585f",
+        "questionNumber": 2,
+        "questionText": "She is too weak; she can't sit up and talk to you.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "If she isn't too weak, she can sit up and talk to you.",
+            "raw": "A. If she isn't too weak, she can sit up and talk to you.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "If she weren't too weak, she could sit up and talk to you.",
+            "raw": "B. If she weren't too weak, she could sit up and talk to you.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "If she hadn't been too weak, she could sit up and talk to you.",
+            "raw": "C. If she hadn't been too weak, she could sit up and talk to you.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "If she wasn't too weak, she can sit up and talk to you.",
+            "raw": "D. If she wasn't too weak, she can sit up and talk to you.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'She is too weak; she can't sit up and talk to you.' expresses a present unreal situation: because she is too weak, she cannot sit up and talk. To rewrite this using a conditional sentence, we use the second conditional (If + past simple, ... would/could + base verb) to talk about unreal or hypothetical situations in the present.<br><ul><li><b>A. If she isn't too weak, she can sit up and talk to you.</b> (sentence): This is a first conditional sentence (If + present simple, ... will/can + base verb), used for real and possible situations in the present or future. However, the original sentence describes an unreal situation, so this is incorrect.</li><li><b>B. If she weren't too weak, she could sit up and talk to you.</b> (sentence): This is a second conditional sentence (If + past simple, ... would/could + base verb), used for unreal or hypothetical situations in the present. This matches the meaning of the original sentence.</li><li><b>C. If she hadn't been too weak, she could sit up and talk to you.</b> (sentence): This is a third conditional sentence (If + past perfect, ... would/could have + past participle), used for unreal situations in the past. The original sentence is about the present, so this is incorrect.</li><li><b>D. If she wasn't too weak, she can sit up and talk to you.</b> (sentence): This mixes the past simple with 'can', which is not grammatically correct for conditional sentences. The correct form should be 'could' instead of 'can'.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, ... would/could + base verb. Used to talk about unreal or hypothetical situations in the present.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'She is too weak; she can't sit up and talk to you.' diễn tả một tình huống không có thật ở hiện tại: vì cô ấy quá yếu nên không thể ngồi dậy và nói chuyện. Để viết lại câu này bằng câu điều kiện, ta sử dụng câu điều kiện loại 2 (If + quá khứ đơn, ... would/could + động từ nguyên mẫu) để nói về những tình huống không có thật hoặc giả định ở hiện tại.<br><ul><li><b>A. If she isn't too weak, she can sit up and talk to you.</b> (câu): Đây là câu điều kiện loại 1 (If + hiện tại đơn, ... will/can + động từ nguyên mẫu), dùng cho tình huống có thật hoặc có thể xảy ra ở hiện tại hoặc tương lai. Tuy nhiên, câu gốc diễn tả tình huống không có thật, nên đáp án này sai.</li><li><b>B. If she weren't too weak, she could sit up and talk to you.</b> (câu): Đây là câu điều kiện loại 2 (If + quá khứ đơn, ... would/could + động từ nguyên mẫu), dùng cho tình huống không có thật hoặc giả định ở hiện tại. Đáp án này phù hợp với ý nghĩa của câu gốc.</li><li><b>C. If she hadn't been too weak, she could sit up and talk to you.</b> (câu): Đây là câu điều kiện loại 3 (If + quá khứ hoàn thành, ... would/could have + quá khứ phân từ), dùng cho tình huống không có thật ở quá khứ. Câu gốc nói về hiện tại nên đáp án này sai.</li><li><b>D. If she wasn't too weak, she can sit up and talk to you.</b> (câu): Câu này kết hợp thì quá khứ đơn với 'can', không đúng ngữ pháp trong câu điều kiện. Đúng ra phải dùng 'could' thay vì 'can'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, ... would/could + động từ nguyên mẫu. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại.<br><br><b>Tạm dịch:</b> Nếu cô ấy không quá yếu, cô ấy có thể ngồi dậy và nói chuyện với bạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'She is too weak; she can't sit up and talk to you.' expresses a present unreal situation: because she is too weak, she cannot sit up and talk. To rewrite this using a conditional sentence, we use the second conditional (If + past simple, ... would/could + base verb) to talk about unreal or hypothetical situations in the present.<br><ul><li><b>A. If she isn't too weak, she can sit up and talk to you.</b> (sentence): This is a first conditional sentence (If + present simple, ... will/can + base verb), used for real and possible situations in the present or future. However, the original sentence describes an unreal situation, so this is incorrect.</li><li><b>B. If she weren't too weak, she could sit up and talk to you.</b> (sentence): This is a second conditional sentence (If + past simple, ... would/could + base verb), used for unreal or hypothetical situations in the present. This matches the meaning of the original sentence.</li><li><b>C. If she hadn't been too weak, she could sit up and talk to you.</b> (sentence): This is a third conditional sentence (If + past perfect, ... would/could have + past participle), used for unreal situations in the past. The original sentence is about the present, so this is incorrect.</li><li><b>D. If she wasn't too weak, she can sit up and talk to you.</b> (sentence): This mixes the past simple with 'can', which is not grammatically correct for conditional sentences. The correct form should be 'could' instead of 'can'.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, ... would/could + base verb. Used to talk about unreal or hypothetical situations in the present.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb5860",
+        "questionNumber": 3,
+        "questionText": "I don't have enough money with me now; otherwise I will buy that coat.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "If I had enough money with me now, I wouldn't buy that coat.",
+            "raw": "A. If I had enough money with me now, I wouldn't buy that coat.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "If I had enough money with me now, I would buy that coat.",
+            "raw": "B. If I had enough money with me now, I would buy that coat.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "If I didn't have enough money with me now, I would buy that coat.",
+            "raw": "C. If I didn't have enough money with me now, I would buy that coat.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "If I didn't have enough money with me now, I wouldn't buy that coat.",
+            "raw": "D. If I didn't have enough money with me now, I wouldn't buy that coat.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'I don't have enough money with me now; otherwise I will buy that coat.' is a conditional sentence expressing an unreal situation in the present. The speaker does not have enough money, so he/she cannot buy the coat. To rewrite this sentence using the correct conditional form, we use the second conditional: If + past simple, ... would + base verb. This structure is used to talk about unreal or hypothetical situations in the present.<br><ul><li><b>A. If I had enough money with me now, I wouldn't buy that coat.</b> (Conditional sentence): This choice uses the correct conditional structure, but the meaning is incorrect. 'Wouldn't buy' means the speaker would not buy the coat even if they had enough money, which is not the intended meaning.</li><li><b>B. If I had enough money with me now, I would buy that coat.</b> (Conditional sentence): This choice uses the correct second conditional structure and matches the intended meaning: If the speaker had enough money, they would buy the coat.</li><li><b>C. If I didn't have enough money with me now, I would buy that coat.</b> (Conditional sentence): This choice is incorrect because it suggests that not having enough money would allow the speaker to buy the coat, which is illogical.</li><li><b>D. If I didn't have enough money with me now, I wouldn't buy that coat.</b> (Conditional sentence): This choice is incorrect because it implies the speaker currently has enough money, which contradicts the original sentence.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, ... would + base verb. Used for unreal or hypothetical situations in the present.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'I don't have enough money with me now; otherwise I will buy that coat.' là một câu điều kiện diễn tả tình huống không có thật ở hiện tại. Người nói không có đủ tiền nên không thể mua chiếc áo khoác đó. Để viết lại câu này bằng cấu trúc điều kiện đúng, ta sử dụng câu điều kiện loại 2: If + quá khứ đơn, ... would + động từ nguyên thể. Cấu trúc này dùng để nói về những tình huống không có thật hoặc giả định ở hiện tại.<br><ul><li><b>A. If I had enough money with me now, I wouldn't buy that coat.</b> (Câu điều kiện): Lựa chọn này dùng đúng cấu trúc câu điều kiện, nhưng nghĩa lại sai. 'Wouldn't buy' nghĩa là dù có đủ tiền, người nói cũng không mua áo khoác, không đúng với ý gốc.</li><li><b>B. If I had enough money with me now, I would buy that coat.</b> (Câu điều kiện): Lựa chọn này dùng đúng cấu trúc câu điều kiện loại 2 và đúng với ý nghĩa: Nếu có đủ tiền, tôi sẽ mua chiếc áo khoác đó.</li><li><b>C. If I didn't have enough money with me now, I would buy that coat.</b> (Câu điều kiện): Lựa chọn này sai vì ngụ ý rằng không có đủ tiền thì lại mua được áo khoác, điều này không hợp lý.</li><li><b>D. If I didn't have enough money with me now, I wouldn't buy that coat.</b> (Câu điều kiện): Lựa chọn này sai vì ngụ ý người nói hiện tại có đủ tiền, trái với thông tin trong câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, ... would + động từ nguyên thể. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại.<br><br><b>Tạm dịch:</b> Nếu tôi có đủ tiền ngay bây giờ, tôi sẽ mua chiếc áo khoác đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'I don't have enough money with me now; otherwise I will buy that coat.' is a conditional sentence expressing an unreal situation in the present. The speaker does not have enough money, so he/she cannot buy the coat. To rewrite this sentence using the correct conditional form, we use the second conditional: If + past simple, ... would + base verb. This structure is used to talk about unreal or hypothetical situations in the present.<br><ul><li><b>A. If I had enough money with me now, I wouldn't buy that coat.</b> (Conditional sentence): This choice uses the correct conditional structure, but the meaning is incorrect. 'Wouldn't buy' means the speaker would not buy the coat even if they had enough money, which is not the intended meaning.</li><li><b>B. If I had enough money with me now, I would buy that coat.</b> (Conditional sentence): This choice uses the correct second conditional structure and matches the intended meaning: If the speaker had enough money, they would buy the coat.</li><li><b>C. If I didn't have enough money with me now, I would buy that coat.</b> (Conditional sentence): This choice is incorrect because it suggests that not having enough money would allow the speaker to buy the coat, which is illogical.</li><li><b>D. If I didn't have enough money with me now, I wouldn't buy that coat.</b> (Conditional sentence): This choice is incorrect because it implies the speaker currently has enough money, which contradicts the original sentence.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, ... would + base verb. Used for unreal or hypothetical situations in the present.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb5861",
+        "questionNumber": 4,
+        "questionText": "If I had known you would come, ______.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I would wait for you",
+            "raw": "A. I would wait for you ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "I would have waited for you",
+            "raw": "B. I would have waited for you",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "I will wait for you",
+            "raw": "C. I will wait for you ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "I would not have waited for you",
+            "raw": "D. I would not have waited for you",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I had known you would come, ______.' is a conditional sentence, specifically the third conditional, which is used to talk about unreal situations in the past. The structure of the third conditional is: If + past perfect, would have + past participle. This structure expresses a hypothetical situation that did not happen in the past and its possible result.<br><ul><li><b>A. I would wait for you</b> (conditional sentence): This is the structure of the second conditional (If + past simple, would + base verb), which is used for unreal situations in the present or future, not the past.</li><li><b>B. I would have waited for you</b> (conditional sentence): This is the correct structure for the third conditional (would have + past participle), used to talk about an unreal past situation.</li><li><b>C. I will wait for you</b> (conditional sentence): This is the structure of the first conditional (If + present simple, will + base verb), used for real or possible situations in the future.</li><li><b>D. I would not have waited for you</b> (conditional sentence): This is also the third conditional structure, but it expresses the opposite meaning (not waiting).</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to express regret or hypothetical situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If I had known you would come, ______.' là một câu điều kiện, cụ thể là câu điều kiện loại 3, dùng để nói về những tình huống không có thật trong quá khứ. Cấu trúc của câu điều kiện loại 3 là: If + quá khứ hoàn thành, would have + quá khứ phân từ. Cấu trúc này diễn tả một giả định không xảy ra trong quá khứ và kết quả có thể xảy ra nếu điều đó đã xảy ra.<br><ul><li><b>A. I would wait for you</b> (câu điều kiện): Đây là cấu trúc của câu điều kiện loại 2 (If + quá khứ đơn, would + động từ nguyên mẫu), dùng cho những tình huống không có thật ở hiện tại hoặc tương lai, không phải quá khứ.</li><li><b>B. I would have waited for you</b> (câu điều kiện): Đây là cấu trúc đúng của câu điều kiện loại 3 (would have + quá khứ phân từ), dùng để nói về một tình huống không có thật trong quá khứ.</li><li><b>C. I will wait for you</b> (câu điều kiện): Đây là cấu trúc của câu điều kiện loại 1 (If + hiện tại đơn, will + động từ nguyên mẫu), dùng cho những tình huống có thật hoặc có thể xảy ra trong tương lai.</li><li><b>D. I would not have waited for you</b> (câu điều kiện): Đây cũng là cấu trúc câu điều kiện loại 3, nhưng mang nghĩa phủ định (không chờ).</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + quá khứ hoàn thành, would have + quá khứ phân từ. Dùng để diễn tả sự tiếc nuối hoặc giả định về một tình huống không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Nếu tôi biết bạn sẽ đến, tôi đã chờ bạn rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I had known you would come, ______.' is a conditional sentence, specifically the third conditional, which is used to talk about unreal situations in the past. The structure of the third conditional is: If + past perfect, would have + past participle. This structure expresses a hypothetical situation that did not happen in the past and its possible result.<br><ul><li><b>A. I would wait for you</b> (conditional sentence): This is the structure of the second conditional (If + past simple, would + base verb), which is used for unreal situations in the present or future, not the past.</li><li><b>B. I would have waited for you</b> (conditional sentence): This is the correct structure for the third conditional (would have + past participle), used to talk about an unreal past situation.</li><li><b>C. I will wait for you</b> (conditional sentence): This is the structure of the first conditional (If + present simple, will + base verb), used for real or possible situations in the future.</li><li><b>D. I would not have waited for you</b> (conditional sentence): This is also the third conditional structure, but it expresses the opposite meaning (not waiting).</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to express regret or hypothetical situations in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb5865",
+        "questionNumber": 5,
+        "questionText": "“My boss made me work overtime again”. If I were you, I_______ my job”.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would quit",
+            "raw": "A. would quit",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will quit",
+            "raw": "B. will quit",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "must quit",
+            "raw": "C. must quit ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "quit",
+            "raw": "D. quit",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is a type 2 conditional sentence, which is used to talk about hypothetical or unreal situations in the present or future. The structure for type 2 conditional is: If + past simple, ... would + base verb. In this case, 'If I were you' is the if-clause (past simple), so the main clause should use 'would' + base verb.<br><ul><li><b>would quit</b> (modal verb + base verb): 'Would quit' is the correct form for the main clause in a type 2 conditional sentence, expressing a hypothetical action.</li><li><b>will quit</b> (modal verb + base verb): 'Will quit' is used for real future situations, not for hypothetical or unreal situations.</li><li><b>must quit</b> (modal verb + base verb): 'Must quit' expresses necessity or obligation, not a hypothetical situation.</li><li><b>quit</b> (base verb): 'Quit' alone is the base verb and does not fit the grammar structure required here.</li></ul><b>Related structure or vocabulary:</b> Type 2 conditional: If + past simple, ... would + base verb. Used to talk about unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là câu điều kiện loại 2, dùng để nói về những tình huống giả định hoặc không có thật ở hiện tại hoặc tương lai. Cấu trúc của câu điều kiện loại 2 là: If + quá khứ đơn, ... would + động từ nguyên thể. Ở đây, 'If I were you' là mệnh đề if (quá khứ đơn), nên mệnh đề chính phải dùng 'would' + động từ nguyên thể.<br><ul><li><b>would quit</b> (động từ khuyết thiếu + động từ nguyên thể): 'Would quit' là dạng đúng cho mệnh đề chính trong câu điều kiện loại 2, diễn tả hành động giả định.</li><li><b>will quit</b> (động từ khuyết thiếu + động từ nguyên thể): 'Will quit' dùng cho tình huống thật ở tương lai, không phù hợp với tình huống giả định.</li><li><b>must quit</b> (động từ khuyết thiếu + động từ nguyên thể): 'Must quit' diễn tả sự cần thiết hoặc bắt buộc, không phải tình huống giả định.</li><li><b>quit</b> (động từ nguyên thể): 'Quit' chỉ là động từ nguyên thể, không phù hợp với cấu trúc ngữ pháp yêu cầu.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, ... would + động từ nguyên thể. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Sếp tôi lại bắt tôi làm thêm giờ nữa. Nếu tôi là bạn, tôi sẽ nghỉ việc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is a type 2 conditional sentence, which is used to talk about hypothetical or unreal situations in the present or future. The structure for type 2 conditional is: If + past simple, ... would + base verb. In this case, 'If I were you' is the if-clause (past simple), so the main clause should use 'would' + base verb.<br><ul><li><b>would quit</b> (modal verb + base verb): 'Would quit' is the correct form for the main clause in a type 2 conditional sentence, expressing a hypothetical action.</li><li><b>will quit</b> (modal verb + base verb): 'Will quit' is used for real future situations, not for hypothetical or unreal situations.</li><li><b>must quit</b> (modal verb + base verb): 'Must quit' expresses necessity or obligation, not a hypothetical situation.</li><li><b>quit</b> (base verb): 'Quit' alone is the base verb and does not fit the grammar structure required here.</li></ul><b>Related structure or vocabulary:</b> Type 2 conditional: If + past simple, ... would + base verb. Used to talk about unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb5866",
+        "questionNumber": 6,
+        "questionText": "“Remember the day I drove you to the airport?”. “If you hadn’t __________me, I would have been late”.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "take",
+            "raw": "A. take ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "taking",
+            "raw": "B. taking",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "took",
+            "raw": "C. took ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "taken",
+            "raw": "D. taken",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after 'hadn't', which is part of the past perfect tense used in third conditional sentences. In third conditional sentences, the structure is: If + past perfect (had + past participle), ... would have + past participle. Therefore, the correct form after 'hadn't' is the past participle.<br><ul><li><b>take</b> (verb (base form)): Base form of the verb, not used after 'hadn't' in third conditional.</li><li><b>taking</b> (verb (V-ing)): Present participle/gerund form, not used after 'hadn't' in this structure.</li><li><b>took</b> (verb (past simple)): Simple past form, not correct after 'hadn't' which requires past participle.</li><li><b>taken</b> (verb (past participle)): Past participle form, which is correct after 'hadn't' in the third conditional.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect (had + past participle), ... would have + past participle. Used to talk about unreal situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống nằm sau 'hadn't', đây là thì quá khứ hoàn thành dùng trong câu điều kiện loại 3. Cấu trúc câu điều kiện loại 3 là: If + past perfect (had + past participle), ... would have + past participle. Vì vậy, sau 'hadn't' phải dùng động từ ở dạng quá khứ phân từ.<br><ul><li><b>take</b> (động từ nguyên thể): Động từ nguyên thể, không dùng sau 'hadn't' trong câu điều kiện loại 3.</li><li><b>taking</b> (động từ V-ing): Dạng V-ing, không dùng sau 'hadn't' trong cấu trúc này.</li><li><b>took</b> (động từ quá khứ đơn): Dạng quá khứ đơn, không đúng sau 'hadn't' vì cần dùng quá khứ phân từ.</li><li><b>taken</b> (động từ quá khứ phân từ): Dạng quá khứ phân từ, đúng sau 'hadn't' trong câu điều kiện loại 3.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + past perfect (had + past participle), ... would have + past participle. Dùng để nói về những tình huống không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Bạn còn nhớ ngày tôi chở bạn ra sân bay không? Nếu bạn không CHỞ tôi, tôi đã bị trễ rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after 'hadn't', which is part of the past perfect tense used in third conditional sentences. In third conditional sentences, the structure is: If + past perfect (had + past participle), ... would have + past participle. Therefore, the correct form after 'hadn't' is the past participle.<br><ul><li><b>take</b> (verb (base form)): Base form of the verb, not used after 'hadn't' in third conditional.</li><li><b>taking</b> (verb (V-ing)): Present participle/gerund form, not used after 'hadn't' in this structure.</li><li><b>took</b> (verb (past simple)): Simple past form, not correct after 'hadn't' which requires past participle.</li><li><b>taken</b> (verb (past participle)): Past participle form, which is correct after 'hadn't' in the third conditional.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect (had + past participle), ... would have + past participle. Used to talk about unreal situations in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb5867",
+        "questionNumber": 7,
+        "questionText": "“Sally finally got here from Chicago”. “If she had come earlier, we _____taken her to the play”.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would be",
+            "raw": "A. would be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "would have",
+            "raw": "B. would have",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "had have",
+            "raw": "C. had have ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "would had",
+            "raw": "D. would had",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is a conditional sentence referring to an unreal past situation. The structure for the third conditional is: If + past perfect, would have + past participle. The first clause 'If she had come earlier' is in the past perfect, so the main clause should use 'would have' + past participle. Therefore, the correct answer is 'would have taken'.<br><ul><li><b>would be</b> (modal verb + base verb): 'Would be' is used for present or future unreal situations, not for past unreal situations.</li><li><b>would have</b> (modal verb + have (perfect infinitive)): 'Would have' is used in third conditional sentences to talk about unreal situations in the past.</li><li><b>had have</b> (incorrect form): 'Had have' is grammatically incorrect in this context.</li><li><b>would had</b> (incorrect form): 'Would had' is incorrect because after 'would', we use the base form 'have', not 'had'.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là câu điều kiện loại 3, dùng để nói về một tình huống không có thật trong quá khứ. Cấu trúc của câu điều kiện loại 3 là: If + quá khứ hoàn thành, would have + quá khứ phân từ. Mệnh đề đầu tiên 'If she had come earlier' đã ở thì quá khứ hoàn thành, nên mệnh đề chính phải dùng 'would have' + động từ phân từ 2. Vì vậy, đáp án đúng là 'would have taken'.<br><ul><li><b>would be</b> (động từ khuyết thiếu + động từ nguyên mẫu): 'Would be' dùng cho các tình huống không có thật ở hiện tại hoặc tương lai, không dùng cho quá khứ.</li><li><b>would have</b> (động từ khuyết thiếu + have (nguyên mẫu hoàn thành)): 'Would have' dùng trong câu điều kiện loại 3 để nói về tình huống không có thật trong quá khứ.</li><li><b>had have</b> (dạng sai): 'Had have' là cấu trúc sai ngữ pháp trong trường hợp này.</li><li><b>would had</b> (dạng sai): 'Would had' là sai vì sau 'would' phải dùng 'have' (nguyên mẫu), không dùng 'had'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + quá khứ hoàn thành, would have + quá khứ phân từ. Dùng để nói về điều không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Sally cuối cùng cũng đã đến từ Chicago. Nếu cô ấy đến sớm hơn, chúng tôi đã có thể đưa cô ấy đi xem kịch.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is a conditional sentence referring to an unreal past situation. The structure for the third conditional is: If + past perfect, would have + past participle. The first clause 'If she had come earlier' is in the past perfect, so the main clause should use 'would have' + past participle. Therefore, the correct answer is 'would have taken'.<br><ul><li><b>would be</b> (modal verb + base verb): 'Would be' is used for present or future unreal situations, not for past unreal situations.</li><li><b>would have</b> (modal verb + have (perfect infinitive)): 'Would have' is used in third conditional sentences to talk about unreal situations in the past.</li><li><b>had have</b> (incorrect form): 'Had have' is grammatically incorrect in this context.</li><li><b>would had</b> (incorrect form): 'Would had' is incorrect because after 'would', we use the base form 'have', not 'had'.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb5868",
+        "questionNumber": 8,
+        "questionText": "“I don’t know whether to take that mathematics course or not”. “If ______you, I’d take it”.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I am",
+            "raw": "A. I am ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "I will be",
+            "raw": "B. I will be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "I had been you",
+            "raw": "C. I had been you ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "I were",
+            "raw": "D. I were",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct form for a second conditional sentence, which is used to talk about hypothetical or unreal situations in the present or future. The structure for the second conditional is: If + subject + past simple, subject + would + base verb. In this case, the speaker is imagining being in the listener's position, so the correct form is 'If I were you, I’d take it.'<br><ul><li><b>I am</b> (verb (present simple)): 'If I am you' is incorrect because 'am' is present simple, not suitable for hypothetical situations.</li><li><b>I will be</b> (verb (future simple)): 'If I will be you' is incorrect because 'will be' is used for future, not for hypothetical present situations.</li><li><b>I had been you</b> (verb (past perfect)): 'If I had been you' is incorrect because it is past perfect, which is used for third conditional (unreal past), not for present/future hypothetical situations.</li><li><b>I were</b> (verb (past simple, subjunctive mood)): 'If I were you' is correct. 'Were' is the past simple form used in the second conditional for all subjects, including 'I', to express unreal or hypothetical situations.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + subject + past simple, subject + would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần điền dạng đúng của câu điều kiện loại 2, dùng để nói về những tình huống giả định hoặc không có thật ở hiện tại hoặc tương lai. Cấu trúc của câu điều kiện loại 2 là: If + chủ ngữ + động từ quá khứ đơn, chủ ngữ + would + động từ nguyên mẫu. Trong trường hợp này, người nói đang tưởng tượng mình ở vị trí của người nghe, nên dạng đúng là 'If I were you, I’d take it.'<br><ul><li><b>I am</b> (động từ (hiện tại đơn)): 'If I am you' là sai vì 'am' là thì hiện tại đơn, không phù hợp với tình huống giả định.</li><li><b>I will be</b> (động từ (tương lai đơn)): 'If I will be you' là sai vì 'will be' dùng cho tương lai, không dùng cho tình huống giả định ở hiện tại.</li><li><b>I had been you</b> (động từ (quá khứ hoàn thành)): 'If I had been you' là sai vì đây là thì quá khứ hoàn thành, dùng cho câu điều kiện loại 3 (giả định không có thật ở quá khứ), không phù hợp với tình huống giả định ở hiện tại.</li><li><b>I were</b> (động từ (quá khứ đơn, thể giả định)): 'If I were you' là đúng. 'Were' là dạng quá khứ đơn dùng trong câu điều kiện loại 2 cho tất cả các chủ ngữ, kể cả 'I', để diễn tả tình huống không có thật hoặc giả định.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + chủ ngữ + động từ quá khứ đơn, chủ ngữ + would + động từ nguyên mẫu. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Tôi không biết có nên học khóa toán đó không. Nếu tôi là bạn, tôi sẽ học.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct form for a second conditional sentence, which is used to talk about hypothetical or unreal situations in the present or future. The structure for the second conditional is: If + subject + past simple, subject + would + base verb. In this case, the speaker is imagining being in the listener's position, so the correct form is 'If I were you, I’d take it.'<br><ul><li><b>I am</b> (verb (present simple)): 'If I am you' is incorrect because 'am' is present simple, not suitable for hypothetical situations.</li><li><b>I will be</b> (verb (future simple)): 'If I will be you' is incorrect because 'will be' is used for future, not for hypothetical present situations.</li><li><b>I had been you</b> (verb (past perfect)): 'If I had been you' is incorrect because it is past perfect, which is used for third conditional (unreal past), not for present/future hypothetical situations.</li><li><b>I were</b> (verb (past simple, subjunctive mood)): 'If I were you' is correct. 'Were' is the past simple form used in the second conditional for all subjects, including 'I', to express unreal or hypothetical situations.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + subject + past simple, subject + would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb5869",
+        "questionNumber": 9,
+        "questionText": "“Did you need help with your math last night?”. “If I had had, I ______ you”.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would call",
+            "raw": "A. would call ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "called",
+            "raw": "B. called ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "would have called",
+            "raw": "C. would have called",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "will call",
+            "raw": "D. will call",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is a conditional sentence type 3, which is used to talk about unreal situations in the past. The structure for type 3 is: If + past perfect, S + would have + past participle. In the sentence, 'If I had had' is the past perfect, so the correct answer must be 'would have called' to match the structure.<br><ul><li><b>would call</b> (modal + base verb): This is the conditional form for type 2 (If + past simple, would + V), used for unreal situations in the present or future.</li><li><b>called</b> (verb (past simple)): This is the simple past tense, not suitable for conditional sentences in this context.</li><li><b>would have called</b> (modal + have + past participle): This is the correct form for conditional type 3 (If + past perfect, would have + past participle), used for unreal situations in the past.</li><li><b>will call</b> (modal + base verb): This is the simple future tense, not suitable for conditional sentences about the past.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là câu điều kiện loại 3, dùng để nói về những tình huống không có thật trong quá khứ. Cấu trúc của câu điều kiện loại 3 là: If + quá khứ hoàn thành, S + would have + V3/ed. Trong câu, 'If I had had' là thì quá khứ hoàn thành, nên đáp án đúng phải là 'would have called' để phù hợp với cấu trúc.<br><ul><li><b>would call</b> (modal + động từ nguyên mẫu): Đây là dạng câu điều kiện loại 2 (If + quá khứ đơn, would + V), dùng cho tình huống không có thật ở hiện tại hoặc tương lai.</li><li><b>called</b> (động từ (quá khứ đơn)): Đây là thì quá khứ đơn, không phù hợp với câu điều kiện trong ngữ cảnh này.</li><li><b>would have called</b> (modal + have + quá khứ phân từ): Đây là dạng đúng của câu điều kiện loại 3 (If + quá khứ hoàn thành, would have + V3/ed), dùng cho tình huống không có thật trong quá khứ.</li><li><b>will call</b> (modal + động từ nguyên mẫu): Đây là thì tương lai đơn, không phù hợp với câu điều kiện nói về quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + quá khứ hoàn thành, would have + V3/ed. Dùng để nói về những tình huống không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Câu hỏi: “Did you need help with your math last night?”. “If I had had, I ______ you”. Đáp án đúng là C. would have called. Dịch: 'Bạn có cần giúp đỡ với bài toán tối qua không?' 'Nếu tôi đã cần, tôi đã gọi cho bạn rồi.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is a conditional sentence type 3, which is used to talk about unreal situations in the past. The structure for type 3 is: If + past perfect, S + would have + past participle. In the sentence, 'If I had had' is the past perfect, so the correct answer must be 'would have called' to match the structure.<br><ul><li><b>would call</b> (modal + base verb): This is the conditional form for type 2 (If + past simple, would + V), used for unreal situations in the present or future.</li><li><b>called</b> (verb (past simple)): This is the simple past tense, not suitable for conditional sentences in this context.</li><li><b>would have called</b> (modal + have + past participle): This is the correct form for conditional type 3 (If + past perfect, would have + past participle), used for unreal situations in the past.</li><li><b>will call</b> (modal + base verb): This is the simple future tense, not suitable for conditional sentences about the past.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Used to talk about unreal situations in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224928983f28145bcbb586b",
+        "questionNumber": 10,
+        "questionText": "\"John went to the hospital alone.\" \"If ________, I would have gone with him.\"",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had he told me",
+            "raw": "A. had he told me ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "he had told me",
+            "raw": "B. he had told me",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "he has told me",
+            "raw": "C. he has told me ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "he would tell me",
+            "raw": "D. he would tell me",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conditional clause in the past unreal (third conditional) form. The structure for the third conditional is: If + past perfect, would have + past participle. In this case, the correct inversion for the conditional clause is 'Had he told me,' which is a formal way to write 'If he had told me.'<br><ul><li><b>A. had he told me</b> (inverted conditional clause): This is the correct answer. It uses the inversion form of the third conditional: 'Had + subject + past participle,' which is equivalent to 'If he had told me.'</li><li><b>B. he had told me</b> (clause (incorrect structure)): This is not correct because it lacks the 'if' or inversion needed for a conditional clause.</li><li><b>C. he has told me</b> (present perfect clause): This uses the present perfect tense, which is not suitable for a past unreal conditional.</li><li><b>D. he would tell me</b> (future-in-the-past clause): This is a future-in-the-past form, not suitable for the third conditional structure.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Inversion in conditionals: Had + subject + past participle (without 'if').<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu yêu cầu một mệnh đề điều kiện loại 3 (điều kiện không có thật trong quá khứ). Cấu trúc của điều kiện loại 3 là: If + past perfect, would have + past participle. Trong trường hợp này, dạng đảo ngữ của mệnh đề điều kiện là 'Had he told me', tương đương với 'If he had told me', dùng để nhấn mạnh hoặc trong văn viết trang trọng.<br><ul><li><b>A. had he told me</b> (mệnh đề điều kiện đảo ngữ): Đây là đáp án đúng. Đây là dạng đảo ngữ của điều kiện loại 3: 'Had + chủ ngữ + quá khứ phân từ', tương đương với 'If he had told me'.</li><li><b>B. he had told me</b> (mệnh đề (cấu trúc sai)): Không đúng vì thiếu 'if' hoặc đảo ngữ cần thiết cho mệnh đề điều kiện.</li><li><b>C. he has told me</b> (mệnh đề thì hiện tại hoàn thành): Dùng thì hiện tại hoàn thành, không phù hợp với điều kiện loại 3 (không có thật trong quá khứ).</li><li><b>D. he would tell me</b> (mệnh đề tương lai trong quá khứ): Đây là dạng tương lai trong quá khứ, không phù hợp với cấu trúc điều kiện loại 3.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + past perfect, would have + past participle. Đảo ngữ trong câu điều kiện: Had + chủ ngữ + quá khứ phân từ (không dùng 'if').<br><br><b>Tạm dịch:</b> John đã đến bệnh viện một mình. Nếu anh ấy nói với tôi, tôi đã đi cùng anh ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conditional clause in the past unreal (third conditional) form. The structure for the third conditional is: If + past perfect, would have + past participle. In this case, the correct inversion for the conditional clause is 'Had he told me,' which is a formal way to write 'If he had told me.'<br><ul><li><b>A. had he told me</b> (inverted conditional clause): This is the correct answer. It uses the inversion form of the third conditional: 'Had + subject + past participle,' which is equivalent to 'If he had told me.'</li><li><b>B. he had told me</b> (clause (incorrect structure)): This is not correct because it lacks the 'if' or inversion needed for a conditional clause.</li><li><b>C. he has told me</b> (present perfect clause): This uses the present perfect tense, which is not suitable for a past unreal conditional.</li><li><b>D. he would tell me</b> (future-in-the-past clause): This is a future-in-the-past form, not suitable for the third conditional structure.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle. Inversion in conditionals: Had + subject + past participle (without 'if').<br><br>"
+      }
+    }
+  ]
+}

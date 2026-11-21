@@ -1,0 +1,808 @@
+{
+  "topicId": "6204c030d1bfab7a5b0013dc",
+  "title": "RELATIVE CLAUSES - Practice 3",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001412",
+        "questionNumber": 1,
+        "questionText": "Please refer to the attached agenda of yesterday's seminar ______ you asked for.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "then",
+            "raw": "A. then",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "what",
+            "raw": "C. what",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "when",
+            "raw": "D. when",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Please refer to the attached agenda of yesterday's seminar ______ you asked for.' requires a relative pronoun to connect 'the attached agenda of yesterday's seminar' with the clause 'you asked for.' The correct relative pronoun to use when referring to a thing (the agenda) is 'that.'<br><ul><li><b>then</b> (adverb): 'Then' is an adverb of time, meaning 'at that time.' It cannot be used as a relative pronoun to connect clauses.</li><li><b>that</b> (relative pronoun): 'That' is a relative pronoun used to refer to things or people in defining relative clauses. Here, it refers to 'the agenda.'</li><li><b>what</b> (pronoun): 'What' is used to mean 'the thing(s) that,' but it cannot be used as a relative pronoun after a noun.</li><li><b>when</b> (relative adverb): 'When' is a relative adverb used to refer to time, but it is not suitable here because 'agenda' is not a time.</li></ul><b>Related structure or vocabulary:</b> Defining relative clauses: Use 'that' to refer to things or people after a noun. Structure: noun + that + clause.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Please refer to the attached agenda of yesterday's seminar ______ you asked for.' cần một đại từ quan hệ để nối 'the attached agenda of yesterday's seminar' với mệnh đề 'you asked for.' Đại từ quan hệ đúng để dùng khi nói về vật (agenda) là 'that.'<br><ul><li><b>then</b> (trạng từ): 'Then' là trạng từ chỉ thời gian, nghĩa là 'lúc đó.' Không thể dùng làm đại từ quan hệ để nối các mệnh đề.</li><li><b>that</b> (đại từ quan hệ): 'That' là đại từ quan hệ dùng để chỉ vật hoặc người trong mệnh đề quan hệ xác định. Ở đây, nó thay thế cho 'the agenda.'</li><li><b>what</b> (đại từ): 'What' dùng với nghĩa 'cái mà,' nhưng không thể dùng làm đại từ quan hệ sau một danh từ.</li><li><b>when</b> (trạng từ quan hệ): 'When' là trạng từ quan hệ dùng để chỉ thời gian, nhưng không phù hợp ở đây vì 'agenda' không phải là thời gian.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ xác định: Dùng 'that' để thay thế cho vật hoặc người sau danh từ. Cấu trúc: danh từ + that + mệnh đề.<br><br><b>Tạm dịch:</b> Vui lòng tham khảo chương trình nghị sự đính kèm của hội thảo ngày hôm qua mà bạn đã yêu cầu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Please refer to the attached agenda of yesterday's seminar ______ you asked for.' requires a relative pronoun to connect 'the attached agenda of yesterday's seminar' with the clause 'you asked for.' The correct relative pronoun to use when referring to a thing (the agenda) is 'that.'<br><ul><li><b>then</b> (adverb): 'Then' is an adverb of time, meaning 'at that time.' It cannot be used as a relative pronoun to connect clauses.</li><li><b>that</b> (relative pronoun): 'That' is a relative pronoun used to refer to things or people in defining relative clauses. Here, it refers to 'the agenda.'</li><li><b>what</b> (pronoun): 'What' is used to mean 'the thing(s) that,' but it cannot be used as a relative pronoun after a noun.</li><li><b>when</b> (relative adverb): 'When' is a relative adverb used to refer to time, but it is not suitable here because 'agenda' is not a time.</li></ul><b>Related structure or vocabulary:</b> Defining relative clauses: Use 'that' to refer to things or people after a noun. Structure: noun + that + clause.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001413",
+        "questionNumber": 2,
+        "questionText": "We would like to welcome Dr.Zhang, _______ made such an excellent contribution by opening a branch office in Africa.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that",
+            "raw": "A. that",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "which",
+            "raw": "B. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "when",
+            "raw": "C. when",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "who",
+            "raw": "D. who",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to refer to 'Dr. Zhang', who is a person. In English, the correct relative pronoun for people is 'who'. The sentence is: 'We would like to welcome Dr. Zhang, who made such an excellent contribution by opening a branch office in Africa.'<br><ul><li><b>that</b> (relative pronoun): 'That' is a relative pronoun, but it is generally used for things or sometimes for people in restrictive clauses, not after a comma in non-restrictive clauses.</li><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things, not people.</li><li><b>when</b> (relative adverb): 'When' is a relative adverb used for time, not for people.</li><li><b>who</b> (relative pronoun): 'Who' is a relative pronoun used for people, especially in non-restrictive clauses after a comma.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things), that (for things or people in restrictive clauses), when (for time). Non-restrictive relative clauses use 'who' for people after a comma.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ để thay thế cho 'Dr. Zhang', là một người. Trong tiếng Anh, đại từ quan hệ đúng để chỉ người là 'who'. Câu hoàn chỉnh sẽ là: 'We would like to welcome Dr. Zhang, who made such an excellent contribution by opening a branch office in Africa.'<br><ul><li><b>that</b> (đại từ quan hệ): 'That' là đại từ quan hệ, nhưng thường dùng cho vật hoặc đôi khi cho người trong mệnh đề xác định (restrictive clause), không dùng sau dấu phẩy trong mệnh đề không xác định (non-restrictive clause).</li><li><b>which</b> (đại từ quan hệ): 'Which' là đại từ quan hệ dùng cho vật, không dùng cho người.</li><li><b>when</b> (trạng từ quan hệ): 'When' là trạng từ quan hệ dùng cho thời gian, không dùng cho người.</li><li><b>who</b> (đại từ quan hệ): 'Who' là đại từ quan hệ dùng cho người, đặc biệt trong mệnh đề không xác định (non-restrictive clause) sau dấu phẩy.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ: who (cho người), which (cho vật), that (cho vật hoặc người trong mệnh đề xác định), when (cho thời gian). Mệnh đề quan hệ không xác định dùng 'who' cho người sau dấu phẩy.<br><br><b>Tạm dịch:</b> Chúng tôi muốn chào đón Tiến sĩ Zhang, người đã có đóng góp xuất sắc bằng việc mở một văn phòng chi nhánh tại Châu Phi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to refer to 'Dr. Zhang', who is a person. In English, the correct relative pronoun for people is 'who'. The sentence is: 'We would like to welcome Dr. Zhang, who made such an excellent contribution by opening a branch office in Africa.'<br><ul><li><b>that</b> (relative pronoun): 'That' is a relative pronoun, but it is generally used for things or sometimes for people in restrictive clauses, not after a comma in non-restrictive clauses.</li><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things, not people.</li><li><b>when</b> (relative adverb): 'When' is a relative adverb used for time, not for people.</li><li><b>who</b> (relative pronoun): 'Who' is a relative pronoun used for people, especially in non-restrictive clauses after a comma.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things), that (for things or people in restrictive clauses), when (for time). Non-restrictive relative clauses use 'who' for people after a comma.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001414",
+        "questionNumber": 3,
+        "questionText": "Our overseas staff is required to speak Spanish, ____is essential to doing businesses in Latin America.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "which",
+            "raw": "A. which",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "whose",
+            "raw": "B. whose",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "who",
+            "raw": "C. who",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "that",
+            "raw": "D. that",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We need &quot;which&quot; to replace for the clause before comma</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng ta cần một đại từ quan hệ thay thế cho mệnh đề trước dấu phẩy</p>\n\n<p><strong>=&gt; Chọn A</strong></p>\n\n<p><strong>Tạm dịch:&nbsp;</strong>Nh&acirc;n vi&ecirc;n ở nước ngo&agrave;i của ch&uacute;ng t&ocirc;i được y&ecirc;u cầu n&oacute;i tiếng T&acirc;y Ban Nha, c&aacute;i m&agrave; cần thiết để kinh doanh ở Mỹ Latinh.</p>\n",
+        "transcriptHtml": "<p>We need &quot;which&quot; to replace for the clause before comma</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001415",
+        "questionNumber": 4,
+        "questionText": "In order to stay competitive in the global market, we should know _______ our customers need.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "that",
+            "raw": "A. that",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "when",
+            "raw": "B. when",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "which",
+            "raw": "C. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "what",
+            "raw": "D. what",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'In order to stay competitive in the global market, we should know _______ our customers need.' requires a word that introduces a noun clause, which acts as the object of the verb 'know.' The correct word to use here is 'what,' because 'what our customers need' is a noun clause meaning 'the things that our customers need.'<br><ul><li><b>that</b> (conjunction): 'That' is used to introduce a noun clause, but it cannot be used when the clause itself is the object of 'know' and contains a question word like 'what.'</li><li><b>when</b> (adverb/conjunction): 'When' is used to refer to time, but the sentence is asking about the things or needs of customers, not the time.</li><li><b>which</b> (pronoun): 'Which' is used to refer to a specific choice among a known set, but here we are talking about needs in general, not choosing from a list.</li><li><b>what</b> (pronoun): 'What' is used to refer to things or information that is not specified. 'What our customers need' means 'the things that our customers need.'</li></ul><b>Related structure or vocabulary:</b> Noun clauses as objects: know + what/where/when/how + subject + verb. Example: We should know what our customers want.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'In order to stay competitive in the global market, we should know _______ our customers need.' cần một từ để mở đầu mệnh đề danh từ, đóng vai trò là tân ngữ của động từ 'know.' Từ đúng ở đây là 'what,' vì 'what our customers need' là mệnh đề danh từ mang nghĩa 'những gì khách hàng của chúng ta cần.'<br><ul><li><b>that</b> (liên từ): 'That' dùng để mở đầu mệnh đề danh từ, nhưng không dùng khi mệnh đề đó là tân ngữ của 'know' và chứa từ để hỏi như 'what.'</li><li><b>when</b> (trạng từ/liên từ): 'When' dùng để chỉ thời gian, nhưng câu này hỏi về những thứ khách hàng cần, không phải thời gian.</li><li><b>which</b> (đại từ): 'Which' dùng để chỉ một lựa chọn cụ thể trong một tập hợp đã biết, nhưng ở đây chúng ta nói về nhu cầu nói chung, không phải chọn từ một danh sách.</li><li><b>what</b> (đại từ): 'What' dùng để chỉ những thứ hoặc thông tin chưa xác định. 'What our customers need' nghĩa là 'những gì khách hàng của chúng ta cần.'</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề danh từ làm tân ngữ: know + what/where/when/how + chủ ngữ + động từ. Ví dụ: We should know what our customers want.<br><br><b>Tạm dịch:</b> Để duy trì tính cạnh tranh trên thị trường toàn cầu, chúng ta nên biết những gì khách hàng của mình cần.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'In order to stay competitive in the global market, we should know _______ our customers need.' requires a word that introduces a noun clause, which acts as the object of the verb 'know.' The correct word to use here is 'what,' because 'what our customers need' is a noun clause meaning 'the things that our customers need.'<br><ul><li><b>that</b> (conjunction): 'That' is used to introduce a noun clause, but it cannot be used when the clause itself is the object of 'know' and contains a question word like 'what.'</li><li><b>when</b> (adverb/conjunction): 'When' is used to refer to time, but the sentence is asking about the things or needs of customers, not the time.</li><li><b>which</b> (pronoun): 'Which' is used to refer to a specific choice among a known set, but here we are talking about needs in general, not choosing from a list.</li><li><b>what</b> (pronoun): 'What' is used to refer to things or information that is not specified. 'What our customers need' means 'the things that our customers need.'</li></ul><b>Related structure or vocabulary:</b> Noun clauses as objects: know + what/where/when/how + subject + verb. Example: We should know what our customers want.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001416",
+        "questionNumber": 5,
+        "questionText": "The training session is for programmers _______ jobs involve entering computer codes and data.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "who",
+            "raw": "A. who",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "whom",
+            "raw": "B. whom",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "whose",
+            "raw": "C. whose",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "that",
+            "raw": "D. that",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a relative pronoun to connect 'programmers' with the clause 'jobs involve entering computer codes and data.' The clause describes something that belongs to the programmers (their jobs). In English, 'whose' is the possessive relative pronoun used to show ownership or relationship between a person and something they possess.<br><ul><li><b>who</b> (relative pronoun): Used as a relative pronoun for people, but it refers to the subject, not possession.</li><li><b>whom</b> (relative pronoun): Used as a relative pronoun for people, but it refers to the object, not possession.</li><li><b>whose</b> (possessive relative pronoun): Possessive relative pronoun, used to show that something belongs to someone.</li><li><b>that</b> (relative pronoun): Relative pronoun for people or things, but not used to show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive relative pronoun: 'whose' is used to indicate possession or relationship. Structure: noun + whose + noun + verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một đại từ quan hệ để nối 'programmers' với mệnh đề 'jobs involve entering computer codes and data.' Mệnh đề này mô tả một điều gì đó thuộc về các lập trình viên (công việc của họ). Trong tiếng Anh, 'whose' là đại từ quan hệ sở hữu dùng để chỉ sự sở hữu hoặc mối quan hệ giữa người và vật mà họ sở hữu.<br><ul><li><b>who</b> (đại từ quan hệ): 'Who' là đại từ quan hệ dùng cho người, nhưng chỉ làm chủ ngữ, không chỉ sự sở hữu.</li><li><b>whom</b> (đại từ quan hệ): 'Whom' là đại từ quan hệ dùng cho người, nhưng chỉ làm tân ngữ, không chỉ sự sở hữu.</li><li><b>whose</b> (đại từ quan hệ sở hữu): 'Whose' là đại từ quan hệ sở hữu, dùng để chỉ sự sở hữu hoặc mối quan hệ.</li><li><b>that</b> (đại từ quan hệ): 'That' là đại từ quan hệ dùng cho người hoặc vật, nhưng không dùng để chỉ sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ sở hữu: 'whose' dùng để chỉ sự sở hữu hoặc mối quan hệ. Cấu trúc: danh từ + whose + danh từ + động từ.<br><br><b>Tạm dịch:</b> Buổi đào tạo dành cho các lập trình viên có công việc liên quan đến việc nhập mã máy tính và dữ liệu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a relative pronoun to connect 'programmers' with the clause 'jobs involve entering computer codes and data.' The clause describes something that belongs to the programmers (their jobs). In English, 'whose' is the possessive relative pronoun used to show ownership or relationship between a person and something they possess.<br><ul><li><b>who</b> (relative pronoun): Used as a relative pronoun for people, but it refers to the subject, not possession.</li><li><b>whom</b> (relative pronoun): Used as a relative pronoun for people, but it refers to the object, not possession.</li><li><b>whose</b> (possessive relative pronoun): Possessive relative pronoun, used to show that something belongs to someone.</li><li><b>that</b> (relative pronoun): Relative pronoun for people or things, but not used to show possession.</li></ul><b>Related structure or vocabulary:</b> Possessive relative pronoun: 'whose' is used to indicate possession or relationship. Structure: noun + whose + noun + verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001417",
+        "questionNumber": 6,
+        "questionText": "Most of the products and goods ________ are traded online are sold directly by the owner.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "they",
+            "raw": "A. they ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "those",
+            "raw": "B. those",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "that",
+            "raw": "C. that",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "these",
+            "raw": "D. these",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Most of the products and goods ________ are traded online are sold directly by the owner.' requires a relative pronoun to introduce a relative clause that describes 'products and goods.' In English, 'that' is commonly used as a relative pronoun to refer to things (not people) and is used to connect the noun to the relative clause 'are traded online.'<br><ul><li><b>they</b> (pronoun): 'They' is a subject pronoun and cannot be used to introduce a relative clause.</li><li><b>those</b> (demonstrative pronoun): 'Those' is a demonstrative pronoun, used to point to specific things, not to introduce a relative clause.</li><li><b>that</b> (relative pronoun): 'That' is a relative pronoun used to introduce a defining relative clause for things or animals.</li><li><b>these</b> (demonstrative pronoun): 'These' is a demonstrative pronoun, used for things that are near in distance or time, not for introducing relative clauses.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'that' is used as a relative pronoun to introduce a clause giving more information about a noun (in this case, 'products and goods').<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Most of the products and goods ________ are traded online are sold directly by the owner.' cần một đại từ quan hệ để nối với mệnh đề quan hệ mô tả cho 'products and goods'. Trong tiếng Anh, 'that' thường được dùng làm đại từ quan hệ cho vật (không phải người) và dùng để nối danh từ với mệnh đề quan hệ 'are traded online'.<br><ul><li><b>they</b> (đại từ nhân xưng): 'They' là đại từ nhân xưng, không dùng để mở đầu mệnh đề quan hệ.</li><li><b>those</b> (đại từ chỉ định): 'Those' là đại từ chỉ định, dùng để chỉ những vật cụ thể, không dùng để nối mệnh đề quan hệ.</li><li><b>that</b> (đại từ quan hệ): 'That' là đại từ quan hệ, dùng để mở đầu mệnh đề quan hệ xác định cho vật hoặc động vật.</li><li><b>these</b> (đại từ chỉ định): 'These' là đại từ chỉ định, dùng cho những vật ở gần về không gian hoặc thời gian, không dùng để nối mệnh đề quan hệ.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ: 'that' được dùng làm đại từ quan hệ để nối mệnh đề bổ sung thông tin cho danh từ (ở đây là 'products and goods').<br><br><b>Tạm dịch:</b> Hầu hết các sản phẩm và hàng hóa được giao dịch trực tuyến đều được bán trực tiếp bởi chủ sở hữu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Most of the products and goods ________ are traded online are sold directly by the owner.' requires a relative pronoun to introduce a relative clause that describes 'products and goods.' In English, 'that' is commonly used as a relative pronoun to refer to things (not people) and is used to connect the noun to the relative clause 'are traded online.'<br><ul><li><b>they</b> (pronoun): 'They' is a subject pronoun and cannot be used to introduce a relative clause.</li><li><b>those</b> (demonstrative pronoun): 'Those' is a demonstrative pronoun, used to point to specific things, not to introduce a relative clause.</li><li><b>that</b> (relative pronoun): 'That' is a relative pronoun used to introduce a defining relative clause for things or animals.</li><li><b>these</b> (demonstrative pronoun): 'These' is a demonstrative pronoun, used for things that are near in distance or time, not for introducing relative clauses.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'that' is used as a relative pronoun to introduce a clause giving more information about a noun (in this case, 'products and goods').<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001418",
+        "questionNumber": 7,
+        "questionText": "Recently the director released the list of engineers ________ have been nominated to lead the bridge project.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "which",
+            "raw": "A. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "what",
+            "raw": "B. what",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "who",
+            "raw": "C. who",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "they",
+            "raw": "D. they",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank needs a relative pronoun to refer to 'engineers' (people) and connect the clause 'have been nominated to lead the bridge project.' The correct relative pronoun for people is 'who.'<br><ul><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things or animals, not people.</li><li><b>what</b> (pronoun): 'What' is used to refer to things or information, not as a relative pronoun for people.</li><li><b>who</b> (relative pronoun): 'Who' is a relative pronoun used for people, which is correct in this context.</li><li><b>they</b> (subject pronoun): 'They' is a subject pronoun, not a relative pronoun, and cannot be used to connect clauses in this way.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things/animals), that (for people/things), whose (possessive).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống cần một đại từ quan hệ để thay thế cho 'engineers' (kỹ sư - chỉ người) và nối với mệnh đề 'have been nominated to lead the bridge project.' Đại từ quan hệ đúng dùng cho người là 'who.'<br><ul><li><b>which</b> (đại từ quan hệ): 'Which' là đại từ quan hệ dùng cho vật hoặc động vật, không dùng cho người.</li><li><b>what</b> (đại từ): 'What' dùng để chỉ vật hoặc thông tin, không phải đại từ quan hệ cho người.</li><li><b>who</b> (đại từ quan hệ): 'Who' là đại từ quan hệ dùng cho người, phù hợp với ngữ cảnh này.</li><li><b>they</b> (đại từ nhân xưng): 'They' là đại từ nhân xưng chủ ngữ, không phải đại từ quan hệ và không dùng để nối mệnh đề như trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ: who (cho người), which (cho vật/động vật), that (cho người/vật), whose (chỉ sở hữu).<br><br><b>Tạm dịch:</b> Gần đây, giám đốc đã công bố danh sách các kỹ sư, những người đã được đề cử để lãnh đạo dự án xây cầu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank needs a relative pronoun to refer to 'engineers' (people) and connect the clause 'have been nominated to lead the bridge project.' The correct relative pronoun for people is 'who.'<br><ul><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things or animals, not people.</li><li><b>what</b> (pronoun): 'What' is used to refer to things or information, not as a relative pronoun for people.</li><li><b>who</b> (relative pronoun): 'Who' is a relative pronoun used for people, which is correct in this context.</li><li><b>they</b> (subject pronoun): 'They' is a subject pronoun, not a relative pronoun, and cannot be used to connect clauses in this way.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things/animals), that (for people/things), whose (possessive).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001419",
+        "questionNumber": 8,
+        "questionText": "Dietary supplements ________ come from plants are generally known to be safe, but some may interfere with a wound's capacity to heal.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "whatever",
+            "raw": "A. whatever",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "what",
+            "raw": "B. what",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "whichever",
+            "raw": "C. whichever",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "which",
+            "raw": "D. which",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Dietary supplements ________ come from plants are generally known to be safe, but some may interfere with a wound's capacity to heal.' requires a relative pronoun to introduce a relative clause that gives more information about 'dietary supplements.' The correct relative pronoun to use when referring to things (not people) and providing additional information is 'which.'<br><ul><li><b>whatever</b> (pronoun/determiner): 'Whatever' is a pronoun or determiner meaning 'anything or everything that.' It is not used to introduce a relative clause.</li><li><b>what</b> (pronoun): 'What' is used as a pronoun to mean 'the thing(s) that,' but it does not function as a relative pronoun in this context.</li><li><b>whichever</b> (pronoun/determiner): 'Whichever' is a pronoun or determiner meaning 'any one that,' often used to show choice, not to introduce a defining or non-defining relative clause.</li><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used to refer to things and introduce relative clauses, providing more information about the noun before it.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'which' is used as a relative pronoun to refer to things and introduce additional information about a noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Dietary supplements ________ come from plants are generally known to be safe, but some may interfere with a wound's capacity to heal.' cần một đại từ quan hệ để giới thiệu mệnh đề quan hệ, bổ sung thông tin cho danh từ 'dietary supplements.' Đại từ quan hệ đúng để dùng khi nói về vật (không phải người) và cung cấp thêm thông tin là 'which.'<br><ul><li><b>whatever</b> (đại từ/từ xác định): 'Whatever' là đại từ hoặc từ xác định, nghĩa là 'bất cứ cái gì,' không dùng để giới thiệu mệnh đề quan hệ.</li><li><b>what</b> (đại từ): 'What' là đại từ, nghĩa là 'cái gì,' nhưng không dùng làm đại từ quan hệ trong trường hợp này.</li><li><b>whichever</b> (đại từ/từ xác định): 'Whichever' là đại từ hoặc từ xác định, nghĩa là 'bất cứ cái nào,' thường dùng để chỉ sự lựa chọn, không dùng để giới thiệu mệnh đề quan hệ xác định hoặc không xác định.</li><li><b>which</b> (đại từ quan hệ): 'Which' là đại từ quan hệ dùng để chỉ vật và giới thiệu mệnh đề quan hệ, bổ sung thông tin cho danh từ đứng trước.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ: 'which' được dùng làm đại từ quan hệ để chỉ vật và bổ sung thông tin cho danh từ.<br><br><b>Tạm dịch:</b> Các thực phẩm bổ sung có nguồn gốc từ thực vật nhìn chung được biết là an toàn, nhưng một số có thể ảnh hưởng đến khả năng lành vết thương.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Dietary supplements ________ come from plants are generally known to be safe, but some may interfere with a wound's capacity to heal.' requires a relative pronoun to introduce a relative clause that gives more information about 'dietary supplements.' The correct relative pronoun to use when referring to things (not people) and providing additional information is 'which.'<br><ul><li><b>whatever</b> (pronoun/determiner): 'Whatever' is a pronoun or determiner meaning 'anything or everything that.' It is not used to introduce a relative clause.</li><li><b>what</b> (pronoun): 'What' is used as a pronoun to mean 'the thing(s) that,' but it does not function as a relative pronoun in this context.</li><li><b>whichever</b> (pronoun/determiner): 'Whichever' is a pronoun or determiner meaning 'any one that,' often used to show choice, not to introduce a defining or non-defining relative clause.</li><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used to refer to things and introduce relative clauses, providing more information about the noun before it.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'which' is used as a relative pronoun to refer to things and introduce additional information about a noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b00141a",
+        "questionNumber": 9,
+        "questionText": "Any contract ________ is not signed by the members of the Board of Directors would have no legal power even though its terms may have already been executed.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "who",
+            "raw": "A. who",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "which",
+            "raw": "B. which",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "whom",
+            "raw": "C. whom",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "of which",
+            "raw": "D. of which",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to introduce a clause that describes 'any contract.' The clause 'is not signed by the members of the Board of Directors' gives additional information about the contract. In this context, 'which' is the correct relative pronoun to refer to 'contract' (a thing), and it is used as the subject of the relative clause.<br><ul><li><b>who</b> (relative pronoun): 'Who' is a relative pronoun used for people, not things. Since 'contract' is not a person, 'who' is incorrect.</li><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things or animals. Here, it refers to 'contract' and is the subject of the relative clause.</li><li><b>whom</b> (relative pronoun): 'Whom' is a relative pronoun used for people as the object of a verb or preposition. It cannot be used for things like 'contract.'</li><li><b>of which</b> (relative pronoun phrase): 'Of which' is a relative pronoun phrase used to show possession or relationship, but it is not suitable as the subject of the clause here.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things/animals), whom (object for people), of which (possessive for things). Relative clauses are used to give more information about a noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ để giới thiệu mệnh đề bổ nghĩa cho 'any contract.' Mệnh đề 'is not signed by the members of the Board of Directors' cung cấp thêm thông tin về hợp đồng. Trong trường hợp này, 'which' là đại từ quan hệ đúng để thay thế cho 'contract' (một vật), và nó đóng vai trò là chủ ngữ của mệnh đề quan hệ.<br><ul><li><b>who</b> (đại từ quan hệ): 'Who' là đại từ quan hệ dùng cho người, không dùng cho vật. Vì 'contract' không phải là người nên không dùng 'who.'</li><li><b>which</b> (đại từ quan hệ): 'Which' là đại từ quan hệ dùng cho vật hoặc động vật. Ở đây, nó thay thế cho 'contract' và làm chủ ngữ của mệnh đề quan hệ.</li><li><b>whom</b> (đại từ quan hệ): 'Whom' là đại từ quan hệ dùng cho người, đóng vai trò tân ngữ trong câu. Không dùng cho vật như 'contract.'</li><li><b>of which</b> (cụm đại từ quan hệ): 'Of which' là cụm đại từ quan hệ dùng để chỉ sự sở hữu hoặc mối quan hệ, nhưng không phù hợp làm chủ ngữ của mệnh đề ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ: who (cho người), which (cho vật/động vật), whom (tân ngữ cho người), of which (sở hữu cho vật). Mệnh đề quan hệ dùng để bổ sung thông tin cho danh từ.<br><br><b>Tạm dịch:</b> Bất kỳ hợp đồng nào không được các thành viên Hội đồng Quản trị ký thì sẽ không có hiệu lực pháp lý, mặc dù các điều khoản của nó có thể đã được thực hiện.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to introduce a clause that describes 'any contract.' The clause 'is not signed by the members of the Board of Directors' gives additional information about the contract. In this context, 'which' is the correct relative pronoun to refer to 'contract' (a thing), and it is used as the subject of the relative clause.<br><ul><li><b>who</b> (relative pronoun): 'Who' is a relative pronoun used for people, not things. Since 'contract' is not a person, 'who' is incorrect.</li><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things or animals. Here, it refers to 'contract' and is the subject of the relative clause.</li><li><b>whom</b> (relative pronoun): 'Whom' is a relative pronoun used for people as the object of a verb or preposition. It cannot be used for things like 'contract.'</li><li><b>of which</b> (relative pronoun phrase): 'Of which' is a relative pronoun phrase used to show possession or relationship, but it is not suitable as the subject of the clause here.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things/animals), whom (object for people), of which (possessive for things). Relative clauses are used to give more information about a noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b00141b",
+        "questionNumber": 10,
+        "questionText": "Gecko is an organization ________ mission is to provide financial relief to families left homeless natural disasters.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "which",
+            "raw": "A. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "whom",
+            "raw": "C. whom",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "whose",
+            "raw": "D. whose",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to connect 'Gecko is an organization' with the clause 'mission is to provide financial relief to families left homeless by natural disasters.' The word 'mission' is a noun showing possession (the mission of the organization), so we need a relative pronoun that indicates possession.<br><ul><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things or animals, but it cannot show possession.</li><li><b>that</b> (relative pronoun): 'That' is a relative pronoun used for people, animals, or things, but it cannot show possession.</li><li><b>whom</b> (relative pronoun): 'Whom' is a relative pronoun used for people as the object of a verb or preposition, not for possession.</li><li><b>whose</b> (relative pronoun): 'Whose' is a relative pronoun used to show possession for both people and things.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: 'whose' is used to indicate possession for both people and things. Structure: [Noun] + whose + [noun] + [verb]...<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ để nối 'Gecko is an organization' với mệnh đề 'mission is to provide financial relief to families left homeless by natural disasters.' Từ 'mission' là danh từ thể hiện sự sở hữu (nhiệm vụ của tổ chức), nên ta cần một đại từ quan hệ chỉ sự sở hữu.<br><ul><li><b>which</b> (đại từ quan hệ): 'Which' là đại từ quan hệ dùng cho vật hoặc động vật, nhưng không dùng để chỉ sự sở hữu.</li><li><b>that</b> (đại từ quan hệ): 'That' là đại từ quan hệ dùng cho người, vật hoặc động vật, nhưng không dùng để chỉ sự sở hữu.</li><li><b>whom</b> (đại từ quan hệ): 'Whom' là đại từ quan hệ dùng cho người, đóng vai trò tân ngữ, không dùng để chỉ sự sở hữu.</li><li><b>whose</b> (đại từ quan hệ): 'Whose' là đại từ quan hệ dùng để chỉ sự sở hữu cho cả người và vật.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ: 'whose' dùng để chỉ sự sở hữu cho cả người và vật. Cấu trúc: [Danh từ] + whose + [danh từ] + [động từ]...<br><br><b>Tạm dịch:</b> Gecko là một tổ chức mà nhiệm vụ của nó là cung cấp hỗ trợ tài chính cho các gia đình bị mất nhà cửa do thiên tai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to connect 'Gecko is an organization' with the clause 'mission is to provide financial relief to families left homeless by natural disasters.' The word 'mission' is a noun showing possession (the mission of the organization), so we need a relative pronoun that indicates possession.<br><ul><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things or animals, but it cannot show possession.</li><li><b>that</b> (relative pronoun): 'That' is a relative pronoun used for people, animals, or things, but it cannot show possession.</li><li><b>whom</b> (relative pronoun): 'Whom' is a relative pronoun used for people as the object of a verb or preposition, not for possession.</li><li><b>whose</b> (relative pronoun): 'Whose' is a relative pronoun used to show possession for both people and things.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: 'whose' is used to indicate possession for both people and things. Structure: [Noun] + whose + [noun] + [verb]...<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b00141c",
+        "questionNumber": 11,
+        "questionText": "Job candidates ________ are presently unemployed or are studying to obtain a degree must furnish this information on their application forms.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "who",
+            "raw": "A. who",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "which",
+            "raw": "B. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "whom",
+            "raw": "C. whom ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "whose",
+            "raw": "D. whose",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a relative pronoun to introduce the relative clause 'are presently unemployed or are studying to obtain a degree,' which describes 'job candidates.' Since 'job candidates' refers to people, the correct relative pronoun is 'who.'<br><ul><li><b>who</b> (relative pronoun): Used as a relative pronoun to refer to people.</li><li><b>which</b> (relative pronoun): Used as a relative pronoun to refer to things or animals, not people.</li><li><b>whom</b> (relative pronoun): Used as a relative pronoun for people, but only as an object, not as a subject.</li><li><b>whose</b> (relative pronoun): Used as a relative pronoun to show possession.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people, subject), whom (for people, object), which (for things), whose (possession)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một đại từ quan hệ để giới thiệu mệnh đề quan hệ 'are presently unemployed or are studying to obtain a degree', mô tả cho 'job candidates'. Vì 'job candidates' chỉ người nên đại từ quan hệ đúng là 'who'.<br><ul><li><b>who</b> (đại từ quan hệ): Dùng làm đại từ quan hệ chỉ người, làm chủ ngữ trong mệnh đề quan hệ.</li><li><b>which</b> (đại từ quan hệ): Dùng làm đại từ quan hệ chỉ vật hoặc động vật, không dùng cho người.</li><li><b>whom</b> (đại từ quan hệ): Dùng làm đại từ quan hệ chỉ người, nhưng chỉ làm tân ngữ trong mệnh đề quan hệ.</li><li><b>whose</b> (đại từ quan hệ): Dùng làm đại từ quan hệ chỉ sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ: who (chỉ người, làm chủ ngữ), whom (chỉ người, làm tân ngữ), which (chỉ vật), whose (chỉ sở hữu)<br><br><b>Tạm dịch:</b> Các ứng viên xin việc hiện đang thất nghiệp hoặc đang học để lấy bằng phải cung cấp thông tin này trong mẫu đơn của họ. --> 'who' là đại từ quan hệ chỉ người, dùng để nối mệnh đề mô tả cho 'job candidates'.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a relative pronoun to introduce the relative clause 'are presently unemployed or are studying to obtain a degree,' which describes 'job candidates.' Since 'job candidates' refers to people, the correct relative pronoun is 'who.'<br><ul><li><b>who</b> (relative pronoun): Used as a relative pronoun to refer to people.</li><li><b>which</b> (relative pronoun): Used as a relative pronoun to refer to things or animals, not people.</li><li><b>whom</b> (relative pronoun): Used as a relative pronoun for people, but only as an object, not as a subject.</li><li><b>whose</b> (relative pronoun): Used as a relative pronoun to show possession.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people, subject), whom (for people, object), which (for things), whose (possession)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b00141d",
+        "questionNumber": 12,
+        "questionText": "Electronic delivery methods such as e-mail and fax are the most common ways ________ which international communications are made these days.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to",
+            "raw": "A. to",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "for",
+            "raw": "B. for",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "by",
+            "raw": "C. by",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "of",
+            "raw": "D. of",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a preposition that correctly connects 'ways' and the relative clause 'which international communications are made these days.' The correct preposition is 'by,' as the phrase 'ways by which' means 'the methods through which' something happens. This is a common structure in English when talking about means or methods.<br><ul><li><b>to</b> (preposition): Usually used to indicate direction, purpose, or recipient, not suitable for connecting 'ways' and a relative clause.</li><li><b>for</b> (preposition): Indicates purpose or benefit, but 'ways for which' is not a standard phrase in English.</li><li><b>by</b> (preposition): Indicates the means or method by which something is done. 'Ways by which' is the correct phrase to express 'the methods through which.'</li><li><b>of</b> (preposition): Shows possession or relation, but 'ways of which' is not correct in this context.</li></ul><b>Related structure or vocabulary:</b> Structure: 'ways by which' = 'the methods through which'; Prepositions used with relative clauses to indicate means or method.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một giới từ phù hợp để nối 'ways' với mệnh đề quan hệ 'which international communications are made these days.' Giới từ đúng là 'by', vì cụm 'ways by which' có nghĩa là 'những phương pháp mà qua đó' điều gì đó được thực hiện. Đây là cấu trúc phổ biến trong tiếng Anh khi nói về phương tiện hoặc cách thức.<br><ul><li><b>to</b> (giới từ): Thường dùng để chỉ hướng, mục đích hoặc đối tượng nhận, không phù hợp để nối 'ways' với mệnh đề quan hệ.</li><li><b>for</b> (giới từ): Chỉ mục đích hoặc lợi ích, nhưng 'ways for which' không phải là cụm từ chuẩn trong tiếng Anh.</li><li><b>by</b> (giới từ): Chỉ phương tiện hoặc cách thức mà điều gì đó được thực hiện. 'Ways by which' là cụm từ đúng để diễn đạt 'những phương pháp mà qua đó'.</li><li><b>of</b> (giới từ): Chỉ sự sở hữu hoặc mối quan hệ, nhưng 'ways of which' không đúng trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: 'ways by which' = 'những phương pháp mà qua đó'; Giới từ dùng với mệnh đề quan hệ để chỉ phương tiện hoặc cách thức.<br><br><b>Tạm dịch:</b> Các phương thức chuyển phát điện tử như email và fax là những cách phổ biến nhất mà qua đó các liên lạc quốc tế được thực hiện ngày nay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a preposition that correctly connects 'ways' and the relative clause 'which international communications are made these days.' The correct preposition is 'by,' as the phrase 'ways by which' means 'the methods through which' something happens. This is a common structure in English when talking about means or methods.<br><ul><li><b>to</b> (preposition): Usually used to indicate direction, purpose, or recipient, not suitable for connecting 'ways' and a relative clause.</li><li><b>for</b> (preposition): Indicates purpose or benefit, but 'ways for which' is not a standard phrase in English.</li><li><b>by</b> (preposition): Indicates the means or method by which something is done. 'Ways by which' is the correct phrase to express 'the methods through which.'</li><li><b>of</b> (preposition): Shows possession or relation, but 'ways of which' is not correct in this context.</li></ul><b>Related structure or vocabulary:</b> Structure: 'ways by which' = 'the methods through which'; Prepositions used with relative clauses to indicate means or method.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b00141e",
+        "questionNumber": 13,
+        "questionText": "There were more than 100 graduate students in attendance at our internship fair, many of ________ had prior work experience.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "who",
+            "raw": "A. who",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "whom",
+            "raw": "B. whom",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "them",
+            "raw": "C. them",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "that",
+            "raw": "D. that",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to refer back to 'graduate students.' The phrase 'many of ________ had prior work experience' describes a subset of the graduate students. After 'many of,' we use the object form of the relative pronoun, which is 'whom.'<br><ul><li><b>who</b> (relative pronoun (subject)): 'Who' is a subject pronoun, used as the subject of a relative clause. It cannot be used after a preposition like 'of.'</li><li><b>whom</b> (relative pronoun (object)): 'Whom' is the object form of 'who,' used after prepositions or as the object of a verb. After 'many of,' we use 'whom.'</li><li><b>them</b> (object pronoun): 'Them' is an object pronoun, but it cannot be used to introduce a relative clause.</li><li><b>that</b> (relative pronoun): 'That' can be a relative pronoun, but it cannot be used after a preposition like 'of.'</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: 'who' (subject), 'whom' (object), 'that' (subject/object, but not after prepositions). Structure: 'many of whom' is a common phrase to introduce additional information about a group.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ để thay thế cho 'graduate students.' Cụm 'many of ________ had prior work experience' dùng để mô tả một phần trong số các sinh viên cao học. Sau 'many of,' ta cần dùng đại từ quan hệ ở dạng tân ngữ, đó là 'whom.'<br><ul><li><b>who</b> (đại từ quan hệ (chủ ngữ)): 'Who' là đại từ quan hệ chủ ngữ, dùng làm chủ ngữ trong mệnh đề quan hệ. Không dùng sau giới từ như 'of.'</li><li><b>whom</b> (đại từ quan hệ (tân ngữ)): 'Whom' là dạng tân ngữ của 'who,' dùng sau giới từ hoặc làm tân ngữ trong mệnh đề quan hệ. Sau 'many of,' ta dùng 'whom.'</li><li><b>them</b> (đại từ tân ngữ): 'Them' là đại từ tân ngữ, nhưng không dùng để bắt đầu mệnh đề quan hệ.</li><li><b>that</b> (đại từ quan hệ): 'That' có thể là đại từ quan hệ, nhưng không dùng sau giới từ như 'of.'</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ: 'who' (chủ ngữ), 'whom' (tân ngữ), 'that' (chủ ngữ/tân ngữ nhưng không dùng sau giới từ). Cấu trúc: 'many of whom' là cụm thường dùng để bổ sung thông tin về một nhóm người.<br><br><b>Tạm dịch:</b> Có hơn 100 sinh viên cao học tham dự hội chợ thực tập của chúng tôi, nhiều người trong số họ đã có kinh nghiệm làm việc trước đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to refer back to 'graduate students.' The phrase 'many of ________ had prior work experience' describes a subset of the graduate students. After 'many of,' we use the object form of the relative pronoun, which is 'whom.'<br><ul><li><b>who</b> (relative pronoun (subject)): 'Who' is a subject pronoun, used as the subject of a relative clause. It cannot be used after a preposition like 'of.'</li><li><b>whom</b> (relative pronoun (object)): 'Whom' is the object form of 'who,' used after prepositions or as the object of a verb. After 'many of,' we use 'whom.'</li><li><b>them</b> (object pronoun): 'Them' is an object pronoun, but it cannot be used to introduce a relative clause.</li><li><b>that</b> (relative pronoun): 'That' can be a relative pronoun, but it cannot be used after a preposition like 'of.'</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: 'who' (subject), 'whom' (object), 'that' (subject/object, but not after prepositions). Structure: 'many of whom' is a common phrase to introduce additional information about a group.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b00141f",
+        "questionNumber": 14,
+        "questionText": "Of the three applicants ________ for appointment to a managerial position, two have worked in an international setting.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "eligibility",
+            "raw": "A. eligibility ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "eligible",
+            "raw": "B. eligible",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "eligibling",
+            "raw": "C. eligibling",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "eligibleness",
+            "raw": "D. eligibleness",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Of the three applicants ________ for appointment to a managerial position, two have worked in an international setting.' requires an adjective to modify 'applicants.' The word should describe the applicants, specifying which ones are being referred to. The correct form is 'eligible,' which is an adjective meaning 'qualified or suitable.'<br><ul><li><b>eligibility</b> (noun): A noun meaning 'the state of being eligible.'</li><li><b>eligible</b> (adjective): An adjective meaning 'qualified or suitable to be chosen.'</li><li><b>eligibling</b> (incorrect form): Not a correct English word.</li><li><b>eligibleness</b> (noun): A rare noun form meaning 'the quality of being eligible,' but not commonly used.</li></ul><b>Related structure or vocabulary:</b> Adjective clause reduction: In the phrase 'applicants eligible for appointment,' 'eligible' acts as a reduced relative clause (applicants who are eligible for appointment).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Of the three applicants ________ for appointment to a managerial position, two have worked in an international setting.' cần một tính từ để bổ nghĩa cho danh từ 'applicants' (ứng viên). Từ cần điền phải mô tả các ứng viên, chỉ rõ những ai đang được nhắc đến. 'Eligible' là tính từ mang nghĩa 'đủ điều kiện, phù hợp,' phù hợp với ngữ cảnh.<br><ul><li><b>eligibility</b> (danh từ): Danh từ, nghĩa là 'sự đủ điều kiện.'</li><li><b>eligible</b> (tính từ): Tính từ, nghĩa là 'đủ điều kiện, phù hợp để được chọn.'</li><li><b>eligibling</b> (dạng sai): Không phải từ đúng trong tiếng Anh.</li><li><b>eligibleness</b> (danh từ): Danh từ, nghĩa là 'tính đủ điều kiện,' nhưng rất hiếm dùng.</li></ul><b>Cấu trúc và từ vựng:</b> Rút gọn mệnh đề quan hệ: Trong cụm 'applicants eligible for appointment,' 'eligible' đóng vai trò như một mệnh đề quan hệ rút gọn (applicants who are eligible for appointment).<br><br><b>Tạm dịch:</b> Trong số ba ứng viên đủ điều kiện để được bổ nhiệm vào vị trí quản lý, hai người đã từng làm việc trong môi trường quốc tế.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Of the three applicants ________ for appointment to a managerial position, two have worked in an international setting.' requires an adjective to modify 'applicants.' The word should describe the applicants, specifying which ones are being referred to. The correct form is 'eligible,' which is an adjective meaning 'qualified or suitable.'<br><ul><li><b>eligibility</b> (noun): A noun meaning 'the state of being eligible.'</li><li><b>eligible</b> (adjective): An adjective meaning 'qualified or suitable to be chosen.'</li><li><b>eligibling</b> (incorrect form): Not a correct English word.</li><li><b>eligibleness</b> (noun): A rare noun form meaning 'the quality of being eligible,' but not commonly used.</li></ul><b>Related structure or vocabulary:</b> Adjective clause reduction: In the phrase 'applicants eligible for appointment,' 'eligible' acts as a reduced relative clause (applicants who are eligible for appointment).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001420",
+        "questionNumber": 15,
+        "questionText": "Any person _________ would like to visit the exhibition must have a written statement of permission from administration.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "who",
+            "raw": "A. who",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "when",
+            "raw": "B. when",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "which",
+            "raw": "C. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "whose",
+            "raw": "D. whose",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to introduce a relative clause that describes 'any person'. The correct relative pronoun to refer to people is 'who'. The clause 'who would like to visit the exhibition' gives more information about 'any person'.<br><ul><li><b>who</b> (relative pronoun): Relative pronoun used to refer to people.</li><li><b>when</b> (relative adverb): Relative adverb used to refer to time.</li><li><b>which</b> (relative pronoun): Relative pronoun used to refer to things or animals.</li><li><b>whose</b> (relative pronoun): Relative pronoun used to show possession.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'who' is used for people, 'which' for things, 'when' for time, and 'whose' for possession.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ để giới thiệu mệnh đề quan hệ bổ nghĩa cho 'any person'. Đại từ quan hệ đúng để chỉ người là 'who'. Mệnh đề 'who would like to visit the exhibition' cung cấp thêm thông tin về 'any person'.<br><ul><li><b>who</b> (đại từ quan hệ): Đại từ quan hệ dùng để chỉ người.</li><li><b>when</b> (trạng từ quan hệ): Trạng từ quan hệ dùng để chỉ thời gian.</li><li><b>which</b> (đại từ quan hệ): Đại từ quan hệ dùng để chỉ vật hoặc động vật.</li><li><b>whose</b> (đại từ quan hệ): Đại từ quan hệ dùng để chỉ sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ: 'who' dùng cho người, 'which' dùng cho vật, 'when' dùng cho thời gian, 'whose' dùng để chỉ sở hữu.<br><br><b>Tạm dịch:</b> Bất kỳ ai muốn tham quan triển lãm đều phải có giấy phép bằng văn bản từ ban quản trị.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to introduce a relative clause that describes 'any person'. The correct relative pronoun to refer to people is 'who'. The clause 'who would like to visit the exhibition' gives more information about 'any person'.<br><ul><li><b>who</b> (relative pronoun): Relative pronoun used to refer to people.</li><li><b>when</b> (relative adverb): Relative adverb used to refer to time.</li><li><b>which</b> (relative pronoun): Relative pronoun used to refer to things or animals.</li><li><b>whose</b> (relative pronoun): Relative pronoun used to show possession.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'who' is used for people, 'which' for things, 'when' for time, and 'whose' for possession.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001421",
+        "questionNumber": 16,
+        "questionText": "The new shuttle service, _________ has been operating since last year, serves all of the city's main stopping points.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "who",
+            "raw": "A. who",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "which",
+            "raw": "B. which",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "whom",
+            "raw": "C. whom",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "where",
+            "raw": "D. where",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to introduce a relative clause that gives more information about 'the new shuttle service.' Since 'the new shuttle service' is a thing (not a person or place), the correct relative pronoun is 'which.' The clause 'which has been operating since last year' provides additional information about the shuttle service.<br><ul><li><b>who</b> (relative pronoun): 'Who' is a relative pronoun used for people, not things.</li><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things or animals, and is correct here because it refers to 'the new shuttle service.'</li><li><b>whom</b> (relative pronoun): 'Whom' is a relative pronoun used for people as the object of a verb or preposition.</li><li><b>where</b> (relative adverb): 'Where' is a relative adverb used for places, not things.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things/animals), whom (object for people), where (for places). Non-defining relative clauses are used to add extra information about a noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ để giới thiệu mệnh đề quan hệ, cung cấp thêm thông tin về 'the new shuttle service' (dịch vụ xe buýt mới). Vì 'the new shuttle service' là vật (không phải người hay nơi chốn), đại từ quan hệ đúng là 'which.' Mệnh đề 'which has been operating since last year' bổ sung thông tin về dịch vụ xe buýt này.<br><ul><li><b>who</b> (đại từ quan hệ): 'Who' là đại từ quan hệ dùng cho người, không dùng cho vật.</li><li><b>which</b> (đại từ quan hệ): 'Which' là đại từ quan hệ dùng cho vật hoặc động vật, phù hợp trong trường hợp này vì nó thay thế cho 'the new shuttle service.'</li><li><b>whom</b> (đại từ quan hệ): 'Whom' là đại từ quan hệ dùng cho người, đóng vai trò tân ngữ trong câu.</li><li><b>where</b> (trạng từ quan hệ): 'Where' là trạng từ quan hệ dùng cho nơi chốn, không dùng cho vật.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ: who (cho người), which (cho vật/động vật), whom (tân ngữ cho người), where (cho nơi chốn). Mệnh đề quan hệ không xác định dùng để bổ sung thông tin cho danh từ.<br><br><b>Tạm dịch:</b> Dịch vụ xe buýt mới, đã hoạt động từ năm ngoái, phục vụ tất cả các điểm dừng chính của thành phố.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to introduce a relative clause that gives more information about 'the new shuttle service.' Since 'the new shuttle service' is a thing (not a person or place), the correct relative pronoun is 'which.' The clause 'which has been operating since last year' provides additional information about the shuttle service.<br><ul><li><b>who</b> (relative pronoun): 'Who' is a relative pronoun used for people, not things.</li><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things or animals, and is correct here because it refers to 'the new shuttle service.'</li><li><b>whom</b> (relative pronoun): 'Whom' is a relative pronoun used for people as the object of a verb or preposition.</li><li><b>where</b> (relative adverb): 'Where' is a relative adverb used for places, not things.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things/animals), whom (object for people), where (for places). Non-defining relative clauses are used to add extra information about a noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001422",
+        "questionNumber": 17,
+        "questionText": "She applied to the company _____ she had previously worked when just out of university.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "which",
+            "raw": "A. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "when",
+            "raw": "B. when",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "of which",
+            "raw": "C. of which",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "where",
+            "raw": "D. where",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun or adverb to connect the clause 'she had previously worked' to 'the company.' The correct choice should indicate a place, as 'company' is a place where someone can work. The word 'where' is used to refer to a place in relative clauses, meaning 'at/in which.' Therefore, 'where' is the correct answer.<br><ul><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things, but it cannot be used alone to indicate a place where an action happens.</li><li><b>when</b> (relative adverb): 'When' is a relative adverb used for time, not for places.</li><li><b>of which</b> (relative pronoun phrase): 'Of which' is a formal relative pronoun phrase, usually used in non-defining relative clauses to show possession, not to indicate a place.</li><li><b>where</b> (relative adverb): 'Where' is a relative adverb used to refer to a place, meaning 'at/in which.' It is the correct choice here.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'where' is used to refer to a place in a sentence. Structure: 'the place where + S + V' means 'the place at/in which + S + V'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ hoặc trạng từ quan hệ để nối mệnh đề 'she had previously worked' với 'the company.' Đáp án đúng phải chỉ nơi chốn, vì 'company' là nơi mà ai đó có thể làm việc. Từ 'where' được dùng để chỉ nơi chốn trong mệnh đề quan hệ, mang nghĩa là 'nơi mà.' Vì vậy, đáp án đúng là 'where.'<br><ul><li><b>which</b> (đại từ quan hệ): 'Which' là đại từ quan hệ dùng cho vật, nhưng không dùng một mình để chỉ nơi chốn xảy ra hành động.</li><li><b>when</b> (trạng từ quan hệ): 'When' là trạng từ quan hệ dùng cho thời gian, không dùng cho nơi chốn.</li><li><b>of which</b> (cụm đại từ quan hệ): 'Of which' là cụm đại từ quan hệ trang trọng, thường dùng trong mệnh đề không xác định để chỉ sự sở hữu, không dùng để chỉ nơi chốn.</li><li><b>where</b> (trạng từ quan hệ): 'Where' là trạng từ quan hệ dùng để chỉ nơi chốn, mang nghĩa là 'nơi mà.' Đây là đáp án đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ: 'where' dùng để chỉ nơi chốn trong câu. Cấu trúc: 'the place where + S + V' = 'the place at/in which + S + V'.<br><br><b>Tạm dịch:</b> Cô ấy đã nộp đơn vào công ty nơi mà cô ấy từng làm việc khi vừa mới ra trường.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun or adverb to connect the clause 'she had previously worked' to 'the company.' The correct choice should indicate a place, as 'company' is a place where someone can work. The word 'where' is used to refer to a place in relative clauses, meaning 'at/in which.' Therefore, 'where' is the correct answer.<br><ul><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used for things, but it cannot be used alone to indicate a place where an action happens.</li><li><b>when</b> (relative adverb): 'When' is a relative adverb used for time, not for places.</li><li><b>of which</b> (relative pronoun phrase): 'Of which' is a formal relative pronoun phrase, usually used in non-defining relative clauses to show possession, not to indicate a place.</li><li><b>where</b> (relative adverb): 'Where' is a relative adverb used to refer to a place, meaning 'at/in which.' It is the correct choice here.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'where' is used to refer to a place in a sentence. Structure: 'the place where + S + V' means 'the place at/in which + S + V'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001423",
+        "questionNumber": 18,
+        "questionText": "A dinner will take place next Friday to honor Richard Perkins, _________ has been a great asset to this bank tor over thirty years.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "who",
+            "raw": "A. who",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "which",
+            "raw": "B. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "whose",
+            "raw": "C. whose",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "of which",
+            "raw": "D. of which",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to refer to 'Richard Perkins,' who is a person. The correct relative pronoun for people is 'who.' The sentence is: 'A dinner will take place next Friday to honor Richard Perkins, who has been a great asset to this bank for over thirty years.'<br><ul><li><b>who</b> (pronoun): Relative pronoun used for people, as the subject of a relative clause.</li><li><b>which</b> (pronoun): Relative pronoun used for things or animals, not for people.</li><li><b>whose</b> (pronoun): Relative pronoun showing possession, used for people or things.</li><li><b>of which</b> (phrase): A formal relative phrase used to indicate possession for things, not for people.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things/animals), whose (possessive), of which (formal possessive for things).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một đại từ quan hệ để nói về 'Richard Perkins', là một người. Đại từ quan hệ đúng dùng cho người là 'who'. Câu hoàn chỉnh sẽ là: 'A dinner will take place next Friday to honor Richard Perkins, who has been a great asset to this bank for over thirty years.'<br><ul><li><b>who</b> (đại từ): Đại từ quan hệ dùng cho người, làm chủ ngữ trong mệnh đề quan hệ.</li><li><b>which</b> (đại từ): Đại từ quan hệ dùng cho vật hoặc động vật, không dùng cho người.</li><li><b>whose</b> (đại từ): Đại từ quan hệ chỉ sở hữu, dùng cho cả người và vật.</li><li><b>of which</b> (cụm từ): Cụm từ quan hệ trang trọng, chỉ sở hữu cho vật, không dùng cho người.</li></ul><b>Cấu trúc và từ vựng:</b> Đại từ quan hệ: who (cho người), which (cho vật/động vật), whose (chỉ sở hữu), of which (chỉ sở hữu cho vật, trang trọng).<br><br><b>Tạm dịch:</b> Một bữa tối sẽ được tổ chức vào thứ Sáu tới để vinh danh Richard Perkins, người đã là một tài sản lớn của ngân hàng này trong hơn ba mươi năm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a relative pronoun to refer to 'Richard Perkins,' who is a person. The correct relative pronoun for people is 'who.' The sentence is: 'A dinner will take place next Friday to honor Richard Perkins, who has been a great asset to this bank for over thirty years.'<br><ul><li><b>who</b> (pronoun): Relative pronoun used for people, as the subject of a relative clause.</li><li><b>which</b> (pronoun): Relative pronoun used for things or animals, not for people.</li><li><b>whose</b> (pronoun): Relative pronoun showing possession, used for people or things.</li><li><b>of which</b> (phrase): A formal relative phrase used to indicate possession for things, not for people.</li></ul><b>Related structure or vocabulary:</b> Relative pronouns: who (for people), which (for things/animals), whose (possessive), of which (formal possessive for things).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001424",
+        "questionNumber": 19,
+        "questionText": "When the director asked _________ responsibility the project was, he was told that it was the CEO’s.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "who",
+            "raw": "A. who",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "which",
+            "raw": "B. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "whose",
+            "raw": "C. whose",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "that",
+            "raw": "D. that",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'When the director asked _________ responsibility the project was, he was told that it was the CEO’s.' requires a word that can indicate possession of 'responsibility.' In English, to ask about the owner of something, we use the word 'whose.' The structure 'whose + noun' is used to ask about possession. Therefore, the correct answer is 'whose.'<br><ul><li><b>who</b> (pronoun): 'Who' is used to ask about a person (subject or object), not possession.</li><li><b>which</b> (pronoun): 'Which' is used to ask about choices among a limited set, not about possession.</li><li><b>whose</b> (possessive pronoun): 'Whose' is used to ask about possession, meaning 'belonging to whom.'</li><li><b>that</b> (pronoun/conjunction): 'That' is a demonstrative pronoun or conjunction, not used to ask about possession.</li></ul><b>Related structure or vocabulary:</b> Whose + noun: used to ask about possession (e.g., Whose book is this?)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'When the director asked _________ responsibility the project was, he was told that it was the CEO’s.' cần một từ để hỏi về sự sở hữu của 'responsibility.' Trong tiếng Anh, để hỏi về chủ sở hữu của một vật gì đó, ta dùng từ 'whose.' Cấu trúc 'whose + danh từ' được sử dụng để hỏi về sự sở hữu. Vì vậy, đáp án đúng là 'whose.'<br><ul><li><b>who</b> (đại từ): 'Who' dùng để hỏi về người (chủ ngữ hoặc tân ngữ), không dùng để hỏi về sự sở hữu.</li><li><b>which</b> (đại từ): 'Which' dùng để hỏi về lựa chọn trong một nhóm giới hạn, không dùng để hỏi về sự sở hữu.</li><li><b>whose</b> (đại từ sở hữu): 'Whose' dùng để hỏi về sự sở hữu, nghĩa là 'của ai.'</li><li><b>that</b> (đại từ/liên từ): 'That' là đại từ chỉ định hoặc liên từ, không dùng để hỏi về sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Whose + danh từ: dùng để hỏi về sự sở hữu (ví dụ: Whose book is this? – Quyển sách này của ai?)<br><br><b>Tạm dịch:</b> Khi giám đốc hỏi trách nhiệm dự án này là của ai, ông ấy được cho biết đó là của CEO.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'When the director asked _________ responsibility the project was, he was told that it was the CEO’s.' requires a word that can indicate possession of 'responsibility.' In English, to ask about the owner of something, we use the word 'whose.' The structure 'whose + noun' is used to ask about possession. Therefore, the correct answer is 'whose.'<br><ul><li><b>who</b> (pronoun): 'Who' is used to ask about a person (subject or object), not possession.</li><li><b>which</b> (pronoun): 'Which' is used to ask about choices among a limited set, not about possession.</li><li><b>whose</b> (possessive pronoun): 'Whose' is used to ask about possession, meaning 'belonging to whom.'</li><li><b>that</b> (pronoun/conjunction): 'That' is a demonstrative pronoun or conjunction, not used to ask about possession.</li></ul><b>Related structure or vocabulary:</b> Whose + noun: used to ask about possession (e.g., Whose book is this?)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204c29fd1bfab7a5b001425",
+        "questionNumber": 20,
+        "questionText": "The director developed a list of criteria for development, _________ he feels will boost the company's prestige.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "which",
+            "raw": "A. which",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "that",
+            "raw": "B. that",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "what",
+            "raw": "C. what",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "who",
+            "raw": "D. who",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a relative pronoun to introduce the clause 'he feels will boost the company's prestige,' which gives more information about 'criteria.' In this context, 'criteria' refers to things (not people), and the clause is a non-defining relative clause (it adds extra information, separated by commas). The correct relative pronoun for things in non-defining clauses is 'which.'<br><ul><li><b>which</b> (relative pronoun): Relative pronoun used for things in non-defining relative clauses (with commas).</li><li><b>that</b> (relative pronoun): Relative pronoun used for things in defining relative clauses (no commas). Not used in non-defining clauses.</li><li><b>what</b> (pronoun): Used to mean 'the thing(s) that.' Not used as a relative pronoun after a noun.</li><li><b>who</b> (relative pronoun): Relative pronoun used for people, not things.</li></ul><b>Related structure or vocabulary:</b> Non-defining relative clauses: Use 'which' for things, 'who' for people. These clauses are separated by commas and add extra information.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một đại từ quan hệ để giới thiệu mệnh đề 'he feels will boost the company's prestige', bổ sung thông tin cho 'criteria'. Ở đây, 'criteria' là danh từ chỉ vật (không phải người), và mệnh đề này là mệnh đề quan hệ không xác định (bổ sung thông tin, được ngăn cách bằng dấu phẩy). Đại từ quan hệ đúng dùng cho vật trong mệnh đề không xác định là 'which'.<br><ul><li><b>which</b> (đại từ quan hệ): Đại từ quan hệ dùng cho vật trong mệnh đề quan hệ không xác định (có dấu phẩy).</li><li><b>that</b> (đại từ quan hệ): Đại từ quan hệ dùng cho vật trong mệnh đề quan hệ xác định (không có dấu phẩy). Không dùng trong mệnh đề không xác định.</li><li><b>what</b> (đại từ): Dùng với nghĩa 'điều gì/những gì'. Không dùng làm đại từ quan hệ sau danh từ.</li><li><b>who</b> (đại từ quan hệ): Đại từ quan hệ dùng cho người, không dùng cho vật.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ không xác định: Dùng 'which' cho vật, 'who' cho người. Các mệnh đề này được ngăn cách bằng dấu phẩy và bổ sung thông tin.<br><br><b>Tạm dịch:</b> Giám đốc đã xây dựng một danh sách các tiêu chí phát triển, điều mà ông ấy cảm thấy sẽ nâng cao uy tín của công ty.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a relative pronoun to introduce the clause 'he feels will boost the company's prestige,' which gives more information about 'criteria.' In this context, 'criteria' refers to things (not people), and the clause is a non-defining relative clause (it adds extra information, separated by commas). The correct relative pronoun for things in non-defining clauses is 'which.'<br><ul><li><b>which</b> (relative pronoun): Relative pronoun used for things in non-defining relative clauses (with commas).</li><li><b>that</b> (relative pronoun): Relative pronoun used for things in defining relative clauses (no commas). Not used in non-defining clauses.</li><li><b>what</b> (pronoun): Used to mean 'the thing(s) that.' Not used as a relative pronoun after a noun.</li><li><b>who</b> (relative pronoun): Relative pronoun used for people, not things.</li></ul><b>Related structure or vocabulary:</b> Non-defining relative clauses: Use 'which' for things, 'who' for people. These clauses are separated by commas and add extra information.<br><br>"
+      }
+    }
+  ]
+}

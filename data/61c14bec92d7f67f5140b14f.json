@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b14f",
+  "title": "Từ vựng: General Travel",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2dc",
+        "questionNumber": 1,
+        "questionText": "agency",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev421.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/agent.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n establishment engaged in doing business",
+            "raw": "an establishment engaged in doing business",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Once we decided we wanted to go to Costa Rica for vacation, we called the travel <strong>agency </strong>to see how much flights would cost.</p>\n",
+        "explanationViHtml": "<p>Khi ch&uacute;ng t&ocirc;i quyết định đi nghỉ ở Costa Rica, ch&uacute;ng t&ocirc;i đ&atilde; gọi đến <b>đại l&yacute;&nbsp;</b>du lịch để hỏi gi&aacute; v&eacute; m&aacute;y bay.</p>\n",
+        "transcriptHtml": "<p>Once we decided we wanted to go to Costa Rica for vacation, we called the travel <strong>agency </strong>to see how much flights would cost.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2dd",
+        "questionNumber": 2,
+        "questionText": "announcement",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev422.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/announcement.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "public notification",
+            "raw": "a public notification",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Did you hear an <strong>announcement</strong> about our new departure time?</p>\n",
+        "explanationViHtml": "<p>Bạn c&oacute; nghe <strong>th&ocirc;ng b&aacute;o</strong> về giờ khởi h&agrave;nh mới của ch&uacute;ng t&ocirc;i kh&ocirc;ng?</p>\n",
+        "transcriptHtml": "<p>Did you hear an <strong>announcement</strong> about our new departure time?</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2de",
+        "questionNumber": 3,
+        "questionText": "beverage",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev423.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/beverage.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "drink other than plain water",
+            "raw": "a drink other than plain water",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The flight attendant altered all passengers a cold <strong>beverage </strong>during the flight.</p>\n",
+        "explanationViHtml": "<p>Tiếp vi&ecirc;n h&agrave;ng kh&ocirc;ng đ&atilde; phục vụ <strong>đồ uống</strong> lạnh cho tất cả h&agrave;nh kh&aacute;ch trong suốt chuyến bay.</p>\n",
+        "transcriptHtml": "<p>The flight attendant altered all passengers a cold <strong>beverage </strong>during the flight.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2df",
+        "questionNumber": 4,
+        "questionText": "blanket",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev424.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/blanket.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "covering for keeping warm, especially during sleep; any full coverage; to cover uniformly",
+            "raw": "a covering for keeping warm, especially during sleep; any full coverage; to cover uniformly",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>It&#39;s going to be a cold night so I&rsquo;ll ask housekeeping to send an extra <strong>blanket </strong>for our bed.</p>\n",
+        "explanationViHtml": "<p>Đ&ecirc;m nay trời lạnh n&ecirc;n t&ocirc;i sẽ y&ecirc;u cầu nh&acirc;n vi&ecirc;n dọn ph&ograve;ng gửi th&ecirc;m một <strong>chiếc chăn</strong> để đắp tr&ecirc;n giường.</p>\n",
+        "transcriptHtml": "<p>It&#39;s going to be a cold night so I&rsquo;ll ask housekeeping to send an extra <strong>blanket </strong>for our bed.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2e0",
+        "questionNumber": 5,
+        "questionText": "board",
+        "imageUrl": "https://storage.googleapis.com/estudyme/dev/2025/11/04/23375181.webp",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/board.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to furnish with meals and a place to stay",
+            "raw": "to furnish with meals and a place to stay",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The inn offers room and <strong>board </strong>at weekly rates.</p>\n",
+        "explanationViHtml": "<p>Nh&agrave; trọ cung cấp ph&ograve;ng nghỉ v&agrave;<strong> ăn uống</strong> theo gi&aacute; tuần.</p>\n",
+        "transcriptHtml": "<p>The inn offers room and <strong>board </strong>at weekly rates.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2e1",
+        "questionNumber": 6,
+        "questionText": "claim",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev426.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/claim.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to take as rightful; to retrieve",
+            "raw": "to take as rightful; to retrieve",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Please proceed directly to the baggage arrival area to <strong>claim </strong>your luggage.</p>\n",
+        "explanationViHtml": "<p>Vui l&ograve;ng đi thẳng đến khu vực nhận h&agrave;nh l&yacute; để <strong>nhận </strong>h&agrave;nh l&yacute;.</p>\n",
+        "transcriptHtml": "<p>Please proceed directly to the baggage arrival area to <strong>claim </strong>your luggage.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2e2",
+        "questionNumber": 7,
+        "questionText": "delay",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev427.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/delay.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to postpone until a later time; n., the period of time during which one is delayed",
+            "raw": "to postpone until a later time; n., the period of time during which one is delayed",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The bus was <strong>delayed </strong>due to inclement weather.</p>\n",
+        "explanationViHtml": "<p>Xe bu&yacute;t bị <strong>tr&igrave; ho&atilde;n</strong> do thời tiết khắc xấu.</p>\n",
+        "transcriptHtml": "<p>The bus was <strong>delayed </strong>due to inclement weather.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2e3",
+        "questionNumber": 8,
+        "questionText": "depart",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev428.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/depart.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to go away or leave; to vary from a regular course of action.",
+            "raw": "to go away or leave; to vary from a regular course of action.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>After the wedding, the married couple <strong>departed </strong>for their honeymoon in Morocco.</p>\n",
+        "explanationViHtml": "<p>Sau đ&aacute;m cưới, cặp đ&ocirc;i đ&atilde;<strong> l&ecirc;n đường </strong>đi hưởng tuần trăng mật ở Maroc.</p>\n",
+        "transcriptHtml": "<p>After the wedding, the married couple <strong>departed </strong>for their honeymoon in Morocco.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2e4",
+        "questionNumber": 9,
+        "questionText": "embarkation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev429.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/embarkation.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the process of getting on a plane or ship",
+            "raw": "the process of getting on a plane or ship",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p><strong>Embarkation </strong>will be at 14:20 hours.</p>\n",
+        "explanationViHtml": "<p><strong>T&agrave;u sẽ l&ecirc;n đường </strong>v&agrave;o l&uacute;c 14:20.</p>\n",
+        "transcriptHtml": "<p><strong>Embarkation </strong>will be at 14:20 hours.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2e5",
+        "questionNumber": 10,
+        "questionText": "itinerary",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev430.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/itinerary.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "proposed route for a journey, showing dates and means of travel",
+            "raw": "a proposed route for a journey, showing dates and means of travel",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>He reviewed the <strong>itinerary </strong>the travel agent had faxed him before purchasing the ticket.</p>\n",
+        "explanationViHtml": "<p>Anh ấy đ&atilde; xem lại <strong>h&agrave;nh tr&igrave;nh</strong> m&agrave; đại l&yacute; du lịch đ&atilde; gửi fax cho anh trước khi mua v&eacute;.</p>\n",
+        "transcriptHtml": "<p>He reviewed the <strong>itinerary </strong>the travel agent had faxed him before purchasing the ticket.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2e6",
+        "questionNumber": 11,
+        "questionText": "prohibit",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev431.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/prohibit.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to forbid by authority or to prevent",
+            "raw": "to forbid by authority or to prevent",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We were <strong>prohibited </strong>from wearing causal clothes in the office.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i bị <strong>cấm </strong>mặc quần &aacute;o thường ng&agrave;y khi đến văn ph&ograve;ng.</p>\n",
+        "transcriptHtml": "<p>We were <strong>prohibited </strong>from wearing causal clothes in the office.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2e7",
+        "questionNumber": 12,
+        "questionText": "valid",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev432.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/valid.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "having legal efficacy or correctness",
+            "raw": "having legal efficacy or correctness",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I need to make certain that my passport is <strong>valid </strong>if we plan to go overseas this December.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i cần chắc chắn rằng hộ chiếu của t&ocirc;i <strong>c&ograve;n hiệu lực</strong> nếu ch&uacute;ng t&ocirc;i c&oacute; kế hoạch ra nước ngo&agrave;i v&agrave;o th&aacute;ng 12 n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>I need to make certain that my passport is <strong>valid </strong>if we plan to go overseas this December.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b2dc",
+      "word": "agency",
+      "phonetic": "/ˈeɪ.dʒən.si/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev421.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/agent.mp3",
+      "meaningVi": "Khi ch&uacute;ng t&ocirc;i quyết định đi nghỉ ở Costa Rica, ",
+      "meaningEn": "an establishment engaged in doing business",
+      "exampleEnHtml": "<p>Once we decided we wanted to go to Costa Rica for vacation, we called the travel <strong>agency </strong>to see how much flights would cost.</p>\n",
+      "exampleViHtml": "<p>Khi ch&uacute;ng t&ocirc;i quyết định đi nghỉ ở Costa Rica, ch&uacute;ng t&ocirc;i đ&atilde; gọi đến <b>đại l&yacute;&nbsp;</b>du lịch để hỏi gi&aacute; v&eacute; m&aacute;y bay.</p>\n",
+      "exampleEn": "Once we decided we wanted to go to Costa Rica for vacation, we called the travel agency to see how much flights would cost.",
+      "exampleVi": "Khi chúng tôi quyết định đi nghỉ ở Costa Rica, chúng tôi đã gọi đến đại lý du lịch để hỏi giá vé máy bay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2dd",
+      "word": "announcement",
+      "phonetic": "/əˈnaʊnsmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev422.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/announcement.mp3",
+      "meaningVi": "thông báo",
+      "meaningEn": "a public notification",
+      "exampleEnHtml": "<p>Did you hear an <strong>announcement</strong> about our new departure time?</p>\n",
+      "exampleViHtml": "<p>Bạn c&oacute; nghe <strong>th&ocirc;ng b&aacute;o</strong> về giờ khởi h&agrave;nh mới của ch&uacute;ng t&ocirc;i kh&ocirc;ng?</p>\n",
+      "exampleEn": "Did you hear an announcement about our new departure time?",
+      "exampleVi": "Bạn có nghe thông báo về giờ khởi hành mới của chúng tôi không?"
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2de",
+      "word": "beverage",
+      "phonetic": "/ˈbevərɪdʒ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev423.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/beverage.mp3",
+      "meaningVi": "đồ uống",
+      "meaningEn": "a drink other than plain water",
+      "exampleEnHtml": "<p>The flight attendant altered all passengers a cold <strong>beverage </strong>during the flight.</p>\n",
+      "exampleViHtml": "<p>Tiếp vi&ecirc;n h&agrave;ng kh&ocirc;ng đ&atilde; phục vụ <strong>đồ uống</strong> lạnh cho tất cả h&agrave;nh kh&aacute;ch trong suốt chuyến bay.</p>\n",
+      "exampleEn": "The flight attendant altered all passengers a cold beverage during the flight.",
+      "exampleVi": "Tiếp viên hàng không đã phục vụ đồ uống lạnh cho tất cả hành khách trong suốt chuyến bay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2df",
+      "word": "blanket",
+      "phonetic": "/ˈblæŋkɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev424.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/blanket.mp3",
+      "meaningVi": "chiếc chăn",
+      "meaningEn": "a covering for keeping warm, especially during sleep; any full coverage; to cover uniformly",
+      "exampleEnHtml": "<p>It&#39;s going to be a cold night so I&rsquo;ll ask housekeeping to send an extra <strong>blanket </strong>for our bed.</p>\n",
+      "exampleViHtml": "<p>Đ&ecirc;m nay trời lạnh n&ecirc;n t&ocirc;i sẽ y&ecirc;u cầu nh&acirc;n vi&ecirc;n dọn ph&ograve;ng gửi th&ecirc;m một <strong>chiếc chăn</strong> để đắp tr&ecirc;n giường.</p>\n",
+      "exampleEn": "It's going to be a cold night so I’ll ask housekeeping to send an extra blanket for our bed.",
+      "exampleVi": "Đêm nay trời lạnh nên tôi sẽ yêu cầu nhân viên dọn phòng gửi thêm một chiếc chăn để đắp trên giường."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2e0",
+      "word": "board",
+      "phonetic": "/bɔːrd/ (n)",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2025/11/04/23375181.webp",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/board.mp3",
+      "meaningVi": "ăn uống",
+      "meaningEn": "to furnish with meals and a place to stay",
+      "exampleEnHtml": "<p>The inn offers room and <strong>board </strong>at weekly rates.</p>\n",
+      "exampleViHtml": "<p>Nh&agrave; trọ cung cấp ph&ograve;ng nghỉ v&agrave;<strong> ăn uống</strong> theo gi&aacute; tuần.</p>\n",
+      "exampleEn": "The inn offers room and board at weekly rates.",
+      "exampleVi": "Nhà trọ cung cấp phòng nghỉ và ăn uống theo giá tuần."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2e1",
+      "word": "claim",
+      "phonetic": "/kleɪm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev426.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/claim.mp3",
+      "meaningVi": "nhận",
+      "meaningEn": "to take as rightful; to retrieve",
+      "exampleEnHtml": "<p>Please proceed directly to the baggage arrival area to <strong>claim </strong>your luggage.</p>\n",
+      "exampleViHtml": "<p>Vui l&ograve;ng đi thẳng đến khu vực nhận h&agrave;nh l&yacute; để <strong>nhận </strong>h&agrave;nh l&yacute;.</p>\n",
+      "exampleEn": "Please proceed directly to the baggage arrival area to claim your luggage.",
+      "exampleVi": "Vui lòng đi thẳng đến khu vực nhận hành lý để nhận hành lý."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2e2",
+      "word": "delay",
+      "phonetic": "/dɪˈleɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev427.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/delay.mp3",
+      "meaningVi": "trì hoãn",
+      "meaningEn": "to postpone until a later time; n., the period of time during which one is delayed",
+      "exampleEnHtml": "<p>The bus was <strong>delayed </strong>due to inclement weather.</p>\n",
+      "exampleViHtml": "<p>Xe bu&yacute;t bị <strong>tr&igrave; ho&atilde;n</strong> do thời tiết khắc xấu.</p>\n",
+      "exampleEn": "The bus was delayed due to inclement weather.",
+      "exampleVi": "Xe buýt bị trì hoãn do thời tiết khắc xấu."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2e3",
+      "word": "depart",
+      "phonetic": "/dɪˈpɑːrt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev428.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/depart.mp3",
+      "meaningVi": "lên đường",
+      "meaningEn": "to go away or leave; to vary from a regular course of action.",
+      "exampleEnHtml": "<p>After the wedding, the married couple <strong>departed </strong>for their honeymoon in Morocco.</p>\n",
+      "exampleViHtml": "<p>Sau đ&aacute;m cưới, cặp đ&ocirc;i đ&atilde;<strong> l&ecirc;n đường </strong>đi hưởng tuần trăng mật ở Maroc.</p>\n",
+      "exampleEn": "After the wedding, the married couple departed for their honeymoon in Morocco.",
+      "exampleVi": "Sau đám cưới, cặp đôi đã lên đường đi hưởng tuần trăng mật ở Maroc."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2e4",
+      "word": "embarkation",
+      "phonetic": "/ˌembɑːˈkeɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev429.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/embarkation.mp3",
+      "meaningVi": "Tàu sẽ lên đường",
+      "meaningEn": "the process of getting on a plane or ship",
+      "exampleEnHtml": "<p><strong>Embarkation </strong>will be at 14:20 hours.</p>\n",
+      "exampleViHtml": "<p><strong>T&agrave;u sẽ l&ecirc;n đường </strong>v&agrave;o l&uacute;c 14:20.</p>\n",
+      "exampleEn": "Embarkation will be at 14:20 hours.",
+      "exampleVi": "Tàu sẽ lên đường vào lúc 14:20."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2e5",
+      "word": "itinerary",
+      "phonetic": "/aɪˈtɪnəreri/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev430.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/itinerary.mp3",
+      "meaningVi": "hành trình",
+      "meaningEn": "a proposed route for a journey, showing dates and means of travel",
+      "exampleEnHtml": "<p>He reviewed the <strong>itinerary </strong>the travel agent had faxed him before purchasing the ticket.</p>\n",
+      "exampleViHtml": "<p>Anh ấy đ&atilde; xem lại <strong>h&agrave;nh tr&igrave;nh</strong> m&agrave; đại l&yacute; du lịch đ&atilde; gửi fax cho anh trước khi mua v&eacute;.</p>\n",
+      "exampleEn": "He reviewed the itinerary the travel agent had faxed him before purchasing the ticket.",
+      "exampleVi": "Anh ấy đã xem lại hành trình mà đại lý du lịch đã gửi fax cho anh trước khi mua vé."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2e6",
+      "word": "prohibit",
+      "phonetic": "/prəˈhɪbɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev431.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/prohibit.mp3",
+      "meaningVi": "cấm",
+      "meaningEn": "to forbid by authority or to prevent",
+      "exampleEnHtml": "<p>We were <strong>prohibited </strong>from wearing causal clothes in the office.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i bị <strong>cấm </strong>mặc quần &aacute;o thường ng&agrave;y khi đến văn ph&ograve;ng.</p>\n",
+      "exampleEn": "We were prohibited from wearing causal clothes in the office.",
+      "exampleVi": "Chúng tôi bị cấm mặc quần áo thường ngày khi đến văn phòng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2e7",
+      "word": "valid",
+      "phonetic": "/ˈvælɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev432.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/valid.mp3",
+      "meaningVi": "còn hiệu lực",
+      "meaningEn": "having legal efficacy or correctness",
+      "exampleEnHtml": "<p>I need to make certain that my passport is <strong>valid </strong>if we plan to go overseas this December.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i cần chắc chắn rằng hộ chiếu của t&ocirc;i <strong>c&ograve;n hiệu lực</strong> nếu ch&uacute;ng t&ocirc;i c&oacute; kế hoạch ra nước ngo&agrave;i v&agrave;o th&aacute;ng 12 n&agrave;y.</p>\n",
+      "exampleEn": "I need to make certain that my passport is valid if we plan to go overseas this December.",
+      "exampleVi": "Tôi cần chắc chắn rằng hộ chiếu của tôi còn hiệu lực nếu chúng tôi có kế hoạch ra nước ngoài vào tháng 12 này."
+    }
+  ],
+  "totalFlashcards": 12
+}

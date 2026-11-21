@@ -1,0 +1,808 @@
+{
+  "topicId": "6204e0d7d1bfab7a5b00283c",
+  "title": "PAST PERFECT TENSE - Practice 1",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00286a",
+        "questionNumber": 1,
+        "questionText": "After he ______ a highly successful computer business for two years, he started his second business in a small garage.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has run",
+            "raw": "A. has run",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had run",
+            "raw": "B. had run",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "runs",
+            "raw": "C. runs",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was running",
+            "raw": "D. was running",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb tense that shows an action completed before another action in the past. The sentence describes two actions: (1) running a successful computer business for two years, and (2) starting a second business. The action of running the business happened first and was completed before he started his second business. Therefore, we use the past perfect tense ('had run') to indicate the earlier action.<br><ul><li><b>has run</b> (verb (present perfect)): Present perfect tense, used for actions that started in the past and continue to the present or have present relevance. Not suitable here because both actions are in the past.</li><li><b>had run</b> (verb (past perfect)): Past perfect tense, used to show an action that was completed before another action in the past. This fits the context of the sentence.</li><li><b>runs</b> (verb (simple present)): Simple present tense, used for habitual actions or general truths. Not suitable because the actions are in the past.</li><li><b>was running</b> (verb (past continuous)): Past continuous tense, used for ongoing actions in the past, often interrupted by another action. Not suitable because the first action was completed before the second.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: S + had + past participle (V3) + before + S + past simple. Used to show the order of two past actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một thì động từ diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ. Câu này mô tả hai hành động: (1) điều hành một doanh nghiệp máy tính thành công trong hai năm, và (2) bắt đầu kinh doanh thứ hai. Hành động điều hành doanh nghiệp xảy ra trước và đã hoàn thành trước khi anh ấy bắt đầu doanh nghiệp thứ hai. Vì vậy, ta dùng thì quá khứ hoàn thành ('had run') để chỉ hành động xảy ra trước.<br><ul><li><b>has run</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng cho hành động bắt đầu trong quá khứ và kéo dài đến hiện tại hoặc có liên quan đến hiện tại. Không phù hợp vì cả hai hành động đều ở quá khứ.</li><li><b>had run</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành, dùng để diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ. Phù hợp với ngữ cảnh câu.</li><li><b>runs</b> (động từ (hiện tại đơn)): Thì hiện tại đơn, dùng cho hành động lặp đi lặp lại hoặc sự thật hiển nhiên. Không phù hợp vì các hành động đều ở quá khứ.</li><li><b>was running</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng cho hành động đang diễn ra trong quá khứ, thường bị một hành động khác chen vào. Không phù hợp vì hành động đầu tiên đã hoàn thành trước hành động thứ hai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: S + had + V3 (quá khứ phân từ) + before + S + quá khứ đơn. Dùng để diễn tả thứ tự hai hành động trong quá khứ.<br><br><b>Tạm dịch:</b> Sau khi anh ấy đã điều hành một doanh nghiệp máy tính rất thành công trong hai năm, anh ấy bắt đầu công việc kinh doanh thứ hai trong một gara nhỏ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb tense that shows an action completed before another action in the past. The sentence describes two actions: (1) running a successful computer business for two years, and (2) starting a second business. The action of running the business happened first and was completed before he started his second business. Therefore, we use the past perfect tense ('had run') to indicate the earlier action.<br><ul><li><b>has run</b> (verb (present perfect)): Present perfect tense, used for actions that started in the past and continue to the present or have present relevance. Not suitable here because both actions are in the past.</li><li><b>had run</b> (verb (past perfect)): Past perfect tense, used to show an action that was completed before another action in the past. This fits the context of the sentence.</li><li><b>runs</b> (verb (simple present)): Simple present tense, used for habitual actions or general truths. Not suitable because the actions are in the past.</li><li><b>was running</b> (verb (past continuous)): Past continuous tense, used for ongoing actions in the past, often interrupted by another action. Not suitable because the first action was completed before the second.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: S + had + past participle (V3) + before + S + past simple. Used to show the order of two past actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00286b",
+        "questionNumber": 2,
+        "questionText": "Alexander Graham Bell ________ the telephone by the time I was born.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had already invented",
+            "raw": "A. had already invented",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "has already finished",
+            "raw": "B. has already finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "already finished",
+            "raw": "C. already finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "already finish",
+            "raw": "D. already finish",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate an action that was completed before another action in the past. The phrase 'by the time I was born' refers to a point in the past, so we need to use the past perfect tense to show that the invention of the telephone happened before 'I was born.' The past perfect is formed with 'had' + past participle.<br><ul><li><b>had already invented</b> (verb phrase): Past perfect tense: shows an action completed before another past action.</li><li><b>has already finished</b> (verb phrase): Present perfect tense: shows an action completed at an unspecified time before now. Not suitable for past time reference.</li><li><b>already finished</b> (verb phrase): Simple past tense: does not use 'had' and does not indicate an action before another past action.</li><li><b>already finish</b> (verb phrase): Incorrect verb form: 'finish' is the base form and does not fit grammatically.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle is used to show an action that happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì quá khứ hoàn thành để diễn tả một hành động đã hoàn thành trước một hành động khác trong quá khứ. Cụm 'by the time I was born' (trước khi tôi sinh ra) là một mốc thời gian trong quá khứ, vì vậy ta cần dùng thì quá khứ hoàn thành (had + V3) để nhấn mạnh việc phát minh ra điện thoại xảy ra trước khi tôi sinh ra.<br><ul><li><b>had already invented</b> (cụm động từ): Thì quá khứ hoàn thành: diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ.</li><li><b>has already finished</b> (cụm động từ): Thì hiện tại hoàn thành: diễn tả hành động đã hoàn thành trước hiện tại, không phù hợp với mốc thời gian trong quá khứ.</li><li><b>already finished</b> (cụm động từ): Thì quá khứ đơn: không dùng 'had', không diễn tả hành động xảy ra trước một hành động khác trong quá khứ.</li><li><b>already finish</b> (cụm động từ): Sai dạng động từ: 'finish' là động từ nguyên thể, không phù hợp về mặt ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ (V3) dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Alexander Graham Bell đã phát minh ra điện thoại trước khi tôi sinh ra.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate an action that was completed before another action in the past. The phrase 'by the time I was born' refers to a point in the past, so we need to use the past perfect tense to show that the invention of the telephone happened before 'I was born.' The past perfect is formed with 'had' + past participle.<br><ul><li><b>had already invented</b> (verb phrase): Past perfect tense: shows an action completed before another past action.</li><li><b>has already finished</b> (verb phrase): Present perfect tense: shows an action completed at an unspecified time before now. Not suitable for past time reference.</li><li><b>already finished</b> (verb phrase): Simple past tense: does not use 'had' and does not indicate an action before another past action.</li><li><b>already finish</b> (verb phrase): Incorrect verb form: 'finish' is the base form and does not fit grammatically.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle is used to show an action that happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00286c",
+        "questionNumber": 3,
+        "questionText": "The farmer’s barn caught fire during the night. By the time the fire fighters arrived, the building ______  to the ground.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "burned",
+            "raw": "A. burned",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had been burned",
+            "raw": "B. had been burned",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had burned",
+            "raw": "C. had burned",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "was burned",
+            "raw": "D. was burned",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that correctly expresses a completed action in the past before another past event. The sentence describes that the barn was already destroyed by fire when the firefighters arrived. In English, we use the past perfect tense (had + past participle) to show an action that happened before another action in the past.<br><ul><li><b>burned</b> (verb (past simple)): Simple past tense. It describes a completed action in the past but does not show the sequence of two past events.</li><li><b>had been burned</b> (verb (past perfect passive)): Past perfect passive. It means the barn was burned by someone or something before another past event. However, 'to the ground' suggests the barn itself was destroyed, not the focus on who did it.</li><li><b>had burned</b> (verb (past perfect active)): Past perfect active. It means the barn finished burning before the firefighters arrived. This fits the context best.</li><li><b>was burned</b> (verb (past simple passive)): Past simple passive. It describes a completed action in the past but does not show the sequence of two past events.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense (had + past participle) is used to show that one action happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một dạng động từ diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ. Câu này mô tả rằng chuồng trại đã bị cháy rụi trước khi lính cứu hỏa đến. Trong tiếng Anh, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ) để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><ul><li><b>burned</b> (động từ (quá khứ đơn)): Thì quá khứ đơn. Diễn tả hành động đã hoàn thành trong quá khứ nhưng không thể hiện rõ thứ tự hai hành động.</li><li><b>had been burned</b> (động từ (quá khứ hoàn thành bị động)): Thì quá khứ hoàn thành bị động. Nghĩa là chuồng trại đã bị ai đó hoặc cái gì đó đốt cháy trước một hành động khác trong quá khứ. Tuy nhiên, 'to the ground' nhấn mạnh chuồng trại tự bị cháy rụi, không tập trung vào tác nhân.</li><li><b>had burned</b> (động từ (quá khứ hoàn thành chủ động)): Thì quá khứ hoàn thành chủ động. Nghĩa là chuồng trại đã cháy rụi trước khi lính cứu hỏa đến. Đây là đáp án phù hợp nhất với ngữ cảnh.</li><li><b>was burned</b> (động từ (quá khứ đơn bị động)): Thì quá khứ đơn bị động. Diễn tả hành động đã hoàn thành trong quá khứ nhưng không thể hiện rõ thứ tự hai hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành (had + quá khứ phân từ) dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Chuồng trại của người nông dân đã bị cháy rụi trong đêm. Khi lính cứu hỏa đến nơi, tòa nhà đã cháy rụi hoàn toàn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that correctly expresses a completed action in the past before another past event. The sentence describes that the barn was already destroyed by fire when the firefighters arrived. In English, we use the past perfect tense (had + past participle) to show an action that happened before another action in the past.<br><ul><li><b>burned</b> (verb (past simple)): Simple past tense. It describes a completed action in the past but does not show the sequence of two past events.</li><li><b>had been burned</b> (verb (past perfect passive)): Past perfect passive. It means the barn was burned by someone or something before another past event. However, 'to the ground' suggests the barn itself was destroyed, not the focus on who did it.</li><li><b>had burned</b> (verb (past perfect active)): Past perfect active. It means the barn finished burning before the firefighters arrived. This fits the context best.</li><li><b>was burned</b> (verb (past simple passive)): Past simple passive. It describes a completed action in the past but does not show the sequence of two past events.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense (had + past participle) is used to show that one action happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00286d",
+        "questionNumber": 4,
+        "questionText": "Experiments in the sonic imaging of moving objects ______  in both the United States and Europe well before the Second World War.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were conducting",
+            "raw": "A. were conducting",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have been conducted",
+            "raw": "B. have been conducted",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "being conducted",
+            "raw": "C. being conducted",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had been conducted",
+            "raw": "D. had been conducted",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a passive verb form in the past perfect tense to indicate that the experiments were completed before another event in the past (the Second World War). The correct structure is 'had been + past participle' to show an action that was finished before a specific time in the past.<br><ul><li><b>were conducting</b> (verb phrase (active, past continuous)): This is the past continuous tense in the active voice, which means 'was/were + V-ing'. It is used when the subject is doing the action, not receiving it. Here, 'experiments' are the object, not the subject.</li><li><b>have been conducted</b> (verb phrase (passive, present perfect)): This is the present perfect passive form, which means 'have/has been + past participle'. It is used for actions that started in the past and continue to the present. However, the sentence refers to a time before the Second World War, so this tense is not appropriate.</li><li><b>being conducted</b> (verb phrase (present participle, passive)): This is the present participle passive form, which is used after certain verbs or prepositions, not as the main verb in a sentence.</li><li><b>had been conducted</b> (verb phrase (passive, past perfect)): This is the past perfect passive form, which means 'had been + past participle'. It is used to show that an action was completed before another action or time in the past. This fits the context of the sentence.</li></ul><b>Related structure or vocabulary:</b> Past perfect passive: had been + past participle. Used to describe an action that was completed before another action or time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một động từ ở thể bị động thì quá khứ hoàn thành để diễn tả rằng các thí nghiệm đã được hoàn thành trước một sự kiện khác trong quá khứ (trước Chiến tranh Thế giới thứ hai). Cấu trúc đúng là 'had been + quá khứ phân từ' để chỉ một hành động đã hoàn thành trước một thời điểm xác định trong quá khứ.<br><ul><li><b>were conducting</b> (cụm động từ (chủ động, quá khứ tiếp diễn)): Đây là thì quá khứ tiếp diễn ở thể chủ động, nghĩa là 'was/were + V-ing'. Dùng khi chủ ngữ thực hiện hành động, không phải nhận hành động. Ở đây, 'experiments' là đối tượng bị tác động, không phải chủ thể.</li><li><b>have been conducted</b> (cụm động từ (bị động, hiện tại hoàn thành)): Đây là thì hiện tại hoàn thành ở thể bị động, nghĩa là 'have/has been + quá khứ phân từ'. Dùng cho hành động bắt đầu trong quá khứ và kéo dài đến hiện tại. Tuy nhiên, câu nói về thời điểm trước Chiến tranh Thế giới thứ hai nên thì này không phù hợp.</li><li><b>being conducted</b> (cụm động từ (hiện tại phân từ, bị động)): Đây là dạng hiện tại phân từ ở thể bị động, thường dùng sau một số động từ hoặc giới từ, không dùng làm động từ chính trong câu.</li><li><b>had been conducted</b> (cụm động từ (bị động, quá khứ hoàn thành)): Đây là thì quá khứ hoàn thành ở thể bị động, nghĩa là 'had been + quá khứ phân từ'. Dùng để chỉ hành động đã hoàn thành trước một hành động hoặc thời điểm khác trong quá khứ. Phù hợp với ngữ cảnh câu.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động thì quá khứ hoàn thành: had been + quá khứ phân từ. Dùng để diễn tả hành động đã hoàn thành trước một hành động hoặc thời điểm khác trong quá khứ.<br><br><b>Tạm dịch:</b> Các thí nghiệm về hình ảnh âm thanh của các vật thể chuyển động đã được tiến hành ở cả Hoa Kỳ và Châu Âu từ trước Chiến tranh Thế giới thứ hai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a passive verb form in the past perfect tense to indicate that the experiments were completed before another event in the past (the Second World War). The correct structure is 'had been + past participle' to show an action that was finished before a specific time in the past.<br><ul><li><b>were conducting</b> (verb phrase (active, past continuous)): This is the past continuous tense in the active voice, which means 'was/were + V-ing'. It is used when the subject is doing the action, not receiving it. Here, 'experiments' are the object, not the subject.</li><li><b>have been conducted</b> (verb phrase (passive, present perfect)): This is the present perfect passive form, which means 'have/has been + past participle'. It is used for actions that started in the past and continue to the present. However, the sentence refers to a time before the Second World War, so this tense is not appropriate.</li><li><b>being conducted</b> (verb phrase (present participle, passive)): This is the present participle passive form, which is used after certain verbs or prepositions, not as the main verb in a sentence.</li><li><b>had been conducted</b> (verb phrase (passive, past perfect)): This is the past perfect passive form, which means 'had been + past participle'. It is used to show that an action was completed before another action or time in the past. This fits the context of the sentence.</li></ul><b>Related structure or vocabulary:</b> Past perfect passive: had been + past participle. Used to describe an action that was completed before another action or time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00286e",
+        "questionNumber": 5,
+        "questionText": "They ______ at this school before they became interpreters.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had taught",
+            "raw": "A. had taught",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "have taught",
+            "raw": "B. have taught",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "taught",
+            "raw": "C. taught",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were taught",
+            "raw": "D. were taught",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'They ______ at this school before they became interpreters.' requires a verb tense that shows an action completed before another action in the past. The phrase 'before they became interpreters' indicates a past event, so the action at the school must have happened even earlier. The correct tense to use is the past perfect (had + past participle), which is used to show the earlier of two past actions.<br><ul><li><b>had taught</b> (verb phrase): Past perfect tense: used to describe an action that was completed before another action in the past.</li><li><b>have taught</b> (verb phrase): Present perfect tense: used for actions that happened at an unspecified time before now, not suitable for two past actions.</li><li><b>taught</b> (verb): Simple past tense: used for actions completed in the past, but does not show the sequence of two past actions.</li><li><b>were taught</b> (verb phrase (passive)): Past simple passive: means 'they were taught' (someone taught them), which changes the meaning of the sentence.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle is used to show an action that happened before another action in the past. Example: She had left before I arrived.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'They ______ at this school before they became interpreters.' cần một thì động từ diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ. Cụm 'before they became interpreters' chỉ một sự kiện trong quá khứ, vì vậy hành động dạy học ở trường phải xảy ra trước đó. Thì phù hợp là quá khứ hoàn thành (had + quá khứ phân từ), dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.<br><ul><li><b>had taught</b> (cụm động từ): Thì quá khứ hoàn thành: dùng để diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ.</li><li><b>have taught</b> (cụm động từ): Thì hiện tại hoàn thành: dùng cho hành động đã xảy ra vào một thời điểm không xác định trước hiện tại, không phù hợp khi nói về hai hành động trong quá khứ.</li><li><b>taught</b> (động từ): Thì quá khứ đơn: dùng cho hành động đã hoàn thành trong quá khứ, nhưng không thể hiện rõ thứ tự hai hành động.</li><li><b>were taught</b> (cụm động từ (bị động)): Thì quá khứ đơn bị động: nghĩa là 'họ được dạy' (ai đó dạy họ), làm thay đổi ý nghĩa câu.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ, dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ. Ví dụ: She had left before I arrived.<br><br><b>Tạm dịch:</b> Họ đã dạy ở trường này trước khi họ trở thành phiên dịch viên.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'They ______ at this school before they became interpreters.' requires a verb tense that shows an action completed before another action in the past. The phrase 'before they became interpreters' indicates a past event, so the action at the school must have happened even earlier. The correct tense to use is the past perfect (had + past participle), which is used to show the earlier of two past actions.<br><ul><li><b>had taught</b> (verb phrase): Past perfect tense: used to describe an action that was completed before another action in the past.</li><li><b>have taught</b> (verb phrase): Present perfect tense: used for actions that happened at an unspecified time before now, not suitable for two past actions.</li><li><b>taught</b> (verb): Simple past tense: used for actions completed in the past, but does not show the sequence of two past actions.</li><li><b>were taught</b> (verb phrase (passive)): Past simple passive: means 'they were taught' (someone taught them), which changes the meaning of the sentence.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle is used to show an action that happened before another action in the past. Example: She had left before I arrived.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00286f",
+        "questionNumber": 6,
+        "questionText": "He signed the contract after he _____ each statement carefully.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "reads",
+            "raw": "A. reads",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "read",
+            "raw": "B. read",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has read",
+            "raw": "C. has read",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had read",
+            "raw": "D. had read",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about two actions in the past: 'He signed the contract' and 'he _____ each statement carefully.' The action of reading each statement happened before the action of signing the contract. In English, when we want to show that one past action happened before another past action, we use the past perfect tense (had + past participle). Therefore, the correct answer is 'had read.'<br><ul><li><b>reads</b> (verb (present simple)): Present simple tense, used for habitual actions or general truths. Not suitable here because the sentence is about past actions.</li><li><b>read</b> (verb (past simple)): Past simple tense, used for actions completed in the past. However, it does not show the sequence of two past actions.</li><li><b>has read</b> (verb (present perfect)): Present perfect tense, used for actions that happened at an unspecified time before now. Not suitable because the sentence is about two specific past actions.</li><li><b>had read</b> (verb (past perfect)): Past perfect tense, used to show that one past action happened before another past action.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show the earlier of two past actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta nói về hai hành động xảy ra trong quá khứ: 'He signed the contract' (Anh ấy ký hợp đồng) và 'he _____ each statement carefully' (anh ấy đọc kỹ từng điều khoản). Hành động đọc từng điều khoản xảy ra trước hành động ký hợp đồng. Trong tiếng Anh, khi muốn diễn đạt một hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ). Vì vậy, đáp án đúng là 'had read'.<br><ul><li><b>reads</b> (động từ (hiện tại đơn)): Thì hiện tại đơn, dùng cho thói quen hoặc sự thật chung. Không phù hợp vì câu nói về hành động trong quá khứ.</li><li><b>read</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dùng cho hành động đã hoàn thành trong quá khứ. Tuy nhiên, không thể hiện rõ thứ tự hai hành động trong quá khứ.</li><li><b>has read</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng cho hành động đã xảy ra tại một thời điểm không xác định trước hiện tại. Không phù hợp vì câu nói về hai hành động cụ thể trong quá khứ.</li><li><b>had read</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành, dùng để diễn đạt hành động xảy ra trước một hành động khác trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ. Dùng để diễn đạt hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Anh ấy đã ký hợp đồng sau khi anh ấy đã đọc kỹ từng điều khoản.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about two actions in the past: 'He signed the contract' and 'he _____ each statement carefully.' The action of reading each statement happened before the action of signing the contract. In English, when we want to show that one past action happened before another past action, we use the past perfect tense (had + past participle). Therefore, the correct answer is 'had read.'<br><ul><li><b>reads</b> (verb (present simple)): Present simple tense, used for habitual actions or general truths. Not suitable here because the sentence is about past actions.</li><li><b>read</b> (verb (past simple)): Past simple tense, used for actions completed in the past. However, it does not show the sequence of two past actions.</li><li><b>has read</b> (verb (present perfect)): Present perfect tense, used for actions that happened at an unspecified time before now. Not suitable because the sentence is about two specific past actions.</li><li><b>had read</b> (verb (past perfect)): Past perfect tense, used to show that one past action happened before another past action.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show the earlier of two past actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002870",
+        "questionNumber": 7,
+        "questionText": "By the time Jason arrived to help, we ______ moving everything.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has already finished",
+            "raw": "A. has already finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "already finished",
+            "raw": "B. already finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had already finished",
+            "raw": "C. had already finished",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "already finish",
+            "raw": "D. already finish",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after 'By the time Jason arrived to help,' which is a past simple clause indicating a specific time in the past. In English, when we want to talk about an action that was completed before another action in the past, we use the past perfect tense (had + past participle). Therefore, the correct answer is 'had already finished.'<br><ul><li><b>has already finished</b> (verb phrase (present perfect)): 'Has already finished' is present perfect tense, which is used for actions that happened at an unspecified time before now. It is not correct here because the sentence refers to two actions in the past.</li><li><b>already finished</b> (verb phrase (incomplete)): 'Already finished' is not a complete verb form; it lacks an auxiliary verb, so it is grammatically incorrect in this context.</li><li><b>had already finished</b> (verb phrase (past perfect)): 'Had already finished' is past perfect tense, used to show that one action was completed before another action in the past. This fits the sentence structure perfectly.</li><li><b>already finish</b> (verb phrase (incorrect form)): 'Already finish' is not a correct verb form; it lacks an auxiliary verb and does not fit the tense required.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show that an action was completed before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống nằm sau cụm 'By the time Jason arrived to help,' là một mệnh đề quá khứ đơn chỉ một thời điểm xác định trong quá khứ. Trong tiếng Anh, khi muốn nói về một hành động đã hoàn thành trước một hành động khác trong quá khứ, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ). Vì vậy, đáp án đúng là 'had already finished.'<br><ul><li><b>has already finished</b> (cụm động từ (hiện tại hoàn thành)): 'Has already finished' là thì hiện tại hoàn thành, dùng cho hành động xảy ra trước thời điểm hiện tại không xác định. Không phù hợp vì câu nói về hai hành động trong quá khứ.</li><li><b>already finished</b> (cụm động từ (không hoàn chỉnh)): 'Already finished' không phải là một dạng động từ hoàn chỉnh, thiếu trợ động từ nên sai ngữ pháp trong trường hợp này.</li><li><b>had already finished</b> (cụm động từ (quá khứ hoàn thành)): 'Had already finished' là thì quá khứ hoàn thành, dùng để diễn tả một hành động đã hoàn thành trước một hành động khác trong quá khứ. Phù hợp với cấu trúc câu.</li><li><b>already finish</b> (cụm động từ (dạng sai)): 'Already finish' không phải là dạng động từ đúng, thiếu trợ động từ và không phù hợp với thì cần thiết.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ. Dùng để diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> By the time Jason arrived to help, we had already finished moving everything. --> Khi Jason đến để giúp, chúng tôi đã hoàn thành việc chuyển mọi thứ rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after 'By the time Jason arrived to help,' which is a past simple clause indicating a specific time in the past. In English, when we want to talk about an action that was completed before another action in the past, we use the past perfect tense (had + past participle). Therefore, the correct answer is 'had already finished.'<br><ul><li><b>has already finished</b> (verb phrase (present perfect)): 'Has already finished' is present perfect tense, which is used for actions that happened at an unspecified time before now. It is not correct here because the sentence refers to two actions in the past.</li><li><b>already finished</b> (verb phrase (incomplete)): 'Already finished' is not a complete verb form; it lacks an auxiliary verb, so it is grammatically incorrect in this context.</li><li><b>had already finished</b> (verb phrase (past perfect)): 'Had already finished' is past perfect tense, used to show that one action was completed before another action in the past. This fits the sentence structure perfectly.</li><li><b>already finish</b> (verb phrase (incorrect form)): 'Already finish' is not a correct verb form; it lacks an auxiliary verb and does not fit the tense required.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show that an action was completed before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002871",
+        "questionNumber": 8,
+        "questionText": "The salesman was telling me that he ______ ten cars the previous week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "sold",
+            "raw": "A. sold",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had sold",
+            "raw": "B. had sold",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "would sell",
+            "raw": "C. would sell",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has sold",
+            "raw": "D. has sold",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action of selling ten cars happened before the time the salesman was telling the story. When we talk about an action that happened before another action in the past, we use the past perfect tense (had + past participle). Therefore, 'had sold' is the correct answer.<br><ul><li><b>sold</b> (verb (past simple)): Simple past tense. Used for actions completed in the past, but not necessarily before another past action.</li><li><b>had sold</b> (verb (past perfect)): Past perfect tense. Used to show that an action was completed before another action in the past.</li><li><b>would sell</b> (modal verb phrase): Modal verb (would) + base verb. Used for future in the past or conditional sentences.</li><li><b>has sold</b> (verb (present perfect)): Present perfect tense. Used for actions that happened at an unspecified time before now.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show an action happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, hành động bán được mười chiếc xe đã xảy ra trước thời điểm người bán hàng kể lại câu chuyện. Khi nói về một hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ). Vì vậy, 'had sold' là đáp án đúng.<br><ul><li><b>sold</b> (động từ (quá khứ đơn)): Thì quá khứ đơn. Dùng cho hành động đã hoàn thành trong quá khứ, nhưng không nhất thiết xảy ra trước một hành động quá khứ khác.</li><li><b>had sold</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành. Dùng để diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ.</li><li><b>would sell</b> (cụm động từ khuyết thiếu): Động từ khuyết thiếu (would) + động từ nguyên mẫu. Dùng cho thì tương lai trong quá khứ hoặc câu điều kiện.</li><li><b>has sold</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành. Dùng cho hành động đã xảy ra tại một thời điểm không xác định trước hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ. Dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Người bán hàng đã kể với tôi rằng anh ấy đã bán được mười chiếc xe vào tuần trước đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action of selling ten cars happened before the time the salesman was telling the story. When we talk about an action that happened before another action in the past, we use the past perfect tense (had + past participle). Therefore, 'had sold' is the correct answer.<br><ul><li><b>sold</b> (verb (past simple)): Simple past tense. Used for actions completed in the past, but not necessarily before another past action.</li><li><b>had sold</b> (verb (past perfect)): Past perfect tense. Used to show that an action was completed before another action in the past.</li><li><b>would sell</b> (modal verb phrase): Modal verb (would) + base verb. Used for future in the past or conditional sentences.</li><li><b>has sold</b> (verb (present perfect)): Present perfect tense. Used for actions that happened at an unspecified time before now.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show an action happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002872",
+        "questionNumber": 9,
+        "questionText": "If we _____ the news sooner, we would have written to John.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "received",
+            "raw": "A. received",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "receive",
+            "raw": "B. receive",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will receive",
+            "raw": "C. will receive",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had received",
+            "raw": "D. had received",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is a type of conditional sentence (specifically, the third conditional), which is used to talk about unreal situations in the past. The structure for the third conditional is: If + past perfect, would have + past participle. In this sentence, the correct verb form after 'if' should be the past perfect tense.<br><ul><li><b>received</b> (verb (past simple)): Past simple form of 'receive'. Used for actions completed in the past.</li><li><b>receive</b> (verb (base form)): Base form of the verb. Used for present simple or infinitive.</li><li><b>will receive</b> (verb (future simple)): Future simple tense. Used for actions that will happen in the future.</li><li><b>had received</b> (verb (past perfect)): Past perfect tense. Used to describe an action that happened before another action in the past.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là một dạng câu điều kiện loại 3, dùng để nói về những tình huống không có thật trong quá khứ. Cấu trúc của câu điều kiện loại 3 là: If + quá khứ hoàn thành (past perfect), would have + quá khứ phân từ (past participle). Trong câu này, động từ sau 'if' cần chia ở thì quá khứ hoàn thành.<br><ul><li><b>received</b> (động từ (quá khứ đơn)): Dạng quá khứ đơn của 'receive'. Dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>receive</b> (động từ (nguyên thể)): Dạng nguyên thể của động từ. Dùng cho thì hiện tại đơn hoặc động từ nguyên mẫu.</li><li><b>will receive</b> (động từ (tương lai đơn)): Thì tương lai đơn. Dùng cho hành động sẽ xảy ra trong tương lai.</li><li><b>had received</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành. Dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 3: If + quá khứ hoàn thành, would have + quá khứ phân từ<br><br><b>Tạm dịch:</b> Nếu chúng tôi nhận được tin sớm hơn, chúng tôi đã viết thư cho John.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is a type of conditional sentence (specifically, the third conditional), which is used to talk about unreal situations in the past. The structure for the third conditional is: If + past perfect, would have + past participle. In this sentence, the correct verb form after 'if' should be the past perfect tense.<br><ul><li><b>received</b> (verb (past simple)): Past simple form of 'receive'. Used for actions completed in the past.</li><li><b>receive</b> (verb (base form)): Base form of the verb. Used for present simple or infinitive.</li><li><b>will receive</b> (verb (future simple)): Future simple tense. Used for actions that will happen in the future.</li><li><b>had received</b> (verb (past perfect)): Past perfect tense. Used to describe an action that happened before another action in the past.</li></ul><b>Related structure or vocabulary:</b> Third conditional: If + past perfect, would have + past participle<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002873",
+        "questionNumber": 10,
+        "questionText": "Mrs. Pike ______ the door before the customers arrived .",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has open",
+            "raw": "A. has open",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had opened",
+            "raw": "B. had opened",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "would open",
+            "raw": "C. would open",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has opened",
+            "raw": "D. has opened",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mrs. Pike ______ the door before the customers arrived.' requires the correct tense to show that the action of opening the door happened before another action in the past (the customers arrived). In English, when we want to show that one past action happened before another past action, we use the past perfect tense (had + past participle). Therefore, the correct answer is 'had opened'.<br><ul><li><b>has open</b> (verb phrase): 'Has open' is incorrect because 'has' should be followed by the past participle form, which is 'opened', not 'open'. Also, 'has opened' is present perfect tense, which is not suitable here.</li><li><b>had opened</b> (verb phrase): 'Had opened' is the past perfect tense (had + past participle), used to show an action that happened before another action in the past.</li><li><b>would open</b> (verb phrase): 'Would open' is the conditional or future-in-the-past form, which is not appropriate for this context.</li><li><b>has opened</b> (verb phrase): 'Has opened' is the present perfect tense, used for actions that happened at an unspecified time before now. It is not suitable when both actions are in the past.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show that one action happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mrs. Pike ______ the door before the customers arrived.' cần một thì đúng để diễn tả hành động mở cửa xảy ra trước một hành động khác trong quá khứ (khách hàng đến). Trong tiếng Anh, khi muốn diễn tả một hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ). Vì vậy, đáp án đúng là 'had opened'.<br><ul><li><b>has open</b> (cụm động từ): 'Has open' sai vì 'has' phải đi với quá khứ phân từ là 'opened', không phải 'open'. Ngoài ra, 'has opened' là thì hiện tại hoàn thành, không phù hợp ở đây.</li><li><b>had opened</b> (cụm động từ): 'Had opened' là thì quá khứ hoàn thành (had + quá khứ phân từ), dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.</li><li><b>would open</b> (cụm động từ): 'Would open' là dạng điều kiện hoặc tương lai trong quá khứ, không phù hợp với ngữ cảnh này.</li><li><b>has opened</b> (cụm động từ): 'Has opened' là thì hiện tại hoàn thành, dùng cho hành động xảy ra vào một thời điểm không xác định trước hiện tại. Không phù hợp khi cả hai hành động đều ở quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ. Dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Bà Pike đã mở cửa trước khi khách hàng đến.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mrs. Pike ______ the door before the customers arrived.' requires the correct tense to show that the action of opening the door happened before another action in the past (the customers arrived). In English, when we want to show that one past action happened before another past action, we use the past perfect tense (had + past participle). Therefore, the correct answer is 'had opened'.<br><ul><li><b>has open</b> (verb phrase): 'Has open' is incorrect because 'has' should be followed by the past participle form, which is 'opened', not 'open'. Also, 'has opened' is present perfect tense, which is not suitable here.</li><li><b>had opened</b> (verb phrase): 'Had opened' is the past perfect tense (had + past participle), used to show an action that happened before another action in the past.</li><li><b>would open</b> (verb phrase): 'Would open' is the conditional or future-in-the-past form, which is not appropriate for this context.</li><li><b>has opened</b> (verb phrase): 'Has opened' is the present perfect tense, used for actions that happened at an unspecified time before now. It is not suitable when both actions are in the past.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show that one action happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002874",
+        "questionNumber": 11,
+        "questionText": "One of the girls _____ in that company died .",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "whose had worked",
+            "raw": "A. whose had worked",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "who had worked",
+            "raw": "B. who had worked",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "whom had worked",
+            "raw": "C. whom had worked",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had worked",
+            "raw": "D. had worked",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'One of the girls _____ in that company died.' requires a relative clause to describe 'the girls.' The correct structure is 'one of the + plural noun + who/that + verb.' Since we are talking about a girl who had worked in that company before she died, we need a relative pronoun ('who') followed by the past perfect tense ('had worked').<br><ul><li><b>whose had worked</b> (possessive relative pronoun + verb): 'Whose' is a possessive relative pronoun, used to show possession (e.g., 'the girl whose car was stolen'). It cannot be used before a verb like 'had worked.'</li><li><b>who had worked</b> (subject relative pronoun + past perfect verb): 'Who' is a subject relative pronoun, used to refer to people. 'Who had worked' correctly introduces a relative clause describing 'the girls.'</li><li><b>whom had worked</b> (object relative pronoun + verb): 'Whom' is an object relative pronoun, used as the object of a verb or preposition. It cannot be used as the subject of the verb 'had worked.'</li><li><b>had worked</b> (verb phrase): This is just a verb phrase and does not connect to 'the girls' with a relative pronoun, so the sentence would be incomplete.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'who' is used as a subject relative pronoun for people. Structure: 'one of the + plural noun + who + verb.' Past perfect tense ('had worked') is used to show an action that happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'One of the girls _____ in that company died.' cần một mệnh đề quan hệ để bổ nghĩa cho 'the girls.' Cấu trúc đúng là 'one of the + danh từ số nhiều + who/that + động từ.' Vì chúng ta đang nói về một cô gái đã từng làm việc ở công ty đó trước khi mất, nên cần dùng đại từ quan hệ 'who' (chỉ người, làm chủ ngữ) và thì quá khứ hoàn thành 'had worked.'<br><ul><li><b>whose had worked</b> (đại từ quan hệ sở hữu + động từ): 'Whose' là đại từ quan hệ sở hữu, dùng để chỉ sự sở hữu (ví dụ: 'the girl whose car was stolen' - cô gái mà xe bị lấy cắp). Không thể dùng 'whose' trước động từ như 'had worked.'</li><li><b>who had worked</b> (đại từ quan hệ chủ ngữ + động từ quá khứ hoàn thành): 'Who' là đại từ quan hệ chủ ngữ, dùng để chỉ người. 'Who had worked' là mệnh đề quan hệ đúng để bổ nghĩa cho 'the girls.'</li><li><b>whom had worked</b> (đại từ quan hệ tân ngữ + động từ): 'Whom' là đại từ quan hệ tân ngữ, dùng làm tân ngữ cho động từ hoặc giới từ. Không thể dùng 'whom' làm chủ ngữ của động từ 'had worked.'</li><li><b>had worked</b> (cụm động từ): Chỉ là cụm động từ, không có đại từ quan hệ nối với 'the girls,' nên câu bị thiếu thành phần.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề quan hệ: 'who' dùng làm đại từ quan hệ chủ ngữ chỉ người. Cấu trúc: 'one of the + danh từ số nhiều + who + động từ.' Thì quá khứ hoàn thành ('had worked') dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Một trong những cô gái đã từng làm việc ở công ty đó đã qua đời.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'One of the girls _____ in that company died.' requires a relative clause to describe 'the girls.' The correct structure is 'one of the + plural noun + who/that + verb.' Since we are talking about a girl who had worked in that company before she died, we need a relative pronoun ('who') followed by the past perfect tense ('had worked').<br><ul><li><b>whose had worked</b> (possessive relative pronoun + verb): 'Whose' is a possessive relative pronoun, used to show possession (e.g., 'the girl whose car was stolen'). It cannot be used before a verb like 'had worked.'</li><li><b>who had worked</b> (subject relative pronoun + past perfect verb): 'Who' is a subject relative pronoun, used to refer to people. 'Who had worked' correctly introduces a relative clause describing 'the girls.'</li><li><b>whom had worked</b> (object relative pronoun + verb): 'Whom' is an object relative pronoun, used as the object of a verb or preposition. It cannot be used as the subject of the verb 'had worked.'</li><li><b>had worked</b> (verb phrase): This is just a verb phrase and does not connect to 'the girls' with a relative pronoun, so the sentence would be incomplete.</li></ul><b>Related structure or vocabulary:</b> Relative clauses: 'who' is used as a subject relative pronoun for people. Structure: 'one of the + plural noun + who + verb.' Past perfect tense ('had worked') is used to show an action that happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002875",
+        "questionNumber": 12,
+        "questionText": "I’m sorry you failed the examination. Frankly, I wish I _____ harder.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had studied",
+            "raw": "A. had studied",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "studying",
+            "raw": "B. studying",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was studying",
+            "raw": "C. was studying",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "did study",
+            "raw": "D. did study",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Frankly, I wish I _____ harder.' requires the correct verb form after 'wish.' When expressing a regret about the past, we use 'wish' + past perfect tense (had + past participle). This structure shows that the speaker regrets not doing something in the past. Therefore, the correct answer is 'had studied.'<br><ul><li><b>had studied</b> (verb (past perfect)): Past perfect tense (had + past participle), used to express regret about something that did not happen in the past.</li><li><b>studying</b> (verb (V-ing)): Present participle/gerund form, not used after 'wish' to express past regrets.</li><li><b>was studying</b> (verb (past continuous)): Past continuous tense, used to describe an action in progress in the past, not suitable for expressing regret about a completed action.</li><li><b>did study</b> (verb (simple past, emphatic)): Simple past with 'did' for emphasis, but not used after 'wish' to express past regrets.</li></ul><b>Related structure or vocabulary:</b> wish + past perfect (had + V3): used to express regret about the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Frankly, I wish I _____ harder.' cần điền đúng dạng động từ sau 'wish.' Khi diễn tả sự tiếc nuối về một việc đã không xảy ra trong quá khứ, ta dùng cấu trúc 'wish' + quá khứ hoàn thành (had + V3). Vì vậy, đáp án đúng là 'had studied.'<br><ul><li><b>had studied</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành (had + V3), dùng để diễn tả sự tiếc nuối về một việc đã không xảy ra trong quá khứ.</li><li><b>studying</b> (động từ (V-ing)): Dạng V-ing (hiện tại phân từ/động danh từ), không dùng sau 'wish' để diễn tả sự tiếc nuối về quá khứ.</li><li><b>was studying</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng để diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ, không phù hợp để diễn tả sự tiếc nuối về một hành động đã hoàn thành.</li><li><b>did study</b> (động từ (quá khứ đơn nhấn mạnh)): Thì quá khứ đơn nhấn mạnh với 'did', nhưng không dùng sau 'wish' để diễn tả sự tiếc nuối về quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> wish + quá khứ hoàn thành (had + V3): dùng để diễn tả sự tiếc nuối về một việc đã không xảy ra trong quá khứ.<br><br><b>Tạm dịch:</b> Tôi xin lỗi vì bạn đã trượt kỳ thi. Thật lòng mà nói, tôi ước mình đã học chăm chỉ hơn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Frankly, I wish I _____ harder.' requires the correct verb form after 'wish.' When expressing a regret about the past, we use 'wish' + past perfect tense (had + past participle). This structure shows that the speaker regrets not doing something in the past. Therefore, the correct answer is 'had studied.'<br><ul><li><b>had studied</b> (verb (past perfect)): Past perfect tense (had + past participle), used to express regret about something that did not happen in the past.</li><li><b>studying</b> (verb (V-ing)): Present participle/gerund form, not used after 'wish' to express past regrets.</li><li><b>was studying</b> (verb (past continuous)): Past continuous tense, used to describe an action in progress in the past, not suitable for expressing regret about a completed action.</li><li><b>did study</b> (verb (simple past, emphatic)): Simple past with 'did' for emphasis, but not used after 'wish' to express past regrets.</li></ul><b>Related structure or vocabulary:</b> wish + past perfect (had + V3): used to express regret about the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002876",
+        "questionNumber": 13,
+        "questionText": "I am sorry I didn’t see my uncle yesterday, I wish _____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I saw him",
+            "raw": "A. I saw him",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "I have seen him",
+            "raw": "B. I have seen him",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "I didn’t see him",
+            "raw": "C. I didn’t see him",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "I had seen him",
+            "raw": "D. I had seen him",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker expresses regret about not seeing their uncle yesterday. The structure 'I wish + past perfect' (had + past participle) is used to talk about regrets about the past—things that did not happen but the speaker wishes had happened. Therefore, the correct answer is 'I had seen him.'<br><ul><li><b>I saw him</b> (Verb phrase (simple past)): Simple past tense. Used for actions that happened in the past, but not suitable for expressing regret about a past event that did not happen.</li><li><b>I have seen him</b> (Verb phrase (present perfect)): Present perfect tense. Used for actions that happened at an unspecified time before now. Not correct for expressing regret about a specific event in the past.</li><li><b>I didn’t see him</b> (Verb phrase (simple past negative)): Simple past negative. This repeats the information in the first clause and does not fit the 'I wish' structure.</li><li><b>I had seen him</b> (Verb phrase (past perfect)): Past perfect tense. Correct form after 'I wish' to express regret about something that did not happen in the past.</li></ul><b>Related structure or vocabulary:</b> Structure: I wish + past perfect (had + past participle) is used to express regret about something that did not happen in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, người nói bày tỏ sự tiếc nuối vì đã không gặp chú của mình vào ngày hôm qua. Cấu trúc 'I wish + past perfect' (had + past participle) được dùng để nói về sự tiếc nuối về một điều gì đó đã không xảy ra trong quá khứ mà người nói mong muốn nó đã xảy ra. Vì vậy, đáp án đúng là 'I had seen him.'<br><ul><li><b>I saw him</b> (Cụm động từ (quá khứ đơn)): Thì quá khứ đơn. Dùng để diễn tả hành động đã xảy ra trong quá khứ, nhưng không phù hợp để diễn tả sự tiếc nuối về một việc đã không xảy ra.</li><li><b>I have seen him</b> (Cụm động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành. Dùng cho hành động đã xảy ra vào một thời điểm không xác định trước hiện tại. Không phù hợp để diễn tả sự tiếc nuối về một sự kiện cụ thể trong quá khứ.</li><li><b>I didn’t see him</b> (Cụm động từ (quá khứ đơn phủ định)): Thì quá khứ đơn phủ định. Chỉ lặp lại thông tin ở mệnh đề đầu và không phù hợp với cấu trúc 'I wish'.</li><li><b>I had seen him</b> (Cụm động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành. Đây là dạng đúng sau 'I wish' để diễn tả sự tiếc nuối về một điều đã không xảy ra trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: I wish + past perfect (had + past participle) dùng để diễn tả sự tiếc nuối về một điều gì đó đã không xảy ra trong quá khứ.<br><br><b>Tạm dịch:</b> Tôi xin lỗi vì hôm qua tôi đã không gặp chú của mình, tôi ước gì tôi đã gặp chú ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker expresses regret about not seeing their uncle yesterday. The structure 'I wish + past perfect' (had + past participle) is used to talk about regrets about the past—things that did not happen but the speaker wishes had happened. Therefore, the correct answer is 'I had seen him.'<br><ul><li><b>I saw him</b> (Verb phrase (simple past)): Simple past tense. Used for actions that happened in the past, but not suitable for expressing regret about a past event that did not happen.</li><li><b>I have seen him</b> (Verb phrase (present perfect)): Present perfect tense. Used for actions that happened at an unspecified time before now. Not correct for expressing regret about a specific event in the past.</li><li><b>I didn’t see him</b> (Verb phrase (simple past negative)): Simple past negative. This repeats the information in the first clause and does not fit the 'I wish' structure.</li><li><b>I had seen him</b> (Verb phrase (past perfect)): Past perfect tense. Correct form after 'I wish' to express regret about something that did not happen in the past.</li></ul><b>Related structure or vocabulary:</b> Structure: I wish + past perfect (had + past participle) is used to express regret about something that did not happen in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002877",
+        "questionNumber": 14,
+        "questionText": "The lights went out because we ____ the electricity bill.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had not paid",
+            "raw": "A. had not paid",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "have not pay",
+            "raw": "B. have not pay",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has not paid",
+            "raw": "C. has not paid",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "would not pay",
+            "raw": "D. would not pay",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb tense that correctly shows the action happened before another past action. The sentence 'The lights went out because we ____ the electricity bill.' describes a situation in the past (the lights went out) and gives a reason that happened even earlier (not paying the bill). In English, we use the past perfect tense (had + past participle) to show an action that happened before another action in the past.<br><ul><li><b>had not paid</b> (verb (past perfect)): Past perfect tense: shows an action (not paying) happened before another past action (the lights went out).</li><li><b>have not pay</b> (verb (incorrect present perfect)): Incorrect tense and form. 'Have not' needs a past participle, and 'pay' is the base form.</li><li><b>has not paid</b> (verb (present perfect)): Present perfect tense, but the subject 'we' does not agree with 'has', and present perfect is not suitable for two past actions.</li><li><b>would not pay</b> (verb (modal)): Conditional or future-in-the-past, not suitable for describing a completed action before another past event.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle is used to show an action that happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một thì động từ thể hiện hành động xảy ra trước một hành động khác trong quá khứ. Câu 'The lights went out because we ____ the electricity bill.' mô tả một tình huống trong quá khứ (đèn tắt) và đưa ra lý do đã xảy ra trước đó (không trả tiền điện). Trong tiếng Anh, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ) để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><ul><li><b>had not paid</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành: diễn tả hành động (không trả tiền) xảy ra trước một hành động khác trong quá khứ (đèn tắt).</li><li><b>have not pay</b> (động từ (hiện tại hoàn thành sai)): Sai thì và sai dạng. 'Have not' cần đi với quá khứ phân từ, còn 'pay' là dạng nguyên thể.</li><li><b>has not paid</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành, nhưng chủ ngữ 'we' không phù hợp với 'has', và thì này không phù hợp để diễn tả hai hành động trong quá khứ.</li><li><b>would not pay</b> (động từ (khiếm khuyết)): Dạng điều kiện hoặc tương lai trong quá khứ, không phù hợp để diễn tả một hành động đã hoàn thành trước một sự kiện quá khứ khác.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Đèn đã tắt vì chúng tôi chưa trả tiền điện.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb tense that correctly shows the action happened before another past action. The sentence 'The lights went out because we ____ the electricity bill.' describes a situation in the past (the lights went out) and gives a reason that happened even earlier (not paying the bill). In English, we use the past perfect tense (had + past participle) to show an action that happened before another action in the past.<br><ul><li><b>had not paid</b> (verb (past perfect)): Past perfect tense: shows an action (not paying) happened before another past action (the lights went out).</li><li><b>have not pay</b> (verb (incorrect present perfect)): Incorrect tense and form. 'Have not' needs a past participle, and 'pay' is the base form.</li><li><b>has not paid</b> (verb (present perfect)): Present perfect tense, but the subject 'we' does not agree with 'has', and present perfect is not suitable for two past actions.</li><li><b>would not pay</b> (verb (modal)): Conditional or future-in-the-past, not suitable for describing a completed action before another past event.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle is used to show an action that happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002878",
+        "questionNumber": 15,
+        "questionText": "The weather was terrible. I wish it ____ warmer.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was",
+            "raw": "A. was",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "has been",
+            "raw": "B. has been",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "were",
+            "raw": "C. were",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had been",
+            "raw": "D. had been",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'I wish it ____ warmer,' the speaker is talking about a past situation (the weather was terrible). When expressing a wish about a past event that did not happen, we use 'wish' + past perfect tense (had + past participle).<br><ul><li><b>was</b> (verb (simple past)): 'was' is the simple past tense, which is not used after 'wish' when referring to a past event.</li><li><b>has been</b> (verb (present perfect)): 'has been' is the present perfect tense, which is not correct after 'wish' for past situations.</li><li><b>were</b> (verb (past subjunctive)): 'were' is the past subjunctive, used for unreal present or future situations, not for past events.</li><li><b>had been</b> (verb (past perfect)): 'had been' is the past perfect tense, which is the correct form to use after 'wish' when talking about a regret or unreal situation in the past.</li></ul><b>Related structure or vocabulary:</b> wish + past perfect (had + past participle) is used to express a wish or regret about a past situation that did not happen.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, 'I wish it ____ warmer,' người nói đang nói về một tình huống trong quá khứ (thời tiết đã rất tệ). Khi muốn diễn đạt một điều ước trái với thực tế trong quá khứ, ta dùng cấu trúc 'wish' + quá khứ hoàn thành (had + past participle).<br><ul><li><b>was</b> (động từ (quá khứ đơn)): 'was' là thì quá khứ đơn, không dùng sau 'wish' khi nói về một sự việc đã xảy ra trong quá khứ.</li><li><b>has been</b> (động từ (hiện tại hoàn thành)): 'has been' là thì hiện tại hoàn thành, không phù hợp sau 'wish' khi nói về sự việc trong quá khứ.</li><li><b>were</b> (động từ (giả định quá khứ)): 'were' là dạng giả định của động từ to be, dùng cho các tình huống không có thật ở hiện tại hoặc tương lai, không dùng cho quá khứ.</li><li><b>had been</b> (động từ (quá khứ hoàn thành)): 'had been' là thì quá khứ hoàn thành, là dạng đúng cần dùng sau 'wish' khi muốn nói về một điều ước hoặc sự tiếc nuối về một việc đã không xảy ra trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> wish + past perfect (had + past participle): dùng để diễn đạt điều ước hoặc sự tiếc nuối về một sự việc không có thật trong quá khứ.<br><br><b>Tạm dịch:</b> Thời tiết đã rất tệ. Tôi ước gì nó đã ấm hơn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'I wish it ____ warmer,' the speaker is talking about a past situation (the weather was terrible). When expressing a wish about a past event that did not happen, we use 'wish' + past perfect tense (had + past participle).<br><ul><li><b>was</b> (verb (simple past)): 'was' is the simple past tense, which is not used after 'wish' when referring to a past event.</li><li><b>has been</b> (verb (present perfect)): 'has been' is the present perfect tense, which is not correct after 'wish' for past situations.</li><li><b>were</b> (verb (past subjunctive)): 'were' is the past subjunctive, used for unreal present or future situations, not for past events.</li><li><b>had been</b> (verb (past perfect)): 'had been' is the past perfect tense, which is the correct form to use after 'wish' when talking about a regret or unreal situation in the past.</li></ul><b>Related structure or vocabulary:</b> wish + past perfect (had + past participle) is used to express a wish or regret about a past situation that did not happen.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b002879",
+        "questionNumber": 16,
+        "questionText": "Doctor Pike left the hospital after he ____ an uneventful evening on duty. He was thinking of his day of rest.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has had",
+            "raw": "A. has had",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had been",
+            "raw": "B. had been",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will have",
+            "raw": "C. will have",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had had",
+            "raw": "D. had had",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to show that Doctor Pike completed his duty before leaving the hospital. In this context, we need to use the past perfect tense to indicate an action that happened before another action in the past.<br><ul><li><b>has had</b> (verb (present perfect)): Present perfect tense, used for actions that happened at an unspecified time before now. Not suitable here because the sentence describes two actions in the past.</li><li><b>had been</b> (verb (past perfect continuous)): Past perfect continuous tense, used to show an action that was ongoing in the past before another action. However, 'an uneventful evening on duty' is a completed event, not a continuous one.</li><li><b>will have</b> (verb (future perfect)): Future perfect tense, used for actions that will be completed before a specific time in the future. Not suitable because the context is in the past.</li><li><b>had had</b> (verb (past perfect)): Past perfect tense, used to show that one past action happened before another past action. This fits the context: Doctor Pike had had an uneventful evening before he left the hospital.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: S + had + V3/ed, used to show the earlier of two past actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì động từ đúng để thể hiện rằng bác sĩ Pike đã hoàn thành ca trực trước khi rời bệnh viện. Trong trường hợp này, ta cần dùng thì quá khứ hoàn thành để chỉ một hành động xảy ra trước một hành động khác trong quá khứ.<br><ul><li><b>has had</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng cho hành động xảy ra vào một thời điểm không xác định trước hiện tại. Không phù hợp vì câu nói về hai hành động trong quá khứ.</li><li><b>had been</b> (động từ (quá khứ hoàn thành tiếp diễn)): Thì quá khứ hoàn thành tiếp diễn, dùng để chỉ hành động kéo dài trong quá khứ trước một hành động khác. Tuy nhiên, 'an uneventful evening on duty' là một sự kiện đã hoàn thành, không phải hành động kéo dài.</li><li><b>will have</b> (động từ (tương lai hoàn thành)): Thì tương lai hoàn thành, dùng cho hành động sẽ hoàn thành trước một thời điểm trong tương lai. Không phù hợp vì ngữ cảnh là quá khứ.</li><li><b>had had</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành, dùng để chỉ một hành động xảy ra trước một hành động khác trong quá khứ. Phù hợp với ngữ cảnh: Bác sĩ Pike đã có một buổi tối trực yên ả trước khi rời bệnh viện.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: S + had + V3/ed, dùng để chỉ hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Doctor Pike left the hospital after he had had an uneventful evening on duty. He was thinking of his day of rest. --> Bác sĩ Pike đã rời bệnh viện sau khi có một buổi tối trực yên ả. Ông ấy đang nghĩ về ngày nghỉ ngơi của mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to show that Doctor Pike completed his duty before leaving the hospital. In this context, we need to use the past perfect tense to indicate an action that happened before another action in the past.<br><ul><li><b>has had</b> (verb (present perfect)): Present perfect tense, used for actions that happened at an unspecified time before now. Not suitable here because the sentence describes two actions in the past.</li><li><b>had been</b> (verb (past perfect continuous)): Past perfect continuous tense, used to show an action that was ongoing in the past before another action. However, 'an uneventful evening on duty' is a completed event, not a continuous one.</li><li><b>will have</b> (verb (future perfect)): Future perfect tense, used for actions that will be completed before a specific time in the future. Not suitable because the context is in the past.</li><li><b>had had</b> (verb (past perfect)): Past perfect tense, used to show that one past action happened before another past action. This fits the context: Doctor Pike had had an uneventful evening before he left the hospital.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: S + had + V3/ed, used to show the earlier of two past actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00287a",
+        "questionNumber": 17,
+        "questionText": "He ____email before, so I showed him how to use it.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had not used",
+            "raw": "A. had not used",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "have not used",
+            "raw": "B. have not used",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has not used",
+            "raw": "C. has not used",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was not using",
+            "raw": "D. was not using",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate an action that happened before another action in the past. The sentence 'He ____ email before, so I showed him how to use it.' describes two actions: (1) He had not used email before, and (2) I showed him how to use it. The action of not using email happened before the action of showing. Therefore, we use the past perfect tense (had not used) to show the earlier action.<br><ul><li><b>had not used</b> (verb (past perfect)): Past perfect tense, used to describe an action that happened before another action in the past.</li><li><b>have not used</b> (verb (present perfect)): Present perfect tense, used for actions that happened at an unspecified time before now. Not suitable because the sentence is about the past.</li><li><b>has not used</b> (verb (present perfect)): Present perfect tense (third person singular), used for actions that happened at an unspecified time before now. Not suitable because the sentence is about the past.</li><li><b>was not using</b> (verb (past continuous)): Past continuous tense, used for actions that were ongoing at a specific time in the past. Not suitable because the sentence refers to a completed action before another past action.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show that one past action happened before another past action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì động từ phù hợp để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Câu 'He ____ email before, so I showed him how to use it.' mô tả hai hành động: (1) Anh ấy chưa từng sử dụng email trước đó, và (2) Tôi đã chỉ cho anh ấy cách sử dụng. Hành động chưa từng sử dụng email xảy ra trước hành động chỉ cách sử dụng, vì vậy ta dùng thì quá khứ hoàn thành (had not used) để diễn tả hành động xảy ra trước.<br><ul><li><b>had not used</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành, dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.</li><li><b>have not used</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng cho hành động xảy ra tại một thời điểm không xác định trước hiện tại. Không phù hợp vì câu nói về quá khứ.</li><li><b>has not used</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành (ngôi thứ ba số ít), dùng cho hành động xảy ra tại một thời điểm không xác định trước hiện tại. Không phù hợp vì câu nói về quá khứ.</li><li><b>was not using</b> (động từ (quá khứ tiếp diễn)): Thì quá khứ tiếp diễn, dùng cho hành động đang diễn ra tại một thời điểm xác định trong quá khứ. Không phù hợp vì câu nói về một hành động đã hoàn thành trước một hành động khác.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ. Dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Anh ấy chưa từng sử dụng email trước đó, vì vậy tôi đã chỉ cho anh ấy cách sử dụng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate an action that happened before another action in the past. The sentence 'He ____ email before, so I showed him how to use it.' describes two actions: (1) He had not used email before, and (2) I showed him how to use it. The action of not using email happened before the action of showing. Therefore, we use the past perfect tense (had not used) to show the earlier action.<br><ul><li><b>had not used</b> (verb (past perfect)): Past perfect tense, used to describe an action that happened before another action in the past.</li><li><b>have not used</b> (verb (present perfect)): Present perfect tense, used for actions that happened at an unspecified time before now. Not suitable because the sentence is about the past.</li><li><b>has not used</b> (verb (present perfect)): Present perfect tense (third person singular), used for actions that happened at an unspecified time before now. Not suitable because the sentence is about the past.</li><li><b>was not using</b> (verb (past continuous)): Past continuous tense, used for actions that were ongoing at a specific time in the past. Not suitable because the sentence refers to a completed action before another past action.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show that one past action happened before another past action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00287b",
+        "questionNumber": 18,
+        "questionText": "She _________ the ocean before she moved to Vancouver.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had never seen",
+            "raw": "A. had never seen",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "never seen",
+            "raw": "B. never seen",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have never seen",
+            "raw": "C. have never seen",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had never saw",
+            "raw": "D. had never saw",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the past perfect tense because the sentence describes an action (seeing the ocean) that happened before another action in the past (moving to Vancouver). The past perfect is formed with 'had' + past participle.<br><ul><li><b>had never seen</b> (verb phrase): 'had' (past perfect auxiliary) + 'never' (negative adverb) + 'seen' (past participle of 'see'). This is the correct past perfect negative form.</li><li><b>never seen</b> (verb phrase (incorrect form)): Missing the auxiliary verb 'had', so it is not a correct verb tense.</li><li><b>have never seen</b> (verb phrase): 'have' is present perfect, not past perfect. The sentence requires past perfect because it refers to an action before another past action.</li><li><b>had never saw</b> (verb phrase (incorrect form)): 'saw' is the simple past form, but past perfect requires the past participle 'seen'.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to describe an action that happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì quá khứ hoàn thành vì câu mô tả một hành động (nhìn thấy đại dương) xảy ra trước một hành động khác trong quá khứ (chuyển đến Vancouver). Thì quá khứ hoàn thành được hình thành với 'had' + quá khứ phân từ.<br><ul><li><b>had never seen</b> (cụm động từ): 'had' (trợ động từ quá khứ hoàn thành) + 'never' (trạng từ phủ định) + 'seen' (quá khứ phân từ của 'see'). Đây là dạng phủ định đúng của thì quá khứ hoàn thành.</li><li><b>never seen</b> (cụm động từ (dạng sai)): Thiếu trợ động từ 'had', nên không phải là thì đúng.</li><li><b>have never seen</b> (cụm động từ): 'have' là thì hiện tại hoàn thành, không phải quá khứ hoàn thành. Câu này cần thì quá khứ hoàn thành vì nói về hành động xảy ra trước một hành động khác trong quá khứ.</li><li><b>had never saw</b> (cụm động từ (dạng sai)): 'saw' là động từ quá khứ đơn, nhưng thì quá khứ hoàn thành cần dùng quá khứ phân từ 'seen'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ. Dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Cô ấy chưa bao giờ nhìn thấy đại dương trước khi chuyển đến Vancouver.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the past perfect tense because the sentence describes an action (seeing the ocean) that happened before another action in the past (moving to Vancouver). The past perfect is formed with 'had' + past participle.<br><ul><li><b>had never seen</b> (verb phrase): 'had' (past perfect auxiliary) + 'never' (negative adverb) + 'seen' (past participle of 'see'). This is the correct past perfect negative form.</li><li><b>never seen</b> (verb phrase (incorrect form)): Missing the auxiliary verb 'had', so it is not a correct verb tense.</li><li><b>have never seen</b> (verb phrase): 'have' is present perfect, not past perfect. The sentence requires past perfect because it refers to an action before another past action.</li><li><b>had never saw</b> (verb phrase (incorrect form)): 'saw' is the simple past form, but past perfect requires the past participle 'seen'.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to describe an action that happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00287c",
+        "questionNumber": 19,
+        "questionText": "The teacher ________ out when I arrived in the classroom.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "goes",
+            "raw": "A. goes",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have gone",
+            "raw": "B. have gone",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has gone",
+            "raw": "C. has gone",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had gone",
+            "raw": "D. had gone",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action 'arrived' happened in the past. We need to express that the teacher's action (going out) happened before 'I arrived'. In English, to show an action that happened before another action in the past, we use the past perfect tense (had + past participle). Therefore, the correct answer is 'had gone'.<br><ul><li><b>goes</b> (verb (present simple)): Present simple tense, used for habitual actions or general truths, not suitable for a past event.</li><li><b>have gone</b> (verb (present perfect)): Present perfect tense, used for actions that happened at an unspecified time before now, not suitable for two past actions.</li><li><b>has gone</b> (verb (present perfect, 3rd person singular)): Present perfect tense (third person singular), also not suitable for two past actions.</li><li><b>had gone</b> (verb (past perfect)): Past perfect tense, used to show an action that happened before another action in the past.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: S + had + past participle (V3) is used to describe an action that happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, hành động 'arrived' (đến nơi) xảy ra trong quá khứ. Ta cần diễn đạt rằng hành động của giáo viên (đi ra ngoài) đã xảy ra trước khi 'tôi đến'. Trong tiếng Anh, để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ). Vì vậy, đáp án đúng là 'had gone'.<br><ul><li><b>goes</b> (động từ (hiện tại đơn)): Thì hiện tại đơn, dùng cho thói quen hoặc sự thật chung, không phù hợp với sự kiện trong quá khứ.</li><li><b>have gone</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng cho hành động xảy ra trước thời điểm hiện tại, không phù hợp với hai hành động trong quá khứ.</li><li><b>has gone</b> (động từ (hiện tại hoàn thành, ngôi thứ ba số ít)): Thì hiện tại hoàn thành (ngôi thứ ba số ít), cũng không phù hợp với hai hành động trong quá khứ.</li><li><b>had gone</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành, dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: S + had + quá khứ phân từ (V3) dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Giáo viên đã ra ngoài khi tôi đến lớp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the action 'arrived' happened in the past. We need to express that the teacher's action (going out) happened before 'I arrived'. In English, to show an action that happened before another action in the past, we use the past perfect tense (had + past participle). Therefore, the correct answer is 'had gone'.<br><ul><li><b>goes</b> (verb (present simple)): Present simple tense, used for habitual actions or general truths, not suitable for a past event.</li><li><b>have gone</b> (verb (present perfect)): Present perfect tense, used for actions that happened at an unspecified time before now, not suitable for two past actions.</li><li><b>has gone</b> (verb (present perfect, 3rd person singular)): Present perfect tense (third person singular), also not suitable for two past actions.</li><li><b>had gone</b> (verb (past perfect)): Past perfect tense, used to show an action that happened before another action in the past.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: S + had + past participle (V3) is used to describe an action that happened before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204e293d1bfab7a5b00287d",
+        "questionNumber": 20,
+        "questionText": "I ______ my document before the power went out in the computer lab.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had save",
+            "raw": "A. had save",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have saved",
+            "raw": "B. have saved",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had saved",
+            "raw": "C. had saved",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "saved",
+            "raw": "D. saved",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to show that the action of saving the document happened before the power went out. In English, when we want to talk about an action that happened before another action in the past, we use the past perfect tense (had + past participle).<br><ul><li><b>had save</b> (verb phrase): Incorrect form. 'Had' must be followed by the past participle, not the base form.</li><li><b>have saved</b> (verb phrase): Present perfect tense, used for actions that have relevance to the present, not for two actions in the past.</li><li><b>had saved</b> (verb phrase): Past perfect tense (had + past participle), used to show that one past action happened before another past action.</li><li><b>saved</b> (verb): Simple past tense, used for a completed action in the past, but does not show the sequence of two past actions.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show that one action happened before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì động từ phù hợp để diễn tả hành động lưu tài liệu đã xảy ra trước khi mất điện. Trong tiếng Anh, khi muốn nói về một hành động xảy ra trước một hành động khác trong quá khứ, ta dùng thì quá khứ hoàn thành (had + quá khứ phân từ).<br><ul><li><b>had save</b> (cụm động từ): Sai cấu trúc. 'Had' phải đi với động từ ở dạng quá khứ phân từ, không phải dạng nguyên thể.</li><li><b>have saved</b> (cụm động từ): Thì hiện tại hoàn thành, dùng cho hành động có liên quan đến hiện tại, không phù hợp với hai hành động đều xảy ra trong quá khứ.</li><li><b>had saved</b> (cụm động từ): Thì quá khứ hoàn thành (had + quá khứ phân từ), dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.</li><li><b>saved</b> (động từ): Thì quá khứ đơn, dùng cho hành động đã hoàn thành trong quá khứ, nhưng không thể hiện rõ thứ tự hai hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ. Dùng để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Tôi đã lưu tài liệu của mình trước khi mất điện trong phòng máy tính.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to show that the action of saving the document happened before the power went out. In English, when we want to talk about an action that happened before another action in the past, we use the past perfect tense (had + past participle).<br><ul><li><b>had save</b> (verb phrase): Incorrect form. 'Had' must be followed by the past participle, not the base form.</li><li><b>have saved</b> (verb phrase): Present perfect tense, used for actions that have relevance to the present, not for two actions in the past.</li><li><b>had saved</b> (verb phrase): Past perfect tense (had + past participle), used to show that one past action happened before another past action.</li><li><b>saved</b> (verb): Simple past tense, used for a completed action in the past, but does not show the sequence of two past actions.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to show that one action happened before another action in the past.<br><br>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b13e",
+  "title": "Từ vựng: Shipping",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b21d",
+        "questionNumber": 1,
+        "questionText": "accurately",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev205.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/accurately.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "orrectly; without errors",
+            "raw": "correctly; without errors",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>The container company must balance the load <strong>accurately</strong> or there could be a disaster at sea.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng ty container phải c&acirc;n bằng tải trọng <strong>một c&aacute;ch ch&iacute;nh x&aacute;c</strong> nếu kh&ocirc;ng c&oacute; thể xảy ra thảm họa tr&ecirc;n biển.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The container company must balance the load <strong>accurately</strong> or there could be a disaster at sea.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b21e",
+        "questionNumber": 2,
+        "questionText": "carrier",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev206.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/carrier.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "person or business that transports passengers or goods",
+            "raw": "a person or business that transports passengers or goods",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Lou, our favorite <strong>carrier</strong>, takes extra care of our boxes marked fragile.</p>\n",
+        "explanationViHtml": "<p>Lou, <strong>người vận chuyển</strong> y&ecirc;u th&iacute;ch của ch&uacute;ng t&ocirc;i, lu&ocirc;n quan t&acirc;m đặc biệt đến những chiếc hộp được đ&aacute;nh dấu l&agrave; dễ vỡ.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Lou, our favorite <strong>carrier</strong>, takes extra care of our boxes marked fragile.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b21f",
+        "questionNumber": 3,
+        "questionText": "catalog",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev207.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/catalog.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "list or itemized display; v., to make an itemized list of",
+            "raw": "a list or itemized display; v., to make an itemized list of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The upcoming fall <strong>catalog</strong> shows a number of items from Laos that Mr. Lau has never before been able to offer.</p>\n",
+        "explanationViHtml": "<p><strong>Danh mục</strong> m&ugrave;a thu sắp tới sẽ giới thiệu nhiều mặt h&agrave;ng từ L&agrave;o m&agrave; &ocirc;ng Lau chưa từng c&oacute; dịp cung cấp trước đ&acirc;y.</p>\n",
+        "transcriptHtml": "<p>The upcoming fall <strong>catalog</strong> shows a number of items from Laos that Mr. Lau has never before been able to offer.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b220",
+        "questionNumber": 4,
+        "questionText": "fulfill",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev208.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fulfill.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to finish completion",
+            "raw": "to finish completion",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The engineers<strong> fulfilled </strong>a client&rsquo;s request for larger display screens.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c kỹ sư đ&atilde; <strong>đ&aacute;p ứng </strong>y&ecirc;u cầu của kh&aacute;ch h&agrave;ng về m&agrave;n h&igrave;nh hiển thị lớn hơn.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The engineers<strong> fulfilled </strong>a client&rsquo;s request for larger display screens.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b221",
+        "questionNumber": 5,
+        "questionText": "integral",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev209.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/integral.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "necessary for completion",
+            "raw": "necessary for completion",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Good customer relations is an <strong>integral </strong>component of any business.</p>\n",
+        "explanationViHtml": "<p>Quan hệ kh&aacute;ch h&agrave;ng tốt l&agrave; một phần <strong>kh&ocirc;ng thể thiếu</strong> của bất kỳ doanh nghiệp n&agrave;o.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Good customer relations is an <strong>integral </strong>component of any business.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b222",
+        "questionNumber": 6,
+        "questionText": "inventory",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev210.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/inventory.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "goods in stock; an itemized record of these goods",
+            "raw": "goods in stock; an itemized record of these goods",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The store closes one day a year so that the staff can take<strong> inventory</strong> of the stockroom.</p>\n",
+        "explanationViHtml": "<p>Cửa h&agrave;ng đ&oacute;ng cửa một ng&agrave;y trong năm để nh&acirc;n vi&ecirc;n c&oacute; thể <strong>kiểm k&ecirc;</strong> h&agrave;ng tồn kho.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The store closes one day a year so that the staff can take<strong> inventory</strong> of the stockroom.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b223",
+        "questionNumber": 7,
+        "questionText": "minimize",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev211.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/minimize.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to reduce; to give less importance to",
+            "raw": "to reduce; to give less importance to",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The shipping staff <strong>minimized</strong> customer complaints by working overtime to deliver the packages quickly.</p>\n",
+        "explanationViHtml": "<p>Nh&acirc;n vi&ecirc;n vận chuyển <strong>giảm thiểu</strong> khiếu nại của kh&aacute;ch h&agrave;ng bằng c&aacute;ch l&agrave;m việc ngo&agrave;i giờ để giao h&agrave;ng nhanh ch&oacute;ng.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The shipping staff <strong>minimized</strong> customer complaints by working overtime to deliver the packages quickly.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b224",
+        "questionNumber": 8,
+        "questionText": "on hand",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev212.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/on hand.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "vailable",
+            "raw": "available",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We had too much stock <strong>on hand</strong>. So we had a summer sale.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i c&oacute; qu&aacute; nhiều h&agrave;ng <strong>c&oacute; sẵn</strong>. V&igrave; vậy ch&uacute;ng t&ocirc;i đ&atilde; c&oacute; một đợt giảm gi&aacute; m&ugrave;a h&egrave;.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>We had too much stock <strong>on hand</strong>. So we had a summer sale.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b225",
+        "questionNumber": 9,
+        "questionText": "remember",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev213.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/remember.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to think of again; to retain in the memory",
+            "raw": "to think of again; to retain in the memory",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I <strong>remembered</strong> the delivery clerk&rsquo;s name as soon as I got off the phone.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i <strong>nhớ </strong>t&ecirc;n nh&acirc;n vi&ecirc;n giao h&agrave;ng ngay khi c&uacute;p m&aacute;y.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>I <strong>remembered</strong> the delivery clerk&rsquo;s name as soon as I got off the phone.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b226",
+        "questionNumber": 10,
+        "questionText": "ship",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev214.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ship.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to transport; to send",
+            "raw": "to transport; to send",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Eva <strong>shipped </strong>the package carefully, since she knew the contents were made of glass.</p>\n",
+        "explanationViHtml": "<p>Eva <strong>vận chuyển </strong>g&oacute;i h&agrave;ng một c&aacute;ch cẩn thận v&igrave; c&ocirc; biết b&ecirc;n trong được l&agrave;m bằng thủy tinh.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Eva <strong>shipped </strong>the package carefully, since she knew the contents were made of glass.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b227",
+        "questionNumber": 11,
+        "questionText": "sufficiently",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev215.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/sufficiently.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "enough",
+            "raw": "enough",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The following day she felt <strong>sufficiently</strong> well to go to work.</p>\n",
+        "explanationViHtml": "<p>Ng&agrave;y h&ocirc;m sau c&ocirc; cảm thấy <strong>đủ </strong>khỏe để đi l&agrave;m.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>The following day she felt <strong>sufficiently</strong> well to go to work.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b228",
+        "questionNumber": 12,
+        "questionText": "supply",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev216.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/supply.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to make available for use; to provide; stock/ a stock",
+            "raw": "to make available for use; to provide; stock/ a stock",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Gerald <strong>supplied </strong>the shipping staff with enough labels to last a year.</p>\n",
+        "explanationViHtml": "<p>Gerald đ&atilde; <strong>cung cấp </strong>cho nh&acirc;n vi&ecirc;n vận chuyển đủ nh&atilde;n để sử dụng trong một năm.<br />\n&nbsp;</p>\n",
+        "transcriptHtml": "<p>Gerald <strong>supplied </strong>the shipping staff with enough labels to last a year.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b21d",
+      "word": "accurately",
+      "phonetic": "/ˈækjərətli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev205.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/accurately.mp3",
+      "meaningVi": "một cách chính xác",
+      "meaningEn": "correctly; without errors",
+      "exampleEnHtml": "<p>The container company must balance the load <strong>accurately</strong> or there could be a disaster at sea.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng ty container phải c&acirc;n bằng tải trọng <strong>một c&aacute;ch ch&iacute;nh x&aacute;c</strong> nếu kh&ocirc;ng c&oacute; thể xảy ra thảm họa tr&ecirc;n biển.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The container company must balance the load accurately or there could be a disaster at sea.",
+      "exampleVi": "Công ty container phải cân bằng tải trọng một cách chính xác nếu không có thể xảy ra thảm họa trên biển.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b21e",
+      "word": "carrier",
+      "phonetic": "/ˈkæriər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev206.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/carrier.mp3",
+      "meaningVi": "người vận chuyển",
+      "meaningEn": "a person or business that transports passengers or goods",
+      "exampleEnHtml": "<p>Lou, our favorite <strong>carrier</strong>, takes extra care of our boxes marked fragile.</p>\n",
+      "exampleViHtml": "<p>Lou, <strong>người vận chuyển</strong> y&ecirc;u th&iacute;ch của ch&uacute;ng t&ocirc;i, lu&ocirc;n quan t&acirc;m đặc biệt đến những chiếc hộp được đ&aacute;nh dấu l&agrave; dễ vỡ.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Lou, our favorite carrier, takes extra care of our boxes marked fragile.",
+      "exampleVi": "Lou, người vận chuyển yêu thích của chúng tôi, luôn quan tâm đặc biệt đến những chiếc hộp được đánh dấu là dễ vỡ.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b21f",
+      "word": "catalog",
+      "phonetic": "/ˈkætəlɔːɡ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev207.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/catalog.mp3",
+      "meaningVi": "Danh mục",
+      "meaningEn": "a list or itemized display; v., to make an itemized list of",
+      "exampleEnHtml": "<p>The upcoming fall <strong>catalog</strong> shows a number of items from Laos that Mr. Lau has never before been able to offer.</p>\n",
+      "exampleViHtml": "<p><strong>Danh mục</strong> m&ugrave;a thu sắp tới sẽ giới thiệu nhiều mặt h&agrave;ng từ L&agrave;o m&agrave; &ocirc;ng Lau chưa từng c&oacute; dịp cung cấp trước đ&acirc;y.</p>\n",
+      "exampleEn": "The upcoming fall catalog shows a number of items from Laos that Mr. Lau has never before been able to offer.",
+      "exampleVi": "Danh mục mùa thu sắp tới sẽ giới thiệu nhiều mặt hàng từ Lào mà ông Lau chưa từng có dịp cung cấp trước đây."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b220",
+      "word": "fulfill",
+      "phonetic": "/fʊlˈfɪl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev208.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fulfill.mp3",
+      "meaningVi": "đáp ứng",
+      "meaningEn": "to finish completion",
+      "exampleEnHtml": "<p>The engineers<strong> fulfilled </strong>a client&rsquo;s request for larger display screens.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c kỹ sư đ&atilde; <strong>đ&aacute;p ứng </strong>y&ecirc;u cầu của kh&aacute;ch h&agrave;ng về m&agrave;n h&igrave;nh hiển thị lớn hơn.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The engineers fulfilled a client’s request for larger display screens.",
+      "exampleVi": "Các kỹ sư đã đáp ứng yêu cầu của khách hàng về màn hình hiển thị lớn hơn.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b221",
+      "word": "integral",
+      "phonetic": "/ˈɪntɪɡrəl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev209.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/integral.mp3",
+      "meaningVi": "không thể thiếu",
+      "meaningEn": "necessary for completion",
+      "exampleEnHtml": "<p>Good customer relations is an <strong>integral </strong>component of any business.</p>\n",
+      "exampleViHtml": "<p>Quan hệ kh&aacute;ch h&agrave;ng tốt l&agrave; một phần <strong>kh&ocirc;ng thể thiếu</strong> của bất kỳ doanh nghiệp n&agrave;o.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Good customer relations is an integral component of any business.",
+      "exampleVi": "Quan hệ khách hàng tốt là một phần không thể thiếu của bất kỳ doanh nghiệp nào.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b222",
+      "word": "inventory",
+      "phonetic": "/ˈɪnvəntɔːri/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev210.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/inventory.mp3",
+      "meaningVi": "kiểm kê",
+      "meaningEn": "goods in stock; an itemized record of these goods",
+      "exampleEnHtml": "<p>The store closes one day a year so that the staff can take<strong> inventory</strong> of the stockroom.</p>\n",
+      "exampleViHtml": "<p>Cửa h&agrave;ng đ&oacute;ng cửa một ng&agrave;y trong năm để nh&acirc;n vi&ecirc;n c&oacute; thể <strong>kiểm k&ecirc;</strong> h&agrave;ng tồn kho.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The store closes one day a year so that the staff can take inventory of the stockroom.",
+      "exampleVi": "Cửa hàng đóng cửa một ngày trong năm để nhân viên có thể kiểm kê hàng tồn kho.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b223",
+      "word": "minimize",
+      "phonetic": "/ˈmɪnɪmaɪz/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev211.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/minimize.mp3",
+      "meaningVi": "giảm thiểu",
+      "meaningEn": "to reduce; to give less importance to",
+      "exampleEnHtml": "<p>The shipping staff <strong>minimized</strong> customer complaints by working overtime to deliver the packages quickly.</p>\n",
+      "exampleViHtml": "<p>Nh&acirc;n vi&ecirc;n vận chuyển <strong>giảm thiểu</strong> khiếu nại của kh&aacute;ch h&agrave;ng bằng c&aacute;ch l&agrave;m việc ngo&agrave;i giờ để giao h&agrave;ng nhanh ch&oacute;ng.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The shipping staff minimized customer complaints by working overtime to deliver the packages quickly.",
+      "exampleVi": "Nhân viên vận chuyển giảm thiểu khiếu nại của khách hàng bằng cách làm việc ngoài giờ để giao hàng nhanh chóng.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b224",
+      "word": "on hand",
+      "phonetic": "/hænd/,  prepositional phrase",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev212.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/on hand.mp3",
+      "meaningVi": "có sẵn",
+      "meaningEn": "available",
+      "exampleEnHtml": "<p>We had too much stock <strong>on hand</strong>. So we had a summer sale.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i c&oacute; qu&aacute; nhiều h&agrave;ng <strong>c&oacute; sẵn</strong>. V&igrave; vậy ch&uacute;ng t&ocirc;i đ&atilde; c&oacute; một đợt giảm gi&aacute; m&ugrave;a h&egrave;.<br />\n&nbsp;</p>\n",
+      "exampleEn": "We had too much stock on hand. So we had a summer sale.",
+      "exampleVi": "Chúng tôi có quá nhiều hàng có sẵn. Vì vậy chúng tôi đã có một đợt giảm giá mùa hè.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b225",
+      "word": "remember",
+      "phonetic": "/rɪˈmembər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev213.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/remember.mp3",
+      "meaningVi": "nhớ",
+      "meaningEn": "to think of again; to retain in the memory",
+      "exampleEnHtml": "<p>I <strong>remembered</strong> the delivery clerk&rsquo;s name as soon as I got off the phone.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i <strong>nhớ </strong>t&ecirc;n nh&acirc;n vi&ecirc;n giao h&agrave;ng ngay khi c&uacute;p m&aacute;y.<br />\n&nbsp;</p>\n",
+      "exampleEn": "I remembered the delivery clerk’s name as soon as I got off the phone.",
+      "exampleVi": "Tôi nhớ tên nhân viên giao hàng ngay khi cúp máy.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b226",
+      "word": "ship",
+      "phonetic": "/ʃɪp/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev214.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ship.mp3",
+      "meaningVi": "vận chuyển",
+      "meaningEn": "to transport; to send",
+      "exampleEnHtml": "<p>Eva <strong>shipped </strong>the package carefully, since she knew the contents were made of glass.</p>\n",
+      "exampleViHtml": "<p>Eva <strong>vận chuyển </strong>g&oacute;i h&agrave;ng một c&aacute;ch cẩn thận v&igrave; c&ocirc; biết b&ecirc;n trong được l&agrave;m bằng thủy tinh.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Eva shipped the package carefully, since she knew the contents were made of glass.",
+      "exampleVi": "Eva vận chuyển gói hàng một cách cẩn thận vì cô biết bên trong được làm bằng thủy tinh.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b227",
+      "word": "sufficiently",
+      "phonetic": "/səˈfɪʃntli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev215.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/sufficiently.mp3",
+      "meaningVi": "đủ",
+      "meaningEn": "enough",
+      "exampleEnHtml": "<p>The following day she felt <strong>sufficiently</strong> well to go to work.</p>\n",
+      "exampleViHtml": "<p>Ng&agrave;y h&ocirc;m sau c&ocirc; cảm thấy <strong>đủ </strong>khỏe để đi l&agrave;m.<br />\n&nbsp;</p>\n",
+      "exampleEn": "The following day she felt sufficiently well to go to work.",
+      "exampleVi": "Ngày hôm sau cô cảm thấy đủ khỏe để đi làm.\n "
+    },
+    {
+      "id": "61c14bee92d7f67f5140b228",
+      "word": "supply",
+      "phonetic": "/səˈplaɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev216.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/supply.mp3",
+      "meaningVi": "cung cấp",
+      "meaningEn": "to make available for use; to provide; stock/ a stock",
+      "exampleEnHtml": "<p>Gerald <strong>supplied </strong>the shipping staff with enough labels to last a year.</p>\n",
+      "exampleViHtml": "<p>Gerald đ&atilde; <strong>cung cấp </strong>cho nh&acirc;n vi&ecirc;n vận chuyển đủ nh&atilde;n để sử dụng trong một năm.<br />\n&nbsp;</p>\n",
+      "exampleEn": "Gerald supplied the shipping staff with enough labels to last a year.",
+      "exampleVi": "Gerald đã cung cấp cho nhân viên vận chuyển đủ nhãn để sử dụng trong một năm.\n "
+    }
+  ],
+  "totalFlashcards": 12
+}

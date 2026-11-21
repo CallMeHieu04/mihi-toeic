@@ -1,0 +1,808 @@
+{
+  "topicId": "62049aa3d1bfab7a5b000a62",
+  "title": "NOUN, ADJECTIVE, ADVERB EXCERCISES - Practice 3",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bb7",
+        "questionNumber": 1,
+        "questionText": "The contract is being sent by a courier and should be arriving ____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "shortly",
+            "raw": "A. shortly",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "shortness",
+            "raw": "B. shortness",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "shorten",
+            "raw": "C. shorten",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "short",
+            "raw": "D.  short",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires an adverb to modify the verb phrase 'should be arriving.' The adverb 'shortly' means 'soon' or 'in a short time,' which fits the context of something being delivered. The other options are not adverbs and do not fit grammatically.<br><ul><li><b>shortly</b> (adverb): An adverb meaning 'soon' or 'in a short time.' Used to describe when something will happen.</li><li><b>shortness</b> (noun): A noun meaning 'the quality of being short.' Not suitable here as a noun cannot modify a verb.</li><li><b>shorten</b> (verb): A verb meaning 'to make shorter.' Not suitable here as a verb cannot modify another verb.</li><li><b>short</b> (adjective): An adjective meaning 'not long.' Not suitable here as an adjective cannot modify a verb.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. In this sentence, an adverb is needed to describe when the contract will arrive. Common adverbs of time include: soon, shortly, later, etc.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một trạng từ để bổ nghĩa cho cụm động từ 'should be arriving.' Trạng từ 'shortly' có nghĩa là 'sớm' hoặc 'trong thời gian ngắn,' phù hợp với ngữ cảnh nói về việc một vật sẽ được giao đến. Các lựa chọn khác không phải là trạng từ nên không phù hợp về mặt ngữ pháp.<br><ul><li><b>shortly</b> (trạng từ): Trạng từ, nghĩa là 'sớm' hoặc 'trong thời gian ngắn.' Dùng để diễn tả thời điểm một việc gì đó sẽ xảy ra.</li><li><b>shortness</b> (danh từ): Danh từ, nghĩa là 'sự ngắn.' Không phù hợp vì danh từ không thể bổ nghĩa cho động từ.</li><li><b>shorten</b> (động từ): Động từ, nghĩa là 'làm ngắn lại.' Không phù hợp vì động từ không thể bổ nghĩa cho động từ khác.</li><li><b>short</b> (tính từ): Tính từ, nghĩa là 'ngắn.' Không phù hợp vì tính từ không thể bổ nghĩa cho động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ (adverb) dùng để bổ nghĩa cho động từ, tính từ hoặc trạng từ khác. Trong câu này, cần một trạng từ để diễn tả thời gian hợp lý cho động từ 'arriving.' Một số trạng từ chỉ thời gian thường gặp: soon, shortly, later, ...<br><br><b>Tạm dịch:</b> Hợp đồng đang được gửi bằng dịch vụ chuyển phát nhanh và sẽ đến SỚM.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires an adverb to modify the verb phrase 'should be arriving.' The adverb 'shortly' means 'soon' or 'in a short time,' which fits the context of something being delivered. The other options are not adverbs and do not fit grammatically.<br><ul><li><b>shortly</b> (adverb): An adverb meaning 'soon' or 'in a short time.' Used to describe when something will happen.</li><li><b>shortness</b> (noun): A noun meaning 'the quality of being short.' Not suitable here as a noun cannot modify a verb.</li><li><b>shorten</b> (verb): A verb meaning 'to make shorter.' Not suitable here as a verb cannot modify another verb.</li><li><b>short</b> (adjective): An adjective meaning 'not long.' Not suitable here as an adjective cannot modify a verb.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. In this sentence, an adverb is needed to describe when the contract will arrive. Common adverbs of time include: soon, shortly, later, etc.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bb8",
+        "questionNumber": 2,
+        "questionText": "The cashiers have asked ____ not to cut in line and have requested that they wait patiently for their turn to check out.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "shopper",
+            "raw": "A. shopper",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "shopping",
+            "raw": "B. shopping",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to shop",
+            "raw": "C. to shop",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "shoppers",
+            "raw": "D. shoppers",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The cashiers have asked ____ not to cut in line and have requested that they wait patiently for their turn to check out.' requires a plural noun to refer to the people being addressed. The subject of the request is the group of people who are waiting to check out, so the correct word should be the plural form 'shoppers.'<br><ul><li><b>shopper</b> (noun (singular)): Singular noun, refers to one person who shops.</li><li><b>shopping</b> (noun (gerund) / verb (present participle)): Gerund or present participle, refers to the activity of buying things.</li><li><b>to shop</b> (verb (infinitive)): Infinitive form of the verb 'shop,' meaning to buy things.</li><li><b>shoppers</b> (noun (plural)): Plural noun, refers to more than one person who shops.</li></ul><b>Related structure or vocabulary:</b> ask + object + (not) to do something: yêu cầu ai đó (không) làm gì; Plural nouns are used when referring to more than one person.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The cashiers have asked ____ not to cut in line and have requested that they wait patiently for their turn to check out.' cần một danh từ số nhiều để chỉ nhóm người được yêu cầu. Đối tượng được nhắc đến là những người đang chờ thanh toán, vì vậy từ đúng phải là danh từ số nhiều 'shoppers.'<br><ul><li><b>shopper</b> (danh từ (số ít)): Danh từ số ít, chỉ một người đi mua sắm.</li><li><b>shopping</b> (danh động từ / động từ (phân từ hiện tại)): Danh động từ hoặc hiện tại phân từ, chỉ hoạt động mua sắm.</li><li><b>to shop</b> (động từ (nguyên thể)): Động từ nguyên thể, nghĩa là đi mua sắm.</li><li><b>shoppers</b> (danh từ (số nhiều)): Danh từ số nhiều, chỉ nhiều người đi mua sắm.</li></ul><b>Cấu trúc và từ vựng:</b> ask + object + (not) to do something: yêu cầu ai đó (không) làm gì; Danh từ số nhiều dùng khi nói về nhiều người.<br><br><b>Tạm dịch:</b> Các thu ngân đã yêu cầu những người mua sắm không chen hàng và đề nghị họ kiên nhẫn chờ đến lượt mình để thanh toán.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The cashiers have asked ____ not to cut in line and have requested that they wait patiently for their turn to check out.' requires a plural noun to refer to the people being addressed. The subject of the request is the group of people who are waiting to check out, so the correct word should be the plural form 'shoppers.'<br><ul><li><b>shopper</b> (noun (singular)): Singular noun, refers to one person who shops.</li><li><b>shopping</b> (noun (gerund) / verb (present participle)): Gerund or present participle, refers to the activity of buying things.</li><li><b>to shop</b> (verb (infinitive)): Infinitive form of the verb 'shop,' meaning to buy things.</li><li><b>shoppers</b> (noun (plural)): Plural noun, refers to more than one person who shops.</li></ul><b>Related structure or vocabulary:</b> ask + object + (not) to do something: yêu cầu ai đó (không) làm gì; Plural nouns are used when referring to more than one person.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bb9",
+        "questionNumber": 3,
+        "questionText": "The manager acted ____ when he organized an effort to raise money for the homeless.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "charity",
+            "raw": "A. charity",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "charities",
+            "raw": "B. charities",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "charitableness",
+            "raw": "C. charitableness",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "charitably",
+            "raw": "D. charitably",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The manager acted ____ when he organized an effort to raise money for the homeless.' requires an adverb to modify the verb 'acted.' Adverbs are used to describe how an action is performed. The correct adverb form of 'charity' is 'charitably.'<br><ul><li><b>charity</b> (noun): Noun - refers to the act of giving help, usually in the form of money, to those in need.</li><li><b>charities</b> (noun (plural)): Plural noun - refers to multiple organizations or acts of giving help.</li><li><b>charitableness</b> (noun): Noun - refers to the quality of being charitable.</li><li><b>charitably</b> (adverb): Adverb - describes doing something in a charitable way.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs and answer the question 'how?' For example: act kindly, speak softly, work diligently.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The manager acted ____ when he organized an effort to raise money for the homeless.' cần một trạng từ để bổ nghĩa cho động từ 'acted.' Trạng từ dùng để miêu tả cách một hành động được thực hiện. Dạng trạng từ của 'charity' là 'charitably.'<br><ul><li><b>charity</b> (danh từ): Danh từ - chỉ hành động từ thiện, thường là giúp đỡ bằng tiền cho người cần.</li><li><b>charities</b> (danh từ (số nhiều)): Danh từ số nhiều - chỉ nhiều tổ chức hoặc hành động từ thiện.</li><li><b>charitableness</b> (danh từ): Danh từ - chỉ phẩm chất hay tính cách từ thiện.</li><li><b>charitably</b> (trạng từ): Trạng từ - miêu tả hành động một cách từ thiện.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ (adverb) dùng để bổ nghĩa cho động từ, trả lời cho câu hỏi 'như thế nào?' Ví dụ: act kindly (hành động một cách tử tế), speak softly (nói nhỏ nhẹ), work diligently (làm việc chăm chỉ).<br><br><b>Tạm dịch:</b> Người quản lý đã hành động một cách từ thiện khi ông tổ chức một nỗ lực để quyên góp tiền cho người vô gia cư.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The manager acted ____ when he organized an effort to raise money for the homeless.' requires an adverb to modify the verb 'acted.' Adverbs are used to describe how an action is performed. The correct adverb form of 'charity' is 'charitably.'<br><ul><li><b>charity</b> (noun): Noun - refers to the act of giving help, usually in the form of money, to those in need.</li><li><b>charities</b> (noun (plural)): Plural noun - refers to multiple organizations or acts of giving help.</li><li><b>charitableness</b> (noun): Noun - refers to the quality of being charitable.</li><li><b>charitably</b> (adverb): Adverb - describes doing something in a charitable way.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs and answer the question 'how?' For example: act kindly, speak softly, work diligently.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bba",
+        "questionNumber": 4,
+        "questionText": "While many deemed it  ____, Derrick Wilson refused to give up his dream of being accepted to the space program.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "impossible",
+            "raw": "A. impossible",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "impossibility",
+            "raw": "B. impossibility",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "impossibly",
+            "raw": "C. impossibly",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "impossibleness",
+            "raw": "D. impossibleness",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'While many deemed it ____, Derrick Wilson refused to give up his dream of being accepted to the space program.' requires an adjective to describe 'it.' The verb 'deemed' (considered) is usually followed by an adjective or noun complement. Here, the context suggests that 'it' refers to the possibility of being accepted to the space program, and people considered it to be something (an adjective is needed).<br><ul><li><b>impossible</b> (adjective): An adjective meaning 'not able to be done or achieved.' This fits the structure 'deemed it + adjective.'</li><li><b>impossibility</b> (noun): A noun meaning 'the state of being impossible.' Not suitable here because 'deemed it' is usually followed by an adjective.</li><li><b>impossibly</b> (adverb): An adverb meaning 'in an impossible manner.' Not suitable because an adverb cannot be used after 'deemed it.'</li><li><b>impossibleness</b> (noun): A rarely used noun meaning 'the quality of being impossible.' Not natural or correct in this context.</li></ul><b>Related structure or vocabulary:</b> deem + object + adjective: to consider something as having a particular quality. Example: They deemed it necessary.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'While many deemed it ____, Derrick Wilson refused to give up his dream of being accepted to the space program.' cần một tính từ để bổ nghĩa cho 'it.' Động từ 'deemed' (cho rằng, coi là) thường được theo sau bởi một bổ ngữ là tính từ hoặc danh từ. Ở đây, ngữ cảnh cho thấy 'it' ám chỉ khả năng được nhận vào chương trình không gian, và nhiều người cho rằng điều đó như thế nào (cần một tính từ).<br><ul><li><b>impossible</b> (tính từ): Tính từ, nghĩa là 'không thể thực hiện được.' Phù hợp với cấu trúc 'deemed it + adjective.'</li><li><b>impossibility</b> (danh từ): Danh từ, nghĩa là 'sự không thể.' Không phù hợp vì 'deemed it' thường theo sau bởi tính từ.</li><li><b>impossibly</b> (trạng từ): Trạng từ, nghĩa là 'một cách không thể.' Không phù hợp vì không dùng trạng từ sau 'deemed it.'</li><li><b>impossibleness</b> (danh từ): Danh từ hiếm dùng, nghĩa là 'tính không thể.' Không tự nhiên và không đúng trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> deem + tân ngữ + tính từ: coi ai/cái gì như thế nào. Ví dụ: They deemed it necessary. (Họ cho rằng điều đó là cần thiết.)<br><br><b>Tạm dịch:</b> Trong khi nhiều người cho rằng điều đó là không thể, Derrick Wilson vẫn không từ bỏ ước mơ được nhận vào chương trình không gian.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'While many deemed it ____, Derrick Wilson refused to give up his dream of being accepted to the space program.' requires an adjective to describe 'it.' The verb 'deemed' (considered) is usually followed by an adjective or noun complement. Here, the context suggests that 'it' refers to the possibility of being accepted to the space program, and people considered it to be something (an adjective is needed).<br><ul><li><b>impossible</b> (adjective): An adjective meaning 'not able to be done or achieved.' This fits the structure 'deemed it + adjective.'</li><li><b>impossibility</b> (noun): A noun meaning 'the state of being impossible.' Not suitable here because 'deemed it' is usually followed by an adjective.</li><li><b>impossibly</b> (adverb): An adverb meaning 'in an impossible manner.' Not suitable because an adverb cannot be used after 'deemed it.'</li><li><b>impossibleness</b> (noun): A rarely used noun meaning 'the quality of being impossible.' Not natural or correct in this context.</li></ul><b>Related structure or vocabulary:</b> deem + object + adjective: to consider something as having a particular quality. Example: They deemed it necessary.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bbb",
+        "questionNumber": 5,
+        "questionText": "Ms. Alowolo’s proposal will be ____ implemented by the department despite the fact that she no longer works there.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "subsequent",
+            "raw": "A. subsequent",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "subsequent to",
+            "raw": "B. subsequent to",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "subsequently",
+            "raw": "C. subsequently",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "subsequence",
+            "raw": "D. subsequence",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Ms. Alowolo’s proposal will be ____ implemented by the department despite the fact that she no longer works there.' requires an adverb to modify the verb 'implemented.' Adverbs are used to describe how an action is performed. In this context, we need an adverb meaning 'afterward' or 'later on,' which is 'subsequently.'<br><ul><li><b>subsequent</b> (adjective): This is an adjective, meaning 'coming after something in time.' It cannot be used to modify a verb.</li><li><b>subsequent to</b> (prepositional phrase): This is a prepositional phrase, meaning 'after.' It cannot be used to modify a verb directly.</li><li><b>subsequently</b> (adverb): This is an adverb, meaning 'after a particular thing has happened; afterward.' It is used to modify verbs.</li><li><b>subsequence</b> (noun): This is a noun, meaning 'the state of being subsequent' or 'a sequence that follows another.' It cannot modify a verb.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. In passive voice constructions like 'will be implemented,' an adverb is needed to describe how or when the action is performed. 'Subsequently' is the adverb form of 'subsequent.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Ms. Alowolo’s proposal will be ____ implemented by the department despite the fact that she no longer works there.' cần một trạng từ để bổ nghĩa cho động từ 'implemented.' Trạng từ dùng để miêu tả cách thức hoặc thời điểm một hành động được thực hiện. Trong trường hợp này, chúng ta cần một trạng từ mang nghĩa 'sau đó,' đó là 'subsequently.'<br><ul><li><b>subsequent</b> (tính từ): Đây là tính từ, nghĩa là 'đến sau, xảy ra sau.' Không thể dùng để bổ nghĩa cho động từ.</li><li><b>subsequent to</b> (cụm giới từ): Đây là cụm giới từ, nghĩa là 'sau khi.' Không thể dùng để bổ nghĩa trực tiếp cho động từ.</li><li><b>subsequently</b> (trạng từ): Đây là trạng từ, nghĩa là 'sau đó, rồi thì.' Dùng để bổ nghĩa cho động từ.</li><li><b>subsequence</b> (danh từ): Đây là danh từ, nghĩa là 'sự kế tiếp, chuỗi tiếp theo.' Không thể bổ nghĩa cho động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ (adverb) dùng để bổ nghĩa cho động từ, tính từ hoặc trạng từ khác. Trong cấu trúc bị động như 'will be implemented,' cần một trạng từ để miêu tả cách thức hoặc thời điểm hành động được thực hiện. 'Subsequently' là trạng từ của 'subsequent.'<br><br><b>Tạm dịch:</b> Đề xuất của cô Alowolo sẽ được bộ phận thực hiện SAU ĐÓ mặc dù cô ấy không còn làm việc ở đó nữa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Ms. Alowolo’s proposal will be ____ implemented by the department despite the fact that she no longer works there.' requires an adverb to modify the verb 'implemented.' Adverbs are used to describe how an action is performed. In this context, we need an adverb meaning 'afterward' or 'later on,' which is 'subsequently.'<br><ul><li><b>subsequent</b> (adjective): This is an adjective, meaning 'coming after something in time.' It cannot be used to modify a verb.</li><li><b>subsequent to</b> (prepositional phrase): This is a prepositional phrase, meaning 'after.' It cannot be used to modify a verb directly.</li><li><b>subsequently</b> (adverb): This is an adverb, meaning 'after a particular thing has happened; afterward.' It is used to modify verbs.</li><li><b>subsequence</b> (noun): This is a noun, meaning 'the state of being subsequent' or 'a sequence that follows another.' It cannot modify a verb.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. In passive voice constructions like 'will be implemented,' an adverb is needed to describe how or when the action is performed. 'Subsequently' is the adverb form of 'subsequent.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bbc",
+        "questionNumber": 6,
+        "questionText": "The government has taken ____ measures to cut down on the amount of insider trading that is occurring.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "signify",
+            "raw": "A. signify",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "significant",
+            "raw": "B. significant",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "significantly",
+            "raw": "C. significantly",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "significance",
+            "raw": "D. significance",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires an adjective to modify the noun 'measures.' Adjectives are used to describe or give more information about nouns. The word 'significant' is an adjective that means 'important' or 'notable.' Therefore, the correct answer is 'significant.'<br><ul><li><b>signify</b> (verb): This is a verb, meaning 'to mean' or 'to indicate.' It cannot be used to modify a noun.</li><li><b>significant</b> (adjective): This is an adjective, meaning 'important' or 'notable.' It is used to describe nouns.</li><li><b>significantly</b> (adverb): This is an adverb, meaning 'in an important or notable way.' Adverbs modify verbs, adjectives, or other adverbs, not nouns.</li><li><b>significance</b> (noun): This is a noun, meaning 'importance' or 'meaning.' It cannot be used to directly modify another noun.</li></ul><b>Related structure or vocabulary:</b> Adjectives are used to modify nouns. The structure is: adjective + noun (e.g., significant measures).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một tính từ để bổ nghĩa cho danh từ 'measures.' Tính từ được dùng để mô tả hoặc cung cấp thêm thông tin cho danh từ. 'Significant' là một tính từ mang nghĩa 'quan trọng' hoặc 'đáng kể.' Vì vậy, đáp án đúng là 'significant.'<br><ul><li><b>signify</b> (động từ): Đây là động từ, nghĩa là 'biểu thị' hoặc 'có nghĩa là.' Không thể dùng để bổ nghĩa cho danh từ.</li><li><b>significant</b> (tính từ): Đây là tính từ, nghĩa là 'quan trọng' hoặc 'đáng kể.' Được dùng để bổ nghĩa cho danh từ.</li><li><b>significantly</b> (trạng từ): Đây là trạng từ, nghĩa là 'một cách đáng kể.' Trạng từ bổ nghĩa cho động từ, tính từ hoặc trạng từ khác, không bổ nghĩa cho danh từ.</li><li><b>significance</b> (danh từ): Đây là danh từ, nghĩa là 'tầm quan trọng' hoặc 'ý nghĩa.' Không thể dùng để bổ nghĩa trực tiếp cho danh từ khác.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ dùng để bổ nghĩa cho danh từ. Cấu trúc: adjective + noun (ví dụ: significant measures).<br><br><b>Tạm dịch:</b> Chính phủ đã thực hiện các biện pháp quan trọng để cắt giảm lượng giao dịch nội gián đang diễn ra.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires an adjective to modify the noun 'measures.' Adjectives are used to describe or give more information about nouns. The word 'significant' is an adjective that means 'important' or 'notable.' Therefore, the correct answer is 'significant.'<br><ul><li><b>signify</b> (verb): This is a verb, meaning 'to mean' or 'to indicate.' It cannot be used to modify a noun.</li><li><b>significant</b> (adjective): This is an adjective, meaning 'important' or 'notable.' It is used to describe nouns.</li><li><b>significantly</b> (adverb): This is an adverb, meaning 'in an important or notable way.' Adverbs modify verbs, adjectives, or other adverbs, not nouns.</li><li><b>significance</b> (noun): This is a noun, meaning 'importance' or 'meaning.' It cannot be used to directly modify another noun.</li></ul><b>Related structure or vocabulary:</b> Adjectives are used to modify nouns. The structure is: adjective + noun (e.g., significant measures).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bbd",
+        "questionNumber": 7,
+        "questionText": "This manual should provide beginning  ____ with some advice on how to take exceptional pictures.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "photographs",
+            "raw": "A. photographs",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "photography",
+            "raw": "B. photography",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "photographic",
+            "raw": "C. photographic",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "photographers",
+            "raw": "D. photographers",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<p>After the adjective &quot;beginning&quot; we need a noun</p>\n\n<p><strong>=&gt; D is the correct answer</strong></p>\n",
+        "explanationViHtml": "<p>Sau t&iacute;nh từ&nbsp;&quot;beginning&quot; ch&uacute;ng ta cần một danh từ</p>\n\n<p><strong>=&gt; Chọn D</strong></p>\n\n<p><strong>Tạm dịch:&nbsp;</strong>S&aacute;ch hướng dẫn n&agrave;y sẽ cung cấp cho c&aacute;c nhiếp ảnh gia mới bắt đầu một số lời khuy&ecirc;n về c&aacute;ch chụp những bức ảnh đặc biệt.</p>\n",
+        "transcriptHtml": "<p>After the adjective &quot;beginning&quot; we need a noun</p>\n\n<p><strong>=&gt; D is the correct answer</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bbe",
+        "questionNumber": 8,
+        "questionText": "Workers in the Accounting Department have a ____ to ensure that the company’s funds are not wasted.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "responsibly",
+            "raw": "A. responsibly",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "responsible",
+            "raw": "B. responsible",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "responsibility",
+            "raw": "C. responsibility",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "responsibilities",
+            "raw": "D.  responsibilities",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a noun to serve as the object of the verb 'have.' The phrase 'have a ____ to ensure...' means 'have a duty/obligation to ensure...' Therefore, the correct word should be a noun that fits this context.<br><ul><li><b>responsibly</b> (adverb): This is an adverb, which describes how an action is done. It cannot be used as the object of the verb 'have.'</li><li><b>responsible</b> (adjective): This is an adjective, used to describe a noun. It cannot be used as a noun itself after 'have a.'</li><li><b>responsibility</b> (noun (singular)): This is a singular noun, meaning 'a duty or obligation.' It fits the sentence as the object of 'have.'</li><li><b>responsibilities</b> (noun (plural)): This is the plural form of 'responsibility.' While grammatically possible, the sentence uses 'a' before the blank, indicating a singular noun is needed.</li></ul><b>Related structure or vocabulary:</b> have a/an + noun: to possess or hold a particular thing (in this case, a duty or obligation). 'Responsibility' is the correct noun form to use after 'have a.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một danh từ để làm tân ngữ cho động từ 'have.' Cụm từ 'have a ____ to ensure...' có nghĩa là 'có một nghĩa vụ/trách nhiệm để đảm bảo...' Vì vậy, từ đúng phải là một danh từ phù hợp với ngữ cảnh này.<br><ul><li><b>responsibly</b> (trạng từ): Đây là trạng từ, dùng để miêu tả cách một hành động được thực hiện. Không thể dùng làm tân ngữ cho động từ 'have.'</li><li><b>responsible</b> (tính từ): Đây là tính từ, dùng để miêu tả một danh từ. Không thể dùng làm danh từ sau 'have a.'</li><li><b>responsibility</b> (danh từ (số ít)): Đây là danh từ số ít, nghĩa là 'trách nhiệm' hoặc 'nghĩa vụ.' Phù hợp để làm tân ngữ cho 'have.'</li><li><b>responsibilities</b> (danh từ (số nhiều)): Đây là danh từ số nhiều của 'responsibility.' Tuy cũng là danh từ, nhưng câu có 'a' trước chỗ trống nên cần danh từ số ít.</li></ul><b>Cấu trúc và từ vựng:</b> have a/an + danh từ: có một cái gì đó (trong trường hợp này là nghĩa vụ hoặc trách nhiệm). 'Responsibility' là dạng danh từ đúng để dùng sau 'have a.'<br><br><b>Tạm dịch:</b> Nhân viên trong phòng Kế toán có một trách nhiệm để đảm bảo rằng quỹ của công ty không bị lãng phí.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a noun to serve as the object of the verb 'have.' The phrase 'have a ____ to ensure...' means 'have a duty/obligation to ensure...' Therefore, the correct word should be a noun that fits this context.<br><ul><li><b>responsibly</b> (adverb): This is an adverb, which describes how an action is done. It cannot be used as the object of the verb 'have.'</li><li><b>responsible</b> (adjective): This is an adjective, used to describe a noun. It cannot be used as a noun itself after 'have a.'</li><li><b>responsibility</b> (noun (singular)): This is a singular noun, meaning 'a duty or obligation.' It fits the sentence as the object of 'have.'</li><li><b>responsibilities</b> (noun (plural)): This is the plural form of 'responsibility.' While grammatically possible, the sentence uses 'a' before the blank, indicating a singular noun is needed.</li></ul><b>Related structure or vocabulary:</b> have a/an + noun: to possess or hold a particular thing (in this case, a duty or obligation). 'Responsibility' is the correct noun form to use after 'have a.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bbf",
+        "questionNumber": 9,
+        "questionText": "The EZ-Use Paintbrush lets artists spread paint more ____on the canvas and helps prevent dripping.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "evens",
+            "raw": "A. evens",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "evenly",
+            "raw": "B. evenly",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "evened",
+            "raw": "C. evened",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "evenness",
+            "raw": "D. evenness",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The EZ-Use Paintbrush lets artists spread paint more ____ on the canvas and helps prevent dripping.' requires an adverb to modify the verb 'spread.' Adverbs are used to describe how an action is performed. In this context, we need a word that describes the manner in which the paint is spread.<br><ul><li><b>evens</b> (verb): 'Evens' is a verb (third person singular of 'even') and does not function as an adverb. It cannot be used to modify the verb 'spread' in this context.</li><li><b>evenly</b> (adverb): 'Evenly' is an adverb, which means 'in a smooth, equal, or uniform way.' It correctly modifies the verb 'spread' to describe how the paint is applied.</li><li><b>evened</b> (past participle (verb)): 'Evened' is the past participle form of the verb 'even.' It is not an adverb and cannot be used to modify the verb 'spread' here.</li><li><b>evenness</b> (noun): 'Evenness' is a noun, meaning 'the quality of being even.' Nouns cannot modify verbs, so it is not suitable in this context.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. The structure 'more + adverb' is used to compare the manner of actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The EZ-Use Paintbrush lets artists spread paint more ____ on the canvas and helps prevent dripping.' cần một trạng từ để bổ nghĩa cho động từ 'spread.' Trạng từ dùng để mô tả cách thức một hành động được thực hiện. Trong trường hợp này, chúng ta cần một từ mô tả cách sơn được quét lên vải.<br><ul><li><b>evens</b> (động từ): 'Evens' là động từ (dạng số ít ngôi thứ ba của 'even'), không phải là trạng từ nên không thể bổ nghĩa cho động từ 'spread' trong trường hợp này.</li><li><b>evenly</b> (trạng từ): 'Evenly' là trạng từ, có nghĩa là 'một cách đều, đồng đều.' Đây là từ phù hợp để bổ nghĩa cho động từ 'spread' nhằm mô tả cách sơn được quét lên vải.</li><li><b>evened</b> (quá khứ phân từ (động từ)): 'Evened' là dạng quá khứ phân từ của động từ 'even.' Nó không phải là trạng từ nên không thể dùng để bổ nghĩa cho động từ 'spread' ở đây.</li><li><b>evenness</b> (danh từ): 'Evenness' là danh từ, nghĩa là 'sự đồng đều.' Danh từ không thể bổ nghĩa cho động từ nên không phù hợp trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ (adverb) dùng để bổ nghĩa cho động từ, tính từ hoặc trạng từ khác. Cấu trúc 'more + adverb' dùng để so sánh cách thức thực hiện hành động.<br><br><b>Tạm dịch:</b> Câu hỏi: The EZ-Use Paintbrush lets artists spread paint more ____ on the canvas and helps prevent dripping. Đáp án đúng là B. evenly. Cây cọ EZ-Use giúp các nghệ sĩ quét sơn lên vải một cách ĐỀU HƠN và giúp ngăn ngừa nhỏ giọt.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The EZ-Use Paintbrush lets artists spread paint more ____ on the canvas and helps prevent dripping.' requires an adverb to modify the verb 'spread.' Adverbs are used to describe how an action is performed. In this context, we need a word that describes the manner in which the paint is spread.<br><ul><li><b>evens</b> (verb): 'Evens' is a verb (third person singular of 'even') and does not function as an adverb. It cannot be used to modify the verb 'spread' in this context.</li><li><b>evenly</b> (adverb): 'Evenly' is an adverb, which means 'in a smooth, equal, or uniform way.' It correctly modifies the verb 'spread' to describe how the paint is applied.</li><li><b>evened</b> (past participle (verb)): 'Evened' is the past participle form of the verb 'even.' It is not an adverb and cannot be used to modify the verb 'spread' here.</li><li><b>evenness</b> (noun): 'Evenness' is a noun, meaning 'the quality of being even.' Nouns cannot modify verbs, so it is not suitable in this context.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. The structure 'more + adverb' is used to compare the manner of actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc0",
+        "questionNumber": 10,
+        "questionText": "It is necessary for any factory to produce goods more ____ in order to turn a profit.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "efficiently",
+            "raw": "A. efficiently",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "efficiencies",
+            "raw": "B. efficiencies",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "efficient",
+            "raw": "C. efficient",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "efficiency",
+            "raw": "D. efficiency",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs an adverb to modify the verb 'produce.' In English, adverbs are used to describe how an action is performed. The word 'efficiently' is the adverb form of 'efficient' and means 'in an efficient manner.' Therefore, the correct answer is 'efficiently.'<br><ul><li><b>efficiently</b> (adverb): Adverb; describes how something is done, meaning 'in an efficient way.'</li><li><b>efficiencies</b> (noun (plural)): Noun (plural); refers to multiple instances or types of efficiency.</li><li><b>efficient</b> (adjective): Adjective; describes a noun as being effective without wasting resources.</li><li><b>efficiency</b> (noun): Noun (singular); the quality of being efficient.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. In this sentence, 'produce' is a verb, so we need an adverb to describe how the goods are produced.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một trạng từ để bổ nghĩa cho động từ 'produce.' Trong tiếng Anh, trạng từ dùng để miêu tả cách một hành động được thực hiện. 'Efficiently' là trạng từ của 'efficient,' mang nghĩa 'một cách hiệu quả.' Vì vậy, đáp án đúng là 'efficiently.'<br><ul><li><b>efficiently</b> (trạng từ): Trạng từ; miêu tả cách một việc được thực hiện, nghĩa là 'một cách hiệu quả.'</li><li><b>efficiencies</b> (danh từ (số nhiều)): Danh từ số nhiều; chỉ nhiều loại hoặc trường hợp của sự hiệu quả.</li><li><b>efficient</b> (tính từ): Tính từ; miêu tả một danh từ là hiệu quả, không lãng phí tài nguyên.</li><li><b>efficiency</b> (danh từ): Danh từ số ít; chỉ chất lượng của sự hiệu quả.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ (adverb) dùng để bổ nghĩa cho động từ, tính từ hoặc trạng từ khác. Trong câu này, 'produce' là động từ nên cần trạng từ để miêu tả cách sản xuất hàng hóa.<br><br><b>Tạm dịch:</b> Câu hỏi: It is necessary for any factory to produce goods more ____ in order to turn a profit. (Cần thiết cho bất kỳ nhà máy nào sản xuất hàng hóa một cách hiệu quả hơn để có lãi.) Đáp án đúng là 'efficiently' (một cách hiệu quả).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs an adverb to modify the verb 'produce.' In English, adverbs are used to describe how an action is performed. The word 'efficiently' is the adverb form of 'efficient' and means 'in an efficient manner.' Therefore, the correct answer is 'efficiently.'<br><ul><li><b>efficiently</b> (adverb): Adverb; describes how something is done, meaning 'in an efficient way.'</li><li><b>efficiencies</b> (noun (plural)): Noun (plural); refers to multiple instances or types of efficiency.</li><li><b>efficient</b> (adjective): Adjective; describes a noun as being effective without wasting resources.</li><li><b>efficiency</b> (noun): Noun (singular); the quality of being efficient.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. In this sentence, 'produce' is a verb, so we need an adverb to describe how the goods are produced.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc1",
+        "questionNumber": 11,
+        "questionText": "The local art gallery’s summer ____ was the most successful in its thirty- seven-year history.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "exhibition",
+            "raw": "A. exhibition",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "exhibitive",
+            "raw": "B. exhibitive",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "exhibited",
+            "raw": "C. exhibited",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "exhibiting",
+            "raw": "D. exhibiting",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The local art gallery’s summer ____ was the most successful in its thirty-seven-year history.' requires a noun to indicate the event that was successful. The word before the blank, 'summer', acts as an adjective describing the type of event. Therefore, we need a noun that fits the context of an art gallery event.<br><ul><li><b>exhibition</b> (noun): A noun meaning an event where works of art or other items are displayed to the public.</li><li><b>exhibitive</b> (adjective): An adjective meaning related to exhibiting, but not used as a noun.</li><li><b>exhibited</b> (verb (past participle/adjective)): The past participle or past tense of the verb 'exhibit', meaning something that has been shown.</li><li><b>exhibiting</b> (verb (present participle/gerund)): The present participle or gerund form of the verb 'exhibit', meaning the act of showing.</li></ul><b>Related structure or vocabulary:</b> Adjective + Noun: In English, adjectives (like 'summer') are often placed before nouns to describe them. In this context, 'summer exhibition' is a common collocation meaning an art show held in the summer.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The local art gallery’s summer ____ was the most successful in its thirty-seven-year history.' cần một danh từ để chỉ sự kiện đã thành công. Từ đứng trước chỗ trống là 'summer' đóng vai trò là tính từ bổ nghĩa cho loại sự kiện. Vì vậy, chúng ta cần một danh từ phù hợp với ngữ cảnh của một sự kiện tại phòng trưng bày nghệ thuật.<br><ul><li><b>exhibition</b> (danh từ): Danh từ, nghĩa là một sự kiện nơi các tác phẩm nghệ thuật hoặc các vật phẩm khác được trưng bày cho công chúng xem.</li><li><b>exhibitive</b> (tính từ): Tính từ, nghĩa là liên quan đến việc trưng bày, nhưng không dùng làm danh từ.</li><li><b>exhibited</b> (động từ (quá khứ phân từ/tính từ)): Quá khứ phân từ hoặc thì quá khứ của động từ 'exhibit', nghĩa là đã được trưng bày.</li><li><b>exhibiting</b> (động từ (hiện tại phân từ/danh động từ)): Dạng hiện tại phân từ hoặc danh động từ của động từ 'exhibit', nghĩa là hành động trưng bày.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ + Danh từ: Trong tiếng Anh, tính từ (như 'summer') thường đứng trước danh từ để bổ nghĩa. Trong ngữ cảnh này, 'summer exhibition' là một cụm từ phổ biến chỉ một buổi triển lãm nghệ thuật diễn ra vào mùa hè.<br><br><b>Tạm dịch:</b> Buổi triển lãm mùa hè của phòng trưng bày nghệ thuật địa phương là thành công nhất trong lịch sử ba mươi bảy năm của nó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The local art gallery’s summer ____ was the most successful in its thirty-seven-year history.' requires a noun to indicate the event that was successful. The word before the blank, 'summer', acts as an adjective describing the type of event. Therefore, we need a noun that fits the context of an art gallery event.<br><ul><li><b>exhibition</b> (noun): A noun meaning an event where works of art or other items are displayed to the public.</li><li><b>exhibitive</b> (adjective): An adjective meaning related to exhibiting, but not used as a noun.</li><li><b>exhibited</b> (verb (past participle/adjective)): The past participle or past tense of the verb 'exhibit', meaning something that has been shown.</li><li><b>exhibiting</b> (verb (present participle/gerund)): The present participle or gerund form of the verb 'exhibit', meaning the act of showing.</li></ul><b>Related structure or vocabulary:</b> Adjective + Noun: In English, adjectives (like 'summer') are often placed before nouns to describe them. In this context, 'summer exhibition' is a common collocation meaning an art show held in the summer.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc2",
+        "questionNumber": 12,
+        "questionText": "____ to the engineering conference have been sent to all of the individuals who requested them.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "invite",
+            "raw": "A. invite",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "inviting",
+            "raw": "B. inviting",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "invitation",
+            "raw": "C. invitation",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "invitations",
+            "raw": "D. invitations",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a noun that refers to something that has been sent to individuals. The subject of the sentence is the thing that has been sent, and the verb 'have been sent' indicates that the subject is plural. Therefore, the correct answer should be a plural noun.<br><ul><li><b>invite</b> (verb): This is the base form of the verb 'to invite', not a noun.</li><li><b>inviting</b> (verb (V-ing)): This is the present participle or gerund form of the verb 'invite', not suitable as a noun in this context.</li><li><b>invitation</b> (noun (singular)): This is the singular noun form, meaning 'an act of inviting' or 'a written or verbal request to attend an event'. However, the verb 'have been sent' requires a plural subject.</li><li><b>invitations</b> (noun (plural)): This is the plural noun form, meaning 'more than one invitation'. It matches the plural verb 'have been sent' and fits the context.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: Plural subjects require plural verbs. In this sentence, 'have been sent' is a plural verb, so the subject must be plural as well. The noun 'invitations' is the correct plural form.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một danh từ chỉ vật đã được gửi đến các cá nhân. Chủ ngữ của câu là vật đã được gửi, và động từ 'have been sent' cho thấy chủ ngữ phải là số nhiều. Do đó, đáp án đúng phải là một danh từ số nhiều.<br><ul><li><b>invite</b> (động từ): Đây là động từ nguyên thể 'mời', không phải danh từ.</li><li><b>inviting</b> (động từ (V-ing)): Đây là dạng V-ing của động từ 'invite', không phù hợp làm danh từ trong ngữ cảnh này.</li><li><b>invitation</b> (danh từ (số ít)): Đây là danh từ số ít, nghĩa là 'lời mời'. Tuy nhiên, động từ 'have been sent' yêu cầu chủ ngữ số nhiều.</li><li><b>invitations</b> (danh từ (số nhiều)): Đây là danh từ số nhiều, nghĩa là 'nhiều lời mời'. Phù hợp với động từ số nhiều 'have been sent' và đúng với ngữ cảnh.</li></ul><b>Cấu trúc và từ vựng:</b> Sự hòa hợp giữa chủ ngữ và động từ: Chủ ngữ số nhiều đi với động từ số nhiều. Trong câu này, 'have been sent' là động từ số nhiều, nên chủ ngữ cũng phải là danh từ số nhiều. 'Invitations' là dạng số nhiều phù hợp.<br><br><b>Tạm dịch:</b> Lời mời tham dự hội nghị kỹ thuật đã được gửi đến tất cả những người đã yêu cầu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a noun that refers to something that has been sent to individuals. The subject of the sentence is the thing that has been sent, and the verb 'have been sent' indicates that the subject is plural. Therefore, the correct answer should be a plural noun.<br><ul><li><b>invite</b> (verb): This is the base form of the verb 'to invite', not a noun.</li><li><b>inviting</b> (verb (V-ing)): This is the present participle or gerund form of the verb 'invite', not suitable as a noun in this context.</li><li><b>invitation</b> (noun (singular)): This is the singular noun form, meaning 'an act of inviting' or 'a written or verbal request to attend an event'. However, the verb 'have been sent' requires a plural subject.</li><li><b>invitations</b> (noun (plural)): This is the plural noun form, meaning 'more than one invitation'. It matches the plural verb 'have been sent' and fits the context.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: Plural subjects require plural verbs. In this sentence, 'have been sent' is a plural verb, so the subject must be plural as well. The noun 'invitations' is the correct plural form.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc3",
+        "questionNumber": 13,
+        "questionText": "The police stated that ____ 200 people were fined for disruptive behavior at the political rally.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "approximately",
+            "raw": "A. approximately",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "approximate",
+            "raw": "B. approximate",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "approximation",
+            "raw": "C. approximation",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "approximated",
+            "raw": "D. approximated",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires an adverb to modify the number '200 people,' indicating an estimated or rough number. The correct adverb is 'approximately,' which means 'about' or 'roughly.'<br><ul><li><b>approximately</b> (adverb): An adverb meaning 'about' or 'roughly,' used to modify numbers or quantities.</li><li><b>approximate</b> (adjective): An adjective meaning 'close to the actual, but not completely accurate or exact.'</li><li><b>approximation</b> (noun): A noun meaning 'a value or quantity that is nearly but not exactly correct.'</li><li><b>approximated</b> (verb/adjective): A past participle or adjective meaning 'estimated' or 'calculated roughly.'</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs, and in this case, to modify a number. Common adverbs for estimation include 'approximately,' 'about,' and 'roughly.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một trạng từ để bổ nghĩa cho số '200 people,' nhằm diễn tả con số ước lượng hoặc gần đúng. 'Approximately' là trạng từ mang nghĩa 'khoảng' hoặc 'xấp xỉ,' phù hợp để bổ nghĩa cho số lượng.<br><ul><li><b>approximately</b> (trạng từ): Trạng từ mang nghĩa 'khoảng' hoặc 'xấp xỉ,' dùng để bổ nghĩa cho số lượng hoặc con số.</li><li><b>approximate</b> (tính từ): Tính từ mang nghĩa 'gần đúng, xấp xỉ,' dùng để mô tả danh từ.</li><li><b>approximation</b> (danh từ): Danh từ mang nghĩa 'sự xấp xỉ, sự ước lượng.'</li><li><b>approximated</b> (động từ/tính từ): Phân từ quá khứ hoặc tính từ mang nghĩa 'được ước lượng, được xấp xỉ.'</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ (adverb) thường được dùng để bổ nghĩa cho động từ, tính từ hoặc trạng từ khác, và trong trường hợp này là bổ nghĩa cho số lượng. Một số trạng từ chỉ sự ước lượng thường gặp là 'approximately,' 'about,' 'roughly.'<br><br><b>Tạm dịch:</b> Cảnh sát cho biết khoảng 200 người đã bị phạt vì hành vi gây rối tại cuộc mít tinh chính trị.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires an adverb to modify the number '200 people,' indicating an estimated or rough number. The correct adverb is 'approximately,' which means 'about' or 'roughly.'<br><ul><li><b>approximately</b> (adverb): An adverb meaning 'about' or 'roughly,' used to modify numbers or quantities.</li><li><b>approximate</b> (adjective): An adjective meaning 'close to the actual, but not completely accurate or exact.'</li><li><b>approximation</b> (noun): A noun meaning 'a value or quantity that is nearly but not exactly correct.'</li><li><b>approximated</b> (verb/adjective): A past participle or adjective meaning 'estimated' or 'calculated roughly.'</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs, and in this case, to modify a number. Common adverbs for estimation include 'approximately,' 'about,' and 'roughly.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc4",
+        "questionNumber": 14,
+        "questionText": "The marketing team is composed of a ____ group of employees, all of whom have various strengths.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "diverse",
+            "raw": "A. diverse",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "diversity",
+            "raw": "B. diversity",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "diversely",
+            "raw": "C. diversely",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "diversify",
+            "raw": "D. diversify",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires an adjective to describe the noun 'group.' The word before the blank is 'a,' which is an article that usually comes before an adjective + noun combination. Therefore, we need an adjective to modify 'group.'<br><ul><li><b>diverse</b> (adjective): An adjective meaning 'showing a great deal of variety; very different.'</li><li><b>diversity</b> (noun): A noun meaning 'the state of being diverse; variety.'</li><li><b>diversely</b> (adverb): An adverb meaning 'in diverse ways.'</li><li><b>diversify</b> (verb): A verb meaning 'to make or become more diverse or varied.'</li></ul><b>Related structure or vocabulary:</b> Adjective + noun: An adjective is used to describe or modify a noun. In this sentence, 'diverse' is the correct adjective to describe 'group.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một tính từ để bổ nghĩa cho danh từ 'group.' Từ đứng trước chỗ trống là 'a,' thường đi với cấu trúc tính từ + danh từ. Vì vậy, ta cần một tính từ để bổ nghĩa cho 'group.'<br><ul><li><b>diverse</b> (tính từ): Tính từ, nghĩa là 'đa dạng, nhiều loại khác nhau.'</li><li><b>diversity</b> (danh từ): Danh từ, nghĩa là 'sự đa dạng.'</li><li><b>diversely</b> (trạng từ): Trạng từ, nghĩa là 'một cách đa dạng.'</li><li><b>diversify</b> (động từ): Động từ, nghĩa là 'làm cho đa dạng hóa.'</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ + danh từ: Tính từ dùng để bổ nghĩa cho danh từ. Trong câu này, 'diverse' là tính từ phù hợp để bổ nghĩa cho 'group.'<br><br><b>Tạm dịch:</b> Đội ngũ tiếp thị bao gồm một nhóm nhân viên ĐA DẠNG, tất cả đều có những điểm mạnh khác nhau.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires an adjective to describe the noun 'group.' The word before the blank is 'a,' which is an article that usually comes before an adjective + noun combination. Therefore, we need an adjective to modify 'group.'<br><ul><li><b>diverse</b> (adjective): An adjective meaning 'showing a great deal of variety; very different.'</li><li><b>diversity</b> (noun): A noun meaning 'the state of being diverse; variety.'</li><li><b>diversely</b> (adverb): An adverb meaning 'in diverse ways.'</li><li><b>diversify</b> (verb): A verb meaning 'to make or become more diverse or varied.'</li></ul><b>Related structure or vocabulary:</b> Adjective + noun: An adjective is used to describe or modify a noun. In this sentence, 'diverse' is the correct adjective to describe 'group.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc5",
+        "questionNumber": 15,
+        "questionText": "Dr. Pierson and Dr. Watkins will work ____ in an effort to discover a vaccine for the exotic disease.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "collaboration",
+            "raw": "A. collaboration",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "collaborates",
+            "raw": "B. collaborates",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "collaboratively",
+            "raw": "C.  collaboratively",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "collaborated",
+            "raw": "D. collaborated",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Dr. Pierson and Dr. Watkins will work ____ in an effort to discover a vaccine for the exotic disease.' requires an adverb to modify the verb 'work.' Adverbs are used to describe how an action is performed. In this context, the sentence is talking about the manner in which the two doctors will work together, so we need an adverb that means 'in a collaborative way.'<br><ul><li><b>A. collaboration</b> (noun): This is a noun, meaning 'the act of working together.' It cannot be used to modify the verb 'work.'</li><li><b>B. collaborates</b> (verb): This is a verb in the third person singular form, meaning 'he/she/it works together.' It does not fit grammatically after 'will work.'</li><li><b>C. collaboratively</b> (adverb): This is an adverb, meaning 'in a collaborative way.' It correctly modifies the verb 'work' to describe how the doctors will work.</li><li><b>D. collaborated</b> (verb (past tense)): This is the past tense form of the verb 'collaborate.' It does not fit grammatically after 'will work.'</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs and describe how an action is performed. The structure 'will work + adverb' is commonly used to describe the manner of working.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Dr. Pierson and Dr. Watkins will work ____ in an effort to discover a vaccine for the exotic disease.' cần một trạng từ để bổ nghĩa cho động từ 'work.' Trạng từ được dùng để miêu tả cách thức một hành động được thực hiện. Trong ngữ cảnh này, câu nói về cách hai bác sĩ sẽ làm việc cùng nhau, nên cần một trạng từ mang nghĩa 'một cách hợp tác.'<br><ul><li><b>A. collaboration</b> (danh từ): Đây là danh từ, nghĩa là 'sự hợp tác.' Không thể dùng để bổ nghĩa cho động từ 'work.'</li><li><b>B. collaborates</b> (động từ): Đây là động từ chia ở ngôi thứ ba số ít, nghĩa là 'làm việc cùng nhau.' Không phù hợp về mặt ngữ pháp sau 'will work.'</li><li><b>C. collaboratively</b> (trạng từ): Đây là trạng từ, nghĩa là 'một cách hợp tác.' Dùng đúng để bổ nghĩa cho động từ 'work' nhằm diễn tả cách hai bác sĩ sẽ làm việc.</li><li><b>D. collaborated</b> (động từ (quá khứ)): Đây là động từ ở thì quá khứ, nghĩa là 'đã hợp tác.' Không phù hợp về mặt ngữ pháp sau 'will work.'</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ (adverb) dùng để bổ nghĩa cho động từ, diễn tả cách thức hành động được thực hiện. Cấu trúc 'will work + trạng từ' thường dùng để miêu tả cách làm việc.<br><br><b>Tạm dịch:</b> Dr. Pierson và Dr. Watkins sẽ làm việc MỘT CÁCH HỢP TÁC nhằm nỗ lực tìm ra vắc-xin cho căn bệnh lạ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Dr. Pierson and Dr. Watkins will work ____ in an effort to discover a vaccine for the exotic disease.' requires an adverb to modify the verb 'work.' Adverbs are used to describe how an action is performed. In this context, the sentence is talking about the manner in which the two doctors will work together, so we need an adverb that means 'in a collaborative way.'<br><ul><li><b>A. collaboration</b> (noun): This is a noun, meaning 'the act of working together.' It cannot be used to modify the verb 'work.'</li><li><b>B. collaborates</b> (verb): This is a verb in the third person singular form, meaning 'he/she/it works together.' It does not fit grammatically after 'will work.'</li><li><b>C. collaboratively</b> (adverb): This is an adverb, meaning 'in a collaborative way.' It correctly modifies the verb 'work' to describe how the doctors will work.</li><li><b>D. collaborated</b> (verb (past tense)): This is the past tense form of the verb 'collaborate.' It does not fit grammatically after 'will work.'</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs and describe how an action is performed. The structure 'will work + adverb' is commonly used to describe the manner of working.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc6",
+        "questionNumber": 16,
+        "questionText": "Mr. Brown’s ____ was unanimously approved by the board of directors.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "recommendation",
+            "raw": "A. recommendation",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "recommendable",
+            "raw": "B. recommendable",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "recommending",
+            "raw": "C. recommending",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "recommend",
+            "raw": "D. recommend",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. Brown’s ____ was unanimously approved by the board of directors.' requires a noun to indicate what was approved. The possessive form 'Mr. Brown’s' is typically followed by a noun, not a verb or adjective.<br><ul><li><b>recommendation</b> (noun): A noun meaning a suggestion or proposal put forward for consideration.</li><li><b>recommendable</b> (adjective): An adjective meaning something that can be recommended.</li><li><b>recommending</b> (verb/gerund): The present participle or gerund form of the verb 'recommend', used as a verb or sometimes as a noun.</li><li><b>recommend</b> (verb): The base form of the verb meaning to suggest or propose something.</li></ul><b>Related structure or vocabulary:</b> Possessive noun + noun: The possessive form (Mr. Brown’s) is followed by a noun to show ownership or association.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mr. Brown’s ____ was unanimously approved by the board of directors.' cần một danh từ để chỉ điều gì đó đã được phê duyệt. Dạng sở hữu 'Mr. Brown’s' thường được theo sau bởi một danh từ, không phải động từ hay tính từ.<br><ul><li><b>recommendation</b> (danh từ): Danh từ, nghĩa là lời đề xuất hoặc gợi ý được đưa ra để xem xét.</li><li><b>recommendable</b> (tính từ): Tính từ, nghĩa là có thể được đề xuất hoặc đáng được giới thiệu.</li><li><b>recommending</b> (động từ/danh động từ): Dạng hiện tại phân từ hoặc danh động từ của động từ 'recommend', thường dùng như động từ hoặc đôi khi là danh từ.</li><li><b>recommend</b> (động từ): Động từ nguyên thể, nghĩa là đề xuất hoặc gợi ý điều gì đó.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: Danh từ sở hữu + danh từ: Dạng sở hữu (Mr. Brown’s) thường đi với một danh từ để chỉ sự sở hữu hoặc liên kết.<br><br><b>Tạm dịch:</b> Câu: 'Mr. Brown’s recommendation was unanimously approved by the board of directors.' có nghĩa là 'Lời đề xuất của ông Brown đã được hội đồng quản trị nhất trí thông qua.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. Brown’s ____ was unanimously approved by the board of directors.' requires a noun to indicate what was approved. The possessive form 'Mr. Brown’s' is typically followed by a noun, not a verb or adjective.<br><ul><li><b>recommendation</b> (noun): A noun meaning a suggestion or proposal put forward for consideration.</li><li><b>recommendable</b> (adjective): An adjective meaning something that can be recommended.</li><li><b>recommending</b> (verb/gerund): The present participle or gerund form of the verb 'recommend', used as a verb or sometimes as a noun.</li><li><b>recommend</b> (verb): The base form of the verb meaning to suggest or propose something.</li></ul><b>Related structure or vocabulary:</b> Possessive noun + noun: The possessive form (Mr. Brown’s) is followed by a noun to show ownership or association.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc7",
+        "questionNumber": 17,
+        "questionText": "Maps and other brochures are ____ available at any tourism information desk in the airport.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "readily",
+            "raw": "A. readily",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "readiness",
+            "raw": "B. readiness",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "ready",
+            "raw": "C. ready",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "readying",
+            "raw": "D. readying",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires an adverb to modify the verb 'available.' The sentence is describing how maps and brochures are available at the tourism information desk. The correct adverb should describe the manner or degree of availability.<br><ul><li><b>readily</b> (adverb): An adverb meaning 'easily' or 'without difficulty.' It is used to describe how something is available or accessible.</li><li><b>readiness</b> (noun): A noun meaning 'the state of being ready.' It cannot modify a verb or adjective.</li><li><b>ready</b> (adjective): An adjective meaning 'prepared' or 'available.' It does not fit grammatically in this context.</li><li><b>readying</b> (verb (present participle/gerund)): A present participle/gerund form of the verb 'to ready,' meaning 'preparing.' It does not fit grammatically here.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. 'Readily available' is a common collocation meaning 'easily available.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một trạng từ để bổ nghĩa cho tính từ 'available.' Câu này đang mô tả mức độ sẵn có của bản đồ và tờ rơi tại quầy thông tin du lịch. Trạng từ phù hợp sẽ diễn tả mức độ hoặc cách thức sẵn có.<br><ul><li><b>readily</b> (trạng từ): Trạng từ, nghĩa là 'dễ dàng' hoặc 'không khó khăn.' Thường dùng để mô tả mức độ sẵn có hoặc dễ tiếp cận của một thứ gì đó.</li><li><b>readiness</b> (danh từ): Danh từ, nghĩa là 'sự sẵn sàng.' Không thể bổ nghĩa cho động từ hoặc tính từ.</li><li><b>ready</b> (tính từ): Tính từ, nghĩa là 'sẵn sàng' hoặc 'chuẩn bị.' Không phù hợp về mặt ngữ pháp trong trường hợp này.</li><li><b>readying</b> (động từ (hiện tại phân từ/danh động từ)): Dạng hiện tại phân từ/danh động từ của động từ 'to ready,' nghĩa là 'chuẩn bị.' Không phù hợp về mặt ngữ pháp ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ (adverb) dùng để bổ nghĩa cho động từ, tính từ hoặc trạng từ khác. 'Readily available' là một cụm từ cố định, nghĩa là 'sẵn có một cách dễ dàng.'<br><br><b>Tạm dịch:</b> Bản đồ và các tờ rơi khác có sẵn một cách dễ dàng tại bất kỳ quầy thông tin du lịch nào ở sân bay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires an adverb to modify the verb 'available.' The sentence is describing how maps and brochures are available at the tourism information desk. The correct adverb should describe the manner or degree of availability.<br><ul><li><b>readily</b> (adverb): An adverb meaning 'easily' or 'without difficulty.' It is used to describe how something is available or accessible.</li><li><b>readiness</b> (noun): A noun meaning 'the state of being ready.' It cannot modify a verb or adjective.</li><li><b>ready</b> (adjective): An adjective meaning 'prepared' or 'available.' It does not fit grammatically in this context.</li><li><b>readying</b> (verb (present participle/gerund)): A present participle/gerund form of the verb 'to ready,' meaning 'preparing.' It does not fit grammatically here.</li></ul><b>Related structure or vocabulary:</b> Adverbs are used to modify verbs, adjectives, or other adverbs. 'Readily available' is a common collocation meaning 'easily available.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc8",
+        "questionNumber": 18,
+        "questionText": "There are some ____ changes in the market that are causing manufacturing firms to worry about the future.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "alarms",
+            "raw": "A. alarms",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "alarmed",
+            "raw": "B. alarmed",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "alarmingly",
+            "raw": "C. alarmingly",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "alarming",
+            "raw": "D. alarming",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs an adjective to describe the noun 'changes'. In English, adjectives are used to modify nouns and provide more information about them. The word 'alarming' is an adjective that means 'causing worry or fear'. Therefore, 'alarming changes' means changes that cause concern.<br><ul><li><b>alarms</b> (noun): This is a noun (plural of 'alarm'), meaning warning signals or devices.</li><li><b>alarmed</b> (adjective (past participle)): This is an adjective (past participle), meaning 'worried or frightened'. However, it is usually used to describe people, not things.</li><li><b>alarmingly</b> (adverb): This is an adverb, meaning 'in a way that causes worry'. Adverbs modify verbs, adjectives, or other adverbs, not nouns.</li><li><b>alarming</b> (adjective): This is an adjective, meaning 'causing worry or fear'. It is used to describe nouns such as 'changes'.</li></ul><b>Related structure or vocabulary:</b> Adjective + noun: An adjective is used before a noun to describe it. Example: alarming changes, interesting news.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một tính từ để bổ nghĩa cho danh từ 'changes'. Trong tiếng Anh, tính từ được dùng để mô tả hoặc bổ sung thông tin cho danh từ. 'Alarming' là một tính từ mang nghĩa 'gây lo ngại, đáng báo động'. Vì vậy, 'alarming changes' nghĩa là những thay đổi gây lo lắng.<br><ul><li><b>alarms</b> (danh từ): Danh từ số nhiều của 'alarm', nghĩa là chuông báo động hoặc tín hiệu cảnh báo.</li><li><b>alarmed</b> (tính từ (quá khứ phân từ)): Tính từ (quá khứ phân từ), nghĩa là 'lo lắng, hoảng sợ'. Tuy nhiên, thường dùng để miêu tả người, không dùng cho vật hoặc sự việc.</li><li><b>alarmingly</b> (trạng từ): Trạng từ, nghĩa là 'một cách đáng báo động'. Trạng từ dùng để bổ nghĩa cho động từ, tính từ hoặc trạng từ khác, không dùng để bổ nghĩa cho danh từ.</li><li><b>alarming</b> (tính từ): Tính từ, nghĩa là 'gây lo ngại, đáng báo động'. Dùng để miêu tả danh từ như 'changes'.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ + danh từ: Tính từ đứng trước danh từ để bổ nghĩa cho danh từ đó. Ví dụ: alarming changes (những thay đổi đáng báo động), interesting news (tin tức thú vị).<br><br><b>Tạm dịch:</b> Có một số thay đổi đáng báo động trên thị trường đang khiến các công ty sản xuất lo lắng về tương lai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs an adjective to describe the noun 'changes'. In English, adjectives are used to modify nouns and provide more information about them. The word 'alarming' is an adjective that means 'causing worry or fear'. Therefore, 'alarming changes' means changes that cause concern.<br><ul><li><b>alarms</b> (noun): This is a noun (plural of 'alarm'), meaning warning signals or devices.</li><li><b>alarmed</b> (adjective (past participle)): This is an adjective (past participle), meaning 'worried or frightened'. However, it is usually used to describe people, not things.</li><li><b>alarmingly</b> (adverb): This is an adverb, meaning 'in a way that causes worry'. Adverbs modify verbs, adjectives, or other adverbs, not nouns.</li><li><b>alarming</b> (adjective): This is an adjective, meaning 'causing worry or fear'. It is used to describe nouns such as 'changes'.</li></ul><b>Related structure or vocabulary:</b> Adjective + noun: An adjective is used before a noun to describe it. Example: alarming changes, interesting news.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bc9",
+        "questionNumber": 19,
+        "questionText": "Mr. Henderson is a ____ individual who will work tirelessly until the project is complete.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "depend",
+            "raw": "A. depend",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "dependable",
+            "raw": "B. dependable",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "dependability",
+            "raw": "C. dependability",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "depending",
+            "raw": "D. depending",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. Henderson is a ____ individual who will work tirelessly until the project is complete.' requires an adjective to describe the noun 'individual.' In English, adjectives are used before nouns to modify or describe them. The word 'dependable' is an adjective that means someone can be relied upon or trusted, which fits the context of the sentence.<br><ul><li><b>depend</b> (verb): This is a verb, meaning to rely on or trust in someone or something. It cannot be used to directly modify a noun.</li><li><b>dependable</b> (adjective): This is an adjective, meaning trustworthy or reliable. It is used to describe a person or thing that can be depended on.</li><li><b>dependability</b> (noun): This is a noun, meaning the quality of being dependable or reliable. It cannot be used directly before a noun to describe it.</li><li><b>depending</b> (verb (present participle/gerund)): This is the present participle or gerund form of the verb 'depend.' It is not used as an adjective to describe a noun.</li></ul><b>Related structure or vocabulary:</b> Adjectives are used before nouns to describe or modify them. For example: a reliable friend, a talented student, a dependable individual.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mr. Henderson is a ____ individual who will work tirelessly until the project is complete.' cần một tính từ để bổ nghĩa cho danh từ 'individual.' Trong tiếng Anh, tính từ thường đứng trước danh từ để mô tả hoặc bổ nghĩa cho nó. 'Dependable' là một tính từ mang nghĩa là đáng tin cậy, phù hợp với ngữ cảnh của câu.<br><ul><li><b>depend</b> (động từ): Đây là động từ, có nghĩa là phụ thuộc vào hoặc tin tưởng vào ai đó/cái gì đó. Không thể dùng để bổ nghĩa trực tiếp cho danh từ.</li><li><b>dependable</b> (tính từ): Đây là tính từ, có nghĩa là đáng tin cậy, có thể dựa vào. Dùng để mô tả người hoặc vật có thể tin tưởng được.</li><li><b>dependability</b> (danh từ): Đây là danh từ, có nghĩa là sự đáng tin cậy. Không thể dùng trực tiếp trước danh từ để bổ nghĩa cho nó.</li><li><b>depending</b> (động từ (hiện tại phân từ/danh động từ)): Đây là dạng hiện tại phân từ hoặc danh động từ của động từ 'depend.' Không dùng làm tính từ để mô tả danh từ.</li></ul><b>Cấu trúc và từ vựng:</b> Tính từ thường đứng trước danh từ để mô tả hoặc bổ nghĩa cho danh từ đó. Ví dụ: a reliable friend (một người bạn đáng tin cậy), a talented student (một học sinh tài năng), a dependable individual (một cá nhân đáng tin cậy).<br><br><b>Tạm dịch:</b> Ông Henderson là một cá nhân ĐÁNG TIN CẬY, người sẽ làm việc không mệt mỏi cho đến khi dự án hoàn thành.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mr. Henderson is a ____ individual who will work tirelessly until the project is complete.' requires an adjective to describe the noun 'individual.' In English, adjectives are used before nouns to modify or describe them. The word 'dependable' is an adjective that means someone can be relied upon or trusted, which fits the context of the sentence.<br><ul><li><b>depend</b> (verb): This is a verb, meaning to rely on or trust in someone or something. It cannot be used to directly modify a noun.</li><li><b>dependable</b> (adjective): This is an adjective, meaning trustworthy or reliable. It is used to describe a person or thing that can be depended on.</li><li><b>dependability</b> (noun): This is a noun, meaning the quality of being dependable or reliable. It cannot be used directly before a noun to describe it.</li><li><b>depending</b> (verb (present participle/gerund)): This is the present participle or gerund form of the verb 'depend.' It is not used as an adjective to describe a noun.</li></ul><b>Related structure or vocabulary:</b> Adjectives are used before nouns to describe or modify them. For example: a reliable friend, a talented student, a dependable individual.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62049c6ed1bfab7a5b000bca",
+        "questionNumber": 20,
+        "questionText": "Thanks to the sudden change in ____ the company’s stock has more than doubled in value.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "profitability",
+            "raw": "A. profitability",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "profitable",
+            "raw": "B. profitable",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "profited",
+            "raw": "C. profited",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to profit",
+            "raw": "D. to profit",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after the phrase 'change in ____', which requires a noun to indicate what aspect has changed. Among the options, only 'profitability' is a noun, meaning the ability to generate profit. The sentence means that due to a sudden change in the company's profitability, the stock value has more than doubled.<br><ul><li><b>profitability</b> (noun): The ability of a company to generate profit; a noun.</li><li><b>profitable</b> (adjective): Describes something that makes a profit; an adjective.</li><li><b>profited</b> (verb (past tense)): The past tense of the verb 'profit', meaning to have gained a profit.</li><li><b>to profit</b> (verb (infinitive)): The infinitive form of the verb 'profit', meaning to gain a profit.</li></ul><b>Related structure or vocabulary:</b> change in + noun: a change in some aspect or quality<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống đứng sau cụm từ 'change in ____', cần một danh từ để chỉ khía cạnh nào đã thay đổi. Trong các lựa chọn, chỉ có 'profitability' là danh từ, nghĩa là khả năng sinh lời. Câu này có nghĩa là nhờ sự thay đổi đột ngột về khả năng sinh lời, giá cổ phiếu của công ty đã tăng hơn gấp đôi.<br><ul><li><b>profitability</b> (danh từ): Khả năng sinh lời của một công ty; là danh từ.</li><li><b>profitable</b> (tính từ): Mô tả một cái gì đó tạo ra lợi nhuận; là tính từ.</li><li><b>profited</b> (động từ (quá khứ)): Dạng quá khứ của động từ 'profit', nghĩa là đã thu được lợi nhuận.</li><li><b>to profit</b> (động từ (nguyên thể)): Dạng nguyên thể của động từ 'profit', nghĩa là thu lợi nhuận.</li></ul><b>Cấu trúc và từ vựng:</b> change in + danh từ: sự thay đổi về một khía cạnh nào đó<br><br><b>Tạm dịch:</b> Nhờ sự thay đổi đột ngột về khả năng sinh lời, giá cổ phiếu của công ty đã tăng hơn gấp đôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after the phrase 'change in ____', which requires a noun to indicate what aspect has changed. Among the options, only 'profitability' is a noun, meaning the ability to generate profit. The sentence means that due to a sudden change in the company's profitability, the stock value has more than doubled.<br><ul><li><b>profitability</b> (noun): The ability of a company to generate profit; a noun.</li><li><b>profitable</b> (adjective): Describes something that makes a profit; an adjective.</li><li><b>profited</b> (verb (past tense)): The past tense of the verb 'profit', meaning to have gained a profit.</li><li><b>to profit</b> (verb (infinitive)): The infinitive form of the verb 'profit', meaning to gain a profit.</li></ul><b>Related structure or vocabulary:</b> change in + noun: a change in some aspect or quality<br><br>"
+      }
+    }
+  ]
+}

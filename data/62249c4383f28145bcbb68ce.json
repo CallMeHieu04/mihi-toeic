@@ -1,0 +1,648 @@
+{
+  "topicId": "62249c4383f28145bcbb68ce",
+  "title": "VERBS - Practice 3",
+  "totalCards": 16,
+  "totalQuestions": 16,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a26",
+        "questionNumber": 1,
+        "questionText": "Has the tree________cut?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "be",
+            "raw": "A. be\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "been",
+            "raw": "C. been",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "are",
+            "raw": "D. are",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Has the tree ________ cut?' requires the correct form of the verb to complete the present perfect passive structure. In the present perfect passive, the structure is: has/have + been + past participle (V3). Here, 'has' is already given, so we need 'been' to form the passive voice.<br><ul><li><b>be</b> (verb (base form)): 'Be' is the base form of the verb and cannot be used after 'has' in the present perfect passive.</li><li><b>is</b> (verb (present simple)): 'Is' is the present simple form of the verb 'to be', not suitable after 'has' in the present perfect passive.</li><li><b>been</b> (verb (past participle)): 'Been' is the past participle of 'be', which is required after 'has' to form the present perfect passive.</li><li><b>are</b> (verb (present simple, plural)): 'Are' is the present simple plural form of 'to be', not used after 'has' in this structure.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: has/have + been + past participle (V3)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Has the tree ________ cut?' cần điền đúng dạng của động từ để hoàn thành cấu trúc bị động ở thì hiện tại hoàn thành. Cấu trúc bị động ở thì hiện tại hoàn thành là: has/have + been + quá khứ phân từ (V3). Ở đây, 'has' đã có sẵn, nên cần điền 'been' để tạo thành câu bị động.<br><ul><li><b>be</b> (động từ (nguyên thể)): 'Be' là dạng nguyên thể của động từ, không thể dùng sau 'has' trong cấu trúc bị động hiện tại hoàn thành.</li><li><b>is</b> (động từ (hiện tại đơn)): 'Is' là dạng hiện tại đơn của động từ 'to be', không phù hợp sau 'has' trong cấu trúc này.</li><li><b>been</b> (động từ (quá khứ phân từ)): 'Been' là quá khứ phân từ của 'be', cần thiết sau 'has' để tạo thành câu bị động hiện tại hoàn thành.</li><li><b>are</b> (động từ (hiện tại đơn, số nhiều)): 'Are' là dạng số nhiều của động từ 'to be' ở hiện tại đơn, không dùng sau 'has' trong cấu trúc này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động hiện tại hoàn thành: has/have + been + quá khứ phân từ (V3)<br><br><b>Tạm dịch:</b> Câu hỏi: Has the tree been cut? --> Cái cây đã bị chặt chưa?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Has the tree ________ cut?' requires the correct form of the verb to complete the present perfect passive structure. In the present perfect passive, the structure is: has/have + been + past participle (V3). Here, 'has' is already given, so we need 'been' to form the passive voice.<br><ul><li><b>be</b> (verb (base form)): 'Be' is the base form of the verb and cannot be used after 'has' in the present perfect passive.</li><li><b>is</b> (verb (present simple)): 'Is' is the present simple form of the verb 'to be', not suitable after 'has' in the present perfect passive.</li><li><b>been</b> (verb (past participle)): 'Been' is the past participle of 'be', which is required after 'has' to form the present perfect passive.</li><li><b>are</b> (verb (present simple, plural)): 'Are' is the present simple plural form of 'to be', not used after 'has' in this structure.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: has/have + been + past participle (V3)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a27",
+        "questionNumber": 2,
+        "questionText": "What __________Mary do after school every day?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is",
+            "raw": "A. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "do",
+            "raw": "B. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "does",
+            "raw": "C. does",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "has",
+            "raw": "D. has",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What __________ Mary do after school every day?' requires an auxiliary verb to form a question in the present simple tense. For third person singular subjects like 'Mary', we use 'does' as the auxiliary verb. The structure for present simple questions is: What/Where/When + does + he/she/it + base verb?<br><ul><li><b>is</b> (verb (to be)): 'Is' is the present simple form of the verb 'to be'. It is not used as an auxiliary verb for forming questions in the present simple tense with action verbs.</li><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb for present simple questions, but only with plural subjects or 'I/you/we/they', not with 'he/she/it'.</li><li><b>does</b> (auxiliary verb): 'Does' is the correct auxiliary verb for present simple questions with third person singular subjects (he/she/it).</li><li><b>has</b> (verb (have)): 'Has' is the third person singular form of 'have', used to show possession, not as an auxiliary for present simple questions.</li></ul><b>Related structure or vocabulary:</b> Present simple tense question structure: What/Where/When + does + he/she/it + base verb?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'What __________ Mary do after school every day?' cần một trợ động từ để tạo thành câu hỏi ở thì hiện tại đơn. Với chủ ngữ ngôi thứ ba số ít như 'Mary', ta sử dụng 'does' làm trợ động từ. Cấu trúc câu hỏi ở thì hiện tại đơn là: What/Where/When + does + he/she/it + động từ nguyên thể?<br><ul><li><b>is</b> (động từ (to be)): 'Is' là động từ to be ở thì hiện tại đơn. Không dùng 'is' làm trợ động từ để tạo câu hỏi với động từ thường ở thì hiện tại đơn.</li><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng cho câu hỏi thì hiện tại đơn, nhưng chỉ dùng với chủ ngữ số nhiều hoặc 'I/you/we/they', không dùng với 'he/she/it'.</li><li><b>does</b> (trợ động từ): 'Does' là trợ động từ đúng dùng cho câu hỏi thì hiện tại đơn với chủ ngữ ngôi thứ ba số ít (he/she/it).</li><li><b>has</b> (động từ (have)): 'Has' là động từ 'have' ở ngôi thứ ba số ít, dùng để chỉ sự sở hữu, không phải trợ động từ cho câu hỏi thì hiện tại đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi thì hiện tại đơn: What/Where/When + does + he/she/it + động từ nguyên thể?<br><br><b>Tạm dịch:</b> Câu hỏi: What does Mary do after school every day? --> Mary làm gì sau giờ học mỗi ngày?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What __________ Mary do after school every day?' requires an auxiliary verb to form a question in the present simple tense. For third person singular subjects like 'Mary', we use 'does' as the auxiliary verb. The structure for present simple questions is: What/Where/When + does + he/she/it + base verb?<br><ul><li><b>is</b> (verb (to be)): 'Is' is the present simple form of the verb 'to be'. It is not used as an auxiliary verb for forming questions in the present simple tense with action verbs.</li><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb for present simple questions, but only with plural subjects or 'I/you/we/they', not with 'he/she/it'.</li><li><b>does</b> (auxiliary verb): 'Does' is the correct auxiliary verb for present simple questions with third person singular subjects (he/she/it).</li><li><b>has</b> (verb (have)): 'Has' is the third person singular form of 'have', used to show possession, not as an auxiliary for present simple questions.</li></ul><b>Related structure or vocabulary:</b> Present simple tense question structure: What/Where/When + does + he/she/it + base verb?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a28",
+        "questionNumber": 3,
+        "questionText": "Her parents divorced and she was _________ by her mother.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "risen",
+            "raw": "A. risen",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "rose",
+            "raw": "B. rose",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "raise",
+            "raw": "C. raise",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "raised",
+            "raw": "D. raised",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Her parents divorced and she was _________ by her mother.' requires a verb in the past participle form because it follows the verb 'was', forming the passive voice. In passive voice, the structure is 'was/were + past participle (V3)'.<br><ul><li><b>risen</b> (verb (past participle)): 'Risen' is the past participle of 'rise', which means to go up or increase. However, 'rise' is intransitive and cannot be used in the passive voice to mean 'to bring up a child'.</li><li><b>rose</b> (verb (past simple)): 'Rose' is the past simple form of 'rise'. It is not the correct form for passive voice and does not fit the meaning of the sentence.</li><li><b>raise</b> (verb (base form)): 'Raise' is the base form of the verb, meaning 'to bring up or care for a child'. However, after 'was', we need the past participle, not the base form.</li><li><b>raised</b> (verb (past participle)): 'Raised' is the past participle of 'raise', which means 'to bring up or care for a child'. It is the correct form to use after 'was' in the passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice: was/were + past participle (V3). 'Raise' (v): to bring up or care for a child.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Her parents divorced and she was _________ by her mother.' cần một động từ ở dạng quá khứ phân từ vì nó đứng sau động từ 'was', tạo thành câu bị động. Ở thể bị động, cấu trúc là 'was/were + quá khứ phân từ (V3)'.<br><ul><li><b>risen</b> (động từ (quá khứ phân từ)): 'Risen' là quá khứ phân từ của 'rise', nghĩa là tăng lên hoặc mọc lên. Tuy nhiên, 'rise' là động từ nội động, không dùng trong câu bị động với nghĩa 'nuôi dưỡng một đứa trẻ'.</li><li><b>rose</b> (động từ (quá khứ đơn)): 'Rose' là thì quá khứ đơn của 'rise'. Không phải là dạng đúng cho câu bị động và không phù hợp với nghĩa của câu.</li><li><b>raise</b> (động từ (nguyên thể)): 'Raise' là dạng nguyên thể của động từ, nghĩa là 'nuôi dưỡng hoặc chăm sóc một đứa trẻ'. Tuy nhiên, sau 'was' cần dùng quá khứ phân từ, không phải dạng nguyên thể.</li><li><b>raised</b> (động từ (quá khứ phân từ)): 'Raised' là quá khứ phân từ của 'raise', nghĩa là 'nuôi dưỡng hoặc chăm sóc một đứa trẻ'. Đây là dạng đúng cần dùng sau 'was' trong câu bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: was/were + quá khứ phân từ (V3). 'Raise' (v): nuôi dưỡng, chăm sóc một đứa trẻ.<br><br><b>Tạm dịch:</b> Cha mẹ cô ấy đã ly hôn và cô ấy được mẹ nuôi dưỡng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Her parents divorced and she was _________ by her mother.' requires a verb in the past participle form because it follows the verb 'was', forming the passive voice. In passive voice, the structure is 'was/were + past participle (V3)'.<br><ul><li><b>risen</b> (verb (past participle)): 'Risen' is the past participle of 'rise', which means to go up or increase. However, 'rise' is intransitive and cannot be used in the passive voice to mean 'to bring up a child'.</li><li><b>rose</b> (verb (past simple)): 'Rose' is the past simple form of 'rise'. It is not the correct form for passive voice and does not fit the meaning of the sentence.</li><li><b>raise</b> (verb (base form)): 'Raise' is the base form of the verb, meaning 'to bring up or care for a child'. However, after 'was', we need the past participle, not the base form.</li><li><b>raised</b> (verb (past participle)): 'Raised' is the past participle of 'raise', which means 'to bring up or care for a child'. It is the correct form to use after 'was' in the passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice: was/were + past participle (V3). 'Raise' (v): to bring up or care for a child.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a29",
+        "questionNumber": 4,
+        "questionText": "Why _________ you call the doctor this morning? Was Mary ill?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "did",
+            "raw": "A. did",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "was",
+            "raw": "B. was ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "does",
+            "raw": "C. does ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had",
+            "raw": "D. had",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Why _________ you call the doctor this morning? Was Mary ill?' requires the correct auxiliary verb to form a past simple question. The phrase 'this morning' indicates a specific time in the past, so we need to use the past simple tense. In English, to form a question in the past simple tense, we use 'did' + subject + base verb. Therefore, the correct answer is 'did'.<br><ul><li><b>did</b> (auxiliary verb): 'Did' is the auxiliary verb used to form questions in the past simple tense.</li><li><b>was</b> (verb (past tense of 'be')): 'Was' is the past tense of 'be', used for questions about states or conditions, not for actions with other verbs.</li><li><b>does</b> (auxiliary verb): 'Does' is the present simple auxiliary verb for he/she/it, not used for past actions.</li><li><b>had</b> (verb (past tense of 'have')): 'Had' is the past tense of 'have', used for possession or as an auxiliary in past perfect, not for forming simple past questions.</li></ul><b>Related structure or vocabulary:</b> To form questions in the past simple tense: Did + subject + base verb (e.g., Did you call...?)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'Why _________ you call the doctor this morning? Was Mary ill?' cần một trợ động từ phù hợp để tạo thành câu hỏi ở thì quá khứ đơn. Cụm từ 'this morning' chỉ một thời điểm cụ thể trong quá khứ, vì vậy ta cần dùng thì quá khứ đơn. Trong tiếng Anh, để đặt câu hỏi ở thì quá khứ đơn, ta dùng 'did' + chủ ngữ + động từ nguyên thể. Vì vậy, đáp án đúng là 'did'.<br><ul><li><b>did</b> (trợ động từ): 'Did' là trợ động từ dùng để đặt câu hỏi ở thì quá khứ đơn.</li><li><b>was</b> (động từ (quá khứ của 'be')): 'Was' là thì quá khứ của 'be', dùng để hỏi về trạng thái hoặc tình huống, không dùng cho hành động với động từ khác.</li><li><b>does</b> (trợ động từ): 'Does' là trợ động từ thì hiện tại đơn cho chủ ngữ he/she/it, không dùng cho hành động đã xảy ra trong quá khứ.</li><li><b>had</b> (động từ (quá khứ của 'have')): 'Had' là thì quá khứ của 'have', dùng để chỉ sở hữu hoặc làm trợ động từ trong thì quá khứ hoàn thành, không dùng để đặt câu hỏi ở thì quá khứ đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc đặt câu hỏi ở thì quá khứ đơn: Did + chủ ngữ + động từ nguyên thể (Ví dụ: Did you call...?)<br><br><b>Tạm dịch:</b> Tại sao bạn đã gọi bác sĩ sáng nay? Mary bị ốm à?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Why _________ you call the doctor this morning? Was Mary ill?' requires the correct auxiliary verb to form a past simple question. The phrase 'this morning' indicates a specific time in the past, so we need to use the past simple tense. In English, to form a question in the past simple tense, we use 'did' + subject + base verb. Therefore, the correct answer is 'did'.<br><ul><li><b>did</b> (auxiliary verb): 'Did' is the auxiliary verb used to form questions in the past simple tense.</li><li><b>was</b> (verb (past tense of 'be')): 'Was' is the past tense of 'be', used for questions about states or conditions, not for actions with other verbs.</li><li><b>does</b> (auxiliary verb): 'Does' is the present simple auxiliary verb for he/she/it, not used for past actions.</li><li><b>had</b> (verb (past tense of 'have')): 'Had' is the past tense of 'have', used for possession or as an auxiliary in past perfect, not for forming simple past questions.</li></ul><b>Related structure or vocabulary:</b> To form questions in the past simple tense: Did + subject + base verb (e.g., Did you call...?)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a2a",
+        "questionNumber": 5,
+        "questionText": "Why __________ she changed her dress? Was it dirty?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is",
+            "raw": "A. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "do",
+            "raw": "B. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "does",
+            "raw": "C. does ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has",
+            "raw": "D. has",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Why __________ she changed her dress? Was it dirty?' requires an auxiliary verb to form a present perfect question. In English, the present perfect tense is formed with 'has/have' + past participle. Since the subject is 'she', we use 'has'. The correct question is: 'Why has she changed her dress?'<br><ul><li><b>is</b> (verb (to be)): 'Is' is the present simple form of the verb 'to be'. It is not used to form the present perfect tense.</li><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in the present simple tense for questions and negatives, but not with the present perfect tense.</li><li><b>does</b> (auxiliary verb): 'Does' is also an auxiliary verb for the present simple tense (third person singular), not for the present perfect.</li><li><b>has</b> (auxiliary verb): 'Has' is the correct auxiliary verb for the present perfect tense with 'she'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. Used to talk about actions that happened at an unspecified time before now.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'Why __________ she changed her dress? Was it dirty?' cần một trợ động từ để tạo thành câu hỏi ở thì hiện tại hoàn thành. Trong tiếng Anh, thì hiện tại hoàn thành được hình thành với 'has/have' + động từ phân từ II. Vì chủ ngữ là 'she', ta dùng 'has'. Câu hỏi đúng là: 'Why has she changed her dress?'<br><ul><li><b>is</b> (động từ (to be)): 'Is' là động từ 'to be' ở thì hiện tại đơn. Không dùng để tạo thì hiện tại hoàn thành.</li><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng trong thì hiện tại đơn để tạo câu hỏi và phủ định, không dùng cho thì hiện tại hoàn thành.</li><li><b>does</b> (trợ động từ): 'Does' cũng là trợ động từ cho thì hiện tại đơn (ngôi thứ ba số ít), không dùng cho thì hiện tại hoàn thành.</li><li><b>has</b> (trợ động từ): 'Has' là trợ động từ đúng dùng cho thì hiện tại hoàn thành với chủ ngữ 'she'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành: has/have + động từ phân từ II. Dùng để nói về hành động đã xảy ra tại một thời điểm không xác định trước hiện tại.<br><br><b>Tạm dịch:</b> Tại sao cô ấy đã thay váy? Nó có bị bẩn không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Why __________ she changed her dress? Was it dirty?' requires an auxiliary verb to form a present perfect question. In English, the present perfect tense is formed with 'has/have' + past participle. Since the subject is 'she', we use 'has'. The correct question is: 'Why has she changed her dress?'<br><ul><li><b>is</b> (verb (to be)): 'Is' is the present simple form of the verb 'to be'. It is not used to form the present perfect tense.</li><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in the present simple tense for questions and negatives, but not with the present perfect tense.</li><li><b>does</b> (auxiliary verb): 'Does' is also an auxiliary verb for the present simple tense (third person singular), not for the present perfect.</li><li><b>has</b> (auxiliary verb): 'Has' is the correct auxiliary verb for the present perfect tense with 'she'.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense: has/have + past participle. Used to talk about actions that happened at an unspecified time before now.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a2b",
+        "questionNumber": 6,
+        "questionText": "When _______ he break his leg?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "did",
+            "raw": "A. did",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "was",
+            "raw": "B. was ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "does",
+            "raw": "C. does ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had",
+            "raw": "D. had",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'When _______ he break his leg?' requires the correct auxiliary verb to form a question in the past simple tense. In English, when asking about a specific time in the past, we use 'did' as the auxiliary verb, followed by the base form of the main verb ('break').<br><ul><li><b>did</b> (auxiliary verb): 'Did' is the auxiliary verb used to form questions in the past simple tense. It is followed by the base form of the main verb.</li><li><b>was</b> (auxiliary verb / main verb): 'Was' is the past tense of 'be' and is used as an auxiliary verb in the past continuous tense or as a main verb, not with the base form of another verb.</li><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used for present simple questions with he/she/it, not for past events.</li><li><b>had</b> (auxiliary verb / main verb): 'Had' is the past tense of 'have' and is used in the past perfect tense, not for forming simple past questions.</li></ul><b>Related structure or vocabulary:</b> Question formation in the past simple tense: Did + subject + base verb?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'When _______ he break his leg?' cần một trợ động từ phù hợp để tạo thành câu hỏi ở thì quá khứ đơn. Trong tiếng Anh, khi hỏi về một hành động xảy ra vào thời điểm cụ thể trong quá khứ, ta dùng 'did' làm trợ động từ, theo sau là động từ nguyên thể ('break').<br><ul><li><b>did</b> (trợ động từ): 'Did' là trợ động từ dùng để tạo câu hỏi ở thì quá khứ đơn. Sau 'did' là động từ nguyên thể.</li><li><b>was</b> (trợ động từ / động từ chính): 'Was' là thì quá khứ của 'be', dùng làm trợ động từ trong thì quá khứ tiếp diễn hoặc làm động từ chính, không đi với động từ nguyên thể khác.</li><li><b>does</b> (trợ động từ): 'Does' là trợ động từ dùng cho câu hỏi thì hiện tại đơn với chủ ngữ he/she/it, không dùng cho hành động đã xảy ra trong quá khứ.</li><li><b>had</b> (trợ động từ / động từ chính): 'Had' là thì quá khứ của 'have', dùng trong thì quá khứ hoàn thành, không dùng để tạo câu hỏi ở thì quá khứ đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi ở thì quá khứ đơn: Did + chủ ngữ + động từ nguyên thể?<br><br><b>Tạm dịch:</b> Khi nào anh ấy bị gãy chân?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'When _______ he break his leg?' requires the correct auxiliary verb to form a question in the past simple tense. In English, when asking about a specific time in the past, we use 'did' as the auxiliary verb, followed by the base form of the main verb ('break').<br><ul><li><b>did</b> (auxiliary verb): 'Did' is the auxiliary verb used to form questions in the past simple tense. It is followed by the base form of the main verb.</li><li><b>was</b> (auxiliary verb / main verb): 'Was' is the past tense of 'be' and is used as an auxiliary verb in the past continuous tense or as a main verb, not with the base form of another verb.</li><li><b>does</b> (auxiliary verb): 'Does' is the auxiliary verb used for present simple questions with he/she/it, not for past events.</li><li><b>had</b> (auxiliary verb / main verb): 'Had' is the past tense of 'have' and is used in the past perfect tense, not for forming simple past questions.</li></ul><b>Related structure or vocabulary:</b> Question formation in the past simple tense: Did + subject + base verb?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a2c",
+        "questionNumber": 7,
+        "questionText": "Do you think that the price of petrol will _________ next year in your country?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "rise",
+            "raw": "A. rise",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "rose",
+            "raw": "B. rose",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "raise",
+            "raw": "C. raise",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "raised",
+            "raw": "D. raised",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Do you think that the price of petrol will _________ next year in your country?' requires a verb in its base form (bare infinitive) because it follows the modal verb 'will'. After modal verbs (will, can, may, etc.), we always use the base form of the verb.<br><ul><li><b>rise</b> (verb (bare infinitive)): to go up or increase in level, amount, or price; used as a verb in its base form.</li><li><b>rose</b> (verb (past tense)): the past tense of 'rise'; not used after 'will'.</li><li><b>raise</b> (verb (bare infinitive, transitive)): to lift something to a higher position or to increase something; requires an object.</li><li><b>raised</b> (verb (past tense/past participle)): the past tense and past participle of 'raise'; not used after 'will'.</li></ul><b>Related structure or vocabulary:</b> Modal verb (will) + base form of verb: After modal verbs, use the base form of the verb. 'Rise' is an intransitive verb (does not take an object), while 'raise' is a transitive verb (requires an object).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Do you think that the price of petrol will _________ next year in your country?' cần một động từ nguyên thể không 'to' vì nó đứng sau động từ khiếm khuyết 'will'. Sau các động từ khiếm khuyết (will, can, may,...) luôn dùng động từ nguyên thể.<br><ul><li><b>rise</b> (động từ (nguyên thể)): tăng lên, tăng giá; là động từ nguyên thể không 'to'.</li><li><b>rose</b> (động từ (quá khứ)): quá khứ của 'rise'; không dùng sau 'will'.</li><li><b>raise</b> (động từ (nguyên thể, ngoại động từ)): nâng lên, tăng lên (cần tân ngữ đi kèm); là động từ nguyên thể nhưng mang nghĩa chủ động tác động lên đối tượng khác.</li><li><b>raised</b> (động từ (quá khứ/quá khứ phân từ)): quá khứ và quá khứ phân từ của 'raise'; không dùng sau 'will'.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khiếm khuyết (will) + động từ nguyên thể: Sau các động từ khiếm khuyết, luôn dùng động từ nguyên thể. 'Rise' là nội động từ (không cần tân ngữ), còn 'raise' là ngoại động từ (cần tân ngữ).<br><br><b>Tạm dịch:</b> Bạn có nghĩ rằng giá xăng sẽ tăng vào năm sau ở nước bạn không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Do you think that the price of petrol will _________ next year in your country?' requires a verb in its base form (bare infinitive) because it follows the modal verb 'will'. After modal verbs (will, can, may, etc.), we always use the base form of the verb.<br><ul><li><b>rise</b> (verb (bare infinitive)): to go up or increase in level, amount, or price; used as a verb in its base form.</li><li><b>rose</b> (verb (past tense)): the past tense of 'rise'; not used after 'will'.</li><li><b>raise</b> (verb (bare infinitive, transitive)): to lift something to a higher position or to increase something; requires an object.</li><li><b>raised</b> (verb (past tense/past participle)): the past tense and past participle of 'raise'; not used after 'will'.</li></ul><b>Related structure or vocabulary:</b> Modal verb (will) + base form of verb: After modal verbs, use the base form of the verb. 'Rise' is an intransitive verb (does not take an object), while 'raise' is a transitive verb (requires an object).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a2d",
+        "questionNumber": 8,
+        "questionText": "When __________ you leave? Next month?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will",
+            "raw": "C. will",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "shall",
+            "raw": "D. shall",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'When __________ you leave? Next month?' requires an auxiliary verb to form a question about the future. In English, when asking about a planned or scheduled event in the future, we often use 'will' + subject + base verb. The word 'will' is the correct auxiliary verb to use for making simple future tense questions.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used to form questions in the present simple tense, not for future events.</li><li><b>are</b> (auxiliary verb): 'Are' is used as an auxiliary verb for present continuous tense or passive voice, not for simple future questions.</li><li><b>will</b> (auxiliary verb): 'Will' is the auxiliary verb used to form questions in the simple future tense.</li><li><b>shall</b> (auxiliary verb): 'Shall' can be used for future questions, but it is mostly used with 'I' or 'we' and is more formal or British English.</li></ul><b>Related structure or vocabulary:</b> Simple future tense: will + subject + base verb. Example: Will you leave next month?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'When __________ you leave? Next month?' cần một trợ động từ để tạo thành câu hỏi về tương lai. Trong tiếng Anh, khi hỏi về một sự kiện dự định hoặc sẽ xảy ra trong tương lai, chúng ta thường dùng 'will' + chủ ngữ + động từ nguyên thể. 'Will' là trợ động từ đúng để dùng trong câu hỏi thì tương lai đơn.<br><ul><li><b>do</b> (trợ động từ): 'Do' dùng để tạo câu hỏi ở thì hiện tại đơn, không dùng cho sự kiện tương lai.</li><li><b>are</b> (trợ động từ): 'Are' là trợ động từ dùng cho thì hiện tại tiếp diễn hoặc bị động, không dùng cho câu hỏi thì tương lai đơn.</li><li><b>will</b> (trợ động từ): 'Will' là trợ động từ dùng để tạo câu hỏi ở thì tương lai đơn.</li><li><b>shall</b> (trợ động từ): 'Shall' cũng có thể dùng cho câu hỏi tương lai, nhưng chủ yếu dùng với 'I' hoặc 'we' và mang tính trang trọng hoặc theo tiếng Anh Anh.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn: will + chủ ngữ + động từ nguyên thể. Ví dụ: Will you leave next month?<br><br><b>Tạm dịch:</b> Khi nào bạn sẽ rời đi? Tháng sau à?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'When __________ you leave? Next month?' requires an auxiliary verb to form a question about the future. In English, when asking about a planned or scheduled event in the future, we often use 'will' + subject + base verb. The word 'will' is the correct auxiliary verb to use for making simple future tense questions.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used to form questions in the present simple tense, not for future events.</li><li><b>are</b> (auxiliary verb): 'Are' is used as an auxiliary verb for present continuous tense or passive voice, not for simple future questions.</li><li><b>will</b> (auxiliary verb): 'Will' is the auxiliary verb used to form questions in the simple future tense.</li><li><b>shall</b> (auxiliary verb): 'Shall' can be used for future questions, but it is mostly used with 'I' or 'we' and is more formal or British English.</li></ul><b>Related structure or vocabulary:</b> Simple future tense: will + subject + base verb. Example: Will you leave next month?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a2e",
+        "questionNumber": 9,
+        "questionText": "When _________ you going to marry him?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will",
+            "raw": "C. will ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "shall",
+            "raw": "D. shall",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'When _________ you going to marry him?' requires an auxiliary verb to form the present continuous tense in a question. The structure for present continuous questions is: 'Wh-word + am/are/is + subject + verb-ing...?' Since the subject is 'you', the correct auxiliary verb is 'are'.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in present simple questions, not with 'going to'.</li><li><b>are</b> (auxiliary verb): 'Are' is the correct auxiliary verb for 'you' in the present continuous tense and in 'be going to' future structure.</li><li><b>will</b> (modal verb): 'Will' is used to form the simple future tense, but the structure here is 'be going to', not 'will'.</li><li><b>shall</b> (modal verb): 'Shall' is a modal verb, mainly used with 'I' or 'we' for suggestions or offers, not with 'you' in this context.</li></ul><b>Related structure or vocabulary:</b> Structure: 'be going to' is used to talk about future plans or intentions. Question form: Wh-word + am/are/is + subject + going to + verb... Example: When are you going to leave?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'When _________ you going to marry him?' cần một trợ động từ để tạo thành thì hiện tại tiếp diễn ở dạng câu hỏi. Cấu trúc câu hỏi của thì hiện tại tiếp diễn là: 'Wh-word + am/are/is + chủ ngữ + động từ-ing...?' Vì chủ ngữ là 'you', trợ động từ phù hợp là 'are'.<br><ul><li><b>do</b> (trợ động từ): 'Do' được dùng làm trợ động từ trong thì hiện tại đơn, không dùng với cấu trúc 'going to'.</li><li><b>are</b> (trợ động từ): 'Are' là trợ động từ đúng cho 'you' trong thì hiện tại tiếp diễn và cấu trúc 'be going to' để nói về dự định tương lai.</li><li><b>will</b> (động từ khuyết thiếu): 'Will' dùng để tạo thì tương lai đơn, nhưng ở đây cấu trúc là 'be going to', không phải 'will'.</li><li><b>shall</b> (động từ khuyết thiếu): 'Shall' là động từ khuyết thiếu, chủ yếu dùng với 'I' hoặc 'we' để đề xuất hoặc gợi ý, không dùng với 'you' trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: 'be going to' dùng để nói về kế hoạch hoặc dự định trong tương lai. Dạng câu hỏi: Wh-word + am/are/is + chủ ngữ + going to + động từ... Ví dụ: When are you going to leave?<br><br><b>Tạm dịch:</b> Khi nào bạn sẽ cưới anh ấy?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'When _________ you going to marry him?' requires an auxiliary verb to form the present continuous tense in a question. The structure for present continuous questions is: 'Wh-word + am/are/is + subject + verb-ing...?' Since the subject is 'you', the correct auxiliary verb is 'are'.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in present simple questions, not with 'going to'.</li><li><b>are</b> (auxiliary verb): 'Are' is the correct auxiliary verb for 'you' in the present continuous tense and in 'be going to' future structure.</li><li><b>will</b> (modal verb): 'Will' is used to form the simple future tense, but the structure here is 'be going to', not 'will'.</li><li><b>shall</b> (modal verb): 'Shall' is a modal verb, mainly used with 'I' or 'we' for suggestions or offers, not with 'you' in this context.</li></ul><b>Related structure or vocabulary:</b> Structure: 'be going to' is used to talk about future plans or intentions. Question form: Wh-word + am/are/is + subject + going to + verb... Example: When are you going to leave?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a2f",
+        "questionNumber": 10,
+        "questionText": "_________ you buy it last week?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Will",
+            "raw": "A. Will ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Do",
+            "raw": "B. Do ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Did",
+            "raw": "C. Did",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Had",
+            "raw": "D. Had",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question '_________ you buy it last week?' requires an auxiliary verb to form a question in the past simple tense. When asking about an action that happened in the past (last week), we use 'Did' as the auxiliary verb for all subjects. The structure is: Did + subject + base verb + ...?<br><ul><li><b>Will</b> (auxiliary verb (modal)): Used for future tense questions, not suitable for actions in the past.</li><li><b>Do</b> (auxiliary verb): Used for present simple tense questions, not for past events.</li><li><b>Did</b> (auxiliary verb): Used for past simple tense questions. Correct choice for asking about an action that happened last week.</li><li><b>Had</b> (auxiliary verb / verb): Used for past perfect tense or as the past form of 'have', not used to form simple past questions.</li></ul><b>Related structure or vocabulary:</b> Simple past tense question structure: Did + subject + base verb + ...? Used to ask about completed actions in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi '_________ you buy it last week?' cần một trợ động từ để tạo thành câu hỏi ở thì quá khứ đơn. Khi hỏi về một hành động đã xảy ra trong quá khứ (last week - tuần trước), ta dùng 'Did' làm trợ động từ cho tất cả các chủ ngữ. Cấu trúc là: Did + chủ ngữ + động từ nguyên thể + ...?<br><ul><li><b>Will</b> (trợ động từ (động từ khuyết thiếu)): Dùng cho câu hỏi ở thì tương lai, không phù hợp với hành động đã xảy ra trong quá khứ.</li><li><b>Do</b> (trợ động từ): Dùng cho câu hỏi ở thì hiện tại đơn, không dùng cho sự việc đã xảy ra.</li><li><b>Did</b> (trợ động từ): Dùng cho câu hỏi ở thì quá khứ đơn. Đây là lựa chọn đúng để hỏi về hành động đã xảy ra tuần trước.</li><li><b>Had</b> (trợ động từ / động từ): Dùng cho thì quá khứ hoàn thành hoặc là dạng quá khứ của 'have', không dùng để tạo câu hỏi ở thì quá khứ đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi thì quá khứ đơn: Did + chủ ngữ + động từ nguyên thể + ...? Dùng để hỏi về hành động đã hoàn thành trong quá khứ.<br><br><b>Tạm dịch:</b> Bạn có mua nó vào tuần trước không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question '_________ you buy it last week?' requires an auxiliary verb to form a question in the past simple tense. When asking about an action that happened in the past (last week), we use 'Did' as the auxiliary verb for all subjects. The structure is: Did + subject + base verb + ...?<br><ul><li><b>Will</b> (auxiliary verb (modal)): Used for future tense questions, not suitable for actions in the past.</li><li><b>Do</b> (auxiliary verb): Used for present simple tense questions, not for past events.</li><li><b>Did</b> (auxiliary verb): Used for past simple tense questions. Correct choice for asking about an action that happened last week.</li><li><b>Had</b> (auxiliary verb / verb): Used for past perfect tense or as the past form of 'have', not used to form simple past questions.</li></ul><b>Related structure or vocabulary:</b> Simple past tense question structure: Did + subject + base verb + ...? Used to ask about completed actions in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a30",
+        "questionNumber": 11,
+        "questionText": "Why _________ he always come at dinner time?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has",
+            "raw": "A. has ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "does",
+            "raw": "C. does",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "was",
+            "raw": "D. was ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Why _________ he always come at dinner time?' requires an auxiliary verb to form a present simple question. In English, when asking questions in the present simple tense with 'he', we use 'does' as the auxiliary verb. The structure is: Why + does + subject + base verb. Therefore, the correct answer is 'does'.<br><ul><li><b>has</b> (auxiliary verb): Present perfect auxiliary verb, used with 'he' as 'has he' for present perfect tense (e.g., Has he eaten?). Not suitable for present simple questions.</li><li><b>is</b> (auxiliary verb): Present simple of 'to be', used for continuous tenses or as a linking verb (e.g., Is he coming?). Not used with base verb 'come' in this structure.</li><li><b>does</b> (auxiliary verb): Present simple auxiliary verb for 'he/she/it' subjects, used to form questions (e.g., Does he come?). Correct choice here.</li><li><b>was</b> (auxiliary verb): Past simple of 'to be', used for past continuous or as a linking verb in the past (e.g., Was he coming?). Not suitable for present simple questions.</li></ul><b>Related structure or vocabulary:</b> Present Simple Question Structure: Why/When/Where + does + subject + base verb<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Why _________ he always come at dinner time?' cần một trợ động từ để tạo thành câu hỏi ở thì hiện tại đơn. Trong tiếng Anh, khi đặt câu hỏi ở thì hiện tại đơn với chủ ngữ 'he', ta dùng 'does' làm trợ động từ. Cấu trúc là: Why + does + chủ ngữ + động từ nguyên thể. Vì vậy, đáp án đúng là 'does'.<br><ul><li><b>has</b> (trợ động từ): 'has' là trợ động từ của thì hiện tại hoàn thành, dùng với 'he' trong cấu trúc 'has he' (ví dụ: Has he eaten?). Không phù hợp với câu hỏi ở thì hiện tại đơn.</li><li><b>is</b> (trợ động từ): 'is' là động từ 'to be' ở thì hiện tại, dùng cho thì tiếp diễn hoặc làm động từ nối (ví dụ: Is he coming?). Không dùng với động từ nguyên thể 'come' trong cấu trúc này.</li><li><b>does</b> (trợ động từ): 'does' là trợ động từ của thì hiện tại đơn cho chủ ngữ 'he/she/it', dùng để tạo câu hỏi (ví dụ: Does he come?). Đây là đáp án đúng.</li><li><b>was</b> (trợ động từ): 'was' là động từ 'to be' ở thì quá khứ đơn, dùng cho thì tiếp diễn quá khứ hoặc làm động từ nối ở quá khứ (ví dụ: Was he coming?). Không phù hợp với câu hỏi ở thì hiện tại đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi thì hiện tại đơn: Why/When/Where + does + chủ ngữ + động từ nguyên thể<br><br><b>Tạm dịch:</b> Tại sao anh ấy luôn đến vào giờ ăn tối?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Why _________ he always come at dinner time?' requires an auxiliary verb to form a present simple question. In English, when asking questions in the present simple tense with 'he', we use 'does' as the auxiliary verb. The structure is: Why + does + subject + base verb. Therefore, the correct answer is 'does'.<br><ul><li><b>has</b> (auxiliary verb): Present perfect auxiliary verb, used with 'he' as 'has he' for present perfect tense (e.g., Has he eaten?). Not suitable for present simple questions.</li><li><b>is</b> (auxiliary verb): Present simple of 'to be', used for continuous tenses or as a linking verb (e.g., Is he coming?). Not used with base verb 'come' in this structure.</li><li><b>does</b> (auxiliary verb): Present simple auxiliary verb for 'he/she/it' subjects, used to form questions (e.g., Does he come?). Correct choice here.</li><li><b>was</b> (auxiliary verb): Past simple of 'to be', used for past continuous or as a linking verb in the past (e.g., Was he coming?). Not suitable for present simple questions.</li></ul><b>Related structure or vocabulary:</b> Present Simple Question Structure: Why/When/Where + does + subject + base verb<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a31",
+        "questionNumber": 12,
+        "questionText": "I would have ________ my hand if I had known the answer.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "rise",
+            "raw": "A. rise",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "rose",
+            "raw": "B. rose",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "raise",
+            "raw": "C. raise",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "raised",
+            "raw": "D. raised",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the correct verb form is needed after 'would have'. The structure 'would have + past participle' is used to talk about something that did not happen in the past. The past participle of 'raise' is 'raised'.<br><ul><li><b>rise</b> (verb (intransitive)): To move upwards or to get up; an intransitive verb (does not take an object). The past participle is 'risen'.</li><li><b>rose</b> (verb (past simple)): The simple past form of 'rise'. Not a past participle.</li><li><b>raise</b> (verb (transitive)): To lift something up; a regular verb (transitive, takes an object). The past participle is 'raised'.</li><li><b>raised</b> (verb (past simple/past participle)): The past simple and past participle form of 'raise'. Used after 'would have' to form the perfect conditional.</li></ul><b>Related structure or vocabulary:</b> would have + past participle (perfect conditional); raise (to lift something); rise (to go up, intransitive)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, cần sử dụng dạng động từ đúng sau 'would have'. Cấu trúc 'would have + past participle' (dạng quá khứ phân từ) được dùng để nói về một điều đã không xảy ra trong quá khứ. Quá khứ phân từ của 'raise' là 'raised'.<br><ul><li><b>rise</b> (động từ (nội động từ)): 'Rise' nghĩa là 'đứng lên', 'tăng lên', là động từ nội động (không có tân ngữ). Quá khứ phân từ là 'risen'.</li><li><b>rose</b> (động từ (quá khứ đơn)): 'Rose' là thì quá khứ đơn của 'rise', không phải quá khứ phân từ.</li><li><b>raise</b> (động từ (ngoại động từ)): 'Raise' nghĩa là 'giơ lên', 'nâng lên', là động từ ngoại động (có tân ngữ). Quá khứ phân từ là 'raised'.</li><li><b>raised</b> (động từ (quá khứ đơn/quá khứ phân từ)): 'Raised' là thì quá khứ đơn và quá khứ phân từ của 'raise'. Dùng sau 'would have' để tạo cấu trúc điều kiện hoàn thành.</li></ul><b>Cấu trúc và từ vựng:</b> would have + past participle (câu điều kiện loại 3); raise (nâng lên, giơ lên); rise (tăng lên, đứng lên, nội động từ)<br><br><b>Tạm dịch:</b> Tôi đã giơ tay nếu tôi biết câu trả lời.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the correct verb form is needed after 'would have'. The structure 'would have + past participle' is used to talk about something that did not happen in the past. The past participle of 'raise' is 'raised'.<br><ul><li><b>rise</b> (verb (intransitive)): To move upwards or to get up; an intransitive verb (does not take an object). The past participle is 'risen'.</li><li><b>rose</b> (verb (past simple)): The simple past form of 'rise'. Not a past participle.</li><li><b>raise</b> (verb (transitive)): To lift something up; a regular verb (transitive, takes an object). The past participle is 'raised'.</li><li><b>raised</b> (verb (past simple/past participle)): The past simple and past participle form of 'raise'. Used after 'would have' to form the perfect conditional.</li></ul><b>Related structure or vocabulary:</b> would have + past participle (perfect conditional); raise (to lift something); rise (to go up, intransitive)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a32",
+        "questionNumber": 13,
+        "questionText": "How old _________ you ?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "were",
+            "raw": "C. were",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "did",
+            "raw": "D. did",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'How old _________ you?' requires a verb to form a correct question about age. In English, the correct structure to ask someone's age is 'How old are you?' Here, 'are' is the correct form of the verb 'to be' for the subject 'you' in the present tense.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is an auxiliary verb used to form questions in the present simple tense, but not with 'how old'.</li><li><b>are</b> (verb (to be, present tense)): 'Are' is the present tense form of the verb 'to be' used with 'you'. It is the correct verb for this question structure.</li><li><b>were</b> (verb (to be, past tense)): 'Were' is the past tense form of the verb 'to be'. It is not used when asking about someone's current age.</li><li><b>did</b> (auxiliary verb): 'Did' is the past tense auxiliary verb used to form questions in the past simple tense, but not with 'how old'.</li></ul><b>Related structure or vocabulary:</b> How old + to be (am/is/are) + subject? This is the standard structure to ask about age in English.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'How old _________ you?' cần một động từ để tạo thành câu hỏi đúng về tuổi tác. Trong tiếng Anh, cấu trúc đúng để hỏi tuổi ai đó là 'How old are you?' Ở đây, 'are' là dạng đúng của động từ 'to be' dùng với chủ ngữ 'you' ở thì hiện tại.<br><ul><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng để tạo câu hỏi ở thì hiện tại đơn, nhưng không dùng với 'how old'.</li><li><b>are</b> (động từ (to be, thì hiện tại)): 'Are' là động từ 'to be' ở thì hiện tại dùng với 'you'. Đây là động từ đúng cho cấu trúc câu hỏi này.</li><li><b>were</b> (động từ (to be, thì quá khứ)): 'Were' là động từ 'to be' ở thì quá khứ. Không dùng để hỏi về tuổi hiện tại của ai đó.</li><li><b>did</b> (trợ động từ): 'Did' là trợ động từ ở thì quá khứ đơn, dùng để tạo câu hỏi ở thì quá khứ, nhưng không dùng với 'how old'.</li></ul><b>Cấu trúc và từ vựng:</b> How old + to be (am/is/are) + chủ ngữ? Đây là cấu trúc chuẩn để hỏi về tuổi trong tiếng Anh.<br><br><b>Tạm dịch:</b> How old are you? --> Bạn bao nhiêu tuổi?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'How old _________ you?' requires a verb to form a correct question about age. In English, the correct structure to ask someone's age is 'How old are you?' Here, 'are' is the correct form of the verb 'to be' for the subject 'you' in the present tense.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is an auxiliary verb used to form questions in the present simple tense, but not with 'how old'.</li><li><b>are</b> (verb (to be, present tense)): 'Are' is the present tense form of the verb 'to be' used with 'you'. It is the correct verb for this question structure.</li><li><b>were</b> (verb (to be, past tense)): 'Were' is the past tense form of the verb 'to be'. It is not used when asking about someone's current age.</li><li><b>did</b> (auxiliary verb): 'Did' is the past tense auxiliary verb used to form questions in the past simple tense, but not with 'how old'.</li></ul><b>Related structure or vocabulary:</b> How old + to be (am/is/are) + subject? This is the standard structure to ask about age in English.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a33",
+        "questionNumber": 14,
+        "questionText": "How many brothers _________ you got ?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "do",
+            "raw": "A. do",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "are",
+            "raw": "B. are",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have",
+            "raw": "C. have",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "were",
+            "raw": "D. were",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question 'How many brothers _________ you got?' is asking about the number of brothers someone has. In informal spoken English, the structure 'have you got' is commonly used to ask about possession. The correct auxiliary verb to use with 'got' in this context is 'have'. The full question should be 'How many brothers have you got?'.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in questions, but with 'got', the correct auxiliary is 'have', not 'do'. For example, 'Do you have any brothers?' is correct, but not with 'got'.</li><li><b>are</b> (verb (to be)): 'Are' is a form of the verb 'to be', used for questions about state or identity, not possession.</li><li><b>have</b> (auxiliary verb): 'Have' is the correct auxiliary verb used with 'got' to indicate possession in British English. The structure is 'have/has + subject + got'.</li><li><b>were</b> (verb (past tense of to be)): 'Were' is the past tense of 'are', used for past states or conditions, not for possession.</li></ul><b>Related structure or vocabulary:</b> The structure 'have/has got' is used to talk about possession, especially in British English. The question form is: 'How many + noun + have/has + subject + got?'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi 'How many brothers _________ you got?' hỏi về số lượng anh/em trai mà ai đó có. Trong tiếng Anh giao tiếp, cấu trúc 'have you got' thường được dùng để hỏi về sự sở hữu. Trợ động từ đúng cần dùng với 'got' trong trường hợp này là 'have'. Câu hỏi đầy đủ phải là 'How many brothers have you got?'<br><ul><li><b>do</b> (trợ động từ): 'Do' là trợ động từ dùng trong câu hỏi, nhưng với 'got', trợ động từ đúng phải là 'have', không phải 'do'. Ví dụ: 'Do you have any brothers?' là đúng, nhưng không dùng với 'got'.</li><li><b>are</b> (động từ (to be)): 'Are' là động từ 'to be', dùng để hỏi về trạng thái hoặc danh tính, không dùng để hỏi về sự sở hữu.</li><li><b>have</b> (trợ động từ): 'Have' là trợ động từ đúng dùng với 'got' để chỉ sự sở hữu trong tiếng Anh Anh. Cấu trúc là 'have/has + chủ ngữ + got'.</li><li><b>were</b> (động từ (quá khứ của to be)): 'Were' là thì quá khứ của 'are', dùng để nói về trạng thái hoặc điều kiện trong quá khứ, không dùng để chỉ sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc 'have/has got' dùng để nói về sự sở hữu, đặc biệt phổ biến trong tiếng Anh Anh. Dạng câu hỏi là: 'How many + danh từ + have/has + chủ ngữ + got?'<br><br><b>Tạm dịch:</b> Bạn có bao nhiêu anh/em trai?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question 'How many brothers _________ you got?' is asking about the number of brothers someone has. In informal spoken English, the structure 'have you got' is commonly used to ask about possession. The correct auxiliary verb to use with 'got' in this context is 'have'. The full question should be 'How many brothers have you got?'.<br><ul><li><b>do</b> (auxiliary verb): 'Do' is used as an auxiliary verb in questions, but with 'got', the correct auxiliary is 'have', not 'do'. For example, 'Do you have any brothers?' is correct, but not with 'got'.</li><li><b>are</b> (verb (to be)): 'Are' is a form of the verb 'to be', used for questions about state or identity, not possession.</li><li><b>have</b> (auxiliary verb): 'Have' is the correct auxiliary verb used with 'got' to indicate possession in British English. The structure is 'have/has + subject + got'.</li><li><b>were</b> (verb (past tense of to be)): 'Were' is the past tense of 'are', used for past states or conditions, not for possession.</li></ul><b>Related structure or vocabulary:</b> The structure 'have/has got' is used to talk about possession, especially in British English. The question form is: 'How many + noun + have/has + subject + got?'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a34",
+        "questionNumber": 15,
+        "questionText": "What time ________ it ?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am",
+            "raw": "A. am",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "does",
+            "raw": "C. does",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "do",
+            "raw": "D. do",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What time ________ it?' requires the correct form of the verb 'to be' to match the subject 'it'. In English, when asking about the time, the correct structure is 'What time is it?'. The verb 'is' is the third person singular form of 'to be', which agrees with the subject 'it'.<br><ul><li><b>am</b> (verb (to be, first person singular)): 'am' is the first person singular form of the verb 'to be', used with 'I' (e.g., 'I am'). It does not agree with 'it'.</li><li><b>is</b> (verb (to be, third person singular)): 'is' is the third person singular form of the verb 'to be', used with 'he', 'she', 'it'. It is the correct choice for the subject 'it'.</li><li><b>does</b> (verb (do, third person singular)): 'does' is the third person singular form of the verb 'do', used for questions or negatives in the present simple tense, but not with the verb 'to be'.</li><li><b>do</b> (verb (do, base form)): 'do' is the base form of the verb 'do', used with 'I', 'you', 'we', 'they' in questions or negatives, but not with the verb 'to be'.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: 'it' + 'is' (What time is it?); Question structure for asking the time: 'What time is it?'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'What time ________ it?' cần điền đúng dạng của động từ 'to be' phù hợp với chủ ngữ 'it'. Trong tiếng Anh, khi hỏi về thời gian, cấu trúc đúng là 'What time is it?'. Động từ 'is' là dạng số ít ngôi thứ ba của 'to be', phù hợp với chủ ngữ 'it'.<br><ul><li><b>am</b> (động từ (to be, ngôi thứ nhất số ít)): 'am' là động từ 'to be' dùng cho ngôi thứ nhất số ít (I am), không phù hợp với chủ ngữ 'it'.</li><li><b>is</b> (động từ (to be, ngôi thứ ba số ít)): 'is' là động từ 'to be' dùng cho ngôi thứ ba số ít (he, she, it), phù hợp với chủ ngữ 'it' trong câu hỏi này.</li><li><b>does</b> (động từ (do, ngôi thứ ba số ít)): 'does' là động từ 'do' dùng cho ngôi thứ ba số ít, thường dùng trong câu hỏi hoặc phủ định thì hiện tại đơn, nhưng không dùng với động từ 'to be'.</li><li><b>do</b> (động từ (do, nguyên mẫu)): 'do' là động từ nguyên mẫu, dùng với các chủ ngữ I, you, we, they trong câu hỏi hoặc phủ định, nhưng không dùng với động từ 'to be'.</li></ul><b>Cấu trúc và từ vựng:</b> Sự hòa hợp giữa chủ ngữ và động từ: 'it' + 'is' (What time is it?); Cấu trúc câu hỏi về thời gian: 'What time is it?'<br><br><b>Tạm dịch:</b> Câu hỏi: What time is it? (Mấy giờ rồi?)",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What time ________ it?' requires the correct form of the verb 'to be' to match the subject 'it'. In English, when asking about the time, the correct structure is 'What time is it?'. The verb 'is' is the third person singular form of 'to be', which agrees with the subject 'it'.<br><ul><li><b>am</b> (verb (to be, first person singular)): 'am' is the first person singular form of the verb 'to be', used with 'I' (e.g., 'I am'). It does not agree with 'it'.</li><li><b>is</b> (verb (to be, third person singular)): 'is' is the third person singular form of the verb 'to be', used with 'he', 'she', 'it'. It is the correct choice for the subject 'it'.</li><li><b>does</b> (verb (do, third person singular)): 'does' is the third person singular form of the verb 'do', used for questions or negatives in the present simple tense, but not with the verb 'to be'.</li><li><b>do</b> (verb (do, base form)): 'do' is the base form of the verb 'do', used with 'I', 'you', 'we', 'they' in questions or negatives, but not with the verb 'to be'.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement: 'it' + 'is' (What time is it?); Question structure for asking the time: 'What time is it?'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62249d0e83f28145bcbb6a35",
+        "questionNumber": 16,
+        "questionText": "I ________ got 5 cats.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am",
+            "raw": "A. am",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has",
+            "raw": "C. has",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ________ got 5 cats.' requires the correct form of the verb to match the subject 'I'. In English, when expressing possession, we use 'have' with 'I', 'you', 'we', and 'they'. The verb 'have' is the correct form for the subject 'I'.<br><ul><li><b>am</b> (verb (to be)): 'Am' is the present tense of the verb 'to be' used only with 'I'. It is not used to show possession.</li><li><b>is</b> (verb (to be)): 'Is' is the present tense of the verb 'to be' used with 'he', 'she', 'it'. It is not used with 'I' and does not show possession.</li><li><b>has</b> (verb (to have)): 'Has' is the present tense of the verb 'to have' used with 'he', 'she', 'it'. It is not used with 'I'.</li><li><b>have</b> (verb (to have)): 'Have' is the present tense of the verb 'to have' used with 'I', 'you', 'we', 'they' to show possession.</li></ul><b>Related structure or vocabulary:</b> Subject + have/has + object: Used to show possession. 'Have' is used with 'I', 'you', 'we', 'they'. 'Has' is used with 'he', 'she', 'it'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I ________ got 5 cats.' cần điền động từ phù hợp với chủ ngữ 'I'. Trong tiếng Anh, khi diễn tả sự sở hữu, ta dùng 'have' với các chủ ngữ 'I', 'you', 'we', 'they'. Động từ 'have' là dạng đúng cho chủ ngữ 'I'.<br><ul><li><b>am</b> (động từ (to be)): 'Am' là thì hiện tại của động từ 'to be', chỉ dùng với 'I', nhưng không dùng để diễn tả sự sở hữu.</li><li><b>is</b> (động từ (to be)): 'Is' là thì hiện tại của động từ 'to be', dùng với 'he', 'she', 'it', không dùng với 'I' và không diễn tả sự sở hữu.</li><li><b>has</b> (động từ (to have)): 'Has' là thì hiện tại của động từ 'to have', dùng với 'he', 'she', 'it', không dùng với 'I'.</li><li><b>have</b> (động từ (to have)): 'Have' là thì hiện tại của động từ 'to have', dùng với 'I', 'you', 'we', 'they' để diễn tả sự sở hữu.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: Chủ ngữ + have/has + tân ngữ: Dùng để diễn tả sự sở hữu. 'Have' dùng với 'I', 'you', 'we', 'they'. 'Has' dùng với 'he', 'she', 'it'.<br><br><b>Tạm dịch:</b> Tôi có 5 con mèo.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ________ got 5 cats.' requires the correct form of the verb to match the subject 'I'. In English, when expressing possession, we use 'have' with 'I', 'you', 'we', and 'they'. The verb 'have' is the correct form for the subject 'I'.<br><ul><li><b>am</b> (verb (to be)): 'Am' is the present tense of the verb 'to be' used only with 'I'. It is not used to show possession.</li><li><b>is</b> (verb (to be)): 'Is' is the present tense of the verb 'to be' used with 'he', 'she', 'it'. It is not used with 'I' and does not show possession.</li><li><b>has</b> (verb (to have)): 'Has' is the present tense of the verb 'to have' used with 'he', 'she', 'it'. It is not used with 'I'.</li><li><b>have</b> (verb (to have)): 'Have' is the present tense of the verb 'to have' used with 'I', 'you', 'we', 'they' to show possession.</li></ul><b>Related structure or vocabulary:</b> Subject + have/has + object: Used to show possession. 'Have' is used with 'I', 'you', 'we', 'they'. 'Has' is used with 'he', 'she', 'it'.<br><br>"
+      }
+    }
+  ]
+}

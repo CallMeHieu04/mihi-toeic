@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b133",
+  "title": "Từ vựng: Office Procedures",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b175",
+        "questionNumber": 1,
+        "questionText": "appreciation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev085.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/prod/2024/07/04/43280407.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "recognition, understanding; thanks",
+            "raw": "recognition, understanding; thanks",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Max has no <strong>appreciation&nbsp;</strong>of&nbsp;the&nbsp;finer&nbsp;things in&nbsp;life.</p>\n",
+        "explanationViHtml": "<p>Max kh&ocirc;ng <strong>tr&acirc;n trọng</strong> những điều tốt đẹp trong cuộc sống.</p>\n",
+        "transcriptHtml": "<p>Max has no <strong>appreciation&nbsp;</strong>of&nbsp;the&nbsp;finer&nbsp;things in&nbsp;life.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b176",
+        "questionNumber": 2,
+        "questionText": "be made of",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev086.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/be made of.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to consist of",
+            "raw": "to consist of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>This job will really test what you <strong>are made of.</strong></p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng việc n&agrave;y thực sự sẽ kiểm tra xem bạn <strong>được tạo n&ecirc;n từ</strong> c&aacute;i g&igrave;.</p>\n",
+        "transcriptHtml": "<p>This job will really test what you <strong>are made of.</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b177",
+        "questionNumber": 3,
+        "questionText": "bring in",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev087.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/bring in.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to hire or recruit; to cause to appear",
+            "raw": "to hire or recruit; to cause to appear",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company <strong>brings in</strong> new team of project planners.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng ty <strong>tuyển dụng</strong> đội ngũ lập kế hoạch dự &aacute;n mới.</p>\n",
+        "transcriptHtml": "<p>The company <strong>brings in</strong> new team of project planners.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b178",
+        "questionNumber": 4,
+        "questionText": "casually",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev088.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/casually.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "informally",
+            "raw": "informally",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>She said younger&nbsp;job&nbsp;candidates&nbsp;often&nbsp;dress&nbsp;<strong>casually </strong>for&nbsp;interviews&nbsp;when it&#39;s absolutely not appropriate</p>\n",
+        "explanationViHtml": "<p>C&ocirc; ấy cho biết những ứng vi&ecirc;n trẻ tuổi thường ăn mặc <strong>giản dị</strong> khi đi phỏng vấn khi điều đ&oacute; ho&agrave;n to&agrave;n kh&ocirc;ng ph&ugrave; hợp.</p>\n",
+        "transcriptHtml": "<p>She said younger&nbsp;job&nbsp;candidates&nbsp;often&nbsp;dress&nbsp;<strong>casually </strong>for&nbsp;interviews&nbsp;when it&#39;s absolutely not appropriate</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b179",
+        "questionNumber": 5,
+        "questionText": "code",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev089.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/code.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "rules of behavior",
+            "raw": "rules of behavior",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The new employees observed the unwritten <strong>code </strong>of conduct in their first week on the job.</p>\n",
+        "explanationViHtml": "<p>Những nh&acirc;n vi&ecirc;n mới tu&acirc;n thủ theo <strong>quy tắc </strong>ứng xử bất th&agrave;nh văn n&agrave;y trong tuần đầu ti&ecirc;n đi l&agrave;m.</p>\n",
+        "transcriptHtml": "<p>The new employees observed the unwritten <strong>code </strong>of conduct in their first week on the job.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b17a",
+        "questionNumber": 6,
+        "questionText": "expose",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev090.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/expose.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to make aware; to give experience",
+            "raw": "to make aware; to give experience",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The&nbsp;plaster&nbsp;on the&nbsp;walls&nbsp;has been&nbsp;removed&nbsp;to <strong>expose </strong>the&nbsp;original&nbsp;bricks&nbsp;underneath.</p>\n",
+        "explanationViHtml": "<p>Lớp tr&aacute;t tr&ecirc;n tường đ&atilde; được gỡ bỏ <strong>để lộ</strong> lớp gạch ban đầu b&ecirc;n dưới.</p>\n",
+        "transcriptHtml": "<p>The&nbsp;plaster&nbsp;on the&nbsp;walls&nbsp;has been&nbsp;removed&nbsp;to <strong>expose </strong>the&nbsp;original&nbsp;bricks&nbsp;underneath.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b17b",
+        "questionNumber": 7,
+        "questionText": "glimpse",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev091.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/glimpse.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "quick look",
+            "raw": "a quick look",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The secretary caught a <strong>glimpse </strong>at her new boss as she was leaving the office.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; thư k&yacute; <strong>liếc nh&igrave;n</strong> b&agrave; chủ mới của m&igrave;nh khi c&ocirc; ấy đang rời khỏi văn ph&ograve;ng.</p>\n",
+        "transcriptHtml": "<p>The secretary caught a <strong>glimpse </strong>at her new boss as she was leaving the office.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b17c",
+        "questionNumber": 8,
+        "questionText": "run out of",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev092.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/out of.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "no longer having; missing",
+            "raw": "no longer having; missing",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Orders should be placed before you <strong>run out of</strong> the supplies.</p>\n",
+        "explanationViHtml": "<p>Bạn n&ecirc;n đặt h&agrave;ng trước khi <strong>hết h&agrave;ng</strong>.</p>\n",
+        "transcriptHtml": "<p>Orders should be placed before you <strong>run out of</strong> the supplies.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b17d",
+        "questionNumber": 9,
+        "questionText": "outdated",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev093.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/outdated.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "obsolete; not currently in use",
+            "raw": "obsolete; not currently in use",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The purpose at the seminar is to have employees identity <strong>outdated </strong>methods and procedures</p>\n",
+        "explanationViHtml": "<p>Mục đ&iacute;ch của hội thảo l&agrave; để nh&acirc;n vi&ecirc;n nhận diện c&aacute;c phương ph&aacute;p v&agrave; quy tr&igrave;nh <strong>lỗi thời</strong></p>\n",
+        "transcriptHtml": "<p>The purpose at the seminar is to have employees identity <strong>outdated </strong>methods and procedures</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b17e",
+        "questionNumber": 10,
+        "questionText": "practice",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev094.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/practice.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "method of doing something",
+            "raw": "method of doing something",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Office <strong>practices </strong>may vary greatly from one company to another.</p>\n",
+        "explanationViHtml": "<p><b>C&aacute;c quy tr&igrave;nh&nbsp;</b>văn ph&ograve;ng c&oacute; thể kh&aacute;c nhau rất nhiều giữa c&aacute;c c&ocirc;ng ty.</p>\n",
+        "transcriptHtml": "<p>Office <strong>practices </strong>may vary greatly from one company to another.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b17f",
+        "questionNumber": 11,
+        "questionText": "reinforce",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev095.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/prod/2024/07/04/95320741.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to strengthen;  support",
+            "raw": "to strengthen;  support",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The financial officer&rsquo;s unconventional method of analyzing data was <strong>reinforced </strong>by the business journal article.</p>\n",
+        "explanationViHtml": "<p>Phương ph&aacute;p ph&acirc;n t&iacute;ch dữ liệu kh&ocirc;ng theo th&ocirc;ng lệ của nh&acirc;n vi&ecirc;n t&agrave;i ch&iacute;nh đ&atilde; được <strong>củng cố</strong> bằng b&agrave;i b&aacute;o tr&ecirc;n tạp ch&iacute; kinh doanh.</p>\n",
+        "transcriptHtml": "<p>The financial officer&rsquo;s unconventional method of analyzing data was <strong>reinforced </strong>by the business journal article.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b180",
+        "questionNumber": 12,
+        "questionText": "verbally",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev096.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/verbally.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "In spoken form",
+            "raw": "In spoken form",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>He has <strong>verbally&nbsp;</strong>agreed&nbsp;a three-year&nbsp;deal worth&nbsp;about &euro;2m a&nbsp;year.</p>\n",
+        "explanationViHtml": "<p>&Ocirc;ng đ&atilde; đồng &yacute; <strong>bằng miệng </strong>một hợp đồng c&oacute; thời hạn ba năm trị gi&aacute; khoảng 2 triệu euro một năm.</p>\n",
+        "transcriptHtml": "<p>He has <strong>verbally&nbsp;</strong>agreed&nbsp;a three-year&nbsp;deal worth&nbsp;about &euro;2m a&nbsp;year.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bed92d7f67f5140b175",
+      "word": "appreciation",
+      "phonetic": "/əˌpriːʃiˈeɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev085.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/prod/2024/07/04/43280407.mp3",
+      "meaningVi": "trân trọng",
+      "meaningEn": "recognition, understanding; thanks",
+      "exampleEnHtml": "<p>Max has no <strong>appreciation&nbsp;</strong>of&nbsp;the&nbsp;finer&nbsp;things in&nbsp;life.</p>\n",
+      "exampleViHtml": "<p>Max kh&ocirc;ng <strong>tr&acirc;n trọng</strong> những điều tốt đẹp trong cuộc sống.</p>\n",
+      "exampleEn": "Max has no appreciation of the finer things in life.",
+      "exampleVi": "Max không trân trọng những điều tốt đẹp trong cuộc sống."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b176",
+      "word": "be made of",
+      "phonetic": "/meɪd/,  phrasal verb",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev086.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/be made of.mp3",
+      "meaningVi": "được tạo nên từ",
+      "meaningEn": "to consist of",
+      "exampleEnHtml": "<p>This job will really test what you <strong>are made of.</strong></p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng việc n&agrave;y thực sự sẽ kiểm tra xem bạn <strong>được tạo n&ecirc;n từ</strong> c&aacute;i g&igrave;.</p>\n",
+      "exampleEn": "This job will really test what you are made of.",
+      "exampleVi": "Công việc này thực sự sẽ kiểm tra xem bạn được tạo nên từ cái gì."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b177",
+      "word": "bring in",
+      "phonetic": "/brɪŋ/,  phrasal verb",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev087.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/bring in.mp3",
+      "meaningVi": "tuyển dụng",
+      "meaningEn": "to hire or recruit; to cause to appear",
+      "exampleEnHtml": "<p>The company <strong>brings in</strong> new team of project planners.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng ty <strong>tuyển dụng</strong> đội ngũ lập kế hoạch dự &aacute;n mới.</p>\n",
+      "exampleEn": "The company brings in new team of project planners.",
+      "exampleVi": "Công ty tuyển dụng đội ngũ lập kế hoạch dự án mới."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b178",
+      "word": "casually",
+      "phonetic": "/ˈkæʒuəli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev088.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/casually.mp3",
+      "meaningVi": "giản dị",
+      "meaningEn": "informally",
+      "exampleEnHtml": "<p>She said younger&nbsp;job&nbsp;candidates&nbsp;often&nbsp;dress&nbsp;<strong>casually </strong>for&nbsp;interviews&nbsp;when it&#39;s absolutely not appropriate</p>\n",
+      "exampleViHtml": "<p>C&ocirc; ấy cho biết những ứng vi&ecirc;n trẻ tuổi thường ăn mặc <strong>giản dị</strong> khi đi phỏng vấn khi điều đ&oacute; ho&agrave;n to&agrave;n kh&ocirc;ng ph&ugrave; hợp.</p>\n",
+      "exampleEn": "She said younger job candidates often dress casually for interviews when it's absolutely not appropriate",
+      "exampleVi": "Cô ấy cho biết những ứng viên trẻ tuổi thường ăn mặc giản dị khi đi phỏng vấn khi điều đó hoàn toàn không phù hợp."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b179",
+      "word": "code",
+      "phonetic": "/koʊd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev089.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/code.mp3",
+      "meaningVi": "quy tắc",
+      "meaningEn": "rules of behavior",
+      "exampleEnHtml": "<p>The new employees observed the unwritten <strong>code </strong>of conduct in their first week on the job.</p>\n",
+      "exampleViHtml": "<p>Những nh&acirc;n vi&ecirc;n mới tu&acirc;n thủ theo <strong>quy tắc </strong>ứng xử bất th&agrave;nh văn n&agrave;y trong tuần đầu ti&ecirc;n đi l&agrave;m.</p>\n",
+      "exampleEn": "The new employees observed the unwritten code of conduct in their first week on the job.",
+      "exampleVi": "Những nhân viên mới tuân thủ theo quy tắc ứng xử bất thành văn này trong tuần đầu tiên đi làm."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b17a",
+      "word": "expose",
+      "phonetic": "/ɪkˈspoʊz/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev090.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/expose.mp3",
+      "meaningVi": "để lộ",
+      "meaningEn": "to make aware; to give experience",
+      "exampleEnHtml": "<p>The&nbsp;plaster&nbsp;on the&nbsp;walls&nbsp;has been&nbsp;removed&nbsp;to <strong>expose </strong>the&nbsp;original&nbsp;bricks&nbsp;underneath.</p>\n",
+      "exampleViHtml": "<p>Lớp tr&aacute;t tr&ecirc;n tường đ&atilde; được gỡ bỏ <strong>để lộ</strong> lớp gạch ban đầu b&ecirc;n dưới.</p>\n",
+      "exampleEn": "The plaster on the walls has been removed to expose the original bricks underneath.",
+      "exampleVi": "Lớp trát trên tường đã được gỡ bỏ để lộ lớp gạch ban đầu bên dưới."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b17b",
+      "word": "glimpse",
+      "phonetic": "/ɡlɪmps/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev091.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/glimpse.mp3",
+      "meaningVi": "liếc nhìn",
+      "meaningEn": "a quick look",
+      "exampleEnHtml": "<p>The secretary caught a <strong>glimpse </strong>at her new boss as she was leaving the office.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; thư k&yacute; <strong>liếc nh&igrave;n</strong> b&agrave; chủ mới của m&igrave;nh khi c&ocirc; ấy đang rời khỏi văn ph&ograve;ng.</p>\n",
+      "exampleEn": "The secretary caught a glimpse at her new boss as she was leaving the office.",
+      "exampleVi": "Cô thư ký liếc nhìn bà chủ mới của mình khi cô ấy đang rời khỏi văn phòng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b17c",
+      "word": "run out of",
+      "phonetic": "/rʌn aʊt əv/,  phrasal verb",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev092.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/out of.mp3",
+      "meaningVi": "hết hàng",
+      "meaningEn": "no longer having; missing",
+      "exampleEnHtml": "<p>Orders should be placed before you <strong>run out of</strong> the supplies.</p>\n",
+      "exampleViHtml": "<p>Bạn n&ecirc;n đặt h&agrave;ng trước khi <strong>hết h&agrave;ng</strong>.</p>\n",
+      "exampleEn": "Orders should be placed before you run out of the supplies.",
+      "exampleVi": "Bạn nên đặt hàng trước khi hết hàng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b17d",
+      "word": "outdated",
+      "phonetic": "/ˌaʊtˈdeɪtɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev093.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/outdated.mp3",
+      "meaningVi": "lỗi thời",
+      "meaningEn": "obsolete; not currently in use",
+      "exampleEnHtml": "<p>The purpose at the seminar is to have employees identity <strong>outdated </strong>methods and procedures</p>\n",
+      "exampleViHtml": "<p>Mục đ&iacute;ch của hội thảo l&agrave; để nh&acirc;n vi&ecirc;n nhận diện c&aacute;c phương ph&aacute;p v&agrave; quy tr&igrave;nh <strong>lỗi thời</strong></p>\n",
+      "exampleEn": "The purpose at the seminar is to have employees identity outdated methods and procedures",
+      "exampleVi": "Mục đích của hội thảo là để nhân viên nhận diện các phương pháp và quy trình lỗi thời"
+    },
+    {
+      "id": "61c14bed92d7f67f5140b17e",
+      "word": "practice",
+      "phonetic": "/ˈpræktɪs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev094.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/practice.mp3",
+      "meaningVi": "C&aacute;c quy tr&igrave;nh văn ph&ograve;ng c&oacute;",
+      "meaningEn": "method of doing something",
+      "exampleEnHtml": "<p>Office <strong>practices </strong>may vary greatly from one company to another.</p>\n",
+      "exampleViHtml": "<p><b>C&aacute;c quy tr&igrave;nh&nbsp;</b>văn ph&ograve;ng c&oacute; thể kh&aacute;c nhau rất nhiều giữa c&aacute;c c&ocirc;ng ty.</p>\n",
+      "exampleEn": "Office practices may vary greatly from one company to another.",
+      "exampleVi": "Các quy trình văn phòng có thể khác nhau rất nhiều giữa các công ty."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b17f",
+      "word": "reinforce",
+      "phonetic": "/ˌriːɪnˈfɔːrs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev095.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/prod/2024/07/04/95320741.mp3",
+      "meaningVi": "củng cố",
+      "meaningEn": "to strengthen;  support",
+      "exampleEnHtml": "<p>The financial officer&rsquo;s unconventional method of analyzing data was <strong>reinforced </strong>by the business journal article.</p>\n",
+      "exampleViHtml": "<p>Phương ph&aacute;p ph&acirc;n t&iacute;ch dữ liệu kh&ocirc;ng theo th&ocirc;ng lệ của nh&acirc;n vi&ecirc;n t&agrave;i ch&iacute;nh đ&atilde; được <strong>củng cố</strong> bằng b&agrave;i b&aacute;o tr&ecirc;n tạp ch&iacute; kinh doanh.</p>\n",
+      "exampleEn": "The financial officer’s unconventional method of analyzing data was reinforced by the business journal article.",
+      "exampleVi": "Phương pháp phân tích dữ liệu không theo thông lệ của nhân viên tài chính đã được củng cố bằng bài báo trên tạp chí kinh doanh."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b180",
+      "word": "verbally",
+      "phonetic": "/ˈvɜːrbəli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev096.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/verbally.mp3",
+      "meaningVi": "bằng miệng",
+      "meaningEn": "In spoken form",
+      "exampleEnHtml": "<p>He has <strong>verbally&nbsp;</strong>agreed&nbsp;a three-year&nbsp;deal worth&nbsp;about &euro;2m a&nbsp;year.</p>\n",
+      "exampleViHtml": "<p>&Ocirc;ng đ&atilde; đồng &yacute; <strong>bằng miệng </strong>một hợp đồng c&oacute; thời hạn ba năm trị gi&aacute; khoảng 2 triệu euro một năm.</p>\n",
+      "exampleEn": "He has verbally agreed a three-year deal worth about €2m a year.",
+      "exampleVi": "Ông đã đồng ý bằng miệng một hợp đồng có thời hạn ba năm trị giá khoảng 2 triệu euro một năm."
+    }
+  ],
+  "totalFlashcards": 12
+}

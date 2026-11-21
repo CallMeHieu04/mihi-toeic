@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b157",
+  "title": "Từ vựng: Media",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b390",
+        "questionNumber": 1,
+        "questionText": "assignment",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev529.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assignment.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "something, such as a task, that is assigned",
+            "raw": "something, such as a task, that is assigned",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>This <strong>assignment</strong> has to be turned in before midnight.</p>\n",
+        "explanationViHtml": "<p><strong>C&ocirc;ng việc được giao</strong> n&agrave;y phải được thực hiện trước nửa đ&ecirc;m.</p>\n",
+        "transcriptHtml": "<p>This <strong>assignment</strong> has to be turned in before midnight.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b391",
+        "questionNumber": 2,
+        "questionText": "choose",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev530.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/choose.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to select one thing over another",
+            "raw": "to select one thing over another",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Alan <strong>chooses</strong> to read to The New York Times over the Wall Street Journal.</p>\n",
+        "explanationViHtml": "<p>Alan <strong>chọn</strong> đọc b&aacute;o The New York Times thay v&igrave; tờ Wall Street Journal.</p>\n",
+        "transcriptHtml": "<p>Alan <strong>chooses</strong> to read to The New York Times over the Wall Street Journal.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b392",
+        "questionNumber": 3,
+        "questionText": "constantly",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev531.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/constantly.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "ontinually",
+            "raw": "continually",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>Sales reps need to be outgoing, because they are <strong>constantly</strong> meeting customers.</p>\n",
+        "explanationViHtml": "<p>Nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng cần phải hướng ngoại v&igrave; họ phải <strong>li&ecirc;n tục</strong> gặp gỡ kh&aacute;ch h&agrave;ng.</p>\n",
+        "transcriptHtml": "<p>Sales reps need to be outgoing, because they are <strong>constantly</strong> meeting customers.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b393",
+        "questionNumber": 4,
+        "questionText": "constitute",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev532.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/constitute.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be the elements or parts of",
+            "raw": "to be the elements or parts of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>All the different news sources <strong>constitute</strong> the media industry.</p>\n",
+        "explanationViHtml": "<p>Tất cả c&aacute;c nguồn tin tức kh&aacute;c nhau <strong>tạo n&ecirc;n</strong> ng&agrave;nh truyền th&ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>All the different news sources <strong>constitute</strong> the media industry.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b394",
+        "questionNumber": 5,
+        "questionText": "decision",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev533.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/decision.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "haracterized by decision and firmness",
+            "raw": "characterized by decision and firmness",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>It is time for me to make a very important <strong>decision</strong> which can change my life.</p>\n",
+        "explanationViHtml": "<p>Đ&atilde; đến l&uacute;c để t&ocirc;i đưa ra một <strong>quyết định</strong> quan trọng c&oacute; thể thay đổi cả cuộc sống của t&ocirc;i.</p>\n",
+        "transcriptHtml": "<p>It is time for me to make a very important <strong>decision</strong> which can change my life.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b395",
+        "questionNumber": 6,
+        "questionText": "disseminate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev534.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/disseminate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to scatter widely, to distribute",
+            "raw": "to scatter widely, to distribute",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The media <strong>disseminates</strong> news across the world.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c phương tiện truyền th&ocirc;ng <strong>truyền b&aacute;</strong> tin tức tr&ecirc;n to&agrave;n thế giới.</p>\n",
+        "transcriptHtml": "<p>The media <strong>disseminates</strong> news across the world.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b396",
+        "questionNumber": 7,
+        "questionText": "impact",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev535.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/impact.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "strong, immediate impression",
+            "raw": "a strong, immediate impression",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The story of the presidential scandal had a huge <strong>impact</strong> on the public.</p>\n",
+        "explanationViHtml": "<p>C&acirc;u chuyện về vụ b&ecirc; bối của tổng thống đ&atilde; g&acirc;y<strong> ảnh hưởng</strong> rất lớn đến c&ocirc;ng ch&uacute;ng.</p>\n",
+        "transcriptHtml": "<p>The story of the presidential scandal had a huge <strong>impact</strong> on the public.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b397",
+        "questionNumber": 8,
+        "questionText": "in-depth",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev536.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/in-depth.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "in complete detail; thorough",
+            "raw": "in complete detail; thorough",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The newspaper gave<strong> in-depth</strong> coverage of the tragic bombing.</p>\n",
+        "explanationViHtml": "<p>Tờ b&aacute;o đ&atilde; đưa tin <strong>chi tiết</strong> về vụ đ&aacute;nh bom bi thảm.</p>\n",
+        "transcriptHtml": "<p>The newspaper gave<strong> in-depth</strong> coverage of the tragic bombing.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b398",
+        "questionNumber": 9,
+        "questionText": "investigate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev537.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/investigate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "specializing in uncovering and reporting hidden information",
+            "raw": "specializing in uncovering and reporting hidden information",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Reporters need to thoroughly <strong>investigate</strong> the facts before publishing their stories.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c ph&oacute;ng vi&ecirc;n cần phải <strong>điều tra</strong> kỹ lưỡng về sự kiện trước khi c&ocirc;ng bố b&agrave;i b&aacute;o về ch&uacute;ng.</p>\n",
+        "transcriptHtml": "<p>Reporters need to thoroughly <strong>investigate</strong> the facts before publishing their stories.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b399",
+        "questionNumber": 10,
+        "questionText": "link",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev538.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/link.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n association; a relationship",
+            "raw": "an association; a relationship",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The computer<strong> links</strong> will take you to today&rsquo;s headlines.</p>\n",
+        "explanationViHtml": "<p><strong>C&aacute;c li&ecirc;n kết</strong> m&aacute;y t&iacute;nh sẽ đưa bạn đến ti&ecirc;u đề tin tức h&ocirc;m nay.</p>\n",
+        "transcriptHtml": "<p>The computer<strong> links</strong> will take you to today&rsquo;s headlines.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b39a",
+        "questionNumber": 11,
+        "questionText": "subscribe",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev539.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/subscribe.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to receive a periodical regularly on order",
+            "raw": "to receive a periodical regularly on order",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Jill <strong>subscribes</strong> to a gardening magazine.</p>\n",
+        "explanationViHtml": "<p>Jill <strong>đăng k&yacute;</strong> tạp ch&iacute; l&agrave;m vườn.</p>\n",
+        "transcriptHtml": "<p>Jill <strong>subscribes</strong> to a gardening magazine.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b39b",
+        "questionNumber": 12,
+        "questionText": "thorough",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev540.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/thorough.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "exhaustively complete",
+            "raw": "exhaustively complete",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The reporters were <strong>thorough</strong> in their coverage of the event.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c ph&oacute;ng vi&ecirc;n đ&atilde; đưa tin rất <strong>tỉ mỉ</strong> về sự kiện n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>The reporters were <strong>thorough</strong> in their coverage of the event.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b390",
+      "word": "assignment",
+      "phonetic": "/əˈsaɪnmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev529.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assignment.mp3",
+      "meaningVi": "Công việc được giao",
+      "meaningEn": "something, such as a task, that is assigned",
+      "exampleEnHtml": "<p>This <strong>assignment</strong> has to be turned in before midnight.</p>\n",
+      "exampleViHtml": "<p><strong>C&ocirc;ng việc được giao</strong> n&agrave;y phải được thực hiện trước nửa đ&ecirc;m.</p>\n",
+      "exampleEn": "This assignment has to be turned in before midnight.",
+      "exampleVi": "Công việc được giao này phải được thực hiện trước nửa đêm."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b391",
+      "word": "choose",
+      "phonetic": "/tʃuːz/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev530.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/choose.mp3",
+      "meaningVi": "chọn",
+      "meaningEn": "to select one thing over another",
+      "exampleEnHtml": "<p>Alan <strong>chooses</strong> to read to The New York Times over the Wall Street Journal.</p>\n",
+      "exampleViHtml": "<p>Alan <strong>chọn</strong> đọc b&aacute;o The New York Times thay v&igrave; tờ Wall Street Journal.</p>\n",
+      "exampleEn": "Alan chooses to read to The New York Times over the Wall Street Journal.",
+      "exampleVi": "Alan chọn đọc báo The New York Times thay vì tờ Wall Street Journal."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b392",
+      "word": "constantly",
+      "phonetic": "/ˈkɑːnstəntli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev531.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/constantly.mp3",
+      "meaningVi": "liên tục",
+      "meaningEn": "continually",
+      "exampleEnHtml": "<p>Sales reps need to be outgoing, because they are <strong>constantly</strong> meeting customers.</p>\n",
+      "exampleViHtml": "<p>Nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng cần phải hướng ngoại v&igrave; họ phải <strong>li&ecirc;n tục</strong> gặp gỡ kh&aacute;ch h&agrave;ng.</p>\n",
+      "exampleEn": "Sales reps need to be outgoing, because they are constantly meeting customers.",
+      "exampleVi": "Nhân viên bán hàng cần phải hướng ngoại vì họ phải liên tục gặp gỡ khách hàng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b393",
+      "word": "constitute",
+      "phonetic": "/ˈkɑːnstətuːt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev532.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/constitute.mp3",
+      "meaningVi": "tạo nên",
+      "meaningEn": "to be the elements or parts of",
+      "exampleEnHtml": "<p>All the different news sources <strong>constitute</strong> the media industry.</p>\n",
+      "exampleViHtml": "<p>Tất cả c&aacute;c nguồn tin tức kh&aacute;c nhau <strong>tạo n&ecirc;n</strong> ng&agrave;nh truyền th&ocirc;ng.</p>\n",
+      "exampleEn": "All the different news sources constitute the media industry.",
+      "exampleVi": "Tất cả các nguồn tin tức khác nhau tạo nên ngành truyền thông."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b394",
+      "word": "decision",
+      "phonetic": "/dɪˈsɪʒn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev533.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/decision.mp3",
+      "meaningVi": "quyết định",
+      "meaningEn": "characterized by decision and firmness",
+      "exampleEnHtml": "<p>It is time for me to make a very important <strong>decision</strong> which can change my life.</p>\n",
+      "exampleViHtml": "<p>Đ&atilde; đến l&uacute;c để t&ocirc;i đưa ra một <strong>quyết định</strong> quan trọng c&oacute; thể thay đổi cả cuộc sống của t&ocirc;i.</p>\n",
+      "exampleEn": "It is time for me to make a very important decision which can change my life.",
+      "exampleVi": "Đã đến lúc để tôi đưa ra một quyết định quan trọng có thể thay đổi cả cuộc sống của tôi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b395",
+      "word": "disseminate",
+      "phonetic": "/dɪˈsemɪneɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev534.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/disseminate.mp3",
+      "meaningVi": "truyền bá",
+      "meaningEn": "to scatter widely, to distribute",
+      "exampleEnHtml": "<p>The media <strong>disseminates</strong> news across the world.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c phương tiện truyền th&ocirc;ng <strong>truyền b&aacute;</strong> tin tức tr&ecirc;n to&agrave;n thế giới.</p>\n",
+      "exampleEn": "The media disseminates news across the world.",
+      "exampleVi": "Các phương tiện truyền thông truyền bá tin tức trên toàn thế giới."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b396",
+      "word": "impact",
+      "phonetic": "/ˈɪmpækt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev535.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/impact.mp3",
+      "meaningVi": "ảnh hưởng",
+      "meaningEn": "a strong, immediate impression",
+      "exampleEnHtml": "<p>The story of the presidential scandal had a huge <strong>impact</strong> on the public.</p>\n",
+      "exampleViHtml": "<p>C&acirc;u chuyện về vụ b&ecirc; bối của tổng thống đ&atilde; g&acirc;y<strong> ảnh hưởng</strong> rất lớn đến c&ocirc;ng ch&uacute;ng.</p>\n",
+      "exampleEn": "The story of the presidential scandal had a huge impact on the public.",
+      "exampleVi": "Câu chuyện về vụ bê bối của tổng thống đã gây ảnh hưởng rất lớn đến công chúng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b397",
+      "word": "in-depth",
+      "phonetic": "/ˈɪn.depθ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev536.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/in-depth.mp3",
+      "meaningVi": "chi tiết",
+      "meaningEn": "in complete detail; thorough",
+      "exampleEnHtml": "<p>The newspaper gave<strong> in-depth</strong> coverage of the tragic bombing.</p>\n",
+      "exampleViHtml": "<p>Tờ b&aacute;o đ&atilde; đưa tin <strong>chi tiết</strong> về vụ đ&aacute;nh bom bi thảm.</p>\n",
+      "exampleEn": "The newspaper gave in-depth coverage of the tragic bombing.",
+      "exampleVi": "Tờ báo đã đưa tin chi tiết về vụ đánh bom bi thảm."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b398",
+      "word": "investigate",
+      "phonetic": "/ɪnˈvestɪɡeɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev537.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/investigate.mp3",
+      "meaningVi": "điều tra",
+      "meaningEn": "specializing in uncovering and reporting hidden information",
+      "exampleEnHtml": "<p>Reporters need to thoroughly <strong>investigate</strong> the facts before publishing their stories.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c ph&oacute;ng vi&ecirc;n cần phải <strong>điều tra</strong> kỹ lưỡng về sự kiện trước khi c&ocirc;ng bố b&agrave;i b&aacute;o về ch&uacute;ng.</p>\n",
+      "exampleEn": "Reporters need to thoroughly investigate the facts before publishing their stories.",
+      "exampleVi": "Các phóng viên cần phải điều tra kỹ lưỡng về sự kiện trước khi công bố bài báo về chúng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b399",
+      "word": "link",
+      "phonetic": "/lɪŋk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev538.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/link.mp3",
+      "meaningVi": "Các liên kết",
+      "meaningEn": "an association; a relationship",
+      "exampleEnHtml": "<p>The computer<strong> links</strong> will take you to today&rsquo;s headlines.</p>\n",
+      "exampleViHtml": "<p><strong>C&aacute;c li&ecirc;n kết</strong> m&aacute;y t&iacute;nh sẽ đưa bạn đến ti&ecirc;u đề tin tức h&ocirc;m nay.</p>\n",
+      "exampleEn": "The computer links will take you to today’s headlines.",
+      "exampleVi": "Các liên kết máy tính sẽ đưa bạn đến tiêu đề tin tức hôm nay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b39a",
+      "word": "subscribe",
+      "phonetic": "/səbˈskraɪb/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev539.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/subscribe.mp3",
+      "meaningVi": "đăng ký",
+      "meaningEn": "to receive a periodical regularly on order",
+      "exampleEnHtml": "<p>Jill <strong>subscribes</strong> to a gardening magazine.</p>\n",
+      "exampleViHtml": "<p>Jill <strong>đăng k&yacute;</strong> tạp ch&iacute; l&agrave;m vườn.</p>\n",
+      "exampleEn": "Jill subscribes to a gardening magazine.",
+      "exampleVi": "Jill đăng ký tạp chí làm vườn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b39b",
+      "word": "thorough",
+      "phonetic": "/ˈθɜːroʊ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev540.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/thorough.mp3",
+      "meaningVi": "tỉ mỉ",
+      "meaningEn": "exhaustively complete",
+      "exampleEnHtml": "<p>The reporters were <strong>thorough</strong> in their coverage of the event.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c ph&oacute;ng vi&ecirc;n đ&atilde; đưa tin rất <strong>tỉ mỉ</strong> về sự kiện n&agrave;y.</p>\n",
+      "exampleEn": "The reporters were thorough in their coverage of the event.",
+      "exampleVi": "Các phóng viên đã đưa tin rất tỉ mỉ về sự kiện này."
+    }
+  ],
+  "totalFlashcards": 12
+}

@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b139",
+  "title": "Từ vựng: Shopping",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1a5",
+        "questionNumber": 1,
+        "questionText": "bargain",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev181.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/bargain.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "something offered or acquired at a price advantageous to the buyer",
+            "raw": "something offered or acquired at a price advantageous to the buyer",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We were thrilled with the <strong>bargains </strong>we found at the clothing sale.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i rất vui mừng với những <strong>m&oacute;n hời </strong>t&igrave;m được trong đợt giảm gi&aacute; quần &aacute;o.</p>\n",
+        "transcriptHtml": "<p>We were thrilled with the <strong>bargains </strong>we found at the clothing sale.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1a6",
+        "questionNumber": 2,
+        "questionText": "bear",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev182.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/bear.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to have a tolerance for; to endure",
+            "raw": "to have a tolerance for; to endure",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Moya doesn&lsquo;t like crowds so she cannot <strong>bear </strong>to shop during the holiday rush.</p>\n",
+        "explanationViHtml": "<p>Moya kh&ocirc;ng th&iacute;ch đ&aacute;m đ&ocirc;ng n&ecirc;n c&ocirc; kh&ocirc;ng thể <strong>chịu </strong>nổi việc mua sắm v&agrave;o dịp lễ cao điểm.</p>\n",
+        "transcriptHtml": "<p>Moya doesn&lsquo;t like crowds so she cannot <strong>bear </strong>to shop during the holiday rush.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1a7",
+        "questionNumber": 3,
+        "questionText": "behavior",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev183.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/behavior.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the manner of one's actions",
+            "raw": "the manner of one's actions",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Annu is conducting a survey on whether consumer <strong>behavior </strong>differs between men and women.</p>\n",
+        "explanationViHtml": "<p>Annu đang tiến h&agrave;nh một cuộc khảo s&aacute;t về việc liệu<strong> h&agrave;nh vi</strong> ti&ecirc;u d&ugrave;ng giữa nam giới v&agrave; nữ giới c&oacute; kh&aacute;c nhau hay kh&ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>Annu is conducting a survey on whether consumer <strong>behavior </strong>differs between men and women.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1a8",
+        "questionNumber": 4,
+        "questionText": "check out",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev184.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/check out.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the act. time, or place of checking out, as at a hotel, library, or supermarket",
+            "raw": "the act. time, or place of checking out, as at a hotel, library, or supermarket",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The line at this <strong>checkout </strong>is too long, so let&rsquo;s look for another.</p>\n",
+        "explanationViHtml": "<p>H&agrave;ng đợi ở <strong>quầy thanh to&aacute;n</strong> n&agrave;y qu&aacute; d&agrave;i, ch&uacute;ng ta h&atilde;y t&igrave;m quầy kh&aacute;c.</p>\n",
+        "transcriptHtml": "<p>The line at this <strong>checkout </strong>is too long, so let&rsquo;s look for another.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1a9",
+        "questionNumber": 5,
+        "questionText": "comfort",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev185.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/comfort.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "condition or feeling of pleasurable ease, well-being, and contentment",
+            "raw": "a condition or feeling of pleasurable ease, well-being, and contentment",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I like to dress for <strong>comfort </strong>if I&lsquo;m spending the day shopping.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i th&iacute;ch ăn mặc <strong>thoải m&aacute;i</strong> khi đi mua sắm cả ng&agrave;y.</p>\n",
+        "transcriptHtml": "<p>I like to dress for <strong>comfort </strong>if I&lsquo;m spending the day shopping.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1aa",
+        "questionNumber": 6,
+        "questionText": "expand",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev186.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/expand.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to increase the size, volume, quantity, or scope of; to enlarge",
+            "raw": "to increase the size, volume, quantity, or scope of; to enlarge",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The new manager has significantly <strong>expanded </strong>the store&#39;s inventory.</p>\n",
+        "explanationViHtml": "<p>Người quản l&yacute; mới đ&atilde;<strong>&nbsp;tăng&nbsp;</strong>đ&aacute;ng kể lượng h&agrave;ng tồn kho của cửa h&agrave;ng.</p>\n",
+        "transcriptHtml": "<p>The new manager has significantly <strong>expanded </strong>the store&#39;s inventory.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1ab",
+        "questionNumber": 7,
+        "questionText": "explore",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev187.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/explore.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to investigate systematically",
+            "raw": "to investigate systematically",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The collector likes to <strong>explore </strong>antique shops looking for bargains.</p>\n",
+        "explanationViHtml": "<p>Người sưu tầm th&iacute;ch <strong>kh&aacute;m ph&aacute;</strong> c&aacute;c cửa h&agrave;ng đồ cổ để t&igrave;m kiếm m&oacute;n hời.</p>\n",
+        "transcriptHtml": "<p>The collector likes to <strong>explore </strong>antique shops looking for bargains.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1ac",
+        "questionNumber": 8,
+        "questionText": "item",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev188.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/item.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "single article or unit",
+            "raw": "a single article or unit",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The grocery store has a special checkout line for people who are purchasing less than ten <strong>items</strong>.</p>\n",
+        "explanationViHtml": "<p>Cửa h&agrave;ng tạp h&oacute;a c&oacute; quầy thanh to&aacute;n đặc biệt d&agrave;nh cho những người mua dưới mười <strong>mặt h&agrave;ng</strong>.</p>\n",
+        "transcriptHtml": "<p>The grocery store has a special checkout line for people who are purchasing less than ten <strong>items</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1ad",
+        "questionNumber": 9,
+        "questionText": "mandatory",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev189.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mandatory.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "required or commanded; obligatory",
+            "raw": "required or commanded; obligatory",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The jewelry store has a <strong>mandatory </strong>policy of showing customers only one item at a time.</p>\n",
+        "explanationViHtml": "<p>Cửa h&agrave;ng trang sức c&oacute; ch&iacute;nh s&aacute;ch <strong>bắt buộc</strong> l&agrave; chỉ cho kh&aacute;ch h&agrave;ng xem một sản phẩm tại một thời điểm.</p>\n",
+        "transcriptHtml": "<p>The jewelry store has a <strong>mandatory </strong>policy of showing customers only one item at a time.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1ae",
+        "questionNumber": 10,
+        "questionText": "merchandise",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev190.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/merchandise.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "items available in stores",
+            "raw": "items available in stores",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I am very impressed with the selection of <strong>merchandise </strong>at this store.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i rất ấn tượng với sự lựa chọn <strong>h&agrave;ng h&oacute;a</strong> ở cửa h&agrave;ng n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>I am very impressed with the selection of <strong>merchandise </strong>at this store.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1af",
+        "questionNumber": 11,
+        "questionText": "strictly",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev191.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/strictly.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "rigidly, without flexibility",
+            "raw": "rigidly, without flexibility",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Our store <strong>strictly </strong>enforces its return policy.</p>\n",
+        "explanationViHtml": "<p>Cửa h&agrave;ng của ch&uacute;ng t&ocirc;i thực hiện <strong>nghi&ecirc;m ngặt</strong> ch&iacute;nh s&aacute;ch đổi trả.</p>\n",
+        "transcriptHtml": "<p>Our store <strong>strictly </strong>enforces its return policy.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b1b0",
+        "questionNumber": 12,
+        "questionText": "trend",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev192.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/trend.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the current style; vogue",
+            "raw": "the current style; vogue",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The clothing store tries to stay on top of all the new <strong>trends</strong>.</p>\n",
+        "explanationViHtml": "<p>Cửa h&agrave;ng quần &aacute;o cố gắng bắt kịp mọi<strong> xu hướng </strong>mới.</p>\n",
+        "transcriptHtml": "<p>The clothing store tries to stay on top of all the new <strong>trends</strong>.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bed92d7f67f5140b1a5",
+      "word": "bargain",
+      "phonetic": "/ˈbɑːrɡən/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev181.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/bargain.mp3",
+      "meaningVi": "món hời",
+      "meaningEn": "something offered or acquired at a price advantageous to the buyer",
+      "exampleEnHtml": "<p>We were thrilled with the <strong>bargains </strong>we found at the clothing sale.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i rất vui mừng với những <strong>m&oacute;n hời </strong>t&igrave;m được trong đợt giảm gi&aacute; quần &aacute;o.</p>\n",
+      "exampleEn": "We were thrilled with the bargains we found at the clothing sale.",
+      "exampleVi": "Chúng tôi rất vui mừng với những món hời tìm được trong đợt giảm giá quần áo."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1a6",
+      "word": "bear",
+      "phonetic": "/ber/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev182.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/bear.mp3",
+      "meaningVi": "chịu",
+      "meaningEn": "to have a tolerance for; to endure",
+      "exampleEnHtml": "<p>Moya doesn&lsquo;t like crowds so she cannot <strong>bear </strong>to shop during the holiday rush.</p>\n",
+      "exampleViHtml": "<p>Moya kh&ocirc;ng th&iacute;ch đ&aacute;m đ&ocirc;ng n&ecirc;n c&ocirc; kh&ocirc;ng thể <strong>chịu </strong>nổi việc mua sắm v&agrave;o dịp lễ cao điểm.</p>\n",
+      "exampleEn": "Moya doesn‘t like crowds so she cannot bear to shop during the holiday rush.",
+      "exampleVi": "Moya không thích đám đông nên cô không thể chịu nổi việc mua sắm vào dịp lễ cao điểm."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1a7",
+      "word": "behavior",
+      "phonetic": "/bɪˈheɪvjər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev183.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/behavior.mp3",
+      "meaningVi": "hành vi",
+      "meaningEn": "the manner of one's actions",
+      "exampleEnHtml": "<p>Annu is conducting a survey on whether consumer <strong>behavior </strong>differs between men and women.</p>\n",
+      "exampleViHtml": "<p>Annu đang tiến h&agrave;nh một cuộc khảo s&aacute;t về việc liệu<strong> h&agrave;nh vi</strong> ti&ecirc;u d&ugrave;ng giữa nam giới v&agrave; nữ giới c&oacute; kh&aacute;c nhau hay kh&ocirc;ng.</p>\n",
+      "exampleEn": "Annu is conducting a survey on whether consumer behavior differs between men and women.",
+      "exampleVi": "Annu đang tiến hành một cuộc khảo sát về việc liệu hành vi tiêu dùng giữa nam giới và nữ giới có khác nhau hay không."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1a8",
+      "word": "check out",
+      "phonetic": "/tʃek/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev184.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/check out.mp3",
+      "meaningVi": "quầy thanh toán",
+      "meaningEn": "the act. time, or place of checking out, as at a hotel, library, or supermarket",
+      "exampleEnHtml": "<p>The line at this <strong>checkout </strong>is too long, so let&rsquo;s look for another.</p>\n",
+      "exampleViHtml": "<p>H&agrave;ng đợi ở <strong>quầy thanh to&aacute;n</strong> n&agrave;y qu&aacute; d&agrave;i, ch&uacute;ng ta h&atilde;y t&igrave;m quầy kh&aacute;c.</p>\n",
+      "exampleEn": "The line at this checkout is too long, so let’s look for another.",
+      "exampleVi": "Hàng đợi ở quầy thanh toán này quá dài, chúng ta hãy tìm quầy khác."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1a9",
+      "word": "comfort",
+      "phonetic": "/ˈkʌmfərt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev185.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/comfort.mp3",
+      "meaningVi": "thoải mái",
+      "meaningEn": "a condition or feeling of pleasurable ease, well-being, and contentment",
+      "exampleEnHtml": "<p>I like to dress for <strong>comfort </strong>if I&lsquo;m spending the day shopping.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i th&iacute;ch ăn mặc <strong>thoải m&aacute;i</strong> khi đi mua sắm cả ng&agrave;y.</p>\n",
+      "exampleEn": "I like to dress for comfort if I‘m spending the day shopping.",
+      "exampleVi": "Tôi thích ăn mặc thoải mái khi đi mua sắm cả ngày."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1aa",
+      "word": "expand",
+      "phonetic": "/ɪkˈspænd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev186.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/expand.mp3",
+      "meaningVi": "tăng",
+      "meaningEn": "to increase the size, volume, quantity, or scope of; to enlarge",
+      "exampleEnHtml": "<p>The new manager has significantly <strong>expanded </strong>the store&#39;s inventory.</p>\n",
+      "exampleViHtml": "<p>Người quản l&yacute; mới đ&atilde;<strong>&nbsp;tăng&nbsp;</strong>đ&aacute;ng kể lượng h&agrave;ng tồn kho của cửa h&agrave;ng.</p>\n",
+      "exampleEn": "The new manager has significantly expanded the store's inventory.",
+      "exampleVi": "Người quản lý mới đã tăng đáng kể lượng hàng tồn kho của cửa hàng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1ab",
+      "word": "explore",
+      "phonetic": "/ɪkˈsplɔːr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev187.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/explore.mp3",
+      "meaningVi": "khám phá",
+      "meaningEn": "to investigate systematically",
+      "exampleEnHtml": "<p>The collector likes to <strong>explore </strong>antique shops looking for bargains.</p>\n",
+      "exampleViHtml": "<p>Người sưu tầm th&iacute;ch <strong>kh&aacute;m ph&aacute;</strong> c&aacute;c cửa h&agrave;ng đồ cổ để t&igrave;m kiếm m&oacute;n hời.</p>\n",
+      "exampleEn": "The collector likes to explore antique shops looking for bargains.",
+      "exampleVi": "Người sưu tầm thích khám phá các cửa hàng đồ cổ để tìm kiếm món hời."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1ac",
+      "word": "item",
+      "phonetic": "/ˈaɪtəm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev188.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/item.mp3",
+      "meaningVi": "mặt hàng",
+      "meaningEn": "a single article or unit",
+      "exampleEnHtml": "<p>The grocery store has a special checkout line for people who are purchasing less than ten <strong>items</strong>.</p>\n",
+      "exampleViHtml": "<p>Cửa h&agrave;ng tạp h&oacute;a c&oacute; quầy thanh to&aacute;n đặc biệt d&agrave;nh cho những người mua dưới mười <strong>mặt h&agrave;ng</strong>.</p>\n",
+      "exampleEn": "The grocery store has a special checkout line for people who are purchasing less than ten items.",
+      "exampleVi": "Cửa hàng tạp hóa có quầy thanh toán đặc biệt dành cho những người mua dưới mười mặt hàng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1ad",
+      "word": "mandatory",
+      "phonetic": "/ˈmændətɔːri/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev189.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mandatory.mp3",
+      "meaningVi": "bắt buộc",
+      "meaningEn": "required or commanded; obligatory",
+      "exampleEnHtml": "<p>The jewelry store has a <strong>mandatory </strong>policy of showing customers only one item at a time.</p>\n",
+      "exampleViHtml": "<p>Cửa h&agrave;ng trang sức c&oacute; ch&iacute;nh s&aacute;ch <strong>bắt buộc</strong> l&agrave; chỉ cho kh&aacute;ch h&agrave;ng xem một sản phẩm tại một thời điểm.</p>\n",
+      "exampleEn": "The jewelry store has a mandatory policy of showing customers only one item at a time.",
+      "exampleVi": "Cửa hàng trang sức có chính sách bắt buộc là chỉ cho khách hàng xem một sản phẩm tại một thời điểm."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1ae",
+      "word": "merchandise",
+      "phonetic": "/ˈmɜːrtʃəndaɪs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev190.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/merchandise.mp3",
+      "meaningVi": "hàng hóa",
+      "meaningEn": "items available in stores",
+      "exampleEnHtml": "<p>I am very impressed with the selection of <strong>merchandise </strong>at this store.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i rất ấn tượng với sự lựa chọn <strong>h&agrave;ng h&oacute;a</strong> ở cửa h&agrave;ng n&agrave;y.</p>\n",
+      "exampleEn": "I am very impressed with the selection of merchandise at this store.",
+      "exampleVi": "Tôi rất ấn tượng với sự lựa chọn hàng hóa ở cửa hàng này."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1af",
+      "word": "strictly",
+      "phonetic": "/ˈstrɪktli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev191.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/strictly.mp3",
+      "meaningVi": "nghiêm ngặt",
+      "meaningEn": "rigidly, without flexibility",
+      "exampleEnHtml": "<p>Our store <strong>strictly </strong>enforces its return policy.</p>\n",
+      "exampleViHtml": "<p>Cửa h&agrave;ng của ch&uacute;ng t&ocirc;i thực hiện <strong>nghi&ecirc;m ngặt</strong> ch&iacute;nh s&aacute;ch đổi trả.</p>\n",
+      "exampleEn": "Our store strictly enforces its return policy.",
+      "exampleVi": "Cửa hàng của chúng tôi thực hiện nghiêm ngặt chính sách đổi trả."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b1b0",
+      "word": "trend",
+      "phonetic": "/trend/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev192.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/trend.mp3",
+      "meaningVi": "xu hướng",
+      "meaningEn": "the current style; vogue",
+      "exampleEnHtml": "<p>The clothing store tries to stay on top of all the new <strong>trends</strong>.</p>\n",
+      "exampleViHtml": "<p>Cửa h&agrave;ng quần &aacute;o cố gắng bắt kịp mọi<strong> xu hướng </strong>mới.</p>\n",
+      "exampleEn": "The clothing store tries to stay on top of all the new trends.",
+      "exampleVi": "Cửa hàng quần áo cố gắng bắt kịp mọi xu hướng mới."
+    }
+  ],
+  "totalFlashcards": 12
+}

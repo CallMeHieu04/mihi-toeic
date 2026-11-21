@@ -1,0 +1,371 @@
+{
+  "topicId": "61c14bec92d7f67f5140b12d",
+  "title": "Từ vựng: Contracts",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b169",
+        "questionNumber": 1,
+        "questionText": "abide by",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev001.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/abide by.mp3",
+        "choices": [
+          "to comply with; to conform"
+        ],
+        "correctAnswer": "to comply with; to conform",
+        "explanationHtml": "<p>The two parties agreed to <strong>abide by</strong> the judge&#39;s decision.</p>\n",
+        "explanationViHtml": "<p>Hai b&ecirc;n đ&atilde; nhất tr&iacute; <strong>tu&acirc;n thủ</strong> ph&aacute;n quyết của thẩm ph&aacute;n.</p>\n",
+        "transcriptHtml": "<p>The two parties agreed to <strong>abide by</strong> the judge&#39;s decision.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b16a",
+        "questionNumber": 2,
+        "questionText": "agreement",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev002.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/agreement.mp3",
+        "choices": [
+          "a mutual arrangement; a contract"
+        ],
+        "correctAnswer": "a mutual arrangement; a contract",
+        "explanationHtml": "<p>According to the <strong>agreement</strong>, the caterer will also supply the flowers for the event.</p>\n",
+        "explanationViHtml": "<p>Theo <strong>thỏa thuận</strong>, đơn vị cung cấp dịch vụ ăn uống cũng sẽ cung cấp hoa cho sự kiện.</p>\n",
+        "transcriptHtml": "<p>According to the <strong>agreement</strong>, the caterer will also supply the flowers for the event.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b16b",
+        "questionNumber": 3,
+        "questionText": "assurance",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev003.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assurance.mp3",
+        "choices": [
+          "a guarantee; confidence"
+        ],
+        "correctAnswer": "a guarantee; confidence",
+        "explanationHtml": "<p>The sales associate gave his <strong>assurance </strong>that the missing keyboard would be replaced the next day.</p>\n",
+        "explanationViHtml": "<p>Nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng <strong>đảm bảo</strong> rằng b&agrave;n ph&iacute;m bị mất sẽ được thay thế v&agrave;o ng&agrave;y h&ocirc;m sau.</p>\n",
+        "transcriptHtml": "<p>The sales associate gave his <strong>assurance </strong>that the missing keyboard would be replaced the next day.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b16c",
+        "questionNumber": 4,
+        "questionText": "cancellation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev004.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/cancellation.mp3",
+        "choices": [
+          "annulment; stopping"
+        ],
+        "correctAnswer": "annulment; stopping",
+        "explanationHtml": "<p>We need at least 24 hours&#39; notice of <strong>cancellation</strong>.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng ta cần th&ocirc;ng b&aacute;o <strong>hủy</strong> trước &iacute;t nhất 24 giờ.</p>\n",
+        "transcriptHtml": "<p>We need at least 24 hours&#39; notice of <strong>cancellation</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b16d",
+        "questionNumber": 5,
+        "questionText": "determine",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev005.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/determine.mp3",
+        "choices": [
+          "to find out; to influence"
+        ],
+        "correctAnswer": "to find out; to influence",
+        "explanationHtml": "<p>After reading the contract, I was still unable to <strong>determine </strong>if our company was liable for back wages.</p>\n",
+        "explanationViHtml": "<p>Sau khi đọc hợp đồng, t&ocirc;i vẫn kh&ocirc;ng thể <strong>x&aacute;c định</strong> được liệu c&ocirc;ng ty ch&uacute;ng t&ocirc;i c&oacute; phải chịu tr&aacute;ch nhiệm trả tiền lương c&ograve;n nợ hay kh&ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>After reading the contract, I was still unable to <strong>determine </strong>if our company was liable for back wages.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b16e",
+        "questionNumber": 6,
+        "questionText": "engage",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev006.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/engage.mp3",
+        "choices": [
+          "to hire; to involve someone or something"
+        ],
+        "correctAnswer": "to hire; to involve someone or something",
+        "explanationHtml": "<p>We <strong>engaged </strong>a salsa band to play at the reception.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; <strong>thu&ecirc;</strong> một ban nhạc salsa để chơi trong buổi tiệc chi&ecirc;u đ&atilde;i.</p>\n",
+        "transcriptHtml": "<p>We <strong>engaged </strong>a salsa band to play at the reception.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b16f",
+        "questionNumber": 7,
+        "questionText": "establish",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev007.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/establish.mp3",
+        "choices": [
+          "to institute permanently; to bring about"
+        ],
+        "correctAnswer": "to institute permanently; to bring about",
+        "explanationHtml": "<p>Through her many books and interviews, Dr. Wan <strong>established</strong> herself as an authority on conflict resolution.</p>\n",
+        "explanationViHtml": "<p>Qua nhiều cuốn s&aacute;ch v&agrave; cuộc phỏng vấn, Tiến sĩ Wan đ&atilde; <strong>khẳng định</strong> m&igrave;nh l&agrave; chuy&ecirc;n gia về giải quyết xung đột.</p>\n",
+        "transcriptHtml": "<p>Through her many books and interviews, Dr. Wan <strong>established</strong> herself as an authority on conflict resolution.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b170",
+        "questionNumber": 8,
+        "questionText": "obligate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev008.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/obligate.mp3",
+        "choices": [
+          "to bind legally or morally"
+        ],
+        "correctAnswer": "to bind legally or morally",
+        "explanationHtml": "<p>The contractor was <strong>obligated </strong>by the contract to work 40 hours a week</p>\n",
+        "explanationViHtml": "<p>Nh&agrave; thầu c&oacute; <strong>nghĩa vụ</strong> theo hợp đồng phải l&agrave;m việc 40 giờ một tuần</p>\n",
+        "transcriptHtml": "<p>The contractor was <strong>obligated </strong>by the contract to work 40 hours a week</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b171",
+        "questionNumber": 9,
+        "questionText": "party",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev009.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/party.mp3",
+        "choices": [
+          "a person or group participating in an action or plan; the persons or sides concerned in a legal matter"
+        ],
+        "correctAnswer": "a person or group participating in an action or plan; the persons or sides concerned in a legal matter",
+        "explanationHtml": "<p>The <strong>parties </strong>agreed to a settlement in their contract dispute.</p>\n",
+        "explanationViHtml": "<p><strong>C&aacute;c b&ecirc;n</strong> đ&atilde; đồng &yacute; giải quyết tranh chấp hợp đồng.</p>\n",
+        "transcriptHtml": "<p>The <strong>parties </strong>agreed to a settlement in their contract dispute.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b172",
+        "questionNumber": 10,
+        "questionText": "provision",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev010.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/provision.mp3",
+        "choices": [
+          "a measure taken beforehand; a stipulation"
+        ],
+        "correctAnswer": "a measure taken beforehand; a stipulation",
+        "explanationHtml": "<p>The father made <strong>provisions </strong>for his children through his will.</p>\n",
+        "explanationViHtml": "<p>Người cha đ&atilde; chuẩn bị c&aacute;c <strong>điều khoản</strong> cho c&aacute;c con của m&igrave;nh th&ocirc;ng qua di ch&uacute;c.</p>\n",
+        "transcriptHtml": "<p>The father made <strong>provisions </strong>for his children through his will.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b173",
+        "questionNumber": 11,
+        "questionText": "resolve",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev011.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/resolve.mp3",
+        "choices": [
+          "to deal with successfully; to declare"
+        ],
+        "correctAnswer": "to deal with successfully; to declare",
+        "explanationHtml": "<p>The mediator was able to <strong>resolve </strong>the problem to everyone&#39;s satisfaction.</p>\n",
+        "explanationViHtml": "<p>Người h&ograve;a giải đ&atilde; <strong>giải quyết</strong> vấn đề một c&aacute;ch l&agrave;m h&agrave;i l&ograve;ng tất cả mọi người.</p>\n",
+        "transcriptHtml": "<p>The mediator was able to <strong>resolve </strong>the problem to everyone&#39;s satisfaction.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bed92d7f67f5140b174",
+        "questionNumber": 12,
+        "questionText": "specific",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev012.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/specific.mp3",
+        "choices": [
+          "particular"
+        ],
+        "correctAnswer": "particular",
+        "explanationHtml": "<p>In a contract, one <strong>specific </strong>word can change the meaning dramatically.</p>\n",
+        "explanationViHtml": "<p>Trong hợp đồng, một từ <strong>cụ thể </strong>c&oacute; thể thay đổi &yacute; nghĩa đ&aacute;ng kể.</p>\n",
+        "transcriptHtml": "<p>In a contract, one <strong>specific </strong>word can change the meaning dramatically.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bed92d7f67f5140b169",
+      "word": "abide by",
+      "phonetic": "/əˈbaɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev001.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/abide by.mp3",
+      "meaningVi": "tuân thủ",
+      "meaningEn": "to comply with; to conform",
+      "exampleEnHtml": "<p>The two parties agreed to <strong>abide by</strong> the judge&#39;s decision.</p>\n",
+      "exampleViHtml": "<p>Hai b&ecirc;n đ&atilde; nhất tr&iacute; <strong>tu&acirc;n thủ</strong> ph&aacute;n quyết của thẩm ph&aacute;n.</p>\n",
+      "exampleEn": "The two parties agreed to abide by the judge's decision.",
+      "exampleVi": "Hai bên đã nhất trí tuân thủ phán quyết của thẩm phán."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b16a",
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev002.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/agreement.mp3",
+      "meaningVi": "thỏa thuận",
+      "meaningEn": "a mutual arrangement; a contract",
+      "exampleEnHtml": "<p>According to the <strong>agreement</strong>, the caterer will also supply the flowers for the event.</p>\n",
+      "exampleViHtml": "<p>Theo <strong>thỏa thuận</strong>, đơn vị cung cấp dịch vụ ăn uống cũng sẽ cung cấp hoa cho sự kiện.</p>\n",
+      "exampleEn": "According to the agreement, the caterer will also supply the flowers for the event.",
+      "exampleVi": "Theo thỏa thuận, đơn vị cung cấp dịch vụ ăn uống cũng sẽ cung cấp hoa cho sự kiện."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b16b",
+      "word": "assurance",
+      "phonetic": "/əˈʃʊrəns/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev003.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/assurance.mp3",
+      "meaningVi": "đảm bảo",
+      "meaningEn": "a guarantee; confidence",
+      "exampleEnHtml": "<p>The sales associate gave his <strong>assurance </strong>that the missing keyboard would be replaced the next day.</p>\n",
+      "exampleViHtml": "<p>Nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng <strong>đảm bảo</strong> rằng b&agrave;n ph&iacute;m bị mất sẽ được thay thế v&agrave;o ng&agrave;y h&ocirc;m sau.</p>\n",
+      "exampleEn": "The sales associate gave his assurance that the missing keyboard would be replaced the next day.",
+      "exampleVi": "Nhân viên bán hàng đảm bảo rằng bàn phím bị mất sẽ được thay thế vào ngày hôm sau."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b16c",
+      "word": "cancellation",
+      "phonetic": "/ˌkænsəˈleɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev004.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/cancellation.mp3",
+      "meaningVi": "hủy",
+      "meaningEn": "annulment; stopping",
+      "exampleEnHtml": "<p>We need at least 24 hours&#39; notice of <strong>cancellation</strong>.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng ta cần th&ocirc;ng b&aacute;o <strong>hủy</strong> trước &iacute;t nhất 24 giờ.</p>\n",
+      "exampleEn": "We need at least 24 hours' notice of cancellation.",
+      "exampleVi": "Chúng ta cần thông báo hủy trước ít nhất 24 giờ."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b16d",
+      "word": "determine",
+      "phonetic": "/dɪˈtɜːrmɪn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev005.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/determine.mp3",
+      "meaningVi": "xác định",
+      "meaningEn": "to find out; to influence",
+      "exampleEnHtml": "<p>After reading the contract, I was still unable to <strong>determine </strong>if our company was liable for back wages.</p>\n",
+      "exampleViHtml": "<p>Sau khi đọc hợp đồng, t&ocirc;i vẫn kh&ocirc;ng thể <strong>x&aacute;c định</strong> được liệu c&ocirc;ng ty ch&uacute;ng t&ocirc;i c&oacute; phải chịu tr&aacute;ch nhiệm trả tiền lương c&ograve;n nợ hay kh&ocirc;ng.</p>\n",
+      "exampleEn": "After reading the contract, I was still unable to determine if our company was liable for back wages.",
+      "exampleVi": "Sau khi đọc hợp đồng, tôi vẫn không thể xác định được liệu công ty chúng tôi có phải chịu trách nhiệm trả tiền lương còn nợ hay không."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b16e",
+      "word": "engage",
+      "phonetic": "/ɪnˈɡeɪdʒ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev006.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/engage.mp3",
+      "meaningVi": "thuê",
+      "meaningEn": "to hire; to involve someone or something",
+      "exampleEnHtml": "<p>We <strong>engaged </strong>a salsa band to play at the reception.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; <strong>thu&ecirc;</strong> một ban nhạc salsa để chơi trong buổi tiệc chi&ecirc;u đ&atilde;i.</p>\n",
+      "exampleEn": "We engaged a salsa band to play at the reception.",
+      "exampleVi": "Chúng tôi đã thuê một ban nhạc salsa để chơi trong buổi tiệc chiêu đãi."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b16f",
+      "word": "establish",
+      "phonetic": "/ɪˈstæblɪʃ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev007.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/establish.mp3",
+      "meaningVi": "khẳng định",
+      "meaningEn": "to institute permanently; to bring about",
+      "exampleEnHtml": "<p>Through her many books and interviews, Dr. Wan <strong>established</strong> herself as an authority on conflict resolution.</p>\n",
+      "exampleViHtml": "<p>Qua nhiều cuốn s&aacute;ch v&agrave; cuộc phỏng vấn, Tiến sĩ Wan đ&atilde; <strong>khẳng định</strong> m&igrave;nh l&agrave; chuy&ecirc;n gia về giải quyết xung đột.</p>\n",
+      "exampleEn": "Through her many books and interviews, Dr. Wan established herself as an authority on conflict resolution.",
+      "exampleVi": "Qua nhiều cuốn sách và cuộc phỏng vấn, Tiến sĩ Wan đã khẳng định mình là chuyên gia về giải quyết xung đột."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b170",
+      "word": "obligate",
+      "phonetic": "/ˈɑːblɪɡeɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev008.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/obligate.mp3",
+      "meaningVi": "nghĩa vụ",
+      "meaningEn": "to bind legally or morally",
+      "exampleEnHtml": "<p>The contractor was <strong>obligated </strong>by the contract to work 40 hours a week</p>\n",
+      "exampleViHtml": "<p>Nh&agrave; thầu c&oacute; <strong>nghĩa vụ</strong> theo hợp đồng phải l&agrave;m việc 40 giờ một tuần</p>\n",
+      "exampleEn": "The contractor was obligated by the contract to work 40 hours a week",
+      "exampleVi": "Nhà thầu có nghĩa vụ theo hợp đồng phải làm việc 40 giờ một tuần"
+    },
+    {
+      "id": "61c14bed92d7f67f5140b171",
+      "word": "party",
+      "phonetic": "/ˈpɑːrti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev009.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/party.mp3",
+      "meaningVi": "Các bên",
+      "meaningEn": "a person or group participating in an action or plan; the persons or sides concerned in a legal matter",
+      "exampleEnHtml": "<p>The <strong>parties </strong>agreed to a settlement in their contract dispute.</p>\n",
+      "exampleViHtml": "<p><strong>C&aacute;c b&ecirc;n</strong> đ&atilde; đồng &yacute; giải quyết tranh chấp hợp đồng.</p>\n",
+      "exampleEn": "The parties agreed to a settlement in their contract dispute.",
+      "exampleVi": "Các bên đã đồng ý giải quyết tranh chấp hợp đồng."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b172",
+      "word": "provision",
+      "phonetic": "/prəˈvɪʒn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev010.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/provision.mp3",
+      "meaningVi": "điều khoản",
+      "meaningEn": "a measure taken beforehand; a stipulation",
+      "exampleEnHtml": "<p>The father made <strong>provisions </strong>for his children through his will.</p>\n",
+      "exampleViHtml": "<p>Người cha đ&atilde; chuẩn bị c&aacute;c <strong>điều khoản</strong> cho c&aacute;c con của m&igrave;nh th&ocirc;ng qua di ch&uacute;c.</p>\n",
+      "exampleEn": "The father made provisions for his children through his will.",
+      "exampleVi": "Người cha đã chuẩn bị các điều khoản cho các con của mình thông qua di chúc."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b173",
+      "word": "resolve",
+      "phonetic": "/rɪˈzɔːlv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev011.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/resolve.mp3",
+      "meaningVi": "giải quyết",
+      "meaningEn": "to deal with successfully; to declare",
+      "exampleEnHtml": "<p>The mediator was able to <strong>resolve </strong>the problem to everyone&#39;s satisfaction.</p>\n",
+      "exampleViHtml": "<p>Người h&ograve;a giải đ&atilde; <strong>giải quyết</strong> vấn đề một c&aacute;ch l&agrave;m h&agrave;i l&ograve;ng tất cả mọi người.</p>\n",
+      "exampleEn": "The mediator was able to resolve the problem to everyone's satisfaction.",
+      "exampleVi": "Người hòa giải đã giải quyết vấn đề một cách làm hài lòng tất cả mọi người."
+    },
+    {
+      "id": "61c14bed92d7f67f5140b174",
+      "word": "specific",
+      "phonetic": "/spəˈsɪfɪk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev012.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/specific.mp3",
+      "meaningVi": "cụ thể",
+      "meaningEn": "particular",
+      "exampleEnHtml": "<p>In a contract, one <strong>specific </strong>word can change the meaning dramatically.</p>\n",
+      "exampleViHtml": "<p>Trong hợp đồng, một từ <strong>cụ thể </strong>c&oacute; thể thay đổi &yacute; nghĩa đ&aacute;ng kể.</p>\n",
+      "exampleEn": "In a contract, one specific word can change the meaning dramatically.",
+      "exampleVi": "Trong hợp đồng, một từ cụ thể có thể thay đổi ý nghĩa đáng kể."
+    }
+  ],
+  "totalFlashcards": 12
+}

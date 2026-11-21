@@ -1,0 +1,828 @@
+{
+  "topicId": "62256e0f83f28145bcbc002d",
+  "title": "ADVERBIAL CLAUSES OF TIME - Practice 3",
+  "totalCards": 22,
+  "totalQuestions": 22,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0165",
+        "questionNumber": 1,
+        "questionText": "He will work at his desk until he _______to another meeting in the middle of the afternoon.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "went",
+            "raw": "A. went",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "go",
+            "raw": "B. go",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will go",
+            "raw": "C. will go",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "goes",
+            "raw": "D. goes",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after 'until', which is a conjunction used to indicate the time up to which something will happen. In this sentence, the main clause is in the future tense ('He will work'), so the verb after 'until' should be in the present simple tense to refer to a future event in a time clause. This is a common rule in English: after time conjunctions like 'when', 'until', 'before', 'after', 'as soon as', we use the present simple to talk about the future.<br><ul><li><b>went</b> (verb (past simple)): Past simple tense. Incorrect because we need present simple for a future time clause.</li><li><b>go</b> (verb (base form)): Base form of the verb. Incorrect because after 'he', we need 'goes' in present simple.</li><li><b>will go</b> (verb (future simple)): Future simple tense. Incorrect because after 'until', we do not use 'will' in time clauses.</li><li><b>goes</b> (verb (present simple, third person singular)): Present simple tense, third person singular. Correct because after 'until', we use present simple for future meaning.</li></ul><b>Related structure or vocabulary:</b> After time conjunctions (when, until, before, after, as soon as), use present simple to refer to the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống nằm sau 'until', đây là một liên từ dùng để chỉ thời điểm cho đến khi một việc gì đó xảy ra. Trong câu này, mệnh đề chính dùng thì tương lai ('He will work'), nên động từ sau 'until' phải dùng thì hiện tại đơn để nói về một sự việc sẽ xảy ra trong tương lai ở mệnh đề thời gian. Đây là quy tắc phổ biến trong tiếng Anh: sau các liên từ chỉ thời gian như 'when', 'until', 'before', 'after', 'as soon as', ta dùng thì hiện tại đơn để nói về tương lai.<br><ul><li><b>went</b> (động từ (quá khứ đơn)): Thì quá khứ đơn. Sai vì cần dùng thì hiện tại đơn cho mệnh đề thời gian chỉ tương lai.</li><li><b>go</b> (động từ (nguyên thể)): Động từ nguyên thể. Sai vì sau 'he', phải dùng 'goes' ở thì hiện tại đơn.</li><li><b>will go</b> (động từ (tương lai đơn)): Thì tương lai đơn. Sai vì sau 'until', không dùng 'will' trong mệnh đề thời gian.</li><li><b>goes</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Thì hiện tại đơn, ngôi thứ ba số ít. Đúng vì sau 'until', dùng thì hiện tại đơn để chỉ tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Sau các liên từ chỉ thời gian (when, until, before, after, as soon as), dùng thì hiện tại đơn để nói về tương lai.<br><br><b>Tạm dịch:</b> Anh ấy sẽ làm việc tại bàn cho đến khi anh ấy đi đến một cuộc họp khác vào giữa buổi chiều.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after 'until', which is a conjunction used to indicate the time up to which something will happen. In this sentence, the main clause is in the future tense ('He will work'), so the verb after 'until' should be in the present simple tense to refer to a future event in a time clause. This is a common rule in English: after time conjunctions like 'when', 'until', 'before', 'after', 'as soon as', we use the present simple to talk about the future.<br><ul><li><b>went</b> (verb (past simple)): Past simple tense. Incorrect because we need present simple for a future time clause.</li><li><b>go</b> (verb (base form)): Base form of the verb. Incorrect because after 'he', we need 'goes' in present simple.</li><li><b>will go</b> (verb (future simple)): Future simple tense. Incorrect because after 'until', we do not use 'will' in time clauses.</li><li><b>goes</b> (verb (present simple, third person singular)): Present simple tense, third person singular. Correct because after 'until', we use present simple for future meaning.</li></ul><b>Related structure or vocabulary:</b> After time conjunctions (when, until, before, after, as soon as), use present simple to refer to the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0166",
+        "questionNumber": 2,
+        "questionText": "She ______ lunch by the time we arrived.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "finished",
+            "raw": "A. finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "has finished",
+            "raw": "B. has finished",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had finished",
+            "raw": "C. had finished ",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "finishing",
+            "raw": "D. finishing",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'She ______ lunch by the time we arrived.' describes an action that was completed before another action in the past. In English, when we want to show that one past action happened before another past action, we use the past perfect tense (had + past participle).<br><ul><li><b>finished</b> (verb (past simple)): Simple past tense. Used for actions completed in the past, but not specifically before another past action.</li><li><b>has finished</b> (verb (present perfect)): Present perfect tense. Used for actions that happened at an unspecified time before now.</li><li><b>had finished</b> (verb (past perfect)): Past perfect tense. Used to show that an action was completed before another action in the past.</li><li><b>finishing</b> (verb (present participle/gerund)): Present participle or gerund. Not grammatically correct in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to indicate that one past action happened before another past action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'She ______ lunch by the time we arrived.' mô tả một hành động đã hoàn thành trước một hành động khác trong quá khứ. Trong tiếng Anh, khi muốn diễn đạt một hành động xảy ra trước một hành động khác trong quá khứ, ta sử dụng thì quá khứ hoàn thành (had + quá khứ phân từ).<br><ul><li><b>finished</b> (động từ (quá khứ đơn)): Thì quá khứ đơn. Dùng để diễn tả hành động đã hoàn thành trong quá khứ, nhưng không nhấn mạnh xảy ra trước một hành động quá khứ khác.</li><li><b>has finished</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành. Dùng cho hành động đã xảy ra tại một thời điểm không xác định trước hiện tại.</li><li><b>had finished</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành. Dùng để diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ.</li><li><b>finishing</b> (động từ (hiện tại phân từ/danh động từ)): Dạng hiện tại phân từ hoặc danh động từ. Không phù hợp về mặt ngữ pháp trong cấu trúc câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ hoàn thành: had + quá khứ phân từ. Dùng để chỉ một hành động xảy ra trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Cô ấy đã ăn trưa xong trước khi chúng tôi đến.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'She ______ lunch by the time we arrived.' describes an action that was completed before another action in the past. In English, when we want to show that one past action happened before another past action, we use the past perfect tense (had + past participle).<br><ul><li><b>finished</b> (verb (past simple)): Simple past tense. Used for actions completed in the past, but not specifically before another past action.</li><li><b>has finished</b> (verb (present perfect)): Present perfect tense. Used for actions that happened at an unspecified time before now.</li><li><b>had finished</b> (verb (past perfect)): Past perfect tense. Used to show that an action was completed before another action in the past.</li><li><b>finishing</b> (verb (present participle/gerund)): Present participle or gerund. Not grammatically correct in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> Past perfect tense: had + past participle. Used to indicate that one past action happened before another past action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0167",
+        "questionNumber": 3,
+        "questionText": "Bob will come soon. When Bob ______, we will see him.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "come",
+            "raw": "A. come ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will come",
+            "raw": "B. will come ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will be coming",
+            "raw": "C. will be coming ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "comes",
+            "raw": "D. comes",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about a future event that will happen after another future event. In English, when we use 'when' to talk about the future, we use the present simple tense in the 'when' clause, not the future tense. Therefore, the correct form is 'When Bob comes, we will see him.'<br><ul><li><b>come</b> (verb (base form)): This is the base form of the verb. It is not correct here because after 'when' we need the present simple tense, which for 'Bob' (he/she/it) is 'comes'.</li><li><b>will come</b> (verb (future simple)): This is the future simple tense. In time clauses with 'when', we do not use 'will' in the clause itself.</li><li><b>will be coming</b> (verb (future continuous)): This is the future continuous tense. It is not used after 'when' in this context.</li><li><b>comes</b> (verb (present simple)): This is the present simple tense, which is the correct tense to use after 'when' when talking about the future.</li></ul><b>Related structure or vocabulary:</b> When + present simple, will + verb: We use the present simple after 'when' to talk about future events.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang nói về một sự kiện trong tương lai sẽ xảy ra sau một sự kiện tương lai khác. Trong tiếng Anh, khi dùng 'when' để nói về tương lai, ta sử dụng thì hiện tại đơn trong mệnh đề chứa 'when', không dùng thì tương lai. Vì vậy, dạng đúng là 'When Bob comes, we will see him.'<br><ul><li><b>come</b> (động từ (nguyên thể)): Đây là dạng nguyên thể của động từ. Không đúng ở đây vì sau 'when' cần dùng thì hiện tại đơn, với chủ ngữ 'Bob' (he/she/it) là 'comes'.</li><li><b>will come</b> (động từ (tương lai đơn)): Đây là thì tương lai đơn. Trong mệnh đề thời gian với 'when', không dùng 'will' trong chính mệnh đề đó.</li><li><b>will be coming</b> (động từ (tương lai tiếp diễn)): Đây là thì tương lai tiếp diễn. Không dùng thì này sau 'when' trong ngữ cảnh này.</li><li><b>comes</b> (động từ (hiện tại đơn)): Đây là thì hiện tại đơn, là thì đúng cần dùng sau 'when' khi nói về tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> When + hiện tại đơn, will + động từ: Dùng thì hiện tại đơn sau 'when' để nói về sự kiện trong tương lai.<br><br><b>Tạm dịch:</b> Bob sẽ đến sớm. Khi Bob đến, chúng ta sẽ gặp anh ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about a future event that will happen after another future event. In English, when we use 'when' to talk about the future, we use the present simple tense in the 'when' clause, not the future tense. Therefore, the correct form is 'When Bob comes, we will see him.'<br><ul><li><b>come</b> (verb (base form)): This is the base form of the verb. It is not correct here because after 'when' we need the present simple tense, which for 'Bob' (he/she/it) is 'comes'.</li><li><b>will come</b> (verb (future simple)): This is the future simple tense. In time clauses with 'when', we do not use 'will' in the clause itself.</li><li><b>will be coming</b> (verb (future continuous)): This is the future continuous tense. It is not used after 'when' in this context.</li><li><b>comes</b> (verb (present simple)): This is the present simple tense, which is the correct tense to use after 'when' when talking about the future.</li></ul><b>Related structure or vocabulary:</b> When + present simple, will + verb: We use the present simple after 'when' to talk about future events.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0168",
+        "questionNumber": 4,
+        "questionText": "I will get home at 5: 30. After I get home, I ______ dinner.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will have",
+            "raw": "A. will have",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will be having",
+            "raw": "B. will be having ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "had",
+            "raw": "C. had ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence describes two actions: 'I will get home at 5:30' and 'I ______ dinner.' The second action happens after the first. To express an action that will be in progress at a specific time in the future, we use the future continuous tense: 'will be having.' This tense is used to show that an action will be happening at a certain time in the future.<br><ul><li><b>will have</b> (verb phrase): Simple future tense, used for actions that will happen in the future, but not necessarily in progress at a specific time.</li><li><b>will be having</b> (verb phrase): Future continuous tense, used to describe an action that will be in progress at a specific time in the future.</li><li><b>had</b> (verb): Past simple tense, used for actions that happened in the past.</li><li><b>have</b> (verb): Present simple tense, used for habitual actions or general truths.</li></ul><b>Related structure or vocabulary:</b> Future continuous tense: will be + V-ing. Used to describe actions that will be happening at a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này mô tả hai hành động: 'Tôi sẽ về nhà lúc 5:30' và 'Tôi ______ bữa tối.' Hành động thứ hai xảy ra sau hành động đầu tiên. Để diễn tả một hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai, ta dùng thì tương lai tiếp diễn: 'will be having.' Thì này dùng để chỉ một hành động sẽ đang diễn ra tại một thời điểm cụ thể trong tương lai.<br><ul><li><b>will have</b> (cụm động từ): Thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai, nhưng không nhất thiết đang diễn ra tại một thời điểm xác định.</li><li><b>will be having</b> (cụm động từ): Thì tương lai tiếp diễn, dùng để diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.</li><li><b>had</b> (động từ): Thì quá khứ đơn, dùng cho hành động đã xảy ra trong quá khứ.</li><li><b>have</b> (động từ): Thì hiện tại đơn, dùng cho hành động lặp đi lặp lại hoặc sự thật hiển nhiên.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai tiếp diễn: will be + V-ing. Dùng để diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Tôi sẽ về nhà lúc 5:30. Sau khi tôi về nhà, tôi sẽ đang ăn tối.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence describes two actions: 'I will get home at 5:30' and 'I ______ dinner.' The second action happens after the first. To express an action that will be in progress at a specific time in the future, we use the future continuous tense: 'will be having.' This tense is used to show that an action will be happening at a certain time in the future.<br><ul><li><b>will have</b> (verb phrase): Simple future tense, used for actions that will happen in the future, but not necessarily in progress at a specific time.</li><li><b>will be having</b> (verb phrase): Future continuous tense, used to describe an action that will be in progress at a specific time in the future.</li><li><b>had</b> (verb): Past simple tense, used for actions that happened in the past.</li><li><b>have</b> (verb): Present simple tense, used for habitual actions or general truths.</li></ul><b>Related structure or vocabulary:</b> Future continuous tense: will be + V-ing. Used to describe actions that will be happening at a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0169",
+        "questionNumber": 5,
+        "questionText": "As soon as the taxi _______, we will be able to leave for the airport.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "arrives",
+            "raw": "A. arrives",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "arrive",
+            "raw": "B. arrive ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will arrive",
+            "raw": "C. will arrive ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "arrived",
+            "raw": "D. arrived ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'As soon as the taxi _______, we will be able to leave for the airport.', the clause after 'as soon as' refers to a future event. However, in English, after time conjunctions like 'as soon as', 'when', 'before', 'after', we use the present simple tense to refer to future events, not the future tense. Therefore, the correct form is the present simple 'arrives'.<br><ul><li><b>arrives</b> (verb (present simple, third person singular)): Present simple tense, third person singular. Correct form to use after 'as soon as' when referring to a future event.</li><li><b>arrive</b> (verb (present simple, base form)): Present simple tense, base form. Incorrect because the subject 'taxi' is singular, so it needs 'arrives'.</li><li><b>will arrive</b> (verb (future simple)): Future simple tense. Incorrect because after 'as soon as', we do not use the future tense to talk about future events.</li><li><b>arrived</b> (verb (past simple)): Past simple tense. Incorrect because the sentence refers to a future event, not a past event.</li></ul><b>Related structure or vocabulary:</b> After time conjunctions (when, as soon as, before, after), use present simple to refer to future events.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, 'As soon as the taxi _______, we will be able to leave for the airport.', mệnh đề sau 'as soon as' nói về một sự việc sẽ xảy ra trong tương lai. Tuy nhiên, trong tiếng Anh, sau các liên từ chỉ thời gian như 'as soon as', 'when', 'before', 'after', ta dùng thì hiện tại đơn để nói về sự việc trong tương lai, không dùng thì tương lai. Vì vậy, đáp án đúng là thì hiện tại đơn 'arrives'.<br><ul><li><b>arrives</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Thì hiện tại đơn, ngôi thứ ba số ít. Đây là dạng đúng cần dùng sau 'as soon as' khi nói về sự việc trong tương lai.</li><li><b>arrive</b> (động từ (hiện tại đơn, nguyên thể)): Thì hiện tại đơn, dạng nguyên thể. Sai vì chủ ngữ 'taxi' là số ít nên cần dùng 'arrives'.</li><li><b>will arrive</b> (động từ (tương lai đơn)): Thì tương lai đơn. Sai vì sau 'as soon as', ta không dùng thì tương lai để nói về sự việc trong tương lai.</li><li><b>arrived</b> (động từ (quá khứ đơn)): Thì quá khứ đơn. Sai vì câu nói về sự việc trong tương lai, không phải quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Sau các liên từ chỉ thời gian (when, as soon as, before, after), dùng thì hiện tại đơn để nói về sự việc trong tương lai.<br><br><b>Tạm dịch:</b> Ngay khi taxi đến, chúng ta sẽ có thể rời đi đến sân bay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'As soon as the taxi _______, we will be able to leave for the airport.', the clause after 'as soon as' refers to a future event. However, in English, after time conjunctions like 'as soon as', 'when', 'before', 'after', we use the present simple tense to refer to future events, not the future tense. Therefore, the correct form is the present simple 'arrives'.<br><ul><li><b>arrives</b> (verb (present simple, third person singular)): Present simple tense, third person singular. Correct form to use after 'as soon as' when referring to a future event.</li><li><b>arrive</b> (verb (present simple, base form)): Present simple tense, base form. Incorrect because the subject 'taxi' is singular, so it needs 'arrives'.</li><li><b>will arrive</b> (verb (future simple)): Future simple tense. Incorrect because after 'as soon as', we do not use the future tense to talk about future events.</li><li><b>arrived</b> (verb (past simple)): Past simple tense. Incorrect because the sentence refers to a future event, not a past event.</li></ul><b>Related structure or vocabulary:</b> After time conjunctions (when, as soon as, before, after), use present simple to refer to future events.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc016a",
+        "questionNumber": 6,
+        "questionText": "I will go to bed after I _______ my work.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "finish",
+            "raw": "A. finish",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "finished",
+            "raw": "B. finished ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will finish",
+            "raw": "C. will finish ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "finishes",
+            "raw": "D. finishes",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'I will go to bed after I _______ my work.', the blank needs a verb tense that correctly follows 'after' to indicate a future action that happens after another action. In English, when talking about the future and using time clauses (after, before, when, as soon as, etc.), we use the present simple tense in the time clause, not the future tense.<br><ul><li><b>finish</b> (verb (present simple)): Present simple tense. Used for actions that are regular, habitual, or in time clauses referring to the future.</li><li><b>finished</b> (verb (past simple)): Past simple tense. Used for actions that happened in the past.</li><li><b>will finish</b> (verb (future simple)): Future simple tense. Used for actions that will happen in the future, but not used in time clauses after 'after', 'before', etc.</li><li><b>finishes</b> (verb (present simple, third person singular)): Present simple tense, third person singular. Used when the subject is he/she/it.</li></ul><b>Related structure or vocabulary:</b> Time clauses with future meaning: After, before, when, as soon as + present simple, main clause + future simple. Example: I will call you when I arrive.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'I will go to bed after I _______ my work.', chỗ trống cần một thì động từ phù hợp sau 'after' để chỉ một hành động trong tương lai xảy ra sau một hành động khác. Trong tiếng Anh, khi nói về tương lai và sử dụng mệnh đề thời gian (after, before, when, as soon as, v.v.), ta dùng thì hiện tại đơn trong mệnh đề thời gian, không dùng thì tương lai.<br><ul><li><b>finish</b> (động từ (hiện tại đơn)): Thì hiện tại đơn. Dùng cho các hành động thường xuyên, lặp lại hoặc trong mệnh đề thời gian chỉ tương lai.</li><li><b>finished</b> (động từ (quá khứ đơn)): Thì quá khứ đơn. Dùng cho các hành động đã xảy ra trong quá khứ.</li><li><b>will finish</b> (động từ (tương lai đơn)): Thì tương lai đơn. Dùng cho các hành động sẽ xảy ra trong tương lai, nhưng không dùng trong mệnh đề thời gian sau 'after', 'before', v.v.</li><li><b>finishes</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Thì hiện tại đơn, ngôi thứ ba số ít. Dùng khi chủ ngữ là he/she/it.</li></ul><b>Cấu trúc và từ vựng:</b> Mệnh đề thời gian với ý nghĩa tương lai: After, before, when, as soon as + hiện tại đơn, mệnh đề chính + tương lai đơn. Ví dụ: I will call you when I arrive.<br><br><b>Tạm dịch:</b> Tôi sẽ đi ngủ sau khi tôi hoàn thành công việc của mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'I will go to bed after I _______ my work.', the blank needs a verb tense that correctly follows 'after' to indicate a future action that happens after another action. In English, when talking about the future and using time clauses (after, before, when, as soon as, etc.), we use the present simple tense in the time clause, not the future tense.<br><ul><li><b>finish</b> (verb (present simple)): Present simple tense. Used for actions that are regular, habitual, or in time clauses referring to the future.</li><li><b>finished</b> (verb (past simple)): Past simple tense. Used for actions that happened in the past.</li><li><b>will finish</b> (verb (future simple)): Future simple tense. Used for actions that will happen in the future, but not used in time clauses after 'after', 'before', etc.</li><li><b>finishes</b> (verb (present simple, third person singular)): Present simple tense, third person singular. Used when the subject is he/she/it.</li></ul><b>Related structure or vocabulary:</b> Time clauses with future meaning: After, before, when, as soon as + present simple, main clause + future simple. Example: I will call you when I arrive.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc016b",
+        "questionNumber": 7,
+        "questionText": "I _______ here when you arrive tomorrow.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "am",
+            "raw": "A. am",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had been",
+            "raw": "B. had been",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "could be",
+            "raw": "C. could be",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will be",
+            "raw": "D. will be",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _______ here when you arrive tomorrow.' requires a verb tense that expresses an action that will be happening at a specific time in the future. The correct tense for this situation is the future continuous tense (will be + V-ing), which is used to describe an action that will be in progress at a particular moment in the future.<br><ul><li><b>am</b> (verb (present simple)): 'Am' is the present simple form of the verb 'to be.' It is used to describe actions or states happening now, not in the future.</li><li><b>had been</b> (verb (past perfect)): 'Had been' is the past perfect form of the verb 'to be.' It is used to describe actions that were completed before another action in the past.</li><li><b>could be</b> (modal verb + base verb): 'Could be' is the modal verb 'could' plus 'be.' It expresses possibility or ability, not a definite action happening in the future.</li><li><b>will be</b> (verb (future simple)): 'Will be' is the future simple form of the verb 'to be.' It is used to describe actions or states that will happen in the future. In this context, 'will be here' means the speaker will be present at the location when the other person arrives.</li></ul><b>Related structure or vocabulary:</b> Future simple tense: will + base verb. Used to describe actions that will happen in the future. In some cases, future continuous (will be + V-ing) is used for ongoing actions, but here 'will be' is correct because it refers to being present at a specific time.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I _______ here when you arrive tomorrow.' cần một thì động từ diễn tả hành động sẽ xảy ra tại một thời điểm xác định trong tương lai. Thì phù hợp nhất là thì tương lai đơn (will be), dùng để nói về một hành động hoặc trạng thái sẽ xảy ra trong tương lai.<br><ul><li><b>am</b> (động từ (hiện tại đơn)): 'Am' là thì hiện tại đơn của động từ 'to be', dùng để diễn tả hành động hoặc trạng thái đang xảy ra ở hiện tại, không phù hợp với ngữ cảnh tương lai.</li><li><b>had been</b> (động từ (quá khứ hoàn thành)): 'Had been' là thì quá khứ hoàn thành của động từ 'to be', dùng để diễn tả hành động đã hoàn thành trước một hành động khác trong quá khứ.</li><li><b>could be</b> (động từ khuyết thiếu + động từ nguyên mẫu): 'Could be' là động từ khuyết thiếu 'could' kết hợp với 'be', diễn tả khả năng hoặc sự cho phép, không phải là hành động chắc chắn sẽ xảy ra trong tương lai.</li><li><b>will be</b> (động từ (tương lai đơn)): 'Will be' là thì tương lai đơn của động từ 'to be', dùng để diễn tả hành động hoặc trạng thái sẽ xảy ra trong tương lai. Trong ngữ cảnh này, 'will be here' nghĩa là người nói sẽ có mặt tại địa điểm khi người kia đến.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai đơn: will + động từ nguyên mẫu. Dùng để diễn tả hành động sẽ xảy ra trong tương lai. Trong một số trường hợp, thì tương lai tiếp diễn (will be + V-ing) dùng cho hành động đang diễn ra tại một thời điểm trong tương lai, nhưng ở đây 'will be' là đúng vì chỉ trạng thái có mặt tại một thời điểm xác định.<br><br><b>Tạm dịch:</b> Tôi sẽ ở đây khi bạn đến vào ngày mai.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _______ here when you arrive tomorrow.' requires a verb tense that expresses an action that will be happening at a specific time in the future. The correct tense for this situation is the future continuous tense (will be + V-ing), which is used to describe an action that will be in progress at a particular moment in the future.<br><ul><li><b>am</b> (verb (present simple)): 'Am' is the present simple form of the verb 'to be.' It is used to describe actions or states happening now, not in the future.</li><li><b>had been</b> (verb (past perfect)): 'Had been' is the past perfect form of the verb 'to be.' It is used to describe actions that were completed before another action in the past.</li><li><b>could be</b> (modal verb + base verb): 'Could be' is the modal verb 'could' plus 'be.' It expresses possibility or ability, not a definite action happening in the future.</li><li><b>will be</b> (verb (future simple)): 'Will be' is the future simple form of the verb 'to be.' It is used to describe actions or states that will happen in the future. In this context, 'will be here' means the speaker will be present at the location when the other person arrives.</li></ul><b>Related structure or vocabulary:</b> Future simple tense: will + base verb. Used to describe actions that will happen in the future. In some cases, future continuous (will be + V-ing) is used for ongoing actions, but here 'will be' is correct because it refers to being present at a specific time.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc016c",
+        "questionNumber": 8,
+        "questionText": "I am going to wait right here until Jessica ______",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "comes",
+            "raw": "A. comes",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will have come",
+            "raw": "B. will have come",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is coming",
+            "raw": "C. is coming",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "came",
+            "raw": "D. came",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'I am going to wait right here until Jessica ______', the verb after 'until' should be in the present simple tense when referring to a future event. This is a common rule in English: after time conjunctions like 'until', 'when', 'as soon as', we use the present simple to talk about the future.<br><ul><li><b>comes</b> (verb (present simple)): Present simple tense of 'come', used for future events after time conjunctions.</li><li><b>will have come</b> (verb (future perfect)): Future perfect tense, not used after 'until' in this context.</li><li><b>is coming</b> (verb (present continuous)): Present continuous tense, used for planned future events but not after 'until' in this structure.</li><li><b>came</b> (verb (past simple)): Past simple tense, incorrect because the action is in the future.</li></ul><b>Related structure or vocabulary:</b> After time conjunctions (when, until, as soon as, before, after), use present simple to refer to future events.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'I am going to wait right here until Jessica ______', động từ sau 'until' cần chia ở thì hiện tại đơn khi nói về một sự việc sẽ xảy ra trong tương lai. Đây là quy tắc phổ biến trong tiếng Anh: sau các liên từ chỉ thời gian như 'until', 'when', 'as soon as', ta dùng thì hiện tại đơn để nói về hành động trong tương lai.<br><ul><li><b>comes</b> (động từ (hiện tại đơn)): Thì hiện tại đơn của 'come', dùng để chỉ sự việc sẽ xảy ra trong tương lai sau liên từ chỉ thời gian.</li><li><b>will have come</b> (động từ (tương lai hoàn thành)): Thì tương lai hoàn thành, không dùng sau 'until' trong trường hợp này.</li><li><b>is coming</b> (động từ (hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, dùng cho kế hoạch tương lai nhưng không phù hợp sau 'until' trong cấu trúc này.</li><li><b>came</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, không đúng vì hành động xảy ra trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Sau các liên từ chỉ thời gian (when, until, as soon as, before, after), dùng thì hiện tại đơn để nói về hành động trong tương lai.<br><br><b>Tạm dịch:</b> Tôi sẽ đợi ngay tại đây cho đến khi Jessica đến.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'I am going to wait right here until Jessica ______', the verb after 'until' should be in the present simple tense when referring to a future event. This is a common rule in English: after time conjunctions like 'until', 'when', 'as soon as', we use the present simple to talk about the future.<br><ul><li><b>comes</b> (verb (present simple)): Present simple tense of 'come', used for future events after time conjunctions.</li><li><b>will have come</b> (verb (future perfect)): Future perfect tense, not used after 'until' in this context.</li><li><b>is coming</b> (verb (present continuous)): Present continuous tense, used for planned future events but not after 'until' in this structure.</li><li><b>came</b> (verb (past simple)): Past simple tense, incorrect because the action is in the future.</li></ul><b>Related structure or vocabulary:</b> After time conjunctions (when, until, as soon as, before, after), use present simple to refer to future events.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc016d",
+        "questionNumber": 9,
+        "questionText": "As soon as the war _____ over, there will be great joy throughout the land.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are",
+            "raw": "A. are",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will be",
+            "raw": "B. will be",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is",
+            "raw": "C. is",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "would be",
+            "raw": "D. would be ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'As soon as the war _____ over, there will be great joy throughout the land.' requires the correct form of the verb 'to be' to agree with the subject 'the war' and to fit the time reference. 'As soon as' is a conjunction used to talk about something that will happen immediately after another event. In English, after 'as soon as', we use the present simple tense to refer to a future event. Therefore, the correct form is 'is' (present simple) because 'the war' is a singular noun.<br><ul><li><b>are</b> (verb (present simple, plural)): 'Are' is the present simple form of 'to be' for plural subjects. 'The war' is singular, so 'are' is incorrect.</li><li><b>will be</b> (verb (future simple)): 'Will be' is the future simple form. However, after 'as soon as', we use the present simple to refer to the future, not 'will'.</li><li><b>is</b> (verb (present simple, singular)): 'Is' is the present simple form of 'to be' for singular subjects. It matches 'the war' and fits the grammar rule after 'as soon as'.</li><li><b>would be</b> (verb (conditional)): 'Would be' is the conditional form, which is not appropriate here because the sentence is not conditional.</li></ul><b>Related structure or vocabulary:</b> After time conjunctions like 'as soon as', 'when', 'if', we use the present simple to refer to future events. Example: 'As soon as he arrives, we will start.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'As soon as the war _____ over, there will be great joy throughout the land.' cần điền dạng đúng của động từ 'to be' phù hợp với chủ ngữ 'the war' và thì của câu. 'As soon as' là liên từ dùng để nói về một sự việc sẽ xảy ra ngay sau một sự việc khác. Trong tiếng Anh, sau 'as soon as', ta dùng thì hiện tại đơn để nói về sự việc trong tương lai. Do đó, đáp án đúng là 'is' (hiện tại đơn) vì 'the war' là danh từ số ít.<br><ul><li><b>are</b> (động từ (hiện tại đơn, số nhiều)): 'Are' là dạng hiện tại đơn của 'to be' dùng cho chủ ngữ số nhiều. 'The war' là danh từ số ít nên không phù hợp.</li><li><b>will be</b> (động từ (tương lai đơn)): 'Will be' là thì tương lai đơn. Tuy nhiên, sau 'as soon as', ta không dùng thì tương lai mà dùng thì hiện tại đơn để nói về tương lai.</li><li><b>is</b> (động từ (hiện tại đơn, số ít)): 'Is' là dạng hiện tại đơn của 'to be' dùng cho chủ ngữ số ít. Phù hợp với 'the war' và đúng với quy tắc ngữ pháp sau 'as soon as'.</li><li><b>would be</b> (động từ (điều kiện)): 'Would be' là dạng điều kiện, không phù hợp vì câu này không phải câu điều kiện.</li></ul><b>Cấu trúc và từ vựng:</b> Sau các liên từ chỉ thời gian như 'as soon as', 'when', 'if', ta dùng thì hiện tại đơn để nói về sự việc trong tương lai. Ví dụ: 'As soon as he arrives, we will start.'<br><br><b>Tạm dịch:</b> Ngay khi chiến tranh kết thúc, sẽ có niềm vui lớn trên khắp đất nước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'As soon as the war _____ over, there will be great joy throughout the land.' requires the correct form of the verb 'to be' to agree with the subject 'the war' and to fit the time reference. 'As soon as' is a conjunction used to talk about something that will happen immediately after another event. In English, after 'as soon as', we use the present simple tense to refer to a future event. Therefore, the correct form is 'is' (present simple) because 'the war' is a singular noun.<br><ul><li><b>are</b> (verb (present simple, plural)): 'Are' is the present simple form of 'to be' for plural subjects. 'The war' is singular, so 'are' is incorrect.</li><li><b>will be</b> (verb (future simple)): 'Will be' is the future simple form. However, after 'as soon as', we use the present simple to refer to the future, not 'will'.</li><li><b>is</b> (verb (present simple, singular)): 'Is' is the present simple form of 'to be' for singular subjects. It matches 'the war' and fits the grammar rule after 'as soon as'.</li><li><b>would be</b> (verb (conditional)): 'Would be' is the conditional form, which is not appropriate here because the sentence is not conditional.</li></ul><b>Related structure or vocabulary:</b> After time conjunctions like 'as soon as', 'when', 'if', we use the present simple to refer to future events. Example: 'As soon as he arrives, we will start.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc016e",
+        "questionNumber": 10,
+        "questionText": "Right now the tide is low, but when the tide comes in, the ship ______ the harbor.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "left",
+            "raw": "A. left",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will leave",
+            "raw": "B. will leave",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will have left",
+            "raw": "C. will have left",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "leave",
+            "raw": "D. leave",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence is a conditional statement about a future event: 'when the tide comes in.' The main clause describes what will happen at that future time. In English, when talking about a future event that will happen after another future event, we use the simple future tense (will + base verb) in the main clause. Therefore, the correct answer is 'will leave.'<br><ul><li><b>left</b> (verb (past tense)): Past tense of 'leave.' Not suitable because the sentence refers to a future event.</li><li><b>will leave</b> (verb (future simple)): Simple future tense. Used to describe an action that will happen in the future.</li><li><b>will have left</b> (verb (future perfect)): Future perfect tense. Used to describe an action that will be completed before another future event. Not suitable here because the ship will leave when the tide comes in, not before.</li><li><b>leave</b> (verb (base form)): Base form of the verb. Not suitable here because the main clause needs a verb in the future tense.</li></ul><b>Related structure or vocabulary:</b> When + present simple, will + base verb (future simple) is a common structure for talking about future events that depend on another future event.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là một câu điều kiện nói về một sự việc trong tương lai: 'khi thủy triều lên.' Mệnh đề chính mô tả điều sẽ xảy ra vào thời điểm đó trong tương lai. Trong tiếng Anh, khi nói về một hành động sẽ xảy ra sau một sự kiện trong tương lai khác, ta dùng thì tương lai đơn (will + động từ nguyên mẫu) ở mệnh đề chính. Vì vậy, đáp án đúng là 'will leave.'<br><ul><li><b>left</b> (động từ (quá khứ)): Quá khứ của 'leave.' Không phù hợp vì câu nói về sự việc trong tương lai.</li><li><b>will leave</b> (động từ (tương lai đơn)): Thì tương lai đơn. Dùng để diễn tả hành động sẽ xảy ra trong tương lai.</li><li><b>will have left</b> (động từ (tương lai hoàn thành)): Thì tương lai hoàn thành. Dùng để diễn tả hành động sẽ hoàn thành trước một sự kiện tương lai khác. Không phù hợp vì con tàu sẽ rời đi khi thủy triều lên, không phải trước đó.</li><li><b>leave</b> (động từ (nguyên mẫu)): Động từ nguyên mẫu. Không phù hợp vì mệnh đề chính cần động từ ở thì tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: When + hiện tại đơn, will + động từ nguyên mẫu (tương lai đơn) thường dùng để nói về sự việc trong tương lai phụ thuộc vào một sự kiện tương lai khác.<br><br><b>Tạm dịch:</b> Ngay bây giờ thủy triều đang xuống, nhưng khi thủy triều lên, con tàu sẽ rời khỏi cảng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence is a conditional statement about a future event: 'when the tide comes in.' The main clause describes what will happen at that future time. In English, when talking about a future event that will happen after another future event, we use the simple future tense (will + base verb) in the main clause. Therefore, the correct answer is 'will leave.'<br><ul><li><b>left</b> (verb (past tense)): Past tense of 'leave.' Not suitable because the sentence refers to a future event.</li><li><b>will leave</b> (verb (future simple)): Simple future tense. Used to describe an action that will happen in the future.</li><li><b>will have left</b> (verb (future perfect)): Future perfect tense. Used to describe an action that will be completed before another future event. Not suitable here because the ship will leave when the tide comes in, not before.</li><li><b>leave</b> (verb (base form)): Base form of the verb. Not suitable here because the main clause needs a verb in the future tense.</li></ul><b>Related structure or vocabulary:</b> When + present simple, will + base verb (future simple) is a common structure for talking about future events that depend on another future event.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc016f",
+        "questionNumber": 11,
+        "questionText": "I am going to start making dinner before my wife _______ home from work today.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "get",
+            "raw": "A. get",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "gets",
+            "raw": "B. gets",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will get",
+            "raw": "C. will get",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "got",
+            "raw": "D. got",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about two actions: 'I am going to start making dinner' (future intention) and 'my wife _______ home from work today' (another future event). When we talk about the future in a time clause (after words like 'before', 'after', 'when', 'as soon as', etc.), we use the present simple tense, not the future tense. Therefore, the correct answer is 'gets' (present simple, third person singular).<br><ul><li><b>get</b> (verb (base form)): Base form of the verb, used with plural subjects or 'I/you/we/they' in present simple.</li><li><b>gets</b> (verb (present simple, third person singular)): Present simple, third person singular form of 'get', used with 'he/she/it' or singular nouns.</li><li><b>will get</b> (verb (future simple)): Future simple tense, used to talk about future actions, but not used in time clauses after 'before', 'when', etc.</li><li><b>got</b> (verb (past simple)): Past simple form of 'get', used to talk about actions in the past.</li></ul><b>Related structure or vocabulary:</b> In time clauses (after 'before', 'after', 'when', 'as soon as', etc.), use the present simple tense to refer to future events.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta nói về hai hành động: 'Tôi sẽ bắt đầu nấu bữa tối' (ý định trong tương lai) và 'vợ tôi _______ về nhà từ chỗ làm hôm nay' (một sự kiện tương lai khác). Khi nói về tương lai trong mệnh đề thời gian (sau các từ như 'before', 'after', 'when', 'as soon as', v.v.), chúng ta sử dụng thì hiện tại đơn, không dùng thì tương lai. Do đó, đáp án đúng là 'gets' (thì hiện tại đơn, ngôi thứ ba số ít).<br><ul><li><b>get</b> (động từ (nguyên thể)): Dạng nguyên thể của động từ, dùng với chủ ngữ số nhiều hoặc 'I/you/we/they' trong thì hiện tại đơn.</li><li><b>gets</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Dạng hiện tại đơn, ngôi thứ ba số ít của 'get', dùng với 'he/she/it' hoặc danh từ số ít.</li><li><b>will get</b> (động từ (tương lai đơn)): Thì tương lai đơn, dùng để nói về hành động trong tương lai, nhưng không dùng trong mệnh đề thời gian sau 'before', 'when', v.v.</li><li><b>got</b> (động từ (quá khứ đơn)): Dạng quá khứ đơn của 'get', dùng để nói về hành động đã xảy ra trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Trong mệnh đề thời gian (sau 'before', 'after', 'when', 'as soon as', v.v.), dùng thì hiện tại đơn để nói về sự việc trong tương lai.<br><br><b>Tạm dịch:</b> Tôi sẽ bắt đầu nấu bữa tối trước khi vợ tôi về nhà từ chỗ làm hôm nay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about two actions: 'I am going to start making dinner' (future intention) and 'my wife _______ home from work today' (another future event). When we talk about the future in a time clause (after words like 'before', 'after', 'when', 'as soon as', etc.), we use the present simple tense, not the future tense. Therefore, the correct answer is 'gets' (present simple, third person singular).<br><ul><li><b>get</b> (verb (base form)): Base form of the verb, used with plural subjects or 'I/you/we/they' in present simple.</li><li><b>gets</b> (verb (present simple, third person singular)): Present simple, third person singular form of 'get', used with 'he/she/it' or singular nouns.</li><li><b>will get</b> (verb (future simple)): Future simple tense, used to talk about future actions, but not used in time clauses after 'before', 'when', etc.</li><li><b>got</b> (verb (past simple)): Past simple form of 'get', used to talk about actions in the past.</li></ul><b>Related structure or vocabulary:</b> In time clauses (after 'before', 'after', 'when', 'as soon as', etc.), use the present simple tense to refer to future events.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0170",
+        "questionNumber": 12,
+        "questionText": "When Bill gets home, his children _______ in the yard.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be playing",
+            "raw": "A. will be playing ",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will be played",
+            "raw": "B. will be played",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "are playing",
+            "raw": "C. are playing",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "are played",
+            "raw": "D. are played",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'When Bill gets home, his children _______ in the yard.' requires a verb tense that describes an action that will be happening at a specific time in the future. The correct tense for this situation is the future continuous (will be + V-ing), which is used to indicate an action that will be in progress at a certain future time.<br><ul><li><b>will be playing</b> (verb phrase): Future continuous tense: describes an action that will be ongoing at a specific time in the future.</li><li><b>will be played</b> (verb phrase (passive)): Passive voice in the future continuous, but this structure is not commonly used and does not fit the context because 'children' are the doers of the action.</li><li><b>are playing</b> (verb phrase): Present continuous tense: describes an action happening now, not at a future time.</li><li><b>are played</b> (verb phrase (passive)): Present simple passive: not suitable here because 'children' are not the receivers of an action.</li></ul><b>Related structure or vocabulary:</b> Future continuous tense: will be + V-ing is used to describe an action that will be happening at a specific time in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'When Bill gets home, his children _______ in the yard.' cần một thì động từ diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai. Thì phù hợp nhất là thì tương lai tiếp diễn (will be + V-ing), dùng để chỉ một hành động sẽ đang xảy ra tại một thời điểm cụ thể trong tương lai.<br><ul><li><b>will be playing</b> (cụm động từ): Thì tương lai tiếp diễn: diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.</li><li><b>will be played</b> (cụm động từ (bị động)): Câu bị động ở thì tương lai tiếp diễn, nhưng cấu trúc này không phổ biến và không phù hợp vì 'children' là chủ thể thực hiện hành động.</li><li><b>are playing</b> (cụm động từ): Thì hiện tại tiếp diễn: diễn tả hành động đang xảy ra ở hiện tại, không phù hợp với thời điểm trong tương lai.</li><li><b>are played</b> (cụm động từ (bị động)): Câu bị động ở thì hiện tại đơn: không phù hợp vì 'children' không phải là đối tượng bị tác động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì tương lai tiếp diễn: will be + V-ing dùng để diễn tả hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.<br><br><b>Tạm dịch:</b> Khi Bill về nhà, các con của anh ấy sẽ đang chơi ở ngoài sân.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'When Bill gets home, his children _______ in the yard.' requires a verb tense that describes an action that will be happening at a specific time in the future. The correct tense for this situation is the future continuous (will be + V-ing), which is used to indicate an action that will be in progress at a certain future time.<br><ul><li><b>will be playing</b> (verb phrase): Future continuous tense: describes an action that will be ongoing at a specific time in the future.</li><li><b>will be played</b> (verb phrase (passive)): Passive voice in the future continuous, but this structure is not commonly used and does not fit the context because 'children' are the doers of the action.</li><li><b>are playing</b> (verb phrase): Present continuous tense: describes an action happening now, not at a future time.</li><li><b>are played</b> (verb phrase (passive)): Present simple passive: not suitable here because 'children' are not the receivers of an action.</li></ul><b>Related structure or vocabulary:</b> Future continuous tense: will be + V-ing is used to describe an action that will be happening at a specific time in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0171",
+        "questionNumber": 13,
+        "questionText": "______Tomomi graduates from Spring, she is going to study drama at the famous Juilliard School in New York City.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "After",
+            "raw": "A. After",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "While",
+            "raw": "B. While",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Until",
+            "raw": "C. Until",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows the relationship between Tomomi's graduation from Spring and her plan to study drama at Juilliard School. The correct conjunction should indicate that the action of studying drama will happen after she graduates.<br><ul><li><b>After</b> (Conjunction): Used to indicate that one event happens following another event in time.</li><li><b>While</b> (Conjunction): Used to indicate that two events are happening at the same time.</li><li><b>Until</b> (Conjunction/Preposition): Used to indicate that something continues up to a certain point in time.</li></ul><b>Related structure or vocabulary:</b> after + subject + verb: used to show that one action happens following another action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để thể hiện mối quan hệ giữa việc Tomomi tốt nghiệp trường Spring và dự định học kịch tại trường Juilliard. Liên từ đúng phải diễn tả rằng hành động học kịch sẽ diễn ra sau khi cô ấy tốt nghiệp.<br><ul><li><b>After</b> (Liên từ): Được dùng để chỉ một sự kiện xảy ra sau một sự kiện khác về mặt thời gian.</li><li><b>While</b> (Liên từ): Được dùng để chỉ hai sự kiện xảy ra đồng thời.</li><li><b>Until</b> (Liên từ/Giới từ): Được dùng để chỉ một hành động kéo dài cho đến một thời điểm nhất định.</li></ul><b>Cấu trúc và từ vựng:</b> after + chủ ngữ + động từ: dùng để diễn tả một hành động xảy ra sau một hành động khác.<br><br><b>Tạm dịch:</b> Sau khi Tomomi tốt nghiệp trường Spring, cô ấy sẽ học kịch tại trường Juilliard nổi tiếng ở thành phố New York.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows the relationship between Tomomi's graduation from Spring and her plan to study drama at Juilliard School. The correct conjunction should indicate that the action of studying drama will happen after she graduates.<br><ul><li><b>After</b> (Conjunction): Used to indicate that one event happens following another event in time.</li><li><b>While</b> (Conjunction): Used to indicate that two events are happening at the same time.</li><li><b>Until</b> (Conjunction/Preposition): Used to indicate that something continues up to a certain point in time.</li></ul><b>Related structure or vocabulary:</b> after + subject + verb: used to show that one action happens following another action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0172",
+        "questionNumber": 14,
+        "questionText": "Our mom always made us brush our teeth _______we went to bed.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "as",
+            "raw": "A. as",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "before",
+            "raw": "B. before",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "while",
+            "raw": "C. while",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or preposition that shows the time relationship between brushing teeth and going to bed. The sentence means that brushing teeth happens at a specific time in relation to going to bed.<br><ul><li><b>as</b> (conjunction): \"As\" is used to indicate two actions happening at the same time. For example: 'As I was leaving, she arrived.' However, in this context, brushing teeth and going to bed do not happen simultaneously; brushing teeth happens before going to bed.</li><li><b>before</b> (preposition/conjunction): \"Before\" is used to indicate that one action happens earlier than another. For example: 'Wash your hands before you eat.' In this sentence, brushing teeth happens earlier than going to bed, so 'before' is the correct choice.</li><li><b>while</b> (conjunction): \"While\" is used to indicate two actions happening at the same time. For example: 'She listens to music while studying.' In this context, it does not make sense to brush teeth and go to bed at the same time.</li></ul><b>Related structure or vocabulary:</b> Time conjunctions and prepositions: before, after, while, as. Structure: do something before/after another action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ hoặc giới từ để thể hiện mối quan hệ thời gian giữa việc đánh răng và đi ngủ. Câu này có nghĩa là việc đánh răng xảy ra vào một thời điểm nhất định so với việc đi ngủ.<br><ul><li><b>as</b> (liên từ): \"As\" dùng để chỉ hai hành động xảy ra đồng thời. Ví dụ: 'As I was leaving, she arrived.' Tuy nhiên, trong ngữ cảnh này, việc đánh răng và đi ngủ không xảy ra cùng lúc; đánh răng xảy ra trước khi đi ngủ.</li><li><b>before</b> (giới từ/liên từ): \"Before\" dùng để chỉ một hành động xảy ra trước một hành động khác. Ví dụ: 'Wash your hands before you eat.' Trong câu này, việc đánh răng xảy ra trước khi đi ngủ, nên 'before' là đáp án đúng.</li><li><b>while</b> (liên từ): \"While\" dùng để chỉ hai hành động xảy ra đồng thời. Ví dụ: 'She listens to music while studying.' Trong ngữ cảnh này, không hợp lý khi vừa đánh răng vừa đi ngủ.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ và giới từ chỉ thời gian: before, after, while, as. Cấu trúc: làm việc gì đó trước/sau một hành động khác.<br><br><b>Tạm dịch:</b> Mẹ chúng tôi luôn bắt chúng tôi đánh răng trước khi đi ngủ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction or preposition that shows the time relationship between brushing teeth and going to bed. The sentence means that brushing teeth happens at a specific time in relation to going to bed.<br><ul><li><b>as</b> (conjunction): \"As\" is used to indicate two actions happening at the same time. For example: 'As I was leaving, she arrived.' However, in this context, brushing teeth and going to bed do not happen simultaneously; brushing teeth happens before going to bed.</li><li><b>before</b> (preposition/conjunction): \"Before\" is used to indicate that one action happens earlier than another. For example: 'Wash your hands before you eat.' In this sentence, brushing teeth happens earlier than going to bed, so 'before' is the correct choice.</li><li><b>while</b> (conjunction): \"While\" is used to indicate two actions happening at the same time. For example: 'She listens to music while studying.' In this context, it does not make sense to brush teeth and go to bed at the same time.</li></ul><b>Related structure or vocabulary:</b> Time conjunctions and prepositions: before, after, while, as. Structure: do something before/after another action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0173",
+        "questionNumber": 15,
+        "questionText": "_______ I study too long without a break, I get a headache.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Before",
+            "raw": "A. Before",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "By the time",
+            "raw": "B. By the time",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Whenever",
+            "raw": "C. Whenever",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that introduces a condition or time when something happens. The sentence '_______ I study too long without a break, I get a headache.' means that every time the person studies for too long without a break, they get a headache. The correct conjunction to express this repeated action is 'Whenever'.<br><ul><li><b>Before</b> (Conjunction): This conjunction means 'earlier than the time that' and is used to indicate something happens earlier than another event. It does not fit the meaning of the sentence, which is about a repeated situation.</li><li><b>By the time</b> (Conjunction/Phrase): This phrase means 'when' or 'at the point when something happens'. It is used to refer to a specific moment, not a repeated action.</li><li><b>Whenever</b> (Conjunction): This conjunction means 'every time that' and is used to talk about something that happens repeatedly or in any situation when something happens. It fits the meaning of the sentence.</li></ul><b>Related structure or vocabulary:</b> Whenever + subject + verb: used to talk about repeated actions or situations.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để giới thiệu điều kiện hoặc thời điểm khi một việc gì đó xảy ra. Câu '_______ I study too long without a break, I get a headache.' có nghĩa là mỗi lần người nói học quá lâu mà không nghỉ, họ sẽ bị đau đầu. Liên từ đúng để diễn đạt hành động lặp đi lặp lại này là 'Whenever'.<br><ul><li><b>Before</b> (Liên từ): 'Before' có nghĩa là 'trước khi', dùng để chỉ một hành động xảy ra trước một hành động khác. Không phù hợp với ý nghĩa của câu, vì câu này nói về tình huống lặp lại.</li><li><b>By the time</b> (Cụm từ/Liên từ): 'By the time' có nghĩa là 'vào lúc mà' hoặc 'khi mà', dùng để chỉ một thời điểm cụ thể, không phải hành động lặp lại.</li><li><b>Whenever</b> (Liên từ): 'Whenever' có nghĩa là 'mỗi khi', dùng để nói về hành động hoặc tình huống lặp đi lặp lại. Đây là đáp án phù hợp với ý nghĩa của câu.</li></ul><b>Cấu trúc và từ vựng:</b> Whenever + chủ ngữ + động từ: dùng để nói về hành động hoặc tình huống lặp lại.<br><br><b>Tạm dịch:</b> Mỗi khi tôi học quá lâu mà không nghỉ, tôi bị đau đầu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that introduces a condition or time when something happens. The sentence '_______ I study too long without a break, I get a headache.' means that every time the person studies for too long without a break, they get a headache. The correct conjunction to express this repeated action is 'Whenever'.<br><ul><li><b>Before</b> (Conjunction): This conjunction means 'earlier than the time that' and is used to indicate something happens earlier than another event. It does not fit the meaning of the sentence, which is about a repeated situation.</li><li><b>By the time</b> (Conjunction/Phrase): This phrase means 'when' or 'at the point when something happens'. It is used to refer to a specific moment, not a repeated action.</li><li><b>Whenever</b> (Conjunction): This conjunction means 'every time that' and is used to talk about something that happens repeatedly or in any situation when something happens. It fits the meaning of the sentence.</li></ul><b>Related structure or vocabulary:</b> Whenever + subject + verb: used to talk about repeated actions or situations.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0174",
+        "questionNumber": 16,
+        "questionText": "We are going to go to Starbucks ______ class is over.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "whenever",
+            "raw": "A. whenever",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "as soon as",
+            "raw": "B. as soon as",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "until",
+            "raw": "C. until",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about an action that will happen immediately after another action is completed. The blank needs a conjunction that connects two clauses and indicates the timing relationship between them. 'As soon as' is used to show that one action happens immediately after another. Therefore, the correct answer is 'as soon as'.<br><ul><li><b>whenever</b> (conjunction): 'Whenever' means 'every time that' or 'any time that'. It is used to talk about something that happens at any time or every time another event happens. It does not fit here because the sentence refers to a specific event, not a repeated or general event.</li><li><b>as soon as</b> (conjunction): 'As soon as' means 'immediately after something else happens'. It is used to show that one action happens right after another. This fits the context of the sentence, which is about going to Starbucks immediately after class is over.</li><li><b>until</b> (conjunction/preposition): 'Until' means 'up to the time when'. It is used to show that something continues up to a certain point in time. It does not fit here because the sentence is not about waiting up to a certain time, but about doing something after a specific event.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'as soon as', 'when', 'after', 'before', 'until', 'while'. 'As soon as' is used to show immediate succession of actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang nói về một hành động sẽ xảy ra ngay sau khi một hành động khác kết thúc. Chỗ trống cần một liên từ để nối hai mệnh đề và chỉ mối quan hệ về thời gian giữa chúng. 'As soon as' được dùng để diễn tả một hành động xảy ra ngay lập tức sau một hành động khác. Vì vậy, đáp án đúng là 'as soon as'.<br><ul><li><b>whenever</b> (liên từ): 'Whenever' có nghĩa là 'bất cứ khi nào' hoặc 'mỗi khi'. Được dùng để nói về điều gì đó xảy ra vào bất kỳ lúc nào hoặc mỗi khi một sự kiện khác xảy ra. Không phù hợp ở đây vì câu nói về một sự kiện cụ thể, không phải sự kiện lặp lại hoặc chung chung.</li><li><b>as soon as</b> (liên từ): 'As soon as' có nghĩa là 'ngay khi'. Được dùng để diễn tả một hành động xảy ra ngay lập tức sau một hành động khác. Phù hợp với ngữ cảnh câu, nói về việc đi Starbucks ngay sau khi tan học.</li><li><b>until</b> (liên từ/giới từ): 'Until' có nghĩa là 'cho đến khi'. Được dùng để chỉ điều gì đó kéo dài đến một thời điểm nhất định. Không phù hợp ở đây vì câu không nói về việc chờ đợi đến một thời điểm, mà là làm gì đó sau một sự kiện cụ thể.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ thời gian: 'as soon as', 'when', 'after', 'before', 'until', 'while'. 'As soon as' dùng để chỉ hai hành động xảy ra liên tiếp ngay lập tức.<br><br><b>Tạm dịch:</b> Chúng tôi sẽ đi Starbucks ngay khi tan học.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about an action that will happen immediately after another action is completed. The blank needs a conjunction that connects two clauses and indicates the timing relationship between them. 'As soon as' is used to show that one action happens immediately after another. Therefore, the correct answer is 'as soon as'.<br><ul><li><b>whenever</b> (conjunction): 'Whenever' means 'every time that' or 'any time that'. It is used to talk about something that happens at any time or every time another event happens. It does not fit here because the sentence refers to a specific event, not a repeated or general event.</li><li><b>as soon as</b> (conjunction): 'As soon as' means 'immediately after something else happens'. It is used to show that one action happens right after another. This fits the context of the sentence, which is about going to Starbucks immediately after class is over.</li><li><b>until</b> (conjunction/preposition): 'Until' means 'up to the time when'. It is used to show that something continues up to a certain point in time. It does not fit here because the sentence is not about waiting up to a certain time, but about doing something after a specific event.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'as soon as', 'when', 'after', 'before', 'until', 'while'. 'As soon as' is used to show immediate succession of actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0175",
+        "questionNumber": 17,
+        "questionText": "Thomas Edison kept trying with over 500 different materials ______ he finally found one to make a successful light bulb filament.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "as",
+            "raw": "A. as",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "until",
+            "raw": "B. until",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "after",
+            "raw": "C. after",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows the relationship between Thomas Edison trying different materials and finally finding a successful one. The sentence describes a repeated action (trying over 500 materials) that continued up to a certain point (when he found the right one). The correct conjunction to express this is 'until', which means 'up to the time that'.<br><ul><li><b>as</b> (conjunction): 'As' is used to show two actions happening at the same time or to mean 'because'. It does not fit here because the sentence is not about simultaneous actions or cause.</li><li><b>until</b> (conjunction): 'Until' is used to show that an action continues up to a certain point in time. In this sentence, it means Edison kept trying different materials up to the point when he succeeded.</li><li><b>after</b> (conjunction): 'After' is used to indicate something happens following another event. It does not fit here because the sentence is about the process leading up to the success, not what happened after.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'until' is used to show that an action continues up to a specific point. Structure: keep doing something until + clause.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để thể hiện mối quan hệ giữa việc Thomas Edison thử nhiều vật liệu khác nhau và cuối cùng tìm ra vật liệu phù hợp. Câu này mô tả một hành động lặp đi lặp lại (thử hơn 500 vật liệu) kéo dài cho đến một thời điểm nhất định (khi ông tìm ra vật liệu thành công). Liên từ phù hợp là 'until', mang nghĩa 'cho đến khi'.<br><ul><li><b>as</b> (liên từ): 'As' dùng để chỉ hai hành động xảy ra đồng thời hoặc mang nghĩa 'bởi vì'. Không phù hợp ở đây vì câu không nói về hai hành động đồng thời hoặc nguyên nhân.</li><li><b>until</b> (liên từ): 'Until' dùng để chỉ một hành động kéo dài cho đến một thời điểm nhất định. Trong câu này, nghĩa là Edison tiếp tục thử các vật liệu cho đến khi ông thành công.</li><li><b>after</b> (liên từ): 'After' dùng để chỉ một việc xảy ra sau một sự kiện khác. Không phù hợp vì câu nói về quá trình dẫn đến thành công, không phải những gì xảy ra sau đó.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ thời gian: 'until' dùng để chỉ hành động kéo dài đến một thời điểm xác định. Cấu trúc: keep doing something until + mệnh đề.<br><br><b>Tạm dịch:</b> Thomas Edison tiếp tục thử hơn 500 vật liệu khác nhau cho đến khi cuối cùng ông tìm ra một loại phù hợp để làm dây tóc bóng đèn thành công.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows the relationship between Thomas Edison trying different materials and finally finding a successful one. The sentence describes a repeated action (trying over 500 materials) that continued up to a certain point (when he found the right one). The correct conjunction to express this is 'until', which means 'up to the time that'.<br><ul><li><b>as</b> (conjunction): 'As' is used to show two actions happening at the same time or to mean 'because'. It does not fit here because the sentence is not about simultaneous actions or cause.</li><li><b>until</b> (conjunction): 'Until' is used to show that an action continues up to a certain point in time. In this sentence, it means Edison kept trying different materials up to the point when he succeeded.</li><li><b>after</b> (conjunction): 'After' is used to indicate something happens following another event. It does not fit here because the sentence is about the process leading up to the success, not what happened after.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'until' is used to show that an action continues up to a specific point. Structure: keep doing something until + clause.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0176",
+        "questionNumber": 18,
+        "questionText": "_______ Henry graduated from college, he had changed his major four times.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "As",
+            "raw": "A. As",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "As soon as",
+            "raw": "B. As soon as",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "By the time",
+            "raw": "C. By the time",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that correctly connects the two clauses: '_______ Henry graduated from college, he had changed his major four times.' The meaning is that before Henry graduated, he had already changed his major four times. The correct conjunction to express this sequence of events is 'By the time,' which is used to indicate that something had already happened before another event in the past.<br><ul><li><b>As</b> (Conjunction): Means 'while' or 'when,' used to show two actions happening at the same time.</li><li><b>As soon as</b> (Conjunction): Means 'immediately after,' used to show that one action happens right after another.</li><li><b>By the time</b> (Conjunction): Means 'before a specific time or event,' used to show that something was already completed before another action.</li></ul><b>Related structure or vocabulary:</b> By the time + past simple, past perfect: Used to show that an action was completed before another action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để nối hai mệnh đề: '_______ Henry graduated from college, he had changed his major four times.' Ý nghĩa là trước khi Henry tốt nghiệp đại học, anh ấy đã đổi chuyên ngành bốn lần. Liên từ đúng để diễn đạt trình tự này là 'By the time', dùng để chỉ một hành động đã hoàn thành trước một sự kiện khác trong quá khứ.<br><ul><li><b>As</b> (Liên từ): Có nghĩa là 'khi' hoặc 'trong khi', dùng để chỉ hai hành động xảy ra đồng thời.</li><li><b>As soon as</b> (Liên từ): Có nghĩa là 'ngay khi', dùng để chỉ một hành động xảy ra ngay sau một hành động khác.</li><li><b>By the time</b> (Liên từ): Có nghĩa là 'trước khi', dùng để chỉ một hành động đã hoàn thành trước một thời điểm hoặc sự kiện khác.</li></ul><b>Cấu trúc và từ vựng:</b> By the time + quá khứ đơn, quá khứ hoàn thành: Dùng để diễn tả một hành động đã hoàn thành trước một hành động khác trong quá khứ.<br><br><b>Tạm dịch:</b> Trước khi Henry tốt nghiệp đại học, anh ấy đã đổi chuyên ngành bốn lần.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that correctly connects the two clauses: '_______ Henry graduated from college, he had changed his major four times.' The meaning is that before Henry graduated, he had already changed his major four times. The correct conjunction to express this sequence of events is 'By the time,' which is used to indicate that something had already happened before another event in the past.<br><ul><li><b>As</b> (Conjunction): Means 'while' or 'when,' used to show two actions happening at the same time.</li><li><b>As soon as</b> (Conjunction): Means 'immediately after,' used to show that one action happens right after another.</li><li><b>By the time</b> (Conjunction): Means 'before a specific time or event,' used to show that something was already completed before another action.</li></ul><b>Related structure or vocabulary:</b> By the time + past simple, past perfect: Used to show that an action was completed before another action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0177",
+        "questionNumber": 19,
+        "questionText": "Asma and her husband have visited 17 states ______ they came to the U.S. two years ago.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "before",
+            "raw": "A. before",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "since",
+            "raw": "B. since",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "by the time",
+            "raw": "C. by the time",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that connects the action of visiting 17 states with the time they arrived in the U.S. The sentence describes an action that started in the past (when they came to the U.S.) and continues up to the present. In English, 'since' is used to indicate the starting point of an action that continues to the present. Therefore, 'since' is the correct choice.<br><ul><li><b>before</b> (preposition/conjunction): Used to indicate an action that happened earlier than another action or time. It does not fit here because the sentence is about what happened after they arrived in the U.S.</li><li><b>since</b> (preposition/conjunction): Used to show the starting point of an action that continues up to now. It fits the context of the sentence.</li><li><b>by the time</b> (conjunction): Used to indicate a specific point in time when something happens or is completed. It is not suitable here because the sentence is about an ongoing action from a point in the past.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense + since + starting point: Used to describe an action that began in the past and continues to the present. Example: 'I have lived here since 2010.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ nối hành động đã thăm 17 bang với thời điểm họ đến Mỹ. Câu này mô tả một hành động bắt đầu trong quá khứ (khi họ đến Mỹ) và tiếp tục đến hiện tại. Trong tiếng Anh, 'since' được dùng để chỉ mốc bắt đầu của một hành động kéo dài đến hiện tại. Vì vậy, 'since' là lựa chọn đúng.<br><ul><li><b>before</b> (giới từ/liên từ): Dùng để chỉ một hành động xảy ra trước một hành động hoặc thời điểm khác. Không phù hợp ở đây vì câu nói về những gì xảy ra sau khi họ đến Mỹ.</li><li><b>since</b> (giới từ/liên từ): Dùng để chỉ mốc bắt đầu của một hành động kéo dài đến hiện tại. Phù hợp với ngữ cảnh câu.</li><li><b>by the time</b> (liên từ): Dùng để chỉ một thời điểm cụ thể khi điều gì đó xảy ra hoặc hoàn thành. Không phù hợp vì câu nói về hành động kéo dài từ quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành + since + mốc thời gian: Dùng để diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại. Ví dụ: 'Tôi đã sống ở đây từ năm 2010.'<br><br><b>Tạm dịch:</b> Asma và chồng cô ấy đã thăm 17 bang kể từ khi họ đến Mỹ hai năm trước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that connects the action of visiting 17 states with the time they arrived in the U.S. The sentence describes an action that started in the past (when they came to the U.S.) and continues up to the present. In English, 'since' is used to indicate the starting point of an action that continues to the present. Therefore, 'since' is the correct choice.<br><ul><li><b>before</b> (preposition/conjunction): Used to indicate an action that happened earlier than another action or time. It does not fit here because the sentence is about what happened after they arrived in the U.S.</li><li><b>since</b> (preposition/conjunction): Used to show the starting point of an action that continues up to now. It fits the context of the sentence.</li><li><b>by the time</b> (conjunction): Used to indicate a specific point in time when something happens or is completed. It is not suitable here because the sentence is about an ongoing action from a point in the past.</li></ul><b>Related structure or vocabulary:</b> Present perfect tense + since + starting point: Used to describe an action that began in the past and continues to the present. Example: 'I have lived here since 2010.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0178",
+        "questionNumber": 20,
+        "questionText": "_______ Mary was taking a shower, her dog chewed up her expensive new pair of shoes.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Whenever",
+            "raw": "A. Whenever",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "While",
+            "raw": "B. While",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Until",
+            "raw": "C. Until",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a conjunction to connect two actions happening at the same time. The sentence describes two simultaneous actions: Mary was taking a shower, and her dog chewed up her shoes. The correct conjunction to use for two actions happening at the same time is 'while'.<br><ul><li><b>Whenever</b> (conjunction): Means 'every time that'. It is used to talk about something that happens repeatedly or habitually, not for two actions happening at the same time.</li><li><b>While</b> (conjunction): Means 'during the time that'. It is used to connect two actions that are happening at the same time.</li><li><b>Until</b> (conjunction): Means 'up to the time that'. It is used to show that one action continues up to a certain point, not for simultaneous actions.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'while' is used to connect two actions happening at the same time. Structure: While + S + V, S + V.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một liên từ để nối hai hành động xảy ra đồng thời. Câu này mô tả hai hành động cùng lúc: Mary đang tắm thì chó của cô ấy nhai đôi giày mới đắt tiền. Liên từ đúng để diễn tả hai hành động xảy ra cùng lúc là 'while'.<br><ul><li><b>Whenever</b> (liên từ): Có nghĩa là 'mỗi khi', dùng để nói về điều gì đó xảy ra lặp đi lặp lại, không dùng để nối hai hành động xảy ra cùng lúc.</li><li><b>While</b> (liên từ): Có nghĩa là 'trong khi', dùng để nối hai hành động xảy ra đồng thời.</li><li><b>Until</b> (liên từ): Có nghĩa là 'cho đến khi', dùng để chỉ một hành động kéo dài đến một thời điểm nhất định, không dùng cho hai hành động đồng thời.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ thời gian: 'while' dùng để nối hai hành động xảy ra cùng lúc. Cấu trúc: While + S + V, S + V.<br><br><b>Tạm dịch:</b> Trong khi Mary đang tắm, con chó của cô ấy đã nhai đôi giày mới đắt tiền.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a conjunction to connect two actions happening at the same time. The sentence describes two simultaneous actions: Mary was taking a shower, and her dog chewed up her shoes. The correct conjunction to use for two actions happening at the same time is 'while'.<br><ul><li><b>Whenever</b> (conjunction): Means 'every time that'. It is used to talk about something that happens repeatedly or habitually, not for two actions happening at the same time.</li><li><b>While</b> (conjunction): Means 'during the time that'. It is used to connect two actions that are happening at the same time.</li><li><b>Until</b> (conjunction): Means 'up to the time that'. It is used to show that one action continues up to a certain point, not for simultaneous actions.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'while' is used to connect two actions happening at the same time. Structure: While + S + V, S + V.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc0179",
+        "questionNumber": 21,
+        "questionText": "The Rockies baseball game was temporarily stopped ______ it began to thunder and lightning over the field.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "when",
+            "raw": "A. when",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "while",
+            "raw": "B. while",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "before",
+            "raw": "C. before",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that correctly links the two actions: the baseball game being stopped and the thunder and lightning starting. The correct conjunction should indicate that the game was stopped at the time the thunder and lightning began.<br><ul><li><b>when</b> (conjunction): Used to indicate the time at which something happens. It connects two events that occur at the same time or one right after the other.</li><li><b>while</b> (conjunction): Used to indicate that two actions are happening at the same time, often for a duration.</li><li><b>before</b> (conjunction): Used to indicate that one event happens earlier than another.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'when', 'while', and 'before' are used to connect clauses and indicate the timing of events. 'When' is used for a specific point in time, 'while' for simultaneous actions, and 'before' for an earlier action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ (conjunction) để nối hai hành động: trận đấu bóng chày bị tạm dừng và trời bắt đầu có sấm chớp. Liên từ đúng phải diễn tả rằng trận đấu bị dừng lại đúng vào lúc trời bắt đầu có sấm chớp.<br><ul><li><b>when</b> (liên từ): Dùng để chỉ thời điểm một việc gì đó xảy ra. Nối hai sự kiện xảy ra cùng lúc hoặc ngay sau nhau.</li><li><b>while</b> (liên từ): Dùng để chỉ hai hành động xảy ra đồng thời, thường kéo dài trong một khoảng thời gian.</li><li><b>before</b> (liên từ): Dùng để chỉ một sự kiện xảy ra trước một sự kiện khác.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ thời gian: 'when', 'while', và 'before' dùng để nối các mệnh đề và chỉ thời điểm của các sự kiện. 'When' dùng cho thời điểm cụ thể, 'while' cho các hành động đồng thời, và 'before' cho hành động xảy ra trước.<br><br><b>Tạm dịch:</b> Trận đấu bóng chày của đội Rockies đã bị tạm dừng KHI trời bắt đầu có sấm chớp trên sân.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that correctly links the two actions: the baseball game being stopped and the thunder and lightning starting. The correct conjunction should indicate that the game was stopped at the time the thunder and lightning began.<br><ul><li><b>when</b> (conjunction): Used to indicate the time at which something happens. It connects two events that occur at the same time or one right after the other.</li><li><b>while</b> (conjunction): Used to indicate that two actions are happening at the same time, often for a duration.</li><li><b>before</b> (conjunction): Used to indicate that one event happens earlier than another.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'when', 'while', and 'before' are used to connect clauses and indicate the timing of events. 'When' is used for a specific point in time, 'while' for simultaneous actions, and 'before' for an earlier action.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256f9183f28145bcbc017a",
+        "questionNumber": 22,
+        "questionText": "_______ we were walking out our front door, it began to rain.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Whenever",
+            "raw": "A. Whenever",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Until",
+            "raw": "B. Until",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "As",
+            "raw": "C. As",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_______ we were walking out our front door, it began to rain.' requires a conjunction that shows two actions happening at the same time. The correct conjunction here is 'As', which is used to indicate that two events are occurring simultaneously.<br><ul><li><b>Whenever</b> (conjunction): 'Whenever' means 'every time that something happens'. It is used for repeated actions, not for a specific moment.</li><li><b>Until</b> (conjunction): 'Until' means 'up to the point in time or the event mentioned'. It is used to show the end point of an action, not simultaneous actions.</li><li><b>As</b> (conjunction): 'As' means 'while' or 'when', and is used to show that two actions are happening at the same time.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'as', 'while', 'when' are used to connect two actions happening at the same time. Example: 'As I was leaving, the phone rang.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '_______ we were walking out our front door, it began to rain.' cần một liên từ chỉ hai hành động xảy ra đồng thời. 'As' là liên từ phù hợp, dùng để diễn tả hai sự việc xảy ra cùng lúc.<br><ul><li><b>Whenever</b> (liên từ): 'Whenever' nghĩa là 'bất cứ khi nào', dùng cho hành động lặp đi lặp lại, không phù hợp với một thời điểm cụ thể.</li><li><b>Until</b> (liên từ): 'Until' nghĩa là 'cho đến khi', dùng để chỉ mốc kết thúc của một hành động, không phải để diễn tả hai hành động đồng thời.</li><li><b>As</b> (liên từ): 'As' nghĩa là 'khi' hoặc 'trong khi', dùng để diễn tả hai hành động xảy ra cùng lúc.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ thời gian: 'as', 'while', 'when' dùng để nối hai hành động xảy ra đồng thời. Ví dụ: 'As I was leaving, the phone rang.'<br><br><b>Tạm dịch:</b> Khi chúng tôi đang bước ra khỏi cửa trước, trời bắt đầu mưa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_______ we were walking out our front door, it began to rain.' requires a conjunction that shows two actions happening at the same time. The correct conjunction here is 'As', which is used to indicate that two events are occurring simultaneously.<br><ul><li><b>Whenever</b> (conjunction): 'Whenever' means 'every time that something happens'. It is used for repeated actions, not for a specific moment.</li><li><b>Until</b> (conjunction): 'Until' means 'up to the point in time or the event mentioned'. It is used to show the end point of an action, not simultaneous actions.</li><li><b>As</b> (conjunction): 'As' means 'while' or 'when', and is used to show that two actions are happening at the same time.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'as', 'while', 'when' are used to connect two actions happening at the same time. Example: 'As I was leaving, the phone rang.'<br><br>"
+      }
+    }
+  ]
+}

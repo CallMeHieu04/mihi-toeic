@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b148",
+  "title": "Từ vựng: Quality Control",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b27c",
+        "questionNumber": 1,
+        "questionText": "brand",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev325.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/brand.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n identifying mark or label; a trademark",
+            "raw": "an identifying mark or label; a trademark",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Consumers often buy highly advertised <strong>brands</strong> of athletic shoes.</p>\n",
+        "explanationViHtml": "<p>Người ti&ecirc;u d&ugrave;ng thường mua c&aacute;c <strong>nh&atilde;n hiệu</strong> gi&agrave;y thể thao được quảng c&aacute;o nhiều</p>\n",
+        "transcriptHtml": "<p>Consumers often buy highly advertised <strong>brands</strong> of athletic shoes.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b27d",
+        "questionNumber": 2,
+        "questionText": "conform",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev326.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/conform.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to match specifications or qualities",
+            "raw": "to match specifications or qualities",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The quality control manager insisted that every product that left the plant <strong>conform</strong> to the company&rsquo;s rigorous standards.</p>\n",
+        "explanationViHtml": "<p>Người quản l&yacute; kiểm so&aacute;t chất lượng nhấn mạnh rằng mọi sản phẩm rời khỏi nh&agrave; m&aacute;y đều <strong>tu&acirc;n thủ</strong> c&aacute;c ti&ecirc;u chuẩn khắt khe của c&ocirc;ng ty.</p>\n",
+        "transcriptHtml": "<p>The quality control manager insisted that every product that left the plant <strong>conform</strong> to the company&rsquo;s rigorous standards.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b27e",
+        "questionNumber": 3,
+        "questionText": "defect",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev327.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/defect.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n imperfection or flaw",
+            "raw": "an imperfection or flaw",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Because of a <strong>defect</strong> in stitching, the entire suit was thrown out.</p>\n",
+        "explanationViHtml": "<p>V&igrave; một <strong>khiếm khuyết</strong> trong kh&acirc;u, to&agrave;n bộ bộ đồ đ&atilde; bị vứt bỏ.</p>\n",
+        "transcriptHtml": "<p>Because of a <strong>defect</strong> in stitching, the entire suit was thrown out.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b27f",
+        "questionNumber": 4,
+        "questionText": "enhance",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev328.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/enhance.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to make more attractive or valuable",
+            "raw": "to make more attractive or valuable",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The reason behind quality control is to <strong>enhance</strong> the company&rsquo;s reputation for superior products.</p>\n",
+        "explanationViHtml": "<p>L&yacute; do đằng sau kiểm so&aacute;t chất lượng l&agrave; để <strong>n&acirc;ng cao</strong> danh tiếng của c&ocirc;ng ty cho c&aacute;c sản phẩm cao cấp.</p>\n",
+        "transcriptHtml": "<p>The reason behind quality control is to <strong>enhance</strong> the company&rsquo;s reputation for superior products.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b280",
+        "questionNumber": 5,
+        "questionText": "garment",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev329.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/garment.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n article of clothing",
+            "raw": "an article of clothing",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Every <strong>garment</strong> must be carefully inspected for defects before it is shipped.</p>\n",
+        "explanationViHtml": "<p>Mỗi <strong>h&agrave;ng may mặc</strong>&nbsp;phải được kiểm tra cẩn thận cho c&aacute;c khiếm khuyết trước khi n&oacute; được vận chuyển.</p>\n",
+        "transcriptHtml": "<p>Every <strong>garment</strong> must be carefully inspected for defects before it is shipped.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b281",
+        "questionNumber": 6,
+        "questionText": "inspect",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev330.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/inspect.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to look at closely; to examine carefully or officially",
+            "raw": "to look at closely; to examine carefully or officially",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>A quality control agent who does not <strong>inspect</strong> every product carefully can ruin his company&#39;s reputation.</p>\n",
+        "explanationViHtml": "<p>Một đại l&yacute; kiểm so&aacute;t chất lượng kh&ocirc;ng <strong>kiểm tra</strong> cẩn thận mọi sản phẩm c&oacute; thể hủy hoại danh tiếng của c&ocirc;ng ty anh ta.</p>\n",
+        "transcriptHtml": "<p>A quality control agent who does not <strong>inspect</strong> every product carefully can ruin his company&#39;s reputation.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b282",
+        "questionNumber": 7,
+        "questionText": "perceptive",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev331.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/perceptive.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "ble to see or understand",
+            "raw": "able to see or understand",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>It was very <strong>perceptive</strong> of you to notice that.</p>\n",
+        "explanationViHtml": "<p>Bạn thật <strong>tinh &yacute; </strong>khi nhận ra điều đ&oacute;.</p>\n",
+        "transcriptHtml": "<p>It was very <strong>perceptive</strong> of you to notice that.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b283",
+        "questionNumber": 8,
+        "questionText": "repel",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev332.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/repel.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to keep away; to fight against",
+            "raw": "to keep away; to fight against",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Umbrellas that do not <strong>repel</strong> water should never be passed through quality control.</p>\n",
+        "explanationViHtml": "<p>Những chiếc &ocirc; kh&ocirc;ng <strong>chống</strong> nước kh&ocirc;ng bao giờ được th&ocirc;ng qua kiểm so&aacute;t chất lượng.</p>\n",
+        "transcriptHtml": "<p>Umbrellas that do not <strong>repel</strong> water should never be passed through quality control.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b284",
+        "questionNumber": 9,
+        "questionText": "take back",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev333.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/take back.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to return something; to withdraw or retract",
+            "raw": "to return something; to withdraw or retract",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Good quality control significantly limits the number of products <strong>taken back</strong> for a refund.</p>\n",
+        "explanationViHtml": "<p>Kiểm so&aacute;t chất lượng tốt hạn chế đ&aacute;ng kể số lượng sản phẩm bị <strong>trả lại</strong> để ho&agrave;n lại tiền.</p>\n",
+        "transcriptHtml": "<p>Good quality control significantly limits the number of products <strong>taken back</strong> for a refund.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b285",
+        "questionNumber": 10,
+        "questionText": "throw out",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev334.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/throw out.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to dispose of",
+            "raw": "to dispose of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>It is cheaper to <strong>throw out</strong> shoddy products than to lose customers.</p>\n",
+        "explanationViHtml": "<p><strong>Ti&ecirc;u hủy</strong> c&aacute;c sản phẩm k&eacute;m chất lượng rẻ hơn l&agrave; mất kh&aacute;ch h&agrave;ng.</p>\n",
+        "transcriptHtml": "<p>It is cheaper to <strong>throw out</strong> shoddy products than to lose customers.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b286",
+        "questionNumber": 11,
+        "questionText": "uniformly",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev335.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/uniformly.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "In the same way; consistently",
+            "raw": "In the same way; consistently",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The principles were applied <strong>uniformly</strong> across all the departments.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c nguy&ecirc;n tắc được &aacute;p dụng <strong>đồng nhất</strong> tr&ecirc;n tất cả c&aacute;c ph&ograve;ng ban.</p>\n",
+        "transcriptHtml": "<p>The principles were applied <strong>uniformly</strong> across all the departments.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b287",
+        "questionNumber": 12,
+        "questionText": "wrinkle",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev336.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/wrinkle.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "crease, ridge, or furrow, especially in skin or fabric",
+            "raw": "a crease, ridge, or furrow, especially in skin or fabric",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>There were fine <strong>wrinkles</strong> around her eyes.</p>\n",
+        "explanationViHtml": "<p>C&oacute; những <strong>nếp nhăn</strong> nhỏ quanh mắt c&ocirc; ấy.</p>\n",
+        "transcriptHtml": "<p>There were fine <strong>wrinkles</strong> around her eyes.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b27c",
+      "word": "brand",
+      "phonetic": "/brænd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev325.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/brand.mp3",
+      "meaningVi": "nhãn hiệu",
+      "meaningEn": "an identifying mark or label; a trademark",
+      "exampleEnHtml": "<p>Consumers often buy highly advertised <strong>brands</strong> of athletic shoes.</p>\n",
+      "exampleViHtml": "<p>Người ti&ecirc;u d&ugrave;ng thường mua c&aacute;c <strong>nh&atilde;n hiệu</strong> gi&agrave;y thể thao được quảng c&aacute;o nhiều</p>\n",
+      "exampleEn": "Consumers often buy highly advertised brands of athletic shoes.",
+      "exampleVi": "Người tiêu dùng thường mua các nhãn hiệu giày thể thao được quảng cáo nhiều"
+    },
+    {
+      "id": "61c14bee92d7f67f5140b27d",
+      "word": "conform",
+      "phonetic": "/kənˈfɔːrm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev326.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/conform.mp3",
+      "meaningVi": "tuân thủ",
+      "meaningEn": "to match specifications or qualities",
+      "exampleEnHtml": "<p>The quality control manager insisted that every product that left the plant <strong>conform</strong> to the company&rsquo;s rigorous standards.</p>\n",
+      "exampleViHtml": "<p>Người quản l&yacute; kiểm so&aacute;t chất lượng nhấn mạnh rằng mọi sản phẩm rời khỏi nh&agrave; m&aacute;y đều <strong>tu&acirc;n thủ</strong> c&aacute;c ti&ecirc;u chuẩn khắt khe của c&ocirc;ng ty.</p>\n",
+      "exampleEn": "The quality control manager insisted that every product that left the plant conform to the company’s rigorous standards.",
+      "exampleVi": "Người quản lý kiểm soát chất lượng nhấn mạnh rằng mọi sản phẩm rời khỏi nhà máy đều tuân thủ các tiêu chuẩn khắt khe của công ty."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b27e",
+      "word": "defect",
+      "phonetic": "/ˈdiːfekt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev327.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/defect.mp3",
+      "meaningVi": "khiếm khuyết",
+      "meaningEn": "an imperfection or flaw",
+      "exampleEnHtml": "<p>Because of a <strong>defect</strong> in stitching, the entire suit was thrown out.</p>\n",
+      "exampleViHtml": "<p>V&igrave; một <strong>khiếm khuyết</strong> trong kh&acirc;u, to&agrave;n bộ bộ đồ đ&atilde; bị vứt bỏ.</p>\n",
+      "exampleEn": "Because of a defect in stitching, the entire suit was thrown out.",
+      "exampleVi": "Vì một khiếm khuyết trong khâu, toàn bộ bộ đồ đã bị vứt bỏ."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b27f",
+      "word": "enhance",
+      "phonetic": "/ɪnˈhæns/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev328.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/enhance.mp3",
+      "meaningVi": "nâng cao",
+      "meaningEn": "to make more attractive or valuable",
+      "exampleEnHtml": "<p>The reason behind quality control is to <strong>enhance</strong> the company&rsquo;s reputation for superior products.</p>\n",
+      "exampleViHtml": "<p>L&yacute; do đằng sau kiểm so&aacute;t chất lượng l&agrave; để <strong>n&acirc;ng cao</strong> danh tiếng của c&ocirc;ng ty cho c&aacute;c sản phẩm cao cấp.</p>\n",
+      "exampleEn": "The reason behind quality control is to enhance the company’s reputation for superior products.",
+      "exampleVi": "Lý do đằng sau kiểm soát chất lượng là để nâng cao danh tiếng của công ty cho các sản phẩm cao cấp."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b280",
+      "word": "garment",
+      "phonetic": "/ˈɡɑːrmənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev329.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/garment.mp3",
+      "meaningVi": "hàng may mặc",
+      "meaningEn": "an article of clothing",
+      "exampleEnHtml": "<p>Every <strong>garment</strong> must be carefully inspected for defects before it is shipped.</p>\n",
+      "exampleViHtml": "<p>Mỗi <strong>h&agrave;ng may mặc</strong>&nbsp;phải được kiểm tra cẩn thận cho c&aacute;c khiếm khuyết trước khi n&oacute; được vận chuyển.</p>\n",
+      "exampleEn": "Every garment must be carefully inspected for defects before it is shipped.",
+      "exampleVi": "Mỗi hàng may mặc phải được kiểm tra cẩn thận cho các khiếm khuyết trước khi nó được vận chuyển."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b281",
+      "word": "inspect",
+      "phonetic": "/ɪnˈspekt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev330.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/inspect.mp3",
+      "meaningVi": "kiểm tra",
+      "meaningEn": "to look at closely; to examine carefully or officially",
+      "exampleEnHtml": "<p>A quality control agent who does not <strong>inspect</strong> every product carefully can ruin his company&#39;s reputation.</p>\n",
+      "exampleViHtml": "<p>Một đại l&yacute; kiểm so&aacute;t chất lượng kh&ocirc;ng <strong>kiểm tra</strong> cẩn thận mọi sản phẩm c&oacute; thể hủy hoại danh tiếng của c&ocirc;ng ty anh ta.</p>\n",
+      "exampleEn": "A quality control agent who does not inspect every product carefully can ruin his company's reputation.",
+      "exampleVi": "Một đại lý kiểm soát chất lượng không kiểm tra cẩn thận mọi sản phẩm có thể hủy hoại danh tiếng của công ty anh ta."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b282",
+      "word": "perceptive",
+      "phonetic": "/pərˈseptɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev331.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/perceptive.mp3",
+      "meaningVi": "tinh ý",
+      "meaningEn": "able to see or understand",
+      "exampleEnHtml": "<p>It was very <strong>perceptive</strong> of you to notice that.</p>\n",
+      "exampleViHtml": "<p>Bạn thật <strong>tinh &yacute; </strong>khi nhận ra điều đ&oacute;.</p>\n",
+      "exampleEn": "It was very perceptive of you to notice that.",
+      "exampleVi": "Bạn thật tinh ý khi nhận ra điều đó."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b283",
+      "word": "repel",
+      "phonetic": "/rɪˈpel/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev332.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/repel.mp3",
+      "meaningVi": "chống",
+      "meaningEn": "to keep away; to fight against",
+      "exampleEnHtml": "<p>Umbrellas that do not <strong>repel</strong> water should never be passed through quality control.</p>\n",
+      "exampleViHtml": "<p>Những chiếc &ocirc; kh&ocirc;ng <strong>chống</strong> nước kh&ocirc;ng bao giờ được th&ocirc;ng qua kiểm so&aacute;t chất lượng.</p>\n",
+      "exampleEn": "Umbrellas that do not repel water should never be passed through quality control.",
+      "exampleVi": "Những chiếc ô không chống nước không bao giờ được thông qua kiểm soát chất lượng."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b284",
+      "word": "take back",
+      "phonetic": "/teɪk.bæk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev333.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/take back.mp3",
+      "meaningVi": "trả lại",
+      "meaningEn": "to return something; to withdraw or retract",
+      "exampleEnHtml": "<p>Good quality control significantly limits the number of products <strong>taken back</strong> for a refund.</p>\n",
+      "exampleViHtml": "<p>Kiểm so&aacute;t chất lượng tốt hạn chế đ&aacute;ng kể số lượng sản phẩm bị <strong>trả lại</strong> để ho&agrave;n lại tiền.</p>\n",
+      "exampleEn": "Good quality control significantly limits the number of products taken back for a refund.",
+      "exampleVi": "Kiểm soát chất lượng tốt hạn chế đáng kể số lượng sản phẩm bị trả lại để hoàn lại tiền."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b285",
+      "word": "throw out",
+      "phonetic": "/θroʊ.aʊt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev334.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/throw out.mp3",
+      "meaningVi": "Tiêu hủy",
+      "meaningEn": "to dispose of",
+      "exampleEnHtml": "<p>It is cheaper to <strong>throw out</strong> shoddy products than to lose customers.</p>\n",
+      "exampleViHtml": "<p><strong>Ti&ecirc;u hủy</strong> c&aacute;c sản phẩm k&eacute;m chất lượng rẻ hơn l&agrave; mất kh&aacute;ch h&agrave;ng.</p>\n",
+      "exampleEn": "It is cheaper to throw out shoddy products than to lose customers.",
+      "exampleVi": "Tiêu hủy các sản phẩm kém chất lượng rẻ hơn là mất khách hàng."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b286",
+      "word": "uniformly",
+      "phonetic": "/ˈjuːnɪfɔːrmli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev335.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/uniformly.mp3",
+      "meaningVi": "đồng nhất",
+      "meaningEn": "In the same way; consistently",
+      "exampleEnHtml": "<p>The principles were applied <strong>uniformly</strong> across all the departments.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c nguy&ecirc;n tắc được &aacute;p dụng <strong>đồng nhất</strong> tr&ecirc;n tất cả c&aacute;c ph&ograve;ng ban.</p>\n",
+      "exampleEn": "The principles were applied uniformly across all the departments.",
+      "exampleVi": "Các nguyên tắc được áp dụng đồng nhất trên tất cả các phòng ban."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b287",
+      "word": "wrinkle",
+      "phonetic": "/ˈrɪŋkl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev336.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/wrinkle.mp3",
+      "meaningVi": "nếp nhăn",
+      "meaningEn": "a crease, ridge, or furrow, especially in skin or fabric",
+      "exampleEnHtml": "<p>There were fine <strong>wrinkles</strong> around her eyes.</p>\n",
+      "exampleViHtml": "<p>C&oacute; những <strong>nếp nhăn</strong> nhỏ quanh mắt c&ocirc; ấy.</p>\n",
+      "exampleEn": "There were fine wrinkles around her eyes.",
+      "exampleVi": "Có những nếp nhăn nhỏ quanh mắt cô ấy."
+    }
+  ],
+  "totalFlashcards": 12
+}

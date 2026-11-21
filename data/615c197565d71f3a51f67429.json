@@ -1,0 +1,644 @@
+{
+  "topicId": "615c197565d71f3a51f67429",
+  "title": "Part 6: Text Completion - Test 16",
+  "totalCards": 4,
+  "totalQuestions": 16,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "615d0d4f65d71f3a51f675fb",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<br>The next time you're in downtown Houston and would like a taste of Asia, visit Sensasia on the second floor of Cheviston Center. Sensasia offers authentic ---1--- from China, Japan, India, Thailand, Korea, and Vietnam.<br>---2---.From Monday to Friday, enjoy handmade sushi prepared with fresh seafood, delicious Korean bibimbap, and tasty Vietnamese pho. On weekends, Hong Kong style dim sum, consisting of various bite-size portions of food, ---3--- along with our regular menu items. And once a month, our chefs introduce something new for diners to try. ---4---, only Sensasia can give you such a wide variety of meals in one location.<br>For group reservations, please call 555-4272. To view our menu, please visit our Web site at www.sensasia.com.",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "615d0d4f65d71f3a51f675ff",
+          "questionNumber": 1,
+          "questionText": "Sensasia offers authentic ---1--- from China, Japan, India, Thailand, Korea, and Vietnam.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "dishes",
+              "raw": "(A) dishes",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "materials",
+              "raw": "(B) materials",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "components",
+              "raw": "(C) components",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "directions",
+              "raw": "(D) directions",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "<p>The previous sentence mentions \"a taste\" =&gt; Sensasia is a restaurant</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch: </strong>Nhà hàng Sensasia cung cấp ---1--- từ Trung Quốc, Nhật Bản, Ấn Độ, Thái Lan, Hàn Quốc và Việt Nam</p>\n<p>(A) dishes (n) món ăn</p>\n<p>(B) materials (n) vật liệu</p>\n<p>(C) components (n) thành phần</p>\n<p>(D) directions (n) chỉ dẫn</p>\n<p>Câu trước đó có đề cập đến <em>\"a taste\" (hương vị)</em></p>\n<p>=&gt; Sensasia là một nhà hàng</p>\n<p><strong>=&gt; Chọn đáp án A</strong></p>",
+          "transcriptHtml": "<p>The previous sentence mentions \"a taste\" =&gt; Sensasia is a restaurant</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f67600",
+          "questionNumber": 2,
+          "questionText": "---2---.From Monday to Friday, enjoy handmade sushi prepared with fresh seafood, delicious Korean bibimbap, and tasty Vietnamese pho.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Our chefs use exotic seasonings in all of our grilled food.",
+              "raw": "(A) Our chefs use exotic seasonings in all of our grilled food.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Some parts of our restaurant are now being refurbished.",
+              "raw": "(B) Some parts of our restaurant are now being refurbished.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "We serve a wide range of popular Asian cuisine every day.",
+              "raw": "(C) We serve a wide range of popular Asian cuisine every day.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Our food is delicious but limited to seafood selections.",
+              "raw": "(D) Our food is delicious but limited to seafood selections.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>Sensasia offers dishes from China, Japan, India, Thailand, Korea, and Vietnam which are Asian countries</p>\n\n<p><strong>=&gt; C is correct</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch:</strong> ---2---.Từ thứ Hai đến thứ Sáu, hãy thưởng thức sushi thủ công được chế biến từ hải sản tươi sống, bibimbap Hàn Quốc thơm ngon và phở Việt Nam thơm ngon.</p>\n<p>(A) Đầu bếp của chúng tôi sử dụng các loại gia vị lạ trong tất cả các món nướng của chúng tôi.</p>\n<p>(B) Một số bộ phận của nhà hàng chúng tôi hiện đang được tân trang lại.</p>\n<p>(C) Chúng tôi phục vụ nhiều món ăn châu Á phổ biến mỗi ngày.</p>\n<p>(D) Thức ăn của chúng tôi rất ngon nhưng chỉ có hải sản.</p>\n<p>Nhà hàng Sensasia cung cấp các món ăn Châu Á từ Trung Quốc, Nhật Bản, Ấn Độ, Thái Lan, Hàn Quốc và Việt Nam</p>\n<p><strong> =&gt; Chọn đáp án C</strong></p>",
+          "transcriptHtml": "<p>Sensasia offers dishes from China, Japan, India, Thailand, Korea, and Vietnam which are Asian countries</p>\n\n<p><strong>=&gt; C is correct</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f67601",
+          "questionNumber": 3,
+          "questionText": "On weekends, Hong Kong style dim sum, consisting of various bite-size portions of food, ---3--- along with our regular menu items.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "prepares",
+              "raw": "(A) prepares",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "prepared",
+              "raw": "(B) prepared",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "is prepared",
+              "raw": "(C) is prepared",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "preparing",
+              "raw": "(D) preparing",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>The subject is a dish =&gt; use passive form</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch: </strong>Vào cuối tuần, món dim sum phong cách Hồng Kông, bao gồm nhiều phần ăn vừa miệng, ---3--- cùng với các món trong thực đơn thông thường của chúng tôi.</p>\n<p>(A) chuẩn bị</p>\n<p>(B) đã chuẩn bị</p>\n<p>(C) được chuẩn bị</p>\n<p>(D) đang chuẩn bị</p>\n<p>Chủ ngữ ở đây là một món ăn =&gt; Sử dụng câu bị động</p>\n<p><strong>Câu bị động</strong> (thì Hiện tại đơn):&nbsp;<span style=\"font-family: helvetica, arial, sans-serif; font-size: 14px;\">S + is/am/are + V3/ed + (by + O).</span></p>\n<p><strong>=&gt; Chọn đáp án C</strong></p>",
+          "transcriptHtml": "<p>The subject is a dish =&gt; use passive form</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f67602",
+          "questionNumber": 4,
+          "questionText": "<p>And once a month, our chefs introduce something new for diners to try. ---4---, only Sensasia can give you such a wide variety of meals in one location.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Conversely",
+              "raw": "(A) Conversely",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "In short",
+              "raw": "(B) In short",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "To that end",
+              "raw": "(C) To that end",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Not to mention",
+              "raw": "(D) Not to mention",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>(A) Conversely:&nbsp;in a way that is the opposite of something</p>\n\n<p>(B) In short:&nbsp;briefly</p>\n\n<p>(C) To that end:&nbsp;in order to achieve this aim</p>\n\n<p>(D) Not to mention:&nbsp;used when you want to emphasize something that you are adding to a list</p>\n\n<p>Based on the meaning of conjunctions</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch:</strong> Và mỗi tháng một lần, các đầu bếp của chúng tôi sẽ giới thiệu món mới để thực khách thử. ---4---, chỉ Sensasia mới có thể cung cấp cho bạn nhiều bữa ăn đa dạng như vậy ở một địa điểm.</p>\n<p>(A) ngược lại</p>\n<p>(B) Tóm lại</p>\n<p>(C) Vì mục đích đó</p>\n<p>(D) Chưa kể</p>\n<p><strong>=&gt; Chọn đáp án B</strong></p>",
+          "transcriptHtml": "<p>(A) Conversely:&nbsp;in a way that is the opposite of something</p>\n\n<p>(B) In short:&nbsp;briefly</p>\n\n<p>(C) To that end:&nbsp;in order to achieve this aim</p>\n\n<p>(D) Not to mention:&nbsp;used when you want to emphasize something that you are adding to a list</p>\n\n<p>Based on the meaning of conjunctions</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "615d0d4f65d71f3a51f675fc",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<br>\nTo: Scott Douglas [sdouglas@evergladeprints.com]<br>\nFrom: Edward Kovac [edward.k@collinsconsulting,com]<br>\nSubject: Brochure alterations<br>\nDate: 8 May<br>\nDear Mr. Douglas,<br>\nPlease find attached a copy of the brochure you designed with our comments. Our team has reviewed the draft, and we are ---1--- with the quality of the pamphlet thus far. Despite this, we do require a few changes.<br>\nIn particular, there were minor layout and color errors and some important information was ---2--- as well. We left notes in the brochure regarding where the omitted details should go. ---3---. Please send us a revised draft when it is ready. We will, of course, be happy to ---4--- the extra cost.<br>\nBest wishes,<br>\nEdward",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "615d0d4f65d71f3a51f67603",
+          "questionNumber": 5,
+          "questionText": "Our team has reviewed the draft, and we are ---1--- with the quality of the pamphlet thus far.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "concerned",
+              "raw": "(A) concerned",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "satisfied",
+              "raw": "(B) satisfied",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "credited",
+              "raw": "(C) credited",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "troubled",
+              "raw": "(D) troubled",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>be satisfied with sth</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch:&nbsp;</strong>Nhóm của chúng tôi đã xem xét bản dự thảo và chúng tôi hài lòng với chất lượng của cuốn sách nhỏ cho đến nay.</p>\n<p><strong>Cấu trúc:</strong> Be satisfied with sth: Hài lòng với điều gì đó</p>\n<p><strong>=&gt; Chọn đáp án B</strong></p>",
+          "transcriptHtml": "<p>be satisfied with sth</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f67604",
+          "questionNumber": 6,
+          "questionText": "In particular, there were minor layout and color errors and some important information was ---2--- as well.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "allowed",
+              "raw": "(A) allowed",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "asserted",
+              "raw": "(B) asserted",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "moving",
+              "raw": "(C) moving",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "missing",
+              "raw": "(D) missing",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>(A) allowed:&nbsp;to let something happen or be done</p>\n\n<p>(B) asserted:&nbsp;to state clearly and definitely that something is true</p>\n\n<p>(C) moving:&nbsp;A moving object is one that moves</p>\n\n<p>(D) missing:&nbsp;that cannot be found or that is not in its usual place</p>\n\n<p>Based on the meaning of words</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch:</strong> Đặc biệt, có một số lỗi nhỏ về bố cục và màu sắc cũng như một số thông tin quan trọng bị ---2---.</p>\n<p>(A) cho phép</p>\n<p>(B) khẳng định, xác nhận</p>\n<p>(C) di chuyển</p>\n<p>(D) quên, bỏ lỡ</p>\n<p><strong>=&gt; Chọn đáp án D</strong></p>",
+          "transcriptHtml": "<p>(A) allowed:&nbsp;to let something happen or be done</p>\n\n<p>(B) asserted:&nbsp;to state clearly and definitely that something is true</p>\n\n<p>(C) moving:&nbsp;A moving object is one that moves</p>\n\n<p>(D) missing:&nbsp;that cannot be found or that is not in its usual place</p>\n\n<p>Based on the meaning of words</p>\n\n<p><strong>=&gt; Choose D</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f67605",
+          "questionNumber": 7,
+          "questionText": "We left notes in the brochure regarding where the omitted details should go. ---3---.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "We are not sure why these details",
+              "raw": "(A) We are not sure why these details",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "We need each correction to be reflected precisely.",
+              "raw": "(B) We need each correction to be reflected precisely.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "We would like you to change the entire layout.",
+              "raw": "(C) We would like you to change the entire layout.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "We ask that you send the invoice for the design we chose.",
+              "raw": "(D) We ask that you send the invoice for the design we chose.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>The following sentence mentions \"a revised draft\" <strong>=&gt; B is correct</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch: </strong>Chúng tôi đã để lại ghi chú trong tập tài liệu về những chi tiết bị bỏ qua sẽ đi đến đâu. ---3---.</p>\n<p>(A) Chúng tôi không chắc tại sao lại có những chi tiết này</p>\n<p>(B) Chúng tôi cần phản ánh chính xác từng sửa đổi.</p>\n<p>(C) Chúng tôi muốn bạn thay đổi toàn bộ bố cục.</p>\n<p>(D) Chúng tôi yêu cầu bạn gửi hóa đơn cho thiết kế mà chúng tôi đã chọn.</p>\n<p>Câu sau đề cập đến <em>\"bản dự thảo sửa đổi\"</em></p>\n<p><strong>=&gt; Chọn đáp án B</strong></p>",
+          "transcriptHtml": "<p>The following sentence mentions \"a revised draft\" <strong>=&gt; B is correct</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f67606",
+          "questionNumber": 8,
+          "questionText": "<p>We will, of course, be happy to ---4--- the extra cost.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "cover",
+              "raw": "(A) cover",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "covered",
+              "raw": "(B) covered",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "covering",
+              "raw": "(C) covering",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "covers",
+              "raw": "(D) covers",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "<p>be adjective + to infinitive</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch:&nbsp;</strong>Tất nhiên, chúng tôi sẽ sẵn lòng chi trả thêm chi phí.</p>\n<p><strong>Cấu trúc: </strong>be + tính từ + to V</p>\n<p><strong>=&gt; Chọn đáp án A</strong></p>",
+          "transcriptHtml": "<p>be adjective + to infinitive</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "615d0d4f65d71f3a51f675fd",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<br> June 21<br>Magnum Insurance<br>337 Deerborne Avenue<br>Banff, Alberta, T2N 4S5<br>Canada<br>Dear Mr. Clayburn,<br>This letter is to inform you that we have received your insurance claim for hail damage to your home, and we are ---1--- processing it. As you know, the powerful storm last week affected the entire city. As a result, an overwhelming number of homeowners ---2--- assistance. Nevertheless, we are working as speedily as we can to handle these applications.<br>An adjuster can inspect your property in a few days. ---3---. You can speed up the process by presenting documentary evidence ahead of time. Still, it may take some weeks to complete all the necessary forms and prepare a compensation ---4---. We hope you understand. The funds you'll need to carry out the necessary repairs will be transmitted to you as quickly as possible.<br>Thank you for your cooperation.<br>Judith Underwood<br>Claims coordinator",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "615d0d4f65d71f3a51f67607",
+          "questionNumber": 9,
+          "questionText": "This letter is to inform you that we have received your insurance claim for hail damage to your home, and we are ---1--- processing it.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "previously",
+              "raw": "(A) previously",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "currently",
+              "raw": "(B) currently",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "surprisingly",
+              "raw": "(C) surprisingly",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "typically",
+              "raw": "(D) typically",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>(A) previously:&nbsp;at a time before the time that you are talking about</p>\n\n<p>(B) currently:&nbsp;at the present time</p>\n\n<p>(C) surprisingly:&nbsp;in a way that causes surprise</p>\n\n<p>(D) typically:&nbsp;used to say that something usually happens in the way that you are stating</p>\n\n<p>Based on the meaning of adverbs</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch: </strong>Bức thư này nhằm thông báo cho bạn rằng chúng tôi đã nhận được yêu cầu bảo hiểm về thiệt hại do mưa đá gây ra cho ngôi nhà của bạn và chúng tôi ---1--- đang&nbsp;xử lý nó.</p>\n<p>(A) trước đó</p>\n<p>(B) hiện tại</p>\n<p>(C) một cách ngạc nhiên</p>\n<p>(D) tiêu biểu, đặc trưng</p>\n<p><strong>=&gt; Chọn đáp án B</strong></p>",
+          "transcriptHtml": "<p>(A) previously:&nbsp;at a time before the time that you are talking about</p>\n\n<p>(B) currently:&nbsp;at the present time</p>\n\n<p>(C) surprisingly:&nbsp;in a way that causes surprise</p>\n\n<p>(D) typically:&nbsp;used to say that something usually happens in the way that you are stating</p>\n\n<p>Based on the meaning of adverbs</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f67608",
+          "questionNumber": 10,
+          "questionText": "As a result, an overwhelming number of homeowners ---2--- assistance.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "requests",
+              "raw": "(A) requests",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "were requested",
+              "raw": "(B) were requested",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "have requested",
+              "raw": "(C) have requested",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "had requested",
+              "raw": "(D) had requested",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>The subject is \"homeowners\" <strong>=&gt; C is correct</strong></p>\n",
+          "explanationViHtml": "<p>Chủ ngữ là <em>\"homeowners\" (chủ nhà) </em></p>\n<p><strong>Tạm dịch:</strong> Kết quả là, rất nhiều chủ nhà đã yêu cầu hỗ trợ.</p>\n<p>=&gt; <strong>Chọn đáp án C</strong></p>",
+          "transcriptHtml": "<p>The subject is \"homeowners\" <strong>=&gt; C is correct</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f67609",
+          "questionNumber": 11,
+          "questionText": "An adjuster can inspect your property in a few days. ---3---.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "You will need to submit your insurance claim as soon as possible.",
+              "raw": "(A) You will need to submit your insurance claim as soon as possible.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "He has provided you with the assistance you require.",
+              "raw": "(B) He has provided you with the assistance you require.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Making this investment will raise your home’s market value.",
+              "raw": "(C) Making this investment will raise your home’s market value.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "If possible, start photographing the damaged areas of your home.",
+              "raw": "(D) If possible, start photographing the damaged areas of your home.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "<p>The notice is about the areas damaged by a storm =&gt; they are going to inspect the property</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch: </strong>Nhân viên điều chỉnh có thể kiểm tra tài sản của bạn trong vài ngày. ---3---.</p>\n<p>(A) Bạn cần gửi yêu cầu bồi thường bảo hiểm càng sớm càng tốt.</p>\n<p>(B) Anh ấy đã cung cấp sự trợ giúp mà bạn yêu cầu.</p>\n<p>(C) Việc thực hiện khoản đầu tư này sẽ nâng cao giá trị thị trường của ngôi nhà bạn.</p>\n<p>(D) Nếu có thể, hãy bắt đầu chụp ảnh những khu vực bị hư hại trong nhà bạn.</p>\n<p>Thông báo là về các khu vực bị phá huỷ bởi cơn bão =&gt; Họ sẽ đi kiểm tra tài sản</p>\n<p><strong>=&gt; Chọn đáp án B</strong></p>",
+          "transcriptHtml": "<p>The notice is about the areas damaged by a storm =&gt; they are going to inspect the property</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f6760a",
+          "questionNumber": 12,
+          "questionText": "<p>Still, it may take some weeks to complete all the necessary forms and prepare a compensation ---4---.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "score",
+              "raw": "(A) score",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "estimate",
+              "raw": "(B) estimate",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "history",
+              "raw": "(C) history",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "receipt",
+              "raw": "(D) receipt",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>(A) score:&nbsp;the number of points, goals, etc. scored by each player or team in a game or competition</p>\n\n<p>(B) estimate:&nbsp;a judgement that you make without having the exact details or figures about the size, amount, cost, etc. of something</p>\n\n<p>(C) history:&nbsp;all the events that happened in the past</p>\n\n<p>(D) receipt:&nbsp;a piece of paper or an electronic document that shows that goods or services have been paid for</p>\n\n<p>Based on the meaning of words</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch:</strong> Tuy nhiên, có thể mất vài tuần để hoàn thành tất cả các biểu mẫu cần thiết và chuẩn bị khoản bồi thường ---4---.</p>\n<p>(A) điểm</p>\n<p>(B) ước tính</p>\n<p>(C) lịch sử</p>\n<p>(D) hoá đơn</p>\n<p>Dựa vào nghĩa của các từ =&gt; <strong>Chọn đáp án B</strong></p>",
+          "transcriptHtml": "<p>(A) score:&nbsp;the number of points, goals, etc. scored by each player or team in a game or competition</p>\n\n<p>(B) estimate:&nbsp;a judgement that you make without having the exact details or figures about the size, amount, cost, etc. of something</p>\n\n<p>(C) history:&nbsp;all the events that happened in the past</p>\n\n<p>(D) receipt:&nbsp;a piece of paper or an electronic document that shows that goods or services have been paid for</p>\n\n<p>Based on the meaning of words</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "615d0d4f65d71f3a51f675fe",
+      "audioUrl": "",
+      "imageUrl": "",
+      "passageHtml": "<br> To: All staff<br>From: Susan Ward<br>Subject: Employee handbook<br>Date: April 15<br>Thank you to everyone who participated in the discussions with company management. Your comments about some employees being unaware of the procedures for day-to-day operations have been heard. We are now working to ---1--- the situation.<br>For starters, we will be publishing the company's standard operating procedures as soon as possible. A printed guide will give management and staff an official reference on the performance of daily tasks. ---2---. Flopefully, it will help move us closer to our goal of having firmly ---3--- policies.<br>If any revisions are required, these will be incorporated into a later version of the manual. The final version will also be ---4--- through the company's internal network. If you have any questions, please direct them to your departmental supervisors.",
+      "transcriptHtml": "",
+      "transcriptViHtml": "",
+      "questions": [
+        {
+          "id": "615d0d4f65d71f3a51f6760b",
+          "questionNumber": 13,
+          "questionText": "We are now working to ---1--- the situation.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "maintain",
+              "raw": "(A) maintain",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "inspect",
+              "raw": "(B) inspect",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "address",
+              "raw": "(C) address",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "ignore",
+              "raw": "(D) ignore",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "<p>(A) maintain:&nbsp;to make something continue at the same level, standard, etc.</p>\n\n<p>(B) inspect:&nbsp;to look closely at something/somebody, especially to check that everything is as it should be</p>\n\n<p>(C) address:&nbsp;to think about a problem or a situation and decide how you are going to deal with it</p>\n\n<p>(D) ignore:&nbsp;to pay no attention to something</p>\n\n<p>Based on the meaning of verbs.</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch:</strong> Chúng tôi hiện đang làm việc để ---1--- tình hình.</p>\n<p>(A) duy trì</p>\n<p>(B) kiểm tra</p>\n<p>(C) giải quyết</p>\n<p>(D) làm ngơ</p>\n<p>Dựa vào nghĩa của các từ<strong> =&gt; Chọn đáp án C</strong></p>",
+          "transcriptHtml": "<p>(A) maintain:&nbsp;to make something continue at the same level, standard, etc.</p>\n\n<p>(B) inspect:&nbsp;to look closely at something/somebody, especially to check that everything is as it should be</p>\n\n<p>(C) address:&nbsp;to think about a problem or a situation and decide how you are going to deal with it</p>\n\n<p>(D) ignore:&nbsp;to pay no attention to something</p>\n\n<p>Based on the meaning of verbs.</p>\n\n<p><strong>=&gt; Choose C</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f6760c",
+          "questionNumber": 14,
+          "questionText": "A printed guide will give management and staff an official reference on the performance of daily tasks. ---2---.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A provisional copy of this handbook will be distributed at the next meeting.",
+              "raw": "(A) A provisional copy of this handbook will be distributed at the next meeting.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Your comments on the revised manual  were very much appreciated.",
+              "raw": "(B) Your comments on the revised manual  were very much appreciated.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A copy of the article may be found in last month's company newsletter.",
+              "raw": "(C) A copy of the article may be found in last month's company newsletter.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "We are glad that everyone is now up-to-date on our meeting schedule.",
+              "raw": "(D) We are glad that everyone is now up-to-date on our meeting schedule.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "<p>The previous sentence mentions a printed guide</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch:</strong> Bản hướng dẫn sẽ cung cấp cho ban quản lý và nhân viên tài liệu tham khảo chính thức về việc thực hiện các công việc hàng ngày. ---2---.</p>\n<p>(A) Một bản sao tạm thời của cuốn sổ tay này sẽ được phân phát tại cuộc họp tiếp theo.</p>\n<p>(B) Những nhận xét của bạn về hướng dẫn sửa đổi được đánh giá rất cao.</p>\n<p>(C) Một bản sao của bài báo có thể được tìm thấy ở bản tin tháng trước của công ty.</p>\n<p>(D) Chúng tôi rất vui vì mọi người hiện đã cập nhật được lịch họp của chúng tôi.</p>\n<p>Câu trước đề cập đến một bản hướng dẫn</p>\n<p><strong>=&gt; Chọn đáp án A</strong></p>",
+          "transcriptHtml": "<p>The previous sentence mentions a printed guide</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f6760d",
+          "questionNumber": 15,
+          "questionText": "Hopefully, it will help move us closer to our goal of having firmly ---3--- policies.",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "establish",
+              "raw": "(A) establish",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "established",
+              "raw": "(B) established",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "establishing",
+              "raw": "(C) establishing",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "establishment",
+              "raw": "(D) establishment",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>We need an adjective to modify the noun \"policies\"</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch: </strong>Hy vọng rằng nó sẽ giúp chúng ta tiến gần hơn đến mục tiêu có những chính sách được thiết lập vững chắc.</p>\n<p>Vị trí cần điền cần một tính từ để bổ sung nghĩa cho danh từ<em> \"policies\" (Chính sách)</em></p>\n<p><strong>=&gt; Chọn đáp án B</strong></p>",
+          "transcriptHtml": "<p>We need an adjective to modify the noun \"policies\"</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        },
+        {
+          "id": "615d0d4f65d71f3a51f6760e",
+          "questionNumber": 16,
+          "questionText": "<p>The final version will also be ---4--- through the company's internal network.</p>",
+          "imageUrl": "",
+          "audioUrl": "",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "access",
+              "raw": "(A) access",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "accessible",
+              "raw": "(B) accessible",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "accesses",
+              "raw": "(C) accesses",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "accessing",
+              "raw": "(D) accessing",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "<p>be + adjective</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n",
+          "explanationViHtml": "<p><strong>Tạm dịch: </strong>Phiên bản cuối cùng cũng sẽ có thể truy cập được thông qua mạng nội bộ của công ty.</p>\n<p>Sau tobe, ta cần một tính từ <strong>=&gt; Chọn đáp án B</strong></p>",
+          "transcriptHtml": "<p>be + adjective</p>\n\n<p><strong>=&gt; Choose B</strong></p>\n"
+        }
+      ]
+    }
+  ]
+}

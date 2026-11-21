@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b144",
+  "title": "Từ vựng: Taxes",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a0",
+        "questionNumber": 1,
+        "questionText": "Calculation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev277.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/calculation.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "omputation; estimate",
+            "raw": "Computation; estimate",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>By my <strong>calculation(s)</strong>, we made a profit of &pound;20&thinsp;000 last year.</p>\n",
+        "explanationViHtml": "<p>Theo <strong>t&iacute;nh to&aacute;n</strong> của t&ocirc;i, năm ngo&aacute;i ch&uacute;ng t&ocirc;i đ&atilde; thu được lợi nhuận l&agrave; 20.000 bảng Anh.</p>\n",
+        "transcriptHtml": "<p>By my <strong>calculation(s)</strong>, we made a profit of &pound;20&thinsp;000 last year.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a1",
+        "questionNumber": 2,
+        "questionText": "Deadline",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev278.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/deadline.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "time by which something must be finished",
+            "raw": "A time by which something must be finished",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>deadline</strong> was too tight and they couldn&rsquo;t finish the project.</p>\n",
+        "explanationViHtml": "<p><strong>Thời hạn ch&oacute;t</strong> qu&aacute; gấp n&ecirc;n họ kh&ocirc;ng thể ho&agrave;n th&agrave;nh dự &aacute;n.</p>\n",
+        "transcriptHtml": "<p>The <strong>deadline</strong> was too tight and they couldn&rsquo;t finish the project.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a2",
+        "questionNumber": 3,
+        "questionText": "File",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev279.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/file.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To enter into public record",
+            "raw": "To enter into public record",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>If you <strong>file</strong> your taxes late, you will have to pay a fine.</p>\n",
+        "explanationViHtml": "<p>Nếu bạn <strong>nộp</strong> thuế trễ, bạn sẽ phải nộp phạt.</p>\n",
+        "transcriptHtml": "<p>If you <strong>file</strong> your taxes late, you will have to pay a fine.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a3",
+        "questionNumber": 4,
+        "questionText": "Fill out",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev280.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fill out.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To complete",
+            "raw": "To complete",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p><strong>Fill out</strong> the form and turn it in at the front desk.</p>\n",
+        "explanationViHtml": "<p><strong>Điền v&agrave;o</strong> mẫu đơn v&agrave; nộp tại quầy lễ t&acirc;n.</p>\n",
+        "transcriptHtml": "<p><strong>Fill out</strong> the form and turn it in at the front desk.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a4",
+        "questionNumber": 5,
+        "questionText": "Give up",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev281.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/give up.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To quit; to stop",
+            "raw": "To quit; to stop",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I <strong>gave up</strong> smoking last year.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i <strong>đ&atilde; bỏ</strong> thuốc l&aacute; v&agrave;o năm ngo&aacute;i.</p>\n",
+        "transcriptHtml": "<p>I <strong>gave up</strong> smoking last year.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a5",
+        "questionNumber": 6,
+        "questionText": "Joint",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev282.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/joint.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Together; shared",
+            "raw": "Together; shared",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We opened a <strong>joint</strong> bank account five years ago.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; mở một t&agrave;i khoản ng&acirc;n h&agrave;ng <strong>chung</strong> c&aacute;ch đ&acirc;y năm năm.</p>\n",
+        "transcriptHtml": "<p>We opened a <strong>joint</strong> bank account five years ago.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a6",
+        "questionNumber": 7,
+        "questionText": "Owe",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev283.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/owe.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To have a debt; to be obligated to pay",
+            "raw": "To have a debt; to be obligated to pay",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I&rsquo;m sorry, I <strong>owe</strong> you an explanation.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i xin lỗi, t&ocirc;i <strong>nợ</strong> bạn một lời giải th&iacute;ch.</p>\n",
+        "transcriptHtml": "<p>I&rsquo;m sorry, I <strong>owe</strong> you an explanation.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a7",
+        "questionNumber": 8,
+        "questionText": "Penalty",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev284.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/penalty.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "punishment; a consequence",
+            "raw": "A punishment; a consequence",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Anyone who pays less than they should in taxes will face a <strong>penalty</strong>.</p>\n",
+        "explanationViHtml": "<p>Bất kỳ ai nộp &iacute;t hơn số tiền thuế phải nộp sẽ phải chịu <strong>phạt</strong>.</p>\n",
+        "transcriptHtml": "<p>Anyone who pays less than they should in taxes will face a <strong>penalty</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a8",
+        "questionNumber": 9,
+        "questionText": "Preparation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev285.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/preparation.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The act of making something ready",
+            "raw": "The act of making something ready",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The third book in the series is currently&nbsp;in <strong>preparation</strong>.</p>\n",
+        "explanationViHtml": "<p>Cuốn s&aacute;ch thứ ba trong bộ truyện hiện đang trong <strong>qu&aacute; tr&igrave;nh chuẩn bị</strong>.</p>\n",
+        "transcriptHtml": "<p>The third book in the series is currently&nbsp;in <strong>preparation</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2a9",
+        "questionNumber": 10,
+        "questionText": "Refund",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev286.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/refund.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The amount paid back; to give back",
+            "raw": "The amount paid back; to give back",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>With the tax <strong>refund</strong>, we bought two plane tickets.</p>\n",
+        "explanationViHtml": "<p>Với <strong>số tiền ho&agrave;n</strong> thuế, ch&uacute;ng t&ocirc;i đ&atilde; mua được hai v&eacute; m&aacute;y bay.</p>\n",
+        "transcriptHtml": "<p>With the tax <strong>refund</strong>, we bought two plane tickets.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2aa",
+        "questionNumber": 11,
+        "questionText": "Spouse",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev287.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/spouse.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "husband or wife",
+            "raw": "A husband or wife",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>You may invite your <strong>spouse</strong> to the company party.</p>\n",
+        "explanationViHtml": "<p>Bạn c&oacute; thể mời <strong>vợ/chồng</strong> m&igrave;nh đến dự tiệc c&ocirc;ng ty.</p>\n",
+        "transcriptHtml": "<p>You may invite your <strong>spouse</strong> to the company party.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2ab",
+        "questionNumber": 12,
+        "questionText": "Withhold",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev288.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/withhold.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "To keep from; to refrain from",
+            "raw": "To keep from; to refrain from",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My employer <strong>withholds</strong> money from each paycheck to apply toward my income taxes.</p>\n",
+        "explanationViHtml": "<p>Chủ lao động của t&ocirc;i <strong>khấu trừ</strong> tiền từ mỗi tấm s&eacute;c trả lương để đ&oacute;ng thuế thu nhập cho t&ocirc;i.</p>\n",
+        "transcriptHtml": "<p>My employer <strong>withholds</strong> money from each paycheck to apply toward my income taxes.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b2a0",
+      "word": "Calculation",
+      "phonetic": "/ˌkælkjuˈleɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev277.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/calculation.mp3",
+      "meaningVi": "tính toán",
+      "meaningEn": "Computation; estimate",
+      "exampleEnHtml": "<p>By my <strong>calculation(s)</strong>, we made a profit of &pound;20&thinsp;000 last year.</p>\n",
+      "exampleViHtml": "<p>Theo <strong>t&iacute;nh to&aacute;n</strong> của t&ocirc;i, năm ngo&aacute;i ch&uacute;ng t&ocirc;i đ&atilde; thu được lợi nhuận l&agrave; 20.000 bảng Anh.</p>\n",
+      "exampleEn": "By my calculation(s), we made a profit of £20 000 last year.",
+      "exampleVi": "Theo tính toán của tôi, năm ngoái chúng tôi đã thu được lợi nhuận là 20.000 bảng Anh."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a1",
+      "word": "Deadline",
+      "phonetic": "/ˈdedlaɪn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev278.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/deadline.mp3",
+      "meaningVi": "Thời hạn chót",
+      "meaningEn": "A time by which something must be finished",
+      "exampleEnHtml": "<p>The <strong>deadline</strong> was too tight and they couldn&rsquo;t finish the project.</p>\n",
+      "exampleViHtml": "<p><strong>Thời hạn ch&oacute;t</strong> qu&aacute; gấp n&ecirc;n họ kh&ocirc;ng thể ho&agrave;n th&agrave;nh dự &aacute;n.</p>\n",
+      "exampleEn": "The deadline was too tight and they couldn’t finish the project.",
+      "exampleVi": "Thời hạn chót quá gấp nên họ không thể hoàn thành dự án."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a2",
+      "word": "File",
+      "phonetic": "/faɪl/ (v)",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev279.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/file.mp3",
+      "meaningVi": "nộp",
+      "meaningEn": "To enter into public record",
+      "exampleEnHtml": "<p>If you <strong>file</strong> your taxes late, you will have to pay a fine.</p>\n",
+      "exampleViHtml": "<p>Nếu bạn <strong>nộp</strong> thuế trễ, bạn sẽ phải nộp phạt.</p>\n",
+      "exampleEn": "If you file your taxes late, you will have to pay a fine.",
+      "exampleVi": "Nếu bạn nộp thuế trễ, bạn sẽ phải nộp phạt."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a3",
+      "word": "Fill out",
+      "phonetic": "/fɪl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev280.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fill out.mp3",
+      "meaningVi": "Điền vào",
+      "meaningEn": "To complete",
+      "exampleEnHtml": "<p><strong>Fill out</strong> the form and turn it in at the front desk.</p>\n",
+      "exampleViHtml": "<p><strong>Điền v&agrave;o</strong> mẫu đơn v&agrave; nộp tại quầy lễ t&acirc;n.</p>\n",
+      "exampleEn": "Fill out the form and turn it in at the front desk.",
+      "exampleVi": "Điền vào mẫu đơn và nộp tại quầy lễ tân."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a4",
+      "word": "Give up",
+      "phonetic": "/ɡɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev281.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/give up.mp3",
+      "meaningVi": "đã bỏ",
+      "meaningEn": "To quit; to stop",
+      "exampleEnHtml": "<p>I <strong>gave up</strong> smoking last year.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i <strong>đ&atilde; bỏ</strong> thuốc l&aacute; v&agrave;o năm ngo&aacute;i.</p>\n",
+      "exampleEn": "I gave up smoking last year.",
+      "exampleVi": "Tôi đã bỏ thuốc lá vào năm ngoái."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a5",
+      "word": "Joint",
+      "phonetic": "/dʒɔɪnt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev282.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/joint.mp3",
+      "meaningVi": "chung",
+      "meaningEn": "Together; shared",
+      "exampleEnHtml": "<p>We opened a <strong>joint</strong> bank account five years ago.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; mở một t&agrave;i khoản ng&acirc;n h&agrave;ng <strong>chung</strong> c&aacute;ch đ&acirc;y năm năm.</p>\n",
+      "exampleEn": "We opened a joint bank account five years ago.",
+      "exampleVi": "Chúng tôi đã mở một tài khoản ngân hàng chung cách đây năm năm."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a6",
+      "word": "Owe",
+      "phonetic": "/oʊ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev283.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/owe.mp3",
+      "meaningVi": "nợ",
+      "meaningEn": "To have a debt; to be obligated to pay",
+      "exampleEnHtml": "<p>I&rsquo;m sorry, I <strong>owe</strong> you an explanation.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i xin lỗi, t&ocirc;i <strong>nợ</strong> bạn một lời giải th&iacute;ch.</p>\n",
+      "exampleEn": "I’m sorry, I owe you an explanation.",
+      "exampleVi": "Tôi xin lỗi, tôi nợ bạn một lời giải thích."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a7",
+      "word": "Penalty",
+      "phonetic": "/ˈpenəlti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev284.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/penalty.mp3",
+      "meaningVi": "phạt",
+      "meaningEn": "A punishment; a consequence",
+      "exampleEnHtml": "<p>Anyone who pays less than they should in taxes will face a <strong>penalty</strong>.</p>\n",
+      "exampleViHtml": "<p>Bất kỳ ai nộp &iacute;t hơn số tiền thuế phải nộp sẽ phải chịu <strong>phạt</strong>.</p>\n",
+      "exampleEn": "Anyone who pays less than they should in taxes will face a penalty.",
+      "exampleVi": "Bất kỳ ai nộp ít hơn số tiền thuế phải nộp sẽ phải chịu phạt."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a8",
+      "word": "Preparation",
+      "phonetic": "/ˌprepəˈreɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev285.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/preparation.mp3",
+      "meaningVi": "quá trình chuẩn bị",
+      "meaningEn": "The act of making something ready",
+      "exampleEnHtml": "<p>The third book in the series is currently&nbsp;in <strong>preparation</strong>.</p>\n",
+      "exampleViHtml": "<p>Cuốn s&aacute;ch thứ ba trong bộ truyện hiện đang trong <strong>qu&aacute; tr&igrave;nh chuẩn bị</strong>.</p>\n",
+      "exampleEn": "The third book in the series is currently in preparation.",
+      "exampleVi": "Cuốn sách thứ ba trong bộ truyện hiện đang trong quá trình chuẩn bị."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2a9",
+      "word": "Refund",
+      "phonetic": "/ˈriːfʌnd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev286.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/refund.mp3",
+      "meaningVi": "số tiền hoàn",
+      "meaningEn": "The amount paid back; to give back",
+      "exampleEnHtml": "<p>With the tax <strong>refund</strong>, we bought two plane tickets.</p>\n",
+      "exampleViHtml": "<p>Với <strong>số tiền ho&agrave;n</strong> thuế, ch&uacute;ng t&ocirc;i đ&atilde; mua được hai v&eacute; m&aacute;y bay.</p>\n",
+      "exampleEn": "With the tax refund, we bought two plane tickets.",
+      "exampleVi": "Với số tiền hoàn thuế, chúng tôi đã mua được hai vé máy bay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2aa",
+      "word": "Spouse",
+      "phonetic": "/spaʊs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev287.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/spouse.mp3",
+      "meaningVi": "vợ/chồng",
+      "meaningEn": "A husband or wife",
+      "exampleEnHtml": "<p>You may invite your <strong>spouse</strong> to the company party.</p>\n",
+      "exampleViHtml": "<p>Bạn c&oacute; thể mời <strong>vợ/chồng</strong> m&igrave;nh đến dự tiệc c&ocirc;ng ty.</p>\n",
+      "exampleEn": "You may invite your spouse to the company party.",
+      "exampleVi": "Bạn có thể mời vợ/chồng mình đến dự tiệc công ty."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2ab",
+      "word": "Withhold",
+      "phonetic": "/wɪðˈhoʊld/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev288.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/withhold.mp3",
+      "meaningVi": "khấu trừ",
+      "meaningEn": "To keep from; to refrain from",
+      "exampleEnHtml": "<p>My employer <strong>withholds</strong> money from each paycheck to apply toward my income taxes.</p>\n",
+      "exampleViHtml": "<p>Chủ lao động của t&ocirc;i <strong>khấu trừ</strong> tiền từ mỗi tấm s&eacute;c trả lương để đ&oacute;ng thuế thu nhập cho t&ocirc;i.</p>\n",
+      "exampleEn": "My employer withholds money from each paycheck to apply toward my income taxes.",
+      "exampleVi": "Chủ lao động của tôi khấu trừ tiền từ mỗi tấm séc trả lương để đóng thuế thu nhập cho tôi."
+    }
+  ],
+  "totalFlashcards": 12
+}

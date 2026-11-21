@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b156",
+  "title": "Từ vựng: Museums",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b318",
+        "questionNumber": 1,
+        "questionText": "acquire",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev517.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/acquire.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to gain possession of; to get by one's own efforts",
+            "raw": "to gain possession of; to get by one's own efforts",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The museum <strong>acquired</strong> a Van Gogh during heavy bidding.</p>\n",
+        "explanationViHtml": "<p>Bảo t&agrave;ng đ&atilde; <strong>mua được</strong> một bức tranh của Van Gogh th&ocirc;ng qua một cuộc đấu gi&aacute; lớn.</p>\n",
+        "transcriptHtml": "<p>The museum <strong>acquired</strong> a Van Gogh during heavy bidding.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b319",
+        "questionNumber": 2,
+        "questionText": "admire",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev518.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/admire.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to regard with pleasure; to have esteem or respect for",
+            "raw": "to regard with pleasure; to have esteem or respect for",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>She <strong>admires</strong> her grandmother for her strength and resilience throughout life&#39;s challenges.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; ấy <strong>ngưỡng mộ</strong> b&agrave; m&igrave;nh v&igrave; sự mạnh mẽ v&agrave; ki&ecirc;n cường trước những thử th&aacute;ch trong cuộc sống.</p>\n",
+        "transcriptHtml": "<p>She <strong>admires</strong> her grandmother for her strength and resilience throughout life&#39;s challenges.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b31a",
+        "questionNumber": 3,
+        "questionText": "collection",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev519.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/collection.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "group of objects or works to be seen, studied. or kept together",
+            "raw": "a group of objects or works to be seen, studied. or kept together",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The museum&rsquo;s <strong>collection</strong> contained many works donated by famous collectors.</p>\n",
+        "explanationViHtml": "<p><strong>Bộ sưu tập</strong> của bảo t&agrave;ng bao gồm nhiều t&aacute;c phẩm được quy&ecirc;n tặng bởi những nh&agrave; sưu tập nổi tiếng.</p>\n",
+        "transcriptHtml": "<p>The museum&rsquo;s <strong>collection</strong> contained many works donated by famous collectors.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b31b",
+        "questionNumber": 4,
+        "questionText": "criticism",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev520.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/criticism.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n evaluation, especially of literary or other artistic works",
+            "raw": "an evaluation, especially of literary or other artistic works",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>According to the <strong>criticism</strong> of the Victorian era, the painting was a masterpiece; now it is considered merely a minor work.</p>\n",
+        "explanationViHtml": "<p>Theo <strong>lời ph&ecirc; b&igrave;nh</strong> từ thời kỳ Victoria, bức tranh l&agrave; một kiệt t&aacute;c; nhưng giờ đ&acirc;y n&oacute; chỉ được coi l&agrave; một t&aacute;c phẩm nhỏ.</p>\n",
+        "transcriptHtml": "<p>According to the <strong>criticism</strong> of the Victorian era, the painting was a masterpiece; now it is considered merely a minor work.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b31c",
+        "questionNumber": 5,
+        "questionText": "express",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev521.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/express.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to give an opinion or depict emotion",
+            "raw": "to give an opinion or depict emotion",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The sculptor was able to <strong>express</strong> his feelings better through the use of clay than words.</p>\n",
+        "explanationViHtml": "<p>Nh&agrave; đi&ecirc;u khắc c&oacute; thể <strong>diễn đạt</strong>&nbsp;cảm x&uacute;c của m&igrave;nh tốt hơn qua việc sử dụng đất s&eacute;t hơn l&agrave; bằng lời n&oacute;i.</p>\n",
+        "transcriptHtml": "<p>The sculptor was able to <strong>express</strong> his feelings better through the use of clay than words.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b31d",
+        "questionNumber": 6,
+        "questionText": "fashion",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev522.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fashion.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the prevailing style or custom",
+            "raw": "the prevailing style or custom",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>According to the <strong>fashion</strong> of the day, the languid pose of the sculpture was high art.</p>\n",
+        "explanationViHtml": "<p>Theo xu hướng <strong>thời trang</strong> thời đ&oacute;, tư thế uể oải của bức tượng được coi l&agrave; nghệ thuật đỉnh cao.</p>\n",
+        "transcriptHtml": "<p>According to the <strong>fashion</strong> of the day, the languid pose of the sculpture was high art.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b31e",
+        "questionNumber": 7,
+        "questionText": "leisure",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev523.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/leisure.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "freedom from time-consuming duties; free time",
+            "raw": "freedom from time-consuming duties; free time",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The woman took up painting in her retirement, when she had more <strong>leisure</strong> time.</p>\n",
+        "explanationViHtml": "<p>Người phụ nữ bắt đầu vẽ tranh khi về hưu, khi b&agrave; c&oacute; nhiều <strong>thời gian rảnh rỗi</strong> hơn.</p>\n",
+        "transcriptHtml": "<p>The woman took up painting in her retirement, when she had more <strong>leisure</strong> time.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b31f",
+        "questionNumber": 8,
+        "questionText": "respond",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev524.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/respond.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to make a reply; to react",
+            "raw": "to make a reply; to react",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>You should <strong>respond</strong> to the invitation to attend the museum gala.</p>\n",
+        "explanationViHtml": "<p>Bạn n&ecirc;n <strong>phản hồi</strong> lời mời tham dự lễ hội của bảo t&agrave;ng.</p>\n",
+        "transcriptHtml": "<p>You should <strong>respond</strong> to the invitation to attend the museum gala.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b320",
+        "questionNumber": 9,
+        "questionText": "schedule",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev525.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/schedule.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "list of times of events; to enter on a schedule",
+            "raw": "a list of times of events; to enter on a schedule",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The museum offers a <strong>schedule</strong> of guided tours.</p>\n",
+        "explanationViHtml": "<p>Bảo t&agrave;ng cung cấp <strong>lịch tr&igrave;nh</strong> tham quan c&oacute; hướng dẫn vi&ecirc;n.</p>\n",
+        "transcriptHtml": "<p>The museum offers a <strong>schedule</strong> of guided tours.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b321",
+        "questionNumber": 10,
+        "questionText": "significant",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev526.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/significant.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "meaningful; having a major effect; important",
+            "raw": "meaningful; having a major effect; important",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The use of lambs to symbolize innocence is <strong>significant </strong>in Western art.</p>\n",
+        "explanationViHtml": "<p>Việc sử dụng cừu để tượng trưng cho sự ng&acirc;y thơ <strong>c&oacute; &yacute; nghĩa quan trọng</strong> trong nghệ thuật phương T&acirc;y.</p>\n",
+        "transcriptHtml": "<p>The use of lambs to symbolize innocence is <strong>significant </strong>in Western art.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b322",
+        "questionNumber": 11,
+        "questionText": "specialize",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev527.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/specialize.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to concentrate on a particular activity",
+            "raw": "to concentrate on a particular activity",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The art historian <strong>specialized</strong> in Navajo rugs.</p>\n",
+        "explanationViHtml": "<p>Nh&agrave; sử học nghệ thuật <strong>chuy&ecirc;n nghi&ecirc;n cứu</strong> về thảm Navajo.</p>\n",
+        "transcriptHtml": "<p>The art historian <strong>specialized</strong> in Navajo rugs.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b323",
+        "questionNumber": 12,
+        "questionText": "spectrum",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev528.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/spectrum.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "range of related qualities, ideas, or activities",
+            "raw": "a range of related qualities, ideas, or activities",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Red and violet are at opposite ends of the <strong>spectrum</strong>.</p>\n",
+        "explanationViHtml": "<p>M&agrave;u đỏ v&agrave; t&iacute;m được <strong>ph&acirc;n bổ</strong> ở hai đầu của quang phổ.</p>\n",
+        "transcriptHtml": "<p>Red and violet are at opposite ends of the <strong>spectrum</strong>.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b318",
+      "word": "acquire",
+      "phonetic": "/əˈkwaɪər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev517.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/acquire.mp3",
+      "meaningVi": "mua được",
+      "meaningEn": "to gain possession of; to get by one's own efforts",
+      "exampleEnHtml": "<p>The museum <strong>acquired</strong> a Van Gogh during heavy bidding.</p>\n",
+      "exampleViHtml": "<p>Bảo t&agrave;ng đ&atilde; <strong>mua được</strong> một bức tranh của Van Gogh th&ocirc;ng qua một cuộc đấu gi&aacute; lớn.</p>\n",
+      "exampleEn": "The museum acquired a Van Gogh during heavy bidding.",
+      "exampleVi": "Bảo tàng đã mua được một bức tranh của Van Gogh thông qua một cuộc đấu giá lớn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b319",
+      "word": "admire",
+      "phonetic": "/ədˈmaɪər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev518.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/admire.mp3",
+      "meaningVi": "ngưỡng mộ",
+      "meaningEn": "to regard with pleasure; to have esteem or respect for",
+      "exampleEnHtml": "<p>She <strong>admires</strong> her grandmother for her strength and resilience throughout life&#39;s challenges.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; ấy <strong>ngưỡng mộ</strong> b&agrave; m&igrave;nh v&igrave; sự mạnh mẽ v&agrave; ki&ecirc;n cường trước những thử th&aacute;ch trong cuộc sống.</p>\n",
+      "exampleEn": "She admires her grandmother for her strength and resilience throughout life's challenges.",
+      "exampleVi": "Cô ấy ngưỡng mộ bà mình vì sự mạnh mẽ và kiên cường trước những thử thách trong cuộc sống."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b31a",
+      "word": "collection",
+      "phonetic": "/kəˈlekʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev519.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/collection.mp3",
+      "meaningVi": "Bộ sưu tập",
+      "meaningEn": "a group of objects or works to be seen, studied. or kept together",
+      "exampleEnHtml": "<p>The museum&rsquo;s <strong>collection</strong> contained many works donated by famous collectors.</p>\n",
+      "exampleViHtml": "<p><strong>Bộ sưu tập</strong> của bảo t&agrave;ng bao gồm nhiều t&aacute;c phẩm được quy&ecirc;n tặng bởi những nh&agrave; sưu tập nổi tiếng.</p>\n",
+      "exampleEn": "The museum’s collection contained many works donated by famous collectors.",
+      "exampleVi": "Bộ sưu tập của bảo tàng bao gồm nhiều tác phẩm được quyên tặng bởi những nhà sưu tập nổi tiếng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b31b",
+      "word": "criticism",
+      "phonetic": "/ˈkrɪtɪsɪzəm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev520.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/criticism.mp3",
+      "meaningVi": "lời phê bình",
+      "meaningEn": "an evaluation, especially of literary or other artistic works",
+      "exampleEnHtml": "<p>According to the <strong>criticism</strong> of the Victorian era, the painting was a masterpiece; now it is considered merely a minor work.</p>\n",
+      "exampleViHtml": "<p>Theo <strong>lời ph&ecirc; b&igrave;nh</strong> từ thời kỳ Victoria, bức tranh l&agrave; một kiệt t&aacute;c; nhưng giờ đ&acirc;y n&oacute; chỉ được coi l&agrave; một t&aacute;c phẩm nhỏ.</p>\n",
+      "exampleEn": "According to the criticism of the Victorian era, the painting was a masterpiece; now it is considered merely a minor work.",
+      "exampleVi": "Theo lời phê bình từ thời kỳ Victoria, bức tranh là một kiệt tác; nhưng giờ đây nó chỉ được coi là một tác phẩm nhỏ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b31c",
+      "word": "express",
+      "phonetic": "/ɪkˈspres/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev521.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/express.mp3",
+      "meaningVi": "diễn đạt",
+      "meaningEn": "to give an opinion or depict emotion",
+      "exampleEnHtml": "<p>The sculptor was able to <strong>express</strong> his feelings better through the use of clay than words.</p>\n",
+      "exampleViHtml": "<p>Nh&agrave; đi&ecirc;u khắc c&oacute; thể <strong>diễn đạt</strong>&nbsp;cảm x&uacute;c của m&igrave;nh tốt hơn qua việc sử dụng đất s&eacute;t hơn l&agrave; bằng lời n&oacute;i.</p>\n",
+      "exampleEn": "The sculptor was able to express his feelings better through the use of clay than words.",
+      "exampleVi": "Nhà điêu khắc có thể diễn đạt cảm xúc của mình tốt hơn qua việc sử dụng đất sét hơn là bằng lời nói."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b31d",
+      "word": "fashion",
+      "phonetic": "/ˈfæʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev522.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fashion.mp3",
+      "meaningVi": "thời trang",
+      "meaningEn": "the prevailing style or custom",
+      "exampleEnHtml": "<p>According to the <strong>fashion</strong> of the day, the languid pose of the sculpture was high art.</p>\n",
+      "exampleViHtml": "<p>Theo xu hướng <strong>thời trang</strong> thời đ&oacute;, tư thế uể oải của bức tượng được coi l&agrave; nghệ thuật đỉnh cao.</p>\n",
+      "exampleEn": "According to the fashion of the day, the languid pose of the sculpture was high art.",
+      "exampleVi": "Theo xu hướng thời trang thời đó, tư thế uể oải của bức tượng được coi là nghệ thuật đỉnh cao."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b31e",
+      "word": "leisure",
+      "phonetic": "/ˈliːʒər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev523.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/leisure.mp3",
+      "meaningVi": "thời gian rảnh rỗi",
+      "meaningEn": "freedom from time-consuming duties; free time",
+      "exampleEnHtml": "<p>The woman took up painting in her retirement, when she had more <strong>leisure</strong> time.</p>\n",
+      "exampleViHtml": "<p>Người phụ nữ bắt đầu vẽ tranh khi về hưu, khi b&agrave; c&oacute; nhiều <strong>thời gian rảnh rỗi</strong> hơn.</p>\n",
+      "exampleEn": "The woman took up painting in her retirement, when she had more leisure time.",
+      "exampleVi": "Người phụ nữ bắt đầu vẽ tranh khi về hưu, khi bà có nhiều thời gian rảnh rỗi hơn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b31f",
+      "word": "respond",
+      "phonetic": "/rɪˈspɑːnd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev524.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/respond.mp3",
+      "meaningVi": "phản hồi",
+      "meaningEn": "to make a reply; to react",
+      "exampleEnHtml": "<p>You should <strong>respond</strong> to the invitation to attend the museum gala.</p>\n",
+      "exampleViHtml": "<p>Bạn n&ecirc;n <strong>phản hồi</strong> lời mời tham dự lễ hội của bảo t&agrave;ng.</p>\n",
+      "exampleEn": "You should respond to the invitation to attend the museum gala.",
+      "exampleVi": "Bạn nên phản hồi lời mời tham dự lễ hội của bảo tàng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b320",
+      "word": "schedule",
+      "phonetic": "/ˈskedʒuːl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev525.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/schedule.mp3",
+      "meaningVi": "lịch trình",
+      "meaningEn": "a list of times of events; to enter on a schedule",
+      "exampleEnHtml": "<p>The museum offers a <strong>schedule</strong> of guided tours.</p>\n",
+      "exampleViHtml": "<p>Bảo t&agrave;ng cung cấp <strong>lịch tr&igrave;nh</strong> tham quan c&oacute; hướng dẫn vi&ecirc;n.</p>\n",
+      "exampleEn": "The museum offers a schedule of guided tours.",
+      "exampleVi": "Bảo tàng cung cấp lịch trình tham quan có hướng dẫn viên."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b321",
+      "word": "significant",
+      "phonetic": "/sɪɡˈnɪfɪkənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev526.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/significant.mp3",
+      "meaningVi": "có ý nghĩa quan trọng",
+      "meaningEn": "meaningful; having a major effect; important",
+      "exampleEnHtml": "<p>The use of lambs to symbolize innocence is <strong>significant </strong>in Western art.</p>\n",
+      "exampleViHtml": "<p>Việc sử dụng cừu để tượng trưng cho sự ng&acirc;y thơ <strong>c&oacute; &yacute; nghĩa quan trọng</strong> trong nghệ thuật phương T&acirc;y.</p>\n",
+      "exampleEn": "The use of lambs to symbolize innocence is significant in Western art.",
+      "exampleVi": "Việc sử dụng cừu để tượng trưng cho sự ngây thơ có ý nghĩa quan trọng trong nghệ thuật phương Tây."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b322",
+      "word": "specialize",
+      "phonetic": "/ˈspeʃəlaɪz/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev527.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/specialize.mp3",
+      "meaningVi": "chuyên nghiên cứu",
+      "meaningEn": "to concentrate on a particular activity",
+      "exampleEnHtml": "<p>The art historian <strong>specialized</strong> in Navajo rugs.</p>\n",
+      "exampleViHtml": "<p>Nh&agrave; sử học nghệ thuật <strong>chuy&ecirc;n nghi&ecirc;n cứu</strong> về thảm Navajo.</p>\n",
+      "exampleEn": "The art historian specialized in Navajo rugs.",
+      "exampleVi": "Nhà sử học nghệ thuật chuyên nghiên cứu về thảm Navajo."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b323",
+      "word": "spectrum",
+      "phonetic": "/ˈspektrəm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev528.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/spectrum.mp3",
+      "meaningVi": "phân bổ",
+      "meaningEn": "a range of related qualities, ideas, or activities",
+      "exampleEnHtml": "<p>Red and violet are at opposite ends of the <strong>spectrum</strong>.</p>\n",
+      "exampleViHtml": "<p>M&agrave;u đỏ v&agrave; t&iacute;m được <strong>ph&acirc;n bổ</strong> ở hai đầu của quang phổ.</p>\n",
+      "exampleEn": "Red and violet are at opposite ends of the spectrum.",
+      "exampleVi": "Màu đỏ và tím được phân bổ ở hai đầu của quang phổ."
+    }
+  ],
+  "totalFlashcards": 12
+}

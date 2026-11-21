@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b137",
+  "title": "Từ vựng: Salaries and Benefits",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1f9",
+        "questionNumber": 1,
+        "questionText": "basis",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev157.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/basis.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the main reason for something; a base or foundation",
+            "raw": "the main reason for something; a base or foundation",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The manager didn&#39;t have any <strong>basis</strong> for firing the employee.</p>\n",
+        "explanationViHtml": "<p>Người quản l&yacute; kh&ocirc;ng c&oacute; <strong>căn cứ</strong> n&agrave;o để sa thải nh&acirc;n vi&ecirc;n đ&oacute;.</p>\n",
+        "transcriptHtml": "<p>The manager didn&#39;t have any <strong>basis</strong> for firing the employee.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1fa",
+        "questionNumber": 2,
+        "questionText": "be aware of",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev158.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/be aware of.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be conscious of; to be knowledgeable about",
+            "raw": "to be conscious of; to be knowledgeable about",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>You should <strong>be aware of</strong> the risks before making this investment.</p>\n",
+        "explanationViHtml": "<p>Bạn n&ecirc;n <strong>nhận thức </strong>về những rủi ro trước khi thực hiện khoản đầu tư n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>You should <strong>be aware of</strong> the risks before making this investment.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1fb",
+        "questionNumber": 3,
+        "questionText": "benefit",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev159.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/benefit.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the advantages provided to an employee in addition to salary; to take advantage of",
+            "raw": "the advantages provided to an employee in addition to salary; to take advantage of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We should spend the money on something that will <strong>benefit</strong> everyone.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng ta n&ecirc;n chi tiền v&agrave;o việc g&igrave; đ&oacute; <strong>c&oacute; lợi</strong> cho tất cả mọi người.</p>\n",
+        "transcriptHtml": "<p>We should spend the money on something that will <strong>benefit</strong> everyone.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1fc",
+        "questionNumber": 4,
+        "questionText": "compensate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev160.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/compensate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to pay; to make up for",
+            "raw": "to pay; to make up for",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The company <strong>compensates</strong> employees for overtime by paying more for those extra hours worked.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng ty <strong>đền b&ugrave;</strong> cho nh&acirc;n vi&ecirc;n l&agrave;m th&ecirc;m giờ bằng c&aacute;ch trả th&ecirc;m tiền cho những giờ l&agrave;m th&ecirc;m đ&oacute;.</p>\n",
+        "transcriptHtml": "<p>The company <strong>compensates</strong> employees for overtime by paying more for those extra hours worked.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1fd",
+        "questionNumber": 5,
+        "questionText": "delicately",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev161.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/delicately.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "arefully and using a lot of detail",
+            "raw": "carefully and using a lot of detail",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>The matter needs to be handled <strong data-end=\"832\" data-start=\"818\">delicately</strong>, as it involves personal feelings.</p>\n",
+        "explanationViHtml": "<p>Vấn đề n&agrave;y cần được xử l&yacute; một c&aacute;ch <strong>thận trọng</strong> v&igrave; li&ecirc;n quan đến cảm x&uacute;c c&aacute; nh&acirc;n.</p>\n",
+        "transcriptHtml": "<p>The matter needs to be handled <strong data-end=\"832\" data-start=\"818\">delicately</strong>, as it involves personal feelings.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1fe",
+        "questionNumber": 6,
+        "questionText": "eligible",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev162.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/eligible.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "ble to participate in something; qualified",
+            "raw": "able to participate in something; qualified",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Some employees may be <strong>eligible</strong> for the tuition reimbursement plan.</p>\n",
+        "explanationViHtml": "<p>Một số nh&acirc;n vi&ecirc;n c&oacute; thể <strong>đủ điều kiện</strong> tham gia chương tr&igrave;nh ho&agrave;n trả học ph&iacute;.</p>\n",
+        "transcriptHtml": "<p>Some employees may be <strong>eligible</strong> for the tuition reimbursement plan.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b1ff",
+        "questionNumber": 7,
+        "questionText": "flexibly",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev163.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/flexibly.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "with the ability to change; loosely",
+            "raw": "with the ability to change; loosely",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My manager thinks <strong>flexibly</strong>, enabling herself to solve many sticky problems.</p>\n",
+        "explanationViHtml": "<p>Quản l&yacute; của t&ocirc;i c&oacute; tư duy<strong> linh hoạt</strong>, gi&uacute;p c&ocirc; ấy giải quyết được nhiều vấn đề kh&oacute; khăn.</p>\n",
+        "transcriptHtml": "<p>My manager thinks <strong>flexibly</strong>, enabling herself to solve many sticky problems.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b200",
+        "questionNumber": 8,
+        "questionText": "negotiate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev164.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/negotiate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to talk for the purpose of reaching an agreement, especially on prices or contracts",
+            "raw": "to talk for the purpose of reaching an agreement, especially on prices or contracts",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>You must know what you want and what you can accept when you <strong>negotiate</strong> a salary.</p>\n",
+        "explanationViHtml": "<p>Bạn phải biết m&igrave;nh muốn g&igrave; v&agrave; c&oacute; thể chấp nhận những g&igrave; khi <strong>thương lượng</strong> mức lương.</p>\n",
+        "transcriptHtml": "<p>You must know what you want and what you can accept when you <strong>negotiate</strong> a salary.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b201",
+        "questionNumber": 9,
+        "questionText": "raise",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev165.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/raise.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n increase in salary",
+            "raw": "an increase in salary",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The supervisor expected a substantial <strong>raise </strong>and was disappointed with the 2 percent increase she received.</p>\n",
+        "explanationViHtml": "<p>Người gi&aacute;m s&aacute;t mong đợi mức<strong> tăng lương</strong> đ&aacute;ng kể v&agrave; thất vọng với mức tăng 2 phần trăm m&agrave; c&ocirc; nhận được.</p>\n",
+        "transcriptHtml": "<p>The supervisor expected a substantial <strong>raise </strong>and was disappointed with the 2 percent increase she received.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b202",
+        "questionNumber": 10,
+        "questionText": "retire",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev166.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/retire.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to stop working; to withdraw from a business or profession",
+            "raw": "to stop working; to withdraw from a business or profession",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>She <strong>retired</strong> at the age of 64 but continued to be very active with volunteer work.</p>\n",
+        "explanationViHtml": "<p>B&agrave; <strong>nghỉ hưu </strong>ở tuổi 64 nhưng vẫn tiếp tục t&iacute;ch cực tham gia c&ocirc;ng t&aacute;c t&igrave;nh nguyện.</p>\n",
+        "transcriptHtml": "<p>She <strong>retired</strong> at the age of 64 but continued to be very active with volunteer work.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b203",
+        "questionNumber": 11,
+        "questionText": "vested",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev167.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/vested.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "guaranteed as a right, involved",
+            "raw": "guaranteed as a right, involved",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The day that Ms. Weng become fully <strong>vested </strong>in the retirement plan, she gave her two weeks&rsquo; notice.</p>\n",
+        "explanationViHtml": "<p>Ng&agrave;y b&agrave; Weng ch&iacute;nh thức được hưởng <strong>quyền lợi</strong> trong kế hoạch nghỉ hưu, b&agrave; đ&atilde; th&ocirc;ng b&aacute;o trước hai tuần.</p>\n",
+        "transcriptHtml": "<p>The day that Ms. Weng become fully <strong>vested </strong>in the retirement plan, she gave her two weeks&rsquo; notice.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bee92d7f67f5140b204",
+        "questionNumber": 12,
+        "questionText": "wage",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev168.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/wage.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the money paid for work done, usually hourly",
+            "raw": "the money paid for work done, usually hourly",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Hourly <strong>wages</strong> have increased by 20 percent over the last two years.</p>\n",
+        "explanationViHtml": "<p><strong>Tiền lương theo giờ </strong>đ&atilde; tăng 20 phần trăm trong hai năm qua.</p>\n",
+        "transcriptHtml": "<p>Hourly <strong>wages</strong> have increased by 20 percent over the last two years.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bee92d7f67f5140b1f9",
+      "word": "basis",
+      "phonetic": "/ˈbeɪsɪs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev157.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/basis.mp3",
+      "meaningVi": "căn cứ",
+      "meaningEn": "the main reason for something; a base or foundation",
+      "exampleEnHtml": "<p>The manager didn&#39;t have any <strong>basis</strong> for firing the employee.</p>\n",
+      "exampleViHtml": "<p>Người quản l&yacute; kh&ocirc;ng c&oacute; <strong>căn cứ</strong> n&agrave;o để sa thải nh&acirc;n vi&ecirc;n đ&oacute;.</p>\n",
+      "exampleEn": "The manager didn't have any basis for firing the employee.",
+      "exampleVi": "Người quản lý không có căn cứ nào để sa thải nhân viên đó."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1fa",
+      "word": "be aware of",
+      "phonetic": "/əˈwer/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev158.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/be aware of.mp3",
+      "meaningVi": "nhận thức",
+      "meaningEn": "to be conscious of; to be knowledgeable about",
+      "exampleEnHtml": "<p>You should <strong>be aware of</strong> the risks before making this investment.</p>\n",
+      "exampleViHtml": "<p>Bạn n&ecirc;n <strong>nhận thức </strong>về những rủi ro trước khi thực hiện khoản đầu tư n&agrave;y.</p>\n",
+      "exampleEn": "You should be aware of the risks before making this investment.",
+      "exampleVi": "Bạn nên nhận thức về những rủi ro trước khi thực hiện khoản đầu tư này."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1fb",
+      "word": "benefit",
+      "phonetic": "/ˈbenɪfɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev159.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/benefit.mp3",
+      "meaningVi": "có lợi",
+      "meaningEn": "the advantages provided to an employee in addition to salary; to take advantage of",
+      "exampleEnHtml": "<p>We should spend the money on something that will <strong>benefit</strong> everyone.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng ta n&ecirc;n chi tiền v&agrave;o việc g&igrave; đ&oacute; <strong>c&oacute; lợi</strong> cho tất cả mọi người.</p>\n",
+      "exampleEn": "We should spend the money on something that will benefit everyone.",
+      "exampleVi": "Chúng ta nên chi tiền vào việc gì đó có lợi cho tất cả mọi người."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1fc",
+      "word": "compensate",
+      "phonetic": "/ˈkɑːmpenseɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev160.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/compensate.mp3",
+      "meaningVi": "đền bù",
+      "meaningEn": "to pay; to make up for",
+      "exampleEnHtml": "<p>The company <strong>compensates</strong> employees for overtime by paying more for those extra hours worked.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng ty <strong>đền b&ugrave;</strong> cho nh&acirc;n vi&ecirc;n l&agrave;m th&ecirc;m giờ bằng c&aacute;ch trả th&ecirc;m tiền cho những giờ l&agrave;m th&ecirc;m đ&oacute;.</p>\n",
+      "exampleEn": "The company compensates employees for overtime by paying more for those extra hours worked.",
+      "exampleVi": "Công ty đền bù cho nhân viên làm thêm giờ bằng cách trả thêm tiền cho những giờ làm thêm đó."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1fd",
+      "word": "delicately",
+      "phonetic": "/ˈdelɪkətli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev161.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/delicately.mp3",
+      "meaningVi": "thận trọng",
+      "meaningEn": "carefully and using a lot of detail",
+      "exampleEnHtml": "<p>The matter needs to be handled <strong data-end=\"832\" data-start=\"818\">delicately</strong>, as it involves personal feelings.</p>\n",
+      "exampleViHtml": "<p>Vấn đề n&agrave;y cần được xử l&yacute; một c&aacute;ch <strong>thận trọng</strong> v&igrave; li&ecirc;n quan đến cảm x&uacute;c c&aacute; nh&acirc;n.</p>\n",
+      "exampleEn": "The matter needs to be handled delicately, as it involves personal feelings.",
+      "exampleVi": "Vấn đề này cần được xử lý một cách thận trọng vì liên quan đến cảm xúc cá nhân."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1fe",
+      "word": "eligible",
+      "phonetic": "/ˈelɪdʒəbl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev162.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/eligible.mp3",
+      "meaningVi": "đủ điều kiện",
+      "meaningEn": "able to participate in something; qualified",
+      "exampleEnHtml": "<p>Some employees may be <strong>eligible</strong> for the tuition reimbursement plan.</p>\n",
+      "exampleViHtml": "<p>Một số nh&acirc;n vi&ecirc;n c&oacute; thể <strong>đủ điều kiện</strong> tham gia chương tr&igrave;nh ho&agrave;n trả học ph&iacute;.</p>\n",
+      "exampleEn": "Some employees may be eligible for the tuition reimbursement plan.",
+      "exampleVi": "Một số nhân viên có thể đủ điều kiện tham gia chương trình hoàn trả học phí."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b1ff",
+      "word": "flexibly",
+      "phonetic": "/ˈfleksəbli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev163.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/flexibly.mp3",
+      "meaningVi": "linh hoạt",
+      "meaningEn": "with the ability to change; loosely",
+      "exampleEnHtml": "<p>My manager thinks <strong>flexibly</strong>, enabling herself to solve many sticky problems.</p>\n",
+      "exampleViHtml": "<p>Quản l&yacute; của t&ocirc;i c&oacute; tư duy<strong> linh hoạt</strong>, gi&uacute;p c&ocirc; ấy giải quyết được nhiều vấn đề kh&oacute; khăn.</p>\n",
+      "exampleEn": "My manager thinks flexibly, enabling herself to solve many sticky problems.",
+      "exampleVi": "Quản lý của tôi có tư duy linh hoạt, giúp cô ấy giải quyết được nhiều vấn đề khó khăn."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b200",
+      "word": "negotiate",
+      "phonetic": "/nɪˈɡoʊʃieɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev164.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/negotiate.mp3",
+      "meaningVi": "thương lượng",
+      "meaningEn": "to talk for the purpose of reaching an agreement, especially on prices or contracts",
+      "exampleEnHtml": "<p>You must know what you want and what you can accept when you <strong>negotiate</strong> a salary.</p>\n",
+      "exampleViHtml": "<p>Bạn phải biết m&igrave;nh muốn g&igrave; v&agrave; c&oacute; thể chấp nhận những g&igrave; khi <strong>thương lượng</strong> mức lương.</p>\n",
+      "exampleEn": "You must know what you want and what you can accept when you negotiate a salary.",
+      "exampleVi": "Bạn phải biết mình muốn gì và có thể chấp nhận những gì khi thương lượng mức lương."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b201",
+      "word": "raise",
+      "phonetic": "/reɪz/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev165.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/raise.mp3",
+      "meaningVi": "tăng lương",
+      "meaningEn": "an increase in salary",
+      "exampleEnHtml": "<p>The supervisor expected a substantial <strong>raise </strong>and was disappointed with the 2 percent increase she received.</p>\n",
+      "exampleViHtml": "<p>Người gi&aacute;m s&aacute;t mong đợi mức<strong> tăng lương</strong> đ&aacute;ng kể v&agrave; thất vọng với mức tăng 2 phần trăm m&agrave; c&ocirc; nhận được.</p>\n",
+      "exampleEn": "The supervisor expected a substantial raise and was disappointed with the 2 percent increase she received.",
+      "exampleVi": "Người giám sát mong đợi mức tăng lương đáng kể và thất vọng với mức tăng 2 phần trăm mà cô nhận được."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b202",
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev166.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/retire.mp3",
+      "meaningVi": "nghỉ hưu",
+      "meaningEn": "to stop working; to withdraw from a business or profession",
+      "exampleEnHtml": "<p>She <strong>retired</strong> at the age of 64 but continued to be very active with volunteer work.</p>\n",
+      "exampleViHtml": "<p>B&agrave; <strong>nghỉ hưu </strong>ở tuổi 64 nhưng vẫn tiếp tục t&iacute;ch cực tham gia c&ocirc;ng t&aacute;c t&igrave;nh nguyện.</p>\n",
+      "exampleEn": "She retired at the age of 64 but continued to be very active with volunteer work.",
+      "exampleVi": "Bà nghỉ hưu ở tuổi 64 nhưng vẫn tiếp tục tích cực tham gia công tác tình nguyện."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b203",
+      "word": "vested",
+      "phonetic": "/ˈvestɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev167.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/vested.mp3",
+      "meaningVi": "quyền lợi",
+      "meaningEn": "guaranteed as a right, involved",
+      "exampleEnHtml": "<p>The day that Ms. Weng become fully <strong>vested </strong>in the retirement plan, she gave her two weeks&rsquo; notice.</p>\n",
+      "exampleViHtml": "<p>Ng&agrave;y b&agrave; Weng ch&iacute;nh thức được hưởng <strong>quyền lợi</strong> trong kế hoạch nghỉ hưu, b&agrave; đ&atilde; th&ocirc;ng b&aacute;o trước hai tuần.</p>\n",
+      "exampleEn": "The day that Ms. Weng become fully vested in the retirement plan, she gave her two weeks’ notice.",
+      "exampleVi": "Ngày bà Weng chính thức được hưởng quyền lợi trong kế hoạch nghỉ hưu, bà đã thông báo trước hai tuần."
+    },
+    {
+      "id": "61c14bee92d7f67f5140b204",
+      "word": "wage",
+      "phonetic": "/weɪdʒ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev168.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/wage.mp3",
+      "meaningVi": "Tiền lương theo giờ",
+      "meaningEn": "the money paid for work done, usually hourly",
+      "exampleEnHtml": "<p>Hourly <strong>wages</strong> have increased by 20 percent over the last two years.</p>\n",
+      "exampleViHtml": "<p><strong>Tiền lương theo giờ </strong>đ&atilde; tăng 20 phần trăm trong hai năm qua.</p>\n",
+      "exampleEn": "Hourly wages have increased by 20 percent over the last two years.",
+      "exampleVi": "Tiền lương theo giờ đã tăng 20 phần trăm trong hai năm qua."
+    }
+  ],
+  "totalFlashcards": 12
+}

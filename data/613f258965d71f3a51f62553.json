@@ -1,0 +1,1228 @@
+{
+  "topicId": "613f258965d71f3a51f62553",
+  "title": "Part 4: Short Talks - Test 1",
+  "totalCards": 10,
+  "totalQuestions": 30,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f62566",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0401.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><b>Q1 Amy, it is your responsibility to check that the store is clean and well-stocked for customers before we open for the day. Q2 Most importantly, I would like you to make sure that the proper price tags are displayed in front of their corresponding products</b>. Customers get really confused and upset when the price of a product is displayed incorrectly.<b> Q3 In the case that a customer ever does get displeased, please let me know right away so I can come and deal with the problem in person.</b></p>\n",
+      "transcriptViHtml": "<p><b>Q1 Amy, cô có trách nhiệm kiểm tra xem cửa hàng có sạch sẽ và có đủ lượng hàng cung cấp cho khách hàng hay không trước khi chúng ta mở cửa bán hàng. Q2 Quan trọng nhất, tôi muốn cô đảm bảo rằng nhãn giá phù hợp được gắn ở phía trước các sản phẩm tương ứng</b>. Khách hàng sẽ thực sự bối rối và cảm thấy khó chịu khi giá của sản phẩm được hiển thị không chính xác.<b> Q3 Trong trường hợp khách hàng không hài lòng, vui lòng cho tôi biết ngay để tôi có thể đến giải quyết vấn đề trực tiếp.</p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f6256f",
+          "questionNumber": 1,
+          "questionText": "Where most likely does the speaker work?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0401.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At a theater",
+              "raw": "(A) At a theater",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "At a car dealership",
+              "raw": "(B) At a car dealership",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At a retail store",
+              "raw": "(C) At a retail store",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "At a library",
+              "raw": "(D) At a library",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Amy, cô có trách nhiệm kiểm tra xem cửa hàng có sạch sẽ và có đủ lượng hàng cung cấp cho khách hàng hay không trước khi chúng ta mở cửa bán hàng. Q2 Quan trọng nhất, tôi muốn cô đảm bảo rằng nhãn giá phù hợp được gắn ở phía trước các sản phẩm tương ứng</b>. Khách hàng sẽ thực sự bối rối và cảm thấy khó chịu khi giá của sản phẩm được hiển thị không chính xác.<b> Q3 Trong trường hợp khách hàng không hài lòng, vui lòng cho tôi biết ngay để tôi có thể đến giải quyết vấn đề trực tiếp.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62570",
+          "questionNumber": 2,
+          "questionText": "What is the listener asked to double-check?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0401.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Accurate prices",
+              "raw": "(A) Accurate prices",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Sales figures",
+              "raw": "(B) Sales figures",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Business hours",
+              "raw": "(C) Business hours",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Name tags",
+              "raw": "(D) Name tags",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Amy, cô có trách nhiệm kiểm tra xem cửa hàng có sạch sẽ và có đủ lượng hàng cung cấp cho khách hàng hay không trước khi chúng ta mở cửa bán hàng. Q2 Quan trọng nhất, tôi muốn cô đảm bảo rằng nhãn giá phù hợp được gắn ở phía trước các sản phẩm tương ứng</b>. Khách hàng sẽ thực sự bối rối và cảm thấy khó chịu khi giá của sản phẩm được hiển thị không chính xác.<b> Q3 Trong trường hợp khách hàng không hài lòng, vui lòng cho tôi biết ngay để tôi có thể đến giải quyết vấn đề trực tiếp.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62571",
+          "questionNumber": 3,
+          "questionText": "When should the listener contact the speaker?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0401.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "If an employee is late for work",
+              "raw": "(A) If an employee is late for work",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "If a technical problem occurs",
+              "raw": "(B) If a technical problem occurs",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "If an item is out of stock",
+              "raw": "(C) If an item is out of stock",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "If a customer is dissatisfied",
+              "raw": "(D) If a customer is dissatisfied",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Amy, cô có trách nhiệm kiểm tra xem cửa hàng có sạch sẽ và có đủ lượng hàng cung cấp cho khách hàng hay không trước khi chúng ta mở cửa bán hàng. Q2 Quan trọng nhất, tôi muốn cô đảm bảo rằng nhãn giá phù hợp được gắn ở phía trước các sản phẩm tương ứng</b>. Khách hàng sẽ thực sự bối rối và cảm thấy khó chịu khi giá của sản phẩm được hiển thị không chính xác.<b> Q3 Trong trường hợp khách hàng không hài lòng, vui lòng cho tôi biết ngay để tôi có thể đến giải quyết vấn đề trực tiếp.</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f62567",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0402.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><b>Q1 The town of Dayton is excited to announce the opening of a new community center</b>. The center provides daytime activities for kids and adults of all ages. <b> Q2 For the grand opening, the local band Summer Heat, led by Jim Neilson, will perform a show in half an hour. Q3 Afterwards, attendees are encouraged to fill out a survey meant to judge the needs of local citizens.</b> Thank you.</p>\n",
+      "transcriptViHtml": "<p><b>Q1 Thị trấn Dayton vui mừng thông báo về việc khai trương trung tâm cộng đồng mới</b>. Trung tâm sẽ cung cấp các hoạt động ban ngày cho trẻ em và người lớn ở mọi lứa tuổi. <b> Q2 Nhân dịp khai trương, ban nhạc địa phương Summer Heat do Jim Neilson chỉ huy sẽ biểu diễn trong nửa giờ nữa. Q3 Sau đó, người tham dự được khuyến khích điền vào bản khảo sát nhằm đánh giá nhu cầu của người dân địa phương.</b> Cảm ơn các bạn đã chú ý.</p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f62572",
+          "questionNumber": 4,
+          "questionText": "What is the announcement about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0402.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "An opening of a public building",
+              "raw": "(A) An opening of a public building",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "A commemorative statue",
+              "raw": "(B) A commemorative statue",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A singing contest",
+              "raw": "(C) A singing contest",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A survey result",
+              "raw": "(D) A survey result",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Thị trấn Dayton vui mừng thông báo về việc khai trương trung tâm cộng đồng mới</b>. Trung tâm sẽ cung cấp các hoạt động ban ngày cho trẻ em và người lớn ở mọi lứa tuổi. <b> Q2 Nhân dịp khai trương, ban nhạc địa phương Summer Heat do Jim Neilson chỉ huy sẽ biểu diễn trong nửa giờ nữa. Q3 Sau đó, người tham dự được khuyến khích điền vào bản khảo sát nhằm đánh giá nhu cầu của người dân địa phương.</b> Cảm ơn các bạn đã chú ý.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62573",
+          "questionNumber": 5,
+          "questionText": "Who is Jim Neilson?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0402.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A mayor",
+              "raw": "(A) A mayor",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "An instructor",
+              "raw": "(B) An instructor",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A musician",
+              "raw": "(C) A musician",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "An architect",
+              "raw": "(D) An architect",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Thị trấn Dayton vui mừng thông báo về việc khai trương trung tâm cộng đồng mới</b>. Trung tâm sẽ cung cấp các hoạt động ban ngày cho trẻ em và người lớn ở mọi lứa tuổi. <b> Q2 Nhân dịp khai trương, ban nhạc địa phương Summer Heat do Jim Neilson chỉ huy sẽ biểu diễn trong nửa giờ nữa. Q3 Sau đó, người tham dự được khuyến khích điền vào bản khảo sát nhằm đánh giá nhu cầu của người dân địa phương.</b> Cảm ơn các bạn đã chú ý.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62574",
+          "questionNumber": 6,
+          "questionText": "What are attendees asked to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0402.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Reserve seats in advance",
+              "raw": "(A) Reserve seats in advance",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Complete a survey",
+              "raw": "(B) Complete a survey",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Subscribe to a newsletter",
+              "raw": "(C) Subscribe to a newsletter",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Contribute to a fundraiser",
+              "raw": "(D) Contribute to a fundraiser",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Thị trấn Dayton vui mừng thông báo về việc khai trương trung tâm cộng đồng mới</b>. Trung tâm sẽ cung cấp các hoạt động ban ngày cho trẻ em và người lớn ở mọi lứa tuổi. <b> Q2 Nhân dịp khai trương, ban nhạc địa phương Summer Heat do Jim Neilson chỉ huy sẽ biểu diễn trong nửa giờ nữa. Q3 Sau đó, người tham dự được khuyến khích điền vào bản khảo sát nhằm đánh giá nhu cầu của người dân địa phương.</b> Cảm ơn các bạn đã chú ý.</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f62568",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0403.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p>Good morning, everyone. <b> Q1 Welcome to a test screening of our pilot for a new daytime sitcom entitled Once Upon a Romance</b>. Your participation in this focus group is essential for assessing audience reception. <b> Q2 This television show is meant to appeal to middle- aged housewives, and that is why you have all been selected. Q3 After watching the pilot, we will take you to a meeting room where we will conduct an in-depth interview that will help us gather your feedback and responses</b>. Thank you again for your cooperation.</p>\n",
+      "transcriptViHtml": "<p>Chào buổi sáng mọi người. <b> Q1 Chào mừng các bạn đến với buổi chiếu thử của bộ phim sitcom ban ngày mới “Ngày xửa ngày xưa”</b>. Sự tham gia của bạn vào nhóm tập trung này là cần thiết để đánh giá mức độ tiếp nhận của khán giả. <b> Q2 Mục tiêu của chương trình truyền hình này là  thu hút các bà nội trợ trung niên, và đó là lý do tại sao tất cả các bạn đều được chọn. Q3 Sau khi xem tập phim thí điểm, chúng tôi sẽ đưa các bạn đến phòng họp, nơi sẽ có một cuộc phỏng vấn kỹ hơn để giúp chúng tôi thu thập phản hồi và ý kiến của các bạn</b>. Một lần nữa xin cảm ơn sự hợp tác của các bạn.</p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f62575",
+          "questionNumber": 7,
+          "questionText": "Who most likely is the speaker?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0403.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A scholar",
+              "raw": "(A) A scholar",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A producer",
+              "raw": "(B) A producer",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A pilot",
+              "raw": "(C) A pilot",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A programmer",
+              "raw": "(D) A programmer",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Chào buổi sáng mọi người. <b> Q1 Chào mừng các bạn đến với buổi chiếu thử của bộ phim sitcom ban ngày mới “Ngày xửa ngày xưa”</b>. Sự tham gia của bạn vào nhóm tập trung này là cần thiết để đánh giá mức độ tiếp nhận của khán giả. <b> Q2 Mục tiêu của chương trình truyền hình này là  thu hút các bà nội trợ trung niên, và đó là lý do tại sao tất cả các bạn đều được chọn. Q3 Sau khi xem tập phim thí điểm, chúng tôi sẽ đưa các bạn đến phòng họp, nơi sẽ có một cuộc phỏng vấn kỹ hơn để giúp chúng tôi thu thập phản hồi và ý kiến của các bạn</b>. Một lần nữa xin cảm ơn sự hợp tác của các bạn.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62576",
+          "questionNumber": 8,
+          "questionText": "Who are the listeners?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0403.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Potential investors",
+              "raw": "(A) Potential investors",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Actors",
+              "raw": "(B) Actors",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Housewives",
+              "raw": "(C) Housewives",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "University students",
+              "raw": "(D) University students",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Chào buổi sáng mọi người. <b> Q1 Chào mừng các bạn đến với buổi chiếu thử của bộ phim sitcom ban ngày mới “Ngày xửa ngày xưa”</b>. Sự tham gia của bạn vào nhóm tập trung này là cần thiết để đánh giá mức độ tiếp nhận của khán giả. <b> Q2 Mục tiêu của chương trình truyền hình này là  thu hút các bà nội trợ trung niên, và đó là lý do tại sao tất cả các bạn đều được chọn. Q3 Sau khi xem tập phim thí điểm, chúng tôi sẽ đưa các bạn đến phòng họp, nơi sẽ có một cuộc phỏng vấn kỹ hơn để giúp chúng tôi thu thập phản hồi và ý kiến của các bạn</b>. Một lần nữa xin cảm ơn sự hợp tác của các bạn.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62577",
+          "questionNumber": 9,
+          "questionText": "What will the listeners do in a meeting room?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0403.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Participate in a raffle",
+              "raw": "(A) Participate in a raffle",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Watch a video",
+              "raw": "(B) Watch a video",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Enroll in a class",
+              "raw": "(C) Enroll in a class",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Attend an interview",
+              "raw": "(D) Attend an interview",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Chào buổi sáng mọi người. <b> Q1 Chào mừng các bạn đến với buổi chiếu thử của bộ phim sitcom ban ngày mới “Ngày xửa ngày xưa”</b>. Sự tham gia của bạn vào nhóm tập trung này là cần thiết để đánh giá mức độ tiếp nhận của khán giả. <b> Q2 Mục tiêu của chương trình truyền hình này là  thu hút các bà nội trợ trung niên, và đó là lý do tại sao tất cả các bạn đều được chọn. Q3 Sau khi xem tập phim thí điểm, chúng tôi sẽ đưa các bạn đến phòng họp, nơi sẽ có một cuộc phỏng vấn kỹ hơn để giúp chúng tôi thu thập phản hồi và ý kiến của các bạn</b>. Một lần nữa xin cảm ơn sự hợp tác của các bạn.</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f62569",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0404.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><b>Q1 This is a reminder that legendary soccer player Tommy Durant will be signing autographs at Dave&rsquo;s Sport Shop at 1:00 P.M. tomorrow. Q2 You are encouraged to bring your own items, such as clothes or books, for Mr. Durant to autograph</b>. Also at this time, parents will be able to sign their children up for a summer soccer camp that will be run by Tommy Durant. <b> Q3 The camp is limited to twenty children, so anyone who is interested should sign up early.</b></p> \n",
+      "transcriptViHtml": "<p><b>Q1 Đây là lời nhắc nhở về buổi ký tặng của cầu thủ bóng đá huyền thoại Tommy Durant tại Cửa hàng đồ thể thao Dave’s vào lúc 1 giờ chiều mai. Q2 Quý vị được khuyến khích mang theo những món đồ của riêng mình, chẳng hạn như quần áo hoặc sách, để cầu thủ Durant ký tặng</b>. Cũng tại thời điểm này, các bậc phụ huynh sẽ có thể đăng ký cho con mình tham gia trại bóng đá mùa hè do chính Tommy Durant tổ chức. <b> Q3 Trại chỉ giới hạn cho 20 em. Vậy nên, quý vị nào quan tâm thì cần đăng ký sớm.</b></p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f62578",
+          "questionNumber": 10,
+          "questionText": "What is the purpose of the broadcast?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0404.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To announce the results of a soccer match",
+              "raw": "(A) To announce the results of a soccer match",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To promote a store's grand opening",
+              "raw": "(B) To promote a store's grand opening",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To advertise a new product",
+              "raw": "(C) To advertise a new product",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To inform the listeners of a special event",
+              "raw": "(D) To inform the listeners of a special event",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Đây là lời nhắc nhở về buổi ký tặng của cầu thủ bóng đá huyền thoại Tommy Durant tại Cửa hàng đồ thể thao Dave’s vào lúc 1 giờ chiều mai. Q2 Quý vị được khuyến khích mang theo những món đồ của riêng mình, chẳng hạn như quần áo hoặc sách, để cầu thủ Durant ký tặng</b>. Cũng tại thời điểm này, các bậc phụ huynh sẽ có thể đăng ký cho con mình tham gia trại bóng đá mùa hè do chính Tommy Durant tổ chức. <b> Q3 Trại chỉ giới hạn cho 20 em. Vậy nên, quý vị nào quan tâm thì cần đăng ký sớm.</b></p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62579",
+          "questionNumber": 11,
+          "questionText": "What does the speaker suggest doing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0404.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Wearing comfortable clothing",
+              "raw": "(A) Wearing comfortable clothing",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Exercising on a regular basis",
+              "raw": "(B) Exercising on a regular basis",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Bringing personal belongings",
+              "raw": "(C) Bringing personal belongings",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Booking a ticket in advance",
+              "raw": "(D) Booking a ticket in advance",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Đây là lời nhắc nhở về buổi ký tặng của cầu thủ bóng đá huyền thoại Tommy Durant tại Cửa hàng đồ thể thao Dave’s vào lúc 1 giờ chiều mai. Q2 Quý vị được khuyến khích mang theo những món đồ của riêng mình, chẳng hạn như quần áo hoặc sách, để cầu thủ Durant ký tặng</b>. Cũng tại thời điểm này, các bậc phụ huynh sẽ có thể đăng ký cho con mình tham gia trại bóng đá mùa hè do chính Tommy Durant tổ chức. <b> Q3 Trại chỉ giới hạn cho 20 em. Vậy nên, quý vị nào quan tâm thì cần đăng ký sớm.</b></p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f6257a",
+          "questionNumber": 12,
+          "questionText": "What does the speaker say about the summer camp?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0404.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It is free of charge.",
+              "raw": "(A) It is free of charge.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "It will last three months.",
+              "raw": "(B) It will last three months.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "It has a restricted number of participants.",
+              "raw": "(C) It has a restricted number of participants.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "It will be sponsored by Dave's Sport Shop.",
+              "raw": "(D) It will be sponsored by Dave's Sport Shop.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><b>Q1 Đây là lời nhắc nhở về buổi ký tặng của cầu thủ bóng đá huyền thoại Tommy Durant tại Cửa hàng đồ thể thao Dave’s vào lúc 1 giờ chiều mai. Q2 Quý vị được khuyến khích mang theo những món đồ của riêng mình, chẳng hạn như quần áo hoặc sách, để cầu thủ Durant ký tặng</b>. Cũng tại thời điểm này, các bậc phụ huynh sẽ có thể đăng ký cho con mình tham gia trại bóng đá mùa hè do chính Tommy Durant tổ chức. <b> Q3 Trại chỉ giới hạn cho 20 em. Vậy nên, quý vị nào quan tâm thì cần đăng ký sớm.</b></p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f6256a",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0405.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p>As I&rsquo;m sure everyone is aware,<b> Q1 we have recently merged with another company that is located in India</b>. Now that we have become an international corporation, <b> Q3 we will be sending a lot of our most vital data through unsecure email systems</b>. According to the IT department, this is unavoidable. Unfortunately, this means we have to be very careful with what data we send through e-mail. This afternoon, everyone must attend a seminar explaining the new procedures for what data can be sent via e-mail. The rest will be sent using secure air mail. If you don&rsquo;t come to the meeting then I will have to explain the same thing over and over again and <b> Q2 my schedule is too tight to do that</b>. So, everyone should come to the 1st floor meeting room at 2:30 P.M.</p>\n",
+      "transcriptViHtml": "<p>Như mọi người chắc chắn đã biết,<b> Q1 gần đây chúng ta đã sáp nhập với một công ty khác có trụ sở tại Ấn Độ</b>. Bây giờ chúng ta đã trở thành một tập đoàn quốc tế, <b> Q3 đồng nghĩa với việc sẽ có nhiều dữ liệu quan trọng nhất của chúng ta được gửi qua hệ thống email không an toàn</b>. Theo bộ phận CNTT, đây là điều khó tránh khỏi. Không may là điều này có nghĩa là chúng ta phải rất cẩn thận với dữ liệu được gửi qua e-mail. Chiều nay, mọi người phải tham dự buổi hội thảo giải thích các thủ tục mới về việc phân loại các loại dữ liệu có thể được gửi qua e-mail. Các loại dữ liệu khác sẽ được gửi bằng đường hàng không an toàn. Nếu có ai đó không đến họp thì tôi sẽ phải giải thích đi giải thích lại những thông tin này và <b> Q2 lịch trình của tôi quá dày đặc để làm điều đó</b>. Vì vậy, mong rằng tất cả mọi người có thể thu xếp tham gia buổi hội thảo ở phòng họp tầng 1 lúc 2h30 chiều nay</p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f6257b",
+          "questionNumber": 13,
+          "questionText": "What does the speaker mention about her company?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0405.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "They have merged with another company.",
+              "raw": "(A) They have merged with another company.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "They are manufacturing a new product.",
+              "raw": "(B) They are manufacturing a new product.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "They are creating new policies.",
+              "raw": "(C) They are creating new policies.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "They had record profits.",
+              "raw": "(D) They had record profits.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Như mọi người chắc chắn đã biết,<b> Q1 gần đây chúng ta đã sáp nhập với một công ty khác có trụ sở tại Ấn Độ</b>. Bây giờ chúng ta đã trở thành một tập đoàn quốc tế, <b> Q3 đồng nghĩa với việc sẽ có nhiều dữ liệu quan trọng nhất của chúng ta được gửi qua hệ thống email không an toàn</b>. Theo bộ phận CNTT, đây là điều khó tránh khỏi. Không may là điều này có nghĩa là chúng ta phải rất cẩn thận với dữ liệu được gửi qua e-mail. Chiều nay, mọi người phải tham dự buổi hội thảo giải thích các thủ tục mới về việc phân loại các loại dữ liệu có thể được gửi qua e-mail. Các loại dữ liệu khác sẽ được gửi bằng đường hàng không an toàn. Nếu có ai đó không đến họp thì tôi sẽ phải giải thích đi giải thích lại những thông tin này và <b> Q2 lịch trình của tôi quá dày đặc để làm điều đó</b>. Vì vậy, mong rằng tất cả mọi người có thể thu xếp tham gia buổi hội thảo ở phòng họp tầng 1 lúc 2h30 chiều nay</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f6257c",
+          "questionNumber": 14,
+          "questionText": "Why does the woman say, “my schedule is too tight to do that”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0405.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Because the email is secure.",
+              "raw": "(A) Because the email is secure.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To sign a new contract",
+              "raw": "(B) To sign a new contract",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She needs some help.",
+              "raw": "(C) She needs some help.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She doesn’t have time to do it.",
+              "raw": "(D) She doesn’t have time to do it.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Như mọi người chắc chắn đã biết,<b> Q1 gần đây chúng ta đã sáp nhập với một công ty khác có trụ sở tại Ấn Độ</b>. Bây giờ chúng ta đã trở thành một tập đoàn quốc tế, <b> Q3 đồng nghĩa với việc sẽ có nhiều dữ liệu quan trọng nhất của chúng ta được gửi qua hệ thống email không an toàn</b>. Theo bộ phận CNTT, đây là điều khó tránh khỏi. Không may là điều này có nghĩa là chúng ta phải rất cẩn thận với dữ liệu được gửi qua e-mail. Chiều nay, mọi người phải tham dự buổi hội thảo giải thích các thủ tục mới về việc phân loại các loại dữ liệu có thể được gửi qua e-mail. Các loại dữ liệu khác sẽ được gửi bằng đường hàng không an toàn. Nếu có ai đó không đến họp thì tôi sẽ phải giải thích đi giải thích lại những thông tin này và <b> Q2 lịch trình của tôi quá dày đặc để làm điều đó</b>. Vì vậy, mong rằng tất cả mọi người có thể thu xếp tham gia buổi hội thảo ở phòng họp tầng 1 lúc 2h30 chiều nay</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f6257d",
+          "questionNumber": 15,
+          "questionText": "What will they be sending a lot of?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0405.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Portfolios",
+              "raw": "(A) Portfolios",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Contract forms",
+              "raw": "(B) Contract forms",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Vital data",
+              "raw": "(C) Vital data",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Building plans",
+              "raw": "(D) Building plans",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Như mọi người chắc chắn đã biết,<b> Q1 gần đây chúng ta đã sáp nhập với một công ty khác có trụ sở tại Ấn Độ</b>. Bây giờ chúng ta đã trở thành một tập đoàn quốc tế, <b> Q3 đồng nghĩa với việc sẽ có nhiều dữ liệu quan trọng nhất của chúng ta được gửi qua hệ thống email không an toàn</b>. Theo bộ phận CNTT, đây là điều khó tránh khỏi. Không may là điều này có nghĩa là chúng ta phải rất cẩn thận với dữ liệu được gửi qua e-mail. Chiều nay, mọi người phải tham dự buổi hội thảo giải thích các thủ tục mới về việc phân loại các loại dữ liệu có thể được gửi qua e-mail. Các loại dữ liệu khác sẽ được gửi bằng đường hàng không an toàn. Nếu có ai đó không đến họp thì tôi sẽ phải giải thích đi giải thích lại những thông tin này và <b> Q2 lịch trình của tôi quá dày đặc để làm điều đó</b>. Vì vậy, mong rằng tất cả mọi người có thể thu xếp tham gia buổi hội thảo ở phòng họp tầng 1 lúc 2h30 chiều nay</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f6256b",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0406.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p>First of all, I&rsquo;d like to thank everyone for attending the annual Bob Shilling Short Theater festival. I&rsquo;m sure you have all enjoyed the performances so far. The actors have put in many nights of rehearsal to bring you some excellent performances! Next up is the Bromley Actors Guild, and they will be doing Shakespeare&rsquo;s play &ldquo;The Tempest&rdquo;. <b> Q1 This is a play that is focused on the themes of magic and illusion. Q2 Remember, last year the Bromley Actors Guild won first place at this event, so you should look forward to seeing them perform this wonderful play. Q3 After the play finishes, we will have question-and-answer time</b>, and you can get to know some of the members of the Guild on a personal level.</p>\n",
+      "transcriptViHtml": "<p>Trước hết, tôi muốn cảm ơn quý vị đã tham dự lễ hội sân khấu thưởng niên tại Nhà hát Bob Shilling Short Theater. Chắc hẳn là đến giờ phút này thì tất cả các quý vị đều đã có trải nghiệm tuyệt vời và và yêu thích buổi biểu diễn. Các diễn viên đã tập luyện trong nhiều đêm để mang đến cho quý khán giả những màn trình diễn xuất sắc! Tiếp theo là màn trình diễn của Nghiệp đoàn Diễn viên Bromley, với vở kịch \"The Tempest\" của Shakespeare. <b> Q1 Đây là vở kịch với các yếu tố ma thuật và kỳ ảo. Q2 Hãy nhớ rằng, năm ngoái Nghiệp đoàn Diễn viên Bromley đã đứng nhất tại sự kiện này, vì vậy vở kịch tuyệt vời này sẽ rất đáng mong chờ. Q3 Sau khi vở kịch kết thúc, chúng ta sẽ có thời gian giao lưu</b> và khán giả có thể trò chuyện với một số thành viên của Nghiệp đoàn.</p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f6257e",
+          "questionNumber": 16,
+          "questionText": "What is “The Tempest” about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0406.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The evolution of man",
+              "raw": "(A) The evolution of man",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A love story about a man and woman",
+              "raw": "(B) A love story about a man and woman",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "An action movie",
+              "raw": "(C) An action movie",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "It’s theme is magic and illusion.",
+              "raw": "(D) It’s theme is magic and illusion.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Trước hết, tôi muốn cảm ơn quý vị đã tham dự lễ hội sân khấu thưởng niên tại Nhà hát Bob Shilling Short Theater. Chắc hẳn là đến giờ phút này thì tất cả các quý vị đều đã có trải nghiệm tuyệt vời và và yêu thích buổi biểu diễn. Các diễn viên đã tập luyện trong nhiều đêm để mang đến cho quý khán giả những màn trình diễn xuất sắc! Tiếp theo là màn trình diễn của Nghiệp đoàn Diễn viên Bromley, với vở kịch \"The Tempest\" của Shakespeare. <b> Q1 Đây là vở kịch với các yếu tố ma thuật và kỳ ảo. Q2 Hãy nhớ rằng, năm ngoái Nghiệp đoàn Diễn viên Bromley đã đứng nhất tại sự kiện này, vì vậy vở kịch tuyệt vời này sẽ rất đáng mong chờ. Q3 Sau khi vở kịch kết thúc, chúng ta sẽ có thời gian giao lưu</b> và khán giả có thể trò chuyện với một số thành viên của Nghiệp đoàn.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f6257f",
+          "questionNumber": 17,
+          "questionText": "Why does the speaker say, “Remember, last year the Bromley Actors Guild won first place at this event”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0406.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To suggest that they are impressive",
+              "raw": "(A) To suggest that they are impressive",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "To recommend that you join them",
+              "raw": "(B) To recommend that you join them",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To explain why they are here",
+              "raw": "(C) To explain why they are here",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To excuse a poor performance",
+              "raw": "(D) To excuse a poor performance",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Trước hết, tôi muốn cảm ơn quý vị đã tham dự lễ hội sân khấu thưởng niên tại Nhà hát Bob Shilling Short Theater. Chắc hẳn là đến giờ phút này thì tất cả các quý vị đều đã có trải nghiệm tuyệt vời và và yêu thích buổi biểu diễn. Các diễn viên đã tập luyện trong nhiều đêm để mang đến cho quý khán giả những màn trình diễn xuất sắc! Tiếp theo là màn trình diễn của Nghiệp đoàn Diễn viên Bromley, với vở kịch \"The Tempest\" của Shakespeare. <b> Q1 Đây là vở kịch với các yếu tố ma thuật và kỳ ảo. Q2 Hãy nhớ rằng, năm ngoái Nghiệp đoàn Diễn viên Bromley đã đứng nhất tại sự kiện này, vì vậy vở kịch tuyệt vời này sẽ rất đáng mong chờ. Q3 Sau khi vở kịch kết thúc, chúng ta sẽ có thời gian giao lưu</b> và khán giả có thể trò chuyện với một số thành viên của Nghiệp đoàn.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62580",
+          "questionNumber": 18,
+          "questionText": "What will most likely happen after the film screening?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0406.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Dinner and drinks",
+              "raw": "(A) Dinner and drinks",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Question time with the actors",
+              "raw": "(B) Question time with the actors",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "DVDs will be sold.",
+              "raw": "(C) DVDs will be sold.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The actors will sign autographs",
+              "raw": "(D) The actors will sign autographs",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Trước hết, tôi muốn cảm ơn quý vị đã tham dự lễ hội sân khấu thưởng niên tại Nhà hát Bob Shilling Short Theater. Chắc hẳn là đến giờ phút này thì tất cả các quý vị đều đã có trải nghiệm tuyệt vời và và yêu thích buổi biểu diễn. Các diễn viên đã tập luyện trong nhiều đêm để mang đến cho quý khán giả những màn trình diễn xuất sắc! Tiếp theo là màn trình diễn của Nghiệp đoàn Diễn viên Bromley, với vở kịch \"The Tempest\" của Shakespeare. <b> Q1 Đây là vở kịch với các yếu tố ma thuật và kỳ ảo. Q2 Hãy nhớ rằng, năm ngoái Nghiệp đoàn Diễn viên Bromley đã đứng nhất tại sự kiện này, vì vậy vở kịch tuyệt vời này sẽ rất đáng mong chờ. Q3 Sau khi vở kịch kết thúc, chúng ta sẽ có thời gian giao lưu</b> và khán giả có thể trò chuyện với một số thành viên của Nghiệp đoàn.</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f6256c",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0407.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p>I&rsquo;m sure you are all aware that the <b> Q1 new line of cell phone cases and selfie sticks we released are selling very well</b>. For some reason though, our range of portable batteries are selling quite poorly.<b> Q2 I wonder if the cost is too high compared to the other products on the market. We need to develop a strategy to start selling more batteries so I&rsquo;ve consulted with a marketing specialist in regard to changing our prices. Q3 This afternoon we will have a conference call with them, so please come to my office after lunch and sit in on the discussion.</b></p>\n",
+      "transcriptViHtml": "<p>Tôi chắc chắn rằng tất cả các bạn đều biết rằng <b> dòng sản phẩm ốp điện thoại di động và gậy selfie Q1 mới mà chúng ta vừa phát hành đang bán rất chạy</b>. Tuy nhiên, vì một lý do nào đó mà sản phẩm sạc dự phòng của chúng ta đang khá ế ẩm.<b> Q2 Tôi tự hỏi liệu giá thành của sản phẩm của chúng ta có đang quá cao so với các đối thủ khác trên thị trường hay không. Chúng ta cần phát triển chiến lược để bắt đầu bán nhiều sản phẩm hơn nên tôi đã tham khảo ý kiến của chuyên gia Marketing về việc thay đổi giá sản phẩm. Q3 Chiều nay chúng ta sẽ họp với họ qua điện thoại, vì vậy vui lòng đến văn phòng của tôi sau bữa trưa và tham gia cuộc họp này.</b></p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f62581",
+          "questionNumber": 19,
+          "questionText": "What type of products are being discussed?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0407.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Cell phone cases and selfie sticks",
+              "raw": "(A) Cell phone cases and selfie sticks",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Cell phones and MP3 players",
+              "raw": "(B) Cell phones and MP3 players",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Selfie sticks and headphones",
+              "raw": "(C) Selfie sticks and headphones",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Software programs",
+              "raw": "(D) Software programs",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Tôi chắc chắn rằng tất cả các bạn đều biết rằng <b> dòng sản phẩm ốp điện thoại di động và gậy selfie Q1 mới mà chúng ta vừa phát hành đang bán rất chạy</b>. Tuy nhiên, vì một lý do nào đó mà sản phẩm sạc dự phòng của chúng ta đang khá ế ẩm.<b> Q2 Tôi tự hỏi liệu giá thành của sản phẩm của chúng ta có đang quá cao so với các đối thủ khác trên thị trường hay không. Chúng ta cần phát triển chiến lược để bắt đầu bán nhiều sản phẩm hơn nên tôi đã tham khảo ý kiến của chuyên gia Marketing về việc thay đổi giá sản phẩm. Q3 Chiều nay chúng ta sẽ họp với họ qua điện thoại, vì vậy vui lòng đến văn phòng của tôi sau bữa trưa và tham gia cuộc họp này.</b></p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62582",
+          "questionNumber": 20,
+          "questionText": "Why does the speaker say, “I wonder if the cost is too high compared to the other products on the market\"?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0407.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To ask for assistance",
+              "raw": "(A) To ask for assistance",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To offer help",
+              "raw": "(B) To offer help",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To suggest a change",
+              "raw": "(C) To suggest a change",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "To create some new products",
+              "raw": "(D) To create some new products",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Tôi chắc chắn rằng tất cả các bạn đều biết rằng <b> dòng sản phẩm ốp điện thoại di động và gậy selfie Q1 mới mà chúng ta vừa phát hành đang bán rất chạy</b>. Tuy nhiên, vì một lý do nào đó mà sản phẩm sạc dự phòng của chúng ta đang khá ế ẩm.<b> Q2 Tôi tự hỏi liệu giá thành của sản phẩm của chúng ta có đang quá cao so với các đối thủ khác trên thị trường hay không. Chúng ta cần phát triển chiến lược để bắt đầu bán nhiều sản phẩm hơn nên tôi đã tham khảo ý kiến của chuyên gia Marketing về việc thay đổi giá sản phẩm. Q3 Chiều nay chúng ta sẽ họp với họ qua điện thoại, vì vậy vui lòng đến văn phòng của tôi sau bữa trưa và tham gia cuộc họp này.</b></p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62583",
+          "questionNumber": 21,
+          "questionText": "What will the listeners most likely do after lunch?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test01_0407.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Review safety policy",
+              "raw": "(A) Review safety policy",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Attend a seminar",
+              "raw": "(B) Attend a seminar",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Go back to work",
+              "raw": "(C) Go back to work",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Have a conference call",
+              "raw": "(D) Have a conference call",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Tôi chắc chắn rằng tất cả các bạn đều biết rằng <b> dòng sản phẩm ốp điện thoại di động và gậy selfie Q1 mới mà chúng ta vừa phát hành đang bán rất chạy</b>. Tuy nhiên, vì một lý do nào đó mà sản phẩm sạc dự phòng của chúng ta đang khá ế ẩm.<b> Q2 Tôi tự hỏi liệu giá thành của sản phẩm của chúng ta có đang quá cao so với các đối thủ khác trên thị trường hay không. Chúng ta cần phát triển chiến lược để bắt đầu bán nhiều sản phẩm hơn nên tôi đã tham khảo ý kiến của chuyên gia Marketing về việc thay đổi giá sản phẩm. Q3 Chiều nay chúng ta sẽ họp với họ qua điện thoại, vì vậy vui lòng đến văn phòng của tôi sau bữa trưa và tham gia cuộc họp này.</b></p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f6256d",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/37602700.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/64818769.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p>Hi, Susan. I&rsquo;m calling about the office furniture we delivered to Harmons &amp; Sons recently. They said their first floor looks really good but they are going to need twenty chairs and twelve whiteboards for their boardrooms upstairs. They recently merged with another company so I think they will have a lot more staff in their building soon. Make sure you check what we have in the warehouse; if we are missing anything, we need to order it today. Also, before you send the order, please have me sign off on it. As the manager, I need to sign all outgoing orders before they leave the office. Please let me know when you have the order prepared.</p>\n",
+      "transcriptViHtml": "<p>Chào Susan. Tôi gọi điện để hỏi về đơn hàng đồ nội thất văn phòng mà gần đây chúng ta đã giao cho Harmons & Sons. Họ đã khá hài lòng với nội thất của tầng một, nhưng sắp tới họ sẽ cần thêm 20 cái ghế và 12 cái bảng trắng cho phòng họp ở tầng trên. Gần đây họ đã sáp nhập với một công ty khác nên tôi nghĩ họ sẽ sớm có thêm rất nhiều nhân viên trong văn phòng của họ. Hãy chắc chắn cô đã kiểm tra hàng hoá trong kho của chúng ta; nếu thiếu gì thì cần đặt hàng ngay hôm nay. Ngoài ra, trước khi cô gửi đơn hàng đi, vui lòng yêu cầu tôi ký vào đó. Với tư cách là người quản lý, tôi cần ký tất cả các đơn hàng trước khi chúng được gửi đi. Vui lòng cho tôi biết khi cô đã chuẩn bị xong đơn hàng cho Harmons & Sons.</p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f62584",
+          "questionNumber": 22,
+          "questionText": "Look at the graphic. Which items need to be ordered?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/64818769.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/37602700.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Office tables and chairs",
+              "raw": "(A) Office tables and chairs",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Chairs and drafting tables",
+              "raw": "(B) Chairs and drafting tables",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Whiteboards and office chairs",
+              "raw": "(C) Whiteboards and office chairs",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Chairs and whiteboard",
+              "raw": "(D) Chairs and whiteboard\n",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Chào Susan. Tôi gọi điện để hỏi về đơn hàng đồ nội thất văn phòng mà gần đây chúng ta đã giao cho Harmons & Sons. Họ đã khá hài lòng với nội thất của tầng một, nhưng sắp tới họ sẽ cần thêm 20 cái ghế và 12 cái bảng trắng cho phòng họp ở tầng trên. Gần đây họ đã sáp nhập với một công ty khác nên tôi nghĩ họ sẽ sớm có thêm rất nhiều nhân viên trong văn phòng của họ. Hãy chắc chắn cô đã kiểm tra hàng hoá trong kho của chúng ta; nếu thiếu gì thì cần đặt hàng ngay hôm nay. Ngoài ra, trước khi cô gửi đơn hàng đi, vui lòng yêu cầu tôi ký vào đó. Với tư cách là người quản lý, tôi cần ký tất cả các đơn hàng trước khi chúng được gửi đi. Vui lòng cho tôi biết khi cô đã chuẩn bị xong đơn hàng cho Harmons & Sons.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62585",
+          "questionNumber": 23,
+          "questionText": "What does the speaker anticipate about the company?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/64818769.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/37602700.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "They won’t need any more furniture.",
+              "raw": "(A) They won’t need any more furniture.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "They will have more staff in their building.",
+              "raw": "(B) They will have more staff in their building.\n",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "The boardrooms will be renovated.",
+              "raw": "(C) The boardrooms will be renovated.\n",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Their staff are moving offices.",
+              "raw": "(D) Their staff are moving offices. ",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Chào Susan. Tôi gọi điện để hỏi về đơn hàng đồ nội thất văn phòng mà gần đây chúng ta đã giao cho Harmons & Sons. Họ đã khá hài lòng với nội thất của tầng một, nhưng sắp tới họ sẽ cần thêm 20 cái ghế và 12 cái bảng trắng cho phòng họp ở tầng trên. Gần đây họ đã sáp nhập với một công ty khác nên tôi nghĩ họ sẽ sớm có thêm rất nhiều nhân viên trong văn phòng của họ. Hãy chắc chắn cô đã kiểm tra hàng hoá trong kho của chúng ta; nếu thiếu gì thì cần đặt hàng ngay hôm nay. Ngoài ra, trước khi cô gửi đơn hàng đi, vui lòng yêu cầu tôi ký vào đó. Với tư cách là người quản lý, tôi cần ký tất cả các đơn hàng trước khi chúng được gửi đi. Vui lòng cho tôi biết khi cô đã chuẩn bị xong đơn hàng cho Harmons & Sons.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62586",
+          "questionNumber": 24,
+          "questionText": "What is the listener asked to do before making any orders?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/64818769.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/37602700.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Sign them herself",
+              "raw": "(A) Sign them herself",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Make sure the manager signs them",
+              "raw": "(B) Make sure the manager signs them",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Bring some extra paper",
+              "raw": "(C) Bring some extra paper",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Prepare a delivery receipt",
+              "raw": "(D) Prepare a delivery receipt \n",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Chào Susan. Tôi gọi điện để hỏi về đơn hàng đồ nội thất văn phòng mà gần đây chúng ta đã giao cho Harmons & Sons. Họ đã khá hài lòng với nội thất của tầng một, nhưng sắp tới họ sẽ cần thêm 20 cái ghế và 12 cái bảng trắng cho phòng họp ở tầng trên. Gần đây họ đã sáp nhập với một công ty khác nên tôi nghĩ họ sẽ sớm có thêm rất nhiều nhân viên trong văn phòng của họ. Hãy chắc chắn cô đã kiểm tra hàng hoá trong kho của chúng ta; nếu thiếu gì thì cần đặt hàng ngay hôm nay. Ngoài ra, trước khi cô gửi đơn hàng đi, vui lòng yêu cầu tôi ký vào đó. Với tư cách là người quản lý, tôi cần ký tất cả các đơn hàng trước khi chúng được gửi đi. Vui lòng cho tôi biết khi cô đã chuẩn bị xong đơn hàng cho Harmons & Sons.</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f275e65d71f3a51f6256e",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/32879751.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/40017526.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p>OK everybody, thank you for coming in. I received the statistics for this year&rsquo;s software market shares. Although we are still in the top four companies, we need to work harder. Slight Line Inc. has just moved past us by three percent one year. We were much bigger than them last year. Analysts are suggesting that Slight Line&rsquo;s success is because they give away a lot of free software updates after people buy their games. In the next quarter, we are going to begin to offer all of our expansion packs for free download. I think this can give us the edge we need and help us get back about Slight Line Inc.</p>\n",
+      "transcriptViHtml": "<p>Được rồi. Chào mọi người, cảm ơn các bạn đã tham gia cuộc họp này. Tôi đã nhận được số liệu thống kê về thị phần phần mềm năm nay. Dù vẫn nằm trong top 4 công ty hàng đầu nhưng chúng ta cần phải nỗ lực hơn nữa. Tập đoàn Slight Line vừa vượt lên chúng ta với tốc độ tăng trưởng tăng thêm 3% trong vòng một năm. Chúng ta từng dẫn trước họ vào năm ngoái. Các nhà phân tích cho rằng thành công của Slight Line đến từ chính sách tặng các bản cập nhật phần mềm miễn phí sau khi khách hàng mua trò chơi của họ. Trong quý tới, chúng ta sẽ bắt đầu cung cấp tất cả các gói mở rộng cập nhật miễn phí. Tôi nghĩ điều này có thể mang lại cho chúng ta lợi thế cần thiết và giúp chúng ta bắt kịp Slight Line Inc.</p>",
+      "questions": [
+        {
+          "id": "613f275e65d71f3a51f62587",
+          "questionNumber": 25,
+          "questionText": "Which industry does the speaker work in?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/40017526.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/32879751.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Computer hardware",
+              "raw": "(A) Computer hardware\n",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Computer games",
+              "raw": "(B) Computer games\n",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Computer software",
+              "raw": "(C) Computer software\n",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Computer microchips",
+              "raw": "(D) Computer microchips\n",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Được rồi. Chào mọi người, cảm ơn các bạn đã tham gia cuộc họp này. Tôi đã nhận được số liệu thống kê về thị phần phần mềm năm nay. Dù vẫn nằm trong top 4 công ty hàng đầu nhưng chúng ta cần phải nỗ lực hơn nữa. Tập đoàn Slight Line vừa vượt lên chúng ta với tốc độ tăng trưởng tăng thêm 3% trong vòng một năm. Chúng ta từng dẫn trước họ vào năm ngoái. Các nhà phân tích cho rằng thành công của Slight Line đến từ chính sách tặng các bản cập nhật phần mềm miễn phí sau khi khách hàng mua trò chơi của họ. Trong quý tới, chúng ta sẽ bắt đầu cung cấp tất cả các gói mở rộng cập nhật miễn phí. Tôi nghĩ điều này có thể mang lại cho chúng ta lợi thế cần thiết và giúp chúng ta bắt kịp Slight Line Inc.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62588",
+          "questionNumber": 26,
+          "questionText": "Look at the graphic. What company does the speaker work for?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/40017526.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/32879751.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Future Tech Studios",
+              "raw": "(A) Future Tech Studios",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Slight Line Inc.",
+              "raw": "(B) Slight Line Inc.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Seven Strings Technologies",
+              "raw": "(C) Seven Strings Technologies\n",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "AK Gaming",
+              "raw": "(D) AK Gaming\n",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Được rồi. Chào mọi người, cảm ơn các bạn đã tham gia cuộc họp này. Tôi đã nhận được số liệu thống kê về thị phần phần mềm năm nay. Dù vẫn nằm trong top 4 công ty hàng đầu nhưng chúng ta cần phải nỗ lực hơn nữa. Tập đoàn Slight Line vừa vượt lên chúng ta với tốc độ tăng trưởng tăng thêm 3% trong vòng một năm. Chúng ta từng dẫn trước họ vào năm ngoái. Các nhà phân tích cho rằng thành công của Slight Line đến từ chính sách tặng các bản cập nhật phần mềm miễn phí sau khi khách hàng mua trò chơi của họ. Trong quý tới, chúng ta sẽ bắt đầu cung cấp tất cả các gói mở rộng cập nhật miễn phí. Tôi nghĩ điều này có thể mang lại cho chúng ta lợi thế cần thiết và giúp chúng ta bắt kịp Slight Line Inc.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f275e65d71f3a51f62589",
+          "questionNumber": 27,
+          "questionText": "According to the speaker, what will the company do in the next quarter?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/40017526.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/32879751.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Give away free gifts",
+              "raw": "(A) Give away free gifts",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Give away expansion packs for free",
+              "raw": "(B) Give away expansion packs for free",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Offer free software with new products",
+              "raw": "(C) Offer free software with new products",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Install a new security system",
+              "raw": "(D) Install a new security system",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Được rồi. Chào mọi người, cảm ơn các bạn đã tham gia cuộc họp này. Tôi đã nhận được số liệu thống kê về thị phần phần mềm năm nay. Dù vẫn nằm trong top 4 công ty hàng đầu nhưng chúng ta cần phải nỗ lực hơn nữa. Tập đoàn Slight Line vừa vượt lên chúng ta với tốc độ tăng trưởng tăng thêm 3% trong vòng một năm. Chúng ta từng dẫn trước họ vào năm ngoái. Các nhà phân tích cho rằng thành công của Slight Line đến từ chính sách tặng các bản cập nhật phần mềm miễn phí sau khi khách hàng mua trò chơi của họ. Trong quý tới, chúng ta sẽ bắt đầu cung cấp tất cả các gói mở rộng cập nhật miễn phí. Tôi nghĩ điều này có thể mang lại cho chúng ta lợi thế cần thiết và giúp chúng ta bắt kịp Slight Line Inc.</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "61722854b4203c46d8e28ff8",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/95321387.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/46815718.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p>Hello everyone! Welcome to your first day at Valencia&rsquo;s Culinary Training Center. Your ability to combine cooking skills with health and safety procedures will be crucial for your future career. Here&rsquo;s our training schedule for the next four days. Today we will work on basic knife skills and food preparation. This is an essential first step in becoming a skilled chef. For the rest of the week, each day will have a different theme relating to the most important aspects of working in a kitchen. We have some celebrity chef&rsquo;s coming in who are highly skilled and I&rsquo;m sure you will enjoy working with them. One more thing to remember is we will have a special team lunch on Wednesday that will be prepared by everyone together.</p>\n",
+      "transcriptViHtml": "<p>Xin chào mọi người! Chào mừng bạn đến với ngày đầu tiên tại Trung tâm Đào tạo Ẩm thực Valencia. Các kỹ năng nấu nướng và các quy trình về sức khỏe dinh dưỡng cũng như đẩm bảo an toàn đều là những kỹ năng rất quan trọng cho sự nghiệp tương lai của các bạn. Đây là lịch trình huấn luyện của chúng ta trong bốn ngày tới. Hôm nay chúng ta sẽ học về các kỹ năng dùng dao cơ bản và các công đoạn chuẩn bị thức ăn. Đây là bước quan trọng đầu tiên để trở thành một đầu bếp lành nghề. Trong những ngày còn lại trong tuần, mỗi ngày sẽ có một chủ đề khác nhau liên quan đến những khía cạnh quan trọng nhất của công việc trong bếp. Chúng ta sẽ có cơ hội đón tiếp một số đầu bếp nổi tiếng với tay nghề cao và tôi chắc chắn rằng các bạn sẽ thích làm việc với họ. Một điều nữa cần nhớ là vào thứ Tư, chúng ta sẽ có bữa trưa đặc biệt do mọi người tự tay cùng nhau chuẩn bị.</p>",
+      "questions": [
+        {
+          "id": "61722854b4203c46d8e28ff9",
+          "questionNumber": 28,
+          "questionText": "What are the listeners training to be?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/46815718.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/95321387.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Factory workers",
+              "raw": "(A) Factory workers ",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Store owners",
+              "raw": "(B) Store owners ",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Restaurants chefs",
+              "raw": "(C) Restaurants chefs ",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Medical workers",
+              "raw": "(D) Medical workers ",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Xin chào mọi người! Chào mừng bạn đến với ngày đầu tiên tại Trung tâm Đào tạo Ẩm thực Valencia. Các kỹ năng nấu nướng và các quy trình về sức khỏe dinh dưỡng cũng như đẩm bảo an toàn đều là những kỹ năng rất quan trọng cho sự nghiệp tương lai của các bạn. Đây là lịch trình huấn luyện của chúng ta trong bốn ngày tới. Hôm nay chúng ta sẽ học về các kỹ năng dùng dao cơ bản và các công đoạn chuẩn bị thức ăn. Đây là bước quan trọng đầu tiên để trở thành một đầu bếp lành nghề. Trong những ngày còn lại trong tuần, mỗi ngày sẽ có một chủ đề khác nhau liên quan đến những khía cạnh quan trọng nhất của công việc trong bếp. Chúng ta sẽ có cơ hội đón tiếp một số đầu bếp nổi tiếng với tay nghề cao và tôi chắc chắn rằng các bạn sẽ thích làm việc với họ. Một điều nữa cần nhớ là vào thứ Tư, chúng ta sẽ có bữa trưa đặc biệt do mọi người tự tay cùng nhau chuẩn bị.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "61722854b4203c46d8e28ffa",
+          "questionNumber": 29,
+          "questionText": "According to the speaker, what will the listeners enjoy doing?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/46815718.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/95321387.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Working with the celebrity chefs",
+              "raw": "(A) Working with the celebrity chefs",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Becoming a celebrity chef",
+              "raw": "(B) Becoming a celebrity chef",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Using the kitchen tools",
+              "raw": "(C) Using the kitchen tools",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Working with each other",
+              "raw": "(D) Working with each other",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Xin chào mọi người! Chào mừng bạn đến với ngày đầu tiên tại Trung tâm Đào tạo Ẩm thực Valencia. Các kỹ năng nấu nướng và các quy trình về sức khỏe dinh dưỡng cũng như đẩm bảo an toàn đều là những kỹ năng rất quan trọng cho sự nghiệp tương lai của các bạn. Đây là lịch trình huấn luyện của chúng ta trong bốn ngày tới. Hôm nay chúng ta sẽ học về các kỹ năng dùng dao cơ bản và các công đoạn chuẩn bị thức ăn. Đây là bước quan trọng đầu tiên để trở thành một đầu bếp lành nghề. Trong những ngày còn lại trong tuần, mỗi ngày sẽ có một chủ đề khác nhau liên quan đến những khía cạnh quan trọng nhất của công việc trong bếp. Chúng ta sẽ có cơ hội đón tiếp một số đầu bếp nổi tiếng với tay nghề cao và tôi chắc chắn rằng các bạn sẽ thích làm việc với họ. Một điều nữa cần nhớ là vào thứ Tư, chúng ta sẽ có bữa trưa đặc biệt do mọi người tự tay cùng nhau chuẩn bị.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "61722854b4203c46d8e28ffb",
+          "questionNumber": 30,
+          "questionText": "Look at the graphic. On what day will the listeners learn food safety and hygiene?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/46815718.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/24/95321387.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Tuesday",
+              "raw": "(A) Tuesday",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Wednesday",
+              "raw": "(B) Wednesday",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Thursday",
+              "raw": "(C) Thursday",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Friday",
+              "raw": "(D) Friday ",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p>Xin chào mọi người! Chào mừng bạn đến với ngày đầu tiên tại Trung tâm Đào tạo Ẩm thực Valencia. Các kỹ năng nấu nướng và các quy trình về sức khỏe dinh dưỡng cũng như đẩm bảo an toàn đều là những kỹ năng rất quan trọng cho sự nghiệp tương lai của các bạn. Đây là lịch trình huấn luyện của chúng ta trong bốn ngày tới. Hôm nay chúng ta sẽ học về các kỹ năng dùng dao cơ bản và các công đoạn chuẩn bị thức ăn. Đây là bước quan trọng đầu tiên để trở thành một đầu bếp lành nghề. Trong những ngày còn lại trong tuần, mỗi ngày sẽ có một chủ đề khác nhau liên quan đến những khía cạnh quan trọng nhất của công việc trong bếp. Chúng ta sẽ có cơ hội đón tiếp một số đầu bếp nổi tiếng với tay nghề cao và tôi chắc chắn rằng các bạn sẽ thích làm việc với họ. Một điều nữa cần nhớ là vào thứ Tư, chúng ta sẽ có bữa trưa đặc biệt do mọi người tự tay cùng nhau chuẩn bị.</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    }
+  ]
+}

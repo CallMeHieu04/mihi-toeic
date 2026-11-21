@@ -1,0 +1,808 @@
+{
+  "topicId": "6204c736d1bfab7a5b00162b",
+  "title": "PRESENT SIMPLE TENSE - Practice 1",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b00178e",
+        "questionNumber": 1,
+        "questionText": "It usually ____ one hour to get to the City Hall.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will take",
+            "raw": "A. will take",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "takes",
+            "raw": "B. takes",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "took",
+            "raw": "C. took",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "taken",
+            "raw": "D. taken",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It usually ____ one hour to get to the City Hall.' requires a verb in the present simple tense because the sentence is talking about a general fact or routine. The subject 'It' is a dummy subject, and the verb 'take' is used to indicate the amount of time needed for something. In the present simple, we use 'takes' with singular subjects.<br><ul><li><b>will take</b> (verb (future simple)): Future simple tense, used for actions that will happen in the future. Not suitable here because the sentence is about a general fact.</li><li><b>takes</b> (verb (present simple)): Present simple tense, used for general truths or routines. Correct choice for this sentence.</li><li><b>took</b> (verb (past simple)): Past simple tense, used for actions that happened in the past. Not suitable here.</li><li><b>taken</b> (verb (past participle)): Past participle, used with auxiliary verbs (have/has/had). Cannot be used alone here.</li></ul><b>Related structure or vocabulary:</b> It takes + (time) + to do something: This structure is used to express how much time is needed to do something.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'It usually ____ one hour to get to the City Hall.' cần một động từ ở thì hiện tại đơn vì câu này nói về một sự thật chung hoặc thói quen. Chủ ngữ 'It' là chủ ngữ giả, và động từ 'take' được dùng để chỉ khoảng thời gian cần thiết để làm gì đó. Ở thì hiện tại đơn, chúng ta dùng 'takes' với chủ ngữ số ít.<br><ul><li><b>will take</b> (động từ (thì tương lai đơn)): Thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai. Không phù hợp vì câu nói về sự thật chung.</li><li><b>takes</b> (động từ (thì hiện tại đơn)): Thì hiện tại đơn, dùng cho sự thật hoặc thói quen. Đây là đáp án đúng cho câu này.</li><li><b>took</b> (động từ (thì quá khứ đơn)): Thì quá khứ đơn, dùng cho hành động đã xảy ra trong quá khứ. Không phù hợp ở đây.</li><li><b>taken</b> (động từ (quá khứ phân từ)): Quá khứ phân từ, dùng với các động từ phụ (have/has/had). Không thể dùng một mình ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> It takes + (thời gian) + to do something: Cấu trúc này dùng để diễn tả mất bao nhiêu thời gian để làm việc gì đó.<br><br><b>Tạm dịch:</b> It usually takes one hour to get to the City Hall. --> Thường mất một tiếng để đến Tòa thị chính.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It usually ____ one hour to get to the City Hall.' requires a verb in the present simple tense because the sentence is talking about a general fact or routine. The subject 'It' is a dummy subject, and the verb 'take' is used to indicate the amount of time needed for something. In the present simple, we use 'takes' with singular subjects.<br><ul><li><b>will take</b> (verb (future simple)): Future simple tense, used for actions that will happen in the future. Not suitable here because the sentence is about a general fact.</li><li><b>takes</b> (verb (present simple)): Present simple tense, used for general truths or routines. Correct choice for this sentence.</li><li><b>took</b> (verb (past simple)): Past simple tense, used for actions that happened in the past. Not suitable here.</li><li><b>taken</b> (verb (past participle)): Past participle, used with auxiliary verbs (have/has/had). Cannot be used alone here.</li></ul><b>Related structure or vocabulary:</b> It takes + (time) + to do something: This structure is used to express how much time is needed to do something.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b00178f",
+        "questionNumber": 2,
+        "questionText": "I ____ a book every morning.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "read",
+            "raw": "A. read",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "have read",
+            "raw": "B. have read",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has read",
+            "raw": "C. has read",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "readed",
+            "raw": "D. readed",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ____ a book every morning.' requires a verb in the present simple tense because the sentence describes a daily habit or routine. In English, the present simple tense is used to talk about habits, routines, and general truths. For the subject 'I', the base form of the verb is used.<br><ul><li><b>read</b> (verb (present simple)): Base form of the verb 'to read', used with 'I' in the present simple tense to describe habits.</li><li><b>have read</b> (verb (present perfect)): Present perfect tense, used to describe an action that has happened at an unspecified time before now. Not suitable for expressing daily routines.</li><li><b>has read</b> (verb (present perfect, third person singular)): Present perfect tense, but 'has' is used with third person singular subjects (he, she, it), not with 'I'.</li><li><b>readed</b> (incorrect verb form): Incorrect form. The past tense of 'read' is also 'read' (pronounced differently), not 'readed'.</li></ul><b>Related structure or vocabulary:</b> Present simple tense: Subject + base verb (for I/You/We/They) to express habits or routines.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I ____ a book every morning.' cần một động từ ở thì hiện tại đơn vì câu này diễn tả một thói quen hoặc hành động lặp đi lặp lại hàng ngày. Trong tiếng Anh, thì hiện tại đơn được dùng để nói về thói quen, lịch trình hoặc sự thật hiển nhiên. Với chủ ngữ 'I', ta dùng động từ nguyên mẫu không chia.<br><ul><li><b>read</b> (động từ (hiện tại đơn)): Động từ nguyên mẫu 'read', dùng với 'I' ở thì hiện tại đơn để diễn tả thói quen.</li><li><b>have read</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng để diễn tả hành động đã xảy ra vào một thời điểm không xác định trước hiện tại. Không phù hợp để diễn tả thói quen hàng ngày.</li><li><b>has read</b> (động từ (hiện tại hoàn thành, ngôi thứ ba số ít)): 'Has' dùng cho chủ ngữ số ít ngôi thứ ba (he, she, it), không dùng với 'I'.</li><li><b>readed</b> (động từ sai): Sai ngữ pháp. Quá khứ của 'read' cũng là 'read' (phát âm khác), không phải 'readed'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn: Chủ ngữ + động từ nguyên mẫu (với I/You/We/They) để diễn tả thói quen hoặc hành động lặp lại.<br><br><b>Tạm dịch:</b> Tôi đọc sách mỗi sáng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ____ a book every morning.' requires a verb in the present simple tense because the sentence describes a daily habit or routine. In English, the present simple tense is used to talk about habits, routines, and general truths. For the subject 'I', the base form of the verb is used.<br><ul><li><b>read</b> (verb (present simple)): Base form of the verb 'to read', used with 'I' in the present simple tense to describe habits.</li><li><b>have read</b> (verb (present perfect)): Present perfect tense, used to describe an action that has happened at an unspecified time before now. Not suitable for expressing daily routines.</li><li><b>has read</b> (verb (present perfect, third person singular)): Present perfect tense, but 'has' is used with third person singular subjects (he, she, it), not with 'I'.</li><li><b>readed</b> (incorrect verb form): Incorrect form. The past tense of 'read' is also 'read' (pronounced differently), not 'readed'.</li></ul><b>Related structure or vocabulary:</b> Present simple tense: Subject + base verb (for I/You/We/They) to express habits or routines.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001790",
+        "questionNumber": 3,
+        "questionText": "He usually ____ to work at 7:30.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "goes",
+            "raw": "A. goes",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "will go",
+            "raw": "B. will go",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "went",
+            "raw": "C. went ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has gone",
+            "raw": "D. has gone ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'He usually ____ to work at 7:30.' requires a verb in the correct tense and form. The word 'usually' is an adverb of frequency, which is commonly used with the present simple tense to describe habitual actions or routines. Therefore, the verb should be in the present simple form.<br><ul><li><b>goes</b> (verb (present simple)): Present simple tense, third person singular form of 'go', used for regular actions or routines.</li><li><b>will go</b> (verb (future simple)): Future simple tense, used to talk about actions that will happen in the future.</li><li><b>went</b> (verb (past simple)): Past simple tense, used to describe actions that happened in the past.</li><li><b>has gone</b> (verb (present perfect)): Present perfect tense, used to describe actions that have happened at an unspecified time before now.</li></ul><b>Related structure or vocabulary:</b> Adverbs of frequency (usually, always, often, etc.) are used with the present simple tense to describe habits or routines. Present simple for third person singular (he/she/it) adds -s or -es to the base verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'He usually ____ to work at 7:30.' cần một động từ ở thì và dạng đúng. Từ 'usually' là trạng từ chỉ tần suất, thường được dùng với thì hiện tại đơn để diễn tả những hành động lặp đi lặp lại hoặc thói quen. Vì vậy, động từ cần chia ở thì hiện tại đơn.<br><ul><li><b>goes</b> (động từ (hiện tại đơn)): Thì hiện tại đơn, dạng ngôi thứ ba số ít của 'go', dùng để diễn tả hành động thường xuyên hoặc thói quen.</li><li><b>will go</b> (động từ (tương lai đơn)): Thì tương lai đơn, dùng để nói về hành động sẽ xảy ra trong tương lai.</li><li><b>went</b> (động từ (quá khứ đơn)): Thì quá khứ đơn, dùng để diễn tả hành động đã xảy ra trong quá khứ.</li><li><b>has gone</b> (động từ (hiện tại hoàn thành)): Thì hiện tại hoàn thành, dùng để diễn tả hành động đã xảy ra tại một thời điểm không xác định trước hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ chỉ tần suất (usually, always, often,...) thường đi với thì hiện tại đơn để diễn tả thói quen hoặc hành động lặp lại. Động từ ở thì hiện tại đơn với chủ ngữ ngôi thứ ba số ít (he/she/it) phải thêm -s hoặc -es.<br><br><b>Tạm dịch:</b> Anh ấy thường đi làm lúc 7:30.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'He usually ____ to work at 7:30.' requires a verb in the correct tense and form. The word 'usually' is an adverb of frequency, which is commonly used with the present simple tense to describe habitual actions or routines. Therefore, the verb should be in the present simple form.<br><ul><li><b>goes</b> (verb (present simple)): Present simple tense, third person singular form of 'go', used for regular actions or routines.</li><li><b>will go</b> (verb (future simple)): Future simple tense, used to talk about actions that will happen in the future.</li><li><b>went</b> (verb (past simple)): Past simple tense, used to describe actions that happened in the past.</li><li><b>has gone</b> (verb (present perfect)): Present perfect tense, used to describe actions that have happened at an unspecified time before now.</li></ul><b>Related structure or vocabulary:</b> Adverbs of frequency (usually, always, often, etc.) are used with the present simple tense to describe habits or routines. Present simple for third person singular (he/she/it) adds -s or -es to the base verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001791",
+        "questionNumber": 4,
+        "questionText": "The public library usually ____ no fees for local residents to borrow books.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will charge",
+            "raw": "A. will charge",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "charging",
+            "raw": "B. charging",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to charge",
+            "raw": "C. to charge",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "charges",
+            "raw": "D. charges",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct verb form to complete the present simple tense. The subject is 'The public library', which is a singular noun, and the sentence describes a general fact or routine. In English, when talking about general truths or habits, we use the present simple tense. For singular third-person subjects, the verb takes an -s ending.<br><ul><li><b>will charge</b> (verb (future simple)): Future simple tense, used for actions that will happen in the future, not suitable for describing general facts.</li><li><b>charging</b> (verb (V-ing)): Present participle or gerund form, not used as the main verb in this sentence structure.</li><li><b>to charge</b> (verb (to-infinitive)): Infinitive form, not used as the main verb after the subject in this context.</li><li><b>charges</b> (verb (present simple, third person singular)): Present simple tense, third person singular, correctly matches the subject and expresses a general fact.</li></ul><b>Related structure or vocabulary:</b> Present simple tense for general truths or routines: Subject (singular) + verb-s/es<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một động từ ở thì hiện tại đơn để hoàn thành ý nghĩa. Chủ ngữ là 'The public library' (thư viện công cộng), là danh từ số ít, và câu mô tả một sự thật chung hoặc thói quen. Trong tiếng Anh, khi nói về sự thật chung hoặc thói quen, ta dùng thì hiện tại đơn. Với chủ ngữ số ít ngôi thứ ba, động từ phải thêm -s.<br><ul><li><b>will charge</b> (động từ (thì tương lai đơn)): Thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai, không phù hợp để diễn tả sự thật chung.</li><li><b>charging</b> (động từ (V-ing)): Dạng V-ing (hiện tại phân từ hoặc danh động từ), không dùng làm động từ chính trong cấu trúc này.</li><li><b>to charge</b> (động từ (to-infinitive)): Động từ nguyên mẫu có 'to', không dùng làm động từ chính sau chủ ngữ trong trường hợp này.</li><li><b>charges</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Thì hiện tại đơn, ngôi thứ ba số ít, phù hợp với chủ ngữ và diễn tả sự thật chung.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn diễn tả sự thật chung hoặc thói quen: Chủ ngữ (số ít) + động từ thêm -s/es<br><br><b>Tạm dịch:</b> Thư viện công cộng thường không thu phí người dân địa phương khi mượn sách.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct verb form to complete the present simple tense. The subject is 'The public library', which is a singular noun, and the sentence describes a general fact or routine. In English, when talking about general truths or habits, we use the present simple tense. For singular third-person subjects, the verb takes an -s ending.<br><ul><li><b>will charge</b> (verb (future simple)): Future simple tense, used for actions that will happen in the future, not suitable for describing general facts.</li><li><b>charging</b> (verb (V-ing)): Present participle or gerund form, not used as the main verb in this sentence structure.</li><li><b>to charge</b> (verb (to-infinitive)): Infinitive form, not used as the main verb after the subject in this context.</li><li><b>charges</b> (verb (present simple, third person singular)): Present simple tense, third person singular, correctly matches the subject and expresses a general fact.</li></ul><b>Related structure or vocabulary:</b> Present simple tense for general truths or routines: Subject (singular) + verb-s/es<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001792",
+        "questionNumber": 5,
+        "questionText": "Every month, we ____  a monthly business meeting.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will have",
+            "raw": "A. will have",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "have",
+            "raw": "B. have",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "having",
+            "raw": "C. having",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "has",
+            "raw": "D. has",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Every month, we ____ a monthly business meeting.' requires a verb that correctly fits the subject 'we' and matches the adverb of frequency 'every month.' In English, when describing regular or repeated actions, we use the simple present tense. The verb 'have' is the base form that matches the plural subject 'we.'<br><ul><li><b>will have</b> (verb (future simple)): 'Will have' is the future simple tense, used for actions that will happen in the future, not for regular or repeated actions.</li><li><b>have</b> (verb (simple present)): 'Have' is the base form of the verb, used with plural subjects like 'we' in the simple present tense to describe regular actions.</li><li><b>having</b> (verb (present participle/gerund)): 'Having' is the present participle or gerund form, not used after the subject without an auxiliary verb.</li><li><b>has</b> (verb (simple present, third person singular)): 'Has' is the third person singular form of 'have,' used with 'he/she/it,' not with 'we.'</li></ul><b>Related structure or vocabulary:</b> Simple present tense is used for habits or repeated actions. Subject-verb agreement: 'we' + 'have'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Every month, we ____ a monthly business meeting.' cần một động từ phù hợp với chủ ngữ 'we' và trạng từ chỉ tần suất 'every month'. Trong tiếng Anh, khi nói về hành động lặp đi lặp lại hoặc thói quen, ta dùng thì hiện tại đơn. Động từ 'have' là dạng nguyên thể phù hợp với chủ ngữ số nhiều 'we'.<br><ul><li><b>will have</b> (động từ (thì tương lai đơn)): 'Will have' là thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai, không dùng cho hành động lặp lại.</li><li><b>have</b> (động từ (thì hiện tại đơn)): 'Have' là động từ nguyên thể, dùng với chủ ngữ số nhiều như 'we' trong thì hiện tại đơn để diễn tả hành động thường xuyên.</li><li><b>having</b> (động từ (V-ing)): 'Having' là dạng V-ing (hiện tại phân từ/động danh từ), không dùng sau chủ ngữ mà không có trợ động từ.</li><li><b>has</b> (động từ (thì hiện tại đơn, ngôi thứ ba số ít)): 'Has' là dạng động từ chia cho ngôi thứ ba số ít (he/she/it), không dùng với 'we'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn dùng cho thói quen hoặc hành động lặp lại. Quy tắc hòa hợp chủ ngữ - động từ: 'we' + 'have'.<br><br><b>Tạm dịch:</b> Mỗi tháng, chúng tôi tổ chức một cuộc họp kinh doanh hàng tháng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Every month, we ____ a monthly business meeting.' requires a verb that correctly fits the subject 'we' and matches the adverb of frequency 'every month.' In English, when describing regular or repeated actions, we use the simple present tense. The verb 'have' is the base form that matches the plural subject 'we.'<br><ul><li><b>will have</b> (verb (future simple)): 'Will have' is the future simple tense, used for actions that will happen in the future, not for regular or repeated actions.</li><li><b>have</b> (verb (simple present)): 'Have' is the base form of the verb, used with plural subjects like 'we' in the simple present tense to describe regular actions.</li><li><b>having</b> (verb (present participle/gerund)): 'Having' is the present participle or gerund form, not used after the subject without an auxiliary verb.</li><li><b>has</b> (verb (simple present, third person singular)): 'Has' is the third person singular form of 'have,' used with 'he/she/it,' not with 'we.'</li></ul><b>Related structure or vocabulary:</b> Simple present tense is used for habits or repeated actions. Subject-verb agreement: 'we' + 'have'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001793",
+        "questionNumber": 6,
+        "questionText": "The department heads frequently ____ with the overseas marketing team.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to meet",
+            "raw": "A. to meet",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will meet",
+            "raw": "B. will meet",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "meet",
+            "raw": "C. meet",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "meeting",
+            "raw": "D. meeting",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The department heads frequently ____ with the overseas marketing team.' requires a verb that fits with the adverb 'frequently.' In English, adverbs of frequency (such as 'frequently,' 'always,' 'usually,' etc.) are typically used with the simple present tense to describe habitual or repeated actions. Therefore, the correct form is the base form of the verb without 'to' or '-ing,' which is 'meet.'<br><ul><li><b>to meet</b> (infinitive): Infinitive form, usually used after certain verbs or adjectives, not after adverbs of frequency.</li><li><b>will meet</b> (future tense): Simple future tense, used to talk about future actions, not habitual actions.</li><li><b>meet</b> (simple present): Base form (simple present), used with plural subjects and adverbs of frequency to indicate regular actions.</li><li><b>meeting</b> (present participle/gerund): Present participle or gerund, not used after adverbs of frequency in this context.</li></ul><b>Related structure or vocabulary:</b> Adverbs of frequency + simple present tense: Subject + adverb of frequency + base verb (for plural subjects).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The department heads frequently ____ with the overseas marketing team.' cần một động từ phù hợp với trạng từ chỉ tần suất 'frequently.' Trong tiếng Anh, các trạng từ chỉ tần suất (như 'frequently', 'always', 'usually',...) thường đi với thì hiện tại đơn để diễn tả hành động lặp đi lặp lại hoặc thói quen. Do đó, dạng đúng là động từ nguyên mẫu không 'to' hoặc '-ing', chính là 'meet.'<br><ul><li><b>to meet</b> (động từ nguyên mẫu): Dạng động từ nguyên mẫu có 'to', thường dùng sau một số động từ hoặc tính từ, không dùng sau trạng từ chỉ tần suất.</li><li><b>will meet</b> (thì tương lai đơn): Thì tương lai đơn, dùng để nói về hành động trong tương lai, không phải hành động lặp lại.</li><li><b>meet</b> (thì hiện tại đơn): Dạng nguyên mẫu (thì hiện tại đơn), dùng với chủ ngữ số nhiều và trạng từ chỉ tần suất để diễn tả hành động thường xuyên.</li><li><b>meeting</b> (hiện tại phân từ/động danh từ): Dạng V-ing (hiện tại phân từ/động danh từ), không dùng sau trạng từ chỉ tần suất trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ chỉ tần suất + thì hiện tại đơn: Chủ ngữ + trạng từ chỉ tần suất + động từ nguyên mẫu (với chủ ngữ số nhiều).<br><br><b>Tạm dịch:</b> Các trưởng phòng thường xuyên gặp gỡ với đội ngũ tiếp thị ở nước ngoài.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The department heads frequently ____ with the overseas marketing team.' requires a verb that fits with the adverb 'frequently.' In English, adverbs of frequency (such as 'frequently,' 'always,' 'usually,' etc.) are typically used with the simple present tense to describe habitual or repeated actions. Therefore, the correct form is the base form of the verb without 'to' or '-ing,' which is 'meet.'<br><ul><li><b>to meet</b> (infinitive): Infinitive form, usually used after certain verbs or adjectives, not after adverbs of frequency.</li><li><b>will meet</b> (future tense): Simple future tense, used to talk about future actions, not habitual actions.</li><li><b>meet</b> (simple present): Base form (simple present), used with plural subjects and adverbs of frequency to indicate regular actions.</li><li><b>meeting</b> (present participle/gerund): Present participle or gerund, not used after adverbs of frequency in this context.</li></ul><b>Related structure or vocabulary:</b> Adverbs of frequency + simple present tense: Subject + adverb of frequency + base verb (for plural subjects).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001794",
+        "questionNumber": 7,
+        "questionText": "A good supervisor ____  encouragement to employees.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "gave",
+            "raw": "A. gave",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is giving",
+            "raw": "B. is giving",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "given",
+            "raw": "C. given",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "gives",
+            "raw": "D. gives",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a verb in the present simple tense because the sentence talks about a general truth or habit. The subject 'A good supervisor' is singular, so the verb must be in the third person singular form.<br><ul><li><b>gave</b> (verb (past simple)): Past tense of 'give', used for actions that happened in the past.</li><li><b>is giving</b> (verb (present continuous)): Present continuous tense, used for actions happening right now.</li><li><b>given</b> (verb (past participle)): Past participle form of 'give', used in passive voice or perfect tenses.</li><li><b>gives</b> (verb (present simple, third person singular)): Present simple tense, third person singular, used for general truths or habits.</li></ul><b>Related structure or vocabulary:</b> Present simple tense is used to express general truths, habits, or repeated actions. For singular third person subjects (he, she, it), the verb takes an -s ending: 'gives'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một động từ ở thì hiện tại đơn vì câu nói về một sự thật chung hoặc thói quen. Chủ ngữ 'A good supervisor' là số ít, nên động từ phải chia ở ngôi thứ ba số ít.<br><ul><li><b>gave</b> (động từ (quá khứ đơn)): Thì quá khứ đơn của 'give', dùng cho hành động đã xảy ra trong quá khứ.</li><li><b>is giving</b> (động từ (hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra ngay lúc nói.</li><li><b>given</b> (động từ (quá khứ phân từ)): Dạng quá khứ phân từ của 'give', dùng trong câu bị động hoặc thì hoàn thành.</li><li><b>gives</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Thì hiện tại đơn, ngôi thứ ba số ít, dùng cho sự thật chung hoặc thói quen.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn dùng để diễn tả sự thật chung, thói quen hoặc hành động lặp đi lặp lại. Với chủ ngữ số ít ngôi thứ ba (he, she, it), động từ thêm -s: 'gives'.<br><br><b>Tạm dịch:</b> A good supervisor gives encouragement to employees. --> Một người giám sát tốt sẽ động viên nhân viên của mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a verb in the present simple tense because the sentence talks about a general truth or habit. The subject 'A good supervisor' is singular, so the verb must be in the third person singular form.<br><ul><li><b>gave</b> (verb (past simple)): Past tense of 'give', used for actions that happened in the past.</li><li><b>is giving</b> (verb (present continuous)): Present continuous tense, used for actions happening right now.</li><li><b>given</b> (verb (past participle)): Past participle form of 'give', used in passive voice or perfect tenses.</li><li><b>gives</b> (verb (present simple, third person singular)): Present simple tense, third person singular, used for general truths or habits.</li></ul><b>Related structure or vocabulary:</b> Present simple tense is used to express general truths, habits, or repeated actions. For singular third person subjects (he, she, it), the verb takes an -s ending: 'gives'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001795",
+        "questionNumber": 8,
+        "questionText": "He usually ____ coffee but now he is drinking tea .",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to drink",
+            "raw": "A. to drink",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "drinks",
+            "raw": "B. drinks",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "drunk",
+            "raw": "C. drunk",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "is drinking",
+            "raw": "D. is drinking",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to match the context of the sentence. The sentence describes a habitual action ('He usually ____ coffee') and a current action ('but now he is drinking tea'). For habitual actions, we use the simple present tense. Therefore, the correct answer is 'drinks'.<br><ul><li><b>to drink</b> (verb (infinitive)): Infinitive form, not used after 'usually' to describe habits.</li><li><b>drinks</b> (verb (simple present)): Simple present tense, used for habitual actions with 'he/she/it'.</li><li><b>drunk</b> (verb (past participle)): Past participle, not suitable here.</li><li><b>is drinking</b> (verb (present continuous)): Present continuous, used for actions happening now, but 'usually' requires simple present.</li></ul><b>Related structure or vocabulary:</b> usually + simple present tense: used to talk about habits or routines<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng động từ phù hợp với ngữ cảnh câu. Câu này mô tả một hành động thường xuyên ('He usually ____ coffee') và một hành động đang diễn ra ('but now he is drinking tea'). Với hành động thường xuyên, ta dùng thì hiện tại đơn. Vì vậy, đáp án đúng là 'drinks'.<br><ul><li><b>to drink</b> (động từ (nguyên mẫu)): Dạng động từ nguyên mẫu, không dùng sau 'usually' để diễn tả thói quen.</li><li><b>drinks</b> (động từ (hiện tại đơn)): Thì hiện tại đơn, dùng cho hành động thường xuyên với chủ ngữ 'he/she/it'.</li><li><b>drunk</b> (động từ (quá khứ phân từ)): Dạng quá khứ phân từ, không phù hợp trong trường hợp này.</li><li><b>is drinking</b> (động từ (hiện tại tiếp diễn)): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra, nhưng 'usually' cần hiện tại đơn.</li></ul><b>Cấu trúc và từ vựng:</b> 'usually' + động từ hiện tại đơn: dùng để nói về thói quen hoặc hành động lặp đi lặp lại<br><br><b>Tạm dịch:</b> Anh ấy thường uống cà phê nhưng bây giờ anh ấy đang uống trà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to match the context of the sentence. The sentence describes a habitual action ('He usually ____ coffee') and a current action ('but now he is drinking tea'). For habitual actions, we use the simple present tense. Therefore, the correct answer is 'drinks'.<br><ul><li><b>to drink</b> (verb (infinitive)): Infinitive form, not used after 'usually' to describe habits.</li><li><b>drinks</b> (verb (simple present)): Simple present tense, used for habitual actions with 'he/she/it'.</li><li><b>drunk</b> (verb (past participle)): Past participle, not suitable here.</li><li><b>is drinking</b> (verb (present continuous)): Present continuous, used for actions happening now, but 'usually' requires simple present.</li></ul><b>Related structure or vocabulary:</b> usually + simple present tense: used to talk about habits or routines<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001796",
+        "questionNumber": 9,
+        "questionText": "I ____  care whether you go or not.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "don’t",
+            "raw": "A. don’t",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "doesn’t",
+            "raw": "B. doesn’t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "am not",
+            "raw": "C. am not",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "wasn’t",
+            "raw": "D. wasn’t",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ____ care whether you go or not.' requires the correct form of the verb 'do' to match the subject 'I'. In English, 'I' always goes with 'do' in the present simple tense, and the negative form is 'do not' or 'don't'.<br><ul><li><b>don’t</b> (auxiliary verb (negative form)): 'Don’t' is the contraction of 'do not', used with 'I', 'you', 'we', and 'they' in the present simple tense to make negative sentences.</li><li><b>doesn’t</b> (auxiliary verb (negative form)): 'Doesn’t' is the contraction of 'does not', used with 'he', 'she', and 'it' in the present simple tense. It cannot be used with 'I'.</li><li><b>am not</b> (verb (to be, negative form)): 'Am not' is the negative form of the verb 'to be' for 'I', but 'care' is not an adjective or noun, so 'am not' cannot be used here.</li><li><b>wasn’t</b> (verb (to be, past tense, negative form)): 'Wasn’t' is the contraction of 'was not', the past tense of 'to be'. It is not used with the verb 'care' in this context.</li></ul><b>Related structure or vocabulary:</b> Present simple tense negative form: Subject + do/does + not + base verb. With 'I', use 'do not' or 'don’t'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I ____ care whether you go or not.' cần điền dạng đúng của động từ 'do' phù hợp với chủ ngữ 'I'. Trong tiếng Anh, 'I' luôn đi với 'do' ở thì hiện tại đơn, và dạng phủ định là 'do not' hoặc viết tắt là 'don't'.<br><ul><li><b>don’t</b> (trợ động từ (dạng phủ định)): 'Don’t' là dạng viết tắt của 'do not', dùng với các chủ ngữ 'I', 'you', 'we', 'they' ở thì hiện tại đơn để tạo câu phủ định.</li><li><b>doesn’t</b> (trợ động từ (dạng phủ định)): 'Doesn’t' là dạng viết tắt của 'does not', dùng với các chủ ngữ 'he', 'she', 'it' ở thì hiện tại đơn. Không dùng với 'I'.</li><li><b>am not</b> (động từ (to be, dạng phủ định)): 'Am not' là dạng phủ định của động từ 'to be' cho chủ ngữ 'I', nhưng 'care' là động từ thường, không phải tính từ hay danh từ nên không dùng 'am not' ở đây.</li><li><b>wasn’t</b> (động từ (to be, thì quá khứ, dạng phủ định)): 'Wasn’t' là dạng viết tắt của 'was not', thì quá khứ của 'to be'. Không dùng với động từ thường như 'care' trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc phủ định thì hiện tại đơn: Chủ ngữ + do/does + not + động từ nguyên mẫu. Với 'I', dùng 'do not' hoặc 'don't'.<br><br><b>Tạm dịch:</b> Tôi không quan tâm liệu bạn có đi hay không.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ____ care whether you go or not.' requires the correct form of the verb 'do' to match the subject 'I'. In English, 'I' always goes with 'do' in the present simple tense, and the negative form is 'do not' or 'don't'.<br><ul><li><b>don’t</b> (auxiliary verb (negative form)): 'Don’t' is the contraction of 'do not', used with 'I', 'you', 'we', and 'they' in the present simple tense to make negative sentences.</li><li><b>doesn’t</b> (auxiliary verb (negative form)): 'Doesn’t' is the contraction of 'does not', used with 'he', 'she', and 'it' in the present simple tense. It cannot be used with 'I'.</li><li><b>am not</b> (verb (to be, negative form)): 'Am not' is the negative form of the verb 'to be' for 'I', but 'care' is not an adjective or noun, so 'am not' cannot be used here.</li><li><b>wasn’t</b> (verb (to be, past tense, negative form)): 'Wasn’t' is the contraction of 'was not', the past tense of 'to be'. It is not used with the verb 'care' in this context.</li></ul><b>Related structure or vocabulary:</b> Present simple tense negative form: Subject + do/does + not + base verb. With 'I', use 'do not' or 'don’t'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001797",
+        "questionNumber": 10,
+        "questionText": "Nurses ____ after patients in hospitals.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are looking",
+            "raw": "A. are looking",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "looks",
+            "raw": "B. looks",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will look",
+            "raw": "C. will look",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "look",
+            "raw": "D. look",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to match the subject 'Nurses' and the context of a general truth or habit. In English, when talking about general truths or repeated actions, we use the simple present tense. The subject 'Nurses' is plural, so the verb should be in the base form without 's'.<br><ul><li><b>are looking</b> (verb phrase): Present continuous tense, used for actions happening right now or around the present moment.</li><li><b>looks</b> (verb): Simple present tense, but used with singular third person subjects (he/she/it).</li><li><b>will look</b> (verb phrase): Simple future tense, used for actions that will happen in the future.</li><li><b>look</b> (verb): Simple present tense, base form, used with plural subjects or 'I/you/we/they'.</li></ul><b>Related structure or vocabulary:</b> Simple present tense is used for general truths, habits, or repeated actions. With plural subjects, use the base form of the verb (without 's'). The phrase 'look after' means 'to take care of'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng động từ phù hợp với chủ ngữ 'Nurses' và ngữ cảnh nói về sự thật chung hoặc thói quen. Trong tiếng Anh, khi nói về sự thật chung hoặc hành động lặp đi lặp lại, ta dùng thì hiện tại đơn. Chủ ngữ 'Nurses' là số nhiều nên động từ phải ở dạng nguyên thể không thêm 's'.<br><ul><li><b>are looking</b> (cụm động từ): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra ngay lúc nói hoặc xung quanh thời điểm hiện tại.</li><li><b>looks</b> (động từ): Thì hiện tại đơn, nhưng dùng với chủ ngữ số ít ngôi thứ ba (he/she/it).</li><li><b>will look</b> (cụm động từ): Thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai.</li><li><b>look</b> (động từ): Thì hiện tại đơn, dạng nguyên thể, dùng với chủ ngữ số nhiều hoặc 'I/you/we/they'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn dùng để diễn tả sự thật chung, thói quen hoặc hành động lặp lại. Với chủ ngữ số nhiều, dùng động từ nguyên thể (không thêm 's'). Cụm từ 'look after' nghĩa là 'chăm sóc'.<br><br><b>Tạm dịch:</b> Nurses look after patients in hospitals. --> Y tá chăm sóc bệnh nhân trong bệnh viện.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to match the subject 'Nurses' and the context of a general truth or habit. In English, when talking about general truths or repeated actions, we use the simple present tense. The subject 'Nurses' is plural, so the verb should be in the base form without 's'.<br><ul><li><b>are looking</b> (verb phrase): Present continuous tense, used for actions happening right now or around the present moment.</li><li><b>looks</b> (verb): Simple present tense, but used with singular third person subjects (he/she/it).</li><li><b>will look</b> (verb phrase): Simple future tense, used for actions that will happen in the future.</li><li><b>look</b> (verb): Simple present tense, base form, used with plural subjects or 'I/you/we/they'.</li></ul><b>Related structure or vocabulary:</b> Simple present tense is used for general truths, habits, or repeated actions. With plural subjects, use the base form of the verb (without 's'). The phrase 'look after' means 'to take care of'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001798",
+        "questionNumber": 11,
+        "questionText": "The Thames river ____  through London.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "flows",
+            "raw": "A. flows",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is flow",
+            "raw": "B. is flow",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "flew",
+            "raw": "C. flew",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "flow",
+            "raw": "D. flow",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The subject &ldquo;the Thame river&rdquo; is singular noun</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n",
+        "explanationViHtml": "<p>Chủ ngữ:&nbsp;&ldquo;the Thame river&rdquo; l&agrave; danh từ số &iacute;t =&gt; chia động từ số &iacute;t</p>\n\n<p><strong>=&gt; Chọn A</strong></p>\n\n<p><strong>Tạm dịch:</strong>&nbsp;S&ocirc;ng Thames chảy qua Lu&acirc;n Đ&ocirc;n.</p>\n",
+        "transcriptHtml": "<p>The subject &ldquo;the Thame river&rdquo; is singular noun</p>\n\n<p><strong>=&gt; Choose A</strong></p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b001799",
+        "questionNumber": 12,
+        "questionText": "Mary always ____  her bike to school every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "drives",
+            "raw": "A. drives",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "rides",
+            "raw": "B. rides",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "travels",
+            "raw": "C. travels",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "runs",
+            "raw": "D. runs",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mary always ____ her bike to school every day.' requires a verb that correctly describes the action of using a bike as a means of transportation. The verb must fit both in meaning and in grammatical structure.<br><ul><li><b>drives</b> (verb): To 'drive' is used for vehicles like cars, buses, or trucks, not for bikes.</li><li><b>rides</b> (verb): To 'ride' is the correct verb for using a bike, horse, or motorcycle.</li><li><b>travels</b> (verb): To 'travel' means to go from one place to another, but it is not used directly with 'bike' in this context.</li><li><b>runs</b> (verb): To 'run' means to move quickly on foot, not to use a bike.</li></ul><b>Related structure or vocabulary:</b> ride a bike: the correct collocation for using a bicycle as a means of transportation.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Mary always ____ her bike to school every day.' cần một động từ mô tả đúng hành động sử dụng xe đạp để di chuyển. Động từ này phải phù hợp cả về nghĩa lẫn cấu trúc ngữ pháp.<br><ul><li><b>drives</b> (động từ): 'Drive' (lái) dùng cho các phương tiện như ô tô, xe buýt, xe tải, không dùng cho xe đạp.</li><li><b>rides</b> (động từ): 'Ride' (đi, cưỡi) là động từ đúng khi nói về việc sử dụng xe đạp, ngựa hoặc xe máy.</li><li><b>travels</b> (động từ): 'Travel' (di chuyển, đi lại) có nghĩa là đi từ nơi này đến nơi khác, nhưng không dùng trực tiếp với 'bike' trong ngữ cảnh này.</li><li><b>runs</b> (động từ): 'Run' (chạy) nghĩa là di chuyển nhanh bằng chân, không phải dùng xe đạp.</li></ul><b>Cấu trúc và từ vựng:</b> ride a bike: cụm từ đúng để diễn tả việc sử dụng xe đạp làm phương tiện di chuyển.<br><br><b>Tạm dịch:</b> Mary luôn đi xe đạp đến trường mỗi ngày.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Mary always ____ her bike to school every day.' requires a verb that correctly describes the action of using a bike as a means of transportation. The verb must fit both in meaning and in grammatical structure.<br><ul><li><b>drives</b> (verb): To 'drive' is used for vehicles like cars, buses, or trucks, not for bikes.</li><li><b>rides</b> (verb): To 'ride' is the correct verb for using a bike, horse, or motorcycle.</li><li><b>travels</b> (verb): To 'travel' means to go from one place to another, but it is not used directly with 'bike' in this context.</li><li><b>runs</b> (verb): To 'run' means to move quickly on foot, not to use a bike.</li></ul><b>Related structure or vocabulary:</b> ride a bike: the correct collocation for using a bicycle as a means of transportation.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b00179a",
+        "questionNumber": 13,
+        "questionText": "She ____ the floor every week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "wash",
+            "raw": "A. wash",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "washes",
+            "raw": "B. washes",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "washing",
+            "raw": "C. washing",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "don’t wash",
+            "raw": "D. don’t wash",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to fill in the blank with the correct form of the verb 'wash' to match the subject 'She' and the adverbial phrase 'every week.' The sentence is in the present simple tense, which is used to describe habitual actions or routines. For third person singular subjects (he, she, it), we add '-es' to the base form of most verbs in the present simple tense.<br><ul><li><b>wash</b> (verb (base form)): Base form of the verb. Used with plural subjects or 'I/You/We/They' in the present simple tense.</li><li><b>washes</b> (verb (present simple, third person singular)): Third person singular form of the verb in the present simple tense. Used with 'he/she/it'.</li><li><b>washing</b> (verb (present participle/gerund)): Present participle or gerund form. Used after certain verbs or prepositions, not suitable here.</li><li><b>don’t wash</b> (verb phrase (negative present simple)): Negative form for 'I/You/We/They' in the present simple tense. Not suitable for 'She'.</li></ul><b>Related structure or vocabulary:</b> Present simple tense: For he/she/it, add -s or -es to the verb. Example: She washes, He goes, It rains.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần điền vào chỗ trống dạng đúng của động từ 'wash' để phù hợp với chủ ngữ 'She' và trạng từ chỉ tần suất 'every week'. Câu này sử dụng thì hiện tại đơn để diễn tả thói quen hoặc hành động lặp đi lặp lại. Với chủ ngữ ngôi thứ ba số ít (he, she, it), động từ ở thì hiện tại đơn phải thêm '-es' hoặc '-s'.<br><ul><li><b>wash</b> (động từ (dạng nguyên thể)): Dạng nguyên thể của động từ. Dùng với các chủ ngữ số nhiều hoặc 'I/You/We/They' ở thì hiện tại đơn.</li><li><b>washes</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Dạng động từ ngôi thứ ba số ít ở thì hiện tại đơn. Dùng với 'he/she/it'.</li><li><b>washing</b> (động từ (V-ing)): Dạng V-ing (hiện tại phân từ hoặc danh động từ). Dùng sau một số động từ hoặc giới từ, không phù hợp trong trường hợp này.</li><li><b>don’t wash</b> (cụm động từ (phủ định hiện tại đơn)): Dạng phủ định của thì hiện tại đơn cho 'I/You/We/They'. Không phù hợp với 'She'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn: Với chủ ngữ he/she/it, động từ thêm -s hoặc -es. Ví dụ: She washes, He goes, It rains.<br><br><b>Tạm dịch:</b> Cô ấy lau sàn mỗi tuần.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to fill in the blank with the correct form of the verb 'wash' to match the subject 'She' and the adverbial phrase 'every week.' The sentence is in the present simple tense, which is used to describe habitual actions or routines. For third person singular subjects (he, she, it), we add '-es' to the base form of most verbs in the present simple tense.<br><ul><li><b>wash</b> (verb (base form)): Base form of the verb. Used with plural subjects or 'I/You/We/They' in the present simple tense.</li><li><b>washes</b> (verb (present simple, third person singular)): Third person singular form of the verb in the present simple tense. Used with 'he/she/it'.</li><li><b>washing</b> (verb (present participle/gerund)): Present participle or gerund form. Used after certain verbs or prepositions, not suitable here.</li><li><b>don’t wash</b> (verb phrase (negative present simple)): Negative form for 'I/You/We/They' in the present simple tense. Not suitable for 'She'.</li></ul><b>Related structure or vocabulary:</b> Present simple tense: For he/she/it, add -s or -es to the verb. Example: She washes, He goes, It rains.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b00179b",
+        "questionNumber": 14,
+        "questionText": "John ____ tennis once or twice a week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "often play",
+            "raw": "A. often play",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is often playing",
+            "raw": "B. is often playing",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will often play",
+            "raw": "C. will often play",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "often plays",
+            "raw": "D. often plays",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'John ____ tennis once or twice a week.' requires a verb form that matches the subject 'John' and fits the context of a habitual action. The phrase 'once or twice a week' indicates a regular activity, so we need to use the simple present tense. For the subject 'John' (he/she/it), the verb should be in the form 'plays'.<br><ul><li><b>often play</b> (verb (base form)): 'play' is the base form of the verb, which is used with plural subjects or 'I/you/we/they', not with 'he/she/it' like 'John'.</li><li><b>is often playing</b> (verb (present continuous)): This is the present continuous tense, which is used for actions happening at the moment of speaking or temporary actions, not for regular habits.</li><li><b>will often play</b> (verb (future simple)): This is the future tense, indicating an action that will happen in the future, not a regular present habit.</li><li><b>often plays</b> (verb (simple present)): 'plays' is the simple present tense for 'he/she/it'. 'Often' is an adverb of frequency, and it is correctly placed before the main verb. This fits the context of a habitual action.</li></ul><b>Related structure or vocabulary:</b> Simple present tense is used for habitual actions. Adverbs of frequency (like 'often') are usually placed before the main verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'John ____ tennis once or twice a week.' cần một động từ phù hợp với chủ ngữ 'John' và phù hợp với ngữ cảnh chỉ thói quen. Cụm 'once or twice a week' (một hoặc hai lần một tuần) cho thấy đây là hành động lặp đi lặp lại, nên ta dùng thì hiện tại đơn. Với chủ ngữ 'John' (tương đương 'he'), động từ phải chia là 'plays'.<br><ul><li><b>often play</b> (động từ (nguyên mẫu)): 'play' là động từ nguyên mẫu, dùng cho các chủ ngữ số nhiều hoặc 'I/you/we/they', không dùng cho 'he/she/it' như 'John'.</li><li><b>is often playing</b> (động từ (hiện tại tiếp diễn)): Đây là thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra tại thời điểm nói hoặc hành động tạm thời, không dùng cho thói quen.</li><li><b>will often play</b> (động từ (tương lai đơn)): Đây là thì tương lai đơn, diễn tả hành động sẽ xảy ra trong tương lai, không phù hợp với thói quen ở hiện tại.</li><li><b>often plays</b> (động từ (hiện tại đơn)): 'plays' là động từ chia ở thì hiện tại đơn cho chủ ngữ 'he/she/it'. 'Often' là trạng từ chỉ tần suất, đặt trước động từ chính. Đây là đáp án phù hợp với ngữ cảnh chỉ thói quen.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn dùng để diễn tả thói quen. Trạng từ chỉ tần suất (như 'often') thường đặt trước động từ chính.<br><br><b>Tạm dịch:</b> John thường chơi tennis một hoặc hai lần một tuần.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'John ____ tennis once or twice a week.' requires a verb form that matches the subject 'John' and fits the context of a habitual action. The phrase 'once or twice a week' indicates a regular activity, so we need to use the simple present tense. For the subject 'John' (he/she/it), the verb should be in the form 'plays'.<br><ul><li><b>often play</b> (verb (base form)): 'play' is the base form of the verb, which is used with plural subjects or 'I/you/we/they', not with 'he/she/it' like 'John'.</li><li><b>is often playing</b> (verb (present continuous)): This is the present continuous tense, which is used for actions happening at the moment of speaking or temporary actions, not for regular habits.</li><li><b>will often play</b> (verb (future simple)): This is the future tense, indicating an action that will happen in the future, not a regular present habit.</li><li><b>often plays</b> (verb (simple present)): 'plays' is the simple present tense for 'he/she/it'. 'Often' is an adverb of frequency, and it is correctly placed before the main verb. This fits the context of a habitual action.</li></ul><b>Related structure or vocabulary:</b> Simple present tense is used for habitual actions. Adverbs of frequency (like 'often') are usually placed before the main verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b00179c",
+        "questionNumber": 15,
+        "questionText": "They ____ exercises every morning.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "does",
+            "raw": "A. does",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "did not",
+            "raw": "B. did not",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "do",
+            "raw": "C. do",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "doing",
+            "raw": "D. doing",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to fill in the blank with the correct form of the verb to complete the sentence: 'They ____ exercises every morning.' The subject 'They' is plural, so we need to use the base form of the verb without 's' for present simple tense. The correct verb form to use with 'They' in the present simple is 'do'.<br><ul><li><b>does</b> (verb (present simple, third person singular)): 'Does' is the present simple form used with singular third person subjects (he, she, it), not with 'they'.</li><li><b>did not</b> (verb (past simple, negative)): 'Did not' is the negative form of the past simple tense, which does not fit the context of a daily routine.</li><li><b>do</b> (verb (present simple, plural)): 'Do' is the base form of the verb, used with plural subjects like 'they' in the present simple tense.</li><li><b>doing</b> (verb (present participle/V-ing)): 'Doing' is the present participle (V-ing) form, which is not correct here because the sentence does not require a continuous tense or a gerund.</li></ul><b>Related structure or vocabulary:</b> Present simple tense: Subject (plural) + do + object. Used to describe habits or routines.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần điền vào chỗ trống dạng đúng của động từ để hoàn thành câu: 'They ____ exercises every morning.' Chủ ngữ 'They' là số nhiều, vì vậy chúng ta cần dùng động từ nguyên thể không thêm 's' ở thì hiện tại đơn. Dạng động từ đúng khi đi với 'They' ở thì hiện tại đơn là 'do'.<br><ul><li><b>does</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): 'Does' là dạng hiện tại đơn dùng với chủ ngữ số ít ngôi thứ ba (he, she, it), không dùng với 'they'.</li><li><b>did not</b> (động từ (quá khứ đơn, phủ định)): 'Did not' là dạng phủ định của thì quá khứ đơn, không phù hợp với ngữ cảnh nói về thói quen hàng ngày.</li><li><b>do</b> (động từ (hiện tại đơn, số nhiều)): 'Do' là động từ nguyên thể, dùng với chủ ngữ số nhiều như 'they' ở thì hiện tại đơn.</li><li><b>doing</b> (động từ (hiện tại phân từ/V-ing)): 'Doing' là dạng hiện tại phân từ (V-ing), không phù hợp ở đây vì câu không yêu cầu thì tiếp diễn hoặc danh động từ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn: Chủ ngữ (số nhiều) + do + tân ngữ. Dùng để diễn tả thói quen hoặc hành động lặp lại.<br><br><b>Tạm dịch:</b> They do exercises every morning. --> Họ tập thể dục mỗi sáng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to fill in the blank with the correct form of the verb to complete the sentence: 'They ____ exercises every morning.' The subject 'They' is plural, so we need to use the base form of the verb without 's' for present simple tense. The correct verb form to use with 'They' in the present simple is 'do'.<br><ul><li><b>does</b> (verb (present simple, third person singular)): 'Does' is the present simple form used with singular third person subjects (he, she, it), not with 'they'.</li><li><b>did not</b> (verb (past simple, negative)): 'Did not' is the negative form of the past simple tense, which does not fit the context of a daily routine.</li><li><b>do</b> (verb (present simple, plural)): 'Do' is the base form of the verb, used with plural subjects like 'they' in the present simple tense.</li><li><b>doing</b> (verb (present participle/V-ing)): 'Doing' is the present participle (V-ing) form, which is not correct here because the sentence does not require a continuous tense or a gerund.</li></ul><b>Related structure or vocabulary:</b> Present simple tense: Subject (plural) + do + object. Used to describe habits or routines.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b00179d",
+        "questionNumber": 16,
+        "questionText": "She ____ from London to Edinburgh every year.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "flies",
+            "raw": "A. flies",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "fly",
+            "raw": "B. fly",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "flys",
+            "raw": "C. flys",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "flying",
+            "raw": "D. flying",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb 'fly' to agree with the subject 'She' in the present simple tense. For third person singular subjects (he, she, it), we add -s to the base verb in the present simple tense.<br><ul><li><b>flies</b> (verb): The third person singular form of 'fly' in the present simple tense.</li><li><b>fly</b> (verb): The base form of the verb, used for plural subjects or with 'I/you/we/they'.</li><li><b>flys</b> (verb (incorrect form)): Incorrect spelling; the correct third person singular form is 'flies'.</li><li><b>flying</b> (verb (V-ing)): The present participle or gerund form, not suitable here.</li></ul><b>Related structure or vocabulary:</b> Present simple tense: For he/she/it, add -s or -es to the base verb. 'Fly' becomes 'flies' in the third person singular.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng đúng của động từ 'fly' để phù hợp với chủ ngữ 'She' ở thì hiện tại đơn. Với chủ ngữ ngôi thứ ba số ít (he, she, it), ta thêm -s hoặc -es vào động từ nguyên mẫu ở thì hiện tại đơn.<br><ul><li><b>flies</b> (động từ): 'flies' là dạng động từ ngôi thứ ba số ít của 'fly' ở thì hiện tại đơn.</li><li><b>fly</b> (động từ): Dạng nguyên mẫu của động từ, dùng cho chủ ngữ số nhiều hoặc 'I/you/we/they'.</li><li><b>flys</b> (động từ (dạng sai)): Dạng sai chính tả; dạng đúng là 'flies' cho ngôi thứ ba số ít.</li><li><b>flying</b> (động từ (V-ing)): Dạng V-ing (hiện tại phân từ hoặc danh động từ), không phù hợp trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn: Với chủ ngữ he/she/it, thêm -s hoặc -es vào động từ nguyên mẫu. 'Fly' chuyển thành 'flies' ở ngôi thứ ba số ít.<br><br><b>Tạm dịch:</b> Cô ấy bay từ London đến Edinburgh mỗi năm. Ở đây, động từ 'fly' phải chia ở thì hiện tại đơn cho chủ ngữ 'She', nên đáp án đúng là 'flies'.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb 'fly' to agree with the subject 'She' in the present simple tense. For third person singular subjects (he, she, it), we add -s to the base verb in the present simple tense.<br><ul><li><b>flies</b> (verb): The third person singular form of 'fly' in the present simple tense.</li><li><b>fly</b> (verb): The base form of the verb, used for plural subjects or with 'I/you/we/they'.</li><li><b>flys</b> (verb (incorrect form)): Incorrect spelling; the correct third person singular form is 'flies'.</li><li><b>flying</b> (verb (V-ing)): The present participle or gerund form, not suitable here.</li></ul><b>Related structure or vocabulary:</b> Present simple tense: For he/she/it, add -s or -es to the base verb. 'Fly' becomes 'flies' in the third person singular.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b00179e",
+        "questionNumber": 17,
+        "questionText": "He usually ____ the 8.10 bus.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "catch",
+            "raw": "A. catch",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "catches",
+            "raw": "B. catches",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "do not catch",
+            "raw": "C. do not catch",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "is not catch",
+            "raw": "D. is not catch",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb in the present simple tense because the sentence describes a habitual action (something that happens regularly). The subject 'He' is a third person singular, so the verb must be in the form 'verb + es' or 'verb + s'.<br><ul><li><b>catch</b> (verb (base form)): Base form of the verb. Not correct for third person singular in present simple.</li><li><b>catches</b> (verb (present simple, third person singular)): Present simple form for third person singular. Correct for 'He'.</li><li><b>do not catch</b> (verb phrase (negative)): Negative form, but incorrect because 'do' is not used with third person singular; should be 'does not catch'.</li><li><b>is not catch</b> (verb phrase (incorrect structure)): Incorrect structure. 'Is not' is not used with the base verb.</li></ul><b>Related structure or vocabulary:</b> Present simple tense for habitual actions: Subject (he/she/it) + verb + s/es<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ ở thì hiện tại đơn vì câu mô tả một hành động thường xuyên (thói quen). Chủ ngữ 'He' là ngôi thứ ba số ít, nên động từ phải chia ở dạng 'động từ + es' hoặc 'động từ + s'.<br><ul><li><b>catch</b> (động từ (nguyên thể)): Dạng nguyên thể của động từ. Không đúng với ngôi thứ ba số ít ở thì hiện tại đơn.</li><li><b>catches</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Dạng hiện tại đơn cho ngôi thứ ba số ít. Đúng với 'He'.</li><li><b>do not catch</b> (cụm động từ (phủ định)): Dạng phủ định, nhưng sai vì 'do' không dùng với ngôi thứ ba số ít; phải là 'does not catch'.</li><li><b>is not catch</b> (cụm động từ (cấu trúc sai)): Cấu trúc sai. 'Is not' không đi với động từ nguyên thể.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn cho hành động thường xuyên: Chủ ngữ (he/she/it) + động từ + s/es<br><br><b>Tạm dịch:</b> Anh ấy thường bắt chuyến xe buýt lúc 8 giờ 10.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb in the present simple tense because the sentence describes a habitual action (something that happens regularly). The subject 'He' is a third person singular, so the verb must be in the form 'verb + es' or 'verb + s'.<br><ul><li><b>catch</b> (verb (base form)): Base form of the verb. Not correct for third person singular in present simple.</li><li><b>catches</b> (verb (present simple, third person singular)): Present simple form for third person singular. Correct for 'He'.</li><li><b>do not catch</b> (verb phrase (negative)): Negative form, but incorrect because 'do' is not used with third person singular; should be 'does not catch'.</li><li><b>is not catch</b> (verb phrase (incorrect structure)): Incorrect structure. 'Is not' is not used with the base verb.</li></ul><b>Related structure or vocabulary:</b> Present simple tense for habitual actions: Subject (he/she/it) + verb + s/es<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b00179f",
+        "questionNumber": 18,
+        "questionText": "He never ____ to what you say. He is always thinking about something else.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "listens",
+            "raw": "A. listens",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "listened",
+            "raw": "B. listened",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "listening",
+            "raw": "C. listening",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will listen",
+            "raw": "D. will listen",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that fits the present simple tense because the sentence describes a general habit or repeated action. The subject 'He' is third person singular, so the verb should be 'listens' in the present simple tense.<br><ul><li><b>listens</b> (verb (present simple, third person singular)): Present simple tense, third person singular form of the verb 'listen'. Used for habits or general truths.</li><li><b>listened</b> (verb (past simple)): Past simple tense of 'listen'. Used for actions that happened in the past.</li><li><b>listening</b> (verb (present participle/gerund)): Present participle or gerund form of 'listen'. Used after prepositions or as part of continuous tenses.</li><li><b>will listen</b> (verb (future simple)): Future simple tense of 'listen'. Used for actions that will happen in the future.</li></ul><b>Related structure or vocabulary:</b> Present simple tense is used to describe habits, routines, or general truths. For third person singular subjects (he, she, it), add -s or -es to the base verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ ở thì hiện tại đơn vì câu mô tả một thói quen hoặc hành động lặp đi lặp lại. Chủ ngữ 'He' là ngôi thứ ba số ít, nên động từ phải chia là 'listens' ở thì hiện tại đơn.<br><ul><li><b>listens</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): Thì hiện tại đơn, động từ chia ngôi thứ ba số ít của 'listen'. Dùng để diễn tả thói quen hoặc sự thật chung.</li><li><b>listened</b> (động từ (quá khứ đơn)): Thì quá khứ đơn của 'listen'. Dùng cho hành động đã xảy ra trong quá khứ.</li><li><b>listening</b> (động từ (hiện tại phân từ/danh động từ)): Dạng hiện tại phân từ hoặc danh động từ của 'listen'. Dùng sau giới từ hoặc trong các thì tiếp diễn.</li><li><b>will listen</b> (động từ (tương lai đơn)): Thì tương lai đơn của 'listen'. Dùng cho hành động sẽ xảy ra trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại đơn dùng để diễn tả thói quen, hành động lặp lại hoặc sự thật chung. Với chủ ngữ ngôi thứ ba số ít (he, she, it), động từ thêm -s hoặc -es.<br><br><b>Tạm dịch:</b> He never listens to what you say. He is always thinking about something else. --> Anh ấy không bao giờ lắng nghe những gì bạn nói. Anh ấy luôn nghĩ về điều gì đó khác.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb form that fits the present simple tense because the sentence describes a general habit or repeated action. The subject 'He' is third person singular, so the verb should be 'listens' in the present simple tense.<br><ul><li><b>listens</b> (verb (present simple, third person singular)): Present simple tense, third person singular form of the verb 'listen'. Used for habits or general truths.</li><li><b>listened</b> (verb (past simple)): Past simple tense of 'listen'. Used for actions that happened in the past.</li><li><b>listening</b> (verb (present participle/gerund)): Present participle or gerund form of 'listen'. Used after prepositions or as part of continuous tenses.</li><li><b>will listen</b> (verb (future simple)): Future simple tense of 'listen'. Used for actions that will happen in the future.</li></ul><b>Related structure or vocabulary:</b> Present simple tense is used to describe habits, routines, or general truths. For third person singular subjects (he, she, it), add -s or -es to the base verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b0017a0",
+        "questionNumber": 19,
+        "questionText": "Bread ____ usually made from wheat.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are",
+            "raw": "A. are",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "to do",
+            "raw": "C. to do",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "be",
+            "raw": "D. be",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Bread ____ usually made from wheat.' requires the correct form of the verb 'to be' to match the subject 'Bread'. 'Bread' is an uncountable noun and is treated as singular in English. Therefore, the singular form 'is' should be used.<br><ul><li><b>are</b> (verb (plural form)): 'Are' is the plural form of the verb 'to be', used with plural subjects.</li><li><b>is</b> (verb (singular form)): 'Is' is the singular form of the verb 'to be', used with singular or uncountable nouns like 'bread'.</li><li><b>to do</b> (verb (infinitive)): 'To do' is the infinitive form of the verb 'do', which does not fit grammatically in this sentence.</li><li><b>be</b> (verb (base form)): 'Be' is the base form of the verb 'to be', not used directly after the subject in this context.</li></ul><b>Related structure or vocabulary:</b> Uncountable nouns like 'bread' take singular verbs. Structure: Subject (uncountable noun) + is + past participle (for passive voice).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Bread ____ usually made from wheat.' cần điền dạng đúng của động từ 'to be' phù hợp với chủ ngữ 'Bread'. 'Bread' (bánh mì) là danh từ không đếm được và được coi là số ít trong tiếng Anh. Vì vậy, ta dùng dạng số ít 'is'.<br><ul><li><b>are</b> (động từ (dạng số nhiều)): 'Are' là dạng số nhiều của động từ 'to be', dùng với chủ ngữ số nhiều.</li><li><b>is</b> (động từ (dạng số ít)): 'Is' là dạng số ít của động từ 'to be', dùng với chủ ngữ số ít hoặc danh từ không đếm được như 'bread'.</li><li><b>to do</b> (động từ (nguyên thể)): 'To do' là động từ nguyên thể, không phù hợp về mặt ngữ pháp trong câu này.</li><li><b>be</b> (động từ (nguyên mẫu)): 'Be' là dạng nguyên mẫu của động từ 'to be', không dùng trực tiếp sau chủ ngữ trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Danh từ không đếm được như 'bread' dùng động từ số ít. Cấu trúc: Chủ ngữ (danh từ không đếm được) + is + quá khứ phân từ (dạng bị động).<br><br><b>Tạm dịch:</b> Bread is usually made from wheat. --> Bánh mì thường được làm từ lúa mì.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Bread ____ usually made from wheat.' requires the correct form of the verb 'to be' to match the subject 'Bread'. 'Bread' is an uncountable noun and is treated as singular in English. Therefore, the singular form 'is' should be used.<br><ul><li><b>are</b> (verb (plural form)): 'Are' is the plural form of the verb 'to be', used with plural subjects.</li><li><b>is</b> (verb (singular form)): 'Is' is the singular form of the verb 'to be', used with singular or uncountable nouns like 'bread'.</li><li><b>to do</b> (verb (infinitive)): 'To do' is the infinitive form of the verb 'do', which does not fit grammatically in this sentence.</li><li><b>be</b> (verb (base form)): 'Be' is the base form of the verb 'to be', not used directly after the subject in this context.</li></ul><b>Related structure or vocabulary:</b> Uncountable nouns like 'bread' take singular verbs. Structure: Subject (uncountable noun) + is + past participle (for passive voice).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204ca44d1bfab7a5b0017a1",
+        "questionNumber": 20,
+        "questionText": "Barbara usually __________ dinner for her husband after work.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "B",
+            "text": "are cooking",
+            "raw": " B. are cooking",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is cooking",
+            "raw": " C. is cooking",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "cooked",
+            "raw": " D. cooked",
+            "isCorrect": false
+          },
+          {
+            "letter": "A",
+            "text": "cooks",
+            "raw": "A. cooks",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Barbara usually __________ dinner for her husband after work.' requires a verb that fits with the adverb 'usually.' 'Usually' is an adverb of frequency, and it is commonly used with the simple present tense to describe habitual actions or routines. Therefore, the correct verb form should be the simple present tense.<br><ul><li><b>are cooking</b> (verb phrase (present continuous)): 'Are cooking' is the present continuous tense, used for actions happening right now or around the present moment. It does not fit with 'usually,' which refers to regular habits.</li><li><b>is cooking</b> (verb phrase (present continuous)): 'Is cooking' is also the present continuous tense, used for actions happening at the moment of speaking. It does not match the habitual meaning indicated by 'usually.'</li><li><b>cooked</b> (verb (simple past)): 'Cooked' is the simple past tense, used for actions that happened in the past. It does not fit with 'usually,' which refers to present habits.</li><li><b>cooks</b> (verb (simple present)): 'Cooks' is the simple present tense, used for regular or habitual actions. It matches with 'usually' to describe what Barbara does as a routine.</li></ul><b>Related structure or vocabulary:</b> Adverbs of frequency (always, usually, often, sometimes, never) are used with the simple present tense to describe habits or routines. Structure: Subject + adverb of frequency + simple present verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Barbara usually __________ dinner for her husband after work.' cần một động từ phù hợp với trạng từ 'usually.' 'Usually' là trạng từ chỉ tần suất, thường được dùng với thì hiện tại đơn để diễn tả những hành động lặp đi lặp lại hoặc thói quen. Vì vậy, dạng động từ đúng là thì hiện tại đơn.<br><ul><li><b>are cooking</b> (cụm động từ (hiện tại tiếp diễn)): 'Are cooking' là thì hiện tại tiếp diễn, dùng để diễn tả hành động đang xảy ra ngay lúc nói hoặc xung quanh thời điểm hiện tại. Không phù hợp với 'usually' vì 'usually' nói về thói quen.</li><li><b>is cooking</b> (cụm động từ (hiện tại tiếp diễn)): 'Is cooking' cũng là thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra tại thời điểm nói. Không phù hợp với ý nghĩa thói quen của 'usually.'</li><li><b>cooked</b> (động từ (quá khứ đơn)): 'Cooked' là thì quá khứ đơn, dùng cho hành động đã xảy ra trong quá khứ. Không phù hợp với 'usually' vì 'usually' nói về thói quen ở hiện tại.</li><li><b>cooks</b> (động từ (hiện tại đơn)): 'Cooks' là thì hiện tại đơn, dùng để diễn tả hành động lặp đi lặp lại hoặc thói quen. Phù hợp với 'usually' để nói về việc Barbara thường làm.</li></ul><b>Cấu trúc và từ vựng:</b> Trạng từ chỉ tần suất (always, usually, often, sometimes, never) thường đi với thì hiện tại đơn để diễn tả thói quen hoặc hành động lặp lại. Cấu trúc: Chủ ngữ + trạng từ chỉ tần suất + động từ hiện tại đơn.<br><br><b>Tạm dịch:</b> Barbara thường nấu bữa tối cho chồng sau khi tan làm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Barbara usually __________ dinner for her husband after work.' requires a verb that fits with the adverb 'usually.' 'Usually' is an adverb of frequency, and it is commonly used with the simple present tense to describe habitual actions or routines. Therefore, the correct verb form should be the simple present tense.<br><ul><li><b>are cooking</b> (verb phrase (present continuous)): 'Are cooking' is the present continuous tense, used for actions happening right now or around the present moment. It does not fit with 'usually,' which refers to regular habits.</li><li><b>is cooking</b> (verb phrase (present continuous)): 'Is cooking' is also the present continuous tense, used for actions happening at the moment of speaking. It does not match the habitual meaning indicated by 'usually.'</li><li><b>cooked</b> (verb (simple past)): 'Cooked' is the simple past tense, used for actions that happened in the past. It does not fit with 'usually,' which refers to present habits.</li><li><b>cooks</b> (verb (simple present)): 'Cooks' is the simple present tense, used for regular or habitual actions. It matches with 'usually' to describe what Barbara does as a routine.</li></ul><b>Related structure or vocabulary:</b> Adverbs of frequency (always, usually, often, sometimes, never) are used with the simple present tense to describe habits or routines. Structure: Subject + adverb of frequency + simple present verb.<br><br>"
+      }
+    }
+  ]
+}

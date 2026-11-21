@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b14a",
+  "title": "Từ vựng: Selecting a Restaurant",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b294",
+        "questionNumber": 1,
+        "questionText": "appeal",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev361.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/appeal.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be attractive or interesting",
+            "raw": "to be attractive or interesting",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The colorful vegetable made the dish look <strong>appealing</strong>.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c loại rau nhiều m&agrave;u sắc khiến m&oacute;n ăn tr&ocirc;ng<strong> hấp dẫn </strong>hơn.</p>\n",
+        "transcriptHtml": "<p>The colorful vegetable made the dish look <strong>appealing</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b295",
+        "questionNumber": 2,
+        "questionText": "arrive",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev362.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/arrive.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to reach a destination",
+            "raw": "to reach a destination",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>By the time our meal <strong>arrived</strong>, it was cold.</p>\n",
+        "explanationViHtml": "<p>Khi m&oacute;n ăn của ch&uacute;ng t&ocirc;i <strong>đến</strong>, n&oacute; đ&atilde; nguội.</p>\n",
+        "transcriptHtml": "<p>By the time our meal <strong>arrived</strong>, it was cold.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b296",
+        "questionNumber": 3,
+        "questionText": "compromise",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev363.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/compromise.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "settlement of differences in which each side makes concessions",
+            "raw": "a settlement of differences in which each side makes concessions",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The couple made a <strong>compromise </strong>and ordered food for take out.</p>\n",
+        "explanationViHtml": "<p>Cặp đ&ocirc;i đ&atilde; đưa ra một <strong>thỏa hiệp </strong>v&agrave; đặt đồ ăn mang về.</p>\n",
+        "transcriptHtml": "<p>The couple made a <strong>compromise </strong>and ordered food for take out.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b297",
+        "questionNumber": 4,
+        "questionText": "daringly",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev364.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/daringly.mp3",
+        "choices": [
+          {
+            "letter": "B",
+            "text": "ravely",
+            "raw": "bravely",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<p>She was&nbsp;wearing&nbsp;a&nbsp;fairly&nbsp;<strong>daring&nbsp;</strong>(=&nbsp;short)&nbsp;skirt&nbsp;that&nbsp;barely&nbsp;covered&nbsp;her&nbsp;bottom.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; ấy mặc một chiếc v&aacute;y kh&aacute; <strong>t&aacute;o bạo</strong> (= ngắn), chỉ vừa đủ để che phần dưới của c&ocirc; ấy.</p>\n",
+        "transcriptHtml": "<p>She was&nbsp;wearing&nbsp;a&nbsp;fairly&nbsp;<strong>daring&nbsp;</strong>(=&nbsp;short)&nbsp;skirt&nbsp;that&nbsp;barely&nbsp;covered&nbsp;her&nbsp;bottom.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b298",
+        "questionNumber": 5,
+        "questionText": "familiar",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev365.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/familiar.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "often encountered or seen; common",
+            "raw": "often encountered or seen; common",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>It&#39;s nice to see some <strong>familiar </strong>items on the menu.</p>\n",
+        "explanationViHtml": "<p>Thật vui khi thấy một v&agrave;i m&oacute;n<strong> quen thuộc</strong> trong thực đơn.</p>\n",
+        "transcriptHtml": "<p>It&#39;s nice to see some <strong>familiar </strong>items on the menu.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b299",
+        "questionNumber": 6,
+        "questionText": "guide",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev366.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/guide.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "one who leads, directs, or gives advice",
+            "raw": "one who leads, directs, or gives advice",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>guide </strong>led our tour group to a small restaurant only known to the locals.</p>\n",
+        "explanationViHtml": "<p><strong>Hướng dẫn vi&ecirc;n </strong>đ&atilde; dẫn nh&oacute;m của ch&uacute;ng t&ocirc;i đến một nh&agrave; h&agrave;ng nhỏ m&agrave; chỉ người d&acirc;n địa phương mới biết.</p>\n",
+        "transcriptHtml": "<p>The <strong>guide </strong>led our tour group to a small restaurant only known to the locals.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b29a",
+        "questionNumber": 7,
+        "questionText": "majority",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev367.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/majority.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the greater number or part",
+            "raw": "the greater number or part",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The <strong>majority </strong>of the group wanted to try the new Chinese restaurant.</p>\n",
+        "explanationViHtml": "<p><strong>Phần lớn</strong> người trong nh&oacute;m muốn thử nh&agrave; h&agrave;ng Trung Quốc mới.</p>\n",
+        "transcriptHtml": "<p>The <strong>majority </strong>of the group wanted to try the new Chinese restaurant.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b29b",
+        "questionNumber": 8,
+        "questionText": "mix",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev368.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mix.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to combine or blend into one mass; a combination",
+            "raw": "to combine or blend into one mass; a combination",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The daring chef <strong>mixed </strong>two uncommon ingredients.</p>\n",
+        "explanationViHtml": "<p>Vị đầu bếp t&aacute;o bạo đ&atilde; <strong>kết hợp</strong> hai nguy&ecirc;n liệu kh&ocirc;ng phổ biến.</p>\n",
+        "transcriptHtml": "<p>The daring chef <strong>mixed </strong>two uncommon ingredients.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b29c",
+        "questionNumber": 9,
+        "questionText": "rely",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev369.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/rely.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to have confidence in; to depend on",
+            "raw": "to have confidence in; to depend on",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I have always <strong>relied </strong>on the restaurant advice this guidebook gives.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i lu&ocirc;n<strong> tin tưởng </strong>v&agrave;o c&aacute;c lời khuy&ecirc;n về nh&agrave; h&agrave;ng trong cuốn s&aacute;ch hướng dẫn n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>I have always <strong>relied </strong>on the restaurant advice this guidebook gives.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b29d",
+        "questionNumber": 10,
+        "questionText": "secure",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev370.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/secure.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to get possession of; to obtain",
+            "raw": "to get possession of; to obtain",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Despite the popularity of the restaurant. Max was able to <strong>secure </strong>reservations for this evening.</p>\n",
+        "explanationViHtml": "<p>Mặc d&ugrave; nh&agrave; h&agrave;ng rất nổi tiếng, Max vẫn c&oacute; thể <strong>đặt </strong>được b&agrave;n cho tối nay.</p>\n",
+        "transcriptHtml": "<p>Despite the popularity of the restaurant. Max was able to <strong>secure </strong>reservations for this evening.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b29e",
+        "questionNumber": 11,
+        "questionText": "subjective",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev371.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/subjective.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "particular to a given person; highly personal; not objective",
+            "raw": "particular to a given person; highly personal; not objective",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Food preferences are <strong>subjective </strong>and not everyone agrees on what tastes good.</p>\n",
+        "explanationViHtml": "<p>Sở th&iacute;ch ăn uống l&agrave; <strong>chủ quan</strong> v&agrave; kh&ocirc;ng phải ai cũng đồng &yacute; m&oacute;n n&agrave;o ngon.</p>\n",
+        "transcriptHtml": "<p>Food preferences are <strong>subjective </strong>and not everyone agrees on what tastes good.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b29f",
+        "questionNumber": 12,
+        "questionText": "suggestion",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev372.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/suggestion.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to offer for consideration or action",
+            "raw": "to offer for consideration or action",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Can I make a <strong>suggestion </strong>about what to order?</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i c&oacute; thể <strong>gợi &yacute;</strong> m&oacute;n g&igrave; để đặt kh&ocirc;ng?</p>\n",
+        "transcriptHtml": "<p>Can I make a <strong>suggestion </strong>about what to order?</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b294",
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev361.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/appeal.mp3",
+      "meaningVi": "hấp dẫn",
+      "meaningEn": "to be attractive or interesting",
+      "exampleEnHtml": "<p>The colorful vegetable made the dish look <strong>appealing</strong>.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c loại rau nhiều m&agrave;u sắc khiến m&oacute;n ăn tr&ocirc;ng<strong> hấp dẫn </strong>hơn.</p>\n",
+      "exampleEn": "The colorful vegetable made the dish look appealing.",
+      "exampleVi": "Các loại rau nhiều màu sắc khiến món ăn trông hấp dẫn hơn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b295",
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev362.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/arrive.mp3",
+      "meaningVi": "đến",
+      "meaningEn": "to reach a destination",
+      "exampleEnHtml": "<p>By the time our meal <strong>arrived</strong>, it was cold.</p>\n",
+      "exampleViHtml": "<p>Khi m&oacute;n ăn của ch&uacute;ng t&ocirc;i <strong>đến</strong>, n&oacute; đ&atilde; nguội.</p>\n",
+      "exampleEn": "By the time our meal arrived, it was cold.",
+      "exampleVi": "Khi món ăn của chúng tôi đến, nó đã nguội."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b296",
+      "word": "compromise",
+      "phonetic": "/ˈkɑːmprəmaɪz/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev363.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/compromise.mp3",
+      "meaningVi": "thỏa hiệp",
+      "meaningEn": "a settlement of differences in which each side makes concessions",
+      "exampleEnHtml": "<p>The couple made a <strong>compromise </strong>and ordered food for take out.</p>\n",
+      "exampleViHtml": "<p>Cặp đ&ocirc;i đ&atilde; đưa ra một <strong>thỏa hiệp </strong>v&agrave; đặt đồ ăn mang về.</p>\n",
+      "exampleEn": "The couple made a compromise and ordered food for take out.",
+      "exampleVi": "Cặp đôi đã đưa ra một thỏa hiệp và đặt đồ ăn mang về."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b297",
+      "word": "daringly",
+      "phonetic": "/ˈderɪŋli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev364.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/daringly.mp3",
+      "meaningVi": "táo bạo",
+      "meaningEn": "bravely",
+      "exampleEnHtml": "<p>She was&nbsp;wearing&nbsp;a&nbsp;fairly&nbsp;<strong>daring&nbsp;</strong>(=&nbsp;short)&nbsp;skirt&nbsp;that&nbsp;barely&nbsp;covered&nbsp;her&nbsp;bottom.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; ấy mặc một chiếc v&aacute;y kh&aacute; <strong>t&aacute;o bạo</strong> (= ngắn), chỉ vừa đủ để che phần dưới của c&ocirc; ấy.</p>\n",
+      "exampleEn": "She was wearing a fairly daring (= short) skirt that barely covered her bottom.",
+      "exampleVi": "Cô ấy mặc một chiếc váy khá táo bạo (= ngắn), chỉ vừa đủ để che phần dưới của cô ấy."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b298",
+      "word": "familiar",
+      "phonetic": "/fəˈmɪliər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev365.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/familiar.mp3",
+      "meaningVi": "quen thuộc",
+      "meaningEn": "often encountered or seen; common",
+      "exampleEnHtml": "<p>It&#39;s nice to see some <strong>familiar </strong>items on the menu.</p>\n",
+      "exampleViHtml": "<p>Thật vui khi thấy một v&agrave;i m&oacute;n<strong> quen thuộc</strong> trong thực đơn.</p>\n",
+      "exampleEn": "It's nice to see some familiar items on the menu.",
+      "exampleVi": "Thật vui khi thấy một vài món quen thuộc trong thực đơn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b299",
+      "word": "guide",
+      "phonetic": "/ɡaɪd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev366.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/guide.mp3",
+      "meaningVi": "Hướng dẫn viên",
+      "meaningEn": "one who leads, directs, or gives advice",
+      "exampleEnHtml": "<p>The <strong>guide </strong>led our tour group to a small restaurant only known to the locals.</p>\n",
+      "exampleViHtml": "<p><strong>Hướng dẫn vi&ecirc;n </strong>đ&atilde; dẫn nh&oacute;m của ch&uacute;ng t&ocirc;i đến một nh&agrave; h&agrave;ng nhỏ m&agrave; chỉ người d&acirc;n địa phương mới biết.</p>\n",
+      "exampleEn": "The guide led our tour group to a small restaurant only known to the locals.",
+      "exampleVi": "Hướng dẫn viên đã dẫn nhóm của chúng tôi đến một nhà hàng nhỏ mà chỉ người dân địa phương mới biết."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b29a",
+      "word": "majority",
+      "phonetic": "/məˈdʒɔːrəti/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev367.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/majority.mp3",
+      "meaningVi": "Phần lớn",
+      "meaningEn": "the greater number or part",
+      "exampleEnHtml": "<p>The <strong>majority </strong>of the group wanted to try the new Chinese restaurant.</p>\n",
+      "exampleViHtml": "<p><strong>Phần lớn</strong> người trong nh&oacute;m muốn thử nh&agrave; h&agrave;ng Trung Quốc mới.</p>\n",
+      "exampleEn": "The majority of the group wanted to try the new Chinese restaurant.",
+      "exampleVi": "Phần lớn người trong nhóm muốn thử nhà hàng Trung Quốc mới."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b29b",
+      "word": "mix",
+      "phonetic": "/mɪks/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev368.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mix.mp3",
+      "meaningVi": "kết hợp",
+      "meaningEn": "to combine or blend into one mass; a combination",
+      "exampleEnHtml": "<p>The daring chef <strong>mixed </strong>two uncommon ingredients.</p>\n",
+      "exampleViHtml": "<p>Vị đầu bếp t&aacute;o bạo đ&atilde; <strong>kết hợp</strong> hai nguy&ecirc;n liệu kh&ocirc;ng phổ biến.</p>\n",
+      "exampleEn": "The daring chef mixed two uncommon ingredients.",
+      "exampleVi": "Vị đầu bếp táo bạo đã kết hợp hai nguyên liệu không phổ biến."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b29c",
+      "word": "rely",
+      "phonetic": "/rɪˈlaɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev369.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/rely.mp3",
+      "meaningVi": "tin tưởng",
+      "meaningEn": "to have confidence in; to depend on",
+      "exampleEnHtml": "<p>I have always <strong>relied </strong>on the restaurant advice this guidebook gives.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i lu&ocirc;n<strong> tin tưởng </strong>v&agrave;o c&aacute;c lời khuy&ecirc;n về nh&agrave; h&agrave;ng trong cuốn s&aacute;ch hướng dẫn n&agrave;y.</p>\n",
+      "exampleEn": "I have always relied on the restaurant advice this guidebook gives.",
+      "exampleVi": "Tôi luôn tin tưởng vào các lời khuyên về nhà hàng trong cuốn sách hướng dẫn này."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b29d",
+      "word": "secure",
+      "phonetic": "/səˈkjʊr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev370.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/secure.mp3",
+      "meaningVi": "đặt",
+      "meaningEn": "to get possession of; to obtain",
+      "exampleEnHtml": "<p>Despite the popularity of the restaurant. Max was able to <strong>secure </strong>reservations for this evening.</p>\n",
+      "exampleViHtml": "<p>Mặc d&ugrave; nh&agrave; h&agrave;ng rất nổi tiếng, Max vẫn c&oacute; thể <strong>đặt </strong>được b&agrave;n cho tối nay.</p>\n",
+      "exampleEn": "Despite the popularity of the restaurant. Max was able to secure reservations for this evening.",
+      "exampleVi": "Mặc dù nhà hàng rất nổi tiếng, Max vẫn có thể đặt được bàn cho tối nay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b29e",
+      "word": "subjective",
+      "phonetic": "/səbˈdʒektɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev371.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/subjective.mp3",
+      "meaningVi": "chủ quan",
+      "meaningEn": "particular to a given person; highly personal; not objective",
+      "exampleEnHtml": "<p>Food preferences are <strong>subjective </strong>and not everyone agrees on what tastes good.</p>\n",
+      "exampleViHtml": "<p>Sở th&iacute;ch ăn uống l&agrave; <strong>chủ quan</strong> v&agrave; kh&ocirc;ng phải ai cũng đồng &yacute; m&oacute;n n&agrave;o ngon.</p>\n",
+      "exampleEn": "Food preferences are subjective and not everyone agrees on what tastes good.",
+      "exampleVi": "Sở thích ăn uống là chủ quan và không phải ai cũng đồng ý món nào ngon."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b29f",
+      "word": "suggestion",
+      "phonetic": "/səˈdʒestʃən/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev372.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/suggestion.mp3",
+      "meaningVi": "gợi ý",
+      "meaningEn": "to offer for consideration or action",
+      "exampleEnHtml": "<p>Can I make a <strong>suggestion </strong>about what to order?</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i c&oacute; thể <strong>gợi &yacute;</strong> m&oacute;n g&igrave; để đặt kh&ocirc;ng?</p>\n",
+      "exampleEn": "Can I make a suggestion about what to order?",
+      "exampleVi": "Tôi có thể gợi ý món gì để đặt không?"
+    }
+  ],
+  "totalFlashcards": 12
+}

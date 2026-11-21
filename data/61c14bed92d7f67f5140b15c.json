@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bed92d7f67f5140b15c",
+  "title": "Từ vựng: Pharmacy",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b36c",
+        "questionNumber": 1,
+        "questionText": "consult",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev589.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/consult.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to seek advice or information of",
+            "raw": "to seek advice or information of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The doctor <strong>consulted </strong>with a specialist before writing a new prescription.</p>\n",
+        "explanationViHtml": "<p>B&aacute;c sĩ đ&atilde; <strong>tham khảo </strong>&yacute; kiến chuy&ecirc;n gia trước khi k&ecirc; toa thuốc mới.</p>\n",
+        "transcriptHtml": "<p>The doctor <strong>consulted </strong>with a specialist before writing a new prescription.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b36d",
+        "questionNumber": 2,
+        "questionText": "control",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev590.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/control.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to exercise authoritative or dominating influence over",
+            "raw": "to exercise authoritative or dominating influence over",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>To <strong>control </strong>the cost of this medication, you may get the generic version.</p>\n",
+        "explanationViHtml": "<p>Để <strong>kiểm so&aacute;t </strong>chi ph&iacute; của loại thuốc n&agrave;y, bạn c&oacute; thể nhận phi&ecirc;n bản thuốc generic.</p>\n",
+        "transcriptHtml": "<p>To <strong>control </strong>the cost of this medication, you may get the generic version.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b36e",
+        "questionNumber": 3,
+        "questionText": "convenient",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev591.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/convenient.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "suited or favorable to one’s purpose; easy to reach",
+            "raw": "suited or favorable to one’s purpose; easy to reach",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Is this a <strong>convenient </strong>location for you to pick up your prescription?</p>\n",
+        "explanationViHtml": "<p>Địa điểm n&agrave;y c&oacute; <strong>tiện </strong>cho bạn đến lấy thuốc kh&ocirc;ng?</p>\n",
+        "transcriptHtml": "<p>Is this a <strong>convenient </strong>location for you to pick up your prescription?</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b36f",
+        "questionNumber": 4,
+        "questionText": "detect",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev592.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/detect.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to discover or ascertain",
+            "raw": "to discover or ascertain",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My doctor put me through some simple tests to <strong>detect </strong>if I have asthma.</p>\n",
+        "explanationViHtml": "<p>B&aacute;c sĩ của t&ocirc;i đ&atilde; cho t&ocirc;i l&agrave;m một v&agrave;i x&eacute;t nghiệm đơn giản để <strong>ph&aacute;t hiện</strong> xem t&ocirc;i c&oacute; bị hen suyễn kh&ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>My doctor put me through some simple tests to <strong>detect </strong>if I have asthma.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b370",
+        "questionNumber": 5,
+        "questionText": "factor",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev593.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/factor.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "contribution to an accomplishment. a result. or a process",
+            "raw": "a contribution to an accomplishment. a result. or a process",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Taking medications as directed is an important <strong>factor </strong>in getting well.</p>\n",
+        "explanationViHtml": "<p>Uống thuốc đ&uacute;ng theo chỉ dẫn l&agrave; <strong>yếu tố</strong> quan trọng để khỏi bệnh.</p>\n",
+        "transcriptHtml": "<p>Taking medications as directed is an important <strong>factor </strong>in getting well.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b371",
+        "questionNumber": 6,
+        "questionText": "interaction",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev594.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/interaction.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n influence; a mutual activity",
+            "raw": "an influence; a mutual activity",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My pharmacist was concerned about the <strong>interaction </strong>of the two medications I was prescribed.</p>\n",
+        "explanationViHtml": "<p>Dược sĩ của t&ocirc;i lo lắng về sự<strong> tương t&aacute;c</strong> giữa hai loại thuốc m&agrave; t&ocirc;i được k&ecirc;.</p>\n",
+        "transcriptHtml": "<p>My pharmacist was concerned about the <strong>interaction </strong>of the two medications I was prescribed.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b372",
+        "questionNumber": 7,
+        "questionText": "limit",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev595.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/limit.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the point beyond which something cannot proceed",
+            "raw": "the point beyond which something cannot proceed",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My prescription has a <strong>limit </strong>of three refills.</p>\n",
+        "explanationViHtml": "<p>Toa thuốc của t&ocirc;i chỉ được ph&eacute;p lấy <strong>tối đa</strong> ba lần.</p>\n",
+        "transcriptHtml": "<p>My prescription has a <strong>limit </strong>of three refills.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b373",
+        "questionNumber": 8,
+        "questionText": "monitor",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev596.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/monitor.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to keep track of",
+            "raw": "to keep track of",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The nurse practitioner carefully <strong>monitors </strong>the number of medications her patients are taking.</p>\n",
+        "explanationViHtml": "<p>Y t&aacute; chăm s&oacute;c kỹ lưỡng việc <strong>theo d&otilde;i </strong>số lượng thuốc m&agrave; bệnh nh&acirc;n của c&ocirc; ấy đang d&ugrave;ng.</p>\n",
+        "transcriptHtml": "<p>The nurse practitioner carefully <strong>monitors </strong>the number of medications her patients are taking.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b374",
+        "questionNumber": 9,
+        "questionText": "potential",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev597.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/Potential.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "apable of being but not yet in existence; possible",
+            "raw": "capable of being but not yet in existence; possible",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>To avoid any <strong>potential </strong>side effects from the medication, be sure to tell your doctor all the drugs you are currently taking.</p>\n",
+        "explanationViHtml": "<p>Để tr&aacute;nh c&aacute;c t&aacute;c dụng phụ <strong>c&oacute; thể xảy ra</strong> từ thuốc, h&atilde;y chắc chắn b&aacute;o cho b&aacute;c sĩ biết tất cả c&aacute;c loại thuốc bạn đang d&ugrave;ng.</p>\n",
+        "transcriptHtml": "<p>To avoid any <strong>potential </strong>side effects from the medication, be sure to tell your doctor all the drugs you are currently taking.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b375",
+        "questionNumber": 10,
+        "questionText": "sample",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev598.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/sample.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "portion, piece, or segment that is representative of a whole",
+            "raw": "a portion, piece, or segment that is representative of a whole",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The pharmacist gave Myra a few free <strong>samples </strong>of the allergy medication.</p>\n",
+        "explanationViHtml": "<p>Dược sĩ đ&atilde; tặng Myra một v&agrave;i <strong>mẫu </strong>thuốc miễn ph&iacute; cho bệnh dị ứng.</p>\n",
+        "transcriptHtml": "<p>The pharmacist gave Myra a few free <strong>samples </strong>of the allergy medication.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b376",
+        "questionNumber": 11,
+        "questionText": "sense",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev599.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/sense.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "judgment; an intellectual interpretation",
+            "raw": "a judgment; an intellectual interpretation",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The doctor had a good <strong>sense </strong>about what the problem was but wanted to get a second opinion.</p>\n",
+        "explanationViHtml": "<p>B&aacute;c sĩ c&oacute; <strong>cảm gi&aacute;c </strong>tốt về vấn đề n&agrave;y nhưng vẫn muốn c&oacute; th&ecirc;m &yacute; kiến thứ hai.</p>\n",
+        "transcriptHtml": "<p>The doctor had a good <strong>sense </strong>about what the problem was but wanted to get a second opinion.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b377",
+        "questionNumber": 12,
+        "questionText": "volunteer",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev600.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/volunteer.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "one who performs a service without pay; to perform as a volunteer",
+            "raw": "one who performs a service without pay; to perform as a volunteer",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My doctor <strong>volunteered </strong>to call the drugstore, so my medication would be waiting for me.</p>\n",
+        "explanationViHtml": "<p>B&aacute;c sĩ của t&ocirc;i <strong>t&igrave;nh nguyện</strong> gọi cho nh&agrave; thuốc để đảm bảo thuốc sẽ sẵn s&agrave;ng khi t&ocirc;i đến lấy.</p>\n",
+        "transcriptHtml": "<p>My doctor <strong>volunteered </strong>to call the drugstore, so my medication would be waiting for me.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b36c",
+      "word": "consult",
+      "phonetic": "/kənˈsʌlt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev589.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/consult.mp3",
+      "meaningVi": "tham khảo",
+      "meaningEn": "to seek advice or information of",
+      "exampleEnHtml": "<p>The doctor <strong>consulted </strong>with a specialist before writing a new prescription.</p>\n",
+      "exampleViHtml": "<p>B&aacute;c sĩ đ&atilde; <strong>tham khảo </strong>&yacute; kiến chuy&ecirc;n gia trước khi k&ecirc; toa thuốc mới.</p>\n",
+      "exampleEn": "The doctor consulted with a specialist before writing a new prescription.",
+      "exampleVi": "Bác sĩ đã tham khảo ý kiến chuyên gia trước khi kê toa thuốc mới."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b36d",
+      "word": "control",
+      "phonetic": "/kənˈtroʊl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev590.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/control.mp3",
+      "meaningVi": "kiểm soát",
+      "meaningEn": "to exercise authoritative or dominating influence over",
+      "exampleEnHtml": "<p>To <strong>control </strong>the cost of this medication, you may get the generic version.</p>\n",
+      "exampleViHtml": "<p>Để <strong>kiểm so&aacute;t </strong>chi ph&iacute; của loại thuốc n&agrave;y, bạn c&oacute; thể nhận phi&ecirc;n bản thuốc generic.</p>\n",
+      "exampleEn": "To control the cost of this medication, you may get the generic version.",
+      "exampleVi": "Để kiểm soát chi phí của loại thuốc này, bạn có thể nhận phiên bản thuốc generic."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b36e",
+      "word": "convenient",
+      "phonetic": "/kənˈviːniənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev591.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/convenient.mp3",
+      "meaningVi": "tiện",
+      "meaningEn": "suited or favorable to one’s purpose; easy to reach",
+      "exampleEnHtml": "<p>Is this a <strong>convenient </strong>location for you to pick up your prescription?</p>\n",
+      "exampleViHtml": "<p>Địa điểm n&agrave;y c&oacute; <strong>tiện </strong>cho bạn đến lấy thuốc kh&ocirc;ng?</p>\n",
+      "exampleEn": "Is this a convenient location for you to pick up your prescription?",
+      "exampleVi": "Địa điểm này có tiện cho bạn đến lấy thuốc không?"
+    },
+    {
+      "id": "61c14bef92d7f67f5140b36f",
+      "word": "detect",
+      "phonetic": "/dɪˈtekt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev592.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/detect.mp3",
+      "meaningVi": "phát hiện",
+      "meaningEn": "to discover or ascertain",
+      "exampleEnHtml": "<p>My doctor put me through some simple tests to <strong>detect </strong>if I have asthma.</p>\n",
+      "exampleViHtml": "<p>B&aacute;c sĩ của t&ocirc;i đ&atilde; cho t&ocirc;i l&agrave;m một v&agrave;i x&eacute;t nghiệm đơn giản để <strong>ph&aacute;t hiện</strong> xem t&ocirc;i c&oacute; bị hen suyễn kh&ocirc;ng.</p>\n",
+      "exampleEn": "My doctor put me through some simple tests to detect if I have asthma.",
+      "exampleVi": "Bác sĩ của tôi đã cho tôi làm một vài xét nghiệm đơn giản để phát hiện xem tôi có bị hen suyễn không."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b370",
+      "word": "factor",
+      "phonetic": "/ˈfæktər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev593.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/factor.mp3",
+      "meaningVi": "yếu tố",
+      "meaningEn": "a contribution to an accomplishment. a result. or a process",
+      "exampleEnHtml": "<p>Taking medications as directed is an important <strong>factor </strong>in getting well.</p>\n",
+      "exampleViHtml": "<p>Uống thuốc đ&uacute;ng theo chỉ dẫn l&agrave; <strong>yếu tố</strong> quan trọng để khỏi bệnh.</p>\n",
+      "exampleEn": "Taking medications as directed is an important factor in getting well.",
+      "exampleVi": "Uống thuốc đúng theo chỉ dẫn là yếu tố quan trọng để khỏi bệnh."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b371",
+      "word": "interaction",
+      "phonetic": "/ˌɪntərˈækʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev594.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/interaction.mp3",
+      "meaningVi": "tương tác",
+      "meaningEn": "an influence; a mutual activity",
+      "exampleEnHtml": "<p>My pharmacist was concerned about the <strong>interaction </strong>of the two medications I was prescribed.</p>\n",
+      "exampleViHtml": "<p>Dược sĩ của t&ocirc;i lo lắng về sự<strong> tương t&aacute;c</strong> giữa hai loại thuốc m&agrave; t&ocirc;i được k&ecirc;.</p>\n",
+      "exampleEn": "My pharmacist was concerned about the interaction of the two medications I was prescribed.",
+      "exampleVi": "Dược sĩ của tôi lo lắng về sự tương tác giữa hai loại thuốc mà tôi được kê."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b372",
+      "word": "limit",
+      "phonetic": "/ˈlɪmɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev595.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/limit.mp3",
+      "meaningVi": "tối đa",
+      "meaningEn": "the point beyond which something cannot proceed",
+      "exampleEnHtml": "<p>My prescription has a <strong>limit </strong>of three refills.</p>\n",
+      "exampleViHtml": "<p>Toa thuốc của t&ocirc;i chỉ được ph&eacute;p lấy <strong>tối đa</strong> ba lần.</p>\n",
+      "exampleEn": "My prescription has a limit of three refills.",
+      "exampleVi": "Toa thuốc của tôi chỉ được phép lấy tối đa ba lần."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b373",
+      "word": "monitor",
+      "phonetic": "/ˈmɑːnɪtər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev596.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/monitor.mp3",
+      "meaningVi": "theo dõi",
+      "meaningEn": "to keep track of",
+      "exampleEnHtml": "<p>The nurse practitioner carefully <strong>monitors </strong>the number of medications her patients are taking.</p>\n",
+      "exampleViHtml": "<p>Y t&aacute; chăm s&oacute;c kỹ lưỡng việc <strong>theo d&otilde;i </strong>số lượng thuốc m&agrave; bệnh nh&acirc;n của c&ocirc; ấy đang d&ugrave;ng.</p>\n",
+      "exampleEn": "The nurse practitioner carefully monitors the number of medications her patients are taking.",
+      "exampleVi": "Y tá chăm sóc kỹ lưỡng việc theo dõi số lượng thuốc mà bệnh nhân của cô ấy đang dùng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b374",
+      "word": "potential",
+      "phonetic": "/pəˈtenʃl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev597.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/Potential.mp3",
+      "meaningVi": "có thể xảy ra",
+      "meaningEn": "capable of being but not yet in existence; possible",
+      "exampleEnHtml": "<p>To avoid any <strong>potential </strong>side effects from the medication, be sure to tell your doctor all the drugs you are currently taking.</p>\n",
+      "exampleViHtml": "<p>Để tr&aacute;nh c&aacute;c t&aacute;c dụng phụ <strong>c&oacute; thể xảy ra</strong> từ thuốc, h&atilde;y chắc chắn b&aacute;o cho b&aacute;c sĩ biết tất cả c&aacute;c loại thuốc bạn đang d&ugrave;ng.</p>\n",
+      "exampleEn": "To avoid any potential side effects from the medication, be sure to tell your doctor all the drugs you are currently taking.",
+      "exampleVi": "Để tránh các tác dụng phụ có thể xảy ra từ thuốc, hãy chắc chắn báo cho bác sĩ biết tất cả các loại thuốc bạn đang dùng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b375",
+      "word": "sample",
+      "phonetic": "/ˈsæmpl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev598.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/sample.mp3",
+      "meaningVi": "mẫu",
+      "meaningEn": "a portion, piece, or segment that is representative of a whole",
+      "exampleEnHtml": "<p>The pharmacist gave Myra a few free <strong>samples </strong>of the allergy medication.</p>\n",
+      "exampleViHtml": "<p>Dược sĩ đ&atilde; tặng Myra một v&agrave;i <strong>mẫu </strong>thuốc miễn ph&iacute; cho bệnh dị ứng.</p>\n",
+      "exampleEn": "The pharmacist gave Myra a few free samples of the allergy medication.",
+      "exampleVi": "Dược sĩ đã tặng Myra một vài mẫu thuốc miễn phí cho bệnh dị ứng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b376",
+      "word": "sense",
+      "phonetic": "/sens/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev599.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/sense.mp3",
+      "meaningVi": "cảm giác",
+      "meaningEn": "a judgment; an intellectual interpretation",
+      "exampleEnHtml": "<p>The doctor had a good <strong>sense </strong>about what the problem was but wanted to get a second opinion.</p>\n",
+      "exampleViHtml": "<p>B&aacute;c sĩ c&oacute; <strong>cảm gi&aacute;c </strong>tốt về vấn đề n&agrave;y nhưng vẫn muốn c&oacute; th&ecirc;m &yacute; kiến thứ hai.</p>\n",
+      "exampleEn": "The doctor had a good sense about what the problem was but wanted to get a second opinion.",
+      "exampleVi": "Bác sĩ có cảm giác tốt về vấn đề này nhưng vẫn muốn có thêm ý kiến thứ hai."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b377",
+      "word": "volunteer",
+      "phonetic": "/ˌvɑːlənˈtɪr/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev600.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/volunteer.mp3",
+      "meaningVi": "tình nguyện",
+      "meaningEn": "one who performs a service without pay; to perform as a volunteer",
+      "exampleEnHtml": "<p>My doctor <strong>volunteered </strong>to call the drugstore, so my medication would be waiting for me.</p>\n",
+      "exampleViHtml": "<p>B&aacute;c sĩ của t&ocirc;i <strong>t&igrave;nh nguyện</strong> gọi cho nh&agrave; thuốc để đảm bảo thuốc sẽ sẵn s&agrave;ng khi t&ocirc;i đến lấy.</p>\n",
+      "exampleEn": "My doctor volunteered to call the drugstore, so my medication would be waiting for me.",
+      "exampleVi": "Bác sĩ của tôi tình nguyện gọi cho nhà thuốc để đảm bảo thuốc sẽ sẵn sàng khi tôi đến lấy."
+    }
+  ],
+  "totalFlashcards": 12
+}

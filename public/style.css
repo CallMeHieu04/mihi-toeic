@@ -1,0 +1,327 @@
+/* TOEIC Test Pro Custom Stylesheet */
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(99, 102, 241, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(99, 102, 241, 0.7);
+  }
+}
+
+.tab-btn.active {
+  background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+}
+
+.tab-btn:not(.active) {
+  color: #475569;
+}
+.tab-btn:not(.active):hover {
+  background-color: #f1f5f9;
+  color: #1e293b;
+}
+
+.nav-btn.active {
+  color: #4f46e5;
+  background-color: #eef2ff;
+}
+
+/* Choice card */
+.choice-item {
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+  user-select: none;
+}
+.choice-item:hover {
+  border-color: #93c5fd;
+  background-color: #f8fafc;
+}
+.choice-item.selected {
+  border-color: #4f46e5;
+  background-color: #eef2ff;
+  box-shadow: 0 0 0 1px #4f46e5;
+}
+
+.choice-item.choice-correct {
+  border-color: #10b981 !important;
+  background-color: #ecfdf5 !important;
+  box-shadow: 0 0 0 1px #10b981 !important;
+}
+
+.choice-item.choice-wrong {
+  border-color: #ef4444 !important;
+  background-color: #fef2f2 !important;
+  box-shadow: 0 0 0 1px #ef4444 !important;
+}
+
+/* Modal styling */
+.modal-backdrop {
+  background-color: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(4px);
+}
+
+.lesson-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+.lesson-content th, .lesson-content td {
+  border: 1px solid #e2e8f0;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+}
+.lesson-content th {
+  background-color: #f8fafc;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+/* Palette button styles */
+.palette-btn {
+  aspect-ratio: 1;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.1s ease;
+  border: 1px solid #e2e8f0;
+  background-color: #f8fafc;
+  color: #64748b;
+}
+.palette-btn:hover {
+  border-color: #6366f1;
+  color: #4f46e5;
+}
+.palette-btn.active-q {
+  ring-width: 2px;
+  --tw-ring-color: #4f46e5;
+  box-shadow: 0 0 0 2px #4f46e5;
+}
+.palette-btn.answered {
+  background-color: #4f46e5;
+  color: #ffffff;
+  border-color: #4f46e5;
+}
+.palette-btn.flagged {
+  border-color: #f59e0b;
+  background-color: #fef3c7;
+  color: #b45309;
+}
+.palette-btn.answered.flagged {
+  background-color: #f59e0b;
+  color: #ffffff;
+  border-color: #d97706;
+}
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Audio Player Clean Styling */
+audio::-webkit-media-controls-panel {
+  background-color: #f8fafc;
+}
+
+/* HTML content inside explanation and passage */
+.prose b, .prose strong {
+  color: #1e1b4b;
+  font-weight: 700;
+}
+.prose p {
+  margin-bottom: 0.5rem;
+}
+
+/* ================= 3D FLASHCARD STYLES ================= */
+.flashcard-scene {
+  perspective: 1200px;
+}
+
+.flashcard-card {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  transform-style: preserve-3d;
+  cursor: pointer;
+}
+
+.flashcard-card.is-flipped {
+  transform: rotateY(180deg);
+}
+
+.flashcard-face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 1.75rem;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.04), 0 8px 10px -6px rgba(0, 0, 0, 0.02);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem;
+  user-select: none;
+}
+
+.flashcard-face-back {
+  transform: rotateY(180deg);
+  text-align: left;
+}
+
+#fc-front-img {
+  max-width: 240px !important;
+  max-height: 150px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  display: block !important;
+  border-radius: 8px !important;
+}
+
+/* Highlighted keywords in examples */
+.example-highlight strong, .example-highlight b {
+  color: #5648ee;
+  font-weight: 800;
+}
+
+/* ================= VOCABULARY QUIZ STYLES ================= */
+.quiz-choice-item {
+  transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  user-select: none;
+}
+.quiz-choice-item:hover:not(.graded) {
+  border-color: #818cf8;
+  background-color: #f8fafc;
+  transform: translateY(-1px);
+}
+.quiz-choice-item.graded {
+  cursor: default;
+}
+.quiz-choice-item.correct {
+  border-color: #10b981 !important;
+  background-color: #ecfdf5 !important;
+  box-shadow: 0 0 0 1px #10b981 !important;
+}
+.quiz-choice-item.correct .quiz-radio-circle {
+  border-color: #10b981 !important;
+  background-color: #10b981 !important;
+  color: #ffffff !important;
+}
+.quiz-choice-item.wrong {
+  border-color: #ef4444 !important;
+  background-color: #fef2f2 !important;
+  box-shadow: 0 0 0 1px #ef4444 !important;
+}
+.quiz-choice-item.wrong .quiz-radio-circle {
+  border-color: #ef4444 !important;
+  background-color: #ef4444 !important;
+  color: #ffffff !important;
+}
+
+/* ================= EXAM & PRACTICE TEST CHOICES (ESTUDYME MATCH) ================= */
+.exam-choice-item {
+  transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  user-select: none;
+}
+.exam-choice-item:hover:not(.graded) {
+  border-color: #818cf8;
+  background-color: #f8fafc;
+  transform: translateY(-1px);
+}
+.exam-choice-item.graded {
+  cursor: default;
+}
+.exam-choice-item.selected:not(.correct):not(.wrong) {
+  border-color: #5648ee !important;
+  background-color: #eef2ff !important;
+  box-shadow: 0 0 0 1px #5648ee !important;
+}
+.exam-choice-item.selected:not(.correct):not(.wrong) .exam-radio-circle {
+  border-color: #5648ee !important;
+  background-color: #5648ee !important;
+  color: #ffffff !important;
+}
+.exam-choice-item.correct {
+  border-color: #10b981 !important;
+  background-color: #ecfdf5 !important;
+  box-shadow: 0 0 0 1px #10b981 !important;
+}
+.exam-choice-item.correct .exam-radio-circle {
+  border-color: #10b981 !important;
+  background-color: #10b981 !important;
+  color: #ffffff !important;
+}
+.exam-choice-item.wrong {
+  border-color: #ef4444 !important;
+  background-color: #fef2f2 !important;
+  box-shadow: 0 0 0 1px #ef4444 !important;
+}
+.exam-choice-item.wrong .exam-radio-circle {
+  border-color: #ef4444 !important;
+  background-color: #ef4444 !important;
+  color: #ffffff !important;
+}
+
+/* ================= EXPLANATION ACCORDIONS & VOCAB TABLES ================= */
+.acc-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.75rem 0;
+  font-size: 0.875rem;
+}
+.acc-content th {
+  text-align: left;
+  font-weight: 800;
+  color: #1e293b;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 2px solid #e2e8f0;
+}
+.acc-content td {
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid #f1f5f9;
+  color: #334155;
+}
+.acc-content p {
+  margin-bottom: 0.5rem;
+}
+.acc-content ul {
+  list-style-type: disc;
+  padding-left: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+.acc-content strong, .acc-content b {
+  color: #0f172a;
+}
+
+/* Bottom Dock Collapse/Expand Animation */
+#exam-bottom-dock {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+#exam-bottom-dock.dock-collapsed {
+  transform: translateY(calc(100% - 10px)) !important;
+}
+#btn-toggle-exam-dock {
+  box-shadow: 0 -2px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+}
+
+
+

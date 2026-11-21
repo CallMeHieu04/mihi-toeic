@@ -1,0 +1,608 @@
+{
+  "topicId": "6224cb3483f28145bcbba582",
+  "title": "SENTENCE ELEMENTS - Practice 3",
+  "totalCards": 15,
+  "totalQuestions": 15,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdf7",
+        "questionNumber": 1,
+        "questionText": "Identify the pattern of this sentence They / gave / me / tea.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SV IO DO",
+            "raw": "A. SV IO DO",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "SVOA",
+            "raw": "B. SVOA               ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SV IO",
+            "raw": "C. SV IO                ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SCVA",
+            "raw": "D. SCVA   ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They gave me tea.' follows a specific sentence pattern in English grammar. In this sentence, 'They' is the subject (S), 'gave' is the verb (V), 'me' is the indirect object (IO), and 'tea' is the direct object (DO). This structure is known as the SV IO DO pattern, where the verb is followed by both an indirect object (the person receiving something) and a direct object (the thing being given).<br><ul><li><b>SV IO DO</b> (sentence pattern): This pattern stands for Subject + Verb + Indirect Object + Direct Object. It is used when the verb is followed by two objects: the indirect object (usually a person) and the direct object (usually a thing). Example: 'She sent him a letter.'</li><li><b>SVOA</b> (sentence pattern): This pattern stands for Subject + Verb + Object + Adverbial. It is used when the verb is followed by an object and then an adverbial (such as a place or time). Example: 'He put the book on the table.'</li><li><b>SV IO</b> (sentence pattern): This pattern stands for Subject + Verb + Indirect Object. It is not a common complete sentence pattern in English because most verbs that take an indirect object also require a direct object.</li><li><b>SCVA</b> (sentence pattern): This pattern stands for Subject + Complement + Verb + Adverbial. This is not a standard sentence pattern in English grammar.</li></ul><b>Related structure or vocabulary:</b> Common verbs that follow the SV IO DO pattern include: give, send, show, tell, offer, bring, etc. Structure: Subject + Verb + Indirect Object + Direct Object.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They gave me tea.' tuân theo một mẫu câu cụ thể trong ngữ pháp tiếng Anh. Trong câu này, 'They' là chủ ngữ (S), 'gave' là động từ (V), 'me' là tân ngữ gián tiếp (IO), và 'tea' là tân ngữ trực tiếp (DO). Cấu trúc này được gọi là mẫu SV IO DO, trong đó động từ được theo sau bởi cả tân ngữ gián tiếp (người nhận) và tân ngữ trực tiếp (vật được cho).<br><ul><li><b>SV IO DO</b> (mẫu câu): Mẫu này là Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp. Được dùng khi động từ đi kèm hai tân ngữ: tân ngữ gián tiếp (thường là người) và tân ngữ trực tiếp (thường là vật). Ví dụ: 'She sent him a letter.' (Cô ấy gửi cho anh ấy một bức thư.)</li><li><b>SVOA</b> (mẫu câu): Mẫu này là Chủ ngữ + Động từ + Tân ngữ + Trạng ngữ. Được dùng khi động từ đi kèm tân ngữ và sau đó là trạng ngữ (chỉ nơi chốn, thời gian,...). Ví dụ: 'He put the book on the table.' (Anh ấy đặt cuốn sách lên bàn.)</li><li><b>SV IO</b> (mẫu câu): Mẫu này là Chủ ngữ + Động từ + Tân ngữ gián tiếp. Đây không phải là mẫu câu hoàn chỉnh phổ biến trong tiếng Anh vì hầu hết các động từ có tân ngữ gián tiếp đều cần thêm tân ngữ trực tiếp.</li><li><b>SCVA</b> (mẫu câu): Mẫu này là Chủ ngữ + Bổ ngữ + Động từ + Trạng ngữ. Đây không phải là mẫu câu chuẩn trong ngữ pháp tiếng Anh.</li></ul><b>Cấu trúc và từ vựng:</b> Các động từ thường dùng với mẫu SV IO DO: give, send, show, tell, offer, bring,... Cấu trúc: Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp.<br><br><b>Tạm dịch:</b> Câu 'They gave me tea.' có cấu trúc là Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp (SV IO DO). 'They' là chủ ngữ, 'gave' là động từ, 'me' là tân ngữ gián tiếp (người nhận), 'tea' là tân ngữ trực tiếp (vật được cho). Vì vậy, đáp án đúng là A. SV IO DO.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They gave me tea.' follows a specific sentence pattern in English grammar. In this sentence, 'They' is the subject (S), 'gave' is the verb (V), 'me' is the indirect object (IO), and 'tea' is the direct object (DO). This structure is known as the SV IO DO pattern, where the verb is followed by both an indirect object (the person receiving something) and a direct object (the thing being given).<br><ul><li><b>SV IO DO</b> (sentence pattern): This pattern stands for Subject + Verb + Indirect Object + Direct Object. It is used when the verb is followed by two objects: the indirect object (usually a person) and the direct object (usually a thing). Example: 'She sent him a letter.'</li><li><b>SVOA</b> (sentence pattern): This pattern stands for Subject + Verb + Object + Adverbial. It is used when the verb is followed by an object and then an adverbial (such as a place or time). Example: 'He put the book on the table.'</li><li><b>SV IO</b> (sentence pattern): This pattern stands for Subject + Verb + Indirect Object. It is not a common complete sentence pattern in English because most verbs that take an indirect object also require a direct object.</li><li><b>SCVA</b> (sentence pattern): This pattern stands for Subject + Complement + Verb + Adverbial. This is not a standard sentence pattern in English grammar.</li></ul><b>Related structure or vocabulary:</b> Common verbs that follow the SV IO DO pattern include: give, send, show, tell, offer, bring, etc. Structure: Subject + Verb + Indirect Object + Direct Object.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdf8",
+        "questionNumber": 2,
+        "questionText": "Identify the pattern of this sentence They / gave / a pen / to him.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVAC",
+            "raw": "A. SVAC                ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "SVOA",
+            "raw": "B. SVOA               ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SV IO DO",
+            "raw": "C. SV IO DO         ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SV DO IO",
+            "raw": "D. SV DO IO",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They gave a pen to him.' follows a specific sentence pattern in English grammar. In this sentence, 'They' is the subject (S), 'gave' is the verb (V), 'a pen' is the direct object (DO), and 'to him' is the indirect object (IO) expressed in the form of a prepositional phrase. The typical pattern for such sentences is Subject + Verb + Direct Object + Indirect Object (in prepositional form), which is commonly written as SV DO IO.<br><ul><li><b>SVAC</b> (Sentence Pattern): Subject + Verb + Adverbial + Complement. This pattern is used when the sentence has an adverbial and a complement, which is not the case here.</li><li><b>SVOA</b> (Sentence Pattern): Subject + Verb + Object + Adverbial. This pattern is used when the sentence has an object and an adverbial, but 'to him' here functions as an indirect object, not a simple adverbial.</li><li><b>SV IO DO</b> (Sentence Pattern): Subject + Verb + Indirect Object + Direct Object. This pattern is used when the indirect object comes before the direct object (e.g., 'They gave him a pen.'). In the given sentence, the direct object comes before the indirect object.</li><li><b>SV DO IO</b> (Sentence Pattern): Subject + Verb + Direct Object + Indirect Object (in prepositional form). This is the correct pattern for the sentence 'They gave a pen to him.'</li></ul><b>Related structure or vocabulary:</b> In English, verbs like 'give', 'send', 'show', etc., can take both a direct and an indirect object. The indirect object can be placed after the direct object with a preposition (to/for), forming the SV DO IO pattern. Example: 'She sent a letter to her friend.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They gave a pen to him.' tuân theo một mẫu câu cụ thể trong ngữ pháp tiếng Anh. Trong câu này, 'They' là chủ ngữ (S), 'gave' là động từ (V), 'a pen' là tân ngữ trực tiếp (DO), và 'to him' là tân ngữ gián tiếp (IO) được thể hiện dưới dạng cụm giới từ. Mẫu câu điển hình cho trường hợp này là Chủ ngữ + Động từ + Tân ngữ trực tiếp + Tân ngữ gián tiếp (dưới dạng giới từ), thường được viết là SV DO IO.<br><ul><li><b>SVAC</b> (Mẫu câu): Chủ ngữ + Động từ + Trạng ngữ + Bổ ngữ. Mẫu này dùng khi câu có trạng ngữ và bổ ngữ, không phù hợp với câu đã cho.</li><li><b>SVOA</b> (Mẫu câu): Chủ ngữ + Động từ + Tân ngữ + Trạng ngữ. Mẫu này dùng khi câu có tân ngữ và trạng ngữ, nhưng 'to him' trong câu này là tân ngữ gián tiếp chứ không phải trạng ngữ.</li><li><b>SV IO DO</b> (Mẫu câu): Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp. Mẫu này dùng khi tân ngữ gián tiếp đứng trước tân ngữ trực tiếp (ví dụ: 'They gave him a pen.'). Trong câu đã cho, tân ngữ trực tiếp đứng trước tân ngữ gián tiếp.</li><li><b>SV DO IO</b> (Mẫu câu): Chủ ngữ + Động từ + Tân ngữ trực tiếp + Tân ngữ gián tiếp (dưới dạng giới từ). Đây là mẫu đúng cho câu 'They gave a pen to him.'</li></ul><b>Cấu trúc và từ vựng:</b> Trong tiếng Anh, các động từ như 'give', 'send', 'show',... có thể đi với cả tân ngữ trực tiếp và tân ngữ gián tiếp. Tân ngữ gián tiếp có thể đứng sau tân ngữ trực tiếp với giới từ (to/for), tạo thành mẫu SV DO IO. Ví dụ: 'She sent a letter to her friend.'<br><br><b>Tạm dịch:</b> Câu 'They gave a pen to him.' có mẫu câu là Chủ ngữ + Động từ + Tân ngữ trực tiếp + Tân ngữ gián tiếp (dưới dạng giới từ), viết tắt là SV DO IO. Đáp án đúng là D. SV DO IO.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They gave a pen to him.' follows a specific sentence pattern in English grammar. In this sentence, 'They' is the subject (S), 'gave' is the verb (V), 'a pen' is the direct object (DO), and 'to him' is the indirect object (IO) expressed in the form of a prepositional phrase. The typical pattern for such sentences is Subject + Verb + Direct Object + Indirect Object (in prepositional form), which is commonly written as SV DO IO.<br><ul><li><b>SVAC</b> (Sentence Pattern): Subject + Verb + Adverbial + Complement. This pattern is used when the sentence has an adverbial and a complement, which is not the case here.</li><li><b>SVOA</b> (Sentence Pattern): Subject + Verb + Object + Adverbial. This pattern is used when the sentence has an object and an adverbial, but 'to him' here functions as an indirect object, not a simple adverbial.</li><li><b>SV IO DO</b> (Sentence Pattern): Subject + Verb + Indirect Object + Direct Object. This pattern is used when the indirect object comes before the direct object (e.g., 'They gave him a pen.'). In the given sentence, the direct object comes before the indirect object.</li><li><b>SV DO IO</b> (Sentence Pattern): Subject + Verb + Direct Object + Indirect Object (in prepositional form). This is the correct pattern for the sentence 'They gave a pen to him.'</li></ul><b>Related structure or vocabulary:</b> In English, verbs like 'give', 'send', 'show', etc., can take both a direct and an indirect object. The indirect object can be placed after the direct object with a preposition (to/for), forming the SV DO IO pattern. Example: 'She sent a letter to her friend.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdf9",
+        "questionNumber": 3,
+        "questionText": "Identify the pattern of this sentence He / irons / his shirt.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVC",
+            "raw": "A. SVC   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "SVOA",
+            "raw": "B. SVOA               ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SVCA",
+            "raw": "C. SVCA                ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SVO",
+            "raw": "D. SVO",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'He irons his shirt.' follows the Subject-Verb-Object (SVO) pattern. In this sentence, 'He' is the subject, 'irons' is the verb, and 'his shirt' is the object. The verb 'irons' is a transitive verb, which means it requires an object to complete its meaning.<br><ul><li><b>SVC</b> (Sentence Pattern): Subject-Verb-Complement: This pattern is used when the verb is linking and is followed by a complement (e.g., 'She is happy.'). 'Irons' is not a linking verb, so this is incorrect.</li><li><b>SVOA</b> (Sentence Pattern): Subject-Verb-Object-Adverbial: This pattern includes an adverbial after the object (e.g., 'He put the book on the table.'). There is no adverbial in the sentence, so this is incorrect.</li><li><b>SVCA</b> (Sentence Pattern): Subject-Verb-Complement-Adverbial: This pattern includes both a complement and an adverbial (e.g., 'She is a teacher at school.'). The sentence does not have a complement or adverbial, so this is incorrect.</li><li><b>SVO</b> (Sentence Pattern): Subject-Verb-Object: This is the correct pattern for sentences where the verb takes a direct object (e.g., 'He reads a book.'). 'He irons his shirt.' fits this pattern.</li></ul><b>Related structure or vocabulary:</b> SVO (Subject-Verb-Object) is a common sentence structure in English, especially with transitive verbs that require an object.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'He irons his shirt.' theo mẫu câu Chủ ngữ - Động từ - Tân ngữ (SVO). Trong câu này, 'He' là chủ ngữ, 'irons' là động từ, và 'his shirt' là tân ngữ. Động từ 'irons' là động từ ngoại động, nghĩa là nó cần có tân ngữ để hoàn thành ý nghĩa.<br><ul><li><b>SVC</b> (Mẫu câu): Chủ ngữ - Động từ - Bổ ngữ: Mẫu này dùng khi động từ là động từ nối và theo sau là bổ ngữ (ví dụ: 'She is happy.'). 'Irons' không phải là động từ nối nên đáp án này sai.</li><li><b>SVOA</b> (Mẫu câu): Chủ ngữ - Động từ - Tân ngữ - Trạng ngữ: Mẫu này có thêm trạng ngữ sau tân ngữ (ví dụ: 'He put the book on the table.'). Câu này không có trạng ngữ nên đáp án này sai.</li><li><b>SVCA</b> (Mẫu câu): Chủ ngữ - Động từ - Bổ ngữ - Trạng ngữ: Mẫu này có cả bổ ngữ và trạng ngữ (ví dụ: 'She is a teacher at school.'). Câu này không có bổ ngữ hoặc trạng ngữ nên đáp án này sai.</li><li><b>SVO</b> (Mẫu câu): Chủ ngữ - Động từ - Tân ngữ: Đây là mẫu câu đúng cho các câu có động từ cần tân ngữ trực tiếp (ví dụ: 'He reads a book.'). 'He irons his shirt.' phù hợp với mẫu này.</li></ul><b>Cấu trúc và từ vựng:</b> SVO (Chủ ngữ - Động từ - Tân ngữ) là cấu trúc câu phổ biến trong tiếng Anh, đặc biệt với các động từ ngoại động cần tân ngữ.<br><br><b>Tạm dịch:</b> Câu 'He irons his shirt.' có nghĩa là 'Anh ấy là (ủi) áo sơ mi của mình.' Câu này theo mẫu Chủ ngữ - Động từ - Tân ngữ (SVO).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'He irons his shirt.' follows the Subject-Verb-Object (SVO) pattern. In this sentence, 'He' is the subject, 'irons' is the verb, and 'his shirt' is the object. The verb 'irons' is a transitive verb, which means it requires an object to complete its meaning.<br><ul><li><b>SVC</b> (Sentence Pattern): Subject-Verb-Complement: This pattern is used when the verb is linking and is followed by a complement (e.g., 'She is happy.'). 'Irons' is not a linking verb, so this is incorrect.</li><li><b>SVOA</b> (Sentence Pattern): Subject-Verb-Object-Adverbial: This pattern includes an adverbial after the object (e.g., 'He put the book on the table.'). There is no adverbial in the sentence, so this is incorrect.</li><li><b>SVCA</b> (Sentence Pattern): Subject-Verb-Complement-Adverbial: This pattern includes both a complement and an adverbial (e.g., 'She is a teacher at school.'). The sentence does not have a complement or adverbial, so this is incorrect.</li><li><b>SVO</b> (Sentence Pattern): Subject-Verb-Object: This is the correct pattern for sentences where the verb takes a direct object (e.g., 'He reads a book.'). 'He irons his shirt.' fits this pattern.</li></ul><b>Related structure or vocabulary:</b> SVO (Subject-Verb-Object) is a common sentence structure in English, especially with transitive verbs that require an object.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdfa",
+        "questionNumber": 4,
+        "questionText": "Identify the pattern of this sentence This morning / at seven / I / heard / a sound.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVO IO",
+            "raw": "A. SVO IO             ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "AASVO",
+            "raw": "B. AASVO",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "ASVO",
+            "raw": "C. ASVO                ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SVCA",
+            "raw": "D. SVCA",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'This morning / at seven / I / heard / a sound.' is asking for the identification of its structural pattern. In English sentence structure, we use abbreviations to represent different parts: S (Subject), V (Verb), O (Object), C (Complement), and A (Adverbial). In this sentence: 'This morning' and 'at seven' are adverbials (A), 'I' is the subject (S), 'heard' is the verb (V), and 'a sound' is the object (O). Therefore, the correct pattern is AASVO (Adverbial, Adverbial, Subject, Verb, Object).<br><ul><li><b>A. SVO IO</b> (sentence pattern): This stands for Subject + Verb + Object + Indirect Object. The sentence does not have an indirect object.</li><li><b>B. AASVO</b> (sentence pattern): This stands for Adverbial + Adverbial + Subject + Verb + Object. This matches the sentence structure: 'This morning' (A), 'at seven' (A), 'I' (S), 'heard' (V), 'a sound' (O).</li><li><b>C. ASVO</b> (sentence pattern): This stands for Adverbial + Subject + Verb + Object. The sentence has two adverbials, not one.</li><li><b>D. SVCA</b> (sentence pattern): This stands for Subject + Verb + Complement + Adverbial. The sentence does not have a complement.</li></ul><b>Related structure or vocabulary:</b> Sentence patterns in English: S (Subject), V (Verb), O (Object), C (Complement), A (Adverbial). Multiple adverbials can appear at the beginning of a sentence.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi yêu cầu xác định cấu trúc của câu 'This morning / at seven / I / heard / a sound.' Trong ngữ pháp tiếng Anh, các ký hiệu S (Chủ ngữ), V (Động từ), O (Tân ngữ), C (Bổ ngữ), A (Trạng ngữ) được dùng để mô tả thành phần câu. Ở đây: 'This morning' và 'at seven' là trạng ngữ (A), 'I' là chủ ngữ (S), 'heard' là động từ (V), 'a sound' là tân ngữ (O). Do đó, cấu trúc đúng là AASVO (Trạng ngữ, Trạng ngữ, Chủ ngữ, Động từ, Tân ngữ).<br><ul><li><b>A. SVO IO</b> (cấu trúc câu): Viết tắt của Chủ ngữ + Động từ + Tân ngữ + Tân ngữ gián tiếp. Câu này không có tân ngữ gián tiếp.</li><li><b>B. AASVO</b> (cấu trúc câu): Viết tắt của Trạng ngữ + Trạng ngữ + Chủ ngữ + Động từ + Tân ngữ. Phù hợp với cấu trúc câu: 'This morning' (A), 'at seven' (A), 'I' (S), 'heard' (V), 'a sound' (O).</li><li><b>C. ASVO</b> (cấu trúc câu): Viết tắt của Trạng ngữ + Chủ ngữ + Động từ + Tân ngữ. Câu này có hai trạng ngữ, không phải một.</li><li><b>D. SVCA</b> (cấu trúc câu): Viết tắt của Chủ ngữ + Động từ + Bổ ngữ + Trạng ngữ. Câu này không có bổ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Các mẫu câu cơ bản trong tiếng Anh: S (Chủ ngữ), V (Động từ), O (Tân ngữ), C (Bổ ngữ), A (Trạng ngữ). Có thể có nhiều trạng ngữ đứng đầu câu.<br><br><b>Tạm dịch:</b> Câu này có cấu trúc: Trạng ngữ (This morning), Trạng ngữ (at seven), Chủ ngữ (I), Động từ (heard), Tân ngữ (a sound) nên đáp án đúng là B. AASVO.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'This morning / at seven / I / heard / a sound.' is asking for the identification of its structural pattern. In English sentence structure, we use abbreviations to represent different parts: S (Subject), V (Verb), O (Object), C (Complement), and A (Adverbial). In this sentence: 'This morning' and 'at seven' are adverbials (A), 'I' is the subject (S), 'heard' is the verb (V), and 'a sound' is the object (O). Therefore, the correct pattern is AASVO (Adverbial, Adverbial, Subject, Verb, Object).<br><ul><li><b>A. SVO IO</b> (sentence pattern): This stands for Subject + Verb + Object + Indirect Object. The sentence does not have an indirect object.</li><li><b>B. AASVO</b> (sentence pattern): This stands for Adverbial + Adverbial + Subject + Verb + Object. This matches the sentence structure: 'This morning' (A), 'at seven' (A), 'I' (S), 'heard' (V), 'a sound' (O).</li><li><b>C. ASVO</b> (sentence pattern): This stands for Adverbial + Subject + Verb + Object. The sentence has two adverbials, not one.</li><li><b>D. SVCA</b> (sentence pattern): This stands for Subject + Verb + Complement + Adverbial. The sentence does not have a complement.</li></ul><b>Related structure or vocabulary:</b> Sentence patterns in English: S (Subject), V (Verb), O (Object), C (Complement), A (Adverbial). Multiple adverbials can appear at the beginning of a sentence.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdfb",
+        "questionNumber": 5,
+        "questionText": "Identify the pattern of this sentence Sit / here.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "VA",
+            "raw": "A. VA",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "OA",
+            "raw": "B. OA    ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "VO",
+            "raw": "C. VO     ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "V IO",
+            "raw": "D. V IO ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Sit / here.' is an imperative sentence. In English, imperative sentences often have the structure 'Verb + (Object/Adverbial)'. In this case, 'Sit' is the verb and 'here' is an adverb indicating place. There is no object in the sentence. Therefore, the pattern is 'Verb + Adverbial' (VA).<br><ul><li><b>VA</b> (Pattern): Verb + Adverbial: A verb followed by an adverb or adverbial phrase. Example: 'Sit here.'</li><li><b>OA</b> (Pattern): Object + Adverbial: This pattern is not common in English sentence structure, especially not for imperatives.</li><li><b>VO</b> (Pattern): Verb + Object: A verb followed by its object. Example: 'Read the book.'</li><li><b>V IO</b> (Pattern): Verb + Indirect Object: A verb followed by an indirect object. Example: 'Give him the book.'</li></ul><b>Related structure or vocabulary:</b> Imperative sentence structure: Verb + (Object/Adverbial). Adverbials answer questions like where, when, how, etc.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Sit / here.' là một câu mệnh lệnh trong tiếng Anh. Cấu trúc phổ biến của câu mệnh lệnh là 'Động từ + (Tân ngữ/Trạng ngữ)'. Ở đây, 'Sit' là động từ, 'here' là trạng ngữ chỉ nơi chốn. Câu này không có tân ngữ. Vì vậy, cấu trúc của câu là 'Động từ + Trạng ngữ' (VA).<br><ul><li><b>VA</b> (Cấu trúc): Động từ + Trạng ngữ: Một động từ theo sau là một trạng ngữ hoặc cụm trạng ngữ. Ví dụ: 'Sit here.'</li><li><b>OA</b> (Cấu trúc): Tân ngữ + Trạng ngữ: Cấu trúc này không phổ biến trong tiếng Anh, đặc biệt không dùng cho câu mệnh lệnh.</li><li><b>VO</b> (Cấu trúc): Động từ + Tân ngữ: Một động từ theo sau là tân ngữ. Ví dụ: 'Read the book.'</li><li><b>V IO</b> (Cấu trúc): Động từ + Tân ngữ gián tiếp: Một động từ theo sau là tân ngữ gián tiếp. Ví dụ: 'Give him the book.'</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu mệnh lệnh: Động từ + (Tân ngữ/Trạng ngữ). Trạng ngữ trả lời cho các câu hỏi như ở đâu, khi nào, như thế nào, v.v.<br><br><b>Tạm dịch:</b> Câu 'Sit / here.' có cấu trúc là Động từ + Trạng ngữ (VA). 'Sit' là động từ, 'here' là trạng ngữ chỉ nơi chốn. Không có tân ngữ trong câu này. Vì vậy, đáp án đúng là A. VA.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Sit / here.' is an imperative sentence. In English, imperative sentences often have the structure 'Verb + (Object/Adverbial)'. In this case, 'Sit' is the verb and 'here' is an adverb indicating place. There is no object in the sentence. Therefore, the pattern is 'Verb + Adverbial' (VA).<br><ul><li><b>VA</b> (Pattern): Verb + Adverbial: A verb followed by an adverb or adverbial phrase. Example: 'Sit here.'</li><li><b>OA</b> (Pattern): Object + Adverbial: This pattern is not common in English sentence structure, especially not for imperatives.</li><li><b>VO</b> (Pattern): Verb + Object: A verb followed by its object. Example: 'Read the book.'</li><li><b>V IO</b> (Pattern): Verb + Indirect Object: A verb followed by an indirect object. Example: 'Give him the book.'</li></ul><b>Related structure or vocabulary:</b> Imperative sentence structure: Verb + (Object/Adverbial). Adverbials answer questions like where, when, how, etc.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdfc",
+        "questionNumber": 6,
+        "questionText": "Identify the pattern of this sentence My grandfather / told / me / a story.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVC",
+            "raw": "A. SVC   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "SV IO DO",
+            "raw": "B. SV IO DO",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "SV IO",
+            "raw": "C. SV IO                ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SVOA",
+            "raw": "D. SVOA              ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'My grandfather told me a story.' consists of the following parts: 'My grandfather' (subject), 'told' (verb), 'me' (indirect object), and 'a story' (direct object). This structure is called SV IO DO, which stands for Subject + Verb + Indirect Object + Direct Object. In English, some verbs like 'give', 'tell', 'send', etc., can take both an indirect object (the person who receives something) and a direct object (the thing that is given).<br><ul><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement. This pattern is used when the verb is a linking verb and is followed by a complement (e.g., She is happy).</li><li><b>SV IO DO</b> (sentence pattern): Subject + Verb + Indirect Object + Direct Object. Used when the verb takes both an indirect and a direct object (e.g., He gave me a gift).</li><li><b>SV IO</b> (sentence pattern): Subject + Verb + Indirect Object. This pattern is incomplete because it lacks the direct object.</li><li><b>SVOA</b> (sentence pattern): Subject + Verb + Object + Adverbial. Used when the sentence has an adverbial phrase at the end (e.g., She put the book on the table).</li></ul><b>Related structure or vocabulary:</b> SV IO DO pattern: Subject + Verb + Indirect Object + Direct Object. Common verbs: give, send, tell, show, offer, etc.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'My grandfather told me a story.' gồm các thành phần: 'My grandfather' (chủ ngữ), 'told' (động từ), 'me' (tân ngữ gián tiếp), và 'a story' (tân ngữ trực tiếp). Cấu trúc này gọi là SV IO DO, viết tắt của Subject + Verb + Indirect Object + Direct Object (Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp). Trong tiếng Anh, một số động từ như 'give', 'tell', 'send'... có thể đi với cả tân ngữ gián tiếp (người nhận) và tân ngữ trực tiếp (vật được cho).<br><ul><li><b>SVC</b> (cấu trúc câu): Chủ ngữ + Động từ + Bổ ngữ. Dùng khi động từ là động từ nối và theo sau là bổ ngữ (ví dụ: She is happy).</li><li><b>SV IO DO</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp. Dùng khi động từ có cả tân ngữ gián tiếp và tân ngữ trực tiếp (ví dụ: He gave me a gift).</li><li><b>SV IO</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ gián tiếp. Cấu trúc này thiếu tân ngữ trực tiếp nên không đầy đủ.</li><li><b>SVOA</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ + Trạng ngữ. Dùng khi câu có trạng ngữ ở cuối (ví dụ: She put the book on the table).</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc SV IO DO: Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp. Các động từ thường gặp: give, send, tell, show, offer, v.v.<br><br><b>Tạm dịch:</b> Ông tôi đã kể cho tôi một câu chuyện. Câu này có cấu trúc: Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp (SV IO DO).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'My grandfather told me a story.' consists of the following parts: 'My grandfather' (subject), 'told' (verb), 'me' (indirect object), and 'a story' (direct object). This structure is called SV IO DO, which stands for Subject + Verb + Indirect Object + Direct Object. In English, some verbs like 'give', 'tell', 'send', etc., can take both an indirect object (the person who receives something) and a direct object (the thing that is given).<br><ul><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement. This pattern is used when the verb is a linking verb and is followed by a complement (e.g., She is happy).</li><li><b>SV IO DO</b> (sentence pattern): Subject + Verb + Indirect Object + Direct Object. Used when the verb takes both an indirect and a direct object (e.g., He gave me a gift).</li><li><b>SV IO</b> (sentence pattern): Subject + Verb + Indirect Object. This pattern is incomplete because it lacks the direct object.</li><li><b>SVOA</b> (sentence pattern): Subject + Verb + Object + Adverbial. Used when the sentence has an adverbial phrase at the end (e.g., She put the book on the table).</li></ul><b>Related structure or vocabulary:</b> SV IO DO pattern: Subject + Verb + Indirect Object + Direct Object. Common verbs: give, send, tell, show, offer, etc.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdfd",
+        "questionNumber": 7,
+        "questionText": "Identify the pattern of this sentence Mary / cooks / deliciously.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVC",
+            "raw": "A. SVC   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "SVA",
+            "raw": "B. SVA",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "SVO",
+            "raw": "C. SVO   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "AVS",
+            "raw": "D. AVS",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Mary cooks deliciously.' consists of the subject 'Mary', the verb 'cooks', and the adverb 'deliciously'. In English sentence structure, this is called the SVC pattern, where S stands for Subject, V for Verb, and C for Complement. However, in this case, 'deliciously' is not a complement (which is usually an adjective or noun), but an adverb modifying the verb. The correct pattern for a sentence where the verb is followed by an adverb is SVA: Subject + Verb + Adverbial. Therefore, the correct answer is B. SVA.<br><ul><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement. The complement is usually an adjective or noun that describes or renames the subject.</li><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial. The adverbial (often an adverb) modifies the verb, indicating how, when, or where the action happens.</li><li><b>SVO</b> (sentence pattern): Subject + Verb + Object. The object receives the action of the verb.</li><li><b>AVS</b> (sentence pattern): This is not a standard English sentence pattern.</li></ul><b>Related structure or vocabulary:</b> SVA structure: Subject + Verb + Adverbial (adverb or adverbial phrase). Adverbs describe how, when, or where an action happens.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Mary cooks deliciously.' gồm chủ ngữ 'Mary', động từ 'cooks', và trạng từ 'deliciously'. Trong cấu trúc câu tiếng Anh, đây là dạng SVA, trong đó S là Subject (chủ ngữ), V là Verb (động từ), và A là Adverbial (trạng ngữ). Trạng từ 'deliciously' bổ nghĩa cho động từ 'cooks', chỉ cách thức hành động xảy ra. Vì vậy, đáp án đúng là B. SVA.<br><ul><li><b>SVC</b> (cấu trúc câu): Chủ ngữ + Động từ + Bổ ngữ. Bổ ngữ thường là tính từ hoặc danh từ dùng để miêu tả hoặc đặt lại tên cho chủ ngữ.</li><li><b>SVA</b> (cấu trúc câu): Chủ ngữ + Động từ + Trạng ngữ. Trạng ngữ (thường là trạng từ) bổ nghĩa cho động từ, chỉ cách thức, thời gian hoặc nơi chốn hành động xảy ra.</li><li><b>SVO</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ. Tân ngữ là đối tượng nhận hành động của động từ.</li><li><b>AVS</b> (cấu trúc câu): Đây không phải là một cấu trúc câu chuẩn trong tiếng Anh.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc SVA: Chủ ngữ + Động từ + Trạng ngữ (trạng từ hoặc cụm trạng từ). Trạng từ dùng để miêu tả cách thức, thời gian hoặc nơi chốn hành động xảy ra.<br><br><b>Tạm dịch:</b> Mary nấu ăn một cách ngon lành.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Mary cooks deliciously.' consists of the subject 'Mary', the verb 'cooks', and the adverb 'deliciously'. In English sentence structure, this is called the SVC pattern, where S stands for Subject, V for Verb, and C for Complement. However, in this case, 'deliciously' is not a complement (which is usually an adjective or noun), but an adverb modifying the verb. The correct pattern for a sentence where the verb is followed by an adverb is SVA: Subject + Verb + Adverbial. Therefore, the correct answer is B. SVA.<br><ul><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement. The complement is usually an adjective or noun that describes or renames the subject.</li><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial. The adverbial (often an adverb) modifies the verb, indicating how, when, or where the action happens.</li><li><b>SVO</b> (sentence pattern): Subject + Verb + Object. The object receives the action of the verb.</li><li><b>AVS</b> (sentence pattern): This is not a standard English sentence pattern.</li></ul><b>Related structure or vocabulary:</b> SVA structure: Subject + Verb + Adverbial (adverb or adverbial phrase). Adverbs describe how, when, or where an action happens.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdfe",
+        "questionNumber": 8,
+        "questionText": "Identify the pattern of this sentence I / gave / her / a doll.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVA",
+            "raw": "A. SVA   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "SV IO A",
+            "raw": "B. SV IO A            ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SV DO IO",
+            "raw": "C. SV DO IO         ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SV IO DO",
+            "raw": "D. SV IO DO",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'I gave her a doll.' follows a specific sentence pattern in English grammar. Let's break it down: 'I' is the subject (S), 'gave' is the verb (V), 'her' is the indirect object (IO), and 'a doll' is the direct object (DO). In English, when a verb takes both a direct and an indirect object, the typical order is Subject + Verb + Indirect Object + Direct Object (SV IO DO).<br><ul><li><b>A. SVA</b> (sentence pattern): SVA stands for Subject + Verb + Adverbial. This pattern is not correct here because 'her' and 'a doll' are objects, not adverbials.</li><li><b>B. SV IO A</b> (sentence pattern): SV IO A stands for Subject + Verb + Indirect Object + Adverbial. However, 'a doll' is a direct object, not an adverbial.</li><li><b>C. SV DO IO</b> (sentence pattern): SV DO IO stands for Subject + Verb + Direct Object + Indirect Object. This is not the order in the sentence. The correct order is Indirect Object before Direct Object.</li><li><b>D. SV IO DO</b> (sentence pattern): SV IO DO stands for Subject + Verb + Indirect Object + Direct Object. This matches the structure of the sentence: 'I' (S) 'gave' (V) 'her' (IO) 'a doll' (DO).</li></ul><b>Related structure or vocabulary:</b> Sentence patterns with two objects: In English, some verbs (like 'give', 'send', 'show') can take both an indirect object and a direct object. The usual order is SV IO DO (e.g., She sent me a letter).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'I gave her a doll.' tuân theo một mẫu câu cụ thể trong ngữ pháp tiếng Anh. Phân tích: 'I' là chủ ngữ (S), 'gave' là động từ (V), 'her' là tân ngữ gián tiếp (IO), và 'a doll' là tân ngữ trực tiếp (DO). Trong tiếng Anh, khi động từ có cả tân ngữ trực tiếp và tân ngữ gián tiếp, thứ tự thông thường là Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp (SV IO DO).<br><ul><li><b>A. SVA</b> (mẫu câu): SVA là viết tắt của Chủ ngữ + Động từ + Trạng ngữ. Mẫu này không đúng vì 'her' và 'a doll' là tân ngữ, không phải trạng ngữ.</li><li><b>B. SV IO A</b> (mẫu câu): SV IO A là Chủ ngữ + Động từ + Tân ngữ gián tiếp + Trạng ngữ. Tuy nhiên, 'a doll' là tân ngữ trực tiếp, không phải trạng ngữ.</li><li><b>C. SV DO IO</b> (mẫu câu): SV DO IO là Chủ ngữ + Động từ + Tân ngữ trực tiếp + Tân ngữ gián tiếp. Đây không phải là thứ tự trong câu. Thứ tự đúng là tân ngữ gián tiếp trước tân ngữ trực tiếp.</li><li><b>D. SV IO DO</b> (mẫu câu): SV IO DO là Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp. Đây chính là cấu trúc của câu: 'I' (S) 'gave' (V) 'her' (IO) 'a doll' (DO).</li></ul><b>Cấu trúc và từ vựng:</b> Các mẫu câu có hai tân ngữ: Trong tiếng Anh, một số động từ (như 'give', 'send', 'show') có thể đi với cả tân ngữ gián tiếp và tân ngữ trực tiếp. Thứ tự thông thường là SV IO DO (ví dụ: She sent me a letter).<br><br><b>Tạm dịch:</b> Câu 'I gave her a doll.' có cấu trúc là Chủ ngữ + Động từ + Tân ngữ gián tiếp + Tân ngữ trực tiếp (SV IO DO). Đáp án đúng là D. SV IO DO.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'I gave her a doll.' follows a specific sentence pattern in English grammar. Let's break it down: 'I' is the subject (S), 'gave' is the verb (V), 'her' is the indirect object (IO), and 'a doll' is the direct object (DO). In English, when a verb takes both a direct and an indirect object, the typical order is Subject + Verb + Indirect Object + Direct Object (SV IO DO).<br><ul><li><b>A. SVA</b> (sentence pattern): SVA stands for Subject + Verb + Adverbial. This pattern is not correct here because 'her' and 'a doll' are objects, not adverbials.</li><li><b>B. SV IO A</b> (sentence pattern): SV IO A stands for Subject + Verb + Indirect Object + Adverbial. However, 'a doll' is a direct object, not an adverbial.</li><li><b>C. SV DO IO</b> (sentence pattern): SV DO IO stands for Subject + Verb + Direct Object + Indirect Object. This is not the order in the sentence. The correct order is Indirect Object before Direct Object.</li><li><b>D. SV IO DO</b> (sentence pattern): SV IO DO stands for Subject + Verb + Indirect Object + Direct Object. This matches the structure of the sentence: 'I' (S) 'gave' (V) 'her' (IO) 'a doll' (DO).</li></ul><b>Related structure or vocabulary:</b> Sentence patterns with two objects: In English, some verbs (like 'give', 'send', 'show') can take both an indirect object and a direct object. The usual order is SV IO DO (e.g., She sent me a letter).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfdff",
+        "questionNumber": 9,
+        "questionText": "Identify the pattern of this sentence The cock / is / on the roof.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVA",
+            "raw": "A. SVA",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "SVC",
+            "raw": "B. SVC   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SAC",
+            "raw": "C. SAC   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SV",
+            "raw": "D. SV    ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'The cock / is / on the roof.' consists of three parts: 'The cock' (subject), 'is' (verb), and 'on the roof' (adverbial phrase indicating place). In English sentence structure, this pattern is called SVA, where S = Subject, V = Verb, and A = Adverbial (often an adverb or adverbial phrase showing time, place, manner, etc.). The verb 'is' here is a linking verb, and 'on the roof' tells us where the subject is.<br><ul><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial. This pattern is used when the verb is followed by an adverb or adverbial phrase, often indicating place or time.</li><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement. This pattern is used when the verb is followed by a complement, usually an adjective or noun that describes or renames the subject.</li><li><b>SAC</b> (sentence pattern): Subject + Adverbial + Complement. This is not a standard English sentence pattern.</li><li><b>SV</b> (sentence pattern): Subject + Verb. This pattern is used when the verb does not require an object, complement, or adverbial.</li></ul><b>Related structure or vocabulary:</b> Common sentence patterns in English: SVA (Subject + Verb + Adverbial), SVC (Subject + Verb + Complement), SV (Subject + Verb). Adverbials often answer questions like where, when, how.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'The cock / is / on the roof.' gồm ba thành phần: 'The cock' (chủ ngữ), 'is' (động từ), và 'on the roof' (trạng ngữ chỉ nơi chốn). Trong cấu trúc câu tiếng Anh, đây là mẫu SVA, trong đó S = Chủ ngữ, V = Động từ, A = Trạng ngữ (thường là trạng từ hoặc cụm trạng từ chỉ thời gian, nơi chốn, cách thức,...). Động từ 'is' ở đây là động từ nối, và 'on the roof' cho biết vị trí của chủ ngữ.<br><ul><li><b>SVA</b> (cấu trúc câu): Chủ ngữ + Động từ + Trạng ngữ. Mẫu này dùng khi động từ theo sau bởi trạng từ hoặc cụm trạng từ, thường chỉ nơi chốn hoặc thời gian.</li><li><b>SVC</b> (cấu trúc câu): Chủ ngữ + Động từ + Bổ ngữ. Mẫu này dùng khi động từ theo sau bởi bổ ngữ, thường là tính từ hoặc danh từ để mô tả hoặc đặt lại tên cho chủ ngữ.</li><li><b>SAC</b> (cấu trúc câu): Chủ ngữ + Trạng ngữ + Bổ ngữ. Đây không phải là mẫu câu chuẩn trong tiếng Anh.</li><li><b>SV</b> (cấu trúc câu): Chủ ngữ + Động từ. Mẫu này dùng khi động từ không cần tân ngữ, bổ ngữ hoặc trạng ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Các mẫu câu phổ biến trong tiếng Anh: SVA (Chủ ngữ + Động từ + Trạng ngữ), SVC (Chủ ngữ + Động từ + Bổ ngữ), SV (Chủ ngữ + Động từ). Trạng ngữ thường trả lời cho các câu hỏi như ở đâu, khi nào, như thế nào.<br><br><b>Tạm dịch:</b> Con gà trống / đang / ở trên mái nhà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'The cock / is / on the roof.' consists of three parts: 'The cock' (subject), 'is' (verb), and 'on the roof' (adverbial phrase indicating place). In English sentence structure, this pattern is called SVA, where S = Subject, V = Verb, and A = Adverbial (often an adverb or adverbial phrase showing time, place, manner, etc.). The verb 'is' here is a linking verb, and 'on the roof' tells us where the subject is.<br><ul><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial. This pattern is used when the verb is followed by an adverb or adverbial phrase, often indicating place or time.</li><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement. This pattern is used when the verb is followed by a complement, usually an adjective or noun that describes or renames the subject.</li><li><b>SAC</b> (sentence pattern): Subject + Adverbial + Complement. This is not a standard English sentence pattern.</li><li><b>SV</b> (sentence pattern): Subject + Verb. This pattern is used when the verb does not require an object, complement, or adverbial.</li></ul><b>Related structure or vocabulary:</b> Common sentence patterns in English: SVA (Subject + Verb + Adverbial), SVC (Subject + Verb + Complement), SV (Subject + Verb). Adverbials often answer questions like where, when, how.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfe00",
+        "questionNumber": 10,
+        "questionText": "Identify the pattern of this sentence Ricky / is / the team leader.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVC",
+            "raw": "A. SVC",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "ASV",
+            "raw": "B. ASV  ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SVA",
+            "raw": "C. SVA   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SVOC",
+            "raw": "D. SVOC",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Ricky / is / the team leader.' follows the SVC pattern, where S stands for Subject (Ricky), V stands for Verb (is), and C stands for Complement (the team leader). In this structure, the verb 'is' is a linking verb, and 'the team leader' is a subject complement that gives more information about the subject.<br><ul><li><b>SVC</b> (Sentence Pattern): Subject + Verb + Complement. Used when the verb is a linking verb (like 'is', 'seem', 'become') and is followed by a complement that describes or identifies the subject.</li><li><b>ASV</b> (Sentence Pattern): Adverbial + Subject + Verb. This pattern starts with an adverbial phrase, followed by the subject and verb. Not applicable here.</li><li><b>SVA</b> (Sentence Pattern): Subject + Verb + Adverbial. Used when the verb is followed by an adverbial (such as a place or time). Not suitable for this sentence.</li><li><b>SVOC</b> (Sentence Pattern): Subject + Verb + Object + Complement. Used when the verb takes an object and a complement. Not applicable here as there is no object.</li></ul><b>Related structure or vocabulary:</b> Linking verbs (be, seem, become, etc.) are followed by a complement (noun or adjective) that describes or identifies the subject. SVC is a common pattern for sentences with linking verbs.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Ricky / is / the team leader.' theo mẫu câu SVC, trong đó S là Chủ ngữ (Ricky), V là Động từ (is), và C là Bổ ngữ (the team leader). Ở cấu trúc này, 'is' là động từ liên kết (linking verb), và 'the team leader' là bổ ngữ chủ ngữ, cung cấp thêm thông tin về chủ ngữ.<br><ul><li><b>SVC</b> (Mẫu câu): Chủ ngữ + Động từ + Bổ ngữ. Dùng khi động từ là động từ liên kết (như 'is', 'seem', 'become') và theo sau là bổ ngữ mô tả hoặc xác định chủ ngữ.</li><li><b>ASV</b> (Mẫu câu): Trạng ngữ + Chủ ngữ + Động từ. Mẫu này bắt đầu bằng một cụm trạng ngữ, sau đó là chủ ngữ và động từ. Không phù hợp với câu này.</li><li><b>SVA</b> (Mẫu câu): Chủ ngữ + Động từ + Trạng ngữ. Dùng khi động từ theo sau là trạng ngữ (chỉ nơi chốn, thời gian...). Không phù hợp với câu này.</li><li><b>SVOC</b> (Mẫu câu): Chủ ngữ + Động từ + Tân ngữ + Bổ ngữ. Dùng khi động từ có tân ngữ và bổ ngữ. Không phù hợp vì câu này không có tân ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ liên kết (be, seem, become,...) thường theo sau bởi bổ ngữ (danh từ hoặc tính từ) để mô tả hoặc xác định chủ ngữ. SVC là mẫu câu phổ biến với động từ liên kết.<br><br><b>Tạm dịch:</b> Ricky là trưởng nhóm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Ricky / is / the team leader.' follows the SVC pattern, where S stands for Subject (Ricky), V stands for Verb (is), and C stands for Complement (the team leader). In this structure, the verb 'is' is a linking verb, and 'the team leader' is a subject complement that gives more information about the subject.<br><ul><li><b>SVC</b> (Sentence Pattern): Subject + Verb + Complement. Used when the verb is a linking verb (like 'is', 'seem', 'become') and is followed by a complement that describes or identifies the subject.</li><li><b>ASV</b> (Sentence Pattern): Adverbial + Subject + Verb. This pattern starts with an adverbial phrase, followed by the subject and verb. Not applicable here.</li><li><b>SVA</b> (Sentence Pattern): Subject + Verb + Adverbial. Used when the verb is followed by an adverbial (such as a place or time). Not suitable for this sentence.</li><li><b>SVOC</b> (Sentence Pattern): Subject + Verb + Object + Complement. Used when the verb takes an object and a complement. Not applicable here as there is no object.</li></ul><b>Related structure or vocabulary:</b> Linking verbs (be, seem, become, etc.) are followed by a complement (noun or adjective) that describes or identifies the subject. SVC is a common pattern for sentences with linking verbs.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfe01",
+        "questionNumber": 11,
+        "questionText": "Identify the pattern of this sentence They / named / their baby / Sarah / in the church.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVCA",
+            "raw": "A. SVCA   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "ASV",
+            "raw": "B. ASV  ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SVA",
+            "raw": "C. SVA   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SVOCA",
+            "raw": "D. SVOCA",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They named their baby Sarah in the church.' follows a specific pattern in English grammar. Let's break it down: 'They' is the subject (S), 'named' is the verb (V), 'their baby' is the object (O), 'Sarah' is the complement (C), and 'in the church' is the adverbial (A). This structure is known as SVOCA (Subject + Verb + Object + Complement + Adverbial). The verb 'name' in this context is a 'double object' or 'object-complement' verb, which means it takes both an object ('their baby') and a complement ('Sarah'), indicating what the object becomes or is called.<br><ul><li><b>SVCA</b> (Pattern): Subject + Verb + Complement + Adverbial. This pattern is missing the object, which is necessary after the verb 'named'.</li><li><b>ASV</b> (Pattern): Adverbial + Subject + Verb. This does not fit the sentence structure, as the sentence starts with the subject, not an adverbial.</li><li><b>SVA</b> (Pattern): Subject + Verb + Adverbial. This pattern is incomplete because it lacks both the object and the complement, which are present in the sentence.</li><li><b>SVOCA</b> (Pattern): Subject + Verb + Object + Complement + Adverbial. This matches the sentence structure: 'They' (S), 'named' (V), 'their baby' (O), 'Sarah' (C), 'in the church' (A).</li></ul><b>Related structure or vocabulary:</b> Verbs like 'name', 'call', 'elect', and 'appoint' often take both an object and a complement (object complement structure: SVO + C). Adverbials (A) can be added to give more information about where, when, or how the action happens.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They named their baby Sarah in the church.' tuân theo một mẫu câu cụ thể trong ngữ pháp tiếng Anh. Phân tích: 'They' là chủ ngữ (S), 'named' là động từ (V), 'their baby' là tân ngữ (O), 'Sarah' là bổ ngữ (C), và 'in the church' là trạng ngữ (A). Cấu trúc này được gọi là SVOCA (Chủ ngữ + Động từ + Tân ngữ + Bổ ngữ + Trạng ngữ). Động từ 'name' trong trường hợp này là động từ có bổ ngữ cho tân ngữ, nghĩa là nó cần cả tân ngữ ('their baby') và bổ ngữ ('Sarah'), để chỉ đối tượng được gọi là gì.<br><ul><li><b>SVCA</b> (Mẫu câu): Chủ ngữ + Động từ + Bổ ngữ + Trạng ngữ. Mẫu này thiếu tân ngữ, trong khi động từ 'named' cần có tân ngữ.</li><li><b>ASV</b> (Mẫu câu): Trạng ngữ + Chủ ngữ + Động từ. Không phù hợp vì câu bắt đầu bằng chủ ngữ, không phải trạng ngữ.</li><li><b>SVA</b> (Mẫu câu): Chủ ngữ + Động từ + Trạng ngữ. Mẫu này thiếu cả tân ngữ và bổ ngữ, trong khi câu có cả hai thành phần này.</li><li><b>SVOCA</b> (Mẫu câu): Chủ ngữ + Động từ + Tân ngữ + Bổ ngữ + Trạng ngữ. Đây là mẫu đúng với cấu trúc câu: 'They' (S), 'named' (V), 'their baby' (O), 'Sarah' (C), 'in the church' (A).</li></ul><b>Cấu trúc và từ vựng:</b> Các động từ như 'name', 'call', 'elect', 'appoint' thường đi với cả tân ngữ và bổ ngữ (cấu trúc SVO + C). Trạng ngữ (A) được thêm vào để bổ sung thông tin về nơi chốn, thời gian hoặc cách thức hành động diễn ra.<br><br><b>Tạm dịch:</b> Họ đặt tên cho em bé của họ là Sarah tại nhà thờ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They named their baby Sarah in the church.' follows a specific pattern in English grammar. Let's break it down: 'They' is the subject (S), 'named' is the verb (V), 'their baby' is the object (O), 'Sarah' is the complement (C), and 'in the church' is the adverbial (A). This structure is known as SVOCA (Subject + Verb + Object + Complement + Adverbial). The verb 'name' in this context is a 'double object' or 'object-complement' verb, which means it takes both an object ('their baby') and a complement ('Sarah'), indicating what the object becomes or is called.<br><ul><li><b>SVCA</b> (Pattern): Subject + Verb + Complement + Adverbial. This pattern is missing the object, which is necessary after the verb 'named'.</li><li><b>ASV</b> (Pattern): Adverbial + Subject + Verb. This does not fit the sentence structure, as the sentence starts with the subject, not an adverbial.</li><li><b>SVA</b> (Pattern): Subject + Verb + Adverbial. This pattern is incomplete because it lacks both the object and the complement, which are present in the sentence.</li><li><b>SVOCA</b> (Pattern): Subject + Verb + Object + Complement + Adverbial. This matches the sentence structure: 'They' (S), 'named' (V), 'their baby' (O), 'Sarah' (C), 'in the church' (A).</li></ul><b>Related structure or vocabulary:</b> Verbs like 'name', 'call', 'elect', and 'appoint' often take both an object and a complement (object complement structure: SVO + C). Adverbials (A) can be added to give more information about where, when, or how the action happens.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfe02",
+        "questionNumber": 12,
+        "questionText": "Identify the pattern of this sentence The kidnapper / locked / the child / in a lonely house.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVOA",
+            "raw": "A. SVOA",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "ASV",
+            "raw": "B. ASV  ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SVA",
+            "raw": "C. SVA   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SVOC",
+            "raw": "D. SVOC",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'The kidnapper / locked / the child / in a lonely house.' can be analyzed by identifying the function of each part: 'The kidnapper' is the subject (S), 'locked' is the verb (V), 'the child' is the object (O), and 'in a lonely house' is an adverbial (A) indicating place. The pattern SVOA stands for Subject + Verb + Object + Adverbial, which matches the structure of this sentence.<br><ul><li><b>SVOA</b> (sentence pattern): Subject + Verb + Object + Adverbial: This structure fits the sentence because it has a subject ('The kidnapper'), a verb ('locked'), an object ('the child'), and an adverbial phrase ('in a lonely house').</li><li><b>ASV</b> (sentence pattern): Adverbial + Subject + Verb: This pattern starts with an adverbial, which is not the case in the given sentence.</li><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial: This pattern does not include an object, but the sentence has an object ('the child').</li><li><b>SVOC</b> (sentence pattern): Subject + Verb + Object + Complement: This pattern includes a complement after the object, but the sentence has an adverbial, not a complement.</li></ul><b>Related structure or vocabulary:</b> Sentence patterns: SVOA (Subject + Verb + Object + Adverbial) is used when the verb takes both an object and an adverbial modifier, often indicating place, time, or manner.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'The kidnapper / locked / the child / in a lonely house.' được phân tích như sau: 'The kidnapper' là chủ ngữ (S), 'locked' là động từ (V), 'the child' là tân ngữ (O), và 'in a lonely house' là trạng ngữ (A) chỉ nơi chốn. Mẫu câu SVOA (Chủ ngữ + Động từ + Tân ngữ + Trạng ngữ) phù hợp với cấu trúc của câu này.<br><ul><li><b>SVOA</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ + Trạng ngữ: Mẫu này phù hợp với câu vì có chủ ngữ ('The kidnapper'), động từ ('locked'), tân ngữ ('the child') và trạng ngữ ('in a lonely house').</li><li><b>ASV</b> (cấu trúc câu): Trạng ngữ + Chủ ngữ + Động từ: Mẫu này bắt đầu bằng trạng ngữ, không phù hợp với câu đã cho.</li><li><b>SVA</b> (cấu trúc câu): Chủ ngữ + Động từ + Trạng ngữ: Mẫu này không có tân ngữ, trong khi câu đã cho có tân ngữ ('the child').</li><li><b>SVOC</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ + Bổ ngữ: Mẫu này có bổ ngữ sau tân ngữ, nhưng câu đã cho có trạng ngữ chứ không phải bổ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Các mẫu câu cơ bản: SVOA (Chủ ngữ + Động từ + Tân ngữ + Trạng ngữ) dùng khi động từ cần cả tân ngữ và trạng ngữ bổ nghĩa, thường chỉ nơi chốn, thời gian hoặc cách thức.<br><br><b>Tạm dịch:</b> Kẻ bắt cóc đã nhốt đứa trẻ trong một ngôi nhà hoang vắng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'The kidnapper / locked / the child / in a lonely house.' can be analyzed by identifying the function of each part: 'The kidnapper' is the subject (S), 'locked' is the verb (V), 'the child' is the object (O), and 'in a lonely house' is an adverbial (A) indicating place. The pattern SVOA stands for Subject + Verb + Object + Adverbial, which matches the structure of this sentence.<br><ul><li><b>SVOA</b> (sentence pattern): Subject + Verb + Object + Adverbial: This structure fits the sentence because it has a subject ('The kidnapper'), a verb ('locked'), an object ('the child'), and an adverbial phrase ('in a lonely house').</li><li><b>ASV</b> (sentence pattern): Adverbial + Subject + Verb: This pattern starts with an adverbial, which is not the case in the given sentence.</li><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial: This pattern does not include an object, but the sentence has an object ('the child').</li><li><b>SVOC</b> (sentence pattern): Subject + Verb + Object + Complement: This pattern includes a complement after the object, but the sentence has an adverbial, not a complement.</li></ul><b>Related structure or vocabulary:</b> Sentence patterns: SVOA (Subject + Verb + Object + Adverbial) is used when the verb takes both an object and an adverbial modifier, often indicating place, time, or manner.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfe03",
+        "questionNumber": 13,
+        "questionText": "Identify the pattern of this sentence They / reached / home / late.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVOA",
+            "raw": "A. SVOA   ",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "SVCA",
+            "raw": "B. SVCA",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SVA",
+            "raw": "C. SVA   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SVOC",
+            "raw": "D. SVOC",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They reached home late.' consists of the following elements: 'They' is the subject (S), 'reached' is the verb (V), 'home' is the adverbial of place (A), and 'late' is the adverbial of time/manner (A). In English sentence structure, when a verb is followed by an adverbial (such as place or time), the pattern is SVA (Subject + Verb + Adverbial). There is no object (O) or complement (C) in this sentence.<br><ul><li><b>SVOA</b> (sentence pattern): Subject + Verb + Object + Adverbial. This pattern requires an object after the verb, but 'reached' here does not have a direct object; 'home' is an adverbial of place.</li><li><b>SVCA</b> (sentence pattern): Subject + Verb + Complement + Adverbial. This pattern requires a complement after the verb, which is not present in this sentence.</li><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial. This fits the sentence as 'They' is the subject, 'reached' is the verb, and 'home late' are adverbials.</li><li><b>SVOC</b> (sentence pattern): Subject + Verb + Object + Complement. This pattern requires both an object and a complement, which are not present in this sentence.</li></ul><b>Related structure or vocabulary:</b> SVA pattern: Subject + Verb + Adverbial (of place, time, or manner). Common with verbs of movement (go, come, reach, etc.).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They reached home late.' gồm các thành phần: 'They' là chủ ngữ (S), 'reached' là động từ (V), 'home' là trạng ngữ chỉ nơi chốn (A), và 'late' là trạng ngữ chỉ thời gian/cách thức (A). Trong cấu trúc câu tiếng Anh, khi động từ theo sau bởi trạng ngữ (chỉ nơi chốn, thời gian, cách thức), cấu trúc là SVA (Chủ ngữ + Động từ + Trạng ngữ). Câu này không có tân ngữ (O) hay bổ ngữ (C).<br><ul><li><b>SVOA</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ + Trạng ngữ. Cấu trúc này cần có tân ngữ sau động từ, nhưng 'reached' ở đây không có tân ngữ trực tiếp; 'home' là trạng ngữ chỉ nơi chốn.</li><li><b>SVCA</b> (cấu trúc câu): Chủ ngữ + Động từ + Bổ ngữ + Trạng ngữ. Cấu trúc này cần có bổ ngữ sau động từ, nhưng câu này không có bổ ngữ.</li><li><b>SVA</b> (cấu trúc câu): Chủ ngữ + Động từ + Trạng ngữ. Phù hợp với câu này vì 'They' là chủ ngữ, 'reached' là động từ, 'home late' là các trạng ngữ.</li><li><b>SVOC</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ + Bổ ngữ. Cấu trúc này cần cả tân ngữ và bổ ngữ, nhưng câu này không có hai thành phần đó.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc SVA: Chủ ngữ + Động từ + Trạng ngữ (chỉ nơi chốn, thời gian hoặc cách thức). Thường gặp với các động từ chỉ sự di chuyển (go, come, reach, v.v.).<br><br><b>Tạm dịch:</b> Họ về nhà muộn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They reached home late.' consists of the following elements: 'They' is the subject (S), 'reached' is the verb (V), 'home' is the adverbial of place (A), and 'late' is the adverbial of time/manner (A). In English sentence structure, when a verb is followed by an adverbial (such as place or time), the pattern is SVA (Subject + Verb + Adverbial). There is no object (O) or complement (C) in this sentence.<br><ul><li><b>SVOA</b> (sentence pattern): Subject + Verb + Object + Adverbial. This pattern requires an object after the verb, but 'reached' here does not have a direct object; 'home' is an adverbial of place.</li><li><b>SVCA</b> (sentence pattern): Subject + Verb + Complement + Adverbial. This pattern requires a complement after the verb, which is not present in this sentence.</li><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial. This fits the sentence as 'They' is the subject, 'reached' is the verb, and 'home late' are adverbials.</li><li><b>SVOC</b> (sentence pattern): Subject + Verb + Object + Complement. This pattern requires both an object and a complement, which are not present in this sentence.</li></ul><b>Related structure or vocabulary:</b> SVA pattern: Subject + Verb + Adverbial (of place, time, or manner). Common with verbs of movement (go, come, reach, etc.).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfe04",
+        "questionNumber": 14,
+        "questionText": "Identify the pattern of this sentence The leaves / turn / yellow.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVA",
+            "raw": "A. SVA   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "SVCA",
+            "raw": "B. SVCA",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SVC",
+            "raw": "C. SVC",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "SVO",
+            "raw": "D. SVO",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'The leaves turn yellow.' follows the Subject + Verb + Complement (SVC) pattern. In this sentence, 'The leaves' is the subject, 'turn' is the linking verb, and 'yellow' is the complement describing the subject. The verb 'turn' here acts as a linking verb, connecting the subject to its complement, which describes a change of state.<br><ul><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial: This pattern requires an adverbial (e.g., place, time, manner) after the verb, but 'yellow' is not an adverbial.</li><li><b>SVCA</b> (sentence pattern): Subject + Verb + Complement + Adverbial: This pattern requires both a complement and an adverbial, but there is no adverbial in the sentence.</li><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement: This pattern fits the sentence, as 'yellow' is a complement describing the subject after a linking verb.</li><li><b>SVO</b> (sentence pattern): Subject + Verb + Object: This pattern requires a direct object, but 'yellow' is not an object; it is a complement.</li></ul><b>Related structure or vocabulary:</b> Linking verbs (such as become, seem, turn, appear) are followed by complements (adjectives or noun phrases) that describe or identify the subject. Example: The sky becomes dark. (SVC pattern)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'The leaves turn yellow.' theo mẫu câu Chủ ngữ + Động từ + Bổ ngữ (SVC). Trong câu này, 'The leaves' là chủ ngữ, 'turn' là động từ liên kết (linking verb), và 'yellow' là bổ ngữ miêu tả cho chủ ngữ. Động từ 'turn' ở đây đóng vai trò là động từ liên kết, nối chủ ngữ với bổ ngữ, diễn tả sự thay đổi trạng thái.<br><ul><li><b>SVA</b> (mẫu câu): Chủ ngữ + Động từ + Trạng ngữ: Mẫu này cần có trạng ngữ (chỉ nơi chốn, thời gian, cách thức...) sau động từ, nhưng 'yellow' không phải là trạng ngữ.</li><li><b>SVCA</b> (mẫu câu): Chủ ngữ + Động từ + Bổ ngữ + Trạng ngữ: Mẫu này cần cả bổ ngữ và trạng ngữ, nhưng trong câu không có trạng ngữ.</li><li><b>SVC</b> (mẫu câu): Chủ ngữ + Động từ + Bổ ngữ: Mẫu này phù hợp với câu, vì 'yellow' là bổ ngữ miêu tả cho chủ ngữ sau động từ liên kết.</li><li><b>SVO</b> (mẫu câu): Chủ ngữ + Động từ + Tân ngữ: Mẫu này cần có tân ngữ trực tiếp, nhưng 'yellow' không phải là tân ngữ mà là bổ ngữ.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ liên kết (linking verbs) như become, seem, turn, appear... thường theo sau là bổ ngữ (tính từ hoặc cụm danh từ) để miêu tả hoặc xác định chủ ngữ. Ví dụ: The sky becomes dark. (mẫu SVC)<br><br><b>Tạm dịch:</b> Câu 'The leaves turn yellow.' có nghĩa là 'Những chiếc lá chuyển sang màu vàng.' Ở đây, 'turn' là động từ liên kết, 'yellow' là bổ ngữ miêu tả cho chủ ngữ 'the leaves'. Mẫu câu đúng là SVC (Chủ ngữ + Động từ liên kết + Bổ ngữ).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'The leaves turn yellow.' follows the Subject + Verb + Complement (SVC) pattern. In this sentence, 'The leaves' is the subject, 'turn' is the linking verb, and 'yellow' is the complement describing the subject. The verb 'turn' here acts as a linking verb, connecting the subject to its complement, which describes a change of state.<br><ul><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial: This pattern requires an adverbial (e.g., place, time, manner) after the verb, but 'yellow' is not an adverbial.</li><li><b>SVCA</b> (sentence pattern): Subject + Verb + Complement + Adverbial: This pattern requires both a complement and an adverbial, but there is no adverbial in the sentence.</li><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement: This pattern fits the sentence, as 'yellow' is a complement describing the subject after a linking verb.</li><li><b>SVO</b> (sentence pattern): Subject + Verb + Object: This pattern requires a direct object, but 'yellow' is not an object; it is a complement.</li></ul><b>Related structure or vocabulary:</b> Linking verbs (such as become, seem, turn, appear) are followed by complements (adjectives or noun phrases) that describe or identify the subject. Example: The sky becomes dark. (SVC pattern)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62256a5883f28145bcbbfe05",
+        "questionNumber": 15,
+        "questionText": "Identify the pattern of this sentence I / like / puppies.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "SVA",
+            "raw": "A. SVA   ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "SVCA",
+            "raw": "B. SVCA",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "SVC",
+            "raw": "C. SVC",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "SVO",
+            "raw": "D. SVO",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'I like puppies.' consists of three parts: 'I' (the subject), 'like' (the verb), and 'puppies' (the object). In English sentence structure, this follows the SVO (Subject + Verb + Object) pattern, where the subject performs the action (like) on the object (puppies).<br><ul><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial: This pattern is used when the verb is followed by an adverb or adverbial phrase, not an object.</li><li><b>SVCA</b> (sentence pattern): Subject + Verb + Complement + Adverbial: This pattern includes a complement and an adverbial, which are not present in the sentence.</li><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement: Used when the verb is followed by a complement (such as an adjective or noun that describes the subject), not an object.</li><li><b>SVO</b> (sentence pattern): Subject + Verb + Object: Used when the verb is followed by a direct object, as in 'I like puppies.'</li></ul><b>Related structure or vocabulary:</b> SVO (Subject + Verb + Object) is the most common sentence structure in English. The subject does the action, the verb shows the action, and the object receives the action.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'I like puppies.' gồm ba thành phần: 'I' (chủ ngữ), 'like' (động từ), và 'puppies' (tân ngữ). Trong cấu trúc câu tiếng Anh, đây là dạng SVO (Chủ ngữ + Động từ + Tân ngữ), trong đó chủ ngữ thực hiện hành động (like) lên tân ngữ (puppies).<br><ul><li><b>SVA</b> (cấu trúc câu): Chủ ngữ + Động từ + Trạng ngữ: Dạng này dùng khi động từ theo sau là trạng ngữ hoặc cụm trạng ngữ, không phải tân ngữ.</li><li><b>SVCA</b> (cấu trúc câu): Chủ ngữ + Động từ + Bổ ngữ + Trạng ngữ: Dạng này gồm bổ ngữ và trạng ngữ, không có trong câu này.</li><li><b>SVC</b> (cấu trúc câu): Chủ ngữ + Động từ + Bổ ngữ: Dùng khi động từ theo sau là bổ ngữ (như tính từ hoặc danh từ mô tả chủ ngữ), không phải tân ngữ.</li><li><b>SVO</b> (cấu trúc câu): Chủ ngữ + Động từ + Tân ngữ: Dùng khi động từ theo sau là tân ngữ trực tiếp, như trong câu 'I like puppies.'</li></ul><b>Cấu trúc và từ vựng:</b> SVO (Chủ ngữ + Động từ + Tân ngữ) là cấu trúc câu phổ biến nhất trong tiếng Anh. Chủ ngữ thực hiện hành động, động từ thể hiện hành động, và tân ngữ nhận hành động.<br><br><b>Tạm dịch:</b> Câu 'I like puppies.' có cấu trúc SVO (Chủ ngữ + Động từ + Tân ngữ), nghĩa là 'Tôi thích những chú chó con.' Ở đây, 'I' là chủ ngữ, 'like' là động từ, và 'puppies' là tân ngữ. Đáp án đúng là D. SVO.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'I like puppies.' consists of three parts: 'I' (the subject), 'like' (the verb), and 'puppies' (the object). In English sentence structure, this follows the SVO (Subject + Verb + Object) pattern, where the subject performs the action (like) on the object (puppies).<br><ul><li><b>SVA</b> (sentence pattern): Subject + Verb + Adverbial: This pattern is used when the verb is followed by an adverb or adverbial phrase, not an object.</li><li><b>SVCA</b> (sentence pattern): Subject + Verb + Complement + Adverbial: This pattern includes a complement and an adverbial, which are not present in the sentence.</li><li><b>SVC</b> (sentence pattern): Subject + Verb + Complement: Used when the verb is followed by a complement (such as an adjective or noun that describes the subject), not an object.</li><li><b>SVO</b> (sentence pattern): Subject + Verb + Object: Used when the verb is followed by a direct object, as in 'I like puppies.'</li></ul><b>Related structure or vocabulary:</b> SVO (Subject + Verb + Object) is the most common sentence structure in English. The subject does the action, the verb shows the action, and the object receives the action.<br><br>"
+      }
+    }
+  ]
+}

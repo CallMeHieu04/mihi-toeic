@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b153",
+  "title": "Từ vựng: Hotels",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b33c",
+        "questionNumber": 1,
+        "questionText": "advanced",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev457.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/advanced.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "move forward",
+            "raw": "a move forward",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>This is the most <strong>advanced&nbsp;</strong>type&nbsp;of&nbsp;engine&nbsp;available.</p>\n",
+        "explanationViHtml": "<p>Đ&acirc;y l&agrave; loại động cơ<strong> ti&ecirc;n tiến</strong> nhất hiện nay.</p>\n",
+        "transcriptHtml": "<p>This is the most <strong>advanced&nbsp;</strong>type&nbsp;of&nbsp;engine&nbsp;available.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b33d",
+        "questionNumber": 2,
+        "questionText": "chain",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev458.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/chain.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "group of enterprises under a single control",
+            "raw": "a group of enterprises under a single control",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Budget-priced hotel <strong>chains</strong> have made a huge impact in the industry.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c <strong>chuỗi </strong>kh&aacute;ch sạn gi&aacute; rẻ đ&atilde; tạo ra t&aacute;c động lớn đến ng&agrave;nh.</p>\n",
+        "transcriptHtml": "<p>Budget-priced hotel <strong>chains</strong> have made a huge impact in the industry.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b33e",
+        "questionNumber": 3,
+        "questionText": "check in",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev459.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/check in.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to register at a hotel; to report one’s presence",
+            "raw": "to register at a hotel; to report one’s presence",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Patrons <strong>check in</strong> at the hotel immediately upon their arrival.</p>\n",
+        "explanationViHtml": "<p>Kh&aacute;ch h&agrave;ng sẽ l&agrave;m<strong> thủ tục nhận ph&ograve;ng</strong> tại kh&aacute;ch sạn ngay khi đến nơi.</p>\n",
+        "transcriptHtml": "<p>Patrons <strong>check in</strong> at the hotel immediately upon their arrival.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b33f",
+        "questionNumber": 4,
+        "questionText": "confirm",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev460.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/confirm.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to validate",
+            "raw": "to validate",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Jorge called the hotel to <strong>confirm</strong> that he had a room reservation.</p>\n",
+        "explanationViHtml": "<p>Jorge gọi điện đến kh&aacute;ch sạn để <strong>x&aacute;c nhận </strong>rằng anh đ&atilde; đặt ph&ograve;ng.</p>\n",
+        "transcriptHtml": "<p>Jorge called the hotel to <strong>confirm</strong> that he had a room reservation.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b340",
+        "questionNumber": 5,
+        "questionText": "expect",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev461.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/expect.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to consider probable or reasonable",
+            "raw": "to consider probable or reasonable",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>You can <strong>expect </strong>a clean room when you check in at a hotel.</p>\n",
+        "explanationViHtml": "<p>Bạn c&oacute; thể <strong>mong đợi </strong>một căn ph&ograve;ng sạch sẽ khi nhận ph&ograve;ng tại kh&aacute;ch sạn.</p>\n",
+        "transcriptHtml": "<p>You can <strong>expect </strong>a clean room when you check in at a hotel.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b341",
+        "questionNumber": 6,
+        "questionText": "housekeeper",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev462.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/housekeeper.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "someone employed to do domestic work",
+            "raw": "someone employed to do domestic work",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Eloise&lsquo;s first job at the hotel was as a <strong>housekeeper</strong> and now she is the manager.</p>\n",
+        "explanationViHtml": "<p>C&ocirc;ng việc đầu ti&ecirc;n của Eloise tại kh&aacute;ch sạn l&agrave; l&agrave;m <strong>người dọn ph&ograve;ng</strong> v&agrave; hiện c&ocirc; ấy l&agrave; người quản l&yacute;.</p>\n",
+        "transcriptHtml": "<p>Eloise&lsquo;s first job at the hotel was as a <strong>housekeeper</strong> and now she is the manager.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b342",
+        "questionNumber": 7,
+        "questionText": "notify",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev463.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/notify.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to report",
+            "raw": "to report",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>They <strong>notified </strong>the hotel that they had been delayed in traffic and would be arriving late.</p>\n",
+        "explanationViHtml": "<p>Họ <strong>th&ocirc;ng b&aacute;o </strong>với kh&aacute;ch sạn rằng họ bị kẹt xe v&agrave; sẽ đến muộn.</p>\n",
+        "transcriptHtml": "<p>They <strong>notified </strong>the hotel that they had been delayed in traffic and would be arriving late.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b343",
+        "questionNumber": 8,
+        "questionText": "preclude",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev464.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/preclude.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to make impossible; to rule out",
+            "raw": "to make impossible; to rule out",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The horrible rainstorm <strong>precluded </strong>us from traveling any further.</p>\n",
+        "explanationViHtml": "<p>Trận mưa lớn khủng khiếp đ&atilde; <strong>ngăn cản</strong> ch&uacute;ng t&ocirc;i đi tiếp.</p>\n",
+        "transcriptHtml": "<p>The horrible rainstorm <strong>precluded </strong>us from traveling any further.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b344",
+        "questionNumber": 9,
+        "questionText": "quote",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev465.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/quote.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to give exact Information on; a quotation",
+            "raw": "to give exact Information on; a quotation",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We were <strong>quoted </strong>a price of $89 for the room for one night.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i được <strong>b&aacute;o gi&aacute;</strong> 89 đ&ocirc; la cho một ph&ograve;ng một đ&ecirc;m.</p>\n",
+        "transcriptHtml": "<p>We were <strong>quoted </strong>a price of $89 for the room for one night.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b345",
+        "questionNumber": 10,
+        "questionText": "rate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev466.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/rate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the payment or price according to a standard",
+            "raw": "the payment or price according to a standard",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>She is <strong>rated </strong>very&nbsp;highly&nbsp;by the&nbsp;people&nbsp;she&nbsp;works&nbsp;for.</p>\n",
+        "explanationViHtml": "<p>C&ocirc; được những người c&ocirc; l&agrave;m việc c&ugrave;ng <strong>đ&aacute;nh gi&aacute;</strong> rất cao.</p>\n",
+        "transcriptHtml": "<p>She is <strong>rated </strong>very&nbsp;highly&nbsp;by the&nbsp;people&nbsp;she&nbsp;works&nbsp;for.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b346",
+        "questionNumber": 11,
+        "questionText": "reservation",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev467.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reservation.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n arrangement to set something aside",
+            "raw": "an arrangement to set something aside",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I&#39;d like to&nbsp;make&nbsp;a&nbsp;table&nbsp;<strong>reservation&nbsp;</strong>for&nbsp;two&nbsp;people&nbsp;for&nbsp;nine o&#39;clock.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i muốn <strong>đặt trước&nbsp;</strong>b&agrave;n cho hai người v&agrave;o l&uacute;c ch&iacute;n giờ.</p>\n",
+        "transcriptHtml": "<p>I&#39;d like to&nbsp;make&nbsp;a&nbsp;table&nbsp;<strong>reservation&nbsp;</strong>for&nbsp;two&nbsp;people&nbsp;for&nbsp;nine o&#39;clock.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b347",
+        "questionNumber": 12,
+        "questionText": "service",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev468.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/service.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "useful functions",
+            "raw": "useful functions",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The hotel has a number of luxury <strong>services</strong> like the on-site gym, sauna, pool, and beauty salon.</p>\n",
+        "explanationViHtml": "<p>Kh&aacute;ch sạn c&oacute; nhiều <strong>dịch vụ</strong> sang trọng như ph&ograve;ng tập thể dục, ph&ograve;ng x&ocirc;ng hơi kh&ocirc;, hồ bơi v&agrave; thẩm mỹ viện ngay trong khu&ocirc;n vi&ecirc;n.</p>\n",
+        "transcriptHtml": "<p>The hotel has a number of luxury <strong>services</strong> like the on-site gym, sauna, pool, and beauty salon.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b33c",
+      "word": "advanced",
+      "phonetic": "/ədˈvænst/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev457.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/advanced.mp3",
+      "meaningVi": "tiên tiến",
+      "meaningEn": "a move forward",
+      "exampleEnHtml": "<p>This is the most <strong>advanced&nbsp;</strong>type&nbsp;of&nbsp;engine&nbsp;available.</p>\n",
+      "exampleViHtml": "<p>Đ&acirc;y l&agrave; loại động cơ<strong> ti&ecirc;n tiến</strong> nhất hiện nay.</p>\n",
+      "exampleEn": "This is the most advanced type of engine available.",
+      "exampleVi": "Đây là loại động cơ tiên tiến nhất hiện nay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b33d",
+      "word": "chain",
+      "phonetic": "/tʃeɪn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev458.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/chain.mp3",
+      "meaningVi": "chuỗi",
+      "meaningEn": "a group of enterprises under a single control",
+      "exampleEnHtml": "<p>Budget-priced hotel <strong>chains</strong> have made a huge impact in the industry.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c <strong>chuỗi </strong>kh&aacute;ch sạn gi&aacute; rẻ đ&atilde; tạo ra t&aacute;c động lớn đến ng&agrave;nh.</p>\n",
+      "exampleEn": "Budget-priced hotel chains have made a huge impact in the industry.",
+      "exampleVi": "Các chuỗi khách sạn giá rẻ đã tạo ra tác động lớn đến ngành."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b33e",
+      "word": "check in",
+      "phonetic": "/tʃek.ɪn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev459.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/check in.mp3",
+      "meaningVi": "thủ tục nhận phòng",
+      "meaningEn": "to register at a hotel; to report one’s presence",
+      "exampleEnHtml": "<p>Patrons <strong>check in</strong> at the hotel immediately upon their arrival.</p>\n",
+      "exampleViHtml": "<p>Kh&aacute;ch h&agrave;ng sẽ l&agrave;m<strong> thủ tục nhận ph&ograve;ng</strong> tại kh&aacute;ch sạn ngay khi đến nơi.</p>\n",
+      "exampleEn": "Patrons check in at the hotel immediately upon their arrival.",
+      "exampleVi": "Khách hàng sẽ làm thủ tục nhận phòng tại khách sạn ngay khi đến nơi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b33f",
+      "word": "confirm",
+      "phonetic": "/kənˈfɜːrm/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev460.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/confirm.mp3",
+      "meaningVi": "xác nhận",
+      "meaningEn": "to validate",
+      "exampleEnHtml": "<p>Jorge called the hotel to <strong>confirm</strong> that he had a room reservation.</p>\n",
+      "exampleViHtml": "<p>Jorge gọi điện đến kh&aacute;ch sạn để <strong>x&aacute;c nhận </strong>rằng anh đ&atilde; đặt ph&ograve;ng.</p>\n",
+      "exampleEn": "Jorge called the hotel to confirm that he had a room reservation.",
+      "exampleVi": "Jorge gọi điện đến khách sạn để xác nhận rằng anh đã đặt phòng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b340",
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev461.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/expect.mp3",
+      "meaningVi": "mong đợi",
+      "meaningEn": "to consider probable or reasonable",
+      "exampleEnHtml": "<p>You can <strong>expect </strong>a clean room when you check in at a hotel.</p>\n",
+      "exampleViHtml": "<p>Bạn c&oacute; thể <strong>mong đợi </strong>một căn ph&ograve;ng sạch sẽ khi nhận ph&ograve;ng tại kh&aacute;ch sạn.</p>\n",
+      "exampleEn": "You can expect a clean room when you check in at a hotel.",
+      "exampleVi": "Bạn có thể mong đợi một căn phòng sạch sẽ khi nhận phòng tại khách sạn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b341",
+      "word": "housekeeper",
+      "phonetic": "/ˈhaʊskiːpər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev462.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/housekeeper.mp3",
+      "meaningVi": "người dọn phòng",
+      "meaningEn": "someone employed to do domestic work",
+      "exampleEnHtml": "<p>Eloise&lsquo;s first job at the hotel was as a <strong>housekeeper</strong> and now she is the manager.</p>\n",
+      "exampleViHtml": "<p>C&ocirc;ng việc đầu ti&ecirc;n của Eloise tại kh&aacute;ch sạn l&agrave; l&agrave;m <strong>người dọn ph&ograve;ng</strong> v&agrave; hiện c&ocirc; ấy l&agrave; người quản l&yacute;.</p>\n",
+      "exampleEn": "Eloise‘s first job at the hotel was as a housekeeper and now she is the manager.",
+      "exampleVi": "Công việc đầu tiên của Eloise tại khách sạn là làm người dọn phòng và hiện cô ấy là người quản lý."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b342",
+      "word": "notify",
+      "phonetic": "/ˈnoʊtɪfaɪ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev463.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/notify.mp3",
+      "meaningVi": "thông báo",
+      "meaningEn": "to report",
+      "exampleEnHtml": "<p>They <strong>notified </strong>the hotel that they had been delayed in traffic and would be arriving late.</p>\n",
+      "exampleViHtml": "<p>Họ <strong>th&ocirc;ng b&aacute;o </strong>với kh&aacute;ch sạn rằng họ bị kẹt xe v&agrave; sẽ đến muộn.</p>\n",
+      "exampleEn": "They notified the hotel that they had been delayed in traffic and would be arriving late.",
+      "exampleVi": "Họ thông báo với khách sạn rằng họ bị kẹt xe và sẽ đến muộn."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b343",
+      "word": "preclude",
+      "phonetic": "/prɪˈkluːd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev464.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/preclude.mp3",
+      "meaningVi": "ngăn cản",
+      "meaningEn": "to make impossible; to rule out",
+      "exampleEnHtml": "<p>The horrible rainstorm <strong>precluded </strong>us from traveling any further.</p>\n",
+      "exampleViHtml": "<p>Trận mưa lớn khủng khiếp đ&atilde; <strong>ngăn cản</strong> ch&uacute;ng t&ocirc;i đi tiếp.</p>\n",
+      "exampleEn": "The horrible rainstorm precluded us from traveling any further.",
+      "exampleVi": "Trận mưa lớn khủng khiếp đã ngăn cản chúng tôi đi tiếp."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b344",
+      "word": "quote",
+      "phonetic": "/kwoʊt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev465.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/quote.mp3",
+      "meaningVi": "báo giá",
+      "meaningEn": "to give exact Information on; a quotation",
+      "exampleEnHtml": "<p>We were <strong>quoted </strong>a price of $89 for the room for one night.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i được <strong>b&aacute;o gi&aacute;</strong> 89 đ&ocirc; la cho một ph&ograve;ng một đ&ecirc;m.</p>\n",
+      "exampleEn": "We were quoted a price of $89 for the room for one night.",
+      "exampleVi": "Chúng tôi được báo giá 89 đô la cho một phòng một đêm."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b345",
+      "word": "rate",
+      "phonetic": "/reɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev466.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/rate.mp3",
+      "meaningVi": "đánh giá",
+      "meaningEn": "the payment or price according to a standard",
+      "exampleEnHtml": "<p>She is <strong>rated </strong>very&nbsp;highly&nbsp;by the&nbsp;people&nbsp;she&nbsp;works&nbsp;for.</p>\n",
+      "exampleViHtml": "<p>C&ocirc; được những người c&ocirc; l&agrave;m việc c&ugrave;ng <strong>đ&aacute;nh gi&aacute;</strong> rất cao.</p>\n",
+      "exampleEn": "She is rated very highly by the people she works for.",
+      "exampleVi": "Cô được những người cô làm việc cùng đánh giá rất cao."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b346",
+      "word": "reservation",
+      "phonetic": "/ˌrezərˈveɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev467.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/reservation.mp3",
+      "meaningVi": "đặt trước",
+      "meaningEn": "an arrangement to set something aside",
+      "exampleEnHtml": "<p>I&#39;d like to&nbsp;make&nbsp;a&nbsp;table&nbsp;<strong>reservation&nbsp;</strong>for&nbsp;two&nbsp;people&nbsp;for&nbsp;nine o&#39;clock.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i muốn <strong>đặt trước&nbsp;</strong>b&agrave;n cho hai người v&agrave;o l&uacute;c ch&iacute;n giờ.</p>\n",
+      "exampleEn": "I'd like to make a table reservation for two people for nine o'clock.",
+      "exampleVi": "Tôi muốn đặt trước bàn cho hai người vào lúc chín giờ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b347",
+      "word": "service",
+      "phonetic": "/ˈsɜːrvɪs/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev468.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/service.mp3",
+      "meaningVi": "dịch vụ",
+      "meaningEn": "useful functions",
+      "exampleEnHtml": "<p>The hotel has a number of luxury <strong>services</strong> like the on-site gym, sauna, pool, and beauty salon.</p>\n",
+      "exampleViHtml": "<p>Kh&aacute;ch sạn c&oacute; nhiều <strong>dịch vụ</strong> sang trọng như ph&ograve;ng tập thể dục, ph&ograve;ng x&ocirc;ng hơi kh&ocirc;, hồ bơi v&agrave; thẩm mỹ viện ngay trong khu&ocirc;n vi&ecirc;n.</p>\n",
+      "exampleEn": "The hotel has a number of luxury services like the on-site gym, sauna, pool, and beauty salon.",
+      "exampleVi": "Khách sạn có nhiều dịch vụ sang trọng như phòng tập thể dục, phòng xông hơi khô, hồ bơi và thẩm mỹ viện ngay trong khuôn viên."
+    }
+  ],
+  "totalFlashcards": 12
+}

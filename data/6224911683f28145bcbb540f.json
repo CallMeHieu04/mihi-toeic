@@ -1,0 +1,608 @@
+{
+  "topicId": "6224911683f28145bcbb540f",
+  "title": "CONDITIONAL SENTENCES - Practice 4",
+  "totalCards": 15,
+  "totalQuestions": 15,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5845",
+        "questionNumber": 1,
+        "questionText": "If we_______ in a town, life would be better.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had lived",
+            "raw": "A. had lived ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "lived",
+            "raw": "B. lived",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "would live",
+            "raw": "C. would live ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "live",
+            "raw": "D. live",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If we_______ in a town, life would be better.' is a conditional sentence. In this case, it is the second conditional, which is used to talk about unreal or hypothetical situations in the present or future. The structure for the second conditional is: If + past simple, would + base verb. Therefore, the correct verb form to use after 'If we' is the past simple.<br><ul><li><b>had lived</b> (verb (past perfect)): 'Had lived' is the past perfect tense, which is used in the third conditional (If + had + past participle, would have + past participle) to talk about unreal situations in the past. It is not correct here.</li><li><b>lived</b> (verb (past simple)): 'Lived' is the past simple tense, which is the correct form for the second conditional structure.</li><li><b>would live</b> (modal verb + base verb): 'Would live' is used in the main clause of the conditional sentence, not after 'if'.</li><li><b>live</b> (verb (present simple)): 'Live' is the present simple tense, which is used in the zero conditional (If + present simple, present simple) for general truths, not hypothetical situations.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If we_______ in a town, life would be better.' là một câu điều kiện. Trong trường hợp này, đây là câu điều kiện loại 2, dùng để nói về những tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Cấu trúc của câu điều kiện loại 2 là: If + quá khứ đơn, would + động từ nguyên thể. Vì vậy, động từ sau 'If we' phải ở thì quá khứ đơn.<br><ul><li><b>had lived</b> (động từ (quá khứ hoàn thành)): 'Had lived' là thì quá khứ hoàn thành, dùng trong câu điều kiện loại 3 (If + had + V3, would have + V3) để nói về những tình huống không có thật trong quá khứ. Không phù hợp trong trường hợp này.</li><li><b>lived</b> (động từ (quá khứ đơn)): 'Lived' là thì quá khứ đơn, là dạng đúng cho cấu trúc câu điều kiện loại 2.</li><li><b>would live</b> (động từ khuyết thiếu + động từ nguyên thể): 'Would live' được dùng ở mệnh đề chính của câu điều kiện, không dùng sau 'if'.</li><li><b>live</b> (động từ (hiện tại đơn)): 'Live' là thì hiện tại đơn, dùng trong câu điều kiện loại 0 (If + hiện tại đơn, hiện tại đơn) để nói về sự thật chung, không dùng cho tình huống giả định.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên thể. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Nếu chúng ta sống ở một thị trấn, cuộc sống sẽ tốt hơn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If we_______ in a town, life would be better.' is a conditional sentence. In this case, it is the second conditional, which is used to talk about unreal or hypothetical situations in the present or future. The structure for the second conditional is: If + past simple, would + base verb. Therefore, the correct verb form to use after 'If we' is the past simple.<br><ul><li><b>had lived</b> (verb (past perfect)): 'Had lived' is the past perfect tense, which is used in the third conditional (If + had + past participle, would have + past participle) to talk about unreal situations in the past. It is not correct here.</li><li><b>lived</b> (verb (past simple)): 'Lived' is the past simple tense, which is the correct form for the second conditional structure.</li><li><b>would live</b> (modal verb + base verb): 'Would live' is used in the main clause of the conditional sentence, not after 'if'.</li><li><b>live</b> (verb (present simple)): 'Live' is the present simple tense, which is used in the zero conditional (If + present simple, present simple) for general truths, not hypothetical situations.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5846",
+        "questionNumber": 2,
+        "questionText": "We _____ you if we have time.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would phone",
+            "raw": "A. would phone ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had phoned",
+            "raw": "B. had phoned",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "phoned",
+            "raw": "C. phoned ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will phone",
+            "raw": "D. will phone",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We _____ you if we have time.' requires the correct verb tense to match the conditional structure. The phrase 'if we have time' is in the present simple tense, which indicates a real possibility in the future. In the first conditional, we use 'will' + base verb in the main clause and present simple in the if-clause to talk about real and possible situations in the future.<br><ul><li><b>would phone</b> (modal verb + base verb): 'Would phone' is used in the second conditional (if + past simple, would + base verb), which talks about unreal or hypothetical situations in the present or future. It does not fit here because the if-clause uses present simple.</li><li><b>had phoned</b> (past perfect): 'Had phoned' is the past perfect tense, used in the third conditional (if + past perfect, would have + past participle) to talk about unreal situations in the past. It is not suitable here.</li><li><b>phoned</b> (simple past): 'Phoned' is the simple past tense. It does not fit the structure of the first conditional, which requires 'will' + base verb in the main clause.</li><li><b>will phone</b> (future simple): 'Will phone' is the correct form for the main clause in the first conditional, used to express a real possibility in the future.</li></ul><b>Related structure or vocabulary:</b> First conditional: if + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We _____ you if we have time.' cần điền đúng thì động từ phù hợp với cấu trúc câu điều kiện. Mệnh đề 'if we have time' dùng thì hiện tại đơn, chỉ một khả năng thực tế trong tương lai. Ở câu điều kiện loại 1, ta dùng 'will' + động từ nguyên mẫu ở mệnh đề chính và hiện tại đơn ở mệnh đề if để nói về những tình huống có thể xảy ra trong tương lai.<br><ul><li><b>would phone</b> (động từ khuyết thiếu + động từ nguyên mẫu): 'Would phone' dùng trong câu điều kiện loại 2 (if + quá khứ đơn, would + động từ nguyên mẫu), nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Không phù hợp vì mệnh đề if đang dùng hiện tại đơn.</li><li><b>had phoned</b> (quá khứ hoàn thành): 'Had phoned' là thì quá khứ hoàn thành, dùng trong câu điều kiện loại 3 (if + quá khứ hoàn thành, would have + quá khứ phân từ) để nói về tình huống không có thật trong quá khứ. Không phù hợp ở đây.</li><li><b>phoned</b> (quá khứ đơn): 'Phoned' là thì quá khứ đơn. Không phù hợp với cấu trúc câu điều kiện loại 1, vì mệnh đề chính cần 'will' + động từ nguyên mẫu.</li><li><b>will phone</b> (tương lai đơn): 'Will phone' là dạng đúng cho mệnh đề chính trong câu điều kiện loại 1, dùng để diễn tả khả năng thực tế trong tương lai.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: if + hiện tại đơn, will + động từ nguyên mẫu. Dùng để nói về tình huống thực tế, có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Chúng tôi sẽ gọi cho bạn nếu chúng tôi có thời gian.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We _____ you if we have time.' requires the correct verb tense to match the conditional structure. The phrase 'if we have time' is in the present simple tense, which indicates a real possibility in the future. In the first conditional, we use 'will' + base verb in the main clause and present simple in the if-clause to talk about real and possible situations in the future.<br><ul><li><b>would phone</b> (modal verb + base verb): 'Would phone' is used in the second conditional (if + past simple, would + base verb), which talks about unreal or hypothetical situations in the present or future. It does not fit here because the if-clause uses present simple.</li><li><b>had phoned</b> (past perfect): 'Had phoned' is the past perfect tense, used in the third conditional (if + past perfect, would have + past participle) to talk about unreal situations in the past. It is not suitable here.</li><li><b>phoned</b> (simple past): 'Phoned' is the simple past tense. It does not fit the structure of the first conditional, which requires 'will' + base verb in the main clause.</li><li><b>will phone</b> (future simple): 'Will phone' is the correct form for the main clause in the first conditional, used to express a real possibility in the future.</li></ul><b>Related structure or vocabulary:</b> First conditional: if + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5847",
+        "questionNumber": 3,
+        "questionText": "If I won the lottery, I_______ you half the money.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had given",
+            "raw": "A. had given ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "gave",
+            "raw": "B. gave",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will give",
+            "raw": "C. will give ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "would give",
+            "raw": "D. would give",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I won the lottery, I_______ you half the money.' is a conditional sentence type 2, which is used to talk about unreal or hypothetical situations in the present or future. In this structure, the 'if' clause uses the simple past tense (won), and the main clause uses 'would' + base verb.<br><ul><li><b>had given</b> (verb (past perfect)): 'Had given' is the past perfect tense, which is used in third conditional sentences (if + had + V3, would have + V3). It is not suitable here because the sentence is not about a past unreal situation.</li><li><b>gave</b> (verb (simple past)): 'Gave' is the simple past tense. In conditional sentences type 2, the simple past is used in the 'if' clause, not in the main clause.</li><li><b>will give</b> (verb (simple future)): 'Will give' is the simple future tense. It is used in first conditional sentences (if + present simple, will + base verb), which talk about real and possible situations.</li><li><b>would give</b> (modal verb + base verb): 'Would give' is the correct form for the main clause in a type 2 conditional sentence. It expresses an unreal or hypothetical result.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If I won the lottery, I_______ you half the money.' là câu điều kiện loại 2, dùng để nói về những tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Ở cấu trúc này, mệnh đề 'if' dùng thì quá khứ đơn (won), còn mệnh đề chính dùng 'would' + động từ nguyên thể.<br><ul><li><b>had given</b> (động từ (quá khứ hoàn thành)): 'Had given' là thì quá khứ hoàn thành, thường dùng trong câu điều kiện loại 3 (if + had + V3, would have + V3). Không phù hợp ở đây vì câu này không nói về tình huống không có thật trong quá khứ.</li><li><b>gave</b> (động từ (quá khứ đơn)): 'Gave' là thì quá khứ đơn. Trong câu điều kiện loại 2, thì quá khứ đơn chỉ dùng ở mệnh đề 'if', không dùng ở mệnh đề chính.</li><li><b>will give</b> (động từ (tương lai đơn)): 'Will give' là thì tương lai đơn. Thì này dùng trong câu điều kiện loại 1 (if + hiện tại đơn, will + động từ nguyên thể), nói về tình huống có thể xảy ra.</li><li><b>would give</b> (động từ khuyết thiếu + động từ nguyên thể): 'Would give' là cấu trúc đúng cho mệnh đề chính trong câu điều kiện loại 2, diễn tả kết quả không có thật hoặc giả định.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên thể. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Nếu tôi trúng xổ số, tôi sẽ cho bạn một nửa số tiền.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I won the lottery, I_______ you half the money.' is a conditional sentence type 2, which is used to talk about unreal or hypothetical situations in the present or future. In this structure, the 'if' clause uses the simple past tense (won), and the main clause uses 'would' + base verb.<br><ul><li><b>had given</b> (verb (past perfect)): 'Had given' is the past perfect tense, which is used in third conditional sentences (if + had + V3, would have + V3). It is not suitable here because the sentence is not about a past unreal situation.</li><li><b>gave</b> (verb (simple past)): 'Gave' is the simple past tense. In conditional sentences type 2, the simple past is used in the 'if' clause, not in the main clause.</li><li><b>will give</b> (verb (simple future)): 'Will give' is the simple future tense. It is used in first conditional sentences (if + present simple, will + base verb), which talk about real and possible situations.</li><li><b>would give</b> (modal verb + base verb): 'Would give' is the correct form for the main clause in a type 2 conditional sentence. It expresses an unreal or hypothetical result.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5848",
+        "questionNumber": 4,
+        "questionText": "It _______ be a pity if she married Fred.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "can",
+            "raw": "A. can ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "would",
+            "raw": "B. would",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "may",
+            "raw": "C. may ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will",
+            "raw": "D. will",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It _______ be a pity if she married Fred.' requires a modal verb that fits the second conditional structure. The second conditional is used to talk about hypothetical or unreal situations in the present or future. In this structure, we use 'would' + base verb to express the result of an unreal condition. Therefore, 'would' is the correct choice.<br><ul><li><b>can</b> (modal verb): Expresses ability or possibility in the present or future, but is not used in second conditional sentences.</li><li><b>would</b> (modal verb): Used to express the result in second conditional sentences (unreal or hypothetical situations).</li><li><b>may</b> (modal verb): Expresses possibility, but is not used in the second conditional structure.</li><li><b>will</b> (modal verb): Expresses future certainty or willingness, but is not used in the second conditional.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, ... would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'It _______ be a pity if she married Fred.' cần một động từ khuyết thiếu phù hợp với cấu trúc câu điều kiện loại 2. Câu điều kiện loại 2 dùng để nói về những tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Trong cấu trúc này, ta dùng 'would' + động từ nguyên thể để diễn tả kết quả của điều kiện không có thật. Vì vậy, 'would' là đáp án đúng.<br><ul><li><b>can</b> (động từ khuyết thiếu): Diễn tả khả năng hoặc sự cho phép ở hiện tại hoặc tương lai, nhưng không dùng trong câu điều kiện loại 2.</li><li><b>would</b> (động từ khuyết thiếu): Dùng để diễn tả kết quả trong câu điều kiện loại 2 (tình huống không có thật hoặc giả định).</li><li><b>may</b> (động từ khuyết thiếu): Diễn tả khả năng, nhưng không dùng trong cấu trúc câu điều kiện loại 2.</li><li><b>will</b> (động từ khuyết thiếu): Diễn tả sự chắc chắn hoặc ý định trong tương lai, nhưng không dùng trong câu điều kiện loại 2.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, ... would + động từ nguyên thể. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Sẽ thật đáng tiếc nếu cô ấy lấy Fred.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It _______ be a pity if she married Fred.' requires a modal verb that fits the second conditional structure. The second conditional is used to talk about hypothetical or unreal situations in the present or future. In this structure, we use 'would' + base verb to express the result of an unreal condition. Therefore, 'would' is the correct choice.<br><ul><li><b>can</b> (modal verb): Expresses ability or possibility in the present or future, but is not used in second conditional sentences.</li><li><b>would</b> (modal verb): Used to express the result in second conditional sentences (unreal or hypothetical situations).</li><li><b>may</b> (modal verb): Expresses possibility, but is not used in the second conditional structure.</li><li><b>will</b> (modal verb): Expresses future certainty or willingness, but is not used in the second conditional.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, ... would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5849",
+        "questionNumber": 5,
+        "questionText": "If I'm free on Saturday, I ____ to the mountains.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "went",
+            "raw": "A. went ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "could go",
+            "raw": "B. could go",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "to go",
+            "raw": "C. to go ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "can go",
+            "raw": "D. can go",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If I'm free on Saturday, I ____ to the mountains.' requires a verb form that fits the first conditional structure. The first conditional is used to talk about real and possible situations in the future. The structure is: If + present simple, will/can/may/might + base verb. Since the main clause talks about a possible action in the future, 'can go' is the correct form.<br><ul><li><b>went</b> (verb (past simple)): 'Went' is the past simple form of 'go'. It is not used in the main clause of the first conditional.</li><li><b>could go</b> (modal verb + base verb): 'Could go' expresses possibility or ability in the past or a polite suggestion, but in the first conditional, 'can go' is preferred for real future possibilities.</li><li><b>to go</b> (infinitive): 'To go' is the infinitive form. It is not used after the subject in this sentence structure.</li><li><b>can go</b> (modal verb + base verb): 'Can go' expresses ability or possibility in the present or future. It fits the first conditional structure: If + present simple, can + base verb.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will/can/may/might + base verb. Used for real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If I'm free on Saturday, I ____ to the mountains.' cần một động từ phù hợp với cấu trúc câu điều kiện loại 1. Câu điều kiện loại 1 dùng để nói về những tình huống có thể xảy ra trong tương lai. Cấu trúc là: If + hiện tại đơn, will/can/may/might + động từ nguyên thể. Vì mệnh đề chính nói về một hành động có thể xảy ra trong tương lai, 'can go' là đáp án đúng.<br><ul><li><b>went</b> (động từ (quá khứ đơn)): 'Went' là thì quá khứ đơn của 'go'. Không dùng trong mệnh đề chính của câu điều kiện loại 1.</li><li><b>could go</b> (động từ khuyết thiếu + động từ nguyên thể): 'Could go' diễn tả khả năng hoặc sự cho phép trong quá khứ hoặc là một lời đề nghị lịch sự, nhưng trong câu điều kiện loại 1, 'can go' được dùng để nói về khả năng thực tế trong tương lai.</li><li><b>to go</b> (động từ nguyên thể có 'to'): 'To go' là động từ nguyên thể có 'to'. Không dùng sau chủ ngữ trong cấu trúc này.</li><li><b>can go</b> (động từ khuyết thiếu + động từ nguyên thể): 'Can go' diễn tả khả năng hoặc sự cho phép ở hiện tại hoặc tương lai. Phù hợp với cấu trúc câu điều kiện loại 1: If + hiện tại đơn, can + động từ nguyên thể.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will/can/may/might + động từ nguyên thể. Dùng để nói về những tình huống có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Nếu tôi rảnh vào thứ Bảy, tôi có thể đi lên núi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If I'm free on Saturday, I ____ to the mountains.' requires a verb form that fits the first conditional structure. The first conditional is used to talk about real and possible situations in the future. The structure is: If + present simple, will/can/may/might + base verb. Since the main clause talks about a possible action in the future, 'can go' is the correct form.<br><ul><li><b>went</b> (verb (past simple)): 'Went' is the past simple form of 'go'. It is not used in the main clause of the first conditional.</li><li><b>could go</b> (modal verb + base verb): 'Could go' expresses possibility or ability in the past or a polite suggestion, but in the first conditional, 'can go' is preferred for real future possibilities.</li><li><b>to go</b> (infinitive): 'To go' is the infinitive form. It is not used after the subject in this sentence structure.</li><li><b>can go</b> (modal verb + base verb): 'Can go' expresses ability or possibility in the present or future. It fits the first conditional structure: If + present simple, can + base verb.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will/can/may/might + base verb. Used for real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb584a",
+        "questionNumber": 6,
+        "questionText": "If I can sing well, I _____ a singer soon.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be",
+            "raw": "A. will be",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "would be",
+            "raw": "C. would be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were",
+            "raw": "D. were",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I can sing well, I _____ a singer soon.' is a conditional sentence. The 'if' clause uses the present simple tense ('can sing'), so the main clause should use the future simple tense ('will be'). This is called the first conditional, which is used to talk about real and possible situations in the future.<br><ul><li><b>will be</b> (verb phrase): Future simple tense, used to express a future action or event that is likely to happen.</li><li><b>is</b> (verb): Present simple tense, used for general truths or habitual actions, not suitable for future predictions in this context.</li><li><b>would be</b> (verb phrase): Conditional form, used in the second conditional for unreal or hypothetical situations (If I could sing well, I would be...). Not correct here.</li><li><b>were</b> (verb): Past simple tense of 'be', used in the second conditional (If I were...), not suitable here.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If I can sing well, I _____ a singer soon.' là một câu điều kiện loại 1. Mệnh đề 'if' sử dụng thì hiện tại đơn ('can sing'), nên mệnh đề chính cần dùng thì tương lai đơn ('will be'). Đây là cấu trúc câu điều kiện loại 1, dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai.<br><ul><li><b>will be</b> (cụm động từ): Thì tương lai đơn, dùng để diễn tả một hành động hoặc sự kiện có khả năng xảy ra trong tương lai.</li><li><b>is</b> (động từ): Thì hiện tại đơn, dùng cho sự thật chung hoặc hành động lặp lại, không phù hợp để dự đoán tương lai trong trường hợp này.</li><li><b>would be</b> (cụm động từ): Dạng điều kiện, dùng trong câu điều kiện loại 2 cho tình huống không có thật hoặc giả định (If I could sing well, I would be...). Không đúng ở đây.</li><li><b>were</b> (động từ): Thì quá khứ đơn của 'be', dùng trong câu điều kiện loại 2 (If I were...), không phù hợp ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên mẫu. Dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Nếu tôi có thể hát hay, tôi sẽ trở thành ca sĩ sớm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I can sing well, I _____ a singer soon.' is a conditional sentence. The 'if' clause uses the present simple tense ('can sing'), so the main clause should use the future simple tense ('will be'). This is called the first conditional, which is used to talk about real and possible situations in the future.<br><ul><li><b>will be</b> (verb phrase): Future simple tense, used to express a future action or event that is likely to happen.</li><li><b>is</b> (verb): Present simple tense, used for general truths or habitual actions, not suitable for future predictions in this context.</li><li><b>would be</b> (verb phrase): Conditional form, used in the second conditional for unreal or hypothetical situations (If I could sing well, I would be...). Not correct here.</li><li><b>were</b> (verb): Past simple tense of 'be', used in the second conditional (If I were...), not suitable here.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb584b",
+        "questionNumber": 7,
+        "questionText": "I know I'll feel better if I_____ smoking.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "stopped",
+            "raw": "A. stopped ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will stop",
+            "raw": "B. will stop ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "stop",
+            "raw": "C. stop",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "had stopped",
+            "raw": "D. had stopped",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the verb tense in the 'if' clause should match the first conditional structure, which is: If + present simple, ... will + base verb. However, in this case, the main clause uses 'will feel', but the speaker is expressing a general truth or a likely result in the present or future. In informal English, especially with verbs like 'feel', the present simple is often used in the 'if' clause to talk about future possibilities.<br><ul><li><b>stopped</b> (verb (past simple)): Past simple tense. Used for unreal or hypothetical situations (second conditional), e.g., 'If I stopped smoking, I would feel better.' Not suitable here because the main clause uses 'will feel', not 'would feel'.</li><li><b>will stop</b> (verb (future simple)): Future simple tense. Not used in 'if' clauses. In conditional sentences, 'if' clauses do not take 'will'.</li><li><b>stop</b> (verb (present simple)): Present simple tense. Correct form for the first conditional: 'If + present simple, ... will + base verb.'</li><li><b>had stopped</b> (verb (past perfect)): Past perfect tense. Used for third conditional (unreal past): 'If I had stopped smoking, I would have felt better.' Not suitable here.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, ... will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, thì động từ ở mệnh đề 'if' cần phù hợp với cấu trúc câu điều kiện loại 1: If + hiện tại đơn, ... will + động từ nguyên thể. Tuy nhiên, ở đây, mệnh đề chính dùng 'will feel', và người nói đang diễn đạt một sự thật chung hoặc một kết quả có thể xảy ra ở hiện tại hoặc tương lai. Trong tiếng Anh thông dụng, đặc biệt với các động từ như 'feel', thì hiện tại đơn thường được dùng trong mệnh đề 'if' để nói về khả năng xảy ra trong tương lai.<br><ul><li><b>stopped</b> (động từ (quá khứ đơn)): Thì quá khứ đơn. Dùng cho câu điều kiện loại 2 (không có thật ở hiện tại): 'If I stopped smoking, I would feel better.' Không phù hợp vì mệnh đề chính dùng 'will feel', không phải 'would feel'.</li><li><b>will stop</b> (động từ (tương lai đơn)): Thì tương lai đơn. Không dùng trong mệnh đề 'if'. Trong câu điều kiện, mệnh đề 'if' không dùng 'will'.</li><li><b>stop</b> (động từ (hiện tại đơn)): Thì hiện tại đơn. Đây là đáp án đúng cho câu điều kiện loại 1: 'If + hiện tại đơn, ... will + động từ nguyên thể.'</li><li><b>had stopped</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành. Dùng cho câu điều kiện loại 3 (không có thật ở quá khứ): 'If I had stopped smoking, I would have felt better.' Không phù hợp ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, ... will + động từ nguyên thể. Dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> Tôi biết tôi sẽ cảm thấy tốt hơn nếu tôi bỏ thuốc lá.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the verb tense in the 'if' clause should match the first conditional structure, which is: If + present simple, ... will + base verb. However, in this case, the main clause uses 'will feel', but the speaker is expressing a general truth or a likely result in the present or future. In informal English, especially with verbs like 'feel', the present simple is often used in the 'if' clause to talk about future possibilities.<br><ul><li><b>stopped</b> (verb (past simple)): Past simple tense. Used for unreal or hypothetical situations (second conditional), e.g., 'If I stopped smoking, I would feel better.' Not suitable here because the main clause uses 'will feel', not 'would feel'.</li><li><b>will stop</b> (verb (future simple)): Future simple tense. Not used in 'if' clauses. In conditional sentences, 'if' clauses do not take 'will'.</li><li><b>stop</b> (verb (present simple)): Present simple tense. Correct form for the first conditional: 'If + present simple, ... will + base verb.'</li><li><b>had stopped</b> (verb (past perfect)): Past perfect tense. Used for third conditional (unreal past): 'If I had stopped smoking, I would have felt better.' Not suitable here.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, ... will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb584c",
+        "questionNumber": 8,
+        "questionText": "If I_______ you, I would help him.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had been",
+            "raw": "A. had been ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "were",
+            "raw": "B. were",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "am",
+            "raw": "C. am ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will be",
+            "raw": "D. will be",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If I_______ you, I would help him.' requires the correct verb form for a second conditional sentence. The second conditional is used to talk about hypothetical or unreal situations in the present or future. The structure is: If + subject + past simple, subject + would + base verb. For the verb 'to be', we use 'were' for all subjects in formal English, especially in conditional sentences.<br><ul><li><b>had been</b> (verb (past perfect)): 'Had been' is the past perfect tense, which is used in third conditional sentences (If + had + past participle, would have + past participle), not in the second conditional.</li><li><b>were</b> (verb (past simple, subjunctive)): 'Were' is the past simple form of 'to be' used for all subjects in the second conditional, especially after 'If I'.</li><li><b>am</b> (verb (present simple)): 'Am' is the present simple form of 'to be' for the subject 'I', but the second conditional requires the past simple.</li><li><b>will be</b> (verb (future simple)): 'Will be' is the future simple tense, which is not used in the 'if' clause of conditional sentences.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, would + base verb. For 'to be', use 'were' for all subjects in formal English.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If I_______ you, I would help him.' cần điền đúng dạng động từ cho câu điều kiện loại 2. Điều kiện loại 2 dùng để nói về những tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Cấu trúc là: If + chủ ngữ + động từ quá khứ đơn, chủ ngữ + would + động từ nguyên mẫu. Với động từ 'to be', ta dùng 'were' cho tất cả các chủ ngữ trong tiếng Anh trang trọng, đặc biệt trong câu điều kiện.<br><ul><li><b>had been</b> (động từ (quá khứ hoàn thành)): 'Had been' là thì quá khứ hoàn thành, dùng trong câu điều kiện loại 3 (If + had + V3, would have + V3), không dùng trong điều kiện loại 2.</li><li><b>were</b> (động từ (quá khứ đơn, giả định)): 'Were' là dạng quá khứ đơn của 'to be' dùng cho tất cả các chủ ngữ trong câu điều kiện loại 2, đặc biệt sau 'If I'.</li><li><b>am</b> (động từ (hiện tại đơn)): 'Am' là thì hiện tại đơn của 'to be' cho chủ ngữ 'I', nhưng điều kiện loại 2 cần dùng thì quá khứ đơn.</li><li><b>will be</b> (động từ (tương lai đơn)): 'Will be' là thì tương lai đơn, không dùng trong mệnh đề 'if' của câu điều kiện.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên mẫu. Với 'to be', dùng 'were' cho mọi chủ ngữ trong tiếng Anh trang trọng.<br><br><b>Tạm dịch:</b> Nếu tôi là bạn, tôi sẽ giúp anh ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If I_______ you, I would help him.' requires the correct verb form for a second conditional sentence. The second conditional is used to talk about hypothetical or unreal situations in the present or future. The structure is: If + subject + past simple, subject + would + base verb. For the verb 'to be', we use 'were' for all subjects in formal English, especially in conditional sentences.<br><ul><li><b>had been</b> (verb (past perfect)): 'Had been' is the past perfect tense, which is used in third conditional sentences (If + had + past participle, would have + past participle), not in the second conditional.</li><li><b>were</b> (verb (past simple, subjunctive)): 'Were' is the past simple form of 'to be' used for all subjects in the second conditional, especially after 'If I'.</li><li><b>am</b> (verb (present simple)): 'Am' is the present simple form of 'to be' for the subject 'I', but the second conditional requires the past simple.</li><li><b>will be</b> (verb (future simple)): 'Will be' is the future simple tense, which is not used in the 'if' clause of conditional sentences.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, would + base verb. For 'to be', use 'were' for all subjects in formal English.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb584d",
+        "questionNumber": 9,
+        "questionText": "I could understand him if he _____ more slowly.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "speaks",
+            "raw": "A. speaks ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "spoke",
+            "raw": "B. spoke",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "would speak",
+            "raw": "C. would speak ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "had spoken",
+            "raw": "D. had spoken",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'I could understand him if he _____ more slowly.' is a conditional sentence. The use of 'could' in the main clause indicates an unreal or hypothetical situation in the present or future. In this type of conditional (second conditional), the correct verb form in the if-clause is the simple past tense.<br><ul><li><b>speaks</b> (verb (present simple)): 'Speaks' is the present simple tense, which is used for general truths or habits, not for unreal or hypothetical situations.</li><li><b>spoke</b> (verb (past simple)): 'Spoke' is the past simple tense, which is used in the if-clause of the second conditional to talk about unreal or hypothetical situations in the present or future.</li><li><b>would speak</b> (modal verb phrase): 'Would speak' is the modal + base form, which is used in the main clause of conditional sentences, not in the if-clause.</li><li><b>had spoken</b> (verb (past perfect)): 'Had spoken' is the past perfect tense, which is used in the third conditional to talk about unreal situations in the past.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, ... would/could + base verb. Used to talk about unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'I could understand him if he _____ more slowly.' là một câu điều kiện. Việc sử dụng 'could' ở mệnh đề chính cho thấy đây là tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Trong loại câu điều kiện này (câu điều kiện loại 2), động từ trong mệnh đề if phải chia ở thì quá khứ đơn.<br><ul><li><b>speaks</b> (động từ (hiện tại đơn)): 'Speaks' là thì hiện tại đơn, dùng cho sự thật chung hoặc thói quen, không phù hợp với tình huống giả định.</li><li><b>spoke</b> (động từ (quá khứ đơn)): 'Spoke' là thì quá khứ đơn, được dùng trong mệnh đề if của câu điều kiện loại 2 để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.</li><li><b>would speak</b> (cụm động từ khuyết thiếu): 'Would speak' là cấu trúc động từ khuyết thiếu + động từ nguyên mẫu, dùng ở mệnh đề chính của câu điều kiện, không dùng trong mệnh đề if.</li><li><b>had spoken</b> (động từ (quá khứ hoàn thành)): 'Had spoken' là thì quá khứ hoàn thành, dùng trong câu điều kiện loại 3 để nói về tình huống không có thật trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, ... would/could + động từ nguyên mẫu. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Tôi có thể hiểu anh ấy nếu anh ấy nói chậm hơn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'I could understand him if he _____ more slowly.' is a conditional sentence. The use of 'could' in the main clause indicates an unreal or hypothetical situation in the present or future. In this type of conditional (second conditional), the correct verb form in the if-clause is the simple past tense.<br><ul><li><b>speaks</b> (verb (present simple)): 'Speaks' is the present simple tense, which is used for general truths or habits, not for unreal or hypothetical situations.</li><li><b>spoke</b> (verb (past simple)): 'Spoke' is the past simple tense, which is used in the if-clause of the second conditional to talk about unreal or hypothetical situations in the present or future.</li><li><b>would speak</b> (modal verb phrase): 'Would speak' is the modal + base form, which is used in the main clause of conditional sentences, not in the if-clause.</li><li><b>had spoken</b> (verb (past perfect)): 'Had spoken' is the past perfect tense, which is used in the third conditional to talk about unreal situations in the past.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, ... would/could + base verb. Used to talk about unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb584e",
+        "questionNumber": 10,
+        "questionText": "The kitchen will look better if we_______ red curtains.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had",
+            "raw": "A. had ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had had",
+            "raw": "B. had had",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "would have",
+            "raw": "C. would have ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The kitchen will look better if we_______ red curtains.' requires the correct verb form to complete the first conditional sentence. The first conditional is used to talk about real and possible situations in the present or future. The structure is: If + present simple, will + base verb. In this case, the verb after 'if we' should be in the present simple tense.<br><ul><li><b>had</b> (verb (past simple)): Past simple tense. Used for unreal situations in the second conditional, not suitable here.</li><li><b>had had</b> (verb (past perfect)): Past perfect tense. Used for unreal situations in the third conditional, not suitable here.</li><li><b>would have</b> (modal verb phrase): Modal + base verb. Used in the third conditional for unreal past situations, not suitable here.</li><li><b>have</b> (verb (present simple)): Present simple tense. Used for real and possible situations in the first conditional.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The kitchen will look better if we_______ red curtains.' cần một động từ đúng để hoàn thành câu điều kiện loại 1. Câu điều kiện loại 1 dùng để nói về những tình huống có thật hoặc có thể xảy ra ở hiện tại hoặc tương lai. Cấu trúc là: If + hiện tại đơn, will + động từ nguyên thể. Trong trường hợp này, động từ sau 'if we' phải ở thì hiện tại đơn.<br><ul><li><b>had</b> (động từ (quá khứ đơn)): Thì quá khứ đơn. Dùng cho câu điều kiện loại 2 (không có thật ở hiện tại), không phù hợp ở đây.</li><li><b>had had</b> (động từ (quá khứ hoàn thành)): Thì quá khứ hoàn thành. Dùng cho câu điều kiện loại 3 (không có thật ở quá khứ), không phù hợp ở đây.</li><li><b>would have</b> (cụm động từ khuyết thiếu): Động từ khuyết thiếu + động từ nguyên thể. Dùng trong câu điều kiện loại 3 (không có thật ở quá khứ), không phù hợp ở đây.</li><li><b>have</b> (động từ (hiện tại đơn)): Thì hiện tại đơn. Dùng cho câu điều kiện loại 1 (có thật hoặc có thể xảy ra ở hiện tại/tương lai).</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể. Dùng để nói về những tình huống có thật hoặc có thể xảy ra ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Nhà bếp sẽ trông đẹp hơn nếu chúng ta có rèm cửa màu đỏ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The kitchen will look better if we_______ red curtains.' requires the correct verb form to complete the first conditional sentence. The first conditional is used to talk about real and possible situations in the present or future. The structure is: If + present simple, will + base verb. In this case, the verb after 'if we' should be in the present simple tense.<br><ul><li><b>had</b> (verb (past simple)): Past simple tense. Used for unreal situations in the second conditional, not suitable here.</li><li><b>had had</b> (verb (past perfect)): Past perfect tense. Used for unreal situations in the third conditional, not suitable here.</li><li><b>would have</b> (modal verb phrase): Modal + base verb. Used in the third conditional for unreal past situations, not suitable here.</li><li><b>have</b> (verb (present simple)): Present simple tense. Used for real and possible situations in the first conditional.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb584f",
+        "questionNumber": 11,
+        "questionText": "If I knew his address, I ______ round and see him.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "go",
+            "raw": "A. go ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will go",
+            "raw": "B. will go ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "would go",
+            "raw": "C. would go",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "went",
+            "raw": "D. went",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I knew his address, I ______ round and see him.' is a conditional sentence type 2, which is used to talk about unreal or hypothetical situations in the present or future. In this structure, the 'if' clause uses the past simple tense (knew), and the main clause uses 'would' + base verb.<br><ul><li><b>go</b> (verb (base form)): Base form of the verb 'to go'. It is not used in the main clause of a type 2 conditional sentence.</li><li><b>will go</b> (modal verb + base verb): 'Will' + base verb is used in type 1 conditional sentences (real possibility in the future), not type 2.</li><li><b>would go</b> (modal verb + base verb): 'Would' + base verb is the correct form for the main clause in a type 2 conditional sentence, expressing an unreal or hypothetical situation.</li><li><b>went</b> (verb (past simple)): Past simple form of 'go'. It is used in the 'if' clause, not in the main clause of a type 2 conditional.</li></ul><b>Related structure or vocabulary:</b> Second Conditional: If + past simple, would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If I knew his address, I ______ round and see him.' là câu điều kiện loại 2, dùng để nói về những tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Ở cấu trúc này, mệnh đề 'if' dùng thì quá khứ đơn (knew), còn mệnh đề chính dùng 'would' + động từ nguyên thể.<br><ul><li><b>go</b> (động từ (nguyên thể)): Động từ nguyên thể 'go'. Không dùng trong mệnh đề chính của câu điều kiện loại 2.</li><li><b>will go</b> (động từ khuyết thiếu + động từ nguyên thể): 'Will' + động từ nguyên thể dùng trong câu điều kiện loại 1 (khả năng thực ở tương lai), không dùng cho loại 2.</li><li><b>would go</b> (động từ khuyết thiếu + động từ nguyên thể): 'Would' + động từ nguyên thể là cấu trúc đúng cho mệnh đề chính trong câu điều kiện loại 2, diễn tả tình huống không có thật hoặc giả định.</li><li><b>went</b> (động từ (quá khứ đơn)): Thì quá khứ đơn của 'go'. Dùng trong mệnh đề 'if', không dùng ở mệnh đề chính của câu điều kiện loại 2.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên thể. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Nếu tôi biết địa chỉ của anh ấy, tôi sẽ đến thăm anh ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If I knew his address, I ______ round and see him.' is a conditional sentence type 2, which is used to talk about unreal or hypothetical situations in the present or future. In this structure, the 'if' clause uses the past simple tense (knew), and the main clause uses 'would' + base verb.<br><ul><li><b>go</b> (verb (base form)): Base form of the verb 'to go'. It is not used in the main clause of a type 2 conditional sentence.</li><li><b>will go</b> (modal verb + base verb): 'Will' + base verb is used in type 1 conditional sentences (real possibility in the future), not type 2.</li><li><b>would go</b> (modal verb + base verb): 'Would' + base verb is the correct form for the main clause in a type 2 conditional sentence, expressing an unreal or hypothetical situation.</li><li><b>went</b> (verb (past simple)): Past simple form of 'go'. It is used in the 'if' clause, not in the main clause of a type 2 conditional.</li></ul><b>Related structure or vocabulary:</b> Second Conditional: If + past simple, would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5850",
+        "questionNumber": 12,
+        "questionText": "It _______ quicker if you use a computer.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would be",
+            "raw": "A. would be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will be",
+            "raw": "B. will be",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "been",
+            "raw": "C. been ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were",
+            "raw": "D. were",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb form that fits the conditional sentence structure. The sentence 'It _______ quicker if you use a computer.' is a type 1 conditional, which is used to talk about real and possible situations in the future. In type 1 conditionals, the structure is: If + present simple, will + base verb. Therefore, the correct answer is 'will be'.<br><ul><li><b>would be</b> (modal verb + base verb): 'Would be' is used in type 2 conditionals (If + past simple, would + base verb), which talk about unreal or hypothetical situations. Here, the sentence is about a real possibility, not a hypothetical one.</li><li><b>will be</b> (modal verb + base verb): 'Will be' is used in type 1 conditionals to express a real possibility in the future.</li><li><b>been</b> (past participle): 'Been' is the past participle of 'be', but it cannot be used alone after the subject in this context.</li><li><b>were</b> (past simple verb): 'Were' is the past simple form of 'be', often used in type 2 conditionals, but it does not fit the structure of this sentence.</li></ul><b>Related structure or vocabulary:</b> Type 1 conditional: If + present simple, will + base verb<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ phù hợp với cấu trúc câu điều kiện loại 1. Câu 'It _______ quicker if you use a computer.' là câu điều kiện loại 1, dùng để nói về những tình huống thực tế và có thể xảy ra trong tương lai. Cấu trúc của câu điều kiện loại 1 là: If + hiện tại đơn, will + động từ nguyên thể. Vì vậy, đáp án đúng là 'will be'.<br><ul><li><b>would be</b> (động từ khuyết thiếu + động từ nguyên thể): 'Would be' dùng trong câu điều kiện loại 2 (If + quá khứ đơn, would + động từ nguyên thể), nói về những tình huống không có thật hoặc giả định. Ở đây, câu nói về khả năng thực tế, không phải giả định.</li><li><b>will be</b> (động từ khuyết thiếu + động từ nguyên thể): 'Will be' dùng trong câu điều kiện loại 1 để diễn tả khả năng thực tế trong tương lai.</li><li><b>been</b> (quá khứ phân từ): 'Been' là quá khứ phân từ của 'be', nhưng không thể dùng một mình sau chủ ngữ trong trường hợp này.</li><li><b>were</b> (động từ quá khứ đơn): 'Were' là thì quá khứ đơn của 'be', thường dùng trong câu điều kiện loại 2, không phù hợp với cấu trúc câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên thể<br><br><b>Tạm dịch:</b> Câu này có nghĩa là: 'Nó sẽ nhanh hơn nếu bạn sử dụng máy tính.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb form that fits the conditional sentence structure. The sentence 'It _______ quicker if you use a computer.' is a type 1 conditional, which is used to talk about real and possible situations in the future. In type 1 conditionals, the structure is: If + present simple, will + base verb. Therefore, the correct answer is 'will be'.<br><ul><li><b>would be</b> (modal verb + base verb): 'Would be' is used in type 2 conditionals (If + past simple, would + base verb), which talk about unreal or hypothetical situations. Here, the sentence is about a real possibility, not a hypothetical one.</li><li><b>will be</b> (modal verb + base verb): 'Will be' is used in type 1 conditionals to express a real possibility in the future.</li><li><b>been</b> (past participle): 'Been' is the past participle of 'be', but it cannot be used alone after the subject in this context.</li><li><b>were</b> (past simple verb): 'Were' is the past simple form of 'be', often used in type 2 conditionals, but it does not fit the structure of this sentence.</li></ul><b>Related structure or vocabulary:</b> Type 1 conditional: If + present simple, will + base verb<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5851",
+        "questionNumber": 13,
+        "questionText": "\"Will you come to the party tomorrow?\" - \"I will if I_____ no visitors\"",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "had",
+            "raw": "A. had ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will have",
+            "raw": "B. will have",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have",
+            "raw": "C. have",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "am having",
+            "raw": "D. am having",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'I will if I_____ no visitors', the blank needs a verb tense that matches the future conditional structure. The first clause 'I will' is in the future simple tense, and the second clause is a conditional clause referring to a real possibility in the future. In English, when talking about a real condition in the future, we use the present simple tense in the 'if' clause, not 'will' or past tenses.<br><ul><li><b>had</b> (verb (past simple)): 'Had' is the past simple tense. It is used for unreal or hypothetical conditions (second conditional), not for real future possibilities.</li><li><b>will have</b> (verb (future simple)): 'Will have' is the future simple tense. In conditional sentences, we do not use 'will' in the 'if' clause.</li><li><b>have</b> (verb (present simple)): 'Have' is the present simple tense. It is used in the 'if' clause to talk about real future possibilities (first conditional).</li><li><b>am having</b> (verb (present continuous)): 'Am having' is the present continuous tense. It is not commonly used in first conditional sentences unless emphasizing an arrangement, which does not fit this context.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'I will if I_____ no visitors', chỗ trống cần một thì động từ phù hợp với cấu trúc câu điều kiện loại 1 (first conditional). Mệnh đề chính 'I will' ở thì tương lai đơn, còn mệnh đề điều kiện (if clause) nói về một khả năng thực sự có thể xảy ra trong tương lai. Theo ngữ pháp tiếng Anh, khi nói về điều kiện thực tế trong tương lai, ta dùng thì hiện tại đơn trong mệnh đề 'if', không dùng 'will' hay thì quá khứ.<br><ul><li><b>had</b> (động từ (quá khứ đơn)): 'Had' là thì quá khứ đơn. Thường dùng cho câu điều kiện không có thật (loại 2), không dùng cho khả năng thực tế trong tương lai.</li><li><b>will have</b> (động từ (tương lai đơn)): 'Will have' là thì tương lai đơn. Trong mệnh đề 'if' của câu điều kiện, không dùng 'will'.</li><li><b>have</b> (động từ (hiện tại đơn)): 'Have' là thì hiện tại đơn. Đây là thì đúng dùng trong mệnh đề 'if' để nói về khả năng thực tế trong tương lai (câu điều kiện loại 1).</li><li><b>am having</b> (động từ (hiện tại tiếp diễn)): 'Am having' là thì hiện tại tiếp diễn. Không thường dùng trong câu điều kiện loại 1, trừ khi nhấn mạnh một sự sắp xếp đã lên lịch, nhưng không phù hợp trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên mẫu. Dùng để nói về tình huống thực tế, có thể xảy ra trong tương lai.<br><br><b>Tạm dịch:</b> \"Bạn sẽ đến bữa tiệc vào ngày mai chứ?\" - \"Tôi sẽ đến nếu tôi không có khách.\"",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'I will if I_____ no visitors', the blank needs a verb tense that matches the future conditional structure. The first clause 'I will' is in the future simple tense, and the second clause is a conditional clause referring to a real possibility in the future. In English, when talking about a real condition in the future, we use the present simple tense in the 'if' clause, not 'will' or past tenses.<br><ul><li><b>had</b> (verb (past simple)): 'Had' is the past simple tense. It is used for unreal or hypothetical conditions (second conditional), not for real future possibilities.</li><li><b>will have</b> (verb (future simple)): 'Will have' is the future simple tense. In conditional sentences, we do not use 'will' in the 'if' clause.</li><li><b>have</b> (verb (present simple)): 'Have' is the present simple tense. It is used in the 'if' clause to talk about real future possibilities (first conditional).</li><li><b>am having</b> (verb (present continuous)): 'Am having' is the present continuous tense. It is not commonly used in first conditional sentences unless emphasizing an arrangement, which does not fit this context.</li></ul><b>Related structure or vocabulary:</b> First conditional: If + present simple, will + base verb. Used to talk about real and possible situations in the future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5852",
+        "questionNumber": 14,
+        "questionText": "If it ________too cold, we could go on a picnic.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "wouldn't be",
+            "raw": "A. wouldn't be ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "isn't",
+            "raw": "B. isn't",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "weren't",
+            "raw": "C. weren't",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "hadn't been",
+            "raw": "D. hadn't been",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If it ________ too cold, we could go on a picnic.' requires the correct verb form to complete a conditional sentence. The phrase 'we could go on a picnic' suggests a hypothetical situation, which is typical of the second conditional. The second conditional is used to talk about unreal or unlikely situations in the present or future, and its structure is: If + past simple, would/could + base verb. Therefore, the correct form to use after 'if' is the past simple tense.<br><ul><li><b>wouldn't be</b> (modal verb): This is the negative form of 'would be', which is used in the main clause of a conditional sentence, not after 'if'.</li><li><b>isn't</b> (verb (present simple negative)): This is the negative form of the present simple tense, which is used in the first conditional, not the second conditional.</li><li><b>weren't</b> (verb (past simple negative)): This is the past simple negative form of 'be', which is correct for the second conditional after 'if'.</li><li><b>hadn't been</b> (verb (past perfect negative)): This is the past perfect negative, which is used in the third conditional, not the second conditional.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, would/could + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If it ________ too cold, we could go on a picnic.' cần điền đúng dạng động từ để hoàn thành câu điều kiện. Cụm 'we could go on a picnic' cho thấy đây là một tình huống giả định, thường gặp ở câu điều kiện loại 2. Câu điều kiện loại 2 dùng để nói về những tình huống không có thật hoặc khó xảy ra ở hiện tại hoặc tương lai, với cấu trúc: If + quá khứ đơn, would/could + động từ nguyên mẫu. Vì vậy, sau 'if' cần dùng thì quá khứ đơn.<br><ul><li><b>wouldn't be</b> (động từ khuyết thiếu): Đây là dạng phủ định của 'would be', dùng ở mệnh đề chính của câu điều kiện, không dùng sau 'if'.</li><li><b>isn't</b> (động từ (hiện tại đơn phủ định)): Đây là dạng phủ định của thì hiện tại đơn, dùng trong câu điều kiện loại 1, không phù hợp với câu này.</li><li><b>weren't</b> (động từ (quá khứ đơn phủ định)): Đây là dạng phủ định của 'be' ở thì quá khứ đơn, đúng với cấu trúc câu điều kiện loại 2 sau 'if'.</li><li><b>hadn't been</b> (động từ (quá khứ hoàn thành phủ định)): Đây là thì quá khứ hoàn thành phủ định, dùng trong câu điều kiện loại 3, không phù hợp với câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, would/could + động từ nguyên mẫu. Dùng để nói về tình huống không có thật hoặc khó xảy ra ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Nếu trời không quá lạnh, chúng ta có thể đi dã ngoại.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If it ________ too cold, we could go on a picnic.' requires the correct verb form to complete a conditional sentence. The phrase 'we could go on a picnic' suggests a hypothetical situation, which is typical of the second conditional. The second conditional is used to talk about unreal or unlikely situations in the present or future, and its structure is: If + past simple, would/could + base verb. Therefore, the correct form to use after 'if' is the past simple tense.<br><ul><li><b>wouldn't be</b> (modal verb): This is the negative form of 'would be', which is used in the main clause of a conditional sentence, not after 'if'.</li><li><b>isn't</b> (verb (present simple negative)): This is the negative form of the present simple tense, which is used in the first conditional, not the second conditional.</li><li><b>weren't</b> (verb (past simple negative)): This is the past simple negative form of 'be', which is correct for the second conditional after 'if'.</li><li><b>hadn't been</b> (verb (past perfect negative)): This is the past perfect negative, which is used in the third conditional, not the second conditional.</li></ul><b>Related structure or vocabulary:</b> Second conditional: If + past simple, would/could + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6224926a83f28145bcbb5853",
+        "questionNumber": 15,
+        "questionText": "If they didn't live so far away, I _________ them every week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will visit",
+            "raw": "A. will visit ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "visited",
+            "raw": "B. visited",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "visit",
+            "raw": "C. visit ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "would visit",
+            "raw": "D. would visit",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'If they didn't live so far away, I _________ them every week.' is a type 2 conditional sentence. Type 2 conditionals are used to talk about hypothetical or unreal situations in the present or future. The structure is: If + past simple, would + base verb. In this sentence, 'didn't live' is the past simple, so the main clause should use 'would' + base verb.<br><ul><li><b>will visit</b> (verb phrase): 'Will visit' is used for future simple tense, not suitable for type 2 conditionals.</li><li><b>visited</b> (verb (past simple)): 'Visited' is the past simple form, but the main clause of a type 2 conditional requires 'would' + base verb.</li><li><b>visit</b> (verb (base form)): 'Visit' is the base form, but it needs 'would' before it in this structure.</li><li><b>would visit</b> (modal verb + base verb): 'Would visit' is the correct form for the main clause in a type 2 conditional sentence.</li></ul><b>Related structure or vocabulary:</b> Type 2 conditional: If + past simple, would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'If they didn't live so far away, I _________ them every week.' là câu điều kiện loại 2. Câu điều kiện loại 2 dùng để nói về những tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai. Cấu trúc là: If + quá khứ đơn, would + động từ nguyên thể. Trong câu này, 'didn't live' là quá khứ đơn, nên mệnh đề chính phải dùng 'would' + động từ nguyên thể.<br><ul><li><b>will visit</b> (cụm động từ): 'Will visit' dùng cho thì tương lai đơn, không phù hợp với câu điều kiện loại 2.</li><li><b>visited</b> (động từ (quá khứ đơn)): 'Visited' là động từ quá khứ đơn, nhưng mệnh đề chính của câu điều kiện loại 2 phải dùng 'would' + động từ nguyên thể.</li><li><b>visit</b> (động từ (nguyên thể)): 'Visit' là động từ nguyên thể, nhưng cần có 'would' đứng trước trong cấu trúc này.</li><li><b>would visit</b> (động từ khuyết thiếu + động từ nguyên thể): 'Would visit' là dạng đúng cho mệnh đề chính trong câu điều kiện loại 2.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên thể. Dùng để nói về tình huống không có thật hoặc giả định ở hiện tại hoặc tương lai.<br><br><b>Tạm dịch:</b> Nếu họ không sống quá xa, tôi sẽ thăm họ mỗi tuần.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'If they didn't live so far away, I _________ them every week.' is a type 2 conditional sentence. Type 2 conditionals are used to talk about hypothetical or unreal situations in the present or future. The structure is: If + past simple, would + base verb. In this sentence, 'didn't live' is the past simple, so the main clause should use 'would' + base verb.<br><ul><li><b>will visit</b> (verb phrase): 'Will visit' is used for future simple tense, not suitable for type 2 conditionals.</li><li><b>visited</b> (verb (past simple)): 'Visited' is the past simple form, but the main clause of a type 2 conditional requires 'would' + base verb.</li><li><b>visit</b> (verb (base form)): 'Visit' is the base form, but it needs 'would' before it in this structure.</li><li><b>would visit</b> (modal verb + base verb): 'Would visit' is the correct form for the main clause in a type 2 conditional sentence.</li></ul><b>Related structure or vocabulary:</b> Type 2 conditional: If + past simple, would + base verb. Used for unreal or hypothetical situations in the present or future.<br><br>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "topicId": "6305d1e55948b5402da8373d",
+  "title": "Part 4: Short Talks - Test 14",
+  "totalCards": 10,
+  "totalQuestions": 30,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837df",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/88806640.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nGood afternoon, Craig. It&rsquo;s Julie. I&rsquo;m afraid I&rsquo;m going to miss our meeting thirty minutes from now. I was on my way to your office when I received a call from my son&rsquo;s school. Apparently, he broke his leg while playing soccer during recess, so he has been taken to the hospital. I&rsquo;ve got to get there as soon as I can, so that&rsquo;s where I&rsquo;m heading now. Would you mind meeting me tomorrow in the afternoon? I&rsquo;m available any time after lunch. How about sending me a text message since I won&rsquo;t be able to answer my phone at the hospital? I hope you understand.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Chào buổi chiều, Craig. Tôi là Julie đây. Tôi e rằng tôi sẽ lỡ cuộc gặp trong ba mươi phút nữa của chúng ta. Tôi đang trên đường đến văn phòng của anh thì nhận được cuộc gọi từ trường của con trai tôi. Có vẻ như thằng bé đã bị gãy chân khi chơi bóng đá trong giờ giải lao nên nó đã phải nhập viện. Tôi phải đến chỗ thằng bé sớm nhất có thể, và tôi đang trên đường tới bệnh viện rồi. Anh có thể vui lòng gặp tôi vào chiều mai không? Tôi trống lịch sau bữa trưa. Hãy trả lời tôi qua tin nhắn nhé vì tôi không thể trả lời điện thoại ở bệnh viện được. Tôi hy vọng anh thông cảm cho tôi.</p>\n",
+      "questions": [
+        {
+          "id": "630604735948b5402da837e9",
+          "questionNumber": 1,
+          "questionText": "What is the problem?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/88806640.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The speaker forgot about an appointment.",
+              "raw": "(A) The speaker forgot about an appointment.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The speaker’s son suffered an injury.",
+              "raw": "(B) The speaker’s son suffered an injury.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "The speaker is going to be late for school.",
+              "raw": "(C) The speaker is going to be late for school.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The speaker’s boss made her miss a meeting.",
+              "raw": "(D) The speaker’s boss made her miss a meeting.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Chào buổi chiều, Craig. Tôi là Julie đây. Tôi e rằng tôi sẽ lỡ cuộc gặp trong ba mươi phút nữa của chúng ta. Tôi đang trên đường đến văn phòng của anh thì nhận được cuộc gọi từ trường của con trai tôi. Có vẻ như thằng bé đã bị gãy chân khi chơi bóng đá trong giờ giải lao nên nó đã phải nhập viện. Tôi phải đến chỗ thằng bé sớm nhất có thể, và tôi đang trên đường tới bệnh viện rồi. Anh có thể vui lòng gặp tôi vào chiều mai không? Tôi trống lịch sau bữa trưa. Hãy trả lời tôi qua tin nhắn nhé vì tôi không thể trả lời điện thoại ở bệnh viện được. Tôi hy vọng anh thông cảm cho tôi.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604735948b5402da837ea",
+          "questionNumber": 2,
+          "questionText": "When does the speaker want to meet Craig?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/88806640.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "This afternoon",
+              "raw": "(A) This afternoon",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "This evening",
+              "raw": "(B) This evening",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Tomorrow morning",
+              "raw": "(C) Tomorrow morning",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Tomorrow afternoon",
+              "raw": "(D) Tomorrow afternoon",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Chào buổi chiều, Craig. Tôi là Julie đây. Tôi e rằng tôi sẽ lỡ cuộc gặp trong ba mươi phút nữa của chúng ta. Tôi đang trên đường đến văn phòng của anh thì nhận được cuộc gọi từ trường của con trai tôi. Có vẻ như thằng bé đã bị gãy chân khi chơi bóng đá trong giờ giải lao nên nó đã phải nhập viện. Tôi phải đến chỗ thằng bé sớm nhất có thể, và tôi đang trên đường tới bệnh viện rồi. Anh có thể vui lòng gặp tôi vào chiều mai không? Tôi trống lịch sau bữa trưa. Hãy trả lời tôi qua tin nhắn nhé vì tôi không thể trả lời điện thoại ở bệnh viện được. Tôi hy vọng anh thông cảm cho tôi.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604735948b5402da837eb",
+          "questionNumber": 3,
+          "questionText": "What does the speaker ask Craig to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/88806640.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Invite another person to the meeting",
+              "raw": "(A) Invite another person to the meeting",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Contact her regarding his availability",
+              "raw": "(B) Contact her regarding his availability",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Send her a contact number by text message",
+              "raw": "(C) Send her a contact number by text message",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Fax her the report that she requests",
+              "raw": "(D) Fax her the report that she requests",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Chào buổi chiều, Craig. Tôi là Julie đây. Tôi e rằng tôi sẽ lỡ cuộc gặp trong ba mươi phút nữa của chúng ta. Tôi đang trên đường đến văn phòng của anh thì nhận được cuộc gọi từ trường của con trai tôi. Có vẻ như thằng bé đã bị gãy chân khi chơi bóng đá trong giờ giải lao nên nó đã phải nhập viện. Tôi phải đến chỗ thằng bé sớm nhất có thể, và tôi đang trên đường tới bệnh viện rồi. Anh có thể vui lòng gặp tôi vào chiều mai không? Tôi trống lịch sau bữa trưa. Hãy trả lời tôi qua tin nhắn nhé vì tôi không thể trả lời điện thoại ở bệnh viện được. Tôi hy vọng anh thông cảm cho tôi.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e0",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/43527738.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nIt appears as though the unseasonably warm weather we&rsquo;ve been getting in December is about to come to an end. Expect temperatures to plummet from today&#39;s high of 15 degrees to 3 degrees by tomorrow afternoon. And that&#39;s not the worst part. Tomorrow night, the temperature is going to drop below freezing, and it&rsquo;s highly likely that we&rsquo;ll see some snow flurries around midnight. By the day after tomorrow, you can expect up to 5 centimeters of snow along with temperatures as low as minus 5 degrees Celsius. So be sure to dress warmly when you go out tomorrow and be prepared for snowy conditions.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Có vẻ như thời tiết ấm áp trái mùa mà chúng ta có trong tháng 12 sắp kết thúc. Dự kiến nhiệt độ sẽ giảm mạnh từ mức cao nhất hôm nay là 15 độ xuống còn 3 độ vào chiều mai. Và đó vẫn chưa phải là phần tồi tệ nhất. Đêm mai, nhiệt độ sẽ giảm xuống dưới mức đóng băng và rất có thể sẽ có tuyết rơi vào khoảng nửa đêm. Vào ngày mốt, tuyết có thể dày tới 5 cm và nhiệt độ xuống tới âm 5 độ C. Vì vậy, hãy nhớ mặc ấm khi ra ngoài vào ngày mai và chuẩn bị đối phó với tuyết.</p>\n",
+      "questions": [
+        {
+          "id": "630604735948b5402da837ec",
+          "questionNumber": 4,
+          "questionText": "How has the weather in December been?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/43527738.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Normal",
+              "raw": "(A) Normal",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Warmer than usual",
+              "raw": "(B) Warmer than usual",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Cold",
+              "raw": "(C) Cold",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Very cold",
+              "raw": "(D) Very cold",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Có vẻ như thời tiết ấm áp trái mùa mà chúng ta có trong tháng 12 sắp kết thúc. Dự kiến nhiệt độ sẽ giảm mạnh từ mức cao nhất hôm nay là 15 độ xuống còn 3 độ vào chiều mai. Và đó vẫn chưa phải là phần tồi tệ nhất. Đêm mai, nhiệt độ sẽ giảm xuống dưới mức đóng băng và rất có thể sẽ có tuyết rơi vào khoảng nửa đêm. Vào ngày mốt, tuyết có thể dày tới 5 cm và nhiệt độ xuống tới âm 5 độ C. Vì vậy, hãy nhớ mặc ấm khi ra ngoài vào ngày mai và chuẩn bị đối phó với tuyết.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604735948b5402da837ed",
+          "questionNumber": 5,
+          "questionText": "What does the speaker mean when he says, “And that’s not the worst part”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/43527738.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The weather is going to become bad.",
+              "raw": "(A) The weather is going to become bad.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "He heard some bad news just now.",
+              "raw": "(B) He heard some bad news just now.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "It will not stop raining for several days.",
+              "raw": "(C) It will not stop raining for several days.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The cold weather is going to continue.",
+              "raw": "(D) The cold weather is going to continue.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Có vẻ như thời tiết ấm áp trái mùa mà chúng ta có trong tháng 12 sắp kết thúc. Dự kiến nhiệt độ sẽ giảm mạnh từ mức cao nhất hôm nay là 15 độ xuống còn 3 độ vào chiều mai. Và đó vẫn chưa phải là phần tồi tệ nhất. Đêm mai, nhiệt độ sẽ giảm xuống dưới mức đóng băng và rất có thể sẽ có tuyết rơi vào khoảng nửa đêm. Vào ngày mốt, tuyết có thể dày tới 5 cm và nhiệt độ xuống tới âm 5 độ C. Vì vậy, hãy nhớ mặc ấm khi ra ngoài vào ngày mai và chuẩn bị đối phó với tuyết.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604735948b5402da837ee",
+          "questionNumber": 6,
+          "questionText": "What will the weather be like on the day after tomorrow?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/43527738.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Warm and cloudy",
+              "raw": "(A) Warm and cloudy",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Cool and windy",
+              "raw": "(B) Cool and windy",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Cold and snowy",
+              "raw": "(C) Cold and snowy",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Cool and rainy",
+              "raw": "(D) Cool and rainy",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Có vẻ như thời tiết ấm áp trái mùa mà chúng ta có trong tháng 12 sắp kết thúc. Dự kiến nhiệt độ sẽ giảm mạnh từ mức cao nhất hôm nay là 15 độ xuống còn 3 độ vào chiều mai. Và đó vẫn chưa phải là phần tồi tệ nhất. Đêm mai, nhiệt độ sẽ giảm xuống dưới mức đóng băng và rất có thể sẽ có tuyết rơi vào khoảng nửa đêm. Vào ngày mốt, tuyết có thể dày tới 5 cm và nhiệt độ xuống tới âm 5 độ C. Vì vậy, hãy nhớ mặc ấm khi ra ngoài vào ngày mai và chuẩn bị đối phó với tuyết.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e1",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/88794879.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nI&rsquo;ve got some great news for all full-time and part- time employees here at the Western Department store. You are now eligible for membership at the Coldwater Swimming Pool, which has just opened for the summer. Full-time employees can receive 50% off an individual or family membership while part-timers are eligible for 30% discounts on either type of membership. Both types of employees qualify for 60% discounts on swimming lessons. If you&rsquo;re interested in this great deal, speak with Juliet Foreman in the personnel office on the second floor. She can provide you with all of the details.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Tôi có một số tin vui dành cho tất cả nhân viên toàn thời gian và bán thời gian tại cửa hàng bách hóa Western. Hiện các bạn đã đủ điều kiện để trở thành thành viên tại Bể bơi Coldwater, bể vừa khai trương vào mùa hè. Nhân viên toàn thời gian có thể được giảm giá 50% khi đăng ký thẻ thành viên cá nhân hoặc thẻ gia đình trong khi nhân viên bán thời gian sẽ được giảm giá 30% cho một trong hai loại thẻ thành viên trên. Cả nhân viên bán thời gian và toàn thời gian đều đủ điều kiện được giảm giá 60% khi học bơi. Nếu các bạn quan tâm đến những ưu đãi tuyệt vời này, hãy tìm gặp Juliet Foreman tại văn phòng nhân sự trên tầng hai. Cô ấy có thể cung cấp cho các bạn tất cả thông tin chi tiết.</p>\n",
+      "questions": [
+        {
+          "id": "630604735948b5402da837ef",
+          "questionNumber": 7,
+          "questionText": "What is the purpose of the announcement?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/88794879.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To explain how to get a rebate",
+              "raw": "(A) To explain how to get a rebate",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To mention a deadline for an event",
+              "raw": "(B) To mention a deadline for an event",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To remind listeners about a sale",
+              "raw": "(C) To remind listeners about a sale",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To describe a special offer",
+              "raw": "(D) To describe a special offer",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tôi có một số tin vui dành cho tất cả nhân viên toàn thời gian và bán thời gian tại cửa hàng bách hóa Western. Hiện các bạn đã đủ điều kiện để trở thành thành viên tại Bể bơi Coldwater, bể vừa khai trương vào mùa hè. Nhân viên toàn thời gian có thể được giảm giá 50% khi đăng ký thẻ thành viên cá nhân hoặc thẻ gia đình trong khi nhân viên bán thời gian sẽ được giảm giá 30% cho một trong hai loại thẻ thành viên trên. Cả nhân viên bán thời gian và toàn thời gian đều đủ điều kiện được giảm giá 60% khi học bơi. Nếu các bạn quan tâm đến những ưu đãi tuyệt vời này, hãy tìm gặp Juliet Foreman tại văn phòng nhân sự trên tầng hai. Cô ấy có thể cung cấp cho các bạn tất cả thông tin chi tiết.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604735948b5402da837f0",
+          "questionNumber": 8,
+          "questionText": "Who qualifies for discounts on swimming lessons?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/88794879.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Children of employees",
+              "raw": "(A) Children of employees",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Only full-time employees",
+              "raw": "(B) Only full-time employees",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Only part-time employees",
+              "raw": "(C) Only part-time employees",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "All employees",
+              "raw": "(D) All employees",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tôi có một số tin vui dành cho tất cả nhân viên toàn thời gian và bán thời gian tại cửa hàng bách hóa Western. Hiện các bạn đã đủ điều kiện để trở thành thành viên tại Bể bơi Coldwater, bể vừa khai trương vào mùa hè. Nhân viên toàn thời gian có thể được giảm giá 50% khi đăng ký thẻ thành viên cá nhân hoặc thẻ gia đình trong khi nhân viên bán thời gian sẽ được giảm giá 30% cho một trong hai loại thẻ thành viên trên. Cả nhân viên bán thời gian và toàn thời gian đều đủ điều kiện được giảm giá 60% khi học bơi. Nếu các bạn quan tâm đến những ưu đãi tuyệt vời này, hãy tìm gặp Juliet Foreman tại văn phòng nhân sự trên tầng hai. Cô ấy có thể cung cấp cho các bạn tất cả thông tin chi tiết.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604735948b5402da837f1",
+          "questionNumber": 9,
+          "questionText": "What should listeners do to get more information?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/88794879.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Send an e-mail",
+              "raw": "(A) Send an e-mail",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Call the swimming pool",
+              "raw": "(B) Call the swimming pool",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Speak with another employee",
+              "raw": "(C) Speak with another employee",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Read a pamphlet",
+              "raw": "(D) Read a pamphlet",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tôi có một số tin vui dành cho tất cả nhân viên toàn thời gian và bán thời gian tại cửa hàng bách hóa Western. Hiện các bạn đã đủ điều kiện để trở thành thành viên tại Bể bơi Coldwater, bể vừa khai trương vào mùa hè. Nhân viên toàn thời gian có thể được giảm giá 50% khi đăng ký thẻ thành viên cá nhân hoặc thẻ gia đình trong khi nhân viên bán thời gian sẽ được giảm giá 30% cho một trong hai loại thẻ thành viên trên. Cả nhân viên bán thời gian và toàn thời gian đều đủ điều kiện được giảm giá 60% khi học bơi. Nếu các bạn quan tâm đến những ưu đãi tuyệt vời này, hãy tìm gặp Juliet Foreman tại văn phòng nhân sự trên tầng hai. Cô ấy có thể cung cấp cho các bạn tất cả thông tin chi tiết.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e2",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33013630.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nThe Lexington Orchestra is holding open auditions this Saturday, April 2. The auditions will be held in the Cogswell Concert Hall from 9 A.M. until 8 P.M. No reservations are necessary. Simply show up with your instrument. You&rsquo;ll be asked to play two classical pieces and one modern piece of the conductor&rsquo;s choice. We welcome individuals who can play any instrument, but we&rsquo;re particularly interested in having more violins in the orchestra this year. Please note that members of the orchestra won&#39;t receive any financial compensation but will be given four complimentary tickets to each of the six summer performances.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Dàn nhạc Lexington sẽ tổ chức các buổi thử giọng công khai vào Thứ Bảy tuần này, ngày 2 tháng 4. Buổi thử giọng sẽ được tổ chức tại Phòng hòa nhạc Cogswell từ 9 giờ sáng cho đến 8 giờ tối. Không cần đăng ký hay đặt chỗ trước. Rất đơn giản, các bạn chỉ cần xuất hiện với nhạc cụ của mình. Các bạn sẽ được yêu cầu chơi hai bản nhạc cổ điển và một bản nhạc hiện đại do nhạc trưởng chỉ định. Chúng tôi hoan nghênh các cá nhân với bất loại kỳ nhạc cụ nào, nhưng chúng tôi đặc biệt quan tâm đến việc có thêm đàn violin trong dàn nhạc năm nay. Xin lưu ý rằng các thành viên của dàn nhạc sẽ không nhận được bất kỳ khoản thù lao tài chính nào nhưng sẽ được tặng bốn vé miễn phí cho mỗi buổi biểu diễn nằm trong serie sáu buổi biểu diễn mùa hè.</p>\n",
+      "questions": [
+        {
+          "id": "630604735948b5402da837f2",
+          "questionNumber": 10,
+          "questionText": "Who most likely is the announcement for?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33013630.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Musicians",
+              "raw": "(A) Musicians",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Audience members",
+              "raw": "(B) Audience members",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Conductors",
+              "raw": "(C) Conductors",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Music instructors",
+              "raw": "(D) Music instructors",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Dàn nhạc Lexington sẽ tổ chức các buổi thử giọng công khai vào Thứ Bảy tuần này, ngày 2 tháng 4. Buổi thử giọng sẽ được tổ chức tại Phòng hòa nhạc Cogswell từ 9 giờ sáng cho đến 8 giờ tối. Không cần đăng ký hay đặt chỗ trước. Rất đơn giản, các bạn chỉ cần xuất hiện với nhạc cụ của mình. Các bạn sẽ được yêu cầu chơi hai bản nhạc cổ điển và một bản nhạc hiện đại do nhạc trưởng chỉ định. Chúng tôi hoan nghênh các cá nhân với bất loại kỳ nhạc cụ nào, nhưng chúng tôi đặc biệt quan tâm đến việc có thêm đàn violin trong dàn nhạc năm nay. Xin lưu ý rằng các thành viên của dàn nhạc sẽ không nhận được bất kỳ khoản thù lao tài chính nào nhưng sẽ được tặng bốn vé miễn phí cho mỗi buổi biểu diễn nằm trong serie sáu buổi biểu diễn mùa hè.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604735948b5402da837f3",
+          "questionNumber": 11,
+          "questionText": "What is mentioned about the event?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33013630.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It is going to last for two days.",
+              "raw": "(A) It is going to last for two days.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Individuals must play three pieces of music.",
+              "raw": "(B) Individuals must play three pieces of music.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Attendees must be able to play two instruments.",
+              "raw": "(C) Attendees must be able to play two instruments.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Only violinists are encouraged to try out.",
+              "raw": "(D) Only violinists are encouraged to try out.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Dàn nhạc Lexington sẽ tổ chức các buổi thử giọng công khai vào Thứ Bảy tuần này, ngày 2 tháng 4. Buổi thử giọng sẽ được tổ chức tại Phòng hòa nhạc Cogswell từ 9 giờ sáng cho đến 8 giờ tối. Không cần đăng ký hay đặt chỗ trước. Rất đơn giản, các bạn chỉ cần xuất hiện với nhạc cụ của mình. Các bạn sẽ được yêu cầu chơi hai bản nhạc cổ điển và một bản nhạc hiện đại do nhạc trưởng chỉ định. Chúng tôi hoan nghênh các cá nhân với bất loại kỳ nhạc cụ nào, nhưng chúng tôi đặc biệt quan tâm đến việc có thêm đàn violin trong dàn nhạc năm nay. Xin lưu ý rằng các thành viên của dàn nhạc sẽ không nhận được bất kỳ khoản thù lao tài chính nào nhưng sẽ được tặng bốn vé miễn phí cho mỗi buổi biểu diễn nằm trong serie sáu buổi biểu diễn mùa hè.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604735948b5402da837f4",
+          "questionNumber": 12,
+          "questionText": "What are orchestra members given?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33013630.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Salaries",
+              "raw": "(A) Salaries",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "CDs of their performances",
+              "raw": "(B) CDs of their performances",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Instruments",
+              "raw": "(C) Instruments",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Concert tickets",
+              "raw": "(D) Concert tickets",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Dàn nhạc Lexington sẽ tổ chức các buổi thử giọng công khai vào Thứ Bảy tuần này, ngày 2 tháng 4. Buổi thử giọng sẽ được tổ chức tại Phòng hòa nhạc Cogswell từ 9 giờ sáng cho đến 8 giờ tối. Không cần đăng ký hay đặt chỗ trước. Rất đơn giản, các bạn chỉ cần xuất hiện với nhạc cụ của mình. Các bạn sẽ được yêu cầu chơi hai bản nhạc cổ điển và một bản nhạc hiện đại do nhạc trưởng chỉ định. Chúng tôi hoan nghênh các cá nhân với bất loại kỳ nhạc cụ nào, nhưng chúng tôi đặc biệt quan tâm đến việc có thêm đàn violin trong dàn nhạc năm nay. Xin lưu ý rằng các thành viên của dàn nhạc sẽ không nhận được bất kỳ khoản thù lao tài chính nào nhưng sẽ được tặng bốn vé miễn phí cho mỗi buổi biểu diễn nằm trong serie sáu buổi biểu diễn mùa hè.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e3",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/41239671.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nI know that each and every one of you works hard and that you have numerous deliveries to make on your routes. However, I&rsquo;ve been getting some complaints from our customers regarding mistakes you&rsquo;ve been making. We got a call this morning from a customer who claimed that the items in the package he received were shattered. They were antiques, so he&rsquo;s requesting $1,200 in compensation. Another customer remarked she was given a package belonging to someone else. We need to cut down on these and other mistakes. So please be more careful, or I&rsquo;m going to have to let some of you go if you can&rsquo;t improve your performance.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Tôi biết rằng tất cả các bạn đều làm việc chăm chỉ với rất nhiều chuyến giao hàng phải thực hiện trên các tuyến đường. Tuy nhiên, nhiều khách hàng đã khiếu nại về một số lỗi mà các bạn đang mắc phải. Sáng nay, một khách hàng đã gọi tới và cho biết các món đồ trong gói hàng mà anh ấy nhận được đã bị vỡ vụn. Chúng là đồ cổ nên khách hàng yêu cầu khoản bồi thường 1.200 USD. Một khách hàng khác thì phản hồi rằng cô ấy đã được giao nhầm gói hàng của người khác. Chúng ta cần giảm bớt các lỗi trên và tránh mắc các lỗi khác. Vì vậy, hãy cẩn thận hơn, nếu không tôi sẽ buộc phải chấm dứt hợp đồng với những nhân viên không thể cải thiện hiệu suất của mình.</p>\n",
+      "questions": [
+        {
+          "id": "630604745948b5402da837f5",
+          "questionNumber": 13,
+          "questionText": "Who is the speaker talking to?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/41239671.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Telephone operators",
+              "raw": "(A) Telephone operators",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Shipping Department employees",
+              "raw": "(B) Shipping Department employees",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Delivery personnel",
+              "raw": "(C) Delivery personnel",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Office receptionists",
+              "raw": "(D) Office receptionists",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tôi biết rằng tất cả các bạn đều làm việc chăm chỉ với rất nhiều chuyến giao hàng phải thực hiện trên các tuyến đường. Tuy nhiên, nhiều khách hàng đã khiếu nại về một số lỗi mà các bạn đang mắc phải. Sáng nay, một khách hàng đã gọi tới và cho biết các món đồ trong gói hàng mà anh ấy nhận được đã bị vỡ vụn. Chúng là đồ cổ nên khách hàng yêu cầu khoản bồi thường 1.200 USD. Một khách hàng khác thì phản hồi rằng cô ấy đã được giao nhầm gói hàng của người khác. Chúng ta cần giảm bớt các lỗi trên và tránh mắc các lỗi khác. Vì vậy, hãy cẩn thận hơn, nếu không tôi sẽ buộc phải chấm dứt hợp đồng với những nhân viên không thể cải thiện hiệu suất của mình.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da837f6",
+          "questionNumber": 14,
+          "questionText": "What problem does the speaker mention?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/41239671.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Some money was stolen.",
+              "raw": "(A) Some money was stolen.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Some boxes were lost.",
+              "raw": "(B) Some boxes were lost.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Some items were broken.",
+              "raw": "(C) Some items were broken.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Some orders were never received.",
+              "raw": "(D) Some orders were never received.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tôi biết rằng tất cả các bạn đều làm việc chăm chỉ với rất nhiều chuyến giao hàng phải thực hiện trên các tuyến đường. Tuy nhiên, nhiều khách hàng đã khiếu nại về một số lỗi mà các bạn đang mắc phải. Sáng nay, một khách hàng đã gọi tới và cho biết các món đồ trong gói hàng mà anh ấy nhận được đã bị vỡ vụn. Chúng là đồ cổ nên khách hàng yêu cầu khoản bồi thường 1.200 USD. Một khách hàng khác thì phản hồi rằng cô ấy đã được giao nhầm gói hàng của người khác. Chúng ta cần giảm bớt các lỗi trên và tránh mắc các lỗi khác. Vì vậy, hãy cẩn thận hơn, nếu không tôi sẽ buộc phải chấm dứt hợp đồng với những nhân viên không thể cải thiện hiệu suất của mình.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da837f7",
+          "questionNumber": 15,
+          "questionText": "What does the speaker suggest may happen?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/41239671.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Individuals may lose their jobs.",
+              "raw": "(A) Individuals may lose their jobs.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Individuals may be suspended.",
+              "raw": "(B) Individuals may be suspended.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Individuals may be given more training.",
+              "raw": "(C) Individuals may be given more training.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Individuals may be transferred.",
+              "raw": "(D) Individuals may be transferred. ",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Tôi biết rằng tất cả các bạn đều làm việc chăm chỉ với rất nhiều chuyến giao hàng phải thực hiện trên các tuyến đường. Tuy nhiên, nhiều khách hàng đã khiếu nại về một số lỗi mà các bạn đang mắc phải. Sáng nay, một khách hàng đã gọi tới và cho biết các món đồ trong gói hàng mà anh ấy nhận được đã bị vỡ vụn. Chúng là đồ cổ nên khách hàng yêu cầu khoản bồi thường 1.200 USD. Một khách hàng khác thì phản hồi rằng cô ấy đã được giao nhầm gói hàng của người khác. Chúng ta cần giảm bớt các lỗi trên và tránh mắc các lỗi khác. Vì vậy, hãy cẩn thận hơn, nếu không tôi sẽ buộc phải chấm dứt hợp đồng với những nhân viên không thể cải thiện hiệu suất của mình.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e4",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/60952431.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nWe&#39;ve narrowed the job search down to the following three candidates: Vladimir Sobieski, Wilma Howard, and Maya Freeman. Each applicant has outstanding credentials and comes highly recommended. They all spent time here interviewing as well. Now, we need to arrive at a consensus regarding whom we should offer the open position to. I have my own personal favorite, but I&rsquo;d like to hear from every one of you regarding yours. So let me give you all a chance to speak in support of the person you&rsquo;d like to become your new colleague. Jeff, let&rsquo;s start with you.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nChúng ta có ba ứng viên lọt vào vòng cuối cùng là Vladimir Sobieski, Wilma Howard và Maya Freeman. Mỗi ứng viên đều có bằng cấp xuất sắc và được đánh giá cao. Tất cả họ đều đã dành thời gian tham gia cuộc phỏng vấn. Bây giờ, chúng ta cần đi đến thống nhất về việc nên đưa ra nhận ai vào làm. Tôi có nhận định riêng của mình, nhưng tôi cũng muốn nghe ý kiến của các bạn. Vì vậy, tất cả mọi người đều có thể để lên tiếng để chọn ra đồng nghiệp mới của các mình từ ba ứng viên này. Jeff, hãy bắt đầu từ ý kiến của anh đi.</p>",
+      "questions": [
+        {
+          "id": "630604745948b5402da837f8",
+          "questionNumber": 16,
+          "questionText": "What is mainly being discussed?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/60952431.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The qualifications of some job candidates",
+              "raw": "(A) The qualifications of some job candidates",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The interviews that will be conducted",
+              "raw": "(B) The interviews that will be conducted",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A job search that is currently going on",
+              "raw": "(C) A job search that is currently going on",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A position that needs to be filled soon",
+              "raw": "(D) A position that needs to be filled soon",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nChúng ta có ba ứng viên lọt vào vòng cuối cùng là Vladimir Sobieski, Wilma Howard và Maya Freeman. Mỗi ứng viên đều có bằng cấp xuất sắc và được đánh giá cao. Tất cả họ đều đã dành thời gian tham gia cuộc phỏng vấn. Bây giờ, chúng ta cần đi đến thống nhất về việc nên đưa ra nhận ai vào làm. Tôi có nhận định riêng của mình, nhưng tôi cũng muốn nghe ý kiến của các bạn. Vì vậy, tất cả mọi người đều có thể để lên tiếng để chọn ra đồng nghiệp mới của các mình từ ba ứng viên này. Jeff, hãy bắt đầu từ ý kiến của anh đi.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da837f9",
+          "questionNumber": 17,
+          "questionText": "What does the speaker indicate about herself?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/60952431.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She knows which person she prefers for a job.",
+              "raw": "(A) She knows which person she prefers for a job.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "She has already made her final decision.",
+              "raw": "(B) She has already made her final decision.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She has meet with Vladimir Sobieski twice.",
+              "raw": "(C) She has meet with Vladimir Sobieski twice.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She wants to conduct some more interviews.",
+              "raw": "(D) She wants to conduct some more interviews.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nChúng ta có ba ứng viên lọt vào vòng cuối cùng là Vladimir Sobieski, Wilma Howard và Maya Freeman. Mỗi ứng viên đều có bằng cấp xuất sắc và được đánh giá cao. Tất cả họ đều đã dành thời gian tham gia cuộc phỏng vấn. Bây giờ, chúng ta cần đi đến thống nhất về việc nên đưa ra nhận ai vào làm. Tôi có nhận định riêng của mình, nhưng tôi cũng muốn nghe ý kiến của các bạn. Vì vậy, tất cả mọi người đều có thể để lên tiếng để chọn ra đồng nghiệp mới của các mình từ ba ứng viên này. Jeff, hãy bắt đầu từ ý kiến của anh đi.</p>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da837fa",
+          "questionNumber": 18,
+          "questionText": "Why does the speaker say, “Jeff, let’s start with you”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/60952431.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To say that he needs to speak to one of the candidates",
+              "raw": "(A) To say that he needs to speak to one of the candidates",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To request that he state the individual he supports",
+              "raw": "(B) To request that he state the individual he supports",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "To tell him that he needs to give his presentation now",
+              "raw": "(C) To tell him that he needs to give his presentation now",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To ask him to provide the results of his interview",
+              "raw": "(D) To ask him to provide the results of his interview",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nChúng ta có ba ứng viên lọt vào vòng cuối cùng là Vladimir Sobieski, Wilma Howard và Maya Freeman. Mỗi ứng viên đều có bằng cấp xuất sắc và được đánh giá cao. Tất cả họ đều đã dành thời gian tham gia cuộc phỏng vấn. Bây giờ, chúng ta cần đi đến thống nhất về việc nên đưa ra nhận ai vào làm. Tôi có nhận định riêng của mình, nhưng tôi cũng muốn nghe ý kiến của các bạn. Vì vậy, tất cả mọi người đều có thể để lên tiếng để chọn ra đồng nghiệp mới của các mình từ ba ứng viên này. Jeff, hãy bắt đầu từ ý kiến của anh đi.</p>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e5",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/45727771.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nAs you know, we offered managerial positions to three applicants last week. We received positive responses from two of them. Both Jay Carpenter and Katy McDaniel accepted our offers and will begin working here two weeks from today. As for Delilah Cohen, she demanded more money than we&rsquo;re willing to offer, so we&#39;ve retracted our offer of employment to her. We contacted Lucy van Horton this morning, and she requested one day to consider our offer. I think she&rsquo;s concerned about having to come here from across country, but I&rsquo;ve been authorized by HR to cover her moving expenses if she requests that.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Như các bạn đã biết, tuần trước chúng ta đã gửi thư mời tiếp nhận vị trí quản lý cho ba ứng viên. Hai người trong số họ đã đưa ra phản hồi tích cực. Cả Jay Carpenter và Katy McDaniel đều chấp nhận lời đề nghị của chúng ta và sẽ bắt đầu làm việc ở đây trong vòng hai tuần kể từ hôm nay. Về phần Delilah Cohen, cô ta yêu cầu mức lương cao hơn mức mà chúng ta có thể chi trả, vì vậy lời đề nghị tuyển dụng cho cô ta đã bị huỷ bỏ. Sáng nay chúng ta đã liên lạc với Lucy Van Horton và cô ấy yêu cầu một ngày để xem xét lời đề nghị cho vị trí quản lý. Tôi nghĩ cô ấy lo ngại về việc phải di chuyển xa, nhưng tôi đã được bộ phận nhân sự ủy quyền chi trả chi phí di chuyển cho cô ấy nếu cô ấy yêu cầu.</p>\n",
+      "questions": [
+        {
+          "id": "630604745948b5402da837fb",
+          "questionNumber": 19,
+          "questionText": "What job did Jay Carpenter accept?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/45727771.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Human Resources employee",
+              "raw": "(A) Human Resources employee",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Computer programmer",
+              "raw": "(B) Computer programmer",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Manager",
+              "raw": "(C) Manager",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Software designer",
+              "raw": "(D) Software designer",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Như các bạn đã biết, tuần trước chúng ta đã gửi thư mời tiếp nhận vị trí quản lý cho ba ứng viên. Hai người trong số họ đã đưa ra phản hồi tích cực. Cả Jay Carpenter và Katy McDaniel đều chấp nhận lời đề nghị của chúng ta và sẽ bắt đầu làm việc ở đây trong vòng hai tuần kể từ hôm nay. Về phần Delilah Cohen, cô ta yêu cầu mức lương cao hơn mức mà chúng ta có thể chi trả, vì vậy lời đề nghị tuyển dụng cho cô ta đã bị huỷ bỏ. Sáng nay chúng ta đã liên lạc với Lucy Van Horton và cô ấy yêu cầu một ngày để xem xét lời đề nghị cho vị trí quản lý. Tôi nghĩ cô ấy lo ngại về việc phải di chuyển xa, nhưng tôi đã được bộ phận nhân sự ủy quyền chi trả chi phí di chuyển cho cô ấy nếu cô ấy yêu cầu.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da837fc",
+          "questionNumber": 20,
+          "questionText": "Why was the offer to Delilah Cohen withdrawn?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/45727771.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She wanted a higher salary.",
+              "raw": "(A) She wanted a higher salary.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "She demanded more benefits.",
+              "raw": "(B) She demanded more benefits.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She did not want to start in two weeks.",
+              "raw": "(C) She did not want to start in two weeks.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She insisted on a bonus.",
+              "raw": "(D) She insisted on a bonus.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Như các bạn đã biết, tuần trước chúng ta đã gửi thư mời tiếp nhận vị trí quản lý cho ba ứng viên. Hai người trong số họ đã đưa ra phản hồi tích cực. Cả Jay Carpenter và Katy McDaniel đều chấp nhận lời đề nghị của chúng ta và sẽ bắt đầu làm việc ở đây trong vòng hai tuần kể từ hôm nay. Về phần Delilah Cohen, cô ta yêu cầu mức lương cao hơn mức mà chúng ta có thể chi trả, vì vậy lời đề nghị tuyển dụng cho cô ta đã bị huỷ bỏ. Sáng nay chúng ta đã liên lạc với Lucy Van Horton và cô ấy yêu cầu một ngày để xem xét lời đề nghị cho vị trí quản lý. Tôi nghĩ cô ấy lo ngại về việc phải di chuyển xa, nhưng tôi đã được bộ phận nhân sự ủy quyền chi trả chi phí di chuyển cho cô ấy nếu cô ấy yêu cầu.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da837fd",
+          "questionNumber": 21,
+          "questionText": "What can the woman do for Lucy van Horton?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/45727771.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Offer her health insurance",
+              "raw": "(A) Offer her health insurance",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Pay for her to move",
+              "raw": "(B) Pay for her to move",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Help her find housing",
+              "raw": "(C) Help her find housing",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Increase her starting salary",
+              "raw": "(D) Increase her starting salary ",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Như các bạn đã biết, tuần trước chúng ta đã gửi thư mời tiếp nhận vị trí quản lý cho ba ứng viên. Hai người trong số họ đã đưa ra phản hồi tích cực. Cả Jay Carpenter và Katy McDaniel đều chấp nhận lời đề nghị của chúng ta và sẽ bắt đầu làm việc ở đây trong vòng hai tuần kể từ hôm nay. Về phần Delilah Cohen, cô ta yêu cầu mức lương cao hơn mức mà chúng ta có thể chi trả, vì vậy lời đề nghị tuyển dụng cho cô ta đã bị huỷ bỏ. Sáng nay chúng ta đã liên lạc với Lucy Van Horton và cô ấy yêu cầu một ngày để xem xét lời đề nghị cho vị trí quản lý. Tôi nghĩ cô ấy lo ngại về việc phải di chuyển xa, nhưng tôi đã được bộ phận nhân sự ủy quyền chi trả chi phí di chuyển cho cô ấy nếu cô ấy yêu cầu.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e6",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/7784235.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/3117570.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nHello, Ms. Richardson. This is Emily Jenkins from JW Consulting. I sent you a schedule of the activities for next week&rsquo;s workshop by e-mail, but I haven&#39;t received a response yet. I&rsquo;d like you to know I&rsquo;ve decided that you&#39;re not going to give the lecture on foreign currency exchange this year. Instead, I&rsquo;d like you to speak about solving workplace problems. The reason is that Brian Andropov just informed me he can&rsquo;t participate in this year&#39;s workshop, so you&rsquo;ll be taking his place. Thus you&#39;ll be speaking on a different day than you were previously scheduled. Let me know if this is going to be a problem.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Richardson. Đây là Emily Jenkins từ JW Consulting. Tôi đã gửi cho cô lịch trình các hoạt động của hội thảo tuần tới qua email nhưng tôi vẫn chưa nhận được phản hồi từ cô. Tôi muốn cô biết rằng cô sẽ không giảng bài về trao đổi ngoại tệ trong năm nay nữa. Thay vào đó, cô sẽ nói về cách giải quyết các vấn đề tại nơi làm việc. Lý do là vì Brian Andropov vừa thông báo rằng anh ấy không thể tham gia hội thảo năm nay nên cô sẽ thế chỗ của anh ấy. Do đó, cô sẽ phát biểu vào một ngày khác chứ không phải là ngày mà chúng ta đã dự kiến trước đó. Hãy cho tôi biết nếu sự thay đổi này gây ra khó khăn cho cô.</p>\n",
+      "questions": [
+        {
+          "id": "630604745948b5402da837fe",
+          "questionNumber": 22,
+          "questionText": "Who is Ms. Jenkins?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/3117570.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/7784235.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A lecturer",
+              "raw": "(A) A lecturer",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A consultant",
+              "raw": "(B) A consultant",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A conference participant",
+              "raw": "(C) A conference participant",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A banker",
+              "raw": "(D) A banker",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Richardson. Đây là Emily Jenkins từ JW Consulting. Tôi đã gửi cho cô lịch trình các hoạt động của hội thảo tuần tới qua email nhưng tôi vẫn chưa nhận được phản hồi từ cô. Tôi muốn cô biết rằng cô sẽ không giảng bài về trao đổi ngoại tệ trong năm nay nữa. Thay vào đó, cô sẽ nói về cách giải quyết các vấn đề tại nơi làm việc. Lý do là vì Brian Andropov vừa thông báo rằng anh ấy không thể tham gia hội thảo năm nay nên cô sẽ thế chỗ của anh ấy. Do đó, cô sẽ phát biểu vào một ngày khác chứ không phải là ngày mà chúng ta đã dự kiến trước đó. Hãy cho tôi biết nếu sự thay đổi này gây ra khó khăn cho cô.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da837ff",
+          "questionNumber": 23,
+          "questionText": "Look at the graphic. When is Ms. Richardson going to give her lecture?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/3117570.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/7784235.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "On Monday",
+              "raw": "(A) On Monday",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "On Tuesday",
+              "raw": "(B) On Tuesday",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "On Wednesday",
+              "raw": "(C) On Wednesday",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "On Thursday",
+              "raw": "(D) On Thursday",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Richardson. Đây là Emily Jenkins từ JW Consulting. Tôi đã gửi cho cô lịch trình các hoạt động của hội thảo tuần tới qua email nhưng tôi vẫn chưa nhận được phản hồi từ cô. Tôi muốn cô biết rằng cô sẽ không giảng bài về trao đổi ngoại tệ trong năm nay nữa. Thay vào đó, cô sẽ nói về cách giải quyết các vấn đề tại nơi làm việc. Lý do là vì Brian Andropov vừa thông báo rằng anh ấy không thể tham gia hội thảo năm nay nên cô sẽ thế chỗ của anh ấy. Do đó, cô sẽ phát biểu vào một ngày khác chứ không phải là ngày mà chúng ta đã dự kiến trước đó. Hãy cho tôi biết nếu sự thay đổi này gây ra khó khăn cho cô.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da83800",
+          "questionNumber": 24,
+          "questionText": "What did Brian Andropov do?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/3117570.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/7784235.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Paid to attend a conference",
+              "raw": "(A) Paid to attend a conference",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Organized a conference",
+              "raw": "(B) Organized a conference",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Agreed to speak at a conference",
+              "raw": "(C) Agreed to speak at a conference",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Ended his role in a conference",
+              "raw": "(D) Ended his role in a conference",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> Xin chào cô Richardson. Đây là Emily Jenkins từ JW Consulting. Tôi đã gửi cho cô lịch trình các hoạt động của hội thảo tuần tới qua email nhưng tôi vẫn chưa nhận được phản hồi từ cô. Tôi muốn cô biết rằng cô sẽ không giảng bài về trao đổi ngoại tệ trong năm nay nữa. Thay vào đó, cô sẽ nói về cách giải quyết các vấn đề tại nơi làm việc. Lý do là vì Brian Andropov vừa thông báo rằng anh ấy không thể tham gia hội thảo năm nay nên cô sẽ thế chỗ của anh ấy. Do đó, cô sẽ phát biểu vào một ngày khác chứ không phải là ngày mà chúng ta đã dự kiến trước đó. Hãy cho tôi biết nếu sự thay đổi này gây ra khó khăn cho cô.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e7",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/26268781.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33202264.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong></p>\n<p>Welcome to McMaster&rsquo;s Farm. We have one of the largest farms in the area. We grow crops and raise animals here on the farm. As you can see in the fields directly behind me, the corn is growing high and is almost ready to be harvested. The fields in the east are full of grass. We&rsquo;re going to go horseback riding in them a few minutes from now. To the east are where the sheep graze during the day. And right behind you is the barn, which you can see clearly. The field in back of it currently has some tomatoes and potatoes growing in it.<br />\n&nbsp;</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong></p> <p>Chào mừng đến với trang trại McMaster. Chúng tôi có một trong những nông trại lớn nhất trong khu vực. Chúng tôi trồng trọt và chăn nuôi ở đây. Như các bạn có thể thấy, trên cánh đồng ngay phía sau tôi, ngô đang mọc cao và gần như đã sẵn sàng để được thu hoạch. Cánh đồng đầy cỏ ở phía đông chính là nơi mà chúng ta sẽ trải nghiệm hoạt động cưỡi ngựa trong vài phút nữa. Đi tiếp về phía đông, có thể thấy nơi mà đàn cừu gặm cỏ vào ban ngày. Và ngay phía sau các bạn là nhà kho, các bạn có thể nhìn thấy nó rất rõ ràng. Cánh đồng phía sau hiện đang trồng một số giống cây cà chua và khoai tây.<br />\n",
+      "questions": [
+        {
+          "id": "630604745948b5402da83801",
+          "questionNumber": 25,
+          "questionText": "Who is the speaker?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33202264.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/26268781.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A tour guide",
+              "raw": "(A) A tour guide",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A teacher",
+              "raw": "(B) A teacher",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A farmer",
+              "raw": "(C) A farmer",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A horse trainer",
+              "raw": "(D) A horse trainer",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong></p> <p>Chào mừng đến với trang trại McMaster. Chúng tôi có một trong những nông trại lớn nhất trong khu vực. Chúng tôi trồng trọt và chăn nuôi ở đây. Như các bạn có thể thấy, trên cánh đồng ngay phía sau tôi, ngô đang mọc cao và gần như đã sẵn sàng để được thu hoạch. Cánh đồng đầy cỏ ở phía đông chính là nơi mà chúng ta sẽ trải nghiệm hoạt động cưỡi ngựa trong vài phút nữa. Đi tiếp về phía đông, có thể thấy nơi mà đàn cừu gặm cỏ vào ban ngày. Và ngay phía sau các bạn là nhà kho, các bạn có thể nhìn thấy nó rất rõ ràng. Cánh đồng phía sau hiện đang trồng một số giống cây cà chua và khoai tây.<br />\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da83802",
+          "questionNumber": 26,
+          "questionText": "What does the speaker indicate about the corn?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33202264.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/26268781.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It is growing poorly.",
+              "raw": "(A) It is growing poorly.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "It will be picked soon.",
+              "raw": "(B) It will be picked soon.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "It has been harvested.",
+              "raw": "(C) It has been harvested.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "It was recently planted.",
+              "raw": "(D) It was recently planted.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong></p> <p>Chào mừng đến với trang trại McMaster. Chúng tôi có một trong những nông trại lớn nhất trong khu vực. Chúng tôi trồng trọt và chăn nuôi ở đây. Như các bạn có thể thấy, trên cánh đồng ngay phía sau tôi, ngô đang mọc cao và gần như đã sẵn sàng để được thu hoạch. Cánh đồng đầy cỏ ở phía đông chính là nơi mà chúng ta sẽ trải nghiệm hoạt động cưỡi ngựa trong vài phút nữa. Đi tiếp về phía đông, có thể thấy nơi mà đàn cừu gặm cỏ vào ban ngày. Và ngay phía sau các bạn là nhà kho, các bạn có thể nhìn thấy nó rất rõ ràng. Cánh đồng phía sau hiện đang trồng một số giống cây cà chua và khoai tây.<br />\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da83803",
+          "questionNumber": 27,
+          "questionText": "Look at the graphic. In which field can people ride horses?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/33202264.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/26268781.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Number 1",
+              "raw": "(A) Number 1",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Number 2",
+              "raw": "(B) Number 2",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Number 3",
+              "raw": "(C) Number 3",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Number 4",
+              "raw": "(D) Number 4",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong></p> <p>Chào mừng đến với trang trại McMaster. Chúng tôi có một trong những nông trại lớn nhất trong khu vực. Chúng tôi trồng trọt và chăn nuôi ở đây. Như các bạn có thể thấy, trên cánh đồng ngay phía sau tôi, ngô đang mọc cao và gần như đã sẵn sàng để được thu hoạch. Cánh đồng đầy cỏ ở phía đông chính là nơi mà chúng ta sẽ trải nghiệm hoạt động cưỡi ngựa trong vài phút nữa. Đi tiếp về phía đông, có thể thấy nơi mà đàn cừu gặm cỏ vào ban ngày. Và ngay phía sau các bạn là nhà kho, các bạn có thể nhìn thấy nó rất rõ ràng. Cánh đồng phía sau hiện đang trồng một số giống cây cà chua và khoai tây.<br />\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "630604735948b5402da837e8",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/12482634.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/32797518.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong></p>\n<p>Hello. This is Mark Kelly. I&rsquo;m calling because I was overcharged on my phone bill one month. This summer, I visited Europe for two and a half months and didn&rsquo;t take my phone. Before leaving in June, I used my phone a few times, but I didn&rsquo;t use it in either July or August. I expected only to pay the basic rate 50 dollars each month, but I somehow got charged extra money. I don&rsquo;t believe I should pay that since I didn&rsquo;t start using my phone again until September. Would you please call me back at 504-5495 to let me know what&rsquo;s going on?</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong></p> <p>Xin chào. Đây là Mark Kelly. Tôi gọi điện vì hóa đơn điện thoại của tôi đã bị tính quá mức trong một tháng. Mùa hè này, tôi đã đến thăm châu Âu trong hai tháng rưỡi và không mang theo điện thoại. Trước khi rời đi vào tháng 6, tôi đã sử dụng điện thoại một vài lần nhưng cả tháng 7 hoặc tháng 8 thì tôi không hề sử dụng nó. Tôi ước tính rằng mình chỉ phải trả mức cơ bản là 50 đô la mỗi tháng, nhưng bằng cách nào đó tôi lại bị tính thêm tiền. Tôi không nghĩ rằng mình nên trả số tiền đó vì tôi chỉ mới bắt đầu sử dụng lại điện thoại của mình vào tháng 9 mà thôi. Xin vui lòng gọi lại cho tôi theo số 504-5495 để cho tôi biết vấn đề đang xảy ra với phí điện thoại của tôi, được chứ?</p>\n",
+      "questions": [
+        {
+          "id": "630604745948b5402da83804",
+          "questionNumber": 28,
+          "questionText": "What is the purpose of the speaker’s call?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/32797518.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/12482634.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To cancel a service",
+              "raw": "(A) To cancel a service",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To file a complaint",
+              "raw": "(B) To file a complaint",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "To pay his phone bill",
+              "raw": "(C) To pay his phone bill",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To request a new service",
+              "raw": "(D) To request a new service",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong></p> <p>Xin chào. Đây là Mark Kelly. Tôi gọi điện vì hóa đơn điện thoại của tôi đã bị tính quá mức trong một tháng. Mùa hè này, tôi đã đến thăm châu Âu trong hai tháng rưỡi và không mang theo điện thoại. Trước khi rời đi vào tháng 6, tôi đã sử dụng điện thoại một vài lần nhưng cả tháng 7 hoặc tháng 8 thì tôi không hề sử dụng nó. Tôi ước tính rằng mình chỉ phải trả mức cơ bản là 50 đô la mỗi tháng, nhưng bằng cách nào đó tôi lại bị tính thêm tiền. Tôi không nghĩ rằng mình nên trả số tiền đó vì tôi chỉ mới bắt đầu sử dụng lại điện thoại của mình vào tháng 9 mà thôi. Xin vui lòng gọi lại cho tôi theo số 504-5495 để cho tôi biết vấn đề đang xảy ra với phí điện thoại của tôi, được chứ?</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da83805",
+          "questionNumber": 29,
+          "questionText": "What does the speaker say that he did?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/32797518.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/12482634.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Took his phone on vacation with him",
+              "raw": "(A) Took his phone on vacation with him",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Canceled his service a few months ago",
+              "raw": "(B) Canceled his service a few months ago",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Traveled abroad for a couple of months",
+              "raw": "(C) Traveled abroad for a couple of months",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Called foreign countries with his phone",
+              "raw": "(D) Called foreign countries with his phone",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong></p> <p>Xin chào. Đây là Mark Kelly. Tôi gọi điện vì hóa đơn điện thoại của tôi đã bị tính quá mức trong một tháng. Mùa hè này, tôi đã đến thăm châu Âu trong hai tháng rưỡi và không mang theo điện thoại. Trước khi rời đi vào tháng 6, tôi đã sử dụng điện thoại một vài lần nhưng cả tháng 7 hoặc tháng 8 thì tôi không hề sử dụng nó. Tôi ước tính rằng mình chỉ phải trả mức cơ bản là 50 đô la mỗi tháng, nhưng bằng cách nào đó tôi lại bị tính thêm tiền. Tôi không nghĩ rằng mình nên trả số tiền đó vì tôi chỉ mới bắt đầu sử dụng lại điện thoại của mình vào tháng 9 mà thôi. Xin vui lòng gọi lại cho tôi theo số 504-5495 để cho tôi biết vấn đề đang xảy ra với phí điện thoại của tôi, được chứ?</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "630604745948b5402da83806",
+          "questionNumber": 30,
+          "questionText": "Look at the graphic. In which month does the speaker believe he was charged too much?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/32797518.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/25/12482634.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "May",
+              "raw": "(A) May",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "June",
+              "raw": "(B) June",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "July",
+              "raw": "(C) July",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "August",
+              "raw": "(D) August",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong></p> <p>Xin chào. Đây là Mark Kelly. Tôi gọi điện vì hóa đơn điện thoại của tôi đã bị tính quá mức trong một tháng. Mùa hè này, tôi đã đến thăm châu Âu trong hai tháng rưỡi và không mang theo điện thoại. Trước khi rời đi vào tháng 6, tôi đã sử dụng điện thoại một vài lần nhưng cả tháng 7 hoặc tháng 8 thì tôi không hề sử dụng nó. Tôi ước tính rằng mình chỉ phải trả mức cơ bản là 50 đô la mỗi tháng, nhưng bằng cách nào đó tôi lại bị tính thêm tiền. Tôi không nghĩ rằng mình nên trả số tiền đó vì tôi chỉ mới bắt đầu sử dụng lại điện thoại của mình vào tháng 9 mà thôi. Xin vui lòng gọi lại cho tôi theo số 504-5495 để cho tôi biết vấn đề đang xảy ra với phí điện thoại của tôi, được chứ?</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    }
+  ]
+}

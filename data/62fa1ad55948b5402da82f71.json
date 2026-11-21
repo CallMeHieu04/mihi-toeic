@@ -1,0 +1,1594 @@
+{
+  "topicId": "62fa1ad55948b5402da82f71",
+  "title": "Part 3: Conversations - Test 13",
+  "totalCards": 13,
+  "totalQuestions": 39,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fdd",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/6339034.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: We&rsquo;ve finally finished rearranging the desks in the office, Mr. Moreno. Does everything look satisfactory?<br />\nM: The way you set up everything is fine. It appears as though you&rsquo;ve made efficient use of space. In fact, there&rsquo;s a large area over by the window that doesn&rsquo;t have any desks or equipment in it. What are your plans for utilizing that space?<br />\nW: We intend to set up some cubicles there next week. When the summer interns arrive, that&rsquo;s where they&rsquo;re going to be put.<br />\nM: Good thinking. We didn&rsquo;t have a place for them last year, and they got in everyone&#39;s way.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Cuối cùng chúng tôi cũng sắp xếp lại xong các bàn làm việc trong văn phòng, thưa ông Moreno. Mọi thứ có vẻ ổn chứ?<br />\nM: Cách cô sắp xếp mọi thứ đều ổn. Có vẻ như cô đã sử dụng không gian hiệu quả. Trên thực tế, có một khu vực rộng lớn bên cạnh cửa sổ không có bàn làm việc hay thiết bị nào. Cô có kế hoạch gì để sử dụng không gian đó không?<br />\nW: Chúng tôi dự định sẽ sắp xếp một số bàn ở đó vào tuần tới. Khi các thực tập sinh mùa hè đến, họ sẽ ngồi ở đó.<br />\nM: Ý tưởng hay đấy. Năm ngoái chúng ta không có chỗ cho các thực tập sinh và họ đã ngồi cản lối đi của mọi người.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da82fea",
+          "questionNumber": 1,
+          "questionText": "What are the speakers mainly discussing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/6339034.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The new arrangement of the office",
+              "raw": "(A) The new arrangement of the office",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "What the interns will be doing",
+              "raw": "(B) What the interns will be doing",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Some office equipment that they need",
+              "raw": "(C) Some office equipment that they need",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Their plans for the summer",
+              "raw": "(D) Their plans for the summer",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cuối cùng chúng tôi cũng sắp xếp lại xong các bàn làm việc trong văn phòng, thưa ông Moreno. Mọi thứ có vẻ ổn chứ?<br />\nM: Cách cô sắp xếp mọi thứ đều ổn. Có vẻ như cô đã sử dụng không gian hiệu quả. Trên thực tế, có một khu vực rộng lớn bên cạnh cửa sổ không có bàn làm việc hay thiết bị nào. Cô có kế hoạch gì để sử dụng không gian đó không?<br />\nW: Chúng tôi dự định sẽ sắp xếp một số bàn ở đó vào tuần tới. Khi các thực tập sinh mùa hè đến, họ sẽ ngồi ở đó.<br />\nM: Ý tưởng hay đấy. Năm ngoái chúng ta không có chỗ cho các thực tập sinh và họ đã ngồi cản lối đi của mọi người.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82feb",
+          "questionNumber": 2,
+          "questionText": "What will the woman do with the area by the window?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/6339034.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Move her desk there",
+              "raw": "(A) Move her desk there",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Install some computers in it",
+              "raw": "(B) Install some computers in it",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Set up the copier there",
+              "raw": "(C) Set up the copier there",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Put some cubicles in it",
+              "raw": "(D) Put some cubicles in it",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cuối cùng chúng tôi cũng sắp xếp lại xong các bàn làm việc trong văn phòng, thưa ông Moreno. Mọi thứ có vẻ ổn chứ?<br />\nM: Cách cô sắp xếp mọi thứ đều ổn. Có vẻ như cô đã sử dụng không gian hiệu quả. Trên thực tế, có một khu vực rộng lớn bên cạnh cửa sổ không có bàn làm việc hay thiết bị nào. Cô có kế hoạch gì để sử dụng không gian đó không?<br />\nW: Chúng tôi dự định sẽ sắp xếp một số bàn ở đó vào tuần tới. Khi các thực tập sinh mùa hè đến, họ sẽ ngồi ở đó.<br />\nM: Ý tưởng hay đấy. Năm ngoái chúng ta không có chỗ cho các thực tập sinh và họ đã ngồi cản lối đi của mọi người.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82fec",
+          "questionNumber": 3,
+          "questionText": "According to the man, what happened to the interns last year?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/6339034.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "They interfered with other employees.",
+              "raw": "(A) They interfered with other employees.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "They all had their own desks.",
+              "raw": "(B) They all had their own desks.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "They performed their duties well.",
+              "raw": "(C) They performed their duties well.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "They were used to make copies.",
+              "raw": "(D) They were used to make copies.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cuối cùng chúng tôi cũng sắp xếp lại xong các bàn làm việc trong văn phòng, thưa ông Moreno. Mọi thứ có vẻ ổn chứ?<br />\nM: Cách cô sắp xếp mọi thứ đều ổn. Có vẻ như cô đã sử dụng không gian hiệu quả. Trên thực tế, có một khu vực rộng lớn bên cạnh cửa sổ không có bàn làm việc hay thiết bị nào. Cô có kế hoạch gì để sử dụng không gian đó không?<br />\nW: Chúng tôi dự định sẽ sắp xếp một số bàn ở đó vào tuần tới. Khi các thực tập sinh mùa hè đến, họ sẽ ngồi ở đó.<br />\nM: Ý tưởng hay đấy. Năm ngoái chúng ta không có chỗ cho các thực tập sinh và họ đã ngồi cản lối đi của mọi người.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fde",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/35871286.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Tina, these contracts have to be delivered to our firm&#39;s attorney in his office on the other side of town no later than 4 P.M. Can you take the bus there to deliver them?<br />\nW: I&rsquo;d love to assist you, Steve, but Ms. Parker insisted that I finish working on the presentation she&rsquo;s giving tomorrow morning, so I can&rsquo;t leave the office.<br />\nM: Well, I&rsquo;m meeting clients all day. How do you suggest we get the contracts to Mr. Murphy?<br />\nW: What about trying the local courier service? It guarantees two-hour delivery of packages anywhere in the city limits. Why don&#39;t I call and arrange a pickup?</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Tina, những hợp đồng này phải được chuyển đến văn phòng luật sư của công ty chúng ta ở phía bên kia thị trấn chậm nhất là trước 4 giờ chiều. Cô có thể đi xe buýt đến đó để giao chúng không?<br />\nW: Tôi rất muốn giúp anh, Steve, nhưng cô Parker khăng khăng rằng tôi phải hoàn thành bài thuyết trình mà cô ấy sẽ trình bày vào sáng mai, vì vậy tôi không thể rời khỏi văn phòng.<br />\nM: Chà, tôi thì phải gặp khách hàng cả ngày. Cô có gợi ý nào về cách chuyển hợp đồng đến cho ông Murphy không?<br />\nW: Hay là thử dịch vụ chuyển phát nhanh địa phương? Họ đảm bảo giao hàng trong vòng hai giờ đến bất kỳ nơi nào trong phạm vi thành phố. Tôi sẽ gọi điện và sắp xếp dịch vụ nhận hàng tận nơi, được chứ?</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da82fed",
+          "questionNumber": 4,
+          "questionText": "What does the man ask the woman to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/35871286.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Sign a contract",
+              "raw": "(A) Sign a contract",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Work on a presentation",
+              "raw": "(B) Work on a presentation",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Deliver some documents",
+              "raw": "(C) Deliver some documents",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Speak with a client",
+              "raw": "(D) Speak with a client",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Tina, những hợp đồng này phải được chuyển đến văn phòng luật sư của công ty chúng ta ở phía bên kia thị trấn chậm nhất là trước 4 giờ chiều. Cô có thể đi xe buýt đến đó để giao chúng không?<br />\nW: Tôi rất muốn giúp anh, Steve, nhưng cô Parker khăng khăng rằng tôi phải hoàn thành bài thuyết trình mà cô ấy sẽ trình bày vào sáng mai, vì vậy tôi không thể rời khỏi văn phòng.<br />\nM: Chà, tôi thì phải gặp khách hàng cả ngày. Cô có gợi ý nào về cách chuyển hợp đồng đến cho ông Murphy không?<br />\nW: Hay là thử dịch vụ chuyển phát nhanh địa phương? Họ đảm bảo giao hàng trong vòng hai giờ đến bất kỳ nơi nào trong phạm vi thành phố. Tôi sẽ gọi điện và sắp xếp dịch vụ nhận hàng tận nơi, được chứ?</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82fee",
+          "questionNumber": 5,
+          "questionText": "Who is Mr. Murphy?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/35871286.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A deliveryman",
+              "raw": "(A) A deliveryman",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A lawyer",
+              "raw": "(B) A lawyer",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A client",
+              "raw": "(C) A client",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A presenter",
+              "raw": "(D) A presenter",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Tina, những hợp đồng này phải được chuyển đến văn phòng luật sư của công ty chúng ta ở phía bên kia thị trấn chậm nhất là trước 4 giờ chiều. Cô có thể đi xe buýt đến đó để giao chúng không?<br />\nW: Tôi rất muốn giúp anh, Steve, nhưng cô Parker khăng khăng rằng tôi phải hoàn thành bài thuyết trình mà cô ấy sẽ trình bày vào sáng mai, vì vậy tôi không thể rời khỏi văn phòng.<br />\nM: Chà, tôi thì phải gặp khách hàng cả ngày. Cô có gợi ý nào về cách chuyển hợp đồng đến cho ông Murphy không?<br />\nW: Hay là thử dịch vụ chuyển phát nhanh địa phương? Họ đảm bảo giao hàng trong vòng hai giờ đến bất kỳ nơi nào trong phạm vi thành phố. Tôi sẽ gọi điện và sắp xếp dịch vụ nhận hàng tận nơi, được chứ?</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82fef",
+          "questionNumber": 6,
+          "questionText": "What does the woman suggest?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/35871286.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Requesting an extension",
+              "raw": "(A) Requesting an extension",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Using a delivery company",
+              "raw": "(B) Using a delivery company",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Renegotiating with a client",
+              "raw": "(C) Renegotiating with a client",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Sending some items by fax",
+              "raw": "(D) Sending some items by fax",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Tina, những hợp đồng này phải được chuyển đến văn phòng luật sư của công ty chúng ta ở phía bên kia thị trấn chậm nhất là trước 4 giờ chiều. Cô có thể đi xe buýt đến đó để giao chúng không?<br />\nW: Tôi rất muốn giúp anh, Steve, nhưng cô Parker khăng khăng rằng tôi phải hoàn thành bài thuyết trình mà cô ấy sẽ trình bày vào sáng mai, vì vậy tôi không thể rời khỏi văn phòng.<br />\nM: Chà, tôi thì phải gặp khách hàng cả ngày. Cô có gợi ý nào về cách chuyển hợp đồng đến cho ông Murphy không?<br />\nW: Hay là thử dịch vụ chuyển phát nhanh địa phương? Họ đảm bảo giao hàng trong vòng hai giờ đến bất kỳ nơi nào trong phạm vi thành phố. Tôi sẽ gọi điện và sắp xếp dịch vụ nhận hàng tận nơi, được chứ?</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fdf",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/95683812.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: What was your opinion of the items delivered by Lewis Manufacturing? Was the quality of the products sufficient?<br />\nM: Even better, it was outstanding. The workers who used those products to assemble ours uniformly praised them for being engineered so well. We&rsquo;d better come to an agreement with Lewis to supply us with products on a weekly basis. Would you mind working on that?<br />\nW: Not at all. I&#39;ll give Jeff Lambert over there a call as soon as lunch ends. We used to be colleagues at another firm, so I&rsquo;ll see if he can get us a good deal.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br /> \nW: Anh nghĩ sao về các mặt hàng do Lewis Manufacturing cung cấp? Chất lượng sản phẩm có đạt yêu cầu không?<br />\nM: Thậm chí còn tuyệt hơn thế, chúng rất tuyệt. Những công nhân của dây chuyền lắp ráp sản phẩm bên chúng ta đều khen ngợi rằng các sản phẩm của bên đó được thiết kế rất tốt. Tốt hơn là chúng ta nên đạt được thỏa thuận với Lewis để cung cấp sản phẩm hàng tuần. Cô có thể làm việc với họ về vấn đề này không?<br />\nW: Được. Tôi sẽ gọi cho ông Jeff Lambert bên đó ngay sau khi bữa trưa kết thúc. Chúng tôi từng là đồng nghiệp ở một công ty khác, vì vậy tôi sẽ xem liệu ông ấy có thể giúp chúng ta có được một thỏa thuận tốt hay không.</p>\n ",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da82ff0",
+          "questionNumber": 7,
+          "questionText": "What are the man and the woman talking about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/95683812.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "When the company’s products will be released",
+              "raw": "(A) When the company’s products will be released",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The results of a survey taken of some workers",
+              "raw": "(B) The results of a survey taken of some workers",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "The prices of items that were recently bought",
+              "raw": "(C) The prices of items that were recently bought",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Some products purchased from another company",
+              "raw": "(D) Some products purchased from another company",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> \nW: Anh nghĩ sao về các mặt hàng do Lewis Manufacturing cung cấp? Chất lượng sản phẩm có đạt yêu cầu không?<br />\nM: Thậm chí còn tuyệt hơn thế, chúng rất tuyệt. Những công nhân của dây chuyền lắp ráp sản phẩm bên chúng ta đều khen ngợi rằng các sản phẩm của bên đó được thiết kế rất tốt. Tốt hơn là chúng ta nên đạt được thỏa thuận với Lewis để cung cấp sản phẩm hàng tuần. Cô có thể làm việc với họ về vấn đề này không?<br />\nW: Được. Tôi sẽ gọi cho ông Jeff Lambert bên đó ngay sau khi bữa trưa kết thúc. Chúng tôi từng là đồng nghiệp ở một công ty khác, vì vậy tôi sẽ xem liệu ông ấy có thể giúp chúng ta có được một thỏa thuận tốt hay không.</p>\n ",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ff1",
+          "questionNumber": 8,
+          "questionText": "What does the man tell the woman to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/95683812.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Make a deal with a supplier",
+              "raw": "(A) Make a deal with a supplier",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Speak with some assembly line workers",
+              "raw": "(B) Speak with some assembly line workers",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Write a letter to Lewis Manufacturing",
+              "raw": "(C) Write a letter to Lewis Manufacturing",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Visit a client’s factory",
+              "raw": "(D) Visit a client’s factory",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> \nW: Anh nghĩ sao về các mặt hàng do Lewis Manufacturing cung cấp? Chất lượng sản phẩm có đạt yêu cầu không?<br />\nM: Thậm chí còn tuyệt hơn thế, chúng rất tuyệt. Những công nhân của dây chuyền lắp ráp sản phẩm bên chúng ta đều khen ngợi rằng các sản phẩm của bên đó được thiết kế rất tốt. Tốt hơn là chúng ta nên đạt được thỏa thuận với Lewis để cung cấp sản phẩm hàng tuần. Cô có thể làm việc với họ về vấn đề này không?<br />\nW: Được. Tôi sẽ gọi cho ông Jeff Lambert bên đó ngay sau khi bữa trưa kết thúc. Chúng tôi từng là đồng nghiệp ở một công ty khác, vì vậy tôi sẽ xem liệu ông ấy có thể giúp chúng ta có được một thỏa thuận tốt hay không.</p>\n ",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ff2",
+          "questionNumber": 9,
+          "questionText": "What does the woman indicate about Jeff Lambert?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/95683812.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She is acquainted with him.",
+              "raw": "(A) She is acquainted with him.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "He is in upper management.",
+              "raw": "(B) He is in upper management.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "He has a degree in engineering.",
+              "raw": "(C) He has a degree in engineering. ",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She enjoys collaborating with him.",
+              "raw": "(D) She enjoys collaborating with him.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br /> \nW: Anh nghĩ sao về các mặt hàng do Lewis Manufacturing cung cấp? Chất lượng sản phẩm có đạt yêu cầu không?<br />\nM: Thậm chí còn tuyệt hơn thế, chúng rất tuyệt. Những công nhân của dây chuyền lắp ráp sản phẩm bên chúng ta đều khen ngợi rằng các sản phẩm của bên đó được thiết kế rất tốt. Tốt hơn là chúng ta nên đạt được thỏa thuận với Lewis để cung cấp sản phẩm hàng tuần. Cô có thể làm việc với họ về vấn đề này không?<br />\nW: Được. Tôi sẽ gọi cho ông Jeff Lambert bên đó ngay sau khi bữa trưa kết thúc. Chúng tôi từng là đồng nghiệp ở một công ty khác, vì vậy tôi sẽ xem liệu ông ấy có thể giúp chúng ta có được một thỏa thuận tốt hay không.</p>\n ",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe0",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/56258871.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nM: Hello. My name is Harold Reynolds, and I&rsquo;m calling regarding the room service bill I received for lunch this afternoon. I believe there was an error.<br />\nW: I&rsquo;m very sorry to hear that, Mr. Reynolds. Could you please tell me what the problem is?<br />\nM: Of course. I ordered a steak sandwich, some fries, and a can of cola, but the price on my receipt reads $50. That can&rsquo;t possibly be right, can it?<br />\nW: It most definitely isn&rsquo;t, sir. You were charged too much for your meal. I&#39;ll contact the kitchen immediately and have someone there send you a new bill in just a few minutes.</p> \n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Tôi tên là Harold Reynolds, và tôi gọi điện vì vấn đề liên quan đến hóa đơn dịch vụ phòng tôi nhận được cho bữa trưa chiều nay. Tôi tin rằng đã có lỗi xảy ra.<br />\nW: Tôi rất tiếc khi nghe điều đó, ông Reynolds. Ông có thể vui lòng cho tôi biết vấn đề là gì không?<br />\nM: Tất nhiên rồi. Tôi đã gọi một chiếc bánh sandwich bít tết, một ít khoai tây chiên và một lon cola, nhưng giá trên hóa đơn của tôi ghi là 50 đô la. Giá đó không thể nào đúng được, phải không?<br />\nW: Chắc chắn là không, thưa ông. Ông đã bị tính quá nhiều tiền cho bữa ăn của mình. Tôi sẽ liên hệ với bộ phận bếp ngay lập tức và sẽ có người gửi cho ông một hóa đơn mới chỉ trong vài phút nữa.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da82ff3",
+          "questionNumber": 10,
+          "questionText": "Where does the woman mostly likely work?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/56258871.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At a restaurant",
+              "raw": "(A) At a restaurant",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "At a hotel",
+              "raw": "(B) At a hotel",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "At a caterer",
+              "raw": "(C) At a caterer",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "At a supermarket",
+              "raw": "(D) At a supermarket",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Tôi tên là Harold Reynolds, và tôi gọi điện vì vấn đề liên quan đến hóa đơn dịch vụ phòng tôi nhận được cho bữa trưa chiều nay. Tôi tin rằng đã có lỗi xảy ra.<br />\nW: Tôi rất tiếc khi nghe điều đó, ông Reynolds. Ông có thể vui lòng cho tôi biết vấn đề là gì không?<br />\nM: Tất nhiên rồi. Tôi đã gọi một chiếc bánh sandwich bít tết, một ít khoai tây chiên và một lon cola, nhưng giá trên hóa đơn của tôi ghi là 50 đô la. Giá đó không thể nào đúng được, phải không?<br />\nW: Chắc chắn là không, thưa ông. Ông đã bị tính quá nhiều tiền cho bữa ăn của mình. Tôi sẽ liên hệ với bộ phận bếp ngay lập tức và sẽ có người gửi cho ông một hóa đơn mới chỉ trong vài phút nữa.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ff4",
+          "questionNumber": 11,
+          "questionText": "What problem does the man mention?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/56258871.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He was overcharged for a meal.",
+              "raw": "(A) He was overcharged for a meal.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Some food he ordered never arrived.",
+              "raw": "(B) Some food he ordered never arrived.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "His food was prepared improperly.",
+              "raw": "(C) His food was prepared improperly.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The food he bought was spoiled.",
+              "raw": "(D) The food he bought was spoiled.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Tôi tên là Harold Reynolds, và tôi gọi điện vì vấn đề liên quan đến hóa đơn dịch vụ phòng tôi nhận được cho bữa trưa chiều nay. Tôi tin rằng đã có lỗi xảy ra.<br />\nW: Tôi rất tiếc khi nghe điều đó, ông Reynolds. Ông có thể vui lòng cho tôi biết vấn đề là gì không?<br />\nM: Tất nhiên rồi. Tôi đã gọi một chiếc bánh sandwich bít tết, một ít khoai tây chiên và một lon cola, nhưng giá trên hóa đơn của tôi ghi là 50 đô la. Giá đó không thể nào đúng được, phải không?<br />\nW: Chắc chắn là không, thưa ông. Ông đã bị tính quá nhiều tiền cho bữa ăn của mình. Tôi sẽ liên hệ với bộ phận bếp ngay lập tức và sẽ có người gửi cho ông một hóa đơn mới chỉ trong vài phút nữa.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ff5",
+          "questionNumber": 12,
+          "questionText": "What will the woman probably do next?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/56258871.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Make a telephone call",
+              "raw": "(A) Make a telephone call",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Speak with a chef",
+              "raw": "(B) Speak with a chef",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Prepare a new bill for the man",
+              "raw": "(C) Prepare a new bill for the man",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Refund the man’s money",
+              "raw": "(D) Refund the man’s money",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Tôi tên là Harold Reynolds, và tôi gọi điện vì vấn đề liên quan đến hóa đơn dịch vụ phòng tôi nhận được cho bữa trưa chiều nay. Tôi tin rằng đã có lỗi xảy ra.<br />\nW: Tôi rất tiếc khi nghe điều đó, ông Reynolds. Ông có thể vui lòng cho tôi biết vấn đề là gì không?<br />\nM: Tất nhiên rồi. Tôi đã gọi một chiếc bánh sandwich bít tết, một ít khoai tây chiên và một lon cola, nhưng giá trên hóa đơn của tôi ghi là 50 đô la. Giá đó không thể nào đúng được, phải không?<br />\nW: Chắc chắn là không, thưa ông. Ông đã bị tính quá nhiều tiền cho bữa ăn của mình. Tôi sẽ liên hệ với bộ phận bếp ngay lập tức và sẽ có người gửi cho ông một hóa đơn mới chỉ trong vài phút nữa.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe1",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/84462602.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nM: Hi. I&#39;d like two tickets for the 5:30 showing of African Adventure.<br />\nW: I regret to say that there aren&rsquo;t any tickets available at that time.<br />\nM: Hmm... Well, uh, what about the 7:00 show then?<br />\nW: You&rsquo;re out of luck. Sorry about that.<br />\nM: Are there any times today when it&rsquo;s possible to see the film?<br />\nW: Let me check... Yes, there are a few tickets left for the 4:00 show, but those are all single seats, so you can&#39;t sit together with your companion. Or you could get two tickets next to each other if you watch the show at 9:15.<br />\nM: I&rsquo;ll take two tickets for the late show then. I don&rsquo;t want to sit apart from my friend.<br />\nW: Great. That will be $22 for two tickets.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Tôi muốn mua hai vé cho suất chiếu phim African Adventure lúc 5:30.<br />\nW: Tôi rất tiếc phải nói rằng hiện tại không còn vé nào nữa.<br />\nM: Ừm... Vậy còn suất chiếu lúc 7:00 thì sao?<br />\nW: Anh không may mắn rồi. Rất tiếc là không còn vé.<br />\nM: Vậy hôm nay còn suất chiếu nào cho bộ phim đó không?<br />\nW: Để tôi kiểm tra... Có, còn một vài vé cho suất chiếu lúc 4:00, nhưng tất cả đều là ghế đơn, vì vậy anh sẽ không thể ngồi cùng với người đi cùng. Hoặc anh có thể mua hai vé cạnh nhau nếu anh xem suất chiếu lúc 9:15.<br />\nM: Vậy thì tôi sẽ mua hai vé cho buổi chiếu muộn. Tôi không muốn ngồi xa bạn mình.<br />\nW: Được. Giá cho hai vé là 22 đô la.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da82ff6",
+          "questionNumber": 13,
+          "questionText": "Where does the conversation take place?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/84462602.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "On the telephone",
+              "raw": "(A) On the telephone",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "At a box office",
+              "raw": "(B) At a box office",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "On a stage",
+              "raw": "(C) On a stage",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "At a concession stand",
+              "raw": "(D) At a concession stand",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Tôi muốn mua hai vé cho suất chiếu phim African Adventure lúc 5:30.<br />\nW: Tôi rất tiếc phải nói rằng hiện tại không còn vé nào nữa.<br />\nM: Ừm... Vậy còn suất chiếu lúc 7:00 thì sao?<br />\nW: Anh không may mắn rồi. Rất tiếc là không còn vé.<br />\nM: Vậy hôm nay còn suất chiếu nào cho bộ phim đó không?<br />\nW: Để tôi kiểm tra... Có, còn một vài vé cho suất chiếu lúc 4:00, nhưng tất cả đều là ghế đơn, vì vậy anh sẽ không thể ngồi cùng với người đi cùng. Hoặc anh có thể mua hai vé cạnh nhau nếu anh xem suất chiếu lúc 9:15.<br />\nM: Vậy thì tôi sẽ mua hai vé cho buổi chiếu muộn. Tôi không muốn ngồi xa bạn mình.<br />\nW: Được. Giá cho hai vé là 22 đô la.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ff7",
+          "questionNumber": 14,
+          "questionText": "What does the man want to watch?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/84462602.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A musical",
+              "raw": "(A) A musical",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A concert",
+              "raw": "(B) A concert",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A play",
+              "raw": "(C) A play",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A movie",
+              "raw": "(D) A movie",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Tôi muốn mua hai vé cho suất chiếu phim African Adventure lúc 5:30.<br />\nW: Tôi rất tiếc phải nói rằng hiện tại không còn vé nào nữa.<br />\nM: Ừm... Vậy còn suất chiếu lúc 7:00 thì sao?<br />\nW: Anh không may mắn rồi. Rất tiếc là không còn vé.<br />\nM: Vậy hôm nay còn suất chiếu nào cho bộ phim đó không?<br />\nW: Để tôi kiểm tra... Có, còn một vài vé cho suất chiếu lúc 4:00, nhưng tất cả đều là ghế đơn, vì vậy anh sẽ không thể ngồi cùng với người đi cùng. Hoặc anh có thể mua hai vé cạnh nhau nếu anh xem suất chiếu lúc 9:15.<br />\nM: Vậy thì tôi sẽ mua hai vé cho buổi chiếu muộn. Tôi không muốn ngồi xa bạn mình.<br />\nW: Được. Giá cho hai vé là 22 đô la.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ff8",
+          "questionNumber": 15,
+          "questionText": "What time is the man going to watch the event?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/84462602.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At 4:00",
+              "raw": "(A) At 4:00",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "At 5:30",
+              "raw": "(B) At 5:30",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At 7:00",
+              "raw": "(C) At 7:00",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "At 9:15",
+              "raw": "(D) At 9:15",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Tôi muốn mua hai vé cho suất chiếu phim African Adventure lúc 5:30.<br />\nW: Tôi rất tiếc phải nói rằng hiện tại không còn vé nào nữa.<br />\nM: Ừm... Vậy còn suất chiếu lúc 7:00 thì sao?<br />\nW: Anh không may mắn rồi. Rất tiếc là không còn vé.<br />\nM: Vậy hôm nay còn suất chiếu nào cho bộ phim đó không?<br />\nW: Để tôi kiểm tra... Có, còn một vài vé cho suất chiếu lúc 4:00, nhưng tất cả đều là ghế đơn, vì vậy anh sẽ không thể ngồi cùng với người đi cùng. Hoặc anh có thể mua hai vé cạnh nhau nếu anh xem suất chiếu lúc 9:15.<br />\nM: Vậy thì tôi sẽ mua hai vé cho buổi chiếu muộn. Tôi không muốn ngồi xa bạn mình.<br />\nW: Được. Giá cho hai vé là 22 đô la.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe2",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/34308506.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: We&rsquo;ve completed our estimate of the repair work to be done on your home, Ms. Chen.<br />\nW: Great. How much is it going to cost?<br />\nM: We can do everything you requested for $3,500.<br />\nW: That&rsquo;s a bit out of my price range. Is there any way you can charge me less?<br />\nM: I&rsquo;m afraid not. I spoke with the work crew, and they remarked that they anticipate some problems because your house is so old.<br />\nW: Why is that an issue?<br />\nM: As a general rule, older houses have large amounts of wiring that need to be replaced. There are typically problems with pipes, too.<br />\nW: I see. Well, I need some time to consider this. Can I contact you tomorrow?<br />\nM: Sure. Please give me a call once you make a decision.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Chúng tôi đã hoàn tất ước tính về chi phí sửa chữa cần thực hiện tại nhà của bà, bà Chen.<br />\nW: Tuyệt vời. Chi phí là bao nhiêu?<br />\nM: Chúng tôi có thể làm mọi thứ bà yêu cầu với giá 3.500 đô la.<br />\nW: Giá đó hơi vượt quá khả năng chi trả của tôi. Anh có thể tính phí thấp hơn cho tôi không?<br />\nM: Tôi e là không. Tôi đã nói chuyện với đội thi công và họ nhận xét rằng nhiều khả năng sẽ có một số vấn đề vì ngôi nhà của bà quá cũ.<br />\nW: Tại sao đó lại là vấn đề?<br />\nM: Theo nguyên tắc chung, những ngôi nhà cũ sẽ cần được thay mới rất nhiều đường dây điện. Thường thì cũng có vấn đề với đường ống.<br />\nW: Tôi hiểu rồi. Chà, tôi cần thời gian để cân nhắc điều này. Tôi có thể liên lạc với anh vào ngày mai không?<br />\nM: Chắc chắn rồi. Vui lòng gọi cho tôi sau khi bà đưa ra quyết định.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da82ff9",
+          "questionNumber": 16,
+          "questionText": "What does the man mean when he says, “I’m afraid not”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/34308506.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He cannot change the amount of the estimate.",
+              "raw": "(A) He cannot change the amount of the estimate.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "His crew is unable to work on the woman’s home.",
+              "raw": "(B) His crew is unable to work on the woman’s home.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "His team cannot start working until next week.",
+              "raw": "(C) His team cannot start working until next week.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He will not be able to do the repairs the woman wants.",
+              "raw": "(D) He will not be able to do the repairs the woman wants.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Chúng tôi đã hoàn tất ước tính về chi phí sửa chữa cần thực hiện tại nhà của bà, bà Chen.<br />\nW: Tuyệt vời. Chi phí là bao nhiêu?<br />\nM: Chúng tôi có thể làm mọi thứ bà yêu cầu với giá 3.500 đô la.<br />\nW: Giá đó hơi vượt quá khả năng chi trả của tôi. Anh có thể tính phí thấp hơn cho tôi không?<br />\nM: Tôi e là không. Tôi đã nói chuyện với đội thi công và họ nhận xét rằng nhiều khả năng sẽ có một số vấn đề vì ngôi nhà của bà quá cũ.<br />\nW: Tại sao đó lại là vấn đề?<br />\nM: Theo nguyên tắc chung, những ngôi nhà cũ sẽ cần được thay mới rất nhiều đường dây điện. Thường thì cũng có vấn đề với đường ống.<br />\nW: Tôi hiểu rồi. Chà, tôi cần thời gian để cân nhắc điều này. Tôi có thể liên lạc với anh vào ngày mai không?<br />\nM: Chắc chắn rồi. Vui lòng gọi cho tôi sau khi bà đưa ra quyết định.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ffa",
+          "questionNumber": 17,
+          "questionText": "According to the man, what is the problem with the woman’s house?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/34308506.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The wiring was done badly.",
+              "raw": "(A) The wiring was done badly.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "It has leaky pipes.",
+              "raw": "(B) It has leaky pipes.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "It is very old.",
+              "raw": "(C) It is very old.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "The floors need replacing.",
+              "raw": "(D) The floors need replacing.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Chúng tôi đã hoàn tất ước tính về chi phí sửa chữa cần thực hiện tại nhà của bà, bà Chen.<br />\nW: Tuyệt vời. Chi phí là bao nhiêu?<br />\nM: Chúng tôi có thể làm mọi thứ bà yêu cầu với giá 3.500 đô la.<br />\nW: Giá đó hơi vượt quá khả năng chi trả của tôi. Anh có thể tính phí thấp hơn cho tôi không?<br />\nM: Tôi e là không. Tôi đã nói chuyện với đội thi công và họ nhận xét rằng nhiều khả năng sẽ có một số vấn đề vì ngôi nhà của bà quá cũ.<br />\nW: Tại sao đó lại là vấn đề?<br />\nM: Theo nguyên tắc chung, những ngôi nhà cũ sẽ cần được thay mới rất nhiều đường dây điện. Thường thì cũng có vấn đề với đường ống.<br />\nW: Tôi hiểu rồi. Chà, tôi cần thời gian để cân nhắc điều này. Tôi có thể liên lạc với anh vào ngày mai không?<br />\nM: Chắc chắn rồi. Vui lòng gọi cho tôi sau khi bà đưa ra quyết định.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ffb",
+          "questionNumber": 18,
+          "questionText": "What does the woman tell the man she will do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/34308506.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Send him a check tomorrow",
+              "raw": "(A) Send him a check tomorrow",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Speak with another contractor .",
+              "raw": "(B) Speak with another contractor .",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Pay the amount he stated",
+              "raw": "(C) Pay the amount he stated",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Make a decision later",
+              "raw": "(D) Make a decision later",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Chúng tôi đã hoàn tất ước tính về chi phí sửa chữa cần thực hiện tại nhà của bà, bà Chen.<br />\nW: Tuyệt vời. Chi phí là bao nhiêu?<br />\nM: Chúng tôi có thể làm mọi thứ bà yêu cầu với giá 3.500 đô la.<br />\nW: Giá đó hơi vượt quá khả năng chi trả của tôi. Anh có thể tính phí thấp hơn cho tôi không?<br />\nM: Tôi e là không. Tôi đã nói chuyện với đội thi công và họ nhận xét rằng nhiều khả năng sẽ có một số vấn đề vì ngôi nhà của bà quá cũ.<br />\nW: Tại sao đó lại là vấn đề?<br />\nM: Theo nguyên tắc chung, những ngôi nhà cũ sẽ cần được thay mới rất nhiều đường dây điện. Thường thì cũng có vấn đề với đường ống.<br />\nW: Tôi hiểu rồi. Chà, tôi cần thời gian để cân nhắc điều này. Tôi có thể liên lạc với anh vào ngày mai không?<br />\nM: Chắc chắn rồi. Vui lòng gọi cho tôi sau khi bà đưa ra quyết định.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe3",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/53470635.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br />\nW: Jackson Hardware. This is Lucy speaking.<br />\nM: Hello, Lucy. My name is Gunther Heinz. I purchased a few items at your store yesterday and had them delivered this morning.<br />\nW: Was everything all right with the delivery?<br />\nM: Unfortunately, no. Several things which I ordered weren&rsquo;t included.<br />\nW: I&#39;m sorry to hear that. Could you tell me what&rsquo;s missing?<br />\nM: Sure. I purchased three screwdrivers, a power saw, and some lumber. None of them arrived.<br />\nW: Hold on a minute, please... Ah, I&rsquo;ve got a note here about you, Mr. Heinz. Apparently, your order was divided in two shipments. The remaining items will be sent this afternoon.<br />\nM: I see. Thanks for clearing everything up for me.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Cửa hàng Jackson Hardware xin nghe. Lucy đang nghe đây.<br />\nM: Xin chào, Lucy. Tôi tên là Gunther Heinz. Tôi đã mua một vài món đồ tại cửa hàng của cô vào hôm qua và đã nhận được hàng vào sáng nay.<br />\nW: Mọi thứ đều ổn với đơn hàng chứ?<br />\nM: Thật không may là không. Một số món tôi đã đặt hàng không được giao kèm.<br />\nW: Tôi rất tiếc khi nghe điều đó. Anh có thể cho tôi biết món gì thiếu còn không?<br />\nM: Chắc chắn rồi. Tôi đã mua ba chiếc tua vít, một chiếc cưa điện và một ít gỗ. Không có món nào được giao đến.<br />\nW: Xin hãy đợi một chút... À, tôi có một ghi chú ở đây, anh Heinz. Có vẻ như đơn hàng của anh đã được chia thành hai đơn lẻ. Các mặt hàng còn lại sẽ được gửi vào chiều nay.<br />\nM: Tôi hiểu rồi. Cảm ơn cô đã giải thích rõ mọi chuyện cho tôi.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da82ffc",
+          "questionNumber": 19,
+          "questionText": "Who most likely is the man?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/53470635.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "An architect",
+              "raw": "(A) An architect",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A customer",
+              "raw": "(B) A customer",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A telephone operator",
+              "raw": "(C) A telephone operator",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A hardware store employee",
+              "raw": "(D) A hardware store employee",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cửa hàng Jackson Hardware xin nghe. Lucy đang nghe đây.<br />\nM: Xin chào, Lucy. Tôi tên là Gunther Heinz. Tôi đã mua một vài món đồ tại cửa hàng của cô vào hôm qua và đã nhận được hàng vào sáng nay.<br />\nW: Mọi thứ đều ổn với đơn hàng chứ?<br />\nM: Thật không may là không. Một số món tôi đã đặt hàng không được giao kèm.<br />\nW: Tôi rất tiếc khi nghe điều đó. Anh có thể cho tôi biết món gì thiếu còn không?<br />\nM: Chắc chắn rồi. Tôi đã mua ba chiếc tua vít, một chiếc cưa điện và một ít gỗ. Không có món nào được giao đến.<br />\nW: Xin hãy đợi một chút... À, tôi có một ghi chú ở đây, anh Heinz. Có vẻ như đơn hàng của anh đã được chia thành hai đơn lẻ. Các mặt hàng còn lại sẽ được gửi vào chiều nay.<br />\nM: Tôi hiểu rồi. Cảm ơn cô đã giải thích rõ mọi chuyện cho tôi.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ffd",
+          "questionNumber": 20,
+          "questionText": "What does the man ask about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/53470635.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Some missing items",
+              "raw": "(A) Some missing items",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "An upcoming sale",
+              "raw": "(B) An upcoming sale",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A special discount",
+              "raw": "(C) A special discount",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A bill he received",
+              "raw": "(D) A bill he received",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cửa hàng Jackson Hardware xin nghe. Lucy đang nghe đây.<br />\nM: Xin chào, Lucy. Tôi tên là Gunther Heinz. Tôi đã mua một vài món đồ tại cửa hàng của cô vào hôm qua và đã nhận được hàng vào sáng nay.<br />\nW: Mọi thứ đều ổn với đơn hàng chứ?<br />\nM: Thật không may là không. Một số món tôi đã đặt hàng không được giao kèm.<br />\nW: Tôi rất tiếc khi nghe điều đó. Anh có thể cho tôi biết món gì thiếu còn không?<br />\nM: Chắc chắn rồi. Tôi đã mua ba chiếc tua vít, một chiếc cưa điện và một ít gỗ. Không có món nào được giao đến.<br />\nW: Xin hãy đợi một chút... À, tôi có một ghi chú ở đây, anh Heinz. Có vẻ như đơn hàng của anh đã được chia thành hai đơn lẻ. Các mặt hàng còn lại sẽ được gửi vào chiều nay.<br />\nM: Tôi hiểu rồi. Cảm ơn cô đã giải thích rõ mọi chuyện cho tôi.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da82ffe",
+          "questionNumber": 21,
+          "questionText": "What does the woman say will happen this afternoon?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/53470635.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The store will receive some products.",
+              "raw": "(A) The store will receive some products.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The website will be updated.",
+              "raw": "(B) The website will be updated.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "The sale at the store will end.",
+              "raw": "(C) The sale at the store will end.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The man’s order will be sent out.",
+              "raw": "(D) The man’s order will be sent out.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Cửa hàng Jackson Hardware xin nghe. Lucy đang nghe đây.<br />\nM: Xin chào, Lucy. Tôi tên là Gunther Heinz. Tôi đã mua một vài món đồ tại cửa hàng của cô vào hôm qua và đã nhận được hàng vào sáng nay.<br />\nW: Mọi thứ đều ổn với đơn hàng chứ?<br />\nM: Thật không may là không. Một số món tôi đã đặt hàng không được giao kèm.<br />\nW: Tôi rất tiếc khi nghe điều đó. Anh có thể cho tôi biết món gì thiếu còn không?<br />\nM: Chắc chắn rồi. Tôi đã mua ba chiếc tua vít, một chiếc cưa điện và một ít gỗ. Không có món nào được giao đến.<br />\nW: Xin hãy đợi một chút... À, tôi có một ghi chú ở đây, anh Heinz. Có vẻ như đơn hàng của anh đã được chia thành hai đơn lẻ. Các mặt hàng còn lại sẽ được gửi vào chiều nay.<br />\nM: Tôi hiểu rồi. Cảm ơn cô đã giải thích rõ mọi chuyện cho tôi.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe4",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/56462493.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW1: Brian, is your team prepared to fly to L A. to meet Drexel Industries tomorrow?<br />\nM: We sure are. I&rsquo;m positive we can seal the deal and land a big contract.<br />\nW1: That&rsquo;s the kind of upbeat attitude I like to hear.<br />\nM: But... There&rsquo;s a slight problem. James Hooper, whom I was counting on to do some of the negotiating, has been hospitalized after getting in a motor vehicle accident last night.<br />\nW2: Who&rsquo;s his replacement?<br />\nM: I haven&rsquo;t decided yet. Do either of you have any suggestions?<br />\nW1: How do you feel about Greg Randolph?<br />\nM: He does outstanding work, but we get along poorly.<br />\nW2: I&#39;d suggest Mark Nelson, but he&rsquo;s still at the tradeshow in Toronto.<br />\nM: It looks like we just might be shorthanded.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW1: Brian, nhóm của anh đã sẵn sàng để bay đến L. A. gặp Drexel Industries vào ngày mai chưa?<br />\nM: Tất nhiên là có. Tôi tin chắc chúng ta có thể hoàn tất thỏa thuận và ký được hợp đồng lớn.<br />\nW1: Đó chính là thái độ lạc quan mà tôi muốn thấy.<br />\nM: Nhưng... Có một vấn đề nhỏ. James Hooper, người mà tôi tin tưởng giao nhiệm vụ đàm phán, đã phải nhập viện sau khi gặp tai nạn xe cơ giới đêm qua.<br />\nW2: Ai sẽ thay thế anh ấy?<br />\nM: Tôi vẫn chưa quyết định. Có nhân sự nào mà hai người muốn có đề bạt không?<br />\nW1: Anh cảm thấy thế nào về Greg Randolph?<br />\nM: Anh ấy làm việc rất tốt, nhưng chúng tôi không hợp nhau lắm.<br />\nW2: Tôi sẽ đề bạt Mark Nelson, nhưng anh ấy vẫn đang ở hội chợ thương mại tại Toronto.<br />\nM: Có vẻ như chúng ta đang thiếu người.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da82fff",
+          "questionNumber": 22,
+          "questionText": "What is the man going to do tomorrow?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/56462493.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Go sightseeing in L.A.",
+              "raw": "(A) Go sightseeing in L.A.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Visit a colleague",
+              "raw": "(B) Visit a colleague",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Interview for a position",
+              "raw": "(C) Interview for a position",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Meet a potential client",
+              "raw": "(D) Meet a potential client",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW1: Brian, nhóm của anh đã sẵn sàng để bay đến L. A. gặp Drexel Industries vào ngày mai chưa?<br />\nM: Tất nhiên là có. Tôi tin chắc chúng ta có thể hoàn tất thỏa thuận và ký được hợp đồng lớn.<br />\nW1: Đó chính là thái độ lạc quan mà tôi muốn thấy.<br />\nM: Nhưng... Có một vấn đề nhỏ. James Hooper, người mà tôi tin tưởng giao nhiệm vụ đàm phán, đã phải nhập viện sau khi gặp tai nạn xe cơ giới đêm qua.<br />\nW2: Ai sẽ thay thế anh ấy?<br />\nM: Tôi vẫn chưa quyết định. Có nhân sự nào mà hai người muốn có đề bạt không?<br />\nW1: Anh cảm thấy thế nào về Greg Randolph?<br />\nM: Anh ấy làm việc rất tốt, nhưng chúng tôi không hợp nhau lắm.<br />\nW2: Tôi sẽ đề bạt Mark Nelson, nhưng anh ấy vẫn đang ở hội chợ thương mại tại Toronto.<br />\nM: Có vẻ như chúng ta đang thiếu người.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da83000",
+          "questionNumber": 23,
+          "questionText": "What is mentioned about James Hooper?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/56462493.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He was injured in an accident.",
+              "raw": "(A) He was injured in an accident.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "He is going to accompany the man.",
+              "raw": "(B) He is going to accompany the man.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "He is at an event in Toronto.",
+              "raw": "(C) He is at an event in Toronto.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He and the man are not on friendly terms.",
+              "raw": "(D) He and the man are not on friendly terms.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW1: Brian, nhóm của anh đã sẵn sàng để bay đến L. A. gặp Drexel Industries vào ngày mai chưa?<br />\nM: Tất nhiên là có. Tôi tin chắc chúng ta có thể hoàn tất thỏa thuận và ký được hợp đồng lớn.<br />\nW1: Đó chính là thái độ lạc quan mà tôi muốn thấy.<br />\nM: Nhưng... Có một vấn đề nhỏ. James Hooper, người mà tôi tin tưởng giao nhiệm vụ đàm phán, đã phải nhập viện sau khi gặp tai nạn xe cơ giới đêm qua.<br />\nW2: Ai sẽ thay thế anh ấy?<br />\nM: Tôi vẫn chưa quyết định. Có nhân sự nào mà hai người muốn có đề bạt không?<br />\nW1: Anh cảm thấy thế nào về Greg Randolph?<br />\nM: Anh ấy làm việc rất tốt, nhưng chúng tôi không hợp nhau lắm.<br />\nW2: Tôi sẽ đề bạt Mark Nelson, nhưng anh ấy vẫn đang ở hội chợ thương mại tại Toronto.<br />\nM: Có vẻ như chúng ta đang thiếu người.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da83001",
+          "questionNumber": 24,
+          "questionText": "Why does the man say, “It looks like we just might be shorthanded”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/56462493.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To state that the company will not hire any new employees",
+              "raw": "(A) To state that the company will not hire any new employees",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To indicate that there might not be a replacement worker",
+              "raw": "(B) To indicate that there might not be a replacement worker",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "To mention that one of his team members resigned his position",
+              "raw": "(C) To mention that one of his team members resigned his position",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To argue that his team can handle the duties by themselves",
+              "raw": "(D) To argue that his team can handle the duties by themselves",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW1: Brian, nhóm của anh đã sẵn sàng để bay đến L. A. gặp Drexel Industries vào ngày mai chưa?<br />\nM: Tất nhiên là có. Tôi tin chắc chúng ta có thể hoàn tất thỏa thuận và ký được hợp đồng lớn.<br />\nW1: Đó chính là thái độ lạc quan mà tôi muốn thấy.<br />\nM: Nhưng... Có một vấn đề nhỏ. James Hooper, người mà tôi tin tưởng giao nhiệm vụ đàm phán, đã phải nhập viện sau khi gặp tai nạn xe cơ giới đêm qua.<br />\nW2: Ai sẽ thay thế anh ấy?<br />\nM: Tôi vẫn chưa quyết định. Có nhân sự nào mà hai người muốn có đề bạt không?<br />\nW1: Anh cảm thấy thế nào về Greg Randolph?<br />\nM: Anh ấy làm việc rất tốt, nhưng chúng tôi không hợp nhau lắm.<br />\nW2: Tôi sẽ đề bạt Mark Nelson, nhưng anh ấy vẫn đang ở hội chợ thương mại tại Toronto.<br />\nM: Có vẻ như chúng ta đang thiếu người.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe5",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/60682302.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: Your total comes to $85, sir.<br />\nM: Oh, hold on just a moment, please. I completely forgot that I have some coupons to give you. I&rsquo;ve got them right here.<br />\nW: No problem. Let me scan them... Hmm... This coupon for laundry detergent has expired, so I&rsquo;m afraid you can&rsquo;t use it.<br />\nM: Are you sure about that? What&rsquo;s the expiration date on it?<br />\nW: It&rsquo;s January 15. You came here one day too late.<br />\nM: Oh, well. That&rsquo;s my mistake. But what about the other ones? They&rsquo;re still valid, aren&rsquo;t they?<br />\nW: They are, so you just saved a total of $12. That brings your new total to $73. How would you like to pay for that?<br />\nM: Here&rsquo;s my debit card.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Đơn hàng tổng cộng là $85, thưa ông.<br />\nM: Ồ, xin hãy đợi một lát. Tôi hoàn toàn quên mất là tôi có một số phiếu giảm giá để đưa cho cô. Tôi có chúng ngay đây.<br />\nW: Không vấn đề gì. Để tôi quét chúng... Hmm... Phiếu giảm giá bột giặt này đã hết hạn, vì vậy tôi e là ông không thể sử dụng được.<br />\nM: Cô có chắc không? Ngày hết hạn của nó là bao nhiêu?<br />\nW: Hôm nay là ngày 15 tháng 1. Ông đến đây muộn một ngày.<br />\nM: Ồ, được thôi. Đó là lỗi của tôi. Nhưng còn những phiếu khác thì sao? Chúng vẫn còn hiệu lực, phải không?<br />\nW: Vẫn còn hiệu lực, vì vậy ông vừa tiết kiệm được tổng cộng $12. Như vậy là tổng số tiền mà ông phai trả là $73. Ông muốn thanh toán bằng cách nào?<br />\nM: Đây là thẻ ghi nợ của tôi.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da83002",
+          "questionNumber": 25,
+          "questionText": "Where does the woman most likely work?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/60682302.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At a dry cleaner’s",
+              "raw": "(A) At a dry cleaner’s",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "At a pharmacy",
+              "raw": "(B) At a pharmacy",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At a grocery store",
+              "raw": "(C) At a grocery store",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "At a printing shop",
+              "raw": "(D) At a printing shop",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Đơn hàng tổng cộng là $85, thưa ông.<br />\nM: Ồ, xin hãy đợi một lát. Tôi hoàn toàn quên mất là tôi có một số phiếu giảm giá để đưa cho cô. Tôi có chúng ngay đây.<br />\nW: Không vấn đề gì. Để tôi quét chúng... Hmm... Phiếu giảm giá bột giặt này đã hết hạn, vì vậy tôi e là ông không thể sử dụng được.<br />\nM: Cô có chắc không? Ngày hết hạn của nó là bao nhiêu?<br />\nW: Hôm nay là ngày 15 tháng 1. Ông đến đây muộn một ngày.<br />\nM: Ồ, được thôi. Đó là lỗi của tôi. Nhưng còn những phiếu khác thì sao? Chúng vẫn còn hiệu lực, phải không?<br />\nW: Vẫn còn hiệu lực, vì vậy ông vừa tiết kiệm được tổng cộng $12. Như vậy là tổng số tiền mà ông phai trả là $73. Ông muốn thanh toán bằng cách nào?<br />\nM: Đây là thẻ ghi nợ của tôi.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da83003",
+          "questionNumber": 26,
+          "questionText": "What is the problem?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/60682302.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "One of the man’s coupons is no good.",
+              "raw": "(A) One of the man’s coupons is no good.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "The store does not have an item the man wants.",
+              "raw": "(B) The store does not have an item the man wants.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "The man does not have enough money.",
+              "raw": "(C) The man does not have enough money.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A sale ended the previous day.",
+              "raw": "(D) A sale ended the previous day.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Đơn hàng tổng cộng là $85, thưa ông.<br />\nM: Ồ, xin hãy đợi một lát. Tôi hoàn toàn quên mất là tôi có một số phiếu giảm giá để đưa cho cô. Tôi có chúng ngay đây.<br />\nW: Không vấn đề gì. Để tôi quét chúng... Hmm... Phiếu giảm giá bột giặt này đã hết hạn, vì vậy tôi e là ông không thể sử dụng được.<br />\nM: Cô có chắc không? Ngày hết hạn của nó là bao nhiêu?<br />\nW: Hôm nay là ngày 15 tháng 1. Ông đến đây muộn một ngày.<br />\nM: Ồ, được thôi. Đó là lỗi của tôi. Nhưng còn những phiếu khác thì sao? Chúng vẫn còn hiệu lực, phải không?<br />\nW: Vẫn còn hiệu lực, vì vậy ông vừa tiết kiệm được tổng cộng $12. Như vậy là tổng số tiền mà ông phai trả là $73. Ông muốn thanh toán bằng cách nào?<br />\nM: Đây là thẻ ghi nợ của tôi.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da83004",
+          "questionNumber": 27,
+          "questionText": "What does the man give the woman?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/60682302.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A check",
+              "raw": "(A) A check",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "His driver’s license",
+              "raw": "(B) His driver’s license",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A bank card",
+              "raw": "(C) A bank card",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A gift certificate",
+              "raw": "(D) A gift certificate",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Đơn hàng tổng cộng là $85, thưa ông.<br />\nM: Ồ, xin hãy đợi một lát. Tôi hoàn toàn quên mất là tôi có một số phiếu giảm giá để đưa cho cô. Tôi có chúng ngay đây.<br />\nW: Không vấn đề gì. Để tôi quét chúng... Hmm... Phiếu giảm giá bột giặt này đã hết hạn, vì vậy tôi e là ông không thể sử dụng được.<br />\nM: Cô có chắc không? Ngày hết hạn của nó là bao nhiêu?<br />\nW: Hôm nay là ngày 15 tháng 1. Ông đến đây muộn một ngày.<br />\nM: Ồ, được thôi. Đó là lỗi của tôi. Nhưng còn những phiếu khác thì sao? Chúng vẫn còn hiệu lực, phải không?<br />\nW: Vẫn còn hiệu lực, vì vậy ông vừa tiết kiệm được tổng cộng $12. Như vậy là tổng số tiền mà ông phai trả là $73. Ông muốn thanh toán bằng cách nào?<br />\nM: Đây là thẻ ghi nợ của tôi.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe6",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/72321351.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Let&rsquo;s take a break and get something to eat.<br />\nW: Actually, I&rsquo;d rather finish writing this computer program first. It should only take about five more minutes.<br />\nM: Well, I&rsquo;m starving. Do you mind if I head out to lunch first? I skipped breakfast this morning.<br />\nW: In that case, feel free to go ahead without me. I can catch up to you later if you tell me where you&rsquo;re going.<br />\nM: I&rsquo;m going to head to Papa Gino&rsquo;s, that new Italian restaurant. You know where it is, don&rsquo;t you?<br />\nW: Actually, I haven&rsquo;t the slightest idea.<br />\nM: Then I&rsquo;ll just wait for you so that we can go together. I can&rsquo;t believe you&rsquo;ve never been there. It&#39;s one of the best restaurants in the neighborhood.<br />\nW: Well, I suppose I&rsquo;ll get to experience its food in a few minutes.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Nghỉ ngơi một lát và ăn gì đó đi.<br />\nW: Thực ra, tôi muốn hoàn thành chương trình máy tính này trước. Chỉ mất khoảng năm phút nữa thôi.<br />\nM: À, tôi đói quá. Cô có phiền không nếu tôi ra ngoài ăn trưa trước? Tôi đã bỏ bữa sáng sáng nay.<br />\nW: Nếu thế, anh cứ tự nhiên đi ăn mà không cần đợi tôi. Tôi có thể bắt kịp anh sau nếu anh nói cho tôi biết anh sẽ đến đâu.<br />\nM: Tôi sẽ đến Papa Gino, một nhà hàng Ý mới mở. Cô biết nó ở đâu, phải không?<br />\nW: Thực ra, tôi không biết tí gì cả.<br />\nM: Vậy thì tôi sẽ đợi cô để chúng ta có thể cùng đi. Tôi không thể tin là cô chưa từng đến đó. Đây là một trong những nhà hàng tốt nhất ở khu vực này.<br />\nW: Vâng, tôi chắc là tôi sẽ được trải nghiệm đồ ăn ở đó trong vài phút nữa.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da83005",
+          "questionNumber": 28,
+          "questionText": "What does the woman want to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/72321351.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Go to lunch now",
+              "raw": "(A) Go to lunch now",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Download a computer program",
+              "raw": "(B) Download a computer program",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Finish the work she is doing",
+              "raw": "(C) Finish the work she is doing",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Take a short break",
+              "raw": "(D) Take a short break",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Nghỉ ngơi một lát và ăn gì đó đi.<br />\nW: Thực ra, tôi muốn hoàn thành chương trình máy tính này trước. Chỉ mất khoảng năm phút nữa thôi.<br />\nM: À, tôi đói quá. Cô có phiền không nếu tôi ra ngoài ăn trưa trước? Tôi đã bỏ bữa sáng sáng nay.<br />\nW: Nếu thế, anh cứ tự nhiên đi ăn mà không cần đợi tôi. Tôi có thể bắt kịp anh sau nếu anh nói cho tôi biết anh sẽ đến đâu.<br />\nM: Tôi sẽ đến Papa Gino, một nhà hàng Ý mới mở. Cô biết nó ở đâu, phải không?<br />\nW: Thực ra, tôi không biết tí gì cả.<br />\nM: Vậy thì tôi sẽ đợi cô để chúng ta có thể cùng đi. Tôi không thể tin là cô chưa từng đến đó. Đây là một trong những nhà hàng tốt nhất ở khu vực này.<br />\nW: Vâng, tôi chắc là tôi sẽ được trải nghiệm đồ ăn ở đó trong vài phút nữa.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da83006",
+          "questionNumber": 29,
+          "questionText": "What does the woman mean when she says, “Actually, I haven’t the slightest idea”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/72321351.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She does not know where a restaurant is located.",
+              "raw": "(A) She does not know where a restaurant is located.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "She is not sure what the problem with the computer is.",
+              "raw": "(B) She is not sure what the problem with the computer is.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She is unaware that the man forgot to eat breakfast.",
+              "raw": "(C) She is unaware that the man forgot to eat breakfast.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She cannot remember what she and the man spoke about.",
+              "raw": "(D) She cannot remember what she and the man spoke about.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Nghỉ ngơi một lát và ăn gì đó đi.<br />\nW: Thực ra, tôi muốn hoàn thành chương trình máy tính này trước. Chỉ mất khoảng năm phút nữa thôi.<br />\nM: À, tôi đói quá. Cô có phiền không nếu tôi ra ngoài ăn trưa trước? Tôi đã bỏ bữa sáng sáng nay.<br />\nW: Nếu thế, anh cứ tự nhiên đi ăn mà không cần đợi tôi. Tôi có thể bắt kịp anh sau nếu anh nói cho tôi biết anh sẽ đến đâu.<br />\nM: Tôi sẽ đến Papa Gino, một nhà hàng Ý mới mở. Cô biết nó ở đâu, phải không?<br />\nW: Thực ra, tôi không biết tí gì cả.<br />\nM: Vậy thì tôi sẽ đợi cô để chúng ta có thể cùng đi. Tôi không thể tin là cô chưa từng đến đó. Đây là một trong những nhà hàng tốt nhất ở khu vực này.<br />\nW: Vâng, tôi chắc là tôi sẽ được trải nghiệm đồ ăn ở đó trong vài phút nữa.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da83007",
+          "questionNumber": 30,
+          "questionText": "Why is the man surprised?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/72321351.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "His computer has stopped working properly.",
+              "raw": "(A) His computer has stopped working properly.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The woman has not eaten at Papa Gino’s before.",
+              "raw": "(B) The woman has not eaten at Papa Gino’s before.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "He thought that the program had already been written.",
+              "raw": "(C) He thought that the program had already been written.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The woman intends to move to a new neighborhood.",
+              "raw": "(D) The woman intends to move to a new neighborhood.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Nghỉ ngơi một lát và ăn gì đó đi.<br />\nW: Thực ra, tôi muốn hoàn thành chương trình máy tính này trước. Chỉ mất khoảng năm phút nữa thôi.<br />\nM: À, tôi đói quá. Cô có phiền không nếu tôi ra ngoài ăn trưa trước? Tôi đã bỏ bữa sáng sáng nay.<br />\nW: Nếu thế, anh cứ tự nhiên đi ăn mà không cần đợi tôi. Tôi có thể bắt kịp anh sau nếu anh nói cho tôi biết anh sẽ đến đâu.<br />\nM: Tôi sẽ đến Papa Gino, một nhà hàng Ý mới mở. Cô biết nó ở đâu, phải không?<br />\nW: Thực ra, tôi không biết tí gì cả.<br />\nM: Vậy thì tôi sẽ đợi cô để chúng ta có thể cùng đi. Tôi không thể tin là cô chưa từng đến đó. Đây là một trong những nhà hàng tốt nhất ở khu vực này.<br />\nW: Vâng, tôi chắc là tôi sẽ được trải nghiệm đồ ăn ở đó trong vài phút nữa.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe7",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/91488369.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nW: Sorry to interrupt, but I wonder how you&rsquo;re enjoying your meal.<br />\nM1: Everything is perfect.<br />\nM2: I agree. My steak was cooked exactly the way I requested it. Please do me a favor and give my regards to the chef.<br />\nW: I&#39;ll be sure to do that. So, uh, is there anything else I can get you?<br />\nM1: I&rsquo;d appreciate another glass of tea if you don&rsquo;t mind.<br />\nW: Not at all. What about you, sir? Would you care for some more coffee?<br />\nM1: That&rsquo;s all right. Two cups is my limit, or else I&#39;ll never get to sleep tonight. However, we could both go for some dessert. Could you please bring us two dessert menus?<br />\nW: Of course. I&rsquo;ll be back with the drink and menus right after I visit the kitchen.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin lỗi vì đã ngắt lời, nhưng tôi tự hỏi các ông đang cảm thấy thế nào khi thưởng thức bữa ăn này.<br />\nM1: Mọi thứ đều hoàn hảo.<br />\nM2: Tôi đồng ý. Bít tết của tôi được nấu chính xác theo cách tôi yêu cầu. Làm ơn giúp tôi gửi lời chào đến đầu bếp nhé.<br />\nW: Tôi chắc chắn sẽ làm điều đó. Vậy, ừm, các ông có cần thêm gì khác không?<br />\nM1: Tôi rất muốn có thêm một ly trà nữa, nếu cô không phiền.<br />\nW: Không sao cả. Còn ông thì sao, thưa quý khách? Ông có muốn thêm cà phê không?<br />\nM1: Không sao đâu. Giới hạn của tôi chỉ là hai cốc thôi, nếu không thì tôi sẽ không ngủ được đêm nay. Tuy nhiên, chúng tôi có thể cùng gọi món tráng miệng. Cô làm ơn mang cho chúng tôi hai thực đơn tráng miệng được không? <br />\nW: Tất nhiên rồi. Tôi sẽ quay lại với đồ uống và thực đơn ngay sau khi vào bếp để gửi tới đầu bếp lời khen của các vị.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da83008",
+          "questionNumber": 31,
+          "questionText": "What is the woman’s job?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/91488369.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A chef",
+              "raw": "(A) A chef",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A waitress",
+              "raw": "(B) A waitress",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A dishwasher",
+              "raw": "(C) A dishwasher",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A cashier",
+              "raw": "(D) A cashier",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin lỗi vì đã ngắt lời, nhưng tôi tự hỏi các ông đang cảm thấy thế nào khi thưởng thức bữa ăn này.<br />\nM1: Mọi thứ đều hoàn hảo.<br />\nM2: Tôi đồng ý. Bít tết của tôi được nấu chính xác theo cách tôi yêu cầu. Làm ơn giúp tôi gửi lời chào đến đầu bếp nhé.<br />\nW: Tôi chắc chắn sẽ làm điều đó. Vậy, ừm, các ông có cần thêm gì khác không?<br />\nM1: Tôi rất muốn có thêm một ly trà nữa, nếu cô không phiền.<br />\nW: Không sao cả. Còn ông thì sao, thưa quý khách? Ông có muốn thêm cà phê không?<br />\nM1: Không sao đâu. Giới hạn của tôi chỉ là hai cốc thôi, nếu không thì tôi sẽ không ngủ được đêm nay. Tuy nhiên, chúng tôi có thể cùng gọi món tráng miệng. Cô làm ơn mang cho chúng tôi hai thực đơn tráng miệng được không? <br />\nW: Tất nhiên rồi. Tôi sẽ quay lại với đồ uống và thực đơn ngay sau khi vào bếp để gửi tới đầu bếp lời khen của các vị.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da83009",
+          "questionNumber": 32,
+          "questionText": "What will the woman bring to the men?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/91488369.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Some coffee",
+              "raw": "(A) Some coffee",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Some dessert",
+              "raw": "(B) Some dessert",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Some menus",
+              "raw": "(C) Some menus",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "The bill",
+              "raw": "(D) The bill",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin lỗi vì đã ngắt lời, nhưng tôi tự hỏi các ông đang cảm thấy thế nào khi thưởng thức bữa ăn này.<br />\nM1: Mọi thứ đều hoàn hảo.<br />\nM2: Tôi đồng ý. Bít tết của tôi được nấu chính xác theo cách tôi yêu cầu. Làm ơn giúp tôi gửi lời chào đến đầu bếp nhé.<br />\nW: Tôi chắc chắn sẽ làm điều đó. Vậy, ừm, các ông có cần thêm gì khác không?<br />\nM1: Tôi rất muốn có thêm một ly trà nữa, nếu cô không phiền.<br />\nW: Không sao cả. Còn ông thì sao, thưa quý khách? Ông có muốn thêm cà phê không?<br />\nM1: Không sao đâu. Giới hạn của tôi chỉ là hai cốc thôi, nếu không thì tôi sẽ không ngủ được đêm nay. Tuy nhiên, chúng tôi có thể cùng gọi món tráng miệng. Cô làm ơn mang cho chúng tôi hai thực đơn tráng miệng được không? <br />\nW: Tất nhiên rồi. Tôi sẽ quay lại với đồ uống và thực đơn ngay sau khi vào bếp để gửi tới đầu bếp lời khen của các vị.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da8300a",
+          "questionNumber": 33,
+          "questionText": "What will the woman probably do next?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/91488369.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Prepare some food",
+              "raw": "(A) Prepare some food",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Go to the kitchen",
+              "raw": "(B) Go to the kitchen",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Pour a drink",
+              "raw": "(C) Pour a drink",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Deliver some food",
+              "raw": "(D) Deliver some food",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nW: Xin lỗi vì đã ngắt lời, nhưng tôi tự hỏi các ông đang cảm thấy thế nào khi thưởng thức bữa ăn này.<br />\nM1: Mọi thứ đều hoàn hảo.<br />\nM2: Tôi đồng ý. Bít tết của tôi được nấu chính xác theo cách tôi yêu cầu. Làm ơn giúp tôi gửi lời chào đến đầu bếp nhé.<br />\nW: Tôi chắc chắn sẽ làm điều đó. Vậy, ừm, các ông có cần thêm gì khác không?<br />\nM1: Tôi rất muốn có thêm một ly trà nữa, nếu cô không phiền.<br />\nW: Không sao cả. Còn ông thì sao, thưa quý khách? Ông có muốn thêm cà phê không?<br />\nM1: Không sao đâu. Giới hạn của tôi chỉ là hai cốc thôi, nếu không thì tôi sẽ không ngủ được đêm nay. Tuy nhiên, chúng tôi có thể cùng gọi món tráng miệng. Cô làm ơn mang cho chúng tôi hai thực đơn tráng miệng được không? <br />\nW: Tất nhiên rồi. Tôi sẽ quay lại với đồ uống và thực đơn ngay sau khi vào bếp để gửi tới đầu bếp lời khen của các vị.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe8",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/90690715.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/22790893.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Julia, is it true that some of us in the department are going to change offices?<br />\nW: That&rsquo;s right. Since we&rsquo;re getting a couple of new employees, we have to move people around.<br />\nM: Do you know what&#39;s going to happen?<br />\nW: Yes. Eric is going to move to office 305 while Susan will be moving to office 301.<br />\nM: What about me?<br />\nW: You&rsquo;re going to move from office 303 to the one right next to the elevator.<br />\nM: That&rsquo;s perfect. It&rsquo;s quite a bit bigger than my current office.<br />\nW: I thought you&#39;d think that way. I specifically requested you be given that room.<br />\nM: Why did you do that?<br />\nW: You&rsquo;ve been conducting numerous meetings with clients lately, so a bigger office will impress them more.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Julia, có đúng là một số người trong phòng chúng ta sẽ chuyển văn phòng không?<br />\nW: Đúng vậy. Vì chúng ta sắp có một vài nhân viên mới, nên chúng ta phải điều chuyển vài người.<br />\nM: Cô có biết chuyện gì sẽ xảy ra không?<br />\nW: Vâng. Eric sẽ chuyển đến phòng 305 trong khi Susan sẽ chuyển đến phòng 301.<br />\nM: Còn tôi thì sao?<br />\nW: Anh sẽ chuyển từ phòng 303 đến phòng ngay cạnh thang máy.<br />\nM: Hoàn hảo. Nó lớn hơn nhiều so với văn phòng hiện tại của tôi.<br />\nW: Tôi cũng nghĩ anh sẽ thích nó. Tôi đặc biệt yêu cầu anh căn phòng đó cho anh đấy.<br />\nM: Tại sao cô lại làm thế?<br />\nW: Gần đây anh có nhiều cuộc họp với khách hàng, vì vậy một văn phòng lớn hơn sẽ gây ấn tượng với họ hơn.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da8300b",
+          "questionNumber": 34,
+          "questionText": "What does the man ask about?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/22790893.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/90690715.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The meeting with the staff",
+              "raw": "(A) The meeting with the staff",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The rearranging of his department",
+              "raw": "(B) The rearranging of his department",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "The arrival of some new employees",
+              "raw": "(C) The arrival of some new employees",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "The renovating of the office",
+              "raw": "(D) The renovating of the office",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Julia, có đúng là một số người trong phòng chúng ta sẽ chuyển văn phòng không?<br />\nW: Đúng vậy. Vì chúng ta sắp có một vài nhân viên mới, nên chúng ta phải điều chuyển vài người.<br />\nM: Cô có biết chuyện gì sẽ xảy ra không?<br />\nW: Vâng. Eric sẽ chuyển đến phòng 305 trong khi Susan sẽ chuyển đến phòng 301.<br />\nM: Còn tôi thì sao?<br />\nW: Anh sẽ chuyển từ phòng 303 đến phòng ngay cạnh thang máy.<br />\nM: Hoàn hảo. Nó lớn hơn nhiều so với văn phòng hiện tại của tôi.<br />\nW: Tôi cũng nghĩ anh sẽ thích nó. Tôi đặc biệt yêu cầu anh căn phòng đó cho anh đấy.<br />\nM: Tại sao cô lại làm thế?<br />\nW: Gần đây anh có nhiều cuộc họp với khách hàng, vì vậy một văn phòng lớn hơn sẽ gây ấn tượng với họ hơn.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da8300c",
+          "questionNumber": 35,
+          "questionText": "Look at the graphic. Where is the man’s new office?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/22790893.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/90690715.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "1",
+              "raw": "(A) 1",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "2",
+              "raw": "(B) 2",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "3",
+              "raw": "(C) 3",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "4",
+              "raw": "(D) 4",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Julia, có đúng là một số người trong phòng chúng ta sẽ chuyển văn phòng không?<br />\nW: Đúng vậy. Vì chúng ta sắp có một vài nhân viên mới, nên chúng ta phải điều chuyển vài người.<br />\nM: Cô có biết chuyện gì sẽ xảy ra không?<br />\nW: Vâng. Eric sẽ chuyển đến phòng 305 trong khi Susan sẽ chuyển đến phòng 301.<br />\nM: Còn tôi thì sao?<br />\nW: Anh sẽ chuyển từ phòng 303 đến phòng ngay cạnh thang máy.<br />\nM: Hoàn hảo. Nó lớn hơn nhiều so với văn phòng hiện tại của tôi.<br />\nW: Tôi cũng nghĩ anh sẽ thích nó. Tôi đặc biệt yêu cầu anh căn phòng đó cho anh đấy.<br />\nM: Tại sao cô lại làm thế?<br />\nW: Gần đây anh có nhiều cuộc họp với khách hàng, vì vậy một văn phòng lớn hơn sẽ gây ấn tượng với họ hơn.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da8300d",
+          "questionNumber": 36,
+          "questionText": "Why is the man pleased?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/22790893.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/90690715.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He has been given some extra time off.",
+              "raw": "(A) He has been given some extra time off.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "His meeting with a buyer went well.",
+              "raw": "(B) His meeting with a buyer went well.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "He does not have to move anywhere.",
+              "raw": "(C) He does not have to move anywhere.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He is going to get a larger office.",
+              "raw": "(D) He is going to get a larger office.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Julia, có đúng là một số người trong phòng chúng ta sẽ chuyển văn phòng không?<br />\nW: Đúng vậy. Vì chúng ta sắp có một vài nhân viên mới, nên chúng ta phải điều chuyển vài người.<br />\nM: Cô có biết chuyện gì sẽ xảy ra không?<br />\nW: Vâng. Eric sẽ chuyển đến phòng 305 trong khi Susan sẽ chuyển đến phòng 301.<br />\nM: Còn tôi thì sao?<br />\nW: Anh sẽ chuyển từ phòng 303 đến phòng ngay cạnh thang máy.<br />\nM: Hoàn hảo. Nó lớn hơn nhiều so với văn phòng hiện tại của tôi.<br />\nW: Tôi cũng nghĩ anh sẽ thích nó. Tôi đặc biệt yêu cầu anh căn phòng đó cho anh đấy.<br />\nM: Tại sao cô lại làm thế?<br />\nW: Gần đây anh có nhiều cuộc họp với khách hàng, vì vậy một văn phòng lớn hơn sẽ gây ấn tượng với họ hơn.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "62fb17b65948b5402da82fe9",
+      "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/89117048.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/33710139.png",
+      "passageHtml": "",
+      "transcriptHtml": "<p><strong>Transcript:</strong><br /> \nM: Hello. Gateway Travel. This is David speaking. How may I be of assistance?<br />\nW: Hello, Mr. Parker. This is Yolanda DuPont calling.<br />\nM: Good afternoon, Ms. DuPont. Do you have a question regarding the itinerary I e-mailed you this morning?<br />\nW: Actually, there&rsquo;s something on it that has to be altered.<br />\nM: Sure. What would you like for me to do?<br />\nW: The first two legs of my trip are fine. However, I need to be in Oslo one day earlier than I had planned.<br />\nM: I see. Well, I can change your departure date from London to the previous day. Would you prefer a morning or afternoon flight?<br />\nW: The morning would be better.<br />\nM: Great. Let me contact the airline. I&#39;ll give you a call once everything has been taken care of.</p>\n",
+      "transcriptViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Đây là Gateway Travel. David đang nghe đây. Tôi có thể giúp gì cho quý khách?<br />\nW: Xin chào, ông Parker. Tôi là Yolanda DuPont.<br />\nM: Chào buổi chiều, cô DuPont. Cô có thắc mắc gì về hành trình mà tôi đã gửi qua email cho cô sáng nay không?<br />\nW: Thực ra, có một số thông tin cần phải thay đổi.<br />\nM: Chắc chắn rồi. Cô muốn thay đổi điều gì?<br />\nW: Hai chặng đầu tiên của chuyến đi đều ổn. Tuy nhiên, tôi cần phải đến Oslo sớm hơn một ngày so với dự định.<br />\nM: Tôi hiểu rồi. Chà, tôi có thể đổi ngày khởi hành của cô từ London sang ngày hôm trước. Cô muốn bay chuyến buổi sáng hay buổi chiều?<br />\nW: Buổi sáng thì tốt hơn.<br />\nM: Được thôi. Để tôi liên hệ với hãng hàng không. Tôi sẽ gọi điện cho cô sau khi mọi thứ đã được giải quyết xong.</p>\n",
+      "questions": [
+        {
+          "id": "62fb17b65948b5402da8300e",
+          "questionNumber": 37,
+          "questionText": "Where does the man most likely work?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/33710139.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/89117048.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "At an airline",
+              "raw": "(A) At an airline",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "At a train station",
+              "raw": "(B) At a train station",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "At a travel agency",
+              "raw": "(C) At a travel agency",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "At a rental car agency",
+              "raw": "(D) At a rental car agency",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Đây là Gateway Travel. David đang nghe đây. Tôi có thể giúp gì cho quý khách?<br />\nW: Xin chào, ông Parker. Tôi là Yolanda DuPont.<br />\nM: Chào buổi chiều, cô DuPont. Cô có thắc mắc gì về hành trình mà tôi đã gửi qua email cho cô sáng nay không?<br />\nW: Thực ra, có một số thông tin cần phải thay đổi.<br />\nM: Chắc chắn rồi. Cô muốn thay đổi điều gì?<br />\nW: Hai chặng đầu tiên của chuyến đi đều ổn. Tuy nhiên, tôi cần phải đến Oslo sớm hơn một ngày so với dự định.<br />\nM: Tôi hiểu rồi. Chà, tôi có thể đổi ngày khởi hành của cô từ London sang ngày hôm trước. Cô muốn bay chuyến buổi sáng hay buổi chiều?<br />\nW: Buổi sáng thì tốt hơn.<br />\nM: Được thôi. Để tôi liên hệ với hãng hàng không. Tôi sẽ gọi điện cho cô sau khi mọi thứ đã được giải quyết xong.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da8300f",
+          "questionNumber": 38,
+          "questionText": "Look at the graphic. On which day does the woman need to change her travel plans?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/33710139.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/89117048.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "October 12",
+              "raw": "(A) October 12",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "October 16",
+              "raw": "(B) October 16",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "October 20",
+              "raw": "(C) October 20",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "October 22",
+              "raw": "(D) October 22",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Đây là Gateway Travel. David đang nghe đây. Tôi có thể giúp gì cho quý khách?<br />\nW: Xin chào, ông Parker. Tôi là Yolanda DuPont.<br />\nM: Chào buổi chiều, cô DuPont. Cô có thắc mắc gì về hành trình mà tôi đã gửi qua email cho cô sáng nay không?<br />\nW: Thực ra, có một số thông tin cần phải thay đổi.<br />\nM: Chắc chắn rồi. Cô muốn thay đổi điều gì?<br />\nW: Hai chặng đầu tiên của chuyến đi đều ổn. Tuy nhiên, tôi cần phải đến Oslo sớm hơn một ngày so với dự định.<br />\nM: Tôi hiểu rồi. Chà, tôi có thể đổi ngày khởi hành của cô từ London sang ngày hôm trước. Cô muốn bay chuyến buổi sáng hay buổi chiều?<br />\nW: Buổi sáng thì tốt hơn.<br />\nM: Được thôi. Để tôi liên hệ với hãng hàng không. Tôi sẽ gọi điện cho cô sau khi mọi thứ đã được giải quyết xong.</p>\n",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "62fb17b65948b5402da83010",
+          "questionNumber": 39,
+          "questionText": "What does the man offer to do?",
+          "imageUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/33710139.png",
+          "audioUrl": "https://storage.googleapis.com/estudyme/dev/2022/08/19/89117048.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Call an airline",
+              "raw": "(A) Call an airline",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Send the woman a new itinerary",
+              "raw": "(B) Send the woman a new itinerary",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Recalculate a bill",
+              "raw": "(C) Recalculate a bill",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Upgrade the woman to first class",
+              "raw": "(D) Upgrade the woman to first class",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<p><strong>Transcript:</strong><br />\nM: Xin chào. Đây là Gateway Travel. David đang nghe đây. Tôi có thể giúp gì cho quý khách?<br />\nW: Xin chào, ông Parker. Tôi là Yolanda DuPont.<br />\nM: Chào buổi chiều, cô DuPont. Cô có thắc mắc gì về hành trình mà tôi đã gửi qua email cho cô sáng nay không?<br />\nW: Thực ra, có một số thông tin cần phải thay đổi.<br />\nM: Chắc chắn rồi. Cô muốn thay đổi điều gì?<br />\nW: Hai chặng đầu tiên của chuyến đi đều ổn. Tuy nhiên, tôi cần phải đến Oslo sớm hơn một ngày so với dự định.<br />\nM: Tôi hiểu rồi. Chà, tôi có thể đổi ngày khởi hành của cô từ London sang ngày hôm trước. Cô muốn bay chuyến buổi sáng hay buổi chiều?<br />\nW: Buổi sáng thì tốt hơn.<br />\nM: Được thôi. Để tôi liên hệ với hãng hàng không. Tôi sẽ gọi điện cho cô sau khi mọi thứ đã được giải quyết xong.</p>\n",
+          "transcriptHtml": ""
+        }
+      ]
+    }
+  ]
+}

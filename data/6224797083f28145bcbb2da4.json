@@ -1,0 +1,724 @@
+{
+  "topicId": "6224797083f28145bcbb2da4",
+  "title": "PASSIVE VOICE - Practice 3",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb312d",
+        "questionNumber": 1,
+        "questionText": "The news _______ as soon as possible.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will be released",
+            "raw": "A. will be released",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "are released",
+            "raw": "B. are released",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will release",
+            "raw": "C. will release",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will have been released",
+            "raw": "D. will have been released",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'The news _______ as soon as possible.', the subject 'The news' is singular and refers to information. The sentence requires a passive voice construction because the news is being released by someone (the agent is not important or not mentioned). The correct passive future simple structure is 'will be + past participle'.<br><ul><li><b>will be released</b> (verb phrase (future simple passive)): This is the passive form of the future simple tense: 'will be' + past participle. It means that the news will be made public by someone in the future.</li><li><b>are released</b> (verb phrase (present simple passive)): This is the present simple passive form. It is not correct here because the sentence refers to a future action.</li><li><b>will release</b> (verb phrase (future simple active)): This is the active form of the future simple tense. It would require a subject (who will release the news), but 'the news' cannot perform the action.</li><li><b>will have been released</b> (verb phrase (future perfect passive)): This is the future perfect passive form. It means the action will be completed before a certain time in the future, but the sentence does not indicate such a time.</li></ul><b>Related structure or vocabulary:</b> Passive voice in future simple: will be + past participle<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, 'The news _______ as soon as possible.', chủ ngữ 'The news' là danh từ số ít, mang nghĩa là 'tin tức'. Câu này cần sử dụng cấu trúc bị động vì tin tức sẽ được ai đó công bố (người thực hiện hành động không quan trọng hoặc không được nhắc đến). Cấu trúc bị động của thì tương lai đơn là 'will be + quá khứ phân từ'.<br><ul><li><b>will be released</b> (cụm động từ (thì tương lai đơn bị động)): Đây là dạng bị động của thì tương lai đơn: 'will be' + quá khứ phân từ. Nghĩa là tin tức sẽ được công bố bởi ai đó trong tương lai.</li><li><b>are released</b> (cụm động từ (thì hiện tại đơn bị động)): Đây là dạng bị động của thì hiện tại đơn. Không phù hợp vì câu nói về hành động trong tương lai.</li><li><b>will release</b> (cụm động từ (thì tương lai đơn chủ động)): Đây là dạng chủ động của thì tương lai đơn. Cần có chủ ngữ thực hiện hành động (ai sẽ công bố tin tức), nhưng 'the news' không thể tự thực hiện hành động này.</li><li><b>will have been released</b> (cụm động từ (thì tương lai hoàn thành bị động)): Đây là dạng bị động của thì tương lai hoàn thành. Nghĩa là hành động sẽ hoàn thành trước một thời điểm xác định trong tương lai, nhưng câu không đề cập đến thời điểm đó.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động thì tương lai đơn: will be + quá khứ phân từ<br><br><b>Tạm dịch:</b> Tin tức sẽ được công bố càng sớm càng tốt.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, 'The news _______ as soon as possible.', the subject 'The news' is singular and refers to information. The sentence requires a passive voice construction because the news is being released by someone (the agent is not important or not mentioned). The correct passive future simple structure is 'will be + past participle'.<br><ul><li><b>will be released</b> (verb phrase (future simple passive)): This is the passive form of the future simple tense: 'will be' + past participle. It means that the news will be made public by someone in the future.</li><li><b>are released</b> (verb phrase (present simple passive)): This is the present simple passive form. It is not correct here because the sentence refers to a future action.</li><li><b>will release</b> (verb phrase (future simple active)): This is the active form of the future simple tense. It would require a subject (who will release the news), but 'the news' cannot perform the action.</li><li><b>will have been released</b> (verb phrase (future perfect passive)): This is the future perfect passive form. It means the action will be completed before a certain time in the future, but the sentence does not indicate such a time.</li></ul><b>Related structure or vocabulary:</b> Passive voice in future simple: will be + past participle<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb312e",
+        "questionNumber": 2,
+        "questionText": "An old woman feeds the pigeons.The pigeons ________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "are fed by an old woman",
+            "raw": "A. are fed by an old woman",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "were fed by an old woman",
+            "raw": "B. were fed by an old woman",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'An old woman feeds the pigeons.' is in the present simple tense and is in the active voice. To change it to the passive voice, we need to use the correct form of the verb 'to be' in the present simple (are) plus the past participle of the main verb (fed). Therefore, the correct passive form is 'The pigeons are fed by an old woman.'<br><ul><li><b>are fed by an old woman</b> (verb phrase (passive voice, present simple)): 'are' is the present simple form of 'to be' for plural nouns (the pigeons), and 'fed' is the past participle of 'feed'. This matches the tense of the original sentence.</li><li><b>were fed by an old woman</b> (verb phrase (passive voice, past simple)): 'were' is the past simple form of 'to be', which would change the tense of the sentence to the past. The original sentence is in the present, so this is incorrect.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present simple: am/is/are + past participle<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'An old woman feeds the pigeons.' ở thì hiện tại đơn và là câu chủ động. Khi chuyển sang câu bị động, ta cần dùng động từ 'to be' ở thì hiện tại đơn (are) cho danh từ số nhiều (the pigeons), sau đó là động từ chính ở dạng quá khứ phân từ (fed). Vì vậy, dạng bị động đúng là 'The pigeons are fed by an old woman.'<br><ul><li><b>are fed by an old woman</b> (cụm động từ (câu bị động, thì hiện tại đơn)): 'are' là động từ 'to be' ở thì hiện tại đơn dùng cho danh từ số nhiều (the pigeons), 'fed' là quá khứ phân từ của 'feed'. Dạng này phù hợp với thì của câu gốc.</li><li><b>were fed by an old woman</b> (cụm động từ (câu bị động, thì quá khứ đơn)): 'were' là động từ 'to be' ở thì quá khứ đơn, sẽ làm thay đổi thì của câu sang quá khứ. Câu gốc ở thì hiện tại nên đáp án này sai.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì hiện tại đơn: am/is/are + quá khứ phân từ (V3)<br><br><b>Tạm dịch:</b> Một bà lão cho bồ câu ăn. Bồ câu được cho ăn bởi một bà lão.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'An old woman feeds the pigeons.' is in the present simple tense and is in the active voice. To change it to the passive voice, we need to use the correct form of the verb 'to be' in the present simple (are) plus the past participle of the main verb (fed). Therefore, the correct passive form is 'The pigeons are fed by an old woman.'<br><ul><li><b>are fed by an old woman</b> (verb phrase (passive voice, present simple)): 'are' is the present simple form of 'to be' for plural nouns (the pigeons), and 'fed' is the past participle of 'feed'. This matches the tense of the original sentence.</li><li><b>were fed by an old woman</b> (verb phrase (passive voice, past simple)): 'were' is the past simple form of 'to be', which would change the tense of the sentence to the past. The original sentence is in the present, so this is incorrect.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present simple: am/is/are + past participle<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb312f",
+        "questionNumber": 3,
+        "questionText": "Someone has made a mistake.A mistake __________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was made",
+            "raw": "A. was made",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "has been made",
+            "raw": "B. has been made",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to change the active voice sentence 'Someone has made a mistake.' into the passive voice. In the present perfect tense, the passive structure is: has/have + been + past participle (V3). Therefore, 'A mistake has been made.' is the correct passive form.<br><ul><li><b>was made</b> (verb phrase): 'Was made' is the past simple passive form. It is used for actions that happened and finished in the past, not for present perfect situations.</li><li><b>has been made</b> (verb phrase): 'Has been made' is the present perfect passive form. It is used to describe an action that happened at an unspecified time before now and has relevance to the present.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present perfect tense: has/have + been + past participle (V3)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần chuyển câu chủ động 'Someone has made a mistake.' sang câu bị động. Ở thì hiện tại hoàn thành, cấu trúc bị động là: has/have + been + quá khứ phân từ (V3). Vì vậy, 'A mistake has been made.' là dạng bị động đúng.<br><ul><li><b>was made</b> (cụm động từ): 'Was made' là dạng bị động của thì quá khứ đơn. Dạng này dùng cho hành động đã xảy ra và kết thúc trong quá khứ, không phù hợp với thì hiện tại hoàn thành.</li><li><b>has been made</b> (cụm động từ): 'Has been made' là dạng bị động của thì hiện tại hoàn thành. Dạng này dùng để diễn tả hành động đã xảy ra tại một thời điểm không xác định trước hiện tại và có liên quan đến hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì hiện tại hoàn thành: has/have + been + quá khứ phân từ (V3)<br><br><b>Tạm dịch:</b> Một ai đó đã mắc một sai lầm. --> Một sai lầm đã được mắc phải.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need to change the active voice sentence 'Someone has made a mistake.' into the passive voice. In the present perfect tense, the passive structure is: has/have + been + past participle (V3). Therefore, 'A mistake has been made.' is the correct passive form.<br><ul><li><b>was made</b> (verb phrase): 'Was made' is the past simple passive form. It is used for actions that happened and finished in the past, not for present perfect situations.</li><li><b>has been made</b> (verb phrase): 'Has been made' is the present perfect passive form. It is used to describe an action that happened at an unspecified time before now and has relevance to the present.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present perfect tense: has/have + been + past participle (V3)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3130",
+        "questionNumber": 4,
+        "questionText": "Everyone is going to love her.She ___________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is going to be loved",
+            "raw": "A. is going to be loved",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "was going to be loved",
+            "raw": "B. was going to be loved",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Everyone is going to love her.' is in the active voice and uses the 'be going to' future form. To change it to the passive voice, we use the structure: 'be going to be + past participle.' Therefore, the correct passive form is 'She is going to be loved.'<br><ul><li><b>is going to be loved</b> (verb phrase): This is the correct passive form of 'is going to love.' It uses 'is going to be' (future passive) + 'loved' (past participle).</li><li><b>was going to be loved</b> (verb phrase): This is the past form of 'be going to be loved.' It means someone intended to love her in the past, which does not match the original sentence's tense.</li></ul><b>Related structure or vocabulary:</b> Passive voice with 'be going to': Subject + be (am/is/are) + going to be + past participle (V3).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Everyone is going to love her.' là câu chủ động ở thì tương lai gần với cấu trúc 'be going to.' Khi chuyển sang câu bị động, ta dùng cấu trúc: 'be going to be + quá khứ phân từ (V3).' Do đó, dạng bị động đúng là 'She is going to be loved.'<br><ul><li><b>is going to be loved</b> (cụm động từ): Đây là dạng bị động đúng của 'is going to love.' Sử dụng 'is going to be' (tương lai bị động) + 'loved' (quá khứ phân từ).</li><li><b>was going to be loved</b> (cụm động từ): Đây là dạng quá khứ của 'be going to be loved.' Nghĩa là ai đó đã định yêu cô ấy trong quá khứ, không phù hợp với thì của câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với 'be going to': Chủ ngữ + be (am/is/are) + going to be + quá khứ phân từ (V3).<br><br><b>Tạm dịch:</b> Mọi người sẽ yêu cô ấy. (Chủ động) => Cô ấy sẽ được yêu. (Bị động)",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Everyone is going to love her.' is in the active voice and uses the 'be going to' future form. To change it to the passive voice, we use the structure: 'be going to be + past participle.' Therefore, the correct passive form is 'She is going to be loved.'<br><ul><li><b>is going to be loved</b> (verb phrase): This is the correct passive form of 'is going to love.' It uses 'is going to be' (future passive) + 'loved' (past participle).</li><li><b>was going to be loved</b> (verb phrase): This is the past form of 'be going to be loved.' It means someone intended to love her in the past, which does not match the original sentence's tense.</li></ul><b>Related structure or vocabulary:</b> Passive voice with 'be going to': Subject + be (am/is/are) + going to be + past participle (V3).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3131",
+        "questionNumber": 5,
+        "questionText": "Cervantes wrote 'Don Quixote'.'Don Quixote' ____________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was written by Cervantes",
+            "raw": "A. was written by Cervantes",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "has been written by Cervantes",
+            "raw": "B. has been written by Cervantes",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Cervantes wrote Don Quixote.' is in the active voice. To change it to the passive voice, we use the structure: 'Object + be (in the correct tense) + past participle + by + subject.' The verb 'wrote' is in the past simple tense, so the passive form should also be in the past simple: 'was written.'<br><ul><li><b>was written by Cervantes</b> (verb phrase (past simple passive)): 'Was written' is the past simple passive form, which matches the tense of the original sentence ('wrote'). This is the correct answer.</li><li><b>has been written by Cervantes</b> (verb phrase (present perfect passive)): 'Has been written' is the present perfect passive form. This does not match the tense of the original sentence, which is in the past simple.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + be (in the correct tense) + past participle (+ by + agent). Past simple passive: was/were + past participle.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Cervantes wrote Don Quixote.' là câu chủ động ở thì quá khứ đơn. Khi chuyển sang câu bị động, ta sử dụng cấu trúc: 'Tân ngữ + be (chia theo thì phù hợp) + quá khứ phân từ + by + chủ ngữ.' Động từ 'wrote' ở thì quá khứ đơn nên câu bị động cũng phải ở thì quá khứ đơn: 'was written.'<br><ul><li><b>was written by Cervantes</b> (cụm động từ (bị động quá khứ đơn)): 'Was written' là dạng bị động của thì quá khứ đơn, phù hợp với thì của câu gốc ('wrote'). Đây là đáp án đúng.</li><li><b>has been written by Cervantes</b> (cụm động từ (bị động hiện tại hoàn thành)): 'Has been written' là dạng bị động của thì hiện tại hoàn thành. Dạng này không phù hợp với thì của câu gốc, vì câu gốc ở thì quá khứ đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: Chủ ngữ + be (chia theo thì) + quá khứ phân từ (+ by + tác nhân). Bị động thì quá khứ đơn: was/were + quá khứ phân từ.<br><br><b>Tạm dịch:</b> 'Don Quixote' được viết bởi Cervantes.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Cervantes wrote Don Quixote.' is in the active voice. To change it to the passive voice, we use the structure: 'Object + be (in the correct tense) + past participle + by + subject.' The verb 'wrote' is in the past simple tense, so the passive form should also be in the past simple: 'was written.'<br><ul><li><b>was written by Cervantes</b> (verb phrase (past simple passive)): 'Was written' is the past simple passive form, which matches the tense of the original sentence ('wrote'). This is the correct answer.</li><li><b>has been written by Cervantes</b> (verb phrase (present perfect passive)): 'Has been written' is the present perfect passive form. This does not match the tense of the original sentence, which is in the past simple.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + be (in the correct tense) + past participle (+ by + agent). Past simple passive: was/were + past participle.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3132",
+        "questionNumber": 6,
+        "questionText": "She is helping my sister.My sister ___________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is helped by her",
+            "raw": "A. is helped by her",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is being helped by her",
+            "raw": "B. is being helped by her",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'She is helping my sister.' is in the present continuous tense (is/am/are + V-ing). To change this sentence into the passive voice, we use the structure: Subject + am/is/are + being + past participle (V3) + by + agent. Therefore, 'My sister is being helped by her.' is the correct passive form.<br><ul><li><b>is helped by her</b> (verb phrase): This is the present simple passive form (am/is/are + V3). It is not correct because the original sentence is in the present continuous tense, not the present simple.</li><li><b>is being helped by her</b> (verb phrase): This is the present continuous passive form (am/is/are + being + V3), which matches the tense of the original sentence.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present continuous tense: am/is/are + being + past participle (V3)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'She is helping my sister.' đang ở thì hiện tại tiếp diễn (is/am/are + V-ing). Khi chuyển sang câu bị động, ta dùng cấu trúc: Chủ ngữ + am/is/are + being + phân từ II (V3) + by + tác nhân. Vì vậy, 'My sister is being helped by her.' là dạng bị động đúng của câu này.<br><ul><li><b>is helped by her</b> (cụm động từ): Đây là dạng bị động của thì hiện tại đơn (am/is/are + V3). Không đúng vì câu gốc đang ở thì hiện tại tiếp diễn, không phải hiện tại đơn.</li><li><b>is being helped by her</b> (cụm động từ): Đây là dạng bị động của thì hiện tại tiếp diễn (am/is/are + being + V3), phù hợp với thì của câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì hiện tại tiếp diễn: am/is/are + being + phân từ II (V3)<br><br><b>Tạm dịch:</b> Cô ấy đang giúp chị gái tôi. --> Chị gái tôi đang được cô ấy giúp đỡ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'She is helping my sister.' is in the present continuous tense (is/am/are + V-ing). To change this sentence into the passive voice, we use the structure: Subject + am/is/are + being + past participle (V3) + by + agent. Therefore, 'My sister is being helped by her.' is the correct passive form.<br><ul><li><b>is helped by her</b> (verb phrase): This is the present simple passive form (am/is/are + V3). It is not correct because the original sentence is in the present continuous tense, not the present simple.</li><li><b>is being helped by her</b> (verb phrase): This is the present continuous passive form (am/is/are + being + V3), which matches the tense of the original sentence.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present continuous tense: am/is/are + being + past participle (V3)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3133",
+        "questionNumber": 7,
+        "questionText": "Pamela will drive the bus.The bus ____________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will been driven by Pamela",
+            "raw": "A. will been driven by Pamela",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will be driven by Pamela",
+            "raw": "B. will be driven by Pamela",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence requires changing the active voice sentence 'Pamela will drive the bus.' into the passive voice. In the passive voice, the object of the active sentence ('the bus') becomes the subject, and the verb is formed as 'will be + past participle (driven)'. The agent ('by Pamela') is added at the end if needed.<br><ul><li><b>will been driven by Pamela</b> (verb phrase): 'Will been' is incorrect because after 'will', we use 'be' (base form), not 'been'. 'Been' is used with perfect tenses, not with 'will'.</li><li><b>will be driven by Pamela</b> (verb phrase): 'Will be driven' is the correct passive form for future simple tense: 'will be' + past participle.</li></ul><b>Related structure or vocabulary:</b> Passive voice in future simple tense: will be + past participle<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này yêu cầu chuyển câu chủ động 'Pamela will drive the bus.' sang câu bị động. Trong câu bị động, tân ngữ của câu chủ động ('the bus') trở thành chủ ngữ, và động từ được chia theo cấu trúc 'will be + quá khứ phân từ (driven)'. Tác nhân thực hiện hành động ('by Pamela') được thêm vào cuối câu nếu cần.<br><ul><li><b>will been driven by Pamela</b> (cụm động từ): 'Will been' là sai vì sau 'will' ta dùng 'be' (nguyên thể), không dùng 'been'. 'Been' chỉ dùng với thì hoàn thành, không dùng với 'will'.</li><li><b>will be driven by Pamela</b> (cụm động từ): 'Will be driven' là dạng bị động đúng của thì tương lai đơn: 'will be' + quá khứ phân từ.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động thì tương lai đơn: will be + quá khứ phân từ<br><br><b>Tạm dịch:</b> Câu chủ động: Pamela sẽ lái chiếc xe buýt. --> Câu bị động: Chiếc xe buýt sẽ được lái bởi Pamela.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence requires changing the active voice sentence 'Pamela will drive the bus.' into the passive voice. In the passive voice, the object of the active sentence ('the bus') becomes the subject, and the verb is formed as 'will be + past participle (driven)'. The agent ('by Pamela') is added at the end if needed.<br><ul><li><b>will been driven by Pamela</b> (verb phrase): 'Will been' is incorrect because after 'will', we use 'be' (base form), not 'been'. 'Been' is used with perfect tenses, not with 'will'.</li><li><b>will be driven by Pamela</b> (verb phrase): 'Will be driven' is the correct passive form for future simple tense: 'will be' + past participle.</li></ul><b>Related structure or vocabulary:</b> Passive voice in future simple tense: will be + past participle<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3134",
+        "questionNumber": 8,
+        "questionText": "I was watering the plants.The plants _________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were being watered by me",
+            "raw": "A. were being watered by me",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "are being watered by me",
+            "raw": "B. are being watered by me",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'I was watering the plants.' is in the past continuous tense (was/were + V-ing). To change this sentence into the passive voice, we use the structure: was/were + being + past participle (V3). The subject 'the plants' becomes the subject of the passive sentence. Therefore, the correct passive form is 'The plants were being watered by me.'<br><ul><li><b>were being watered by me</b> (Passive verb phrase (past continuous)): This is the correct passive form of the past continuous tense. 'Were being' is used for plural subjects (the plants), followed by the past participle 'watered'.</li><li><b>are being watered by me</b> (Passive verb phrase (present continuous)): This is the passive form of the present continuous tense, which does not match the tense of the original sentence.</li></ul><b>Related structure or vocabulary:</b> Passive voice of continuous tenses: was/were + being + V3 (past continuous passive); am/is/are + being + V3 (present continuous passive)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'I was watering the plants.' sử dụng thì quá khứ tiếp diễn (was/were + V-ing). Khi chuyển sang câu bị động, ta dùng cấu trúc: was/were + being + động từ phân từ II (V3). Chủ ngữ 'the plants' trở thành chủ ngữ của câu bị động. Vì vậy, dạng bị động đúng là 'The plants were being watered by me.'<br><ul><li><b>were being watered by me</b> (Cụm động từ bị động (quá khứ tiếp diễn)): Đây là dạng bị động đúng của thì quá khứ tiếp diễn. 'Were being' dùng cho chủ ngữ số nhiều (the plants), theo sau là động từ phân từ II 'watered'.</li><li><b>are being watered by me</b> (Cụm động từ bị động (hiện tại tiếp diễn)): Đây là dạng bị động của thì hiện tại tiếp diễn, không phù hợp với thì của câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động của thì tiếp diễn: was/were + being + V3 (quá khứ tiếp diễn bị động); am/is/are + being + V3 (hiện tại tiếp diễn bị động)<br><br><b>Tạm dịch:</b> Tôi đang tưới cây. --> Cây đang được tôi tưới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'I was watering the plants.' is in the past continuous tense (was/were + V-ing). To change this sentence into the passive voice, we use the structure: was/were + being + past participle (V3). The subject 'the plants' becomes the subject of the passive sentence. Therefore, the correct passive form is 'The plants were being watered by me.'<br><ul><li><b>were being watered by me</b> (Passive verb phrase (past continuous)): This is the correct passive form of the past continuous tense. 'Were being' is used for plural subjects (the plants), followed by the past participle 'watered'.</li><li><b>are being watered by me</b> (Passive verb phrase (present continuous)): This is the passive form of the present continuous tense, which does not match the tense of the original sentence.</li></ul><b>Related structure or vocabulary:</b> Passive voice of continuous tenses: was/were + being + V3 (past continuous passive); am/is/are + being + V3 (present continuous passive)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3135",
+        "questionNumber": 9,
+        "questionText": "\"Are we about to have dinner?\".\"Yes, it _____ in the dinning room\".",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is serving",
+            "raw": "A. is serving",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "serves",
+            "raw": "B. serves",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is being served",
+            "raw": "C. is being served",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "served",
+            "raw": "D. served",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence, the question is: 'Are we about to have dinner?' and the answer is: 'Yes, it _____ in the dining room.' The blank needs a verb form that fits the context. The subject 'it' refers to 'dinner,' and the sentence means that dinner is currently being served (by someone, but the person serving is not mentioned). Therefore, we need to use the passive voice in the present continuous tense: 'is being served.'<br><ul><li><b>is serving</b> (verb phrase): Present continuous active voice. This would mean 'it (dinner) is serving,' which is incorrect because dinner cannot serve itself.</li><li><b>serves</b> (verb): Simple present active voice. 'It serves' means dinner serves, which is not logical.</li><li><b>is being served</b> (verb phrase): Present continuous passive voice. This means dinner is in the process of being served (by someone). This fits the context.</li><li><b>served</b> (verb): Past participle or simple past. 'It served' is incorrect in this context.</li></ul><b>Related structure or vocabulary:</b> Present continuous passive: am/is/are + being + past participle. Used when the subject receives the action and the action is happening now.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu hỏi: 'Are we about to have dinner?' (Chúng ta sắp ăn tối phải không?), câu trả lời là: 'Yes, it _____ in the dining room.' (Vâng, nó _____ ở phòng ăn.) Ở đây, 'it' chỉ bữa tối, và ý nghĩa là bữa tối đang được phục vụ (ai đó phục vụ, nhưng không nói rõ ai). Vì vậy, ta cần dùng bị động ở thì hiện tại tiếp diễn: 'is being served'.<br><ul><li><b>is serving</b> (cụm động từ): Thì hiện tại tiếp diễn chủ động. Nghĩa là 'bữa tối đang phục vụ', không hợp lý vì bữa tối không thể tự phục vụ.</li><li><b>serves</b> (động từ): Thì hiện tại đơn chủ động. 'Bữa tối phục vụ', không hợp lý.</li><li><b>is being served</b> (cụm động từ): Thì hiện tại tiếp diễn bị động. Nghĩa là bữa tối đang được phục vụ (bởi ai đó). Phù hợp với ngữ cảnh.</li><li><b>served</b> (động từ): Quá khứ phân từ hoặc thì quá khứ đơn. 'Bữa tối đã phục vụ', không phù hợp trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động thì hiện tại tiếp diễn: am/is/are + being + V3 (quá khứ phân từ). Dùng khi chủ ngữ là người nhận hành động và hành động đang diễn ra.<br><br><b>Tạm dịch:</b> Câu hỏi: 'Chúng ta sắp ăn tối phải không?' - 'Vâng, bữa tối đang được phục vụ ở phòng ăn.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence, the question is: 'Are we about to have dinner?' and the answer is: 'Yes, it _____ in the dining room.' The blank needs a verb form that fits the context. The subject 'it' refers to 'dinner,' and the sentence means that dinner is currently being served (by someone, but the person serving is not mentioned). Therefore, we need to use the passive voice in the present continuous tense: 'is being served.'<br><ul><li><b>is serving</b> (verb phrase): Present continuous active voice. This would mean 'it (dinner) is serving,' which is incorrect because dinner cannot serve itself.</li><li><b>serves</b> (verb): Simple present active voice. 'It serves' means dinner serves, which is not logical.</li><li><b>is being served</b> (verb phrase): Present continuous passive voice. This means dinner is in the process of being served (by someone). This fits the context.</li><li><b>served</b> (verb): Past participle or simple past. 'It served' is incorrect in this context.</li></ul><b>Related structure or vocabulary:</b> Present continuous passive: am/is/are + being + past participle. Used when the subject receives the action and the action is happening now.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3136",
+        "questionNumber": 10,
+        "questionText": "\"Why is Stanley in jail?\"\"He_____ of robbery\".",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has been convicted",
+            "raw": "A. has been convicted",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "has been convicting",
+            "raw": "B. has been convicting",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "has convicted",
+            "raw": "C. has convicted",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "convicted",
+            "raw": "D. convicted",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after the verb 'is', which requires a past participle to form the present perfect passive voice. The correct structure is 'has been + past participle' to indicate that Stanley has received the action of being convicted. The sentence means Stanley has been found guilty of robbery.<br><ul><li><b>has been convicted</b> (verb phrase): Present perfect passive form. 'Has been' (present perfect of 'to be') + 'convicted' (past participle). Means someone has been found guilty.</li><li><b>has been convicting</b> (verb phrase): 'Convicting' is the present participle, but the passive form requires the past participle. This form is incorrect here.</li><li><b>has convicted</b> (verb phrase): Present perfect active. Means 'he' did the action, but the sentence needs passive voice (he received the action).</li><li><b>convicted</b> (verb): Past simple or past participle, but without 'has been', it does not fit the present perfect passive structure.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: has/have been + past participle. Used to show that something has happened to the subject.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống đứng sau động từ 'is', cần một động từ ở dạng quá khứ phân từ để tạo thành thì hiện tại hoàn thành bị động. Cấu trúc đúng là 'has been + past participle' để diễn tả việc Stanley đã bị kết tội. Câu này có nghĩa là Stanley đã bị kết tội cướp.<br><ul><li><b>has been convicted</b> (cụm động từ): Thì hiện tại hoàn thành bị động. 'Has been' (hiện tại hoàn thành của 'to be') + 'convicted' (quá khứ phân từ). Nghĩa là ai đó đã bị kết tội.</li><li><b>has been convicting</b> (cụm động từ): 'Convicting' là hiện tại phân từ, nhưng bị động cần dùng quá khứ phân từ. Dạng này không đúng ở đây.</li><li><b>has convicted</b> (cụm động từ): Thì hiện tại hoàn thành chủ động. Nghĩa là 'anh ấy' làm hành động, nhưng câu này cần bị động (anh ấy nhận hành động).</li><li><b>convicted</b> (động từ): Quá khứ đơn hoặc quá khứ phân từ, nhưng thiếu 'has been' nên không đúng cấu trúc hiện tại hoàn thành bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành bị động: has/have been + quá khứ phân từ. Dùng để diễn tả điều gì đó đã xảy ra với chủ ngữ.<br><br><b>Tạm dịch:</b> Anh ấy đã bị kết tội cướp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after the verb 'is', which requires a past participle to form the present perfect passive voice. The correct structure is 'has been + past participle' to indicate that Stanley has received the action of being convicted. The sentence means Stanley has been found guilty of robbery.<br><ul><li><b>has been convicted</b> (verb phrase): Present perfect passive form. 'Has been' (present perfect of 'to be') + 'convicted' (past participle). Means someone has been found guilty.</li><li><b>has been convicting</b> (verb phrase): 'Convicting' is the present participle, but the passive form requires the past participle. This form is incorrect here.</li><li><b>has convicted</b> (verb phrase): Present perfect active. Means 'he' did the action, but the sentence needs passive voice (he received the action).</li><li><b>convicted</b> (verb): Past simple or past participle, but without 'has been', it does not fit the present perfect passive structure.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: has/have been + past participle. Used to show that something has happened to the subject.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3137",
+        "questionNumber": 11,
+        "questionText": "\"Where are Jack and Jan?\"\"They_____ the boxes you asked for into the house\".",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "have been bringing",
+            "raw": "A. have been bringing",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "bringing",
+            "raw": "B. bringing",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "have been brought",
+            "raw": "C. have been brought",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "to bring",
+            "raw": "D. to bring",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence, the question is asking about the current activity of Jack and Jan. The correct answer should fit grammatically and logically after the verb 'are.' The structure 'are + V-ing' (present continuous) is used to describe actions happening right now. However, in the answer choices, only 'bringing' (V-ing) fits this structure. The other options do not fit grammatically after 'are.'<br><ul><li><b>have been bringing</b> (verb phrase): Present perfect continuous tense, used to describe an action that started in the past and is still continuing. However, it does not fit after 'are' in this sentence.</li><li><b>bringing</b> (verb (present participle)): Present participle (V-ing), used after 'are' to form the present continuous tense, indicating an action happening at the moment.</li><li><b>have been brought</b> (verb phrase (passive)): Present perfect passive, used to describe something that has been done to the subject. It does not fit after 'are' and does not make sense in this context.</li><li><b>to bring</b> (infinitive): Infinitive form, used to express purpose or intention, not suitable after 'are' in this context.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: 'be' (am/is/are) + V-ing is used to describe actions happening at the moment of speaking.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu hỏi, người hỏi muốn biết Jack và Jan đang làm gì vào thời điểm hiện tại. Đáp án đúng cần phù hợp về mặt ngữ pháp và ý nghĩa sau động từ 'are.' Cấu trúc 'are + V-ing' (thì hiện tại tiếp diễn) được dùng để diễn tả hành động đang xảy ra ngay lúc nói. Trong các lựa chọn, chỉ có 'bringing' (V-ing) phù hợp với cấu trúc này. Các đáp án khác không phù hợp về mặt ngữ pháp khi đứng sau 'are.'<br><ul><li><b>have been bringing</b> (cụm động từ): Thì hiện tại hoàn thành tiếp diễn, dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn còn tiếp tục. Tuy nhiên, không phù hợp khi đứng sau 'are' trong câu này.</li><li><b>bringing</b> (động từ (hiện tại phân từ)): Dạng hiện tại phân từ (V-ing), dùng sau 'are' để tạo thành thì hiện tại tiếp diễn, diễn tả hành động đang xảy ra.</li><li><b>have been brought</b> (cụm động từ (bị động)): Thì hiện tại hoàn thành bị động, dùng để diễn tả điều gì đó đã được thực hiện với chủ ngữ. Không phù hợp sau 'are' và không hợp nghĩa trong ngữ cảnh này.</li><li><b>to bring</b> (động từ nguyên mẫu): Dạng động từ nguyên mẫu, thường dùng để diễn tả mục đích hoặc ý định, không phù hợp sau 'are' trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại tiếp diễn: 'be' (am/is/are) + V-ing dùng để diễn tả hành động đang xảy ra tại thời điểm nói.<br><br><b>Tạm dịch:</b> Câu hỏi: 'Jack và Jan đang ở đâu?' 'Họ đang mang những chiếc hộp mà bạn yêu cầu vào trong nhà.' --> Đáp án đúng là B. bringing (đang mang).",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence, the question is asking about the current activity of Jack and Jan. The correct answer should fit grammatically and logically after the verb 'are.' The structure 'are + V-ing' (present continuous) is used to describe actions happening right now. However, in the answer choices, only 'bringing' (V-ing) fits this structure. The other options do not fit grammatically after 'are.'<br><ul><li><b>have been bringing</b> (verb phrase): Present perfect continuous tense, used to describe an action that started in the past and is still continuing. However, it does not fit after 'are' in this sentence.</li><li><b>bringing</b> (verb (present participle)): Present participle (V-ing), used after 'are' to form the present continuous tense, indicating an action happening at the moment.</li><li><b>have been brought</b> (verb phrase (passive)): Present perfect passive, used to describe something that has been done to the subject. It does not fit after 'are' and does not make sense in this context.</li><li><b>to bring</b> (infinitive): Infinitive form, used to express purpose or intention, not suitable after 'are' in this context.</li></ul><b>Related structure or vocabulary:</b> Present continuous tense: 'be' (am/is/are) + V-ing is used to describe actions happening at the moment of speaking.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3138",
+        "questionNumber": 12,
+        "questionText": "\"Where's the old chicken coop?\"\"It_____ by a windstorm last year.\"",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "destroy",
+            "raw": "A. destroy",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is destroyed",
+            "raw": "B. is destroyed",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was destroyed",
+            "raw": "C. was destroyed",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "destroyed",
+            "raw": "D. destroyed",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence needs a verb in the passive voice, past simple tense, because the action (the chicken coop being destroyed) happened in the past ('last year') and the subject (the chicken coop) received the action. The correct passive form for past simple is 'was + past participle'.<br><ul><li><b>destroy</b> (verb (base form)): Base form of the verb, not suitable for passive or past tense.</li><li><b>is destroyed</b> (verb (present simple passive)): Present simple passive, but the sentence refers to an event in the past ('last year').</li><li><b>was destroyed</b> (verb (past simple passive)): Past simple passive, correctly matches the time reference ('last year') and the passive structure.</li><li><b>destroyed</b> (verb (past participle) / adjective): Past participle or adjective, but without an auxiliary verb, it cannot form the passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice in the past simple: was/were + past participle. Used when the subject receives the action and the action happened in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một động từ ở thể bị động, thì quá khứ đơn, vì hành động (chuồng gà bị phá hủy) đã xảy ra trong quá khứ ('năm ngoái') và chủ ngữ (chuồng gà) là đối tượng chịu tác động. Dạng bị động đúng của thì quá khứ đơn là 'was + quá khứ phân từ'.<br><ul><li><b>destroy</b> (động từ (nguyên thể)): Dạng nguyên thể của động từ, không phù hợp cho thì quá khứ hoặc thể bị động.</li><li><b>is destroyed</b> (động từ (bị động hiện tại đơn)): Thể bị động thì hiện tại đơn, nhưng câu nói về sự việc đã xảy ra trong quá khứ ('năm ngoái').</li><li><b>was destroyed</b> (động từ (bị động quá khứ đơn)): Thể bị động thì quá khứ đơn, phù hợp với mốc thời gian ('năm ngoái') và cấu trúc bị động.</li><li><b>destroyed</b> (động từ (quá khứ phân từ) / tính từ): Quá khứ phân từ hoặc tính từ, nhưng thiếu trợ động từ nên không thể tạo thành câu bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động thì quá khứ đơn: was/were + quá khứ phân từ. Dùng khi chủ ngữ là đối tượng chịu tác động và hành động xảy ra trong quá khứ.<br><br><b>Tạm dịch:</b> Câu hỏi: 'Where's the old chicken coop?' 'It _____ by a windstorm last year.'\nĐáp án đúng là C. was destroyed.\nGiải thích: Chỗ trống cần điền động từ ở thể bị động, thì quá khứ đơn vì sự việc đã xảy ra trong quá khứ ('năm ngoái') và chủ ngữ là đối tượng bị tác động. Dạng đúng là 'was destroyed'.\nDịch: 'Chuồng gà cũ đâu rồi?' 'Nó đã bị một cơn bão phá hủy vào năm ngoái.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence needs a verb in the passive voice, past simple tense, because the action (the chicken coop being destroyed) happened in the past ('last year') and the subject (the chicken coop) received the action. The correct passive form for past simple is 'was + past participle'.<br><ul><li><b>destroy</b> (verb (base form)): Base form of the verb, not suitable for passive or past tense.</li><li><b>is destroyed</b> (verb (present simple passive)): Present simple passive, but the sentence refers to an event in the past ('last year').</li><li><b>was destroyed</b> (verb (past simple passive)): Past simple passive, correctly matches the time reference ('last year') and the passive structure.</li><li><b>destroyed</b> (verb (past participle) / adjective): Past participle or adjective, but without an auxiliary verb, it cannot form the passive voice.</li></ul><b>Related structure or vocabulary:</b> Passive voice in the past simple: was/were + past participle. Used when the subject receives the action and the action happened in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3139",
+        "questionNumber": 13,
+        "questionText": "\"We're still looking for Thomas\".\"Hasn't he_____ yet?\".",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "been found",
+            "raw": "A. been found",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "to find",
+            "raw": "B. to find",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "found",
+            "raw": "C. found",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "being found",
+            "raw": "D. being found",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Hasn't he _____ yet?', the blank requires the correct passive form of the verb to indicate whether Thomas has been found by someone. In English, the present perfect passive is formed as 'has/have + been + past participle'. Therefore, the correct answer is 'been found'.<br><ul><li><b>been found</b> (verb (present perfect passive)): 'been found' is the present perfect passive form, used to indicate that the action (finding Thomas) has been completed by someone.</li><li><b>to find</b> (verb (infinitive)): 'to find' is the infinitive form, which does not fit after 'hasn't he' and does not make sense in this context.</li><li><b>found</b> (verb (past participle)): 'found' is the past participle, but without 'been', it cannot form the passive voice here.</li><li><b>being found</b> (verb (present participle passive)): 'being found' is the present participle passive, used for continuous tenses or after prepositions, not after 'hasn't he'.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: has/have + been + past participle<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu 'Hasn't he _____ yet?', chỗ trống cần điền dạng bị động của thì hiện tại hoàn thành để diễn tả việc Thomas đã được tìm thấy bởi ai đó hay chưa. Ở tiếng Anh, thì hiện tại hoàn thành bị động được hình thành bằng cấu trúc 'has/have + been + quá khứ phân từ'. Vì vậy, đáp án đúng là 'been found'.<br><ul><li><b>been found</b> (động từ (bị động hiện tại hoàn thành)): 'been found' là dạng bị động của thì hiện tại hoàn thành, dùng để diễn tả hành động (tìm thấy Thomas) đã được ai đó thực hiện.</li><li><b>to find</b> (động từ (nguyên mẫu)): 'to find' là động từ nguyên mẫu, không phù hợp sau 'hasn't he' và không hợp nghĩa trong ngữ cảnh này.</li><li><b>found</b> (động từ (quá khứ phân từ)): 'found' là quá khứ phân từ, nhưng thiếu 'been' nên không thể tạo thành câu bị động ở đây.</li><li><b>being found</b> (động từ (hiện tại phân từ bị động)): 'being found' là dạng hiện tại phân từ bị động, thường dùng cho thì tiếp diễn hoặc sau giới từ, không dùng sau 'hasn't he'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc bị động hiện tại hoàn thành: has/have + been + quá khứ phân từ<br><br><b>Tạm dịch:</b> Chúng tôi vẫn đang tìm Thomas. - Thomas vẫn chưa được tìm thấy à?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Hasn't he _____ yet?', the blank requires the correct passive form of the verb to indicate whether Thomas has been found by someone. In English, the present perfect passive is formed as 'has/have + been + past participle'. Therefore, the correct answer is 'been found'.<br><ul><li><b>been found</b> (verb (present perfect passive)): 'been found' is the present perfect passive form, used to indicate that the action (finding Thomas) has been completed by someone.</li><li><b>to find</b> (verb (infinitive)): 'to find' is the infinitive form, which does not fit after 'hasn't he' and does not make sense in this context.</li><li><b>found</b> (verb (past participle)): 'found' is the past participle, but without 'been', it cannot form the passive voice here.</li><li><b>being found</b> (verb (present participle passive)): 'being found' is the present participle passive, used for continuous tenses or after prepositions, not after 'hasn't he'.</li></ul><b>Related structure or vocabulary:</b> Present perfect passive: has/have + been + past participle<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb313a",
+        "questionNumber": 14,
+        "questionText": "\"Diana is a wonderful ballet dancer\".\"She_____ since she was four\".",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has been dancing",
+            "raw": "A. has been dancing",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "has been danced",
+            "raw": "B. has been danced",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "is dancing",
+            "raw": "C. is dancing",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was danced",
+            "raw": "D. was danced",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate an action that started in the past and continues up to the present. The phrase 'since she was four' signals the use of the present perfect continuous tense (has/have been + V-ing) to show duration from a point in the past until now.<br><ul><li><b>has been dancing</b> (verb phrase): Present perfect continuous tense, used to describe an action that started in the past and is still continuing.</li><li><b>has been danced</b> (verb phrase (passive)): Incorrect passive form; 'dance' is not used in the passive in this context.</li><li><b>is dancing</b> (verb phrase): Present continuous tense, used for actions happening right now, not for actions that started in the past and continue to the present.</li><li><b>was danced</b> (verb phrase (passive)): Past simple passive, incorrect because the subject is the doer, not the receiver, and the tense does not fit the context.</li></ul><b>Related structure or vocabulary:</b> Present perfect continuous tense: has/have been + V-ing is used to describe an action that began in the past and continues to the present, often with 'since' or 'for'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền thì đúng của động từ để diễn tả một hành động bắt đầu trong quá khứ và vẫn tiếp diễn đến hiện tại. Cụm từ 'since she was four' (kể từ khi cô ấy 4 tuổi) là dấu hiệu nhận biết thì hiện tại hoàn thành tiếp diễn (has/have been + V-ing) để chỉ sự kéo dài từ một thời điểm trong quá khứ đến hiện tại.<br><ul><li><b>has been dancing</b> (cụm động từ): Thì hiện tại hoàn thành tiếp diễn, dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn tiếp diễn đến hiện tại.</li><li><b>has been danced</b> (cụm động từ (bị động)): Dạng bị động không đúng; 'dance' không dùng bị động trong ngữ cảnh này.</li><li><b>is dancing</b> (cụm động từ): Thì hiện tại tiếp diễn, dùng cho hành động đang xảy ra ngay lúc nói, không phù hợp để diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại.</li><li><b>was danced</b> (cụm động từ (bị động)): Thì quá khứ đơn bị động, không phù hợp vì chủ ngữ là người thực hiện hành động, không phải người nhận hành động, và thì cũng không phù hợp với ngữ cảnh.</li></ul><b>Cấu trúc và từ vựng:</b> Thì hiện tại hoàn thành tiếp diễn: has/have been + V-ing dùng để diễn tả hành động bắt đầu trong quá khứ và vẫn tiếp diễn đến hiện tại, thường đi với 'since' hoặc 'for'.<br><br><b>Tạm dịch:</b> Diana là một vũ công ba lê tuyệt vời. Cô ấy đã nhảy múa từ khi cô ấy 4 tuổi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb tense to indicate an action that started in the past and continues up to the present. The phrase 'since she was four' signals the use of the present perfect continuous tense (has/have been + V-ing) to show duration from a point in the past until now.<br><ul><li><b>has been dancing</b> (verb phrase): Present perfect continuous tense, used to describe an action that started in the past and is still continuing.</li><li><b>has been danced</b> (verb phrase (passive)): Incorrect passive form; 'dance' is not used in the passive in this context.</li><li><b>is dancing</b> (verb phrase): Present continuous tense, used for actions happening right now, not for actions that started in the past and continue to the present.</li><li><b>was danced</b> (verb phrase (passive)): Past simple passive, incorrect because the subject is the doer, not the receiver, and the tense does not fit the context.</li></ul><b>Related structure or vocabulary:</b> Present perfect continuous tense: has/have been + V-ing is used to describe an action that began in the past and continues to the present, often with 'since' or 'for'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb313b",
+        "questionNumber": 15,
+        "questionText": "\"What a beautiful dress you're wearing!\"\"Thank you. It_____ especially for me by a French tailor\".",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "is made",
+            "raw": "A. is made",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "has made",
+            "raw": "B. has made",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "made",
+            "raw": "C. made",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "are made",
+            "raw": "D. are made",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb in the passive voice to indicate that the dress was made by someone (a French tailor) for the speaker. The sentence is in the present perfect passive because it describes an action that has been completed recently and has a result in the present (the dress is being worn now). The correct structure is 'has/have been + past participle'.<br><ul><li><b>is made</b> (verb phrase): 'is made' is the present simple passive. It is used for general truths or repeated actions, not for a specific event in the past.</li><li><b>has made</b> (verb phrase): 'has made' is the present perfect active, not passive. It means someone has made something, but does not fit the passive structure needed here.</li><li><b>made</b> (verb): 'made' alone is the past simple or past participle, but without an auxiliary verb, it cannot form the passive voice.</li><li><b>are made</b> (verb phrase): 'are made' is the present simple passive, used for plural subjects or general truths, not for a specific dress.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle. Present simple passive: is/am/are + past participle. Present perfect passive: has/have been + past participle.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ ở thể bị động để diễn tả rằng chiếc váy được làm bởi ai đó (một thợ may người Pháp) cho người nói. Câu này đang nói về một hành động đã hoàn thành gần đây và có kết quả ở hiện tại (chiếc váy đang được mặc bây giờ), nên cần dùng thì hiện tại hoàn thành bị động với cấu trúc 'has/have been + quá khứ phân từ'.<br><ul><li><b>is made</b> (cụm động từ): 'is made' là thì hiện tại đơn bị động. Thường dùng cho sự thật chung hoặc hành động lặp đi lặp lại, không phù hợp với một sự kiện cụ thể đã xảy ra.</li><li><b>has made</b> (cụm động từ): 'has made' là thì hiện tại hoàn thành chủ động, không phải bị động. Nghĩa là ai đó đã làm gì, không phù hợp với cấu trúc bị động cần thiết ở đây.</li><li><b>made</b> (động từ): 'made' một mình là động từ quá khứ đơn hoặc quá khứ phân từ, nhưng không có trợ động từ nên không thể tạo thành câu bị động.</li><li><b>are made</b> (cụm động từ): 'are made' là thì hiện tại đơn bị động, dùng cho chủ ngữ số nhiều hoặc sự thật chung, không phù hợp với một chiếc váy cụ thể.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: be + quá khứ phân từ. Thì hiện tại đơn bị động: is/am/are + quá khứ phân từ. Thì hiện tại hoàn thành bị động: has/have been + quá khứ phân từ.<br><br><b>Tạm dịch:</b> \"What a beautiful dress you're wearing!\" (Bạn đang mặc một chiếc váy thật đẹp!) \"Thank you. It is made especially for me by a French tailor.\" (Cảm ơn bạn. Nó được làm riêng cho tôi bởi một thợ may người Pháp.)",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb in the passive voice to indicate that the dress was made by someone (a French tailor) for the speaker. The sentence is in the present perfect passive because it describes an action that has been completed recently and has a result in the present (the dress is being worn now). The correct structure is 'has/have been + past participle'.<br><ul><li><b>is made</b> (verb phrase): 'is made' is the present simple passive. It is used for general truths or repeated actions, not for a specific event in the past.</li><li><b>has made</b> (verb phrase): 'has made' is the present perfect active, not passive. It means someone has made something, but does not fit the passive structure needed here.</li><li><b>made</b> (verb): 'made' alone is the past simple or past participle, but without an auxiliary verb, it cannot form the passive voice.</li><li><b>are made</b> (verb phrase): 'are made' is the present simple passive, used for plural subjects or general truths, not for a specific dress.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle. Present simple passive: is/am/are + past participle. Present perfect passive: has/have been + past participle.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb313c",
+        "questionNumber": 16,
+        "questionText": "\"Those eggs of different colors are very artistic\".\"Yes, they_____ in Russia\".",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were painted",
+            "raw": "A. were painted",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "were paint",
+            "raw": "B. were paint",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "were painting",
+            "raw": "C. were painting",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "painted",
+            "raw": "D. painted",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank needs a passive verb form to indicate that the eggs were painted by someone in Russia. The structure 'they _____ in Russia' requires the past simple passive because the action (painting) was done to the eggs in the past.<br><ul><li><b>were painted</b> (verb (past simple passive)): This is the past simple passive form (be + past participle), which is used to show that something was done by someone in the past.</li><li><b>were paint</b> (verb (base form)): This is incorrect because 'paint' is the base form of the verb and does not fit after 'were'.</li><li><b>were painting</b> (verb (past continuous passive)): This is the past continuous passive, but it is not correct here because the sentence is talking about a completed action, not an ongoing one.</li><li><b>painted</b> (verb (past simple)): This is the past simple form, but without 'were', it cannot be used in the passive voice here.</li></ul><b>Related structure or vocabulary:</b> Passive voice (be + past participle) is used to show that the subject receives the action. In the past simple passive, the structure is: was/were + past participle.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống cần một động từ ở dạng bị động để chỉ rằng những quả trứng đã được ai đó sơn ở Nga. Cấu trúc 'they _____ in Russia' cần thì quá khứ đơn bị động vì hành động (sơn) đã được thực hiện lên những quả trứng trong quá khứ.<br><ul><li><b>were painted</b> (động từ (quá khứ đơn bị động)): Đây là dạng bị động của thì quá khứ đơn (be + quá khứ phân từ), dùng để diễn tả một hành động đã được thực hiện bởi ai đó trong quá khứ.</li><li><b>were paint</b> (động từ (nguyên thể)): Sai vì 'paint' là động từ nguyên thể, không thể đứng sau 'were'.</li><li><b>were painting</b> (động từ (quá khứ tiếp diễn bị động)): Đây là thì quá khứ tiếp diễn bị động, không phù hợp vì câu nói về một hành động đã hoàn thành, không phải đang diễn ra.</li><li><b>painted</b> (động từ (quá khứ đơn)): Đây là động từ quá khứ đơn, nhưng không có 'were' nên không thể dùng ở dạng bị động trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động (be + quá khứ phân từ) dùng để diễn tả chủ ngữ là đối tượng chịu tác động của hành động. Ở thì quá khứ đơn bị động, cấu trúc là: was/were + quá khứ phân từ.<br><br><b>Tạm dịch:</b> Những quả trứng nhiều màu sắc đó rất nghệ thuật. – Vâng, chúng đã được sơn ở Nga.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank needs a passive verb form to indicate that the eggs were painted by someone in Russia. The structure 'they _____ in Russia' requires the past simple passive because the action (painting) was done to the eggs in the past.<br><ul><li><b>were painted</b> (verb (past simple passive)): This is the past simple passive form (be + past participle), which is used to show that something was done by someone in the past.</li><li><b>were paint</b> (verb (base form)): This is incorrect because 'paint' is the base form of the verb and does not fit after 'were'.</li><li><b>were painting</b> (verb (past continuous passive)): This is the past continuous passive, but it is not correct here because the sentence is talking about a completed action, not an ongoing one.</li><li><b>painted</b> (verb (past simple)): This is the past simple form, but without 'were', it cannot be used in the passive voice here.</li></ul><b>Related structure or vocabulary:</b> Passive voice (be + past participle) is used to show that the subject receives the action. In the past simple passive, the structure is: was/were + past participle.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb313d",
+        "questionNumber": 17,
+        "questionText": "Gold_____ in California in the nineteenth century.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was discovered",
+            "raw": "A. was discovered",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "has been discovered",
+            "raw": "B. has been discovered",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was discover",
+            "raw": "C. was discover",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "they discovered",
+            "raw": "D. they discovered",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Gold_____ in California in the nineteenth century.' requires a passive verb in the past simple tense. This is because the sentence talks about an event that happened in the past (the nineteenth century) and the subject 'Gold' is the receiver of the action (it was discovered, not discovering). The correct passive form is 'was discovered.'<br><ul><li><b>was discovered</b> (verb (past simple passive)): Past simple passive form of 'discover', used to indicate that gold was found by someone in the past.</li><li><b>has been discovered</b> (verb (present perfect passive)): Present perfect passive, used for actions that happened at an unspecified time before now. Not suitable here because the time is specified (nineteenth century).</li><li><b>was discover</b> (verb (incorrect form)): Incorrect form. 'Discover' should be in the past participle form 'discovered' to form the passive voice.</li><li><b>they discovered</b> (verb (active voice)): Active voice, not passive. Also, 'they' is not needed as the subject is 'Gold'.</li></ul><b>Related structure or vocabulary:</b> Passive voice in the past simple: Subject + was/were + past participle. Used when the subject receives the action and the doer is unknown or unimportant.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Gold_____ in California in the nineteenth century.' cần một động từ bị động ở thì quá khứ đơn. Lý do là vì câu nói về một sự kiện đã xảy ra trong quá khứ (thế kỷ 19) và chủ ngữ 'Gold' là đối tượng chịu tác động của hành động (vàng được phát hiện, không phải là vàng đi phát hiện). Dạng bị động đúng là 'was discovered'.<br><ul><li><b>was discovered</b> (động từ (bị động quá khứ đơn)): Dạng bị động quá khứ đơn của 'discover', dùng để chỉ vàng đã được ai đó phát hiện trong quá khứ.</li><li><b>has been discovered</b> (động từ (bị động hiện tại hoàn thành)): Dạng bị động hiện tại hoàn thành, dùng cho hành động xảy ra vào thời điểm không xác định trước hiện tại. Không phù hợp vì câu đã xác định thời gian (thế kỷ 19).</li><li><b>was discover</b> (động từ (dạng sai)): Dạng sai. 'Discover' phải ở dạng quá khứ phân từ 'discovered' để tạo thành câu bị động.</li><li><b>they discovered</b> (động từ (chủ động)): Dạng chủ động, không phải bị động. Ngoài ra, 'they' không cần thiết vì chủ ngữ là 'Gold'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì quá khứ đơn: Chủ ngữ + was/were + quá khứ phân từ. Dùng khi chủ ngữ là đối tượng chịu tác động và người thực hiện hành động không quan trọng hoặc không xác định.<br><br><b>Tạm dịch:</b> Vàng đã được phát hiện ở California vào thế kỷ 19.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Gold_____ in California in the nineteenth century.' requires a passive verb in the past simple tense. This is because the sentence talks about an event that happened in the past (the nineteenth century) and the subject 'Gold' is the receiver of the action (it was discovered, not discovering). The correct passive form is 'was discovered.'<br><ul><li><b>was discovered</b> (verb (past simple passive)): Past simple passive form of 'discover', used to indicate that gold was found by someone in the past.</li><li><b>has been discovered</b> (verb (present perfect passive)): Present perfect passive, used for actions that happened at an unspecified time before now. Not suitable here because the time is specified (nineteenth century).</li><li><b>was discover</b> (verb (incorrect form)): Incorrect form. 'Discover' should be in the past participle form 'discovered' to form the passive voice.</li><li><b>they discovered</b> (verb (active voice)): Active voice, not passive. Also, 'they' is not needed as the subject is 'Gold'.</li></ul><b>Related structure or vocabulary:</b> Passive voice in the past simple: Subject + was/were + past participle. Used when the subject receives the action and the doer is unknown or unimportant.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb313e",
+        "questionNumber": 18,
+        "questionText": "All planes_____ before departure.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will checked",
+            "raw": "A. will checked",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will has checked",
+            "raw": "B. will has checked",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "will be checked",
+            "raw": "C. will be checked",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "will been checked",
+            "raw": "D. will been checked",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct passive voice form of the verb 'check' in the future tense. The structure for the future simple passive is: will + be + past participle (V3).<br><ul><li><b>will checked</b> (verb phrase): 'Will' must be followed by the base form of the verb, not the past participle. This is incorrect.</li><li><b>will has checked</b> (verb phrase): 'Will' should be followed by the base form, and 'has' is not used after 'will'. This is incorrect.</li><li><b>will be checked</b> (verb phrase): This is the correct future simple passive form: will + be + past participle.</li><li><b>will been checked</b> (verb phrase): 'Been' is used in perfect tenses, not with 'will' for the future simple passive. This is incorrect.</li></ul><b>Related structure or vocabulary:</b> Future Simple Passive: will + be + past participle (V3)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần điền dạng bị động của động từ 'check' ở thì tương lai đơn. Cấu trúc bị động của thì tương lai đơn là: will + be + động từ ở dạng quá khứ phân từ (V3).<br><ul><li><b>will checked</b> (cụm động từ): 'Will' phải đi với động từ nguyên thể, không phải quá khứ phân từ. Đáp án này sai.</li><li><b>will has checked</b> (cụm động từ): 'Will' phải đi với động từ nguyên thể, không dùng 'has' sau 'will'. Đáp án này sai.</li><li><b>will be checked</b> (cụm động từ): Đây là dạng bị động đúng của thì tương lai đơn: will + be + quá khứ phân từ.</li><li><b>will been checked</b> (cụm động từ): 'Been' dùng trong các thì hoàn thành, không dùng với 'will' trong bị động của thì tương lai đơn. Đáp án này sai.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động thì tương lai đơn: will + be + động từ ở dạng quá khứ phân từ (V3)<br><br><b>Tạm dịch:</b> Tất cả các máy bay sẽ được kiểm tra trước khi khởi hành.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the correct passive voice form of the verb 'check' in the future tense. The structure for the future simple passive is: will + be + past participle (V3).<br><ul><li><b>will checked</b> (verb phrase): 'Will' must be followed by the base form of the verb, not the past participle. This is incorrect.</li><li><b>will has checked</b> (verb phrase): 'Will' should be followed by the base form, and 'has' is not used after 'will'. This is incorrect.</li><li><b>will be checked</b> (verb phrase): This is the correct future simple passive form: will + be + past participle.</li><li><b>will been checked</b> (verb phrase): 'Been' is used in perfect tenses, not with 'will' for the future simple passive. This is incorrect.</li></ul><b>Related structure or vocabulary:</b> Future Simple Passive: will + be + past participle (V3)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb313f",
+        "questionNumber": 19,
+        "questionText": "I wanted_____ by the head of the company, but it was impossible.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to see",
+            "raw": "A. to see",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "to be seen",
+            "raw": "B. to be seen",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "seeing",
+            "raw": "C. seeing",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "being to see",
+            "raw": "D. being to see",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I wanted_____ by the head of the company, but it was impossible.' requires a passive infinitive form. After the verb 'want', when the subject wants someone else to do something to them, we use 'to be + past participle' (to be seen).<br><ul><li><b>to see</b> (infinitive): Infinitive form, used when the subject wants to do the action themselves (I wanted to see...), not to receive the action.</li><li><b>to be seen</b> (passive infinitive): Passive infinitive, used when the subject wants to receive the action (I wanted to be seen...). This fits the context.</li><li><b>seeing</b> (gerund): Gerund form, not used after 'want' in this context.</li><li><b>being to see</b> (incorrect structure): Incorrect structure in English; not a valid verb form.</li></ul><b>Related structure or vocabulary:</b> want + to V (active) / want + to be + V3 (passive): When the subject wants to receive the action, use the passive infinitive.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I wanted_____ by the head of the company, but it was impossible.' cần một dạng bị động của động từ nguyên mẫu. Sau động từ 'want', khi chủ ngữ muốn được người khác làm gì cho mình, ta dùng cấu trúc 'to be + V3' (to be seen).<br><ul><li><b>to see</b> (động từ nguyên mẫu): Dạng động từ nguyên mẫu, dùng khi chủ ngữ muốn tự mình làm hành động (I wanted to see...), không phù hợp khi muốn nhận hành động.</li><li><b>to be seen</b> (động từ nguyên mẫu bị động): Dạng động từ nguyên mẫu bị động, dùng khi chủ ngữ muốn nhận hành động (I wanted to be seen...). Phù hợp với ngữ cảnh.</li><li><b>seeing</b> (danh động từ): Dạng V-ing, không dùng sau 'want' trong trường hợp này.</li><li><b>being to see</b> (cấu trúc sai): Cấu trúc sai trong tiếng Anh; không phải dạng động từ hợp lệ.</li></ul><b>Cấu trúc và từ vựng:</b> want + to V (chủ động) / want + to be + V3 (bị động): Khi chủ ngữ muốn nhận hành động, dùng động từ nguyên mẫu bị động.<br><br><b>Tạm dịch:</b> Tôi muốn được gặp bởi giám đốc công ty, nhưng điều đó là không thể.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I wanted_____ by the head of the company, but it was impossible.' requires a passive infinitive form. After the verb 'want', when the subject wants someone else to do something to them, we use 'to be + past participle' (to be seen).<br><ul><li><b>to see</b> (infinitive): Infinitive form, used when the subject wants to do the action themselves (I wanted to see...), not to receive the action.</li><li><b>to be seen</b> (passive infinitive): Passive infinitive, used when the subject wants to receive the action (I wanted to be seen...). This fits the context.</li><li><b>seeing</b> (gerund): Gerund form, not used after 'want' in this context.</li><li><b>being to see</b> (incorrect structure): Incorrect structure in English; not a valid verb form.</li></ul><b>Related structure or vocabulary:</b> want + to V (active) / want + to be + V3 (passive): When the subject wants to receive the action, use the passive infinitive.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247a9383f28145bcbb3140",
+        "questionNumber": 20,
+        "questionText": "\"Where did you get these old dresses?\".\"We_____ them in the old trunk\".",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "were found",
+            "raw": "A. were found",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "finding",
+            "raw": "B. finding",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "found",
+            "raw": "C. found",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "have been found",
+            "raw": "D. have been found",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We_____ them in the old trunk' requires a verb in the past simple tense to match the context of the question 'Where did you get these old dresses?'. The action of finding the dresses happened in the past, so the correct verb form is the past simple.<br><ul><li><b>were found</b> (verb (past simple passive)): 'Were found' is the past simple passive form. It means the dresses were found by someone, but in this sentence, 'we' is the subject who did the action, so passive voice is incorrect.</li><li><b>finding</b> (verb (V-ing)): 'Finding' is the present participle or gerund form. It cannot be used as the main verb in this sentence.</li><li><b>found</b> (verb (past simple)): 'Found' is the past simple form of 'find'. It is the correct form to use here because the action happened in the past and 'we' is the subject.</li><li><b>have been found</b> (verb (present perfect passive)): 'Have been found' is the present perfect passive form. It would be used if the dresses were found by someone (not 'we'), but here 'we' is the subject who did the action.</li></ul><b>Related structure or vocabulary:</b> Past Simple Tense: Used to describe actions that happened and finished in the past. Structure: Subject + past simple verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We_____ them in the old trunk' cần một động từ ở thì quá khứ đơn để phù hợp với ngữ cảnh của câu hỏi 'Where did you get these old dresses?'. Hành động tìm thấy những chiếc váy này đã xảy ra trong quá khứ, vì vậy động từ đúng là thì quá khứ đơn.<br><ul><li><b>were found</b> (động từ (quá khứ đơn bị động)): 'Were found' là thì quá khứ đơn dạng bị động. Nghĩa là những chiếc váy được tìm thấy bởi ai đó, nhưng trong câu này 'we' là chủ ngữ thực hiện hành động nên không dùng bị động.</li><li><b>finding</b> (động từ (V-ing)): 'Finding' là dạng hiện tại phân từ hoặc danh động từ. Không thể dùng làm động từ chính trong câu này.</li><li><b>found</b> (động từ (quá khứ đơn)): 'Found' là thì quá khứ đơn của 'find'. Đây là dạng đúng cần dùng vì hành động xảy ra trong quá khứ và 'we' là chủ ngữ.</li><li><b>have been found</b> (động từ (hiện tại hoàn thành bị động)): 'Have been found' là thì hiện tại hoàn thành dạng bị động. Dùng khi những chiếc váy được tìm thấy bởi ai đó (không phải 'we'), nhưng ở đây 'we' là chủ ngữ thực hiện hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ. Cấu trúc: Chủ ngữ + động từ quá khứ.<br><br><b>Tạm dịch:</b> Chúng tôi tìm thấy chúng trong chiếc rương cũ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We_____ them in the old trunk' requires a verb in the past simple tense to match the context of the question 'Where did you get these old dresses?'. The action of finding the dresses happened in the past, so the correct verb form is the past simple.<br><ul><li><b>were found</b> (verb (past simple passive)): 'Were found' is the past simple passive form. It means the dresses were found by someone, but in this sentence, 'we' is the subject who did the action, so passive voice is incorrect.</li><li><b>finding</b> (verb (V-ing)): 'Finding' is the present participle or gerund form. It cannot be used as the main verb in this sentence.</li><li><b>found</b> (verb (past simple)): 'Found' is the past simple form of 'find'. It is the correct form to use here because the action happened in the past and 'we' is the subject.</li><li><b>have been found</b> (verb (present perfect passive)): 'Have been found' is the present perfect passive form. It would be used if the dresses were found by someone (not 'we'), but here 'we' is the subject who did the action.</li></ul><b>Related structure or vocabulary:</b> Past Simple Tense: Used to describe actions that happened and finished in the past. Structure: Subject + past simple verb.<br><br>"
+      }
+    }
+  ]
+}

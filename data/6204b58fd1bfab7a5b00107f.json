@@ -1,0 +1,808 @@
+{
+  "topicId": "6204b58fd1bfab7a5b00107f",
+  "title": "CONJUNCTIONS - Practice 5",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012c9",
+        "questionNumber": 1,
+        "questionText": "All employees must provide written authorization from their supervisor ____ removing any video equipment from this room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "before",
+            "raw": "A. before",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "until",
+            "raw": "B. until",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "from",
+            "raw": "C. from",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "during",
+            "raw": "D. during",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that shows the time relationship between providing written authorization and removing video equipment. The correct word should indicate that the authorization must be given first, before the action of removing equipment happens.<br><ul><li><b>before</b> (preposition): Indicates that one action happens earlier than another. In this context, employees must provide authorization earlier than removing equipment.</li><li><b>until</b> (preposition): Means up to the point in time or the event mentioned. It does not fit here because it would suggest employees can remove equipment up to the time they provide authorization, which is not logical.</li><li><b>from</b> (preposition): Indicates the starting point of an action or event. It does not fit the context of time sequence required here.</li><li><b>during</b> (preposition): Means throughout the duration of an event or time. It does not fit because the sentence is about the sequence of actions, not something happening at the same time.</li></ul><b>Related structure or vocabulary:</b> before + V-ing/noun: used to show that one action must happen earlier than another.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu yêu cầu một từ chỉ mối quan hệ thời gian giữa việc cung cấp giấy ủy quyền và việc mang thiết bị video ra khỏi phòng. Từ đúng cần chỉ ra rằng giấy ủy quyền phải được cung cấp trước khi hành động mang thiết bị ra khỏi phòng diễn ra.<br><ul><li><b>before</b> (giới từ): Chỉ rằng một hành động xảy ra trước hành động khác. Trong ngữ cảnh này, nhân viên phải cung cấp giấy ủy quyền trước khi mang thiết bị ra khỏi phòng.</li><li><b>until</b> (giới từ): Có nghĩa là cho đến thời điểm hoặc sự kiện được đề cập. Không phù hợp ở đây vì nó sẽ ngụ ý rằng nhân viên có thể mang thiết bị ra cho đến khi họ cung cấp giấy ủy quyền, điều này không hợp lý.</li><li><b>from</b> (giới từ): Chỉ điểm bắt đầu của một hành động hoặc sự kiện. Không phù hợp với ngữ cảnh chỉ trình tự thời gian ở đây.</li><li><b>during</b> (giới từ): Có nghĩa là trong suốt khoảng thời gian của một sự kiện hoặc thời gian. Không phù hợp vì câu này nói về trình tự hành động, không phải hai hành động xảy ra cùng lúc.</li></ul><b>Cấu trúc và từ vựng:</b> before + V-ing/danh từ: dùng để chỉ một hành động phải xảy ra trước hành động khác.<br><br><b>Tạm dịch:</b> Tất cả nhân viên phải cung cấp giấy ủy quyền bằng văn bản từ người giám sát của họ trước khi mang bất kỳ thiết bị video nào ra khỏi phòng này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that shows the time relationship between providing written authorization and removing video equipment. The correct word should indicate that the authorization must be given first, before the action of removing equipment happens.<br><ul><li><b>before</b> (preposition): Indicates that one action happens earlier than another. In this context, employees must provide authorization earlier than removing equipment.</li><li><b>until</b> (preposition): Means up to the point in time or the event mentioned. It does not fit here because it would suggest employees can remove equipment up to the time they provide authorization, which is not logical.</li><li><b>from</b> (preposition): Indicates the starting point of an action or event. It does not fit the context of time sequence required here.</li><li><b>during</b> (preposition): Means throughout the duration of an event or time. It does not fit because the sentence is about the sequence of actions, not something happening at the same time.</li></ul><b>Related structure or vocabulary:</b> before + V-ing/noun: used to show that one action must happen earlier than another.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012ca",
+        "questionNumber": 2,
+        "questionText": "____the advertising campaign begins, product recognition is expected to rise rapidly.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Nevertheless",
+            "raw": "A. Nevertheless",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Despite",
+            "raw": "B. Despite",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Still",
+            "raw": "C. Still",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Once",
+            "raw": "D. Once",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a conjunction or linking word that shows the relationship between the advertising campaign beginning and the expected rise in product recognition. The sentence means that after the advertising campaign starts, product recognition will increase quickly. The correct word should indicate a time relationship.<br><ul><li><b>Nevertheless</b> (adverb/conjunction): Means 'however' or 'in spite of that'; used to contrast two ideas.</li><li><b>Despite</b> (preposition): Means 'in spite of'; used to show contrast, usually followed by a noun or gerund.</li><li><b>Still</b> (adverb): Means 'up to and including the present or the time mentioned'; used to show continuation.</li><li><b>Once</b> (conjunction): Means 'as soon as' or 'when'; used to indicate that something will happen after another event.</li></ul><b>Related structure or vocabulary:</b> once + clause: used to show that when one event happens, another event will follow. Example: Once you finish your homework, you can watch TV.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một liên từ hoặc từ nối để thể hiện mối quan hệ giữa việc bắt đầu chiến dịch quảng cáo và việc nhận diện sản phẩm được kỳ vọng sẽ tăng nhanh chóng. Câu này có nghĩa là sau khi chiến dịch quảng cáo bắt đầu, nhận diện sản phẩm sẽ tăng nhanh. Từ đúng cần thể hiện mối quan hệ về thời gian.<br><ul><li><b>Nevertheless</b> (trạng từ/liên từ): Có nghĩa là 'tuy nhiên', dùng để đối lập hai ý.</li><li><b>Despite</b> (giới từ): Có nghĩa là 'mặc dù', dùng để thể hiện sự đối lập, thường theo sau là danh từ hoặc động từ thêm -ing.</li><li><b>Still</b> (trạng từ): Có nghĩa là 'vẫn còn', dùng để chỉ sự tiếp diễn.</li><li><b>Once</b> (liên từ): Có nghĩa là 'ngay khi' hoặc 'khi', dùng để chỉ rằng một sự việc sẽ xảy ra sau một sự kiện khác.</li></ul><b>Cấu trúc và từ vựng:</b> once + mệnh đề: dùng để chỉ rằng khi một sự kiện xảy ra, một sự kiện khác sẽ theo sau. Ví dụ: Once you finish your homework, you can watch TV.<br><br><b>Tạm dịch:</b> Ngay khi chiến dịch quảng cáo bắt đầu, việc nhận diện sản phẩm được kỳ vọng sẽ tăng nhanh chóng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a conjunction or linking word that shows the relationship between the advertising campaign beginning and the expected rise in product recognition. The sentence means that after the advertising campaign starts, product recognition will increase quickly. The correct word should indicate a time relationship.<br><ul><li><b>Nevertheless</b> (adverb/conjunction): Means 'however' or 'in spite of that'; used to contrast two ideas.</li><li><b>Despite</b> (preposition): Means 'in spite of'; used to show contrast, usually followed by a noun or gerund.</li><li><b>Still</b> (adverb): Means 'up to and including the present or the time mentioned'; used to show continuation.</li><li><b>Once</b> (conjunction): Means 'as soon as' or 'when'; used to indicate that something will happen after another event.</li></ul><b>Related structure or vocabulary:</b> once + clause: used to show that when one event happens, another event will follow. Example: Once you finish your homework, you can watch TV.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012cb",
+        "questionNumber": 3,
+        "questionText": "The price Mr. Jenson was quoted for the truck failed to account for sales tax ____ registration fees.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "although",
+            "raw": "A. although",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "or",
+            "raw": "B. or",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "both",
+            "raw": "C. both",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "neither",
+            "raw": "D. neither",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The price Mr. Jenson was quoted for the truck failed to account for sales tax ____ registration fees.' requires a word that connects 'sales tax' and 'registration fees.' The context is that both items were not included in the quoted price. The correct conjunction to use here is 'or,' especially after a negative phrase ('failed to account for'). In English, after a negative, 'or' is used to mean 'not this and not that.'<br><ul><li><b>although</b> (conjunction): A conjunction meaning 'mặc dù' or 'even though.' It is used to contrast two clauses, not to connect two nouns in a list.</li><li><b>or</b> (conjunction): A conjunction used to connect alternatives or items in a negative context, meaning 'hoặc.' After a negative verb, 'or' is used to mean 'neither this nor that.'</li><li><b>both</b> (determiner): A determiner used to refer to two things together, but it is not used to connect two nouns directly in this structure.</li><li><b>neither</b> (conjunction/pronoun): A conjunction or pronoun used to mean 'not one nor the other,' but it is not used to connect two nouns in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> After a negative verb (like 'fail to'), use 'or' to connect two items that are both excluded. Structure: fail to account for X or Y = không bao gồm X hoặc Y.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The price Mr. Jenson was quoted for the truck failed to account for sales tax ____ registration fees.' cần một từ nối để liên kết 'sales tax' và 'registration fees.' Ngữ cảnh là cả hai khoản này đều không được tính vào giá báo cho ông Jenson. Trong tiếng Anh, sau một mệnh đề phủ định (như 'failed to account for'), ta dùng 'or' để diễn đạt ý 'không cái này cũng không cái kia.'<br><ul><li><b>although</b> (liên từ): Liên từ mang nghĩa 'mặc dù', dùng để nối hai mệnh đề trái ngược nhau, không dùng để nối hai danh từ trong danh sách.</li><li><b>or</b> (liên từ): Liên từ dùng để nối các lựa chọn hoặc các thành phần trong câu phủ định, mang nghĩa 'hoặc.' Sau động từ phủ định, 'or' được dùng để chỉ cả hai đều không được tính.</li><li><b>both</b> (từ xác định): Từ xác định dùng để chỉ cả hai, nhưng không dùng để nối trực tiếp hai danh từ trong cấu trúc này.</li><li><b>neither</b> (liên từ/đại từ): Liên từ hoặc đại từ mang nghĩa 'không cái nào trong hai,' nhưng không dùng để nối hai danh từ trong cấu trúc này.</li></ul><b>Cấu trúc và từ vựng:</b> Sau động từ phủ định (như 'fail to'), dùng 'or' để nối hai thành phần đều không được bao gồm. Cấu trúc: fail to account for X or Y = không bao gồm X hoặc Y.<br><br><b>Tạm dịch:</b> Giá mà ông Jenson được báo cho chiếc xe tải không bao gồm thuế bán hàng hoặc phí đăng ký.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The price Mr. Jenson was quoted for the truck failed to account for sales tax ____ registration fees.' requires a word that connects 'sales tax' and 'registration fees.' The context is that both items were not included in the quoted price. The correct conjunction to use here is 'or,' especially after a negative phrase ('failed to account for'). In English, after a negative, 'or' is used to mean 'not this and not that.'<br><ul><li><b>although</b> (conjunction): A conjunction meaning 'mặc dù' or 'even though.' It is used to contrast two clauses, not to connect two nouns in a list.</li><li><b>or</b> (conjunction): A conjunction used to connect alternatives or items in a negative context, meaning 'hoặc.' After a negative verb, 'or' is used to mean 'neither this nor that.'</li><li><b>both</b> (determiner): A determiner used to refer to two things together, but it is not used to connect two nouns directly in this structure.</li><li><b>neither</b> (conjunction/pronoun): A conjunction or pronoun used to mean 'not one nor the other,' but it is not used to connect two nouns in this sentence structure.</li></ul><b>Related structure or vocabulary:</b> After a negative verb (like 'fail to'), use 'or' to connect two items that are both excluded. Structure: fail to account for X or Y = không bao gồm X hoặc Y.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012cc",
+        "questionNumber": 4,
+        "questionText": "Mail service almost never gets interrupted even ____ there is inclement weather.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "which",
+            "raw": "A. which",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "when",
+            "raw": "B. when",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "in case",
+            "raw": "C. in case",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "in order that",
+            "raw": "D. in order that",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that introduces a subordinate clause showing contrast. The sentence means that mail service is almost never interrupted, even if there is bad weather. The correct conjunction to use here is 'when', which means 'at the time that' or 'in the event that'. In this context, 'when' is used to indicate that the mail service continues even during inclement weather.<br><ul><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used to introduce relative clauses, not to connect contrasting clauses.</li><li><b>when</b> (conjunction): 'When' is a conjunction used to indicate the time at which something happens. In this sentence, it means 'even at the time that there is inclement weather'.</li><li><b>in case</b> (conjunction phrase): 'In case' is used to express precaution, meaning 'because of the possibility that'. It does not fit the meaning of the sentence.</li><li><b>in order that</b> (conjunction phrase): 'In order that' is used to express purpose, meaning 'so that'. It is not appropriate for this sentence.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'when', 'while', 'as soon as', etc. 'Even when' is a common phrase used to show that something happens despite a certain condition.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để nối mệnh đề phụ chỉ sự tương phản. Câu này có nghĩa là dịch vụ thư tín hầu như không bao giờ bị gián đoạn, ngay cả khi thời tiết xấu. Liên từ phù hợp ở đây là 'when', mang nghĩa 'khi' hoặc 'vào lúc'. Trong ngữ cảnh này, 'when' dùng để chỉ rằng dịch vụ thư tín vẫn tiếp tục ngay cả trong điều kiện thời tiết xấu.<br><ul><li><b>which</b> (đại từ quan hệ): 'Which' là đại từ quan hệ dùng để giới thiệu mệnh đề quan hệ, không dùng để nối hai mệnh đề chỉ sự tương phản.</li><li><b>when</b> (liên từ): 'When' là liên từ chỉ thời gian, mang nghĩa 'khi'. Trong câu này, nó có nghĩa là 'ngay cả khi có thời tiết xấu'.</li><li><b>in case</b> (cụm liên từ): 'In case' dùng để chỉ sự đề phòng, mang nghĩa 'phòng khi'. Không phù hợp với ý nghĩa của câu.</li><li><b>in order that</b> (cụm liên từ): 'In order that' dùng để chỉ mục đích, mang nghĩa 'để mà'. Không phù hợp với câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ thời gian: 'when', 'while', 'as soon as', v.v. Cụm 'even when' thường dùng để diễn tả một hành động xảy ra ngay cả khi có điều kiện bất lợi.<br><br><b>Tạm dịch:</b> Dịch vụ thư tín hầu như không bao giờ bị gián đoạn, ngay cả khi có thời tiết xấu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that introduces a subordinate clause showing contrast. The sentence means that mail service is almost never interrupted, even if there is bad weather. The correct conjunction to use here is 'when', which means 'at the time that' or 'in the event that'. In this context, 'when' is used to indicate that the mail service continues even during inclement weather.<br><ul><li><b>which</b> (relative pronoun): 'Which' is a relative pronoun used to introduce relative clauses, not to connect contrasting clauses.</li><li><b>when</b> (conjunction): 'When' is a conjunction used to indicate the time at which something happens. In this sentence, it means 'even at the time that there is inclement weather'.</li><li><b>in case</b> (conjunction phrase): 'In case' is used to express precaution, meaning 'because of the possibility that'. It does not fit the meaning of the sentence.</li><li><b>in order that</b> (conjunction phrase): 'In order that' is used to express purpose, meaning 'so that'. It is not appropriate for this sentence.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'when', 'while', 'as soon as', etc. 'Even when' is a common phrase used to show that something happens despite a certain condition.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012cd",
+        "questionNumber": 5,
+        "questionText": "All items, ____ opened or unopened, may be refunded so long as the customer provides a receipt.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "neither",
+            "raw": "A. neither",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "whether",
+            "raw": "B. whether",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "unless",
+            "raw": "C. unless",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "besides",
+            "raw": "D. besides",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that introduces two alternatives (opened or unopened). The correct word is 'whether', which is used to show that either option is possible. The sentence means that all items, no matter if they are opened or unopened, can be refunded if the customer has a receipt.<br><ul><li><b>neither</b> (conjunction/pronoun): Used to indicate not one nor the other of two things.</li><li><b>whether</b> (conjunction): Used to introduce two or more alternatives.</li><li><b>unless</b> (conjunction): Means 'except if'; introduces a condition.</li><li><b>besides</b> (preposition/adverb): Means 'in addition to'; used to add information.</li></ul><b>Related structure or vocabulary:</b> whether + A or B: used to show two alternatives or possibilities<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ dùng để giới thiệu hai lựa chọn (opened hoặc unopened). Từ đúng là 'whether', được sử dụng để chỉ rằng cả hai lựa chọn đều có thể xảy ra. Câu này có nghĩa là tất cả các mặt hàng, dù đã mở hay chưa mở, đều có thể được hoàn tiền nếu khách hàng cung cấp hóa đơn.<br><ul><li><b>neither</b> (liên từ/đại từ): Dùng để chỉ không cái nào trong hai cái.</li><li><b>whether</b> (liên từ): Dùng để giới thiệu hai hoặc nhiều lựa chọn.</li><li><b>unless</b> (liên từ): Có nghĩa là 'trừ khi'; dùng để đưa ra điều kiện.</li><li><b>besides</b> (giới từ/trạng từ): Có nghĩa là 'ngoài ra'; dùng để bổ sung thông tin.</li></ul><b>Cấu trúc và từ vựng:</b> whether + A or B: dùng để chỉ hai lựa chọn hoặc khả năng<br><br><b>Tạm dịch:</b> Tất cả các mặt hàng, dù đã mở hay chưa mở, đều có thể được hoàn tiền miễn là khách hàng cung cấp hóa đơn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that introduces two alternatives (opened or unopened). The correct word is 'whether', which is used to show that either option is possible. The sentence means that all items, no matter if they are opened or unopened, can be refunded if the customer has a receipt.<br><ul><li><b>neither</b> (conjunction/pronoun): Used to indicate not one nor the other of two things.</li><li><b>whether</b> (conjunction): Used to introduce two or more alternatives.</li><li><b>unless</b> (conjunction): Means 'except if'; introduces a condition.</li><li><b>besides</b> (preposition/adverb): Means 'in addition to'; used to add information.</li></ul><b>Related structure or vocabulary:</b> whether + A or B: used to show two alternatives or possibilities<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012ce",
+        "questionNumber": 6,
+        "questionText": "The selection committee decided to choose ____ Mr. Nakamura or Ms. Wilson for the new job",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "either",
+            "raw": "A. either",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "unless",
+            "raw": "B. unless",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "both",
+            "raw": "C. both",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "without",
+            "raw": "D. without",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that connects two alternatives, Mr. Nakamura and Ms. Wilson. The correct word should indicate that the committee will choose one of the two, but not both. The word 'either' is used to present a choice between two options.<br><ul><li><b>either</b> (conjunction/pronoun): 'Either' is used to indicate a choice between two alternatives. In this context, it means the committee will choose one person, not both.</li><li><b>unless</b> (conjunction): 'Unless' is a conjunction used to mean 'except if.' It does not fit the context of choosing between two people.</li><li><b>both</b> (pronoun/determiner): 'Both' refers to two people or things together. It would mean the committee chooses Mr. Nakamura and Ms. Wilson, which does not fit the sentence structure.</li><li><b>without</b> (preposition): 'Without' is a preposition meaning 'not having.' It does not connect two alternatives and is not suitable here.</li></ul><b>Related structure or vocabulary:</b> either ... or: used to present two alternatives. Example: You can have either tea or coffee.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ để nối hai lựa chọn, đó là ông Nakamura và bà Wilson. Từ đúng phải thể hiện rằng ban tuyển chọn sẽ chọn một trong hai người, chứ không phải cả hai. 'Either' được dùng để đưa ra lựa chọn giữa hai phương án.<br><ul><li><b>either</b> (liên từ/đại từ): 'Either' dùng để chỉ một trong hai lựa chọn. Trong ngữ cảnh này, nó có nghĩa là ban tuyển chọn sẽ chọn một người, không phải cả hai.</li><li><b>unless</b> (liên từ): 'Unless' là liên từ mang nghĩa 'trừ khi'. Nó không phù hợp với ngữ cảnh lựa chọn giữa hai người.</li><li><b>both</b> (đại từ/từ xác định): 'Both' chỉ hai người hoặc vật cùng nhau. Nếu dùng ở đây sẽ mang nghĩa ban tuyển chọn chọn cả ông Nakamura và bà Wilson, không phù hợp với cấu trúc câu.</li><li><b>without</b> (giới từ): 'Without' là giới từ mang nghĩa 'không có'. Nó không dùng để nối hai lựa chọn nên không phù hợp.</li></ul><b>Cấu trúc và từ vựng:</b> either ... or: dùng để đưa ra hai lựa chọn. Ví dụ: Bạn có thể uống trà hoặc cà phê.<br><br><b>Tạm dịch:</b> Ban tuyển chọn quyết định chọn hoặc ông Nakamura hoặc bà Wilson cho công việc mới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that connects two alternatives, Mr. Nakamura and Ms. Wilson. The correct word should indicate that the committee will choose one of the two, but not both. The word 'either' is used to present a choice between two options.<br><ul><li><b>either</b> (conjunction/pronoun): 'Either' is used to indicate a choice between two alternatives. In this context, it means the committee will choose one person, not both.</li><li><b>unless</b> (conjunction): 'Unless' is a conjunction used to mean 'except if.' It does not fit the context of choosing between two people.</li><li><b>both</b> (pronoun/determiner): 'Both' refers to two people or things together. It would mean the committee chooses Mr. Nakamura and Ms. Wilson, which does not fit the sentence structure.</li><li><b>without</b> (preposition): 'Without' is a preposition meaning 'not having.' It does not connect two alternatives and is not suitable here.</li></ul><b>Related structure or vocabulary:</b> either ... or: used to present two alternatives. Example: You can have either tea or coffee.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012cf",
+        "questionNumber": 7,
+        "questionText": "Ms. Miller went inside the station ____ her train had left five minutes before she arrived there.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "as if",
+            "raw": "A. as if",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "even though",
+            "raw": "B. even though",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "while",
+            "raw": "C. while",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "because",
+            "raw": "D. because",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Ms. Miller went inside the station ____ her train had left five minutes before she arrived there.' requires a conjunction that shows the reason why Ms. Miller went inside the station. The correct answer is 'because,' as it explains the cause: she went inside since her train had already left.<br><ul><li><b>as if</b> (conjunction/phrase): Used to describe something that appears to be true but is not; shows comparison or manner, not reason.</li><li><b>even though</b> (conjunction): Used to show contrast; means 'despite the fact that.'</li><li><b>while</b> (conjunction): Used to show two actions happening at the same time or to contrast two ideas.</li><li><b>because</b> (conjunction): Used to show reason or cause; explains why something happens.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of reason: 'because' is used to give the reason for an action. Structure: because + clause.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Ms. Miller went inside the station ____ her train had left five minutes before she arrived there.' cần một liên từ chỉ lý do tại sao cô ấy vào nhà ga. Đáp án đúng là 'because' vì nó giải thích nguyên nhân: cô ấy vào nhà ga vì tàu đã rời đi trước khi cô ấy đến.<br><ul><li><b>as if</b> (liên từ/cụm từ): Dùng để mô tả điều gì đó có vẻ đúng nhưng thực tế không phải; chỉ sự so sánh hoặc cách thức, không phải lý do.</li><li><b>even though</b> (liên từ): Dùng để chỉ sự tương phản; nghĩa là 'mặc dù'.</li><li><b>while</b> (liên từ): Dùng để chỉ hai hành động xảy ra đồng thời hoặc để so sánh hai ý tưởng.</li><li><b>because</b> (liên từ): Dùng để chỉ lý do hoặc nguyên nhân; giải thích tại sao điều gì đó xảy ra.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ nguyên nhân: 'because' dùng để đưa ra lý do cho một hành động. Cấu trúc: because + mệnh đề.<br><br><b>Tạm dịch:</b> Ms. Miller đã vào trong nhà ga vì tàu của cô ấy đã rời đi năm phút trước khi cô ấy đến đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Ms. Miller went inside the station ____ her train had left five minutes before she arrived there.' requires a conjunction that shows the reason why Ms. Miller went inside the station. The correct answer is 'because,' as it explains the cause: she went inside since her train had already left.<br><ul><li><b>as if</b> (conjunction/phrase): Used to describe something that appears to be true but is not; shows comparison or manner, not reason.</li><li><b>even though</b> (conjunction): Used to show contrast; means 'despite the fact that.'</li><li><b>while</b> (conjunction): Used to show two actions happening at the same time or to contrast two ideas.</li><li><b>because</b> (conjunction): Used to show reason or cause; explains why something happens.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of reason: 'because' is used to give the reason for an action. Structure: because + clause.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d0",
+        "questionNumber": 8,
+        "questionText": "____ this is of the utmost importance, please finish this project as soon as you can.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "However",
+            "raw": "A. However",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Despite",
+            "raw": "B. Despite",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Because",
+            "raw": "C. Because",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Therefore",
+            "raw": "D. Therefore",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a conjunction or linking word that connects the reason for urgency to the request. The phrase 'this is of the utmost importance' gives a reason, so we need a word that means 'because of this' or 'for this reason.'<br><ul><li><b>However</b> (conjunction/adverb): Used to show contrast or contradiction, similar to 'but.'</li><li><b>Despite</b> (preposition): Used to show contrast, meaning 'in spite of.' It is followed by a noun or gerund, not a clause.</li><li><b>Because</b> (conjunction): Used to give a reason, followed by a clause.</li><li><b>Therefore</b> (conjunction/adverb): Used to show a result or consequence, meaning 'for that reason.'</li></ul><b>Related structure or vocabulary:</b> Therefore is used to introduce a result or conclusion based on the previous statement. Structure: [Reason]. Therefore, [result].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một liên từ hoặc từ nối để liên kết lý do về sự quan trọng với yêu cầu hoàn thành dự án. Cụm 'this is of the utmost importance' đưa ra lý do, nên cần một từ mang nghĩa 'vì vậy' hoặc 'do đó'.<br><ul><li><b>However</b> (liên từ/trạng từ): Dùng để chỉ sự tương phản, nghĩa là 'tuy nhiên'.</li><li><b>Despite</b> (giới từ): Dùng để chỉ sự tương phản, nghĩa là 'mặc dù'. Theo sau là danh từ hoặc V-ing, không phải mệnh đề.</li><li><b>Because</b> (liên từ): Dùng để đưa ra lý do, theo sau là một mệnh đề.</li><li><b>Therefore</b> (liên từ/trạng từ): Dùng để chỉ kết quả hoặc hệ quả, nghĩa là 'do đó', 'vì vậy'.</li></ul><b>Cấu trúc và từ vựng:</b> Therefore dùng để giới thiệu kết quả hoặc kết luận dựa trên câu trước. Cấu trúc: [Lý do]. Therefore, [kết quả].<br><br><b>Tạm dịch:</b> Vì điều này là vô cùng quan trọng, do đó hãy hoàn thành dự án này càng sớm càng tốt.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a conjunction or linking word that connects the reason for urgency to the request. The phrase 'this is of the utmost importance' gives a reason, so we need a word that means 'because of this' or 'for this reason.'<br><ul><li><b>However</b> (conjunction/adverb): Used to show contrast or contradiction, similar to 'but.'</li><li><b>Despite</b> (preposition): Used to show contrast, meaning 'in spite of.' It is followed by a noun or gerund, not a clause.</li><li><b>Because</b> (conjunction): Used to give a reason, followed by a clause.</li><li><b>Therefore</b> (conjunction/adverb): Used to show a result or consequence, meaning 'for that reason.'</li></ul><b>Related structure or vocabulary:</b> Therefore is used to introduce a result or conclusion based on the previous statement. Structure: [Reason]. Therefore, [result].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d1",
+        "questionNumber": 9,
+        "questionText": "I would like to know ____ you will be visiting tomorrow morning or later in the afternoon.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "than",
+            "raw": "A. than",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "whereas",
+            "raw": "B. whereas",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "whether",
+            "raw": "C. whether",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "such",
+            "raw": "D. such",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I would like to know ____ you will be visiting tomorrow morning or later in the afternoon.' requires a word that introduces two possible alternatives (tomorrow morning or later in the afternoon). The correct word is 'whether', which is used to introduce indirect questions with alternatives.<br><ul><li><b>than</b> (conjunction): 'Than' is used for comparisons, not for introducing alternatives or indirect questions.</li><li><b>whereas</b> (conjunction): 'Whereas' is used to contrast two clauses, not to introduce alternatives in indirect questions.</li><li><b>whether</b> (conjunction): 'Whether' is used to introduce indirect questions or alternatives, especially when there are two possibilities.</li><li><b>such</b> (determiner/pronoun): 'Such' is used as a determiner or pronoun to refer to something of the type already mentioned, not to introduce alternatives.</li></ul><b>Related structure or vocabulary:</b> whether + clause: used to introduce indirect questions with alternatives (e.g., I don't know whether he will come.)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I would like to know ____ you will be visiting tomorrow morning or later in the afternoon.' cần một từ dùng để giới thiệu hai khả năng (sáng mai hoặc chiều muộn). 'Whether' là từ đúng vì nó dùng để mở đầu câu hỏi gián tiếp với hai lựa chọn.<br><ul><li><b>than</b> (liên từ): 'Than' dùng để so sánh, không dùng để giới thiệu lựa chọn hoặc câu hỏi gián tiếp.</li><li><b>whereas</b> (liên từ): 'Whereas' dùng để đối lập hai mệnh đề, không dùng để giới thiệu lựa chọn trong câu hỏi gián tiếp.</li><li><b>whether</b> (liên từ): 'Whether' dùng để mở đầu câu hỏi gián tiếp hoặc giới thiệu hai khả năng.</li><li><b>such</b> (từ xác định/đại từ): 'Such' là từ xác định hoặc đại từ, dùng để chỉ loại đã đề cập, không dùng để giới thiệu lựa chọn.</li></ul><b>Cấu trúc và từ vựng:</b> whether + mệnh đề: dùng để mở đầu câu hỏi gián tiếp với hai lựa chọn (ví dụ: I don't know whether he will come.)<br><br><b>Tạm dịch:</b> Tôi muốn biết liệu bạn sẽ đến thăm vào sáng mai hay muộn hơn vào buổi chiều.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I would like to know ____ you will be visiting tomorrow morning or later in the afternoon.' requires a word that introduces two possible alternatives (tomorrow morning or later in the afternoon). The correct word is 'whether', which is used to introduce indirect questions with alternatives.<br><ul><li><b>than</b> (conjunction): 'Than' is used for comparisons, not for introducing alternatives or indirect questions.</li><li><b>whereas</b> (conjunction): 'Whereas' is used to contrast two clauses, not to introduce alternatives in indirect questions.</li><li><b>whether</b> (conjunction): 'Whether' is used to introduce indirect questions or alternatives, especially when there are two possibilities.</li><li><b>such</b> (determiner/pronoun): 'Such' is used as a determiner or pronoun to refer to something of the type already mentioned, not to introduce alternatives.</li></ul><b>Related structure or vocabulary:</b> whether + clause: used to introduce indirect questions with alternatives (e.g., I don't know whether he will come.)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d2",
+        "questionNumber": 10,
+        "questionText": "____ you wish to dine at the hotel’s restaurant, please call at least two hours ahead to make a reservation.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Whether",
+            "raw": "A. Whether",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Despite",
+            "raw": "B. Despite",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "If",
+            "raw": "C. If",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "For",
+            "raw": "D. For",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that introduces a condition for the action in the main clause. The sentence structure is: '____ you wish to dine at the hotel’s restaurant, please call at least two hours ahead to make a reservation.' The correct word to use here is 'If', which is used to introduce a conditional clause. The sentence means: 'In case you wish to dine at the hotel’s restaurant, please call at least two hours ahead to make a reservation.'<br><ul><li><b>Whether</b> (conjunction): Used to introduce alternatives or indirect questions, not suitable for direct conditional sentences.</li><li><b>Despite</b> (preposition): Used to show contrast, not to introduce a condition.</li><li><b>If</b> (conjunction): Used to introduce a condition; correct choice for conditional sentences.</li><li><b>For</b> (preposition): Used as a preposition meaning 'because of' or 'to indicate purpose', not suitable here.</li></ul><b>Related structure or vocabulary:</b> Conditional sentences: If + subject + verb, main clause. Example: If you are free, call me.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ để giới thiệu điều kiện cho hành động ở mệnh đề chính. Cấu trúc câu là: '____ you wish to dine at the hotel’s restaurant, please call at least two hours ahead to make a reservation.' Từ đúng cần dùng ở đây là 'If', dùng để đưa ra một điều kiện. Câu này có nghĩa: 'Nếu bạn muốn ăn tối tại nhà hàng của khách sạn, vui lòng gọi trước ít nhất hai tiếng để đặt bàn.'<br><ul><li><b>Whether</b> (liên từ): Dùng để đưa ra lựa chọn hoặc câu hỏi gián tiếp, không phù hợp với câu điều kiện trực tiếp.</li><li><b>Despite</b> (giới từ): Dùng để diễn tả sự tương phản, không dùng để đưa ra điều kiện.</li><li><b>If</b> (liên từ): Dùng để đưa ra điều kiện; là lựa chọn đúng cho câu điều kiện.</li><li><b>For</b> (giới từ): Dùng như một giới từ mang nghĩa 'bởi vì' hoặc chỉ mục đích, không phù hợp ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> Câu điều kiện: If + chủ ngữ + động từ, mệnh đề chính. Ví dụ: If you are free, call me.<br><br><b>Tạm dịch:</b> Nếu bạn muốn ăn tối tại nhà hàng của khách sạn, vui lòng gọi trước ít nhất hai tiếng để đặt bàn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that introduces a condition for the action in the main clause. The sentence structure is: '____ you wish to dine at the hotel’s restaurant, please call at least two hours ahead to make a reservation.' The correct word to use here is 'If', which is used to introduce a conditional clause. The sentence means: 'In case you wish to dine at the hotel’s restaurant, please call at least two hours ahead to make a reservation.'<br><ul><li><b>Whether</b> (conjunction): Used to introduce alternatives or indirect questions, not suitable for direct conditional sentences.</li><li><b>Despite</b> (preposition): Used to show contrast, not to introduce a condition.</li><li><b>If</b> (conjunction): Used to introduce a condition; correct choice for conditional sentences.</li><li><b>For</b> (preposition): Used as a preposition meaning 'because of' or 'to indicate purpose', not suitable here.</li></ul><b>Related structure or vocabulary:</b> Conditional sentences: If + subject + verb, main clause. Example: If you are free, call me.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d3",
+        "questionNumber": 11,
+        "questionText": "Employees must pass a safety course prior to working on the assembly line in order to ensure their personal safety ____ their overall productivity.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "even though",
+            "raw": "A. even though",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "in order to",
+            "raw": "B. in order to",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "as well as",
+            "raw": "C. as well as",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "whether</p>",
+            "raw": "D. whether</p>",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a phrase that connects 'their personal safety' and 'their overall productivity.' The correct connector should indicate that both personal safety and overall productivity are ensured by passing the safety course. The phrase 'as well as' is used to add one thing to another, meaning 'in addition to.'<br><ul><li><b>even though</b> (conjunction): Means 'despite the fact that.' It is used to show contrast, not addition.</li><li><b>in order to</b> (phrase): Means 'for the purpose of.' It is used to express purpose, not to connect two nouns.</li><li><b>as well as</b> (phrase): Means 'in addition to.' It is used to add one thing to another, suitable for connecting two nouns.</li><li><b>whether</b> (conjunction): Used to introduce alternatives or possibilities, not for addition.</li></ul><b>Related structure or vocabulary:</b> as well as + noun: in addition to something<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một cụm từ để nối 'their personal safety' (an toàn cá nhân của họ) và 'their overall productivity' (năng suất tổng thể của họ). Cụm từ đúng phải thể hiện rằng việc tham gia khóa học an toàn không chỉ đảm bảo an toàn cá nhân mà còn cả năng suất tổng thể. 'As well as' có nghĩa là 'cũng như' hoặc 'thêm vào đó', dùng để nối hai danh từ.<br><ul><li><b>even though</b> (liên từ): Có nghĩa là 'mặc dù', dùng để diễn tả sự tương phản, không phải để thêm thông tin.</li><li><b>in order to</b> (cụm từ): Có nghĩa là 'để', dùng để chỉ mục đích, không dùng để nối hai danh từ.</li><li><b>as well as</b> (cụm từ): Có nghĩa là 'cũng như', 'thêm vào đó', dùng để nối hai danh từ, phù hợp với ngữ cảnh.</li><li><b>whether</b> (liên từ): Dùng để đưa ra lựa chọn hoặc khả năng, không dùng để thêm thông tin.</li></ul><b>Cấu trúc và từ vựng:</b> as well as + danh từ: thêm vào, cũng như<br><br><b>Tạm dịch:</b> Nhân viên phải vượt qua một khóa học an toàn trước khi làm việc trên dây chuyền lắp ráp để đảm bảo an toàn cá nhân cũng như năng suất tổng thể của họ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a phrase that connects 'their personal safety' and 'their overall productivity.' The correct connector should indicate that both personal safety and overall productivity are ensured by passing the safety course. The phrase 'as well as' is used to add one thing to another, meaning 'in addition to.'<br><ul><li><b>even though</b> (conjunction): Means 'despite the fact that.' It is used to show contrast, not addition.</li><li><b>in order to</b> (phrase): Means 'for the purpose of.' It is used to express purpose, not to connect two nouns.</li><li><b>as well as</b> (phrase): Means 'in addition to.' It is used to add one thing to another, suitable for connecting two nouns.</li><li><b>whether</b> (conjunction): Used to introduce alternatives or possibilities, not for addition.</li></ul><b>Related structure or vocabulary:</b> as well as + noun: in addition to something<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d4",
+        "questionNumber": 12,
+        "questionText": "The river is too dirty __________ unsafe to drink.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "and",
+            "raw": "A. and",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "but",
+            "raw": "B. but ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "or",
+            "raw": "C. or ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "so",
+            "raw": "D. so",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The river is too dirty __________ unsafe to drink.' requires a conjunction to connect two adjectives ('dirty' and 'unsafe') that describe the river. The structure 'too ... to ...' is used to indicate that something is excessive to the point that another action cannot happen. In this case, we need a conjunction that shows the river is both dirty and unsafe, not contrasting or giving a result. The correct conjunction is 'and', which is used to add information.<br><ul><li><b>and</b> (conjunction): Used to connect words of the same part of speech, clauses, or sentences, that are to be taken jointly.</li><li><b>but</b> (conjunction): Used to introduce a phrase or clause contrasting with what has already been mentioned.</li><li><b>or</b> (conjunction): Used to link alternatives.</li><li><b>so</b> (conjunction): Used to show the result or consequence of something.</li></ul><b>Related structure or vocabulary:</b> too + adjective + and + adjective + to + verb: This structure is used to show that something is excessive in more than one way, making an action impossible or inadvisable.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The river is too dirty __________ unsafe to drink.' cần một liên từ để nối hai tính từ ('dirty' và 'unsafe') cùng mô tả về con sông. Cấu trúc 'too ... to ...' dùng để chỉ điều gì đó quá mức đến nỗi không thể thực hiện hành động nào đó. Ở đây, ta cần một liên từ thể hiện rằng con sông vừa bẩn vừa không an toàn, không phải đối lập hay chỉ kết quả. Liên từ đúng là 'and', dùng để bổ sung thông tin.<br><ul><li><b>and</b> (liên từ): Dùng để nối các từ cùng loại, các mệnh đề hoặc câu, nhằm bổ sung thông tin.</li><li><b>but</b> (liên từ): Dùng để giới thiệu một cụm từ hoặc mệnh đề đối lập với thông tin trước đó.</li><li><b>or</b> (liên từ): Dùng để nối các lựa chọn thay thế.</li><li><b>so</b> (liên từ): Dùng để chỉ kết quả hoặc hậu quả của một sự việc.</li></ul><b>Cấu trúc và từ vựng:</b> too + tính từ + and + tính từ + to + động từ: Cấu trúc này dùng để chỉ một điều gì đó quá mức ở nhiều khía cạnh, khiến cho hành động không thể hoặc không nên thực hiện.<br><br><b>Tạm dịch:</b> Con sông quá bẩn và không an toàn để uống.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The river is too dirty __________ unsafe to drink.' requires a conjunction to connect two adjectives ('dirty' and 'unsafe') that describe the river. The structure 'too ... to ...' is used to indicate that something is excessive to the point that another action cannot happen. In this case, we need a conjunction that shows the river is both dirty and unsafe, not contrasting or giving a result. The correct conjunction is 'and', which is used to add information.<br><ul><li><b>and</b> (conjunction): Used to connect words of the same part of speech, clauses, or sentences, that are to be taken jointly.</li><li><b>but</b> (conjunction): Used to introduce a phrase or clause contrasting with what has already been mentioned.</li><li><b>or</b> (conjunction): Used to link alternatives.</li><li><b>so</b> (conjunction): Used to show the result or consequence of something.</li></ul><b>Related structure or vocabulary:</b> too + adjective + and + adjective + to + verb: This structure is used to show that something is excessive in more than one way, making an action impossible or inadvisable.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d5",
+        "questionNumber": 13,
+        "questionText": "The drought continues, __________ the river provides enough water for the locals.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "and",
+            "raw": "A. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "but",
+            "raw": "B. but",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "or",
+            "raw": "C. or ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "so",
+            "raw": "D. so",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction to connect two contrasting ideas: 'The drought continues' and 'the river provides enough water for the locals.' The correct conjunction should show contrast between the ongoing drought and the fact that the river still supplies enough water.<br><ul><li><b>and</b> (conjunction): Used to add similar or related information. It does not show contrast.</li><li><b>but</b> (conjunction): Used to show contrast between two ideas or statements.</li><li><b>or</b> (conjunction): Used to present alternatives or choices.</li><li><b>so</b> (conjunction): Used to show result or consequence.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of contrast: 'but', 'although', 'however' are used to connect two contrasting ideas.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để nối hai ý trái ngược nhau: 'The drought continues' (Hạn hán vẫn tiếp diễn) và 'the river provides enough water for the locals' (dòng sông vẫn cung cấp đủ nước cho người dân địa phương). Liên từ đúng phải thể hiện sự đối lập giữa việc hạn hán kéo dài và việc dòng sông vẫn đủ nước.<br><ul><li><b>and</b> (liên từ): Dùng để thêm thông tin tương tự hoặc liên quan. Không thể hiện sự đối lập.</li><li><b>but</b> (liên từ): Dùng để thể hiện sự đối lập giữa hai ý hoặc hai câu.</li><li><b>or</b> (liên từ): Dùng để đưa ra lựa chọn hoặc các khả năng khác nhau.</li><li><b>so</b> (liên từ): Dùng để chỉ kết quả hoặc hậu quả.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ sự đối lập: 'but', 'although', 'however' dùng để nối hai ý trái ngược nhau.<br><br><b>Tạm dịch:</b> Hạn hán vẫn tiếp diễn, nhưng dòng sông vẫn cung cấp đủ nước cho người dân địa phương.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction to connect two contrasting ideas: 'The drought continues' and 'the river provides enough water for the locals.' The correct conjunction should show contrast between the ongoing drought and the fact that the river still supplies enough water.<br><ul><li><b>and</b> (conjunction): Used to add similar or related information. It does not show contrast.</li><li><b>but</b> (conjunction): Used to show contrast between two ideas or statements.</li><li><b>or</b> (conjunction): Used to present alternatives or choices.</li><li><b>so</b> (conjunction): Used to show result or consequence.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of contrast: 'but', 'although', 'however' are used to connect two contrasting ideas.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d6",
+        "questionNumber": 14,
+        "questionText": "People in developed parts of the world waste water, __________ nearly 800 million people could not access to clean water.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "and",
+            "raw": "A. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "for",
+            "raw": "B. for ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "yet",
+            "raw": "C. yet",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "so",
+            "raw": "D. so",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<p data-end=\"325\" data-start=\"0\"><strong>Detailed Explanation:</strong><br data-end=\"24\" data-start=\"21\" />\nThe blank in the sentence requires a coordinating conjunction that shows a cause&ndash;effect relationship. The sentence presents two ideas: people in developed countries waste water, and as a result, nearly 800 million people cannot access clean water. Therefore, we need a connector that expresses result.</p>\n\n<p data-end=\"747\" data-start=\"327\"><strong>Analysis of Choices:</strong><br data-end=\"350\" data-start=\"347\" />\n(A) and &ndash; This simply adds information and does not clearly show cause and effect.<br data-end=\"435\" data-start=\"432\" />\n(B) for &ndash; This means &ldquo;because,&rdquo; but it is usually used in formal writing and does not fit naturally in this structure.<br data-end=\"556\" data-start=\"553\" />\n(C) yet &ndash; This shows contrast. The sentence is not emphasizing contrast but consequence.<br data-end=\"647\" data-is-only-node=\"\" data-start=\"644\" />\n(D) so &ndash; This correctly expresses result. It shows that the first clause leads to the second clause.</p>\n\n<p data-end=\"786\" data-start=\"749\">Therefore, <strong>the correct answer is (D).</strong></p>\n\n<p data-end=\"825\" data-start=\"788\"><strong>Structures and Extended Vocabulary:</strong></p>\n\n<ul data-end=\"1067\" data-start=\"826\">\n\t<li data-end=\"943\" data-start=\"826\">\n\t<p data-end=\"943\" data-start=\"828\">&quot;Clause + , so + result clause&quot; is used to show consequence.<br data-end=\"891\" data-start=\"888\" />\n\tExample: &quot;He didn&rsquo;t study, so he failed the exam.&quot;</p>\n\t</li>\n\t<li data-end=\"1067\" data-start=\"945\">\n\t<p data-end=\"1067\" data-start=\"947\">&quot;Clause + , yet + contrasting clause&quot; is used to show contrast.<br data-end=\"1013\" data-start=\"1010\" />\n\tExample: &quot;She was tired, yet she continued working.&quot;</p>\n\t</li>\n</ul>\n",
+        "explanationViHtml": "<p data-end=\"315\" data-start=\"0\"><strong>Giải th&iacute;ch chi tiết:</strong><br data-end=\"23\" data-start=\"20\" />\nChỗ trống trong c&acirc;u cần một li&ecirc;n từ kết hợp (coordinating conjunction) thể hiện mối quan hệ nguy&ecirc;n nh&acirc;n &ndash; kết quả. C&acirc;u đưa ra hai &yacute;: người d&acirc;n ở c&aacute;c nước ph&aacute;t triển l&atilde;ng ph&iacute; nước, v&agrave; kết quả l&agrave; gần 800 triệu người kh&ocirc;ng thể tiếp cận nước sạch. V&igrave; vậy, ch&uacute;ng ta cần một từ nối diễn tả kết quả.</p>\n\n<p data-end=\"739\" data-start=\"317\"><strong>Ph&acirc;n t&iacute;ch c&aacute;c lựa chọn:</strong><br data-end=\"343\" data-start=\"340\" />\n(A) and &ndash; Chỉ d&ugrave;ng để th&ecirc;m th&ocirc;ng tin, kh&ocirc;ng thể hiện r&otilde; quan hệ nguy&ecirc;n nh&acirc;n &ndash; kết quả.<br data-end=\"432\" data-start=\"429\" />\n(B) for &ndash; C&oacute; nghĩa l&agrave; &ldquo;bởi v&igrave;&rdquo;, thường d&ugrave;ng trong văn viết trang trọng v&agrave; kh&ocirc;ng ph&ugrave; hợp tự nhi&ecirc;n trong cấu tr&uacute;c n&agrave;y.<br data-end=\"551\" data-start=\"548\" />\n(C) yet &ndash; D&ugrave;ng để thể hiện sự tương phản. C&acirc;u n&agrave;y kh&ocirc;ng nhấn mạnh sự tương phản m&agrave; l&agrave; hệ quả.<br data-end=\"647\" data-is-only-node=\"\" data-start=\"644\" />\n(D) so &ndash; Diễn tả đ&uacute;ng quan hệ kết quả. N&oacute; cho thấy mệnh đề thứ nhất dẫn đến mệnh đề thứ hai.</p>\n\n<p data-end=\"768\" data-start=\"741\">V&igrave; vậy, <strong>đ&aacute;p &aacute;n đ&uacute;ng l&agrave; (D).</strong></p>\n\n<p data-end=\"798\" data-start=\"770\"><strong>Cấu tr&uacute;c v&agrave; từ vựng mở rộng:</strong></p>\n\n<p data-end=\"956\" data-start=\"800\">&quot;C&acirc;u + , so + mệnh đề kết quả&quot; d&ugrave;ng để diễn tả hệ quả.<br data-end=\"857\" data-start=\"854\" />\nV&iacute; dụ: &quot;He didn&rsquo;t study, so he failed the exam.&quot;<br data-end=\"908\" data-start=\"905\" />\n(Anh ấy kh&ocirc;ng học b&agrave;i, n&ecirc;n anh ấy trượt kỳ thi.)</p>\n\n<p data-end=\"1126\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"958\">&quot;C&acirc;u + , yet + mệnh đề tương phản&quot; d&ugrave;ng để diễn tả sự tương phản.<br data-end=\"1026\" data-start=\"1023\" />\nV&iacute; dụ: &quot;She was tired, yet she continued working.&quot;<br data-end=\"1079\" data-start=\"1076\" />\n(C&ocirc; ấy mệt, nhưng c&ocirc; ấy vẫn tiếp tục l&agrave;m việc.)</p>\n\n<p><b>Tạm dịch:</b>&nbsp;Người d&acirc;n ở c&aacute;c khu vực ph&aacute;t triển tr&ecirc;n thế giới l&atilde;ng ph&iacute; nước, v&igrave; vậy gần 800 triệu người kh&ocirc;ng thể tiếp cận được nguồn nước sạch.</p>\n",
+        "transcriptHtml": "<p data-end=\"325\" data-start=\"0\"><strong>Detailed Explanation:</strong><br data-end=\"24\" data-start=\"21\" />\nThe blank in the sentence requires a coordinating conjunction that shows a cause&ndash;effect relationship. The sentence presents two ideas: people in developed countries waste water, and as a result, nearly 800 million people cannot access clean water. Therefore, we need a connector that expresses result.</p>\n\n<p data-end=\"747\" data-start=\"327\"><strong>Analysis of Choices:</strong><br data-end=\"350\" data-start=\"347\" />\n(A) and &ndash; This simply adds information and does not clearly show cause and effect.<br data-end=\"435\" data-start=\"432\" />\n(B) for &ndash; This means &ldquo;because,&rdquo; but it is usually used in formal writing and does not fit naturally in this structure.<br data-end=\"556\" data-start=\"553\" />\n(C) yet &ndash; This shows contrast. The sentence is not emphasizing contrast but consequence.<br data-end=\"647\" data-is-only-node=\"\" data-start=\"644\" />\n(D) so &ndash; This correctly expresses result. It shows that the first clause leads to the second clause.</p>\n\n<p data-end=\"786\" data-start=\"749\">Therefore, <strong>the correct answer is (D).</strong></p>\n\n<p data-end=\"825\" data-start=\"788\"><strong>Structures and Extended Vocabulary:</strong></p>\n\n<ul data-end=\"1067\" data-start=\"826\">\n\t<li data-end=\"943\" data-start=\"826\">\n\t<p data-end=\"943\" data-start=\"828\">&quot;Clause + , so + result clause&quot; is used to show consequence.<br data-end=\"891\" data-start=\"888\" />\n\tExample: &quot;He didn&rsquo;t study, so he failed the exam.&quot;</p>\n\t</li>\n\t<li data-end=\"1067\" data-start=\"945\">\n\t<p data-end=\"1067\" data-start=\"947\">&quot;Clause + , yet + contrasting clause&quot; is used to show contrast.<br data-end=\"1013\" data-start=\"1010\" />\n\tExample: &quot;She was tired, yet she continued working.&quot;</p>\n\t</li>\n</ul>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d7",
+        "questionNumber": 15,
+        "questionText": "All the staff listened eagerly, __________ the manager announced important news.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "and",
+            "raw": "A. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "when",
+            "raw": "B. when",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "yet",
+            "raw": "C. yet ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "so",
+            "raw": "D. so",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'All the staff listened eagerly, __________ the manager announced important news.' requires a conjunction that correctly links the two clauses. The first clause describes the staff's action, and the second clause gives the context (the manager announcing important news). The correct conjunction should indicate that the staff listened eagerly at the time the manager announced the news.<br><ul><li><b>and</b> (conjunction): Used to connect two similar ideas or actions happening together.</li><li><b>when</b> (conjunction): Used to indicate the time at which something happens.</li><li><b>yet</b> (conjunction): Used to show contrast between two ideas.</li><li><b>so</b> (conjunction): Used to show result or consequence.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'when' is used to connect two actions that happen at the same time or to indicate the time something happens. Structure: [Main clause], when [subordinate clause].<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'All the staff listened eagerly, __________ the manager announced important news.' cần một liên từ phù hợp để nối hai mệnh đề. Mệnh đề đầu nói về hành động của nhân viên, mệnh đề sau là bối cảnh (quản lý thông báo tin quan trọng). Liên từ đúng phải diễn tả rằng nhân viên lắng nghe chăm chú vào thời điểm quản lý thông báo tin tức.<br><ul><li><b>and</b> (liên từ): Dùng để nối hai ý hoặc hành động tương tự xảy ra cùng nhau.</li><li><b>when</b> (liên từ): Dùng để chỉ thời điểm một việc xảy ra.</li><li><b>yet</b> (liên từ): Dùng để thể hiện sự tương phản giữa hai ý.</li><li><b>so</b> (liên từ): Dùng để chỉ kết quả hoặc hậu quả.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ thời gian: 'when' dùng để nối hai hành động xảy ra cùng lúc hoặc chỉ thời điểm một việc xảy ra. Cấu trúc: [Mệnh đề chính], when [mệnh đề phụ].<br><br><b>Tạm dịch:</b> Tất cả nhân viên đều lắng nghe chăm chú khi quản lý thông báo tin quan trọng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'All the staff listened eagerly, __________ the manager announced important news.' requires a conjunction that correctly links the two clauses. The first clause describes the staff's action, and the second clause gives the context (the manager announcing important news). The correct conjunction should indicate that the staff listened eagerly at the time the manager announced the news.<br><ul><li><b>and</b> (conjunction): Used to connect two similar ideas or actions happening together.</li><li><b>when</b> (conjunction): Used to indicate the time at which something happens.</li><li><b>yet</b> (conjunction): Used to show contrast between two ideas.</li><li><b>so</b> (conjunction): Used to show result or consequence.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'when' is used to connect two actions that happen at the same time or to indicate the time something happens. Structure: [Main clause], when [subordinate clause].<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d8",
+        "questionNumber": 16,
+        "questionText": "She made such a big mistake, __________ she burst out crying.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "and",
+            "raw": "A. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "for",
+            "raw": "B. for ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "yet",
+            "raw": "C. yet ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "so",
+            "raw": "D. so",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need a conjunction to show the result of the first clause. The structure 'such...that' is used to express a cause and effect relationship. After 'such a big mistake', we expect a result, so the correct conjunction is 'so'.<br><ul><li><b>and</b> (conjunction): Used to connect two similar ideas or actions, not to show cause and effect.</li><li><b>for</b> (conjunction): Means 'because', used to give a reason, not a result.</li><li><b>yet</b> (conjunction): Used to show contrast, similar to 'but'.</li><li><b>so</b> (conjunction): Used to show result or consequence.</li></ul><b>Related structure or vocabulary:</b> such...that + clause: used to express cause and effect. Example: She was so tired that she fell asleep.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần một liên từ để chỉ kết quả của mệnh đề đầu tiên. Cấu trúc 'such...that' được dùng để diễn tả mối quan hệ nguyên nhân - kết quả. Sau 'such a big mistake', chúng ta cần một kết quả, vì vậy liên từ đúng là 'so'.<br><ul><li><b>and</b> (liên từ): Dùng để nối hai ý hoặc hành động tương tự nhau, không dùng để chỉ nguyên nhân - kết quả.</li><li><b>for</b> (liên từ): Có nghĩa là 'bởi vì', dùng để đưa ra lý do, không phải kết quả.</li><li><b>yet</b> (liên từ): Dùng để chỉ sự tương phản, tương tự như 'but'.</li><li><b>so</b> (liên từ): Dùng để chỉ kết quả hoặc hậu quả.</li></ul><b>Cấu trúc và từ vựng:</b> such...that + mệnh đề: dùng để diễn tả nguyên nhân - kết quả. Ví dụ: She was so tired that she fell asleep.<br><br><b>Tạm dịch:</b> Cô ấy đã mắc một sai lầm lớn đến nỗi cô ấy bật khóc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we need a conjunction to show the result of the first clause. The structure 'such...that' is used to express a cause and effect relationship. After 'such a big mistake', we expect a result, so the correct conjunction is 'so'.<br><ul><li><b>and</b> (conjunction): Used to connect two similar ideas or actions, not to show cause and effect.</li><li><b>for</b> (conjunction): Means 'because', used to give a reason, not a result.</li><li><b>yet</b> (conjunction): Used to show contrast, similar to 'but'.</li><li><b>so</b> (conjunction): Used to show result or consequence.</li></ul><b>Related structure or vocabulary:</b> such...that + clause: used to express cause and effect. Example: She was so tired that she fell asleep.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012d9",
+        "questionNumber": 17,
+        "questionText": "__________ residents under 18 nor foreigners could vote for the new president.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Neither",
+            "raw": "A. Neither",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Both",
+            "raw": "B. Both",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Either",
+            "raw": "C. Either",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "And",
+            "raw": "D. And",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that connects two negative subjects: 'residents under 18' and 'foreigners.' The sentence means that neither group could vote for the new president. The correct structure to express that both groups are excluded is 'Neither...nor...'.<br><ul><li><b>Neither</b> (conjunction): Used with 'nor' to connect two negative alternatives, meaning not one or the other.</li><li><b>Both</b> (conjunction): Used with 'and' to connect two positive alternatives, meaning both groups are included.</li><li><b>Either</b> (conjunction): Used with 'or' to connect two alternatives, usually in a positive or negative sense, but not suitable here.</li><li><b>And</b> (conjunction): Used to connect two positive alternatives, not suitable for negative statements.</li></ul><b>Related structure or vocabulary:</b> Neither...nor...: used to connect two negative alternatives. Example: Neither John nor Mary was at the party.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ nối hai chủ ngữ phủ định: 'residents under 18' (cư dân dưới 18 tuổi) và 'foreigners' (người nước ngoài). Ý nghĩa câu là không nhóm nào trong hai nhóm này được bỏ phiếu cho tổng thống mới. Cấu trúc đúng để diễn đạt cả hai nhóm đều không được phép là 'Neither...nor...'.<br><ul><li><b>Neither</b> (liên từ): Được dùng với 'nor' để nối hai lựa chọn phủ định, nghĩa là không nhóm nào trong hai nhóm.</li><li><b>Both</b> (liên từ): Được dùng với 'and' để nối hai lựa chọn khẳng định, nghĩa là cả hai nhóm đều được tính.</li><li><b>Either</b> (liên từ): Được dùng với 'or' để nối hai lựa chọn, thường dùng trong câu khẳng định hoặc phủ định, nhưng không phù hợp ở đây.</li><li><b>And</b> (liên từ): Được dùng để nối hai lựa chọn khẳng định, không phù hợp với câu phủ định.</li></ul><b>Cấu trúc và từ vựng:</b> Neither...nor...: dùng để nối hai lựa chọn phủ định. Ví dụ: Neither John nor Mary was at the party. (Cả John và Mary đều không có mặt ở bữa tiệc.)<br><br><b>Tạm dịch:</b> Câu hoàn chỉnh: Neither residents under 18 nor foreigners could vote for the new president. (Cả cư dân dưới 18 tuổi lẫn người nước ngoài đều không thể bỏ phiếu cho tổng thống mới.)",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that connects two negative subjects: 'residents under 18' and 'foreigners.' The sentence means that neither group could vote for the new president. The correct structure to express that both groups are excluded is 'Neither...nor...'.<br><ul><li><b>Neither</b> (conjunction): Used with 'nor' to connect two negative alternatives, meaning not one or the other.</li><li><b>Both</b> (conjunction): Used with 'and' to connect two positive alternatives, meaning both groups are included.</li><li><b>Either</b> (conjunction): Used with 'or' to connect two alternatives, usually in a positive or negative sense, but not suitable here.</li><li><b>And</b> (conjunction): Used to connect two positive alternatives, not suitable for negative statements.</li></ul><b>Related structure or vocabulary:</b> Neither...nor...: used to connect two negative alternatives. Example: Neither John nor Mary was at the party.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012da",
+        "questionNumber": 18,
+        "questionText": "She is Canadian, so she speaks __________ French or English.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "either",
+            "raw": "A. either",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "neither",
+            "raw": "B. neither ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "both",
+            "raw": "C. both ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "and",
+            "raw": "D. and",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She is Canadian, so she speaks __________ French or English.' requires a word that connects two options, indicating which languages she can speak. The sentence implies that as a Canadian, she can speak one language or the other, but not necessarily both. The correct word to use here is 'either,' which is used to refer to one or the other of two people or things. The structure 'either ... or ...' is commonly used to present two alternatives.<br><ul><li><b>either</b> (conjunction): Used to indicate one or the other of two choices. In the structure 'either ... or ...', it means one of the two options.</li><li><b>neither</b> (conjunction): Used to indicate not one nor the other of two choices. The structure is 'neither ... nor ...', meaning none of the options.</li><li><b>both</b> (conjunction): Used to refer to two things together. The structure is 'both ... and ...', meaning all of the options.</li><li><b>and</b> (conjunction): Used to connect words or phrases, meaning in addition to.</li></ul><b>Related structure or vocabulary:</b> either ... or ...: used to present two alternatives; neither ... nor ...: used to present two negative alternatives; both ... and ...: used to present two positive alternatives.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'She is Canadian, so she speaks __________ French or English.' cần một từ nối hai lựa chọn, chỉ ra ngôn ngữ mà cô ấy có thể nói. Câu này ngụ ý rằng là người Canada, cô ấy có thể nói một trong hai ngôn ngữ, nhưng không nhất thiết phải nói cả hai. Từ đúng cần dùng là 'either', dùng để chỉ một trong hai lựa chọn. Cấu trúc 'either ... or ...' thường được dùng để đưa ra hai lựa chọn.<br><ul><li><b>either</b> (liên từ): Dùng để chỉ một trong hai lựa chọn. Cấu trúc 'either ... or ...' nghĩa là một trong hai.</li><li><b>neither</b> (liên từ): Dùng để chỉ không cái nào trong hai lựa chọn. Cấu trúc 'neither ... nor ...' nghĩa là không cái nào.</li><li><b>both</b> (liên từ): Dùng để chỉ cả hai. Cấu trúc 'both ... and ...' nghĩa là cả hai lựa chọn.</li><li><b>and</b> (liên từ): Dùng để nối các từ hoặc cụm từ, mang nghĩa 'và', bổ sung thêm.</li></ul><b>Cấu trúc và từ vựng:</b> either ... or ...: dùng để đưa ra hai lựa chọn; neither ... nor ...: dùng để đưa ra hai lựa chọn phủ định; both ... and ...: dùng để đưa ra hai lựa chọn khẳng định.<br><br><b>Tạm dịch:</b> Cô ấy là người Canada, vì vậy cô ấy nói hoặc tiếng Pháp hoặc tiếng Anh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She is Canadian, so she speaks __________ French or English.' requires a word that connects two options, indicating which languages she can speak. The sentence implies that as a Canadian, she can speak one language or the other, but not necessarily both. The correct word to use here is 'either,' which is used to refer to one or the other of two people or things. The structure 'either ... or ...' is commonly used to present two alternatives.<br><ul><li><b>either</b> (conjunction): Used to indicate one or the other of two choices. In the structure 'either ... or ...', it means one of the two options.</li><li><b>neither</b> (conjunction): Used to indicate not one nor the other of two choices. The structure is 'neither ... nor ...', meaning none of the options.</li><li><b>both</b> (conjunction): Used to refer to two things together. The structure is 'both ... and ...', meaning all of the options.</li><li><b>and</b> (conjunction): Used to connect words or phrases, meaning in addition to.</li></ul><b>Related structure or vocabulary:</b> either ... or ...: used to present two alternatives; neither ... nor ...: used to present two negative alternatives; both ... and ...: used to present two positive alternatives.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012db",
+        "questionNumber": 19,
+        "questionText": "I have saved enough money to go __________ Korea and Japan.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "either",
+            "raw": "A. either ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "neither",
+            "raw": "B. neither ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "both",
+            "raw": "C. both",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "and",
+            "raw": "D. and",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I have saved enough money to go __________ Korea and Japan.' requires a word that connects two places (Korea and Japan) to show that the speaker has enough money to visit both. The correct word should indicate inclusion of both destinations.<br><ul><li><b>either</b> (pronoun/conjunction): 'Either' is used when referring to one or the other of two things, but not both. It is incorrect here because the sentence means the speaker can go to both places, not just one.</li><li><b>neither</b> (pronoun/conjunction): 'Neither' is used to mean not one nor the other of two things. It is incorrect because the sentence is positive, not negative.</li><li><b>both</b> (determiner/pronoun): 'Both' is used to refer to two things together. However, 'both' is not used directly before two nouns connected by 'and'. The correct structure is 'both Korea and Japan', not 'go both Korea and Japan'.</li><li><b>and</b> (conjunction): 'And' is a conjunction used to connect words or phrases of the same type. Here, 'and' correctly connects 'Korea' and 'Japan' to show the speaker can go to both places.</li></ul><b>Related structure or vocabulary:</b> When listing two nouns, use 'and' to connect them. The structure is: verb + noun + and + noun (e.g., go to Korea and Japan). 'Both' can be used as 'both A and B', but not as 'go both A and B'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I have saved enough money to go __________ Korea and Japan.' cần một từ để nối hai địa điểm (Korea và Japan), nhằm thể hiện người nói đã tiết kiệm đủ tiền để đi cả hai nơi. Từ đúng phải thể hiện sự bao gồm cả hai điểm đến.<br><ul><li><b>either</b> (đại từ/liên từ): 'Either' dùng khi nói về một trong hai thứ, nhưng không phải cả hai. Không phù hợp ở đây vì câu muốn nói người nói có thể đi cả hai nơi, không chỉ một.</li><li><b>neither</b> (đại từ/liên từ): 'Neither' dùng để nói không cái nào trong hai cái. Không phù hợp vì câu này là câu khẳng định, không phải phủ định.</li><li><b>both</b> (định từ/đại từ): 'Both' dùng để nói về cả hai thứ cùng lúc. Tuy nhiên, 'both' không dùng trực tiếp trước hai danh từ nối bằng 'and'. Cấu trúc đúng là 'both Korea and Japan', không phải 'go both Korea and Japan'.</li><li><b>and</b> (liên từ): 'And' là liên từ dùng để nối các từ hoặc cụm từ cùng loại. Ở đây, 'and' nối 'Korea' và 'Japan' đúng ngữ pháp để thể hiện người nói có thể đi cả hai nơi.</li></ul><b>Cấu trúc và từ vựng:</b> Khi liệt kê hai danh từ, dùng 'and' để nối chúng. Cấu trúc: động từ + danh từ + and + danh từ (ví dụ: go to Korea and Japan). 'Both' có thể dùng theo cấu trúc 'both A and B', nhưng không dùng 'go both A and B'.<br><br><b>Tạm dịch:</b> Tôi đã tiết kiệm đủ tiền để đi Hàn Quốc và Nhật Bản.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I have saved enough money to go __________ Korea and Japan.' requires a word that connects two places (Korea and Japan) to show that the speaker has enough money to visit both. The correct word should indicate inclusion of both destinations.<br><ul><li><b>either</b> (pronoun/conjunction): 'Either' is used when referring to one or the other of two things, but not both. It is incorrect here because the sentence means the speaker can go to both places, not just one.</li><li><b>neither</b> (pronoun/conjunction): 'Neither' is used to mean not one nor the other of two things. It is incorrect because the sentence is positive, not negative.</li><li><b>both</b> (determiner/pronoun): 'Both' is used to refer to two things together. However, 'both' is not used directly before two nouns connected by 'and'. The correct structure is 'both Korea and Japan', not 'go both Korea and Japan'.</li><li><b>and</b> (conjunction): 'And' is a conjunction used to connect words or phrases of the same type. Here, 'and' correctly connects 'Korea' and 'Japan' to show the speaker can go to both places.</li></ul><b>Related structure or vocabulary:</b> When listing two nouns, use 'and' to connect them. The structure is: verb + noun + and + noun (e.g., go to Korea and Japan). 'Both' can be used as 'both A and B', but not as 'go both A and B'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc48d1bfab7a5b0012dc",
+        "questionNumber": 20,
+        "questionText": "The teacher __________ the teaching assistants is fully-trained.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "and",
+            "raw": "A. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "or",
+            "raw": "B. or ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "nor",
+            "raw": "C. nor ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "as well as",
+            "raw": "D. as well as",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the subject is 'The teacher __________ the teaching assistants'. The verb 'is' is singular, so the subject must also be singular. When we use 'as well as' to connect two nouns, the verb agrees with the first noun (here, 'the teacher'). Therefore, 'as well as' is the correct choice. If we used 'and', the subject would be plural and require 'are'.<br><ul><li><b>and</b> (conjunction): Used to connect two or more items, making the subject plural. Would require a plural verb ('are').</li><li><b>or</b> (conjunction): Used to present alternatives. With 'or', the verb agrees with the nearest subject, but it does not fit the meaning here.</li><li><b>nor</b> (conjunction): Used to present a negative alternative, usually after 'neither'. Not suitable in this context.</li><li><b>as well as</b> (phrase/conjunction): Means 'in addition to'. When used, the verb agrees with the first subject. Correct in this sentence.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement with 'as well as': When 'as well as' connects two subjects, the verb agrees with the first subject.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chủ ngữ là 'The teacher __________ the teaching assistants'. Động từ 'is' là số ít, nên chủ ngữ cũng phải là số ít. Khi dùng 'as well as' để nối hai danh từ, động từ sẽ chia theo danh từ đầu tiên (ở đây là 'the teacher'). Vì vậy, 'as well as' là lựa chọn đúng. Nếu dùng 'and', chủ ngữ sẽ là số nhiều và cần dùng 'are'.<br><ul><li><b>and</b> (liên từ): Dùng để nối hai hoặc nhiều thành phần, làm cho chủ ngữ thành số nhiều. Khi đó, động từ phải chia số nhiều ('are').</li><li><b>or</b> (liên từ): Dùng để đưa ra lựa chọn. Với 'or', động từ chia theo chủ ngữ gần nhất, nhưng không phù hợp về nghĩa trong câu này.</li><li><b>nor</b> (liên từ): Dùng để đưa ra lựa chọn phủ định, thường sau 'neither'. Không phù hợp trong ngữ cảnh này.</li><li><b>as well as</b> (cụm từ/liên từ): Có nghĩa là 'cũng như', 'ngoài ra'. Khi dùng, động từ chia theo chủ ngữ đầu tiên. Đáp án đúng trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> Sự hòa hợp chủ ngữ - động từ với 'as well as': Khi 'as well as' nối hai chủ ngữ, động từ chia theo chủ ngữ đầu tiên.<br><br><b>Tạm dịch:</b> The teacher as well as the teaching assistants is fully-trained. --> Giáo viên cũng như các trợ giảng đều được đào tạo đầy đủ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the subject is 'The teacher __________ the teaching assistants'. The verb 'is' is singular, so the subject must also be singular. When we use 'as well as' to connect two nouns, the verb agrees with the first noun (here, 'the teacher'). Therefore, 'as well as' is the correct choice. If we used 'and', the subject would be plural and require 'are'.<br><ul><li><b>and</b> (conjunction): Used to connect two or more items, making the subject plural. Would require a plural verb ('are').</li><li><b>or</b> (conjunction): Used to present alternatives. With 'or', the verb agrees with the nearest subject, but it does not fit the meaning here.</li><li><b>nor</b> (conjunction): Used to present a negative alternative, usually after 'neither'. Not suitable in this context.</li><li><b>as well as</b> (phrase/conjunction): Means 'in addition to'. When used, the verb agrees with the first subject. Correct in this sentence.</li></ul><b>Related structure or vocabulary:</b> Subject-verb agreement with 'as well as': When 'as well as' connects two subjects, the verb agrees with the first subject.<br><br>"
+      }
+    }
+  ]
+}

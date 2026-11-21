@@ -1,0 +1,808 @@
+{
+  "topicId": "6204bcfed1bfab7a5b001327",
+  "title": "NUMERIC EXPRESSIONS BEFORE NOUNS - Practice 5",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001389",
+        "questionNumber": 1,
+        "questionText": "Are there_______   students in your class?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "much",
+            "raw": "A. much",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "a little",
+            "raw": "B. a little",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "many",
+            "raw": "C. many",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "little",
+            "raw": "D. little ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Are there_______ students in your class?' requires a quantifier that is used with countable nouns in plural form. 'Students' is a plural countable noun, so we need a quantifier that matches this usage. 'Many' is used with plural countable nouns, especially in questions and negative sentences.<br><ul><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, not with countable nouns like 'students'.</li><li><b>a little</b> (quantifier): 'A little' is used with uncountable nouns, not with countable nouns.</li><li><b>many</b> (quantifier): 'Many' is used with plural countable nouns, especially in questions and negatives. It fits the context of the sentence.</li><li><b>little</b> (quantifier): 'Little' is used with uncountable nouns, and means 'not much'. It is not suitable for countable nouns like 'students'.</li></ul><b>Related structure or vocabulary:</b> Quantifiers: 'many' is used with plural countable nouns in questions and negatives. Structure: Are there + many + plural countable noun?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'Are there_______ students in your class?' cần một từ chỉ số lượng (quantifier) dùng với danh từ đếm được số nhiều. 'Students' là danh từ đếm được số nhiều, nên cần chọn từ phù hợp. 'Many' được dùng với danh từ đếm được số nhiều, đặc biệt trong câu hỏi và phủ định.<br><ul><li><b>much</b> (từ chỉ số lượng): 'Much' dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'students'.</li><li><b>a little</b> (từ chỉ số lượng): 'A little' dùng với danh từ không đếm được, không phù hợp với danh từ đếm được.</li><li><b>many</b> (từ chỉ số lượng): 'Many' dùng với danh từ đếm được số nhiều, đặc biệt trong câu hỏi và phủ định. Phù hợp với ngữ cảnh câu.</li><li><b>little</b> (từ chỉ số lượng): 'Little' dùng với danh từ không đếm được, mang nghĩa 'không nhiều'. Không phù hợp với danh từ đếm được như 'students'.</li></ul><b>Cấu trúc và từ vựng:</b> Từ chỉ số lượng: 'many' dùng với danh từ đếm được số nhiều trong câu hỏi và phủ định. Cấu trúc: Are there + many + danh từ đếm được số nhiều?<br><br><b>Tạm dịch:</b> Are there many students in your class? --> Có nhiều học sinh trong lớp bạn không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Are there_______ students in your class?' requires a quantifier that is used with countable nouns in plural form. 'Students' is a plural countable noun, so we need a quantifier that matches this usage. 'Many' is used with plural countable nouns, especially in questions and negative sentences.<br><ul><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, not with countable nouns like 'students'.</li><li><b>a little</b> (quantifier): 'A little' is used with uncountable nouns, not with countable nouns.</li><li><b>many</b> (quantifier): 'Many' is used with plural countable nouns, especially in questions and negatives. It fits the context of the sentence.</li><li><b>little</b> (quantifier): 'Little' is used with uncountable nouns, and means 'not much'. It is not suitable for countable nouns like 'students'.</li></ul><b>Related structure or vocabulary:</b> Quantifiers: 'many' is used with plural countable nouns in questions and negatives. Structure: Are there + many + plural countable noun?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00138a",
+        "questionNumber": 2,
+        "questionText": "We have_______   days to do the homework.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "little",
+            "raw": "A. little",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "several",
+            "raw": "B. several",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "any",
+            "raw": "C. any",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "much",
+            "raw": "D. much",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We have_______ days to do the homework.' requires a word that can modify 'days.' 'Days' is a countable plural noun, so we need a quantifier that is used with countable nouns in the plural form.<br><ul><li><b>little</b> (quantifier (for uncountable nouns)): 'Little' is used with uncountable nouns, not with countable nouns like 'days.'</li><li><b>several</b> (quantifier (for plural countable nouns)): 'Several' is used with plural countable nouns and means 'more than two but not many.' It fits the context of the sentence.</li><li><b>any</b> (quantifier): 'Any' can be used with both countable and uncountable nouns, but in affirmative sentences like this, it is not commonly used.</li><li><b>much</b> (quantifier (for uncountable nouns)): 'Much' is used with uncountable nouns, not with countable nouns like 'days.'</li></ul><b>Related structure or vocabulary:</b> Quantifiers with countable and uncountable nouns: 'several' is used with plural countable nouns. Structure: several + plural countable noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We have_______ days to do the homework.' cần một từ để bổ nghĩa cho danh từ 'days.' 'Days' là danh từ đếm được số nhiều, vì vậy ta cần một từ chỉ số lượng dùng với danh từ đếm được số nhiều.<br><ul><li><b>little</b> (từ chỉ số lượng (dùng cho danh từ không đếm được)): 'Little' dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'days.'</li><li><b>several</b> (từ chỉ số lượng (dùng cho danh từ đếm được số nhiều)): 'Several' dùng với danh từ đếm được số nhiều, nghĩa là 'một vài' (nhiều hơn hai nhưng không nhiều lắm). Phù hợp với ngữ cảnh câu.</li><li><b>any</b> (từ chỉ số lượng): 'Any' có thể dùng với cả danh từ đếm được và không đếm được, nhưng trong câu khẳng định như thế này thì không thường dùng.</li><li><b>much</b> (từ chỉ số lượng (dùng cho danh từ không đếm được)): 'Much' dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'days.'</li></ul><b>Cấu trúc và từ vựng:</b> Các từ chỉ số lượng với danh từ đếm được và không đếm được: 'several' dùng với danh từ đếm được số nhiều. Cấu trúc: several + danh từ đếm được số nhiều.<br><br><b>Tạm dịch:</b> Chúng ta có một vài ngày để làm bài tập về nhà.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We have_______ days to do the homework.' requires a word that can modify 'days.' 'Days' is a countable plural noun, so we need a quantifier that is used with countable nouns in the plural form.<br><ul><li><b>little</b> (quantifier (for uncountable nouns)): 'Little' is used with uncountable nouns, not with countable nouns like 'days.'</li><li><b>several</b> (quantifier (for plural countable nouns)): 'Several' is used with plural countable nouns and means 'more than two but not many.' It fits the context of the sentence.</li><li><b>any</b> (quantifier): 'Any' can be used with both countable and uncountable nouns, but in affirmative sentences like this, it is not commonly used.</li><li><b>much</b> (quantifier (for uncountable nouns)): 'Much' is used with uncountable nouns, not with countable nouns like 'days.'</li></ul><b>Related structure or vocabulary:</b> Quantifiers with countable and uncountable nouns: 'several' is used with plural countable nouns. Structure: several + plural countable noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00138b",
+        "questionNumber": 3,
+        "questionText": "Very _______ people knew about it.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "less",
+            "raw": "A. less",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "much",
+            "raw": "B. much",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "little",
+            "raw": "C. little",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "few",
+            "raw": "D. few",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Very _______ people knew about it.' requires a word that correctly modifies 'people.' 'People' is a countable noun, so we need a quantifier that is used with countable nouns. The word 'few' is used with countable nouns to mean 'not many.' The word 'very' is used to emphasize the small number. Therefore, the correct answer is 'few.'<br><ul><li><b>less</b> (quantifier): 'Less' is used with uncountable nouns, not countable nouns like 'people.'</li><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns and cannot be used directly before a plural countable noun like 'people.'</li><li><b>little</b> (quantifier): 'Little' is used with uncountable nouns, not with countable nouns like 'people.'</li><li><b>few</b> (quantifier): 'Few' is used with plural countable nouns to mean 'not many.' It fits the sentence structure and meaning.</li></ul><b>Related structure or vocabulary:</b> Quantifiers with countable and uncountable nouns: 'few' (countable), 'little' (uncountable), 'many' (countable), 'much' (uncountable). Structure: 'very few + plural countable noun' means 'not many at all.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Very _______ people knew about it.' cần một từ bổ nghĩa đúng cho danh từ 'people.' 'People' là danh từ đếm được số nhiều, nên ta cần một lượng từ dùng cho danh từ đếm được. 'Few' được dùng với danh từ đếm được số nhiều để diễn tả ý 'không nhiều.' Từ 'very' nhấn mạnh số lượng nhỏ này. Vì vậy, đáp án đúng là 'few.'<br><ul><li><b>less</b> (lượng từ): 'Less' dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'people.'</li><li><b>much</b> (lượng từ): 'Much' dùng với danh từ không đếm được và không thể dùng trực tiếp trước danh từ đếm được số nhiều như 'people.'</li><li><b>little</b> (lượng từ): 'Little' dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'people.'</li><li><b>few</b> (lượng từ): 'Few' dùng với danh từ đếm được số nhiều để diễn tả ý 'không nhiều.' Phù hợp với cấu trúc và nghĩa của câu.</li></ul><b>Cấu trúc và từ vựng:</b> Lượng từ với danh từ đếm được và không đếm được: 'few' (đếm được), 'little' (không đếm được), 'many' (đếm được), 'much' (không đếm được). Cấu trúc: 'very few + danh từ đếm được số nhiều' nghĩa là 'rất ít.'<br><br><b>Tạm dịch:</b> Rất ít người biết về điều đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Very _______ people knew about it.' requires a word that correctly modifies 'people.' 'People' is a countable noun, so we need a quantifier that is used with countable nouns. The word 'few' is used with countable nouns to mean 'not many.' The word 'very' is used to emphasize the small number. Therefore, the correct answer is 'few.'<br><ul><li><b>less</b> (quantifier): 'Less' is used with uncountable nouns, not countable nouns like 'people.'</li><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns and cannot be used directly before a plural countable noun like 'people.'</li><li><b>little</b> (quantifier): 'Little' is used with uncountable nouns, not with countable nouns like 'people.'</li><li><b>few</b> (quantifier): 'Few' is used with plural countable nouns to mean 'not many.' It fits the sentence structure and meaning.</li></ul><b>Related structure or vocabulary:</b> Quantifiers with countable and uncountable nouns: 'few' (countable), 'little' (uncountable), 'many' (countable), 'much' (uncountable). Structure: 'very few + plural countable noun' means 'not many at all.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00138c",
+        "questionNumber": 4,
+        "questionText": "I don't have _______money.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "much",
+            "raw": "A. much",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "many",
+            "raw": "B. many",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "no",
+            "raw": "C. no",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "a few",
+            "raw": "D. a few",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I don't have _______money.' requires a quantifier that fits with the uncountable noun 'money.' In English, 'money' is uncountable, so we use quantifiers like 'much' (not 'many'). The sentence is negative ('don't have'), so 'much' is the correct choice.<br><ul><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, especially in negative sentences and questions.</li><li><b>many</b> (quantifier): 'Many' is used with countable nouns (plural), not with uncountable nouns like 'money.'</li><li><b>no</b> (quantifier): 'No' can be used to mean 'not any,' but the structure would be 'I have no money,' not 'I don't have no money.'</li><li><b>a few</b> (quantifier): 'A few' is used with countable nouns (plural), not with uncountable nouns like 'money.'</li></ul><b>Related structure or vocabulary:</b> Quantifiers with countable and uncountable nouns: 'much' (uncountable), 'many' (countable), 'a few' (countable), 'a little' (uncountable). In negative sentences, 'much' is commonly used with uncountable nouns.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I don't have _______money.' cần một từ chỉ số lượng phù hợp với danh từ không đếm được 'money.' Trong tiếng Anh, 'money' là danh từ không đếm được, nên ta dùng các từ chỉ số lượng như 'much' (không dùng 'many'). Câu này ở dạng phủ định ('don't have'), vì vậy 'much' là lựa chọn đúng.<br><ul><li><b>much</b> (từ chỉ số lượng): 'Much' dùng với danh từ không đếm được, đặc biệt trong câu phủ định và câu hỏi.</li><li><b>many</b> (từ chỉ số lượng): 'Many' dùng với danh từ đếm được số nhiều, không dùng với danh từ không đếm được như 'money.'</li><li><b>no</b> (từ chỉ số lượng): 'No' có thể dùng để diễn đạt 'không có,' nhưng cấu trúc đúng sẽ là 'I have no money,' không phải 'I don't have no money.'</li><li><b>a few</b> (từ chỉ số lượng): 'A few' dùng với danh từ đếm được số nhiều, không dùng với danh từ không đếm được như 'money.'</li></ul><b>Cấu trúc và từ vựng:</b> Các từ chỉ số lượng với danh từ đếm được và không đếm được: 'much' (không đếm được), 'many' (đếm được), 'a few' (đếm được), 'a little' (không đếm được). Trong câu phủ định, 'much' thường dùng với danh từ không đếm được.<br><br><b>Tạm dịch:</b> Tôi không có nhiều tiền.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I don't have _______money.' requires a quantifier that fits with the uncountable noun 'money.' In English, 'money' is uncountable, so we use quantifiers like 'much' (not 'many'). The sentence is negative ('don't have'), so 'much' is the correct choice.<br><ul><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, especially in negative sentences and questions.</li><li><b>many</b> (quantifier): 'Many' is used with countable nouns (plural), not with uncountable nouns like 'money.'</li><li><b>no</b> (quantifier): 'No' can be used to mean 'not any,' but the structure would be 'I have no money,' not 'I don't have no money.'</li><li><b>a few</b> (quantifier): 'A few' is used with countable nouns (plural), not with uncountable nouns like 'money.'</li></ul><b>Related structure or vocabulary:</b> Quantifiers with countable and uncountable nouns: 'much' (uncountable), 'many' (countable), 'a few' (countable), 'a little' (uncountable). In negative sentences, 'much' is commonly used with uncountable nouns.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00138d",
+        "questionNumber": 5,
+        "questionText": "All of them are freshmen, _______ whom come from countryside.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "most",
+            "raw": "A. most",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "most of",
+            "raw": "B. most of",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "both A and B are correct",
+            "raw": "C. both A and B are correct",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "most of the",
+            "raw": "D. most of the",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'All of them are freshmen, _______ whom come from countryside.' requires a quantifier phrase that correctly modifies 'whom.' In English, when referring to a part of a group of people using a relative clause (with 'whom'), we use 'most of whom.' The structure is: quantifier + of + whom/which. 'Most' alone cannot be used directly before 'whom.'<br><ul><li><b>most</b> (quantifier): 'Most' is a quantifier, but when referring to people with 'whom,' it must be followed by 'of.' 'Most whom' is incorrect.</li><li><b>most of</b> (quantifier phrase): 'Most of' is the correct quantifier phrase to use before 'whom.' The structure 'most of whom' is used to refer to the majority of people previously mentioned.</li><li><b>both A and B are correct</b> (option): Only 'most of' is correct in this context. 'Most' alone is incorrect, so this option is not correct.</li><li><b>most of the</b> (quantifier phrase): 'Most of the' is used before a specific noun, not before 'whom.' For example: 'Most of the students.' It cannot be used before 'whom.'</li></ul><b>Related structure or vocabulary:</b> Structure: quantifier + of + whom/which (e.g., most of whom, some of whom, many of whom, none of whom, etc.)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'All of them are freshmen, _______ whom come from countryside.' cần một cụm từ chỉ số lượng phù hợp để bổ nghĩa cho 'whom.' Trong tiếng Anh, khi nói về một phần của một nhóm người trong mệnh đề quan hệ (với 'whom'), ta dùng 'most of whom.' Cấu trúc là: quantifier + of + whom/which. Không thể dùng 'most' đứng trực tiếp trước 'whom.'<br><ul><li><b>most</b> (từ chỉ số lượng): 'Most' là từ chỉ số lượng, nhưng khi đi với 'whom' thì phải có 'of' ở giữa. 'Most whom' là sai ngữ pháp.</li><li><b>most of</b> (cụm từ chỉ số lượng): 'Most of' là cụm từ chỉ số lượng đúng để dùng trước 'whom.' Cấu trúc 'most of whom' dùng để nói về phần lớn những người đã được nhắc đến trước đó.</li><li><b>both A and B are correct</b> (lựa chọn): Chỉ có 'most of' là đúng trong trường hợp này. 'Most' đứng một mình là sai, nên đáp án này không đúng.</li><li><b>most of the</b> (cụm từ chỉ số lượng): 'Most of the' dùng trước một danh từ xác định, không dùng trước 'whom.' Ví dụ: 'Most of the students.' Không thể dùng trước 'whom.'</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: quantifier + of + whom/which (ví dụ: most of whom, some of whom, many of whom, none of whom,...)<br><br><b>Tạm dịch:</b> Tất cả họ đều là sinh viên năm nhất, phần lớn trong số họ đến từ nông thôn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'All of them are freshmen, _______ whom come from countryside.' requires a quantifier phrase that correctly modifies 'whom.' In English, when referring to a part of a group of people using a relative clause (with 'whom'), we use 'most of whom.' The structure is: quantifier + of + whom/which. 'Most' alone cannot be used directly before 'whom.'<br><ul><li><b>most</b> (quantifier): 'Most' is a quantifier, but when referring to people with 'whom,' it must be followed by 'of.' 'Most whom' is incorrect.</li><li><b>most of</b> (quantifier phrase): 'Most of' is the correct quantifier phrase to use before 'whom.' The structure 'most of whom' is used to refer to the majority of people previously mentioned.</li><li><b>both A and B are correct</b> (option): Only 'most of' is correct in this context. 'Most' alone is incorrect, so this option is not correct.</li><li><b>most of the</b> (quantifier phrase): 'Most of the' is used before a specific noun, not before 'whom.' For example: 'Most of the students.' It cannot be used before 'whom.'</li></ul><b>Related structure or vocabulary:</b> Structure: quantifier + of + whom/which (e.g., most of whom, some of whom, many of whom, none of whom, etc.)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00138e",
+        "questionNumber": 6,
+        "questionText": "There has been _______demand for computers this year than last year.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "few",
+            "raw": "A. few",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "little",
+            "raw": "B. little",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more",
+            "raw": "C. more",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "fewer",
+            "raw": "D. fewer",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a comparative form to compare the demand for computers this year and last year. The word 'demand' is an uncountable noun, so we use 'more' or 'less' for comparison, not 'few' or 'fewer'.<br><ul><li><b>few</b> (determiner): 'Few' is used with plural countable nouns, not uncountable nouns like 'demand'.</li><li><b>little</b> (determiner): 'Little' is used with uncountable nouns, but the sentence requires a comparative form.</li><li><b>more</b> (determiner): 'More' is the comparative form used with both countable and uncountable nouns to indicate a greater amount.</li><li><b>fewer</b> (determiner): 'Fewer' is the comparative form used with plural countable nouns.</li></ul><b>Related structure or vocabulary:</b> Comparative forms: 'more' is used with uncountable nouns to show a greater amount. 'Fewer' is used with countable nouns. 'Little' and 'few' are used for small amounts, but not in comparative form here.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền một dạng so sánh để so sánh nhu cầu máy tính năm nay và năm ngoái. 'Demand' là danh từ không đếm được, nên ta dùng 'more' hoặc 'less' để so sánh, không dùng 'few' hoặc 'fewer'.<br><ul><li><b>few</b> (từ hạn định): 'Few' dùng với danh từ đếm được số nhiều, không dùng với danh từ không đếm được như 'demand'.</li><li><b>little</b> (từ hạn định): 'Little' dùng với danh từ không đếm được, nhưng câu này cần dạng so sánh.</li><li><b>more</b> (từ hạn định): 'More' là dạng so sánh dùng với cả danh từ đếm được và không đếm được để chỉ số lượng nhiều hơn.</li><li><b>fewer</b> (từ hạn định): 'Fewer' là dạng so sánh dùng với danh từ đếm được số nhiều.</li></ul><b>Cấu trúc và từ vựng:</b> Dạng so sánh: 'more' dùng với danh từ không đếm được để chỉ số lượng nhiều hơn. 'Fewer' dùng với danh từ đếm được. 'Little' và 'few' dùng để chỉ số lượng ít, nhưng không phải dạng so sánh trong trường hợp này.<br><br><b>Tạm dịch:</b> There has been more demand for computers this year than last year. --> Năm nay có nhu cầu về máy tính nhiều hơn năm ngoái.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a comparative form to compare the demand for computers this year and last year. The word 'demand' is an uncountable noun, so we use 'more' or 'less' for comparison, not 'few' or 'fewer'.<br><ul><li><b>few</b> (determiner): 'Few' is used with plural countable nouns, not uncountable nouns like 'demand'.</li><li><b>little</b> (determiner): 'Little' is used with uncountable nouns, but the sentence requires a comparative form.</li><li><b>more</b> (determiner): 'More' is the comparative form used with both countable and uncountable nouns to indicate a greater amount.</li><li><b>fewer</b> (determiner): 'Fewer' is the comparative form used with plural countable nouns.</li></ul><b>Related structure or vocabulary:</b> Comparative forms: 'more' is used with uncountable nouns to show a greater amount. 'Fewer' is used with countable nouns. 'Little' and 'few' are used for small amounts, but not in comparative form here.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00138f",
+        "questionNumber": 7,
+        "questionText": "There isn't _______coffee in the cup.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "some",
+            "raw": "A. some",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "many",
+            "raw": "B. many",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "any",
+            "raw": "C. any",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "much",
+            "raw": "D. much",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'There isn't _______ coffee in the cup.' requires a word that fits grammatically and semantically. The sentence is negative ('isn't'), and 'coffee' is an uncountable noun. In negative sentences with uncountable nouns, we use 'any' or 'much'. However, 'any' is more common in negative sentences to indicate none or zero quantity.<br><ul><li><b>some</b> (determiner): 'Some' is used in positive sentences or offers/requests, not usually in negative sentences.</li><li><b>many</b> (determiner): 'Many' is used with countable nouns, but 'coffee' is uncountable.</li><li><b>any</b> (determiner): 'Any' is used in negative sentences and questions with uncountable nouns to mean none or zero.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns, but usually in questions and negative sentences. However, 'any' is more natural here.</li></ul><b>Related structure or vocabulary:</b> Use 'any' with uncountable nouns in negative sentences: There isn't any + uncountable noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'There isn't _______ coffee in the cup.' cần một từ phù hợp về ngữ pháp và nghĩa. Câu này là câu phủ định ('isn't'), và 'coffee' là danh từ không đếm được. Trong câu phủ định với danh từ không đếm được, ta thường dùng 'any' hoặc 'much'. Tuy nhiên, 'any' phổ biến hơn trong câu phủ định để chỉ không có hoặc số lượng bằng không.<br><ul><li><b>some</b> (từ hạn định): 'Some' dùng trong câu khẳng định hoặc lời mời/đề nghị, không thường dùng trong câu phủ định.</li><li><b>many</b> (từ hạn định): 'Many' dùng với danh từ đếm được, nhưng 'coffee' là danh từ không đếm được.</li><li><b>any</b> (từ hạn định): 'Any' dùng trong câu phủ định và câu hỏi với danh từ không đếm được để chỉ không có hoặc số lượng bằng không.</li><li><b>much</b> (từ hạn định): 'Much' dùng với danh từ không đếm được, thường trong câu hỏi và phủ định. Tuy nhiên, 'any' tự nhiên hơn trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'any' với danh từ không đếm được trong câu phủ định: There isn't any + danh từ không đếm được.<br><br><b>Tạm dịch:</b> Không có chút cà phê nào trong cốc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'There isn't _______ coffee in the cup.' requires a word that fits grammatically and semantically. The sentence is negative ('isn't'), and 'coffee' is an uncountable noun. In negative sentences with uncountable nouns, we use 'any' or 'much'. However, 'any' is more common in negative sentences to indicate none or zero quantity.<br><ul><li><b>some</b> (determiner): 'Some' is used in positive sentences or offers/requests, not usually in negative sentences.</li><li><b>many</b> (determiner): 'Many' is used with countable nouns, but 'coffee' is uncountable.</li><li><b>any</b> (determiner): 'Any' is used in negative sentences and questions with uncountable nouns to mean none or zero.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns, but usually in questions and negative sentences. However, 'any' is more natural here.</li></ul><b>Related structure or vocabulary:</b> Use 'any' with uncountable nouns in negative sentences: There isn't any + uncountable noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001390",
+        "questionNumber": 8,
+        "questionText": "Is there _______ cheese on the table?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "some",
+            "raw": "A. some",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "many",
+            "raw": "B. many",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "much",
+            "raw": "C. much",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "any",
+            "raw": "D. any",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Is there _______ cheese on the table?' requires a quantifier that is suitable for uncountable nouns in questions. 'Cheese' is an uncountable noun, so we use quantifiers like 'some', 'much', or 'any'. In questions, especially when asking if something exists, 'any' is the most appropriate choice.<br><ul><li><b>some</b> (quantifier): 'Some' is used with uncountable nouns in positive statements and offers/requests, but not usually in questions unless offering or requesting.</li><li><b>many</b> (quantifier): 'Many' is used with countable nouns in questions and negatives, not with uncountable nouns like 'cheese'.</li><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, but mainly in negative sentences and questions about quantity, not for existence.</li><li><b>any</b> (quantifier): 'Any' is used with uncountable nouns in questions and negatives to ask about the existence or presence of something.</li></ul><b>Related structure or vocabulary:</b> Quantifiers with uncountable nouns: 'any' is used in questions and negatives; 'some' is used in positive statements and offers/requests.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Is there _______ cheese on the table?' cần một từ chỉ số lượng phù hợp với danh từ không đếm được trong câu hỏi. 'Cheese' là danh từ không đếm được, nên ta dùng các từ chỉ số lượng như 'some', 'much', hoặc 'any'. Trong câu hỏi, đặc biệt khi hỏi về sự tồn tại, 'any' là lựa chọn phù hợp nhất.<br><ul><li><b>some</b> (từ chỉ số lượng): 'Some' dùng với danh từ không đếm được trong câu khẳng định và trong lời mời/đề nghị, không thường dùng trong câu hỏi trừ khi đề nghị hoặc mời.</li><li><b>many</b> (từ chỉ số lượng): 'Many' dùng với danh từ đếm được trong câu hỏi và phủ định, không dùng với danh từ không đếm được như 'cheese'.</li><li><b>much</b> (từ chỉ số lượng): 'Much' dùng với danh từ không đếm được, chủ yếu trong câu phủ định và câu hỏi về số lượng, không dùng để hỏi về sự tồn tại.</li><li><b>any</b> (từ chỉ số lượng): 'Any' dùng với danh từ không đếm được trong câu hỏi và phủ định để hỏi về sự tồn tại hoặc sự có mặt của cái gì đó.</li></ul><b>Cấu trúc và từ vựng:</b> Các từ chỉ số lượng với danh từ không đếm được: 'any' dùng trong câu hỏi và phủ định; 'some' dùng trong câu khẳng định và lời mời/đề nghị.<br><br><b>Tạm dịch:</b> Có _______ phô mai trên bàn không? --> Có bất kỳ phô mai nào trên bàn không?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Is there _______ cheese on the table?' requires a quantifier that is suitable for uncountable nouns in questions. 'Cheese' is an uncountable noun, so we use quantifiers like 'some', 'much', or 'any'. In questions, especially when asking if something exists, 'any' is the most appropriate choice.<br><ul><li><b>some</b> (quantifier): 'Some' is used with uncountable nouns in positive statements and offers/requests, but not usually in questions unless offering or requesting.</li><li><b>many</b> (quantifier): 'Many' is used with countable nouns in questions and negatives, not with uncountable nouns like 'cheese'.</li><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, but mainly in negative sentences and questions about quantity, not for existence.</li><li><b>any</b> (quantifier): 'Any' is used with uncountable nouns in questions and negatives to ask about the existence or presence of something.</li></ul><b>Related structure or vocabulary:</b> Quantifiers with uncountable nouns: 'any' is used in questions and negatives; 'some' is used in positive statements and offers/requests.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001391",
+        "questionNumber": 9,
+        "questionText": "Thank you for bringing me along. I never thought Shakespeare could be so _______ fun.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "much",
+            "raw": "A. much",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "many",
+            "raw": "B. many",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "few",
+            "raw": "C. few",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "some",
+            "raw": "D. some",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Thank you for bringing me along. I never thought Shakespeare could be so _______ fun.' requires a quantifier that correctly modifies the uncountable noun 'fun.' In English, 'fun' is an uncountable noun, so we use quantifiers that are appropriate for uncountable nouns.<br><ul><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns to indicate a large amount.</li><li><b>many</b> (quantifier): 'Many' is used with countable plural nouns.</li><li><b>few</b> (quantifier): 'Few' is used with countable plural nouns to indicate a small number.</li><li><b>some</b> (quantifier): 'Some' can be used with both countable and uncountable nouns, but in this context, it does not fit the structure 'so ... fun.'</li></ul><b>Related structure or vocabulary:</b> Quantifiers for uncountable nouns: much, a little, some, a lot of. Structure: so + much + uncountable noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Thank you for bringing me along. I never thought Shakespeare could be so _______ fun.' cần một từ chỉ số lượng phù hợp với danh từ không đếm được 'fun'. Trong tiếng Anh, 'fun' là danh từ không đếm được, vì vậy ta phải dùng các từ chỉ số lượng dành cho danh từ không đếm được.<br><ul><li><b>much</b> (từ chỉ số lượng): 'Much' dùng với danh từ không đếm được để chỉ số lượng lớn.</li><li><b>many</b> (từ chỉ số lượng): 'Many' dùng với danh từ đếm được số nhiều.</li><li><b>few</b> (từ chỉ số lượng): 'Few' dùng với danh từ đếm được số nhiều để chỉ số lượng ít.</li><li><b>some</b> (từ chỉ số lượng): 'Some' có thể dùng với cả danh từ đếm được và không đếm được, nhưng trong cấu trúc 'so ... fun' thì không phù hợp.</li></ul><b>Cấu trúc và từ vựng:</b> Các từ chỉ số lượng cho danh từ không đếm được: much, a little, some, a lot of. Cấu trúc: so + much + danh từ không đếm được.<br><br><b>Tạm dịch:</b> Cảm ơn bạn đã cho tôi đi cùng. Tôi chưa bao giờ nghĩ rằng Shakespeare lại có thể vui đến thế.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Thank you for bringing me along. I never thought Shakespeare could be so _______ fun.' requires a quantifier that correctly modifies the uncountable noun 'fun.' In English, 'fun' is an uncountable noun, so we use quantifiers that are appropriate for uncountable nouns.<br><ul><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns to indicate a large amount.</li><li><b>many</b> (quantifier): 'Many' is used with countable plural nouns.</li><li><b>few</b> (quantifier): 'Few' is used with countable plural nouns to indicate a small number.</li><li><b>some</b> (quantifier): 'Some' can be used with both countable and uncountable nouns, but in this context, it does not fit the structure 'so ... fun.'</li></ul><b>Related structure or vocabulary:</b> Quantifiers for uncountable nouns: much, a little, some, a lot of. Structure: so + much + uncountable noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001392",
+        "questionNumber": 10,
+        "questionText": "She has very _______knowledge of the matter.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "few",
+            "raw": "A. few",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "little",
+            "raw": "B. little",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "some",
+            "raw": "C. some",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "many",
+            "raw": "D. many",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a word that correctly quantifies 'knowledge,' which is an uncountable noun. For uncountable nouns, we use quantifiers like 'little' or 'some,' but not 'few' or 'many.' The sentence 'She has very _______ knowledge of the matter.' suggests that she does not know much about the matter, so the correct quantifier is 'little.'<br><ul><li><b>few</b> (quantifier): 'Few' is used with plural countable nouns (e.g., few books, few people). 'Knowledge' is uncountable, so 'few' is incorrect.</li><li><b>little</b> (quantifier): 'Little' is used with uncountable nouns to indicate a small amount. 'Very little knowledge' means almost no knowledge.</li><li><b>some</b> (quantifier): 'Some' can be used with both countable and uncountable nouns to indicate an unspecified amount, but 'very some' is not a correct collocation.</li><li><b>many</b> (quantifier): 'Many' is used with plural countable nouns (e.g., many books). 'Knowledge' is uncountable, so 'many' is incorrect.</li></ul><b>Related structure or vocabulary:</b> Quantifiers for uncountable nouns: little, a little, much. Structure: very + little + uncountable noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ định lượng phù hợp với 'knowledge', là danh từ không đếm được. Với danh từ không đếm được, ta dùng các từ như 'little' hoặc 'some', không dùng 'few' hay 'many'. Câu 'She has very _______ knowledge of the matter.' mang ý nghĩa cô ấy biết rất ít về vấn đề này, nên từ định lượng đúng là 'little'.<br><ul><li><b>few</b> (từ định lượng): 'Few' dùng với danh từ đếm được số nhiều (ví dụ: few books, few people). 'Knowledge' là danh từ không đếm được nên không dùng 'few'.</li><li><b>little</b> (từ định lượng): 'Little' dùng với danh từ không đếm được để chỉ số lượng rất ít. 'Very little knowledge' nghĩa là gần như không biết gì.</li><li><b>some</b> (từ định lượng): 'Some' có thể dùng với cả danh từ đếm được và không đếm được để chỉ một lượng không xác định, nhưng 'very some' không phải là cụm từ đúng.</li><li><b>many</b> (từ định lượng): 'Many' dùng với danh từ đếm được số nhiều (ví dụ: many books). 'Knowledge' là danh từ không đếm được nên không dùng 'many'.</li></ul><b>Cấu trúc và từ vựng:</b> Các từ định lượng dùng cho danh từ không đếm được: little, a little, much. Cấu trúc: very + little + danh từ không đếm được.<br><br><b>Tạm dịch:</b> Cô ấy có rất ít kiến thức về vấn đề này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a word that correctly quantifies 'knowledge,' which is an uncountable noun. For uncountable nouns, we use quantifiers like 'little' or 'some,' but not 'few' or 'many.' The sentence 'She has very _______ knowledge of the matter.' suggests that she does not know much about the matter, so the correct quantifier is 'little.'<br><ul><li><b>few</b> (quantifier): 'Few' is used with plural countable nouns (e.g., few books, few people). 'Knowledge' is uncountable, so 'few' is incorrect.</li><li><b>little</b> (quantifier): 'Little' is used with uncountable nouns to indicate a small amount. 'Very little knowledge' means almost no knowledge.</li><li><b>some</b> (quantifier): 'Some' can be used with both countable and uncountable nouns to indicate an unspecified amount, but 'very some' is not a correct collocation.</li><li><b>many</b> (quantifier): 'Many' is used with plural countable nouns (e.g., many books). 'Knowledge' is uncountable, so 'many' is incorrect.</li></ul><b>Related structure or vocabulary:</b> Quantifiers for uncountable nouns: little, a little, much. Structure: very + little + uncountable noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001393",
+        "questionNumber": 11,
+        "questionText": "They want _______ coffee, but they don't want any bread.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "any",
+            "raw": "A. any",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "many",
+            "raw": "B. many",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "much",
+            "raw": "C. much",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "some",
+            "raw": "D. some",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after the verb 'want' and before the noun 'coffee.' In English, when we talk about things we can’t count (uncountable nouns) like 'coffee,' and we want to say we want a certain amount, we use 'some' in positive sentences. The sentence is positive ('They want...'), so 'some' is the correct choice.<br><ul><li><b>any</b> (determiner): 'Any' is usually used in negative sentences or questions, not in positive statements like this one.</li><li><b>many</b> (determiner): 'Many' is used with countable nouns, but 'coffee' is uncountable.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns, but usually in negative sentences or questions, not positive statements.</li><li><b>some</b> (determiner): 'Some' is used with both countable and uncountable nouns in positive sentences to indicate an unspecified amount.</li></ul><b>Related structure or vocabulary:</b> Use 'some' with uncountable nouns in positive sentences to express an unspecified quantity. Structure: want + some + uncountable noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống nằm sau động từ 'want' và trước danh từ 'coffee.' Trong tiếng Anh, khi nói về những thứ không đếm được (danh từ không đếm được) như 'coffee' và muốn diễn đạt mong muốn một lượng nào đó, ta dùng 'some' trong câu khẳng định. Câu này là câu khẳng định ('They want...'), nên 'some' là đáp án đúng.<br><ul><li><b>any</b> (từ hạn định): 'Any' thường dùng trong câu phủ định hoặc câu hỏi, không dùng trong câu khẳng định như câu này.</li><li><b>many</b> (từ hạn định): 'Many' dùng với danh từ đếm được, nhưng 'coffee' là danh từ không đếm được.</li><li><b>much</b> (từ hạn định): 'Much' dùng với danh từ không đếm được, nhưng thường dùng trong câu phủ định hoặc câu hỏi, không dùng trong câu khẳng định.</li><li><b>some</b> (từ hạn định): 'Some' dùng với cả danh từ đếm được và không đếm được trong câu khẳng định để chỉ một lượng không xác định.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'some' với danh từ không đếm được trong câu khẳng định để diễn đạt một lượng không xác định. Cấu trúc: want + some + danh từ không đếm được.<br><br><b>Tạm dịch:</b> Họ muốn một ít cà phê, nhưng họ không muốn chút bánh mì nào.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after the verb 'want' and before the noun 'coffee.' In English, when we talk about things we can’t count (uncountable nouns) like 'coffee,' and we want to say we want a certain amount, we use 'some' in positive sentences. The sentence is positive ('They want...'), so 'some' is the correct choice.<br><ul><li><b>any</b> (determiner): 'Any' is usually used in negative sentences or questions, not in positive statements like this one.</li><li><b>many</b> (determiner): 'Many' is used with countable nouns, but 'coffee' is uncountable.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns, but usually in negative sentences or questions, not positive statements.</li><li><b>some</b> (determiner): 'Some' is used with both countable and uncountable nouns in positive sentences to indicate an unspecified amount.</li></ul><b>Related structure or vocabulary:</b> Use 'some' with uncountable nouns in positive sentences to express an unspecified quantity. Structure: want + some + uncountable noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001394",
+        "questionNumber": 12,
+        "questionText": "How _______ meat do you want?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "much",
+            "raw": "A. much",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "some",
+            "raw": "B. some",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "any",
+            "raw": "C. any",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "many",
+            "raw": "D. many",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'How _______ meat do you want?' requires a quantifier that is suitable for uncountable nouns. 'Meat' is an uncountable noun, so we use quantifiers that go with uncountable nouns. The correct quantifier to use in questions about quantity with uncountable nouns is 'much'.<br><ul><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns in questions and negative sentences to ask about quantity.</li><li><b>some</b> (quantifier): 'Some' is used with both countable and uncountable nouns, but mainly in positive sentences or offers/requests, not in questions asking about quantity.</li><li><b>any</b> (quantifier): 'Any' is used with uncountable and plural countable nouns in questions and negatives, but it does not fit the structure 'How ___ meat do you want?'.</li><li><b>many</b> (quantifier): 'Many' is used with plural countable nouns, not uncountable nouns like 'meat'.</li></ul><b>Related structure or vocabulary:</b> How much + uncountable noun: used to ask about the quantity of something that cannot be counted.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'How _______ meat do you want?' cần một từ chỉ số lượng phù hợp với danh từ không đếm được. 'Meat' (thịt) là danh từ không đếm được, vì vậy ta phải dùng các từ chỉ số lượng đi với danh từ không đếm được. Trong câu hỏi về số lượng với danh từ không đếm được, từ phù hợp là 'much'.<br><ul><li><b>much</b> (từ chỉ số lượng): 'Much' dùng với danh từ không đếm được trong câu hỏi và câu phủ định để hỏi về số lượng.</li><li><b>some</b> (từ chỉ số lượng): 'Some' dùng với cả danh từ đếm được và không đếm được, nhưng chủ yếu trong câu khẳng định hoặc lời mời/đề nghị, không dùng trong câu hỏi về số lượng.</li><li><b>any</b> (từ chỉ số lượng): 'Any' dùng với danh từ không đếm được và danh từ đếm được số nhiều trong câu hỏi và phủ định, nhưng không phù hợp với cấu trúc 'How ___ meat do you want?'.</li><li><b>many</b> (từ chỉ số lượng): 'Many' dùng với danh từ đếm được số nhiều, không dùng với danh từ không đếm được như 'meat'.</li></ul><b>Cấu trúc và từ vựng:</b> How much + danh từ không đếm được: dùng để hỏi về số lượng của thứ không thể đếm được.<br><br><b>Tạm dịch:</b> How much meat do you want? --> Bạn muốn bao nhiêu thịt?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'How _______ meat do you want?' requires a quantifier that is suitable for uncountable nouns. 'Meat' is an uncountable noun, so we use quantifiers that go with uncountable nouns. The correct quantifier to use in questions about quantity with uncountable nouns is 'much'.<br><ul><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns in questions and negative sentences to ask about quantity.</li><li><b>some</b> (quantifier): 'Some' is used with both countable and uncountable nouns, but mainly in positive sentences or offers/requests, not in questions asking about quantity.</li><li><b>any</b> (quantifier): 'Any' is used with uncountable and plural countable nouns in questions and negatives, but it does not fit the structure 'How ___ meat do you want?'.</li><li><b>many</b> (quantifier): 'Many' is used with plural countable nouns, not uncountable nouns like 'meat'.</li></ul><b>Related structure or vocabulary:</b> How much + uncountable noun: used to ask about the quantity of something that cannot be counted.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001395",
+        "questionNumber": 13,
+        "questionText": "There is _______milk in the glass.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "any",
+            "raw": "A. any",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "many",
+            "raw": "B. many",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "some",
+            "raw": "C. some",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "a few",
+            "raw": "D. a few ",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'There is _______ milk in the glass.' requires a quantifier that is suitable for an uncountable noun. 'Milk' is an uncountable noun, so we use quantifiers like 'some' or 'any' with it. In affirmative (positive) sentences, 'some' is commonly used, while 'any' is usually used in negative sentences or questions. Since this is a positive statement, 'some' is the correct choice.<br><ul><li><b>any</b> (quantifier): 'Any' is used with uncountable and plural countable nouns, but mainly in negative sentences or questions.</li><li><b>many</b> (quantifier): 'Many' is used with plural countable nouns, not with uncountable nouns like 'milk'.</li><li><b>some</b> (quantifier): 'Some' is used with uncountable nouns and plural countable nouns in affirmative sentences.</li><li><b>a few</b> (quantifier): 'A few' is used with plural countable nouns, not with uncountable nouns.</li></ul><b>Related structure or vocabulary:</b> Quantifiers with uncountable nouns: 'some' (affirmative), 'any' (negative/interrogative). Uncountable nouns do not use 'many' or 'a few'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'There is _______ milk in the glass.' cần một từ chỉ lượng phù hợp với danh từ không đếm được. 'Milk' (sữa) là danh từ không đếm được, nên ta dùng các từ chỉ lượng như 'some' hoặc 'any'. Trong câu khẳng định, 'some' thường được sử dụng, còn 'any' thường dùng trong câu phủ định hoặc nghi vấn. Vì đây là câu khẳng định, đáp án đúng là 'some'.<br><ul><li><b>any</b> (từ chỉ lượng): 'Any' dùng với danh từ không đếm được và danh từ đếm được số nhiều, nhưng chủ yếu trong câu phủ định hoặc nghi vấn.</li><li><b>many</b> (từ chỉ lượng): 'Many' dùng với danh từ đếm được số nhiều, không dùng với danh từ không đếm được như 'milk'.</li><li><b>some</b> (từ chỉ lượng): 'Some' dùng với danh từ không đếm được và danh từ đếm được số nhiều trong câu khẳng định.</li><li><b>a few</b> (từ chỉ lượng): 'A few' dùng với danh từ đếm được số nhiều, không dùng với danh từ không đếm được.</li></ul><b>Cấu trúc và từ vựng:</b> Các từ chỉ lượng với danh từ không đếm được: 'some' (câu khẳng định), 'any' (câu phủ định/nghi vấn). Danh từ không đếm được không dùng với 'many' hoặc 'a few'.<br><br><b>Tạm dịch:</b> Có một ít sữa trong cốc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'There is _______ milk in the glass.' requires a quantifier that is suitable for an uncountable noun. 'Milk' is an uncountable noun, so we use quantifiers like 'some' or 'any' with it. In affirmative (positive) sentences, 'some' is commonly used, while 'any' is usually used in negative sentences or questions. Since this is a positive statement, 'some' is the correct choice.<br><ul><li><b>any</b> (quantifier): 'Any' is used with uncountable and plural countable nouns, but mainly in negative sentences or questions.</li><li><b>many</b> (quantifier): 'Many' is used with plural countable nouns, not with uncountable nouns like 'milk'.</li><li><b>some</b> (quantifier): 'Some' is used with uncountable nouns and plural countable nouns in affirmative sentences.</li><li><b>a few</b> (quantifier): 'A few' is used with plural countable nouns, not with uncountable nouns.</li></ul><b>Related structure or vocabulary:</b> Quantifiers with uncountable nouns: 'some' (affirmative), 'any' (negative/interrogative). Uncountable nouns do not use 'many' or 'a few'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001396",
+        "questionNumber": 14,
+        "questionText": "How _______ cakes does she want?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "some",
+            "raw": "A. some",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "many",
+            "raw": "B. many",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "any",
+            "raw": "C. any",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "much",
+            "raw": "D. much",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'How _______ cakes does she want?' requires a quantifier that fits with the countable noun 'cakes' and the question word 'how'. 'How many' is the correct phrase used to ask about the quantity of countable nouns.<br><ul><li><b>some</b> (determiner): 'Some' is used in affirmative sentences and offers, not in questions with 'how'.</li><li><b>many</b> (determiner): 'Many' is used with countable nouns in questions and negatives, especially after 'how' to ask about quantity.</li><li><b>any</b> (determiner): 'Any' is used in questions and negatives, but not with 'how' to ask about quantity.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns, not countable nouns like 'cakes'.</li></ul><b>Related structure or vocabulary:</b> How many + plural countable noun: used to ask about the number of things.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'How _______ cakes does she want?' cần một từ chỉ số lượng phù hợp với danh từ đếm được 'cakes' và từ để hỏi 'how'. 'How many' là cụm từ đúng dùng để hỏi về số lượng của danh từ đếm được.<br><ul><li><b>some</b> (từ hạn định): 'Some' dùng trong câu khẳng định và lời mời, không dùng trong câu hỏi với 'how'.</li><li><b>many</b> (từ hạn định): 'Many' dùng với danh từ đếm được trong câu hỏi và phủ định, đặc biệt sau 'how' để hỏi về số lượng.</li><li><b>any</b> (từ hạn định): 'Any' dùng trong câu hỏi và phủ định, nhưng không dùng với 'how' để hỏi số lượng.</li><li><b>much</b> (từ hạn định): 'Much' dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'cakes'.</li></ul><b>Cấu trúc và từ vựng:</b> How many + danh từ đếm được số nhiều: dùng để hỏi về số lượng.<br><br><b>Tạm dịch:</b> How many cakes does she want? --> Cô ấy muốn bao nhiêu cái bánh?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'How _______ cakes does she want?' requires a quantifier that fits with the countable noun 'cakes' and the question word 'how'. 'How many' is the correct phrase used to ask about the quantity of countable nouns.<br><ul><li><b>some</b> (determiner): 'Some' is used in affirmative sentences and offers, not in questions with 'how'.</li><li><b>many</b> (determiner): 'Many' is used with countable nouns in questions and negatives, especially after 'how' to ask about quantity.</li><li><b>any</b> (determiner): 'Any' is used in questions and negatives, but not with 'how' to ask about quantity.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns, not countable nouns like 'cakes'.</li></ul><b>Related structure or vocabulary:</b> How many + plural countable noun: used to ask about the number of things.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001397",
+        "questionNumber": 15,
+        "questionText": "Peter doesn't want _______ eggs, but he wants some soup.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "any",
+            "raw": "A. any",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "some",
+            "raw": "B. some",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "many",
+            "raw": "C. many",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "much",
+            "raw": "D. much",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a word that fits with the negative form 'doesn't want' and the noun 'eggs.' In English, when making negative statements about countable nouns (like 'eggs'), we usually use 'any.' The sentence structure 'doesn't want any' is correct. 'Some' is generally used in positive sentences, 'many' is used with questions or negatives but usually with 'how many,' and 'much' is used with uncountable nouns.<br><ul><li><b>any</b> (determiner): 'Any' is used in negative sentences and questions with countable and uncountable nouns. Example: 'I don't have any apples.'</li><li><b>some</b> (determiner): 'Some' is used in positive sentences with countable and uncountable nouns. Example: 'I have some apples.'</li><li><b>many</b> (quantifier): 'Many' is used with countable nouns, often in questions and negatives. Example: 'I don't have many apples.'</li><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, often in questions and negatives. Example: 'I don't have much water.'</li></ul><b>Related structure or vocabulary:</b> In negative sentences with countable nouns, use 'any.' Structure: Subject + do/does not + want + any + plural countable noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ phù hợp với dạng phủ định 'doesn't want' và danh từ đếm được 'eggs.' Trong tiếng Anh, khi nói câu phủ định với danh từ đếm được (như 'eggs'), ta thường dùng 'any.' Cấu trúc 'doesn't want any' là đúng. 'Some' thường dùng trong câu khẳng định, 'many' dùng trong câu hỏi hoặc phủ định nhưng thường đi với 'how many,' còn 'much' dùng với danh từ không đếm được.<br><ul><li><b>any</b> (từ hạn định): 'Any' dùng trong câu phủ định và câu hỏi với cả danh từ đếm được và không đếm được. Ví dụ: 'I don't have any apples.'</li><li><b>some</b> (từ hạn định): 'Some' dùng trong câu khẳng định với cả danh từ đếm được và không đếm được. Ví dụ: 'I have some apples.'</li><li><b>many</b> (từ chỉ số lượng): 'Many' dùng với danh từ đếm được, thường trong câu hỏi và phủ định. Ví dụ: 'I don't have many apples.'</li><li><b>much</b> (từ chỉ số lượng): 'Much' dùng với danh từ không đếm được, thường trong câu hỏi và phủ định. Ví dụ: 'I don't have much water.'</li></ul><b>Cấu trúc và từ vựng:</b> Trong câu phủ định với danh từ đếm được số nhiều, dùng 'any.' Cấu trúc: Chủ ngữ + do/does not + want + any + danh từ đếm được số nhiều.<br><br><b>Tạm dịch:</b> Peter không muốn bất kỳ quả trứng nào, nhưng cậu ấy muốn một ít súp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a word that fits with the negative form 'doesn't want' and the noun 'eggs.' In English, when making negative statements about countable nouns (like 'eggs'), we usually use 'any.' The sentence structure 'doesn't want any' is correct. 'Some' is generally used in positive sentences, 'many' is used with questions or negatives but usually with 'how many,' and 'much' is used with uncountable nouns.<br><ul><li><b>any</b> (determiner): 'Any' is used in negative sentences and questions with countable and uncountable nouns. Example: 'I don't have any apples.'</li><li><b>some</b> (determiner): 'Some' is used in positive sentences with countable and uncountable nouns. Example: 'I have some apples.'</li><li><b>many</b> (quantifier): 'Many' is used with countable nouns, often in questions and negatives. Example: 'I don't have many apples.'</li><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, often in questions and negatives. Example: 'I don't have much water.'</li></ul><b>Related structure or vocabulary:</b> In negative sentences with countable nouns, use 'any.' Structure: Subject + do/does not + want + any + plural countable noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001398",
+        "questionNumber": 16,
+        "questionText": "Cold objects emit _______ hot objects.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "fewer than infrared rays as",
+            "raw": "A. fewer than infrared rays as",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "fewer infrared rays as",
+            "raw": "B. fewer infrared rays as",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "as fewer infrared rays",
+            "raw": "C. as fewer infrared rays",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "fewer infrared rays than",
+            "raw": "D. fewer infrared rays than",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Cold objects emit _______ hot objects.' requires a comparative structure to compare the amount of infrared rays emitted by cold objects and hot objects. The correct comparative form is 'fewer ... than' when comparing countable nouns (like 'infrared rays'). The correct answer is 'fewer infrared rays than.'<br><ul><li><b>A. fewer than infrared rays as</b> (phrase): This option is grammatically incorrect. The phrase 'fewer than infrared rays as' does not follow the correct comparative structure.</li><li><b>B. fewer infrared rays as</b> (phrase): This option is incorrect because 'as' is not used in comparative structures with 'fewer.' The correct word should be 'than.'</li><li><b>C. as fewer infrared rays</b> (phrase): This option is incorrect because 'as' is used in the structure 'as ... as,' not with 'fewer.'</li><li><b>D. fewer infrared rays than</b> (phrase): This is the correct answer. 'Fewer ... than' is the correct comparative structure for countable nouns.</li></ul><b>Related structure or vocabulary:</b> Comparative structure: fewer + plural countable noun + than. Used to compare the quantity of countable nouns.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Cold objects emit _______ hot objects.' cần một cấu trúc so sánh để so sánh lượng tia hồng ngoại mà vật lạnh phát ra so với vật nóng. Cấu trúc so sánh đúng là 'fewer ... than' khi so sánh danh từ đếm được (như 'infrared rays'). Đáp án đúng là 'fewer infrared rays than.'<br><ul><li><b>A. fewer than infrared rays as</b> (cụm từ): Phương án này sai ngữ pháp. Cụm 'fewer than infrared rays as' không theo đúng cấu trúc so sánh.</li><li><b>B. fewer infrared rays as</b> (cụm từ): Phương án này sai vì 'as' không dùng trong cấu trúc so sánh với 'fewer.' Từ đúng phải là 'than.'</li><li><b>C. as fewer infrared rays</b> (cụm từ): Phương án này sai vì 'as' dùng trong cấu trúc 'as ... as,' không dùng với 'fewer.'</li><li><b>D. fewer infrared rays than</b> (cụm từ): Đây là đáp án đúng. 'Fewer ... than' là cấu trúc so sánh đúng cho danh từ đếm được.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc so sánh: fewer + danh từ đếm được số nhiều + than. Dùng để so sánh số lượng danh từ đếm được.<br><br><b>Tạm dịch:</b> Các vật lạnh phát ra ít tia hồng ngoại hơn các vật nóng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Cold objects emit _______ hot objects.' requires a comparative structure to compare the amount of infrared rays emitted by cold objects and hot objects. The correct comparative form is 'fewer ... than' when comparing countable nouns (like 'infrared rays'). The correct answer is 'fewer infrared rays than.'<br><ul><li><b>A. fewer than infrared rays as</b> (phrase): This option is grammatically incorrect. The phrase 'fewer than infrared rays as' does not follow the correct comparative structure.</li><li><b>B. fewer infrared rays as</b> (phrase): This option is incorrect because 'as' is not used in comparative structures with 'fewer.' The correct word should be 'than.'</li><li><b>C. as fewer infrared rays</b> (phrase): This option is incorrect because 'as' is used in the structure 'as ... as,' not with 'fewer.'</li><li><b>D. fewer infrared rays than</b> (phrase): This is the correct answer. 'Fewer ... than' is the correct comparative structure for countable nouns.</li></ul><b>Related structure or vocabulary:</b> Comparative structure: fewer + plural countable noun + than. Used to compare the quantity of countable nouns.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b001399",
+        "questionNumber": 17,
+        "questionText": "\"Do you know English?\" \"Just _______”",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "little",
+            "raw": "A. little",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "much",
+            "raw": "B. much",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "many",
+            "raw": "C. many",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "less",
+            "raw": "D. less",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Do you know English?' 'Just _______', the blank needs to be filled with a word that correctly completes the response. The phrase 'Just _______' is used to indicate a small amount of knowledge. The correct word to use here is 'a little', which means 'some, but not much'.<br><ul><li><b>little</b> (quantifier): 'Little' (without 'a') means 'almost none' or 'hardly any'. However, in this context, the correct phrase is 'a little', not just 'little'.</li><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, but it is not used alone in this context to indicate a small amount.</li><li><b>many</b> (quantifier): 'Many' is used with countable nouns, but 'English' is uncountable, so 'many' is incorrect here.</li><li><b>less</b> (quantifier): 'Less' is used to compare quantities, meaning 'not as much as', but it is not suitable as a standalone answer here.</li></ul><b>Related structure or vocabulary:</b> a little + uncountable noun: used to indicate a small amount of something uncountable (e.g., a little English, a little water)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu hỏi 'Do you know English?' 'Just _______', chỗ trống cần điền một từ phù hợp để hoàn thành câu trả lời. Cụm 'Just _______' dùng để chỉ một lượng kiến thức nhỏ. Từ đúng cần dùng ở đây là 'a little', nghĩa là 'một ít, không nhiều'.<br><ul><li><b>little</b> (từ chỉ lượng): 'Little' (không có 'a') nghĩa là 'gần như không có', 'hầu như không'. Tuy nhiên, trong trường hợp này, cụm đúng phải là 'a little', không phải chỉ 'little'.</li><li><b>much</b> (từ chỉ lượng): 'Much' dùng với danh từ không đếm được, nhưng không dùng một mình trong trường hợp này để chỉ một lượng nhỏ.</li><li><b>many</b> (từ chỉ lượng): 'Many' dùng với danh từ đếm được, nhưng 'English' là danh từ không đếm được nên không dùng 'many' ở đây.</li><li><b>less</b> (từ chỉ lượng): 'Less' dùng để so sánh số lượng, nghĩa là 'ít hơn', nhưng không phù hợp để dùng một mình trong câu trả lời này.</li></ul><b>Cấu trúc và từ vựng:</b> a little + danh từ không đếm được: dùng để chỉ một lượng nhỏ của cái gì đó không đếm được (ví dụ: a little English, a little water)<br><br><b>Tạm dịch:</b> Bạn có biết tiếng Anh không? – Chỉ một ít thôi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the sentence 'Do you know English?' 'Just _______', the blank needs to be filled with a word that correctly completes the response. The phrase 'Just _______' is used to indicate a small amount of knowledge. The correct word to use here is 'a little', which means 'some, but not much'.<br><ul><li><b>little</b> (quantifier): 'Little' (without 'a') means 'almost none' or 'hardly any'. However, in this context, the correct phrase is 'a little', not just 'little'.</li><li><b>much</b> (quantifier): 'Much' is used with uncountable nouns, but it is not used alone in this context to indicate a small amount.</li><li><b>many</b> (quantifier): 'Many' is used with countable nouns, but 'English' is uncountable, so 'many' is incorrect here.</li><li><b>less</b> (quantifier): 'Less' is used to compare quantities, meaning 'not as much as', but it is not suitable as a standalone answer here.</li></ul><b>Related structure or vocabulary:</b> a little + uncountable noun: used to indicate a small amount of something uncountable (e.g., a little English, a little water)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00139a",
+        "questionNumber": 18,
+        "questionText": "I'm very busy at the moment so it may take a _______ time to answer your letters.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "few",
+            "raw": "A. few",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "small",
+            "raw": "B. small",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "some",
+            "raw": "C. some",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "little",
+            "raw": "D. little",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a word to describe the amount of time it may take to answer the letters. The phrase 'a _______ time' requires an adjective that can modify 'time' in this context. The correct answer is 'a little time', which means a small amount of time. 'Little' is used with uncountable nouns like 'time' to indicate a small quantity.<br><ul><li><b>few</b> (determiner): 'Few' is used with plural countable nouns (e.g., a few books), not with uncountable nouns like 'time'.</li><li><b>small</b> (adjective): 'Small' is an adjective, but it is not used directly before 'time' in this context. We say 'a little time', not 'a small time'.</li><li><b>some</b> (determiner): 'Some' can be used with both countable and uncountable nouns, but the common phrase is 'a little time', not 'a some time'.</li><li><b>little</b> (determiner): 'Little' is used with uncountable nouns like 'time' to mean a small amount. The phrase 'a little time' is correct and natural.</li></ul><b>Related structure or vocabulary:</b> a little + uncountable noun: used to indicate a small amount of something that cannot be counted (e.g., a little water, a little time)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ để mô tả lượng thời gian có thể mất để trả lời thư. Cụm từ 'a _______ time' cần một tính từ phù hợp để bổ nghĩa cho 'time' trong ngữ cảnh này. Đáp án đúng là 'a little time', nghĩa là một chút thời gian. 'Little' được dùng với danh từ không đếm được như 'time' để chỉ một lượng nhỏ.<br><ul><li><b>few</b> (từ hạn định): 'Few' dùng với danh từ đếm được số nhiều (ví dụ: a few books), không dùng với danh từ không đếm được như 'time'.</li><li><b>small</b> (tính từ): 'Small' là tính từ, nhưng không dùng trực tiếp trước 'time' trong trường hợp này. Ta nói 'a little time', không nói 'a small time'.</li><li><b>some</b> (từ hạn định): 'Some' có thể dùng với cả danh từ đếm được và không đếm được, nhưng cụm từ thông dụng là 'a little time', không phải 'a some time'.</li><li><b>little</b> (từ hạn định): 'Little' dùng với danh từ không đếm được như 'time' để chỉ một lượng nhỏ. Cụm từ 'a little time' là đúng và tự nhiên.</li></ul><b>Cấu trúc và từ vựng:</b> a little + danh từ không đếm được: dùng để chỉ một lượng nhỏ của thứ gì đó không thể đếm được (ví dụ: a little water, a little time)<br><br><b>Tạm dịch:</b> Tôi đang rất bận vào lúc này nên có thể sẽ mất một chút thời gian để trả lời thư của bạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a word to describe the amount of time it may take to answer the letters. The phrase 'a _______ time' requires an adjective that can modify 'time' in this context. The correct answer is 'a little time', which means a small amount of time. 'Little' is used with uncountable nouns like 'time' to indicate a small quantity.<br><ul><li><b>few</b> (determiner): 'Few' is used with plural countable nouns (e.g., a few books), not with uncountable nouns like 'time'.</li><li><b>small</b> (adjective): 'Small' is an adjective, but it is not used directly before 'time' in this context. We say 'a little time', not 'a small time'.</li><li><b>some</b> (determiner): 'Some' can be used with both countable and uncountable nouns, but the common phrase is 'a little time', not 'a some time'.</li><li><b>little</b> (determiner): 'Little' is used with uncountable nouns like 'time' to mean a small amount. The phrase 'a little time' is correct and natural.</li></ul><b>Related structure or vocabulary:</b> a little + uncountable noun: used to indicate a small amount of something that cannot be counted (e.g., a little water, a little time)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00139b",
+        "questionNumber": 19,
+        "questionText": "We have imported _______computers this year than last year.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "fewer",
+            "raw": "A. fewer",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "few",
+            "raw": "B. few",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "less",
+            "raw": "C. less",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "many",
+            "raw": "D. many",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We have imported _______ computers this year than last year.' requires a comparative form because of the word 'than.' The noun 'computers' is a countable noun in plural form. For countable nouns, we use 'fewer' to make comparisons. 'Less' is used for uncountable nouns, while 'few' and 'many' do not fit the comparative structure here.<br><ul><li><b>fewer</b> (adjective (comparative)): Comparative form used with plural countable nouns to indicate a smaller number.</li><li><b>few</b> (adjective): Used with plural countable nouns to indicate a small number, but not comparative.</li><li><b>less</b> (adjective (comparative)): Comparative form used with uncountable nouns to indicate a smaller amount.</li><li><b>many</b> (adjective): Used with plural countable nouns to indicate a large number, not comparative.</li></ul><b>Related structure or vocabulary:</b> Comparative forms: 'fewer' is used with plural countable nouns, 'less' with uncountable nouns. Structure: more/less/fewer + noun + than.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We have imported _______ computers this year than last year.' cần một dạng so sánh vì có từ 'than'. Danh từ 'computers' là danh từ đếm được số nhiều. Với danh từ đếm được số nhiều, ta dùng 'fewer' để so sánh. 'Less' dùng cho danh từ không đếm được, còn 'few' và 'many' không phù hợp với cấu trúc so sánh ở đây.<br><ul><li><b>fewer</b> (tính từ (so sánh hơn)): Dạng so sánh dùng với danh từ đếm được số nhiều để chỉ số lượng ít hơn.</li><li><b>few</b> (tính từ): Dùng với danh từ đếm được số nhiều để chỉ số lượng ít, nhưng không phải dạng so sánh.</li><li><b>less</b> (tính từ (so sánh hơn)): Dạng so sánh dùng với danh từ không đếm được để chỉ số lượng ít hơn.</li><li><b>many</b> (tính từ): Dùng với danh từ đếm được số nhiều để chỉ số lượng nhiều, không phải dạng so sánh.</li></ul><b>Cấu trúc và từ vựng:</b> Dạng so sánh: 'fewer' dùng với danh từ đếm được số nhiều, 'less' dùng với danh từ không đếm được. Cấu trúc: more/less/fewer + danh từ + than.<br><br><b>Tạm dịch:</b> Chúng tôi đã nhập khẩu ít máy tính hơn năm ngoái.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We have imported _______ computers this year than last year.' requires a comparative form because of the word 'than.' The noun 'computers' is a countable noun in plural form. For countable nouns, we use 'fewer' to make comparisons. 'Less' is used for uncountable nouns, while 'few' and 'many' do not fit the comparative structure here.<br><ul><li><b>fewer</b> (adjective (comparative)): Comparative form used with plural countable nouns to indicate a smaller number.</li><li><b>few</b> (adjective): Used with plural countable nouns to indicate a small number, but not comparative.</li><li><b>less</b> (adjective (comparative)): Comparative form used with uncountable nouns to indicate a smaller amount.</li><li><b>many</b> (adjective): Used with plural countable nouns to indicate a large number, not comparative.</li></ul><b>Related structure or vocabulary:</b> Comparative forms: 'fewer' is used with plural countable nouns, 'less' with uncountable nouns. Structure: more/less/fewer + noun + than.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf65d1bfab7a5b00139c",
+        "questionNumber": 20,
+        "questionText": "_______ our products are sold overseas.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Many of",
+            "raw": "A. Many of",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Much of",
+            "raw": "B. Much of",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "A great deal of",
+            "raw": "C. A great deal of",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Little of",
+            "raw": "D. Little of",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_______ our products are sold overseas.' requires a quantifier that matches the plural noun 'products.' In English, 'many' is used with countable plural nouns, while 'much,' 'a great deal of,' and 'little' are used with uncountable nouns or in specific contexts. Since 'products' is a countable plural noun, the correct quantifier is 'many of.'<br><ul><li><b>Many of</b> (Quantifier (for countable plural nouns)): 'Many of' is used with plural countable nouns to indicate a large number of items.</li><li><b>Much of</b> (Quantifier (for uncountable nouns)): 'Much of' is used with uncountable nouns to indicate a large amount.</li><li><b>A great deal of</b> (Quantifier (for uncountable nouns)): 'A great deal of' is used with uncountable nouns to indicate a large amount.</li><li><b>Little of</b> (Quantifier (for uncountable nouns)): 'Little of' is used with uncountable nouns to indicate a small amount.</li></ul><b>Related structure or vocabulary:</b> Quantifiers: 'many' is used with countable plural nouns; 'much,' 'a great deal of,' and 'little' are used with uncountable nouns.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '_______ our products are sold overseas.' cần một từ chỉ số lượng phù hợp với danh từ số nhiều 'products.' Trong tiếng Anh, 'many' dùng với danh từ đếm được số nhiều, còn 'much,' 'a great deal of,' và 'little' thường dùng với danh từ không đếm được hoặc trong các ngữ cảnh đặc biệt. Vì 'products' là danh từ đếm được số nhiều nên đáp án đúng là 'many of.'<br><ul><li><b>Many of</b> (Từ chỉ số lượng (dùng cho danh từ đếm được số nhiều)): 'Many of' dùng với danh từ đếm được số nhiều để chỉ số lượng lớn.</li><li><b>Much of</b> (Từ chỉ số lượng (dùng cho danh từ không đếm được)): 'Much of' dùng với danh từ không đếm được để chỉ số lượng lớn.</li><li><b>A great deal of</b> (Từ chỉ số lượng (dùng cho danh từ không đếm được)): 'A great deal of' dùng với danh từ không đếm được để chỉ số lượng lớn.</li><li><b>Little of</b> (Từ chỉ số lượng (dùng cho danh từ không đếm được)): 'Little of' dùng với danh từ không đếm được để chỉ số lượng nhỏ.</li></ul><b>Cấu trúc và từ vựng:</b> Các từ chỉ số lượng: 'many' dùng với danh từ đếm được số nhiều; 'much,' 'a great deal of,' và 'little' dùng với danh từ không đếm được.<br><br><b>Tạm dịch:</b> Nhiều sản phẩm của chúng tôi được bán ra nước ngoài.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '_______ our products are sold overseas.' requires a quantifier that matches the plural noun 'products.' In English, 'many' is used with countable plural nouns, while 'much,' 'a great deal of,' and 'little' are used with uncountable nouns or in specific contexts. Since 'products' is a countable plural noun, the correct quantifier is 'many of.'<br><ul><li><b>Many of</b> (Quantifier (for countable plural nouns)): 'Many of' is used with plural countable nouns to indicate a large number of items.</li><li><b>Much of</b> (Quantifier (for uncountable nouns)): 'Much of' is used with uncountable nouns to indicate a large amount.</li><li><b>A great deal of</b> (Quantifier (for uncountable nouns)): 'A great deal of' is used with uncountable nouns to indicate a large amount.</li><li><b>Little of</b> (Quantifier (for uncountable nouns)): 'Little of' is used with uncountable nouns to indicate a small amount.</li></ul><b>Related structure or vocabulary:</b> Quantifiers: 'many' is used with countable plural nouns; 'much,' 'a great deal of,' and 'little' are used with uncountable nouns.<br><br>"
+      }
+    }
+  ]
+}

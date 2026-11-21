@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b14d",
+  "title": "Từ vựng: Ordering Lunch",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c4",
+        "questionNumber": 1,
+        "questionText": "burden",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev385.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/burden.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "of or like a burden; onerous",
+            "raw": "of or like a burden; onerous",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We need to avoid putting a <strong>burden</strong> on taxpayers with this project.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng ta cần tr&aacute;nh tạo <strong>g&aacute;nh nặng</strong> cho người nộp thuế với dự &aacute;n n&agrave;y.</p>\n",
+        "transcriptHtml": "<p>We need to avoid putting a <strong>burden</strong> on taxpayers with this project.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c5",
+        "questionNumber": 2,
+        "questionText": "commonly",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev386.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/commonly.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "usually, habitually",
+            "raw": "usually, habitually",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>This is one of the most <strong>commonly </strong>used methods.</p>\n",
+        "explanationViHtml": "<p>Đ&acirc;y l&agrave; một trong những phương ph&aacute;p được sử dụng <strong>phổ biến</strong> nhất.</p>\n",
+        "transcriptHtml": "<p>This is one of the most <strong>commonly </strong>used methods.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c6",
+        "questionNumber": 3,
+        "questionText": "delivery",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev387.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/delivery.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the act of conveying or delivering",
+            "raw": "the act of conveying or delivering",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The caterer hired a courier to <strong>deliver </strong>the package.</p>\n",
+        "explanationViHtml": "<p>Người phục vụ đ&atilde; thu&ecirc; một người <strong>chuyển ph&aacute;t</strong> nhanh để giao h&agrave;ng.</p>\n",
+        "transcriptHtml": "<p>The caterer hired a courier to <strong>deliver </strong>the package.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c7",
+        "questionNumber": 4,
+        "questionText": "elegant",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev388.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/elegance.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "ttractive and showing a good sense of style",
+            "raw": "attractive and showing a good sense of style",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>It&#39;s important that the meal be <strong>elegant</strong>.</p>\n",
+        "explanationViHtml": "<p>Điều quan trọng l&agrave; bữa ăn phải <strong>thanh lịch</strong>.</p>\n",
+        "transcriptHtml": "<p>It&#39;s important that the meal be <strong>elegant</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c8",
+        "questionNumber": 5,
+        "questionText": "fall to",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev389.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fall to.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to become one's responsibility",
+            "raw": "to become one's responsibility",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The task of preparing the meal<strong> fell to</strong> the assistant chef when the chief chef was ill.</p>\n",
+        "explanationViHtml": "<p>Nhiệm vụ chuẩn bị bữa ăn được <strong>giao cho</strong> bếp ph&oacute; khi bếp trưởng bị ốm.</p>\n",
+        "transcriptHtml": "<p>The task of preparing the meal<strong> fell to</strong> the assistant chef when the chief chef was ill.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2c9",
+        "questionNumber": 6,
+        "questionText": "impressed",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev390.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/impress.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to affect strongly, often favorably",
+            "raw": "to affect strongly, often favorably",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I was <strong>impressed </strong>with how quickly they delivered our lunch.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i rất<strong> ấn tượng</strong> với tốc độ giao bữa trưa của họ.</p>\n",
+        "transcriptHtml": "<p>I was <strong>impressed </strong>with how quickly they delivered our lunch.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2ca",
+        "questionNumber": 7,
+        "questionText": "individual",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev391.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/individual.mp3",
+        "choices": [
+          {
+            "letter": "B",
+            "text": "y or for one person; special; particular",
+            "raw": "by or for one person; special; particular",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<p>We had the delivery man mark the contents of each <strong>individual </strong>order.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; y&ecirc;u cầu người giao h&agrave;ng đ&aacute;nh dấu nội dung của từng đơn h&agrave;ng <strong>ri&ecirc;ng lẻ</strong>.</p>\n",
+        "transcriptHtml": "<p>We had the delivery man mark the contents of each <strong>individual </strong>order.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2cb",
+        "questionNumber": 8,
+        "questionText": "list",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev392.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/list.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "series of names, words, or other items; to make a list",
+            "raw": "a series of names, words, or other items; to make a list",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The office manager compiled a <strong>list </strong>of everyone&#39;s order.</p>\n",
+        "explanationViHtml": "<p>Người quản l&yacute; văn ph&ograve;ng đ&atilde; lập <strong>danh s&aacute;ch</strong> đơn h&agrave;ng của mọi người.</p>\n",
+        "transcriptHtml": "<p>The office manager compiled a <strong>list </strong>of everyone&#39;s order.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2cc",
+        "questionNumber": 9,
+        "questionText": "multiple",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev393.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/multiple.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "having, relating to or consisting of more than one part",
+            "raw": "having, relating to or consisting of more than one part",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The delivery person was not able to keep track of the <strong>multiple </strong>order, causing a food mix-up.</p>\n",
+        "explanationViHtml": "<p>Người giao h&agrave;ng kh&ocirc;ng thể theo d&otilde;i <strong>nhiều</strong> đơn h&agrave;ng, g&acirc;y ra t&igrave;nh trạng nhầm lẫn thực phẩm.</p>\n",
+        "transcriptHtml": "<p>The delivery person was not able to keep track of the <strong>multiple </strong>order, causing a food mix-up.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2cd",
+        "questionNumber": 10,
+        "questionText": "narrow",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev394.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/narrow.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to limit or restrict",
+            "raw": "to limit or restrict",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Etseko <strong>narrowed </strong>the restaurant possibilities down to three.</p>\n",
+        "explanationViHtml": "<p>Etseko <strong>thu hẹp</strong> danh s&aacute;ch nh&agrave; h&agrave;ng xuống c&ograve;n ba.</p>\n",
+        "transcriptHtml": "<p>Etseko <strong>narrowed </strong>the restaurant possibilities down to three.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2ce",
+        "questionNumber": 11,
+        "questionText": "pick up",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev395.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/pick up.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to take on passengers or freight",
+            "raw": "to take on passengers or freight",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The delivery man <strong>picks up</strong> lunch orders on his motor scooter.</p>\n",
+        "explanationViHtml": "<p>Người giao h&agrave;ng <strong>nhận</strong> đơn đặt h&agrave;ng bữa trưa bằng xe m&aacute;y của m&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>The delivery man <strong>picks up</strong> lunch orders on his motor scooter.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b2cf",
+        "questionNumber": 12,
+        "questionText": "settle",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev396.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/settle.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to make compensation for, to pay; to choose",
+            "raw": "to make compensation for, to pay; to choose",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We <strong>settled </strong>the bill with the cashier.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i <strong>thanh to&aacute;n</strong> h&oacute;a đơn với thủ quỹ.</p>\n",
+        "transcriptHtml": "<p>We <strong>settled </strong>the bill with the cashier.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b2c4",
+      "word": "burden",
+      "phonetic": "/ˈbɜːrdn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev385.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/burden.mp3",
+      "meaningVi": "gánh nặng",
+      "meaningEn": "of or like a burden; onerous",
+      "exampleEnHtml": "<p>We need to avoid putting a <strong>burden</strong> on taxpayers with this project.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng ta cần tr&aacute;nh tạo <strong>g&aacute;nh nặng</strong> cho người nộp thuế với dự &aacute;n n&agrave;y.</p>\n",
+      "exampleEn": "We need to avoid putting a burden on taxpayers with this project.",
+      "exampleVi": "Chúng ta cần tránh tạo gánh nặng cho người nộp thuế với dự án này."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c5",
+      "word": "commonly",
+      "phonetic": "/ˈkɑːmənli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev386.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/commonly.mp3",
+      "meaningVi": "phổ biến",
+      "meaningEn": "usually, habitually",
+      "exampleEnHtml": "<p>This is one of the most <strong>commonly </strong>used methods.</p>\n",
+      "exampleViHtml": "<p>Đ&acirc;y l&agrave; một trong những phương ph&aacute;p được sử dụng <strong>phổ biến</strong> nhất.</p>\n",
+      "exampleEn": "This is one of the most commonly used methods.",
+      "exampleVi": "Đây là một trong những phương pháp được sử dụng phổ biến nhất."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c6",
+      "word": "delivery",
+      "phonetic": "/dɪˈlɪvəri/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev387.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/delivery.mp3",
+      "meaningVi": "chuyển phát",
+      "meaningEn": "the act of conveying or delivering",
+      "exampleEnHtml": "<p>The caterer hired a courier to <strong>deliver </strong>the package.</p>\n",
+      "exampleViHtml": "<p>Người phục vụ đ&atilde; thu&ecirc; một người <strong>chuyển ph&aacute;t</strong> nhanh để giao h&agrave;ng.</p>\n",
+      "exampleEn": "The caterer hired a courier to deliver the package.",
+      "exampleVi": "Người phục vụ đã thuê một người chuyển phát nhanh để giao hàng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c7",
+      "word": "elegant",
+      "phonetic": "/ˈelɪɡənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev388.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/elegance.mp3",
+      "meaningVi": "thanh lịch",
+      "meaningEn": "attractive and showing a good sense of style",
+      "exampleEnHtml": "<p>It&#39;s important that the meal be <strong>elegant</strong>.</p>\n",
+      "exampleViHtml": "<p>Điều quan trọng l&agrave; bữa ăn phải <strong>thanh lịch</strong>.</p>\n",
+      "exampleEn": "It's important that the meal be elegant.",
+      "exampleVi": "Điều quan trọng là bữa ăn phải thanh lịch."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c8",
+      "word": "fall to",
+      "phonetic": "/fɔːl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev389.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fall to.mp3",
+      "meaningVi": "giao cho",
+      "meaningEn": "to become one's responsibility",
+      "exampleEnHtml": "<p>The task of preparing the meal<strong> fell to</strong> the assistant chef when the chief chef was ill.</p>\n",
+      "exampleViHtml": "<p>Nhiệm vụ chuẩn bị bữa ăn được <strong>giao cho</strong> bếp ph&oacute; khi bếp trưởng bị ốm.</p>\n",
+      "exampleEn": "The task of preparing the meal fell to the assistant chef when the chief chef was ill.",
+      "exampleVi": "Nhiệm vụ chuẩn bị bữa ăn được giao cho bếp phó khi bếp trưởng bị ốm."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2c9",
+      "word": "impressed",
+      "phonetic": "/ɪmˈprest/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev390.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/impress.mp3",
+      "meaningVi": "ấn tượng",
+      "meaningEn": "to affect strongly, often favorably",
+      "exampleEnHtml": "<p>I was <strong>impressed </strong>with how quickly they delivered our lunch.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i rất<strong> ấn tượng</strong> với tốc độ giao bữa trưa của họ.</p>\n",
+      "exampleEn": "I was impressed with how quickly they delivered our lunch.",
+      "exampleVi": "Tôi rất ấn tượng với tốc độ giao bữa trưa của họ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2ca",
+      "word": "individual",
+      "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev391.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/individual.mp3",
+      "meaningVi": "riêng lẻ",
+      "meaningEn": "by or for one person; special; particular",
+      "exampleEnHtml": "<p>We had the delivery man mark the contents of each <strong>individual </strong>order.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i đ&atilde; y&ecirc;u cầu người giao h&agrave;ng đ&aacute;nh dấu nội dung của từng đơn h&agrave;ng <strong>ri&ecirc;ng lẻ</strong>.</p>\n",
+      "exampleEn": "We had the delivery man mark the contents of each individual order.",
+      "exampleVi": "Chúng tôi đã yêu cầu người giao hàng đánh dấu nội dung của từng đơn hàng riêng lẻ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2cb",
+      "word": "list",
+      "phonetic": "/lɪst/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev392.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/list.mp3",
+      "meaningVi": "danh sách",
+      "meaningEn": "a series of names, words, or other items; to make a list",
+      "exampleEnHtml": "<p>The office manager compiled a <strong>list </strong>of everyone&#39;s order.</p>\n",
+      "exampleViHtml": "<p>Người quản l&yacute; văn ph&ograve;ng đ&atilde; lập <strong>danh s&aacute;ch</strong> đơn h&agrave;ng của mọi người.</p>\n",
+      "exampleEn": "The office manager compiled a list of everyone's order.",
+      "exampleVi": "Người quản lý văn phòng đã lập danh sách đơn hàng của mọi người."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2cc",
+      "word": "multiple",
+      "phonetic": "/ˈmʌltɪpl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev393.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/multiple.mp3",
+      "meaningVi": "nhiều",
+      "meaningEn": "having, relating to or consisting of more than one part",
+      "exampleEnHtml": "<p>The delivery person was not able to keep track of the <strong>multiple </strong>order, causing a food mix-up.</p>\n",
+      "exampleViHtml": "<p>Người giao h&agrave;ng kh&ocirc;ng thể theo d&otilde;i <strong>nhiều</strong> đơn h&agrave;ng, g&acirc;y ra t&igrave;nh trạng nhầm lẫn thực phẩm.</p>\n",
+      "exampleEn": "The delivery person was not able to keep track of the multiple order, causing a food mix-up.",
+      "exampleVi": "Người giao hàng không thể theo dõi nhiều đơn hàng, gây ra tình trạng nhầm lẫn thực phẩm."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2cd",
+      "word": "narrow",
+      "phonetic": "/ˈnæroʊ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev394.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/narrow.mp3",
+      "meaningVi": "thu hẹp",
+      "meaningEn": "to limit or restrict",
+      "exampleEnHtml": "<p>Etseko <strong>narrowed </strong>the restaurant possibilities down to three.</p>\n",
+      "exampleViHtml": "<p>Etseko <strong>thu hẹp</strong> danh s&aacute;ch nh&agrave; h&agrave;ng xuống c&ograve;n ba.</p>\n",
+      "exampleEn": "Etseko narrowed the restaurant possibilities down to three.",
+      "exampleVi": "Etseko thu hẹp danh sách nhà hàng xuống còn ba."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2ce",
+      "word": "pick up",
+      "phonetic": "/pɪk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev395.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/pick up.mp3",
+      "meaningVi": "nhận",
+      "meaningEn": "to take on passengers or freight",
+      "exampleEnHtml": "<p>The delivery man <strong>picks up</strong> lunch orders on his motor scooter.</p>\n",
+      "exampleViHtml": "<p>Người giao h&agrave;ng <strong>nhận</strong> đơn đặt h&agrave;ng bữa trưa bằng xe m&aacute;y của m&igrave;nh.</p>\n",
+      "exampleEn": "The delivery man picks up lunch orders on his motor scooter.",
+      "exampleVi": "Người giao hàng nhận đơn đặt hàng bữa trưa bằng xe máy của mình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b2cf",
+      "word": "settle",
+      "phonetic": "/ˈsetl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev396.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/settle.mp3",
+      "meaningVi": "thanh toán",
+      "meaningEn": "to make compensation for, to pay; to choose",
+      "exampleEnHtml": "<p>We <strong>settled </strong>the bill with the cashier.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i <strong>thanh to&aacute;n</strong> h&oacute;a đơn với thủ quỹ.</p>\n",
+      "exampleEn": "We settled the bill with the cashier.",
+      "exampleVi": "Chúng tôi thanh toán hóa đơn với thủ quỹ."
+    }
+  ],
+  "totalFlashcards": 12
+}

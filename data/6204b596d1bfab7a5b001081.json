@@ -1,0 +1,768 @@
+{
+  "topicId": "6204b596d1bfab7a5b001081",
+  "title": "CONJUNCTIONS - Practice 6",
+  "totalCards": 19,
+  "totalQuestions": 19,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012dd",
+        "questionNumber": 1,
+        "questionText": "If you want to get over the finals, you must try hard __________ patiently.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "and",
+            "raw": "A. and",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "or",
+            "raw": "B. or ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "nor",
+            "raw": "C. nor ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "but",
+            "raw": "D. but",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank is used to connect two actions: 'try hard' and 'patiently.' The correct conjunction should logically link these two actions. The word 'and' is used to join two similar or related actions, indicating that both are necessary. Therefore, 'try hard and patiently' means you must both try hard and be patient to get over the finals.<br><ul><li><b>and</b> (conjunction): Used to connect words or phrases that are similar or related, indicating both actions or qualities are required.</li><li><b>or</b> (conjunction): Used to present an alternative or choice between two options.</li><li><b>nor</b> (conjunction): Used to present a negative alternative, usually after 'neither.'</li><li><b>but</b> (conjunction): Used to show contrast between two statements or actions.</li></ul><b>Related structure or vocabulary:</b> Conjunctions (and, or, nor, but) are used to connect words, phrases, or clauses. 'And' is used to add information or actions together.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chỗ trống được dùng để nối hai hành động: 'try hard' (cố gắng hết sức) và 'patiently' (kiên nhẫn). Liên từ phù hợp cần phải liên kết hợp lý hai hành động này. 'And' được sử dụng để nối hai hành động hoặc tính chất tương tự hoặc liên quan, cho thấy cả hai đều cần thiết. Vì vậy, 'try hard and patiently' nghĩa là bạn phải vừa cố gắng hết sức vừa kiên nhẫn để vượt qua kỳ thi cuối kỳ.<br><ul><li><b>and</b> (liên từ): Được dùng để nối các từ hoặc cụm từ tương tự hoặc liên quan, chỉ ra rằng cả hai hành động hoặc tính chất đều cần thiết.</li><li><b>or</b> (liên từ): Được dùng để đưa ra sự lựa chọn hoặc phương án thay thế giữa hai lựa chọn.</li><li><b>nor</b> (liên từ): Được dùng để đưa ra lựa chọn phủ định, thường đi sau 'neither.'</li><li><b>but</b> (liên từ): Được dùng để thể hiện sự tương phản giữa hai mệnh đề hoặc hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ (and, or, nor, but) được dùng để nối các từ, cụm từ hoặc mệnh đề. 'And' dùng để bổ sung thông tin hoặc hành động.<br><br><b>Tạm dịch:</b> Nếu bạn muốn vượt qua kỳ thi cuối kỳ, bạn phải cố gắng hết sức và kiên nhẫn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the blank is used to connect two actions: 'try hard' and 'patiently.' The correct conjunction should logically link these two actions. The word 'and' is used to join two similar or related actions, indicating that both are necessary. Therefore, 'try hard and patiently' means you must both try hard and be patient to get over the finals.<br><ul><li><b>and</b> (conjunction): Used to connect words or phrases that are similar or related, indicating both actions or qualities are required.</li><li><b>or</b> (conjunction): Used to present an alternative or choice between two options.</li><li><b>nor</b> (conjunction): Used to present a negative alternative, usually after 'neither.'</li><li><b>but</b> (conjunction): Used to show contrast between two statements or actions.</li></ul><b>Related structure or vocabulary:</b> Conjunctions (and, or, nor, but) are used to connect words, phrases, or clauses. 'And' is used to add information or actions together.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012de",
+        "questionNumber": 2,
+        "questionText": "Neither pressures __________ worries could strike her down.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "and",
+            "raw": "A. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "or",
+            "raw": "B. or ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "nor",
+            "raw": "C. nor",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "as well as",
+            "raw": "D. as well as",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are looking for a word to connect 'pressures' and 'worries' in a negative structure that matches 'Neither ... nor ...'. The structure 'Neither ... nor ...' is used to connect two negative alternatives, meaning 'not this and not that'. The sentence means that neither pressures nor worries could affect her.<br><ul><li><b>and</b> (conjunction): Used to connect two similar or related items in a positive sense.</li><li><b>or</b> (conjunction): Used to present an alternative or choice between two options.</li><li><b>nor</b> (conjunction): Used after 'neither' to introduce the second negative item in a pair.</li><li><b>as well as</b> (phrase): Means 'in addition to', used to add information, not for negative structures.</li></ul><b>Related structure or vocabulary:</b> Neither ... nor ...: This correlative conjunction is used to connect two negative alternatives. Example: Neither John nor Mary was at the party.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần một từ để nối 'pressures' và 'worries' trong cấu trúc phủ định phù hợp với 'Neither ... nor ...'. Cấu trúc 'Neither ... nor ...' được dùng để nối hai lựa chọn phủ định, nghĩa là 'không cái này cũng không cái kia'. Câu này có nghĩa là không áp lực cũng không lo lắng nào có thể đánh gục cô ấy.<br><ul><li><b>and</b> (liên từ): Dùng để nối hai sự vật hoặc sự việc tương tự hoặc liên quan trong nghĩa khẳng định.</li><li><b>or</b> (liên từ): Dùng để đưa ra lựa chọn hoặc phương án thay thế giữa hai lựa chọn.</li><li><b>nor</b> (liên từ): Dùng sau 'neither' để giới thiệu phần phủ định thứ hai trong cặp.</li><li><b>as well as</b> (cụm từ): Có nghĩa là 'cũng như', dùng để bổ sung thông tin, không dùng trong cấu trúc phủ định.</li></ul><b>Cấu trúc và từ vựng:</b> Neither ... nor ...: Cặp liên từ này dùng để nối hai lựa chọn phủ định. Ví dụ: Neither John nor Mary was at the party.<br><br><b>Tạm dịch:</b> Không áp lực cũng không lo lắng nào có thể đánh gục cô ấy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are looking for a word to connect 'pressures' and 'worries' in a negative structure that matches 'Neither ... nor ...'. The structure 'Neither ... nor ...' is used to connect two negative alternatives, meaning 'not this and not that'. The sentence means that neither pressures nor worries could affect her.<br><ul><li><b>and</b> (conjunction): Used to connect two similar or related items in a positive sense.</li><li><b>or</b> (conjunction): Used to present an alternative or choice between two options.</li><li><b>nor</b> (conjunction): Used after 'neither' to introduce the second negative item in a pair.</li><li><b>as well as</b> (phrase): Means 'in addition to', used to add information, not for negative structures.</li></ul><b>Related structure or vocabulary:</b> Neither ... nor ...: This correlative conjunction is used to connect two negative alternatives. Example: Neither John nor Mary was at the party.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012df",
+        "questionNumber": 3,
+        "questionText": "Monthly renting fees can be paid either by cash __________ by bank transfer.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "but",
+            "raw": "A. but ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "and",
+            "raw": "B. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "or",
+            "raw": "C. or",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "if",
+            "raw": "D. if",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Monthly renting fees can be paid either by cash __________ by bank transfer.' requires a conjunction that correctly completes the correlative pair 'either ... or'. The phrase 'either ... or' is used to present two alternatives or choices. Therefore, the correct answer is 'or'.<br><ul><li><b>but</b> (conjunction): Used to show contrast between two ideas. Not suitable here because the sentence is not showing contrast.</li><li><b>and</b> (conjunction): Used to add information or join similar ideas. Not suitable because the sentence is about alternatives, not addition.</li><li><b>or</b> (conjunction): Used to present alternatives or choices. Correct here because it completes the correlative conjunction 'either ... or'.</li><li><b>if</b> (conjunction): Used to introduce a condition. Not suitable because the sentence is not conditional.</li></ul><b>Related structure or vocabulary:</b> Correlative conjunctions: either ... or, neither ... nor. These pairs are used to connect two alternatives or choices.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Monthly renting fees can be paid either by cash __________ by bank transfer.' cần một liên từ để hoàn thành cặp liên từ tương ứng 'either ... or'. Cấu trúc 'either ... or' dùng để đưa ra hai lựa chọn hoặc khả năng. Vì vậy, đáp án đúng là 'or'.<br><ul><li><b>but</b> (liên từ): Dùng để diễn tả sự tương phản giữa hai ý. Không phù hợp vì câu này không diễn tả sự đối lập.</li><li><b>and</b> (liên từ): Dùng để thêm thông tin hoặc nối các ý tương đồng. Không phù hợp vì câu này nói về lựa chọn, không phải sự bổ sung.</li><li><b>or</b> (liên từ): Dùng để đưa ra lựa chọn hoặc khả năng. Đúng vì hoàn thành cặp liên từ 'either ... or'.</li><li><b>if</b> (liên từ): Dùng để diễn tả điều kiện. Không phù hợp vì câu này không phải câu điều kiện.</li></ul><b>Cấu trúc và từ vựng:</b> Cặp liên từ tương ứng: either ... or, neither ... nor. Các cặp này dùng để nối hai lựa chọn hoặc khả năng.<br><br><b>Tạm dịch:</b> Phí thuê hàng tháng có thể được thanh toán bằng tiền mặt HOẶC chuyển khoản ngân hàng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Monthly renting fees can be paid either by cash __________ by bank transfer.' requires a conjunction that correctly completes the correlative pair 'either ... or'. The phrase 'either ... or' is used to present two alternatives or choices. Therefore, the correct answer is 'or'.<br><ul><li><b>but</b> (conjunction): Used to show contrast between two ideas. Not suitable here because the sentence is not showing contrast.</li><li><b>and</b> (conjunction): Used to add information or join similar ideas. Not suitable because the sentence is about alternatives, not addition.</li><li><b>or</b> (conjunction): Used to present alternatives or choices. Correct here because it completes the correlative conjunction 'either ... or'.</li><li><b>if</b> (conjunction): Used to introduce a condition. Not suitable because the sentence is not conditional.</li></ul><b>Related structure or vocabulary:</b> Correlative conjunctions: either ... or, neither ... nor. These pairs are used to connect two alternatives or choices.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e1",
+        "questionNumber": 4,
+        "questionText": "“Anne with an E” was into its first reprint in __________ English and French.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "neither",
+            "raw": "A. neither ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "yet",
+            "raw": "B. yet ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "so",
+            "raw": "C. so ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "both",
+            "raw": "D. both",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '“Anne with an E” was into its first reprint in __________ English and French.' requires a word that indicates the book was reprinted in both languages. The correct word should show that the reprint happened in English as well as in French.<br><ul><li><b>neither</b> (pronoun/conjunction): Means 'not in either' or 'not in any of the two'. Using 'neither' would mean the book was not reprinted in English or French, which does not fit the context.</li><li><b>yet</b> (adverb): Means 'up to now' or 'so far'. It is used to talk about something that has not happened up to the present time. It does not fit grammatically or contextually here.</li><li><b>so</b> (conjunction/adverb): Means 'therefore' or 'as a result'. It is used to show cause and effect, not to indicate two languages.</li><li><b>both</b> (determiner/pronoun): Means 'the two together' or 'in two places/things at the same time'. 'Both English and French' means in English as well as in French, which fits the context perfectly.</li></ul><b>Related structure or vocabulary:</b> both ... and ...: used to link two things or people together, showing that the statement applies to both.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '“Anne with an E” was into its first reprint in __________ English and French.' cần một từ chỉ rằng cuốn sách đã được tái bản bằng cả hai ngôn ngữ. Từ đúng phải thể hiện việc tái bản diễn ra bằng cả tiếng Anh và tiếng Pháp.<br><ul><li><b>neither</b> (đại từ/liên từ): Có nghĩa là 'không cái nào trong hai'. Nếu dùng 'neither' thì câu sẽ mang nghĩa cuốn sách không được tái bản bằng tiếng Anh hoặc tiếng Pháp, không phù hợp với ngữ cảnh.</li><li><b>yet</b> (trạng từ): Có nghĩa là 'cho đến bây giờ', dùng để nói về điều gì đó chưa xảy ra cho đến hiện tại. Không phù hợp về ngữ pháp và ngữ nghĩa trong câu này.</li><li><b>so</b> (liên từ/trạng từ): Có nghĩa là 'vì vậy', dùng để chỉ nguyên nhân - kết quả, không dùng để chỉ hai ngôn ngữ.</li><li><b>both</b> (từ hạn định/đại từ): Có nghĩa là 'cả hai', dùng để nói về hai sự vật hoặc người cùng lúc. 'Both English and French' nghĩa là bằng cả tiếng Anh và tiếng Pháp, hoàn toàn phù hợp với ngữ cảnh.</li></ul><b>Cấu trúc và từ vựng:</b> both ... and ...: cấu trúc dùng để liên kết hai sự vật hoặc người, thể hiện rằng điều nói đến áp dụng cho cả hai.<br><br><b>Tạm dịch:</b> “Anne with an E” đã được tái bản lần đầu tiên bằng cả tiếng Anh và tiếng Pháp.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '“Anne with an E” was into its first reprint in __________ English and French.' requires a word that indicates the book was reprinted in both languages. The correct word should show that the reprint happened in English as well as in French.<br><ul><li><b>neither</b> (pronoun/conjunction): Means 'not in either' or 'not in any of the two'. Using 'neither' would mean the book was not reprinted in English or French, which does not fit the context.</li><li><b>yet</b> (adverb): Means 'up to now' or 'so far'. It is used to talk about something that has not happened up to the present time. It does not fit grammatically or contextually here.</li><li><b>so</b> (conjunction/adverb): Means 'therefore' or 'as a result'. It is used to show cause and effect, not to indicate two languages.</li><li><b>both</b> (determiner/pronoun): Means 'the two together' or 'in two places/things at the same time'. 'Both English and French' means in English as well as in French, which fits the context perfectly.</li></ul><b>Related structure or vocabulary:</b> both ... and ...: used to link two things or people together, showing that the statement applies to both.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e2",
+        "questionNumber": 5,
+        "questionText": "Tickets to __________ concerts or fan meetings could be purchased through online distribution channels.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "what",
+            "raw": "A. what ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "both",
+            "raw": "B. both ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "and",
+            "raw": "C. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "either",
+            "raw": "D. either",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Tickets to __________ concerts or fan meetings could be purchased through online distribution channels.' requires a word that connects 'concerts' and 'fan meetings.' The structure '__________ concerts or fan meetings' suggests that the sentence is talking about two options, and the word before 'concerts' should indicate whether one, both, or either of the two can be chosen. The correct word here is 'either,' which is used with 'or' to present two alternatives.<br><ul><li><b>what</b> (pronoun/question word): 'What' is a question word used to ask about something. It does not fit in this context because the sentence is not a question.</li><li><b>both</b> (determiner): 'Both' is used to refer to two things together, usually with 'and' (both A and B). It is not used with 'or.'</li><li><b>and</b> (conjunction): 'And' is a conjunction used to connect two similar items, but the sentence structure requires a word that works with 'or,' not 'and.'</li><li><b>either</b> (determiner): 'Either' is used with 'or' to indicate a choice between two options. 'Tickets to either concerts or fan meetings...' means tickets to one of the two events can be purchased.</li></ul><b>Related structure or vocabulary:</b> either ... or: used to present two alternatives. Example: You can have either tea or coffee.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Tickets to __________ concerts or fan meetings could be purchased through online distribution channels.' cần một từ để nối 'concerts' và 'fan meetings.' Cấu trúc '__________ concerts or fan meetings' cho thấy câu đang nói về hai lựa chọn, và từ trước 'concerts' phải thể hiện rằng có thể chọn một trong hai. 'Either' là từ phù hợp, dùng với 'or' để đưa ra hai lựa chọn.<br><ul><li><b>what</b> (đại từ/từ để hỏi): 'What' là từ để hỏi, dùng để hỏi về điều gì đó. Không phù hợp trong ngữ cảnh này vì câu không phải là câu hỏi.</li><li><b>both</b> (từ xác định): 'Both' dùng để chỉ cả hai, thường đi với 'and' (both A and B). Không dùng với 'or.'</li><li><b>and</b> (liên từ): 'And' là liên từ dùng để nối hai thành phần tương tự, nhưng cấu trúc câu này cần một từ đi với 'or,' không phải 'and.'</li><li><b>either</b> (từ xác định): 'Either' dùng với 'or' để chỉ một trong hai lựa chọn. 'Tickets to either concerts or fan meetings...' nghĩa là vé cho một trong hai sự kiện có thể được mua.</li></ul><b>Cấu trúc và từ vựng:</b> either ... or: dùng để đưa ra hai lựa chọn. Ví dụ: You can have either tea or coffee.<br><br><b>Tạm dịch:</b> Vé cho một trong hai buổi hòa nhạc hoặc buổi gặp gỡ người hâm mộ có thể được mua qua các kênh phân phối trực tuyến.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Tickets to __________ concerts or fan meetings could be purchased through online distribution channels.' requires a word that connects 'concerts' and 'fan meetings.' The structure '__________ concerts or fan meetings' suggests that the sentence is talking about two options, and the word before 'concerts' should indicate whether one, both, or either of the two can be chosen. The correct word here is 'either,' which is used with 'or' to present two alternatives.<br><ul><li><b>what</b> (pronoun/question word): 'What' is a question word used to ask about something. It does not fit in this context because the sentence is not a question.</li><li><b>both</b> (determiner): 'Both' is used to refer to two things together, usually with 'and' (both A and B). It is not used with 'or.'</li><li><b>and</b> (conjunction): 'And' is a conjunction used to connect two similar items, but the sentence structure requires a word that works with 'or,' not 'and.'</li><li><b>either</b> (determiner): 'Either' is used with 'or' to indicate a choice between two options. 'Tickets to either concerts or fan meetings...' means tickets to one of the two events can be purchased.</li></ul><b>Related structure or vocabulary:</b> either ... or: used to present two alternatives. Example: You can have either tea or coffee.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e3",
+        "questionNumber": 6,
+        "questionText": "It was a big surprise that he acquired __________ a travel agency and a resort.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "as well as",
+            "raw": "A. as well as ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "neither",
+            "raw": "B. neither ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "both",
+            "raw": "C. both",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "either",
+            "raw": "D. either",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It was a big surprise that he acquired __________ a travel agency and a resort.' requires a word or phrase that connects two nouns (a travel agency and a resort) to show that he acquired both of them. The correct connector in this context is 'both', which is used to indicate two things together.<br><ul><li><b>as well as</b> (phrase): A phrase used to add information, similar to 'and', but it does not fit grammatically in this sentence structure.</li><li><b>neither</b> (conjunction): Used to indicate not one nor the other of two things. It is negative and does not fit the meaning of the sentence.</li><li><b>both</b> (determiner/pronoun): Used to refer to two things or people together. It fits perfectly here to show he acquired two things.</li><li><b>either</b> (pronoun/conjunction): Used to refer to one or the other of two things, but not both. It does not fit the context of acquiring two things.</li></ul><b>Related structure or vocabulary:</b> both ... and ...: used to connect two nouns, adjectives, or verbs to show that both are included.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'It was a big surprise that he acquired __________ a travel agency and a resort.' cần một từ hoặc cụm từ để nối hai danh từ (a travel agency và a resort) nhằm diễn đạt rằng anh ấy đã mua cả hai thứ này. 'Both' là từ phù hợp nhất trong trường hợp này, dùng để chỉ hai thứ cùng nhau.<br><ul><li><b>as well as</b> (cụm từ): Cụm từ dùng để bổ sung thông tin, tương tự như 'and', nhưng không phù hợp về mặt ngữ pháp trong cấu trúc câu này.</li><li><b>neither</b> (liên từ): Dùng để chỉ không cái nào trong hai cái. Mang nghĩa phủ định và không phù hợp với ý nghĩa của câu.</li><li><b>both</b> (định từ/đại từ): Dùng để chỉ hai thứ hoặc hai người cùng nhau. Phù hợp hoàn toàn để diễn đạt anh ấy đã mua hai thứ.</li><li><b>either</b> (đại từ/liên từ): Dùng để chỉ một trong hai thứ, nhưng không phải cả hai. Không phù hợp với ngữ cảnh mua hai thứ.</li></ul><b>Cấu trúc và từ vựng:</b> both ... and ...: cấu trúc dùng để nối hai danh từ, tính từ hoặc động từ nhằm chỉ cả hai đều được đề cập.<br><br><b>Tạm dịch:</b> It was a big surprise that he acquired both a travel agency and a resort. --> Thật là một điều ngạc nhiên lớn khi anh ấy đã mua cả một công ty du lịch và một khu nghỉ dưỡng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'It was a big surprise that he acquired __________ a travel agency and a resort.' requires a word or phrase that connects two nouns (a travel agency and a resort) to show that he acquired both of them. The correct connector in this context is 'both', which is used to indicate two things together.<br><ul><li><b>as well as</b> (phrase): A phrase used to add information, similar to 'and', but it does not fit grammatically in this sentence structure.</li><li><b>neither</b> (conjunction): Used to indicate not one nor the other of two things. It is negative and does not fit the meaning of the sentence.</li><li><b>both</b> (determiner/pronoun): Used to refer to two things or people together. It fits perfectly here to show he acquired two things.</li><li><b>either</b> (pronoun/conjunction): Used to refer to one or the other of two things, but not both. It does not fit the context of acquiring two things.</li></ul><b>Related structure or vocabulary:</b> both ... and ...: used to connect two nouns, adjectives, or verbs to show that both are included.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e4",
+        "questionNumber": 7,
+        "questionText": "After the new labor contract released,  __________ manager nor employees were satisfied.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "neither",
+            "raw": "A. neither",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "both",
+            "raw": "B. both ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "either",
+            "raw": "C. either ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "too",
+            "raw": "D. too",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'After the new labor contract released, __________ manager nor employees were satisfied.' requires a word that correctly connects two negative subjects. The correct structure is 'neither ... nor ...' to indicate that both the manager and the employees were not satisfied.<br><ul><li><b>neither</b> (conjunction): 'Neither' is used with 'nor' to connect two negative alternatives, meaning 'not one and not the other.' The correct structure is 'neither ... nor ...'.</li><li><b>both</b> (conjunction): 'Both' is used to refer to two things or people together, usually in a positive sense. The structure is 'both ... and ...'.</li><li><b>either</b> (conjunction): 'Either' is used with 'or' to refer to one or the other of two people or things. The structure is 'either ... or ...'.</li><li><b>too</b> (adverb): 'Too' means 'also' or 'as well', and is not used to connect two subjects in this way.</li></ul><b>Related structure or vocabulary:</b> neither ... nor ...: used to connect two negative alternatives. Example: Neither John nor Mary was at the meeting.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'After the new labor contract released, __________ manager nor employees were satisfied.' cần một từ để nối hai chủ ngữ phủ định. Cấu trúc đúng là 'neither ... nor ...' để diễn tả rằng cả người quản lý lẫn nhân viên đều không hài lòng.<br><ul><li><b>neither</b> (liên từ): 'Neither' được dùng với 'nor' để nối hai lựa chọn phủ định, nghĩa là 'không cái này cũng không cái kia'. Cấu trúc đúng là 'neither ... nor ...'.</li><li><b>both</b> (liên từ): 'Both' dùng để chỉ cả hai người hoặc vật cùng lúc, thường mang nghĩa khẳng định. Cấu trúc là 'both ... and ...'.</li><li><b>either</b> (liên từ): 'Either' dùng với 'or' để chỉ một trong hai người hoặc vật. Cấu trúc là 'either ... or ...'.</li><li><b>too</b> (trạng từ): 'Too' nghĩa là 'cũng', không dùng để nối hai chủ ngữ như trong câu này.</li></ul><b>Cấu trúc và từ vựng:</b> neither ... nor ...: dùng để nối hai lựa chọn phủ định. Ví dụ: Neither John nor Mary was at the meeting.<br><br><b>Tạm dịch:</b> Sau khi hợp đồng lao động mới được ban hành, cả người quản lý lẫn nhân viên đều không hài lòng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'After the new labor contract released, __________ manager nor employees were satisfied.' requires a word that correctly connects two negative subjects. The correct structure is 'neither ... nor ...' to indicate that both the manager and the employees were not satisfied.<br><ul><li><b>neither</b> (conjunction): 'Neither' is used with 'nor' to connect two negative alternatives, meaning 'not one and not the other.' The correct structure is 'neither ... nor ...'.</li><li><b>both</b> (conjunction): 'Both' is used to refer to two things or people together, usually in a positive sense. The structure is 'both ... and ...'.</li><li><b>either</b> (conjunction): 'Either' is used with 'or' to refer to one or the other of two people or things. The structure is 'either ... or ...'.</li><li><b>too</b> (adverb): 'Too' means 'also' or 'as well', and is not used to connect two subjects in this way.</li></ul><b>Related structure or vocabulary:</b> neither ... nor ...: used to connect two negative alternatives. Example: Neither John nor Mary was at the meeting.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e5",
+        "questionNumber": 8,
+        "questionText": "The deadline for the assignments passed yesterday, __________ the professor has granted them an extension.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "beyond",
+            "raw": "A. beyond ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "until",
+            "raw": "B. until ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "that",
+            "raw": "C. that ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "but",
+            "raw": "D. but",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence connects two contrasting ideas: the deadline has already passed, but the professor has still granted an extension. The correct conjunction to show contrast is 'but.'<br><ul><li><b>beyond</b> (preposition): A preposition meaning 'on the farther side of' or 'later than.' It does not connect two clauses.</li><li><b>until</b> (conjunction/preposition): A conjunction or preposition used to indicate up to the point in time or the event mentioned. It does not fit the contrast needed here.</li><li><b>that</b> (conjunction/pronoun): A conjunction or pronoun used to introduce a clause, but it does not express contrast.</li><li><b>but</b> (conjunction): A conjunction used to introduce a phrase or clause contrasting with what has already been mentioned.</li></ul><b>Related structure or vocabulary:</b> Coordinating conjunctions (and, but, or, so, yet, for, nor) are used to connect clauses. 'But' is specifically used to show contrast between two statements.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu dùng để nối hai ý trái ngược nhau: hạn nộp bài đã qua, nhưng giáo sư vẫn cho gia hạn. Liên từ phù hợp để diễn đạt sự đối lập này là 'but.'<br><ul><li><b>beyond</b> (giới từ): Giới từ mang nghĩa 'vượt quá' hoặc 'sau khi.' Không dùng để nối hai mệnh đề.</li><li><b>until</b> (liên từ/giới từ): Liên từ hoặc giới từ chỉ đến thời điểm nào đó. Không phù hợp để diễn đạt sự đối lập ở đây.</li><li><b>that</b> (liên từ/đại từ): Liên từ hoặc đại từ dùng để giới thiệu mệnh đề, không diễn đạt sự đối lập.</li><li><b>but</b> (liên từ): Liên từ dùng để nối hai mệnh đề mang ý nghĩa trái ngược nhau.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ kết hợp (and, but, or, so, yet, for, nor) dùng để nối các mệnh đề. 'But' dùng để diễn đạt sự đối lập giữa hai ý.<br><br><b>Tạm dịch:</b> Hạn nộp bài đã qua, nhưng giáo sư vẫn cho họ gia hạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence connects two contrasting ideas: the deadline has already passed, but the professor has still granted an extension. The correct conjunction to show contrast is 'but.'<br><ul><li><b>beyond</b> (preposition): A preposition meaning 'on the farther side of' or 'later than.' It does not connect two clauses.</li><li><b>until</b> (conjunction/preposition): A conjunction or preposition used to indicate up to the point in time or the event mentioned. It does not fit the contrast needed here.</li><li><b>that</b> (conjunction/pronoun): A conjunction or pronoun used to introduce a clause, but it does not express contrast.</li><li><b>but</b> (conjunction): A conjunction used to introduce a phrase or clause contrasting with what has already been mentioned.</li></ul><b>Related structure or vocabulary:</b> Coordinating conjunctions (and, but, or, so, yet, for, nor) are used to connect clauses. 'But' is specifically used to show contrast between two statements.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e6",
+        "questionNumber": 9,
+        "questionText": "The seats were arranged __________ the stage lighting was checked.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "such",
+            "raw": "A. such ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "either",
+            "raw": "B. either ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "with",
+            "raw": "C. with ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "and",
+            "raw": "D. and",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The seats were arranged __________ the stage lighting was checked.' requires a word that connects two actions happening in sequence or at the same time. The correct conjunction to link two actions is 'and'.<br><ul><li><b>such</b> (determiner/adjective): 'Such' is used to emphasize a quality or degree, often followed by 'that'. It does not fit as a connector between two actions.</li><li><b>either</b> (conjunction/determiner): 'Either' is used to indicate a choice between two options, not to connect two actions happening together.</li><li><b>with</b> (preposition): 'With' is a preposition, used to indicate accompaniment or possession, not to join two clauses.</li><li><b>and</b> (conjunction): 'And' is a coordinating conjunction used to connect words, phrases, or clauses that are similar or happening together.</li></ul><b>Related structure or vocabulary:</b> Coordinating conjunctions (and, but, or, so, etc.) are used to connect two independent clauses or actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The seats were arranged __________ the stage lighting was checked.' cần một từ để nối hai hành động xảy ra liên tiếp hoặc đồng thời. Liên từ phù hợp để nối hai hành động là 'and'.<br><ul><li><b>such</b> (tính từ/xác định từ): 'Such' dùng để nhấn mạnh tính chất hoặc mức độ, thường đi với 'that'. Không phù hợp để nối hai hành động.</li><li><b>either</b> (liên từ/xác định từ): 'Either' dùng để chỉ sự lựa chọn giữa hai phương án, không dùng để nối hai hành động xảy ra cùng lúc.</li><li><b>with</b> (giới từ): 'With' là giới từ, dùng để chỉ sự đi kèm hoặc sở hữu, không dùng để nối hai mệnh đề.</li><li><b>and</b> (liên từ): 'And' là liên từ đẳng lập, dùng để nối các từ, cụm từ hoặc mệnh đề có tính chất tương tự hoặc xảy ra cùng nhau.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ đẳng lập (and, but, or, so,...) dùng để nối hai mệnh đề hoặc hành động độc lập.<br><br><b>Tạm dịch:</b> Các ghế đã được sắp xếp VÀ hệ thống chiếu sáng sân khấu đã được kiểm tra.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The seats were arranged __________ the stage lighting was checked.' requires a word that connects two actions happening in sequence or at the same time. The correct conjunction to link two actions is 'and'.<br><ul><li><b>such</b> (determiner/adjective): 'Such' is used to emphasize a quality or degree, often followed by 'that'. It does not fit as a connector between two actions.</li><li><b>either</b> (conjunction/determiner): 'Either' is used to indicate a choice between two options, not to connect two actions happening together.</li><li><b>with</b> (preposition): 'With' is a preposition, used to indicate accompaniment or possession, not to join two clauses.</li><li><b>and</b> (conjunction): 'And' is a coordinating conjunction used to connect words, phrases, or clauses that are similar or happening together.</li></ul><b>Related structure or vocabulary:</b> Coordinating conjunctions (and, but, or, so, etc.) are used to connect two independent clauses or actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e7",
+        "questionNumber": 10,
+        "questionText": "Our supermarket provides products for __________ retail and wholesale customers.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "every",
+            "raw": "A. every ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "both",
+            "raw": "B. both",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "either",
+            "raw": "C. either ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "whether",
+            "raw": "D. whether",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Our supermarket provides products for __________ retail and wholesale customers.' requires a word that can connect two types of customers: retail and wholesale. The correct word should indicate that the supermarket serves both types of customers together.<br><ul><li><b>every</b> (determiner): Means each individual item or person in a group. 'Every retail and wholesale customers' is grammatically incorrect because 'every' is used with singular countable nouns, not plural.</li><li><b>both</b> (determiner/pronoun): Means two things together. 'Both retail and wholesale customers' correctly refers to the two groups of customers.</li><li><b>either</b> (determiner/pronoun): Means one or the other of two. 'Either retail and wholesale customers' is incorrect because 'either' is used with 'or', not 'and'.</li><li><b>whether</b> (conjunction): Used to introduce alternatives, usually in indirect questions. 'Whether retail and wholesale customers' is not grammatically correct in this context.</li></ul><b>Related structure or vocabulary:</b> both A and B: used to refer to two things or people together.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Our supermarket provides products for __________ retail and wholesale customers.' cần một từ để kết nối hai loại khách hàng: bán lẻ và bán buôn. Từ đúng phải thể hiện rằng siêu thị phục vụ cả hai nhóm khách hàng này cùng lúc.<br><ul><li><b>every</b> (từ hạn định): 'Every' nghĩa là mỗi, từng cái trong một nhóm. 'Every retail and wholesale customers' sai ngữ pháp vì 'every' chỉ dùng với danh từ đếm được số ít, không dùng với danh từ số nhiều.</li><li><b>both</b> (từ hạn định/đại từ): 'Both' nghĩa là cả hai. 'Both retail and wholesale customers' đúng ngữ pháp, chỉ hai nhóm khách hàng cùng lúc.</li><li><b>either</b> (từ hạn định/đại từ): 'Either' nghĩa là một trong hai. 'Either retail and wholesale customers' sai vì 'either' phải đi với 'or', không đi với 'and'.</li><li><b>whether</b> (liên từ): 'Whether' dùng để đưa ra lựa chọn, thường trong câu gián tiếp. 'Whether retail and wholesale customers' không đúng ngữ pháp trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> both A and B: dùng để nói về hai người hoặc hai vật cùng lúc.<br><br><b>Tạm dịch:</b> Siêu thị của chúng tôi cung cấp sản phẩm cho cả khách hàng bán lẻ và khách hàng bán buôn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Our supermarket provides products for __________ retail and wholesale customers.' requires a word that can connect two types of customers: retail and wholesale. The correct word should indicate that the supermarket serves both types of customers together.<br><ul><li><b>every</b> (determiner): Means each individual item or person in a group. 'Every retail and wholesale customers' is grammatically incorrect because 'every' is used with singular countable nouns, not plural.</li><li><b>both</b> (determiner/pronoun): Means two things together. 'Both retail and wholesale customers' correctly refers to the two groups of customers.</li><li><b>either</b> (determiner/pronoun): Means one or the other of two. 'Either retail and wholesale customers' is incorrect because 'either' is used with 'or', not 'and'.</li><li><b>whether</b> (conjunction): Used to introduce alternatives, usually in indirect questions. 'Whether retail and wholesale customers' is not grammatically correct in this context.</li></ul><b>Related structure or vocabulary:</b> both A and B: used to refer to two things or people together.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e8",
+        "questionNumber": 11,
+        "questionText": "Neither smoking __________  speaking loudly is allowed in the hospital.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "or",
+            "raw": "A. or ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "nor",
+            "raw": "B. nor",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "and",
+            "raw": "C. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "neither",
+            "raw": "D. neither",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Neither smoking __________ speaking loudly is allowed in the hospital.' requires a word that correctly completes the 'neither...nor...' correlative conjunction structure. This structure is used to connect two negative alternatives. 'Neither' is placed before the first item, and 'nor' is placed before the second item. Therefore, the correct answer is 'nor'.<br><ul><li><b>or</b> (conjunction): Used to connect alternatives, but not in negative correlative structures like 'neither...nor...'.</li><li><b>nor</b> (conjunction): Used with 'neither' to connect two negative alternatives.</li><li><b>and</b> (conjunction): Used to connect two similar or related items, not for negative alternatives.</li><li><b>neither</b> (conjunction): Used at the beginning of the structure, not in the blank after 'smoking'.</li></ul><b>Related structure or vocabulary:</b> Correlative conjunctions: 'neither...nor...' is used to join two negative alternatives. Example: Neither John nor Mary was at the party.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Neither smoking __________ speaking loudly is allowed in the hospital.' cần một từ để hoàn thành đúng cấu trúc liên từ tương hỗ 'neither...nor...'. Cấu trúc này dùng để nối hai lựa chọn phủ định. 'Neither' đứng trước lựa chọn đầu tiên, 'nor' đứng trước lựa chọn thứ hai. Vì vậy, đáp án đúng là 'nor'.<br><ul><li><b>or</b> (liên từ): Dùng để nối hai lựa chọn, nhưng không dùng trong cấu trúc phủ định như 'neither...nor...'.</li><li><b>nor</b> (liên từ): Dùng với 'neither' để nối hai lựa chọn phủ định.</li><li><b>and</b> (liên từ): Dùng để nối hai lựa chọn cùng loại, không dùng cho phủ định.</li><li><b>neither</b> (liên từ): Dùng ở đầu cấu trúc, không dùng ở chỗ trống sau 'smoking'.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ tương hỗ: 'neither...nor...' dùng để nối hai lựa chọn phủ định. Ví dụ: Neither John nor Mary was at the party.<br><br><b>Tạm dịch:</b> Neither smoking nor speaking loudly is allowed in the hospital. --> Không được phép hút thuốc cũng như nói to trong bệnh viện.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Neither smoking __________ speaking loudly is allowed in the hospital.' requires a word that correctly completes the 'neither...nor...' correlative conjunction structure. This structure is used to connect two negative alternatives. 'Neither' is placed before the first item, and 'nor' is placed before the second item. Therefore, the correct answer is 'nor'.<br><ul><li><b>or</b> (conjunction): Used to connect alternatives, but not in negative correlative structures like 'neither...nor...'.</li><li><b>nor</b> (conjunction): Used with 'neither' to connect two negative alternatives.</li><li><b>and</b> (conjunction): Used to connect two similar or related items, not for negative alternatives.</li><li><b>neither</b> (conjunction): Used at the beginning of the structure, not in the blank after 'smoking'.</li></ul><b>Related structure or vocabulary:</b> Correlative conjunctions: 'neither...nor...' is used to join two negative alternatives. Example: Neither John nor Mary was at the party.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012e9",
+        "questionNumber": 12,
+        "questionText": "Family activities should be maintained in order to promote members’ connection __________ build individuals’ personalities.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "or",
+            "raw": "A. or ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "also",
+            "raw": "B. also ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "and",
+            "raw": "C. and",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "but",
+            "raw": "D. but",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Family activities should be maintained in order to promote members’ connection __________ build individuals’ personalities.' requires a conjunction to link two purposes: promoting members’ connection and building individuals’ personalities. The correct conjunction here is 'and' because it connects two similar ideas or actions that are both results of maintaining family activities.<br><ul><li><b>or</b> (conjunction): Used to present an alternative or choice between two things.</li><li><b>also</b> (adverb): An adverb, not a conjunction. Used to add information, but cannot directly connect two verbs in this structure.</li><li><b>and</b> (conjunction): A conjunction used to connect words, phrases, or clauses that are similar or related.</li><li><b>but</b> (conjunction): A conjunction used to show contrast between two ideas.</li></ul><b>Related structure or vocabulary:</b> Conjunctions are used to connect words, phrases, or clauses. 'And' is used to add one element to another, especially when both are true or happening together.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Family activities should be maintained in order to promote members’ connection __________ build individuals’ personalities.' cần một liên từ để nối hai mục đích: thúc đẩy sự gắn kết giữa các thành viên và xây dựng nhân cách cá nhân. Liên từ đúng ở đây là 'and' vì nó dùng để nối hai ý hoặc hai hành động tương tự, đều là kết quả của việc duy trì các hoạt động gia đình.<br><ul><li><b>or</b> (liên từ): Dùng để đưa ra sự lựa chọn hoặc thay thế giữa hai điều.</li><li><b>also</b> (trạng từ): Trạng từ, không phải liên từ. Dùng để bổ sung thông tin, nhưng không thể nối trực tiếp hai động từ trong cấu trúc này.</li><li><b>and</b> (liên từ): Liên từ dùng để nối các từ, cụm từ hoặc mệnh đề có ý nghĩa tương tự hoặc liên quan.</li><li><b>but</b> (liên từ): Liên từ dùng để diễn tả sự tương phản giữa hai ý.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ (conjunctions) dùng để nối các từ, cụm từ hoặc mệnh đề. 'And' dùng để bổ sung một yếu tố này vào yếu tố khác, đặc biệt khi cả hai đều đúng hoặc xảy ra cùng nhau.<br><br><b>Tạm dịch:</b> Các hoạt động gia đình nên được duy trì để thúc đẩy sự gắn kết giữa các thành viên VÀ xây dựng nhân cách cá nhân.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Family activities should be maintained in order to promote members’ connection __________ build individuals’ personalities.' requires a conjunction to link two purposes: promoting members’ connection and building individuals’ personalities. The correct conjunction here is 'and' because it connects two similar ideas or actions that are both results of maintaining family activities.<br><ul><li><b>or</b> (conjunction): Used to present an alternative or choice between two things.</li><li><b>also</b> (adverb): An adverb, not a conjunction. Used to add information, but cannot directly connect two verbs in this structure.</li><li><b>and</b> (conjunction): A conjunction used to connect words, phrases, or clauses that are similar or related.</li><li><b>but</b> (conjunction): A conjunction used to show contrast between two ideas.</li></ul><b>Related structure or vocabulary:</b> Conjunctions are used to connect words, phrases, or clauses. 'And' is used to add one element to another, especially when both are true or happening together.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012ea",
+        "questionNumber": 13,
+        "questionText": "If your product has any problems, you could choose to be given either a refund __________ another new one.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "or",
+            "raw": "A. or",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "but",
+            "raw": "B. but ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "nor",
+            "raw": "C. nor ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "either",
+            "raw": "D. either",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If your product has any problems, you could choose to be given either a refund __________ another new one.' requires a conjunction that pairs with 'either' to present two alternatives. The correct structure is 'either ... or ...' when offering a choice between two options.<br><ul><li><b>or</b> (conjunction): Used to connect two alternatives or choices, especially after 'either'.</li><li><b>but</b> (conjunction): Used to introduce a contrast or exception, not suitable for presenting alternatives.</li><li><b>nor</b> (conjunction): Used to present an additional negative idea, usually after 'neither', not 'either'.</li><li><b>either</b> (determiner/conjunction): Used before the first of two alternatives, not as a conjunction between them.</li></ul><b>Related structure or vocabulary:</b> either ... or ...: a correlative conjunction pair used to present two alternatives.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If your product has any problems, you could choose to be given either a refund __________ another new one.' cần một liên từ để kết hợp với 'either' nhằm đưa ra hai lựa chọn. Cấu trúc đúng là 'either ... or ...' khi đưa ra hai phương án lựa chọn.<br><ul><li><b>or</b> (liên từ): Dùng để nối hai lựa chọn hoặc phương án, đặc biệt sau 'either'.</li><li><b>but</b> (liên từ): Dùng để giới thiệu sự tương phản hoặc ngoại lệ, không phù hợp để đưa ra lựa chọn.</li><li><b>nor</b> (liên từ): Dùng để bổ sung ý phủ định, thường đi sau 'neither', không phải 'either'.</li><li><b>either</b> (từ xác định/liên từ): Dùng trước lựa chọn đầu tiên trong hai lựa chọn, không phải là liên từ nối giữa hai lựa chọn.</li></ul><b>Cấu trúc và từ vựng:</b> either ... or ...: cặp liên từ dùng để đưa ra hai lựa chọn.<br><br><b>Tạm dịch:</b> Nếu sản phẩm của bạn gặp bất kỳ vấn đề nào, bạn có thể chọn hoặc được hoàn tiền hoặc nhận một sản phẩm mới.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If your product has any problems, you could choose to be given either a refund __________ another new one.' requires a conjunction that pairs with 'either' to present two alternatives. The correct structure is 'either ... or ...' when offering a choice between two options.<br><ul><li><b>or</b> (conjunction): Used to connect two alternatives or choices, especially after 'either'.</li><li><b>but</b> (conjunction): Used to introduce a contrast or exception, not suitable for presenting alternatives.</li><li><b>nor</b> (conjunction): Used to present an additional negative idea, usually after 'neither', not 'either'.</li><li><b>either</b> (determiner/conjunction): Used before the first of two alternatives, not as a conjunction between them.</li></ul><b>Related structure or vocabulary:</b> either ... or ...: a correlative conjunction pair used to present two alternatives.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012eb",
+        "questionNumber": 14,
+        "questionText": "The workplace is friendly, __________ the staffs are keen on working there.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "but",
+            "raw": "A. but ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "after",
+            "raw": "B. after ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "so",
+            "raw": "C. so",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "or",
+            "raw": "D. or",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction to connect two related clauses: 'The workplace is friendly' and 'the staffs are keen on working there.' The second clause is a result or consequence of the first. The conjunction 'so' is used to show cause and effect, meaning the friendliness of the workplace leads to the staff being keen on working there.<br><ul><li><b>but</b> (conjunction): Used to show contrast or an opposite idea between two clauses.</li><li><b>after</b> (preposition/conjunction): Used to indicate time, meaning something happens following another event.</li><li><b>so</b> (conjunction): Used to show result or consequence, meaning 'therefore' or 'as a result.'</li><li><b>or</b> (conjunction): Used to present alternatives or choices.</li></ul><b>Related structure or vocabulary:</b> so + clause: used to show result or consequence between two clauses.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để nối hai mệnh đề liên quan: 'The workplace is friendly' (Nơi làm việc thân thiện) và 'the staffs are keen on working there' (nhân viên rất thích làm việc ở đó). Mệnh đề thứ hai là kết quả hoặc hệ quả của mệnh đề thứ nhất. Liên từ 'so' được dùng để chỉ nguyên nhân - kết quả, nghĩa là sự thân thiện của nơi làm việc dẫn đến việc nhân viên thích làm việc ở đó.<br><ul><li><b>but</b> (liên từ): Dùng để chỉ sự tương phản hoặc ý trái ngược giữa hai mệnh đề.</li><li><b>after</b> (giới từ/liên từ): Dùng để chỉ thời gian, nghĩa là một việc xảy ra sau một việc khác.</li><li><b>so</b> (liên từ): Dùng để chỉ kết quả hoặc hệ quả, nghĩa là 'vì vậy' hoặc 'do đó'.</li><li><b>or</b> (liên từ): Dùng để đưa ra các lựa chọn hoặc khả năng thay thế.</li></ul><b>Cấu trúc và từ vựng:</b> so + mệnh đề: dùng để chỉ kết quả hoặc hệ quả giữa hai mệnh đề.<br><br><b>Tạm dịch:</b> Nơi làm việc thân thiện, vì vậy nhân viên rất thích làm việc ở đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction to connect two related clauses: 'The workplace is friendly' and 'the staffs are keen on working there.' The second clause is a result or consequence of the first. The conjunction 'so' is used to show cause and effect, meaning the friendliness of the workplace leads to the staff being keen on working there.<br><ul><li><b>but</b> (conjunction): Used to show contrast or an opposite idea between two clauses.</li><li><b>after</b> (preposition/conjunction): Used to indicate time, meaning something happens following another event.</li><li><b>so</b> (conjunction): Used to show result or consequence, meaning 'therefore' or 'as a result.'</li><li><b>or</b> (conjunction): Used to present alternatives or choices.</li></ul><b>Related structure or vocabulary:</b> so + clause: used to show result or consequence between two clauses.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012ec",
+        "questionNumber": 15,
+        "questionText": "The new model of the mobile phones unlocks the screen by __________ registered fingerprints or face recognition",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "both",
+            "raw": "A. both ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "any",
+            "raw": "B. any ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "every",
+            "raw": "C. every ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "either",
+            "raw": "D. either",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a word that fits the structure 'by __________ registered fingerprints or face recognition.' The context is about unlocking the screen using one of two possible methods: registered fingerprints or face recognition. The correct word should indicate 'one or the other' of the two options.<br><ul><li><b>both</b> (determiner/pronoun): Means 'the two together' or 'all of the options.' Using 'both' would mean the phone requires both fingerprints and face recognition at the same time, which is not the intended meaning.</li><li><b>any</b> (determiner/pronoun): Means 'one, some, or all' of a group, usually more than two. 'Any' is not suitable here because there are only two options.</li><li><b>every</b> (determiner): Means 'all of the individual items in a group.' 'Every' is incorrect because it would mean the phone needs all fingerprints and face recognition, which is not logical.</li><li><b>either</b> (determiner/pronoun): Means 'one or the other of two.' This fits the context because the phone can be unlocked by either registered fingerprints or face recognition.</li></ul><b>Related structure or vocabulary:</b> either ... or ...: used to refer to one or the other of two people or things. Structure: either A or B = A hoặc B (chỉ một trong hai).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ phù hợp với cấu trúc 'by __________ registered fingerprints or face recognition.' Ngữ cảnh là mở khóa màn hình bằng một trong hai phương pháp: dấu vân tay đã đăng ký hoặc nhận diện khuôn mặt. Từ đúng phải diễn tả ý 'một trong hai' lựa chọn này.<br><ul><li><b>both</b> (từ xác định/đại từ): Có nghĩa là 'cả hai' hoặc 'tất cả các lựa chọn.' Nếu dùng 'both' thì điện thoại sẽ yêu cầu cả dấu vân tay và nhận diện khuôn mặt cùng lúc, không đúng với ý của câu.</li><li><b>any</b> (từ xác định/đại từ): Có nghĩa là 'bất kỳ một, một số hoặc tất cả' trong một nhóm, thường dùng khi có nhiều hơn hai lựa chọn. Ở đây chỉ có hai lựa chọn nên 'any' không phù hợp.</li><li><b>every</b> (từ xác định): Có nghĩa là 'tất cả các phần tử trong một nhóm.' Nếu dùng 'every' thì sẽ hiểu là điện thoại cần tất cả dấu vân tay và nhận diện khuôn mặt, không hợp lý.</li><li><b>either</b> (từ xác định/đại từ): Có nghĩa là 'một trong hai.' Đây là đáp án phù hợp vì điện thoại có thể mở khóa bằng một trong hai phương pháp: dấu vân tay đã đăng ký hoặc nhận diện khuôn mặt.</li></ul><b>Cấu trúc và từ vựng:</b> either ... or ...: dùng để chỉ một trong hai người hoặc vật. Cấu trúc: either A or B = A hoặc B (chỉ một trong hai).<br><br><b>Tạm dịch:</b> Mẫu điện thoại mới mở khóa màn hình bằng một trong hai: dấu vân tay đã đăng ký hoặc nhận diện khuôn mặt.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a word that fits the structure 'by __________ registered fingerprints or face recognition.' The context is about unlocking the screen using one of two possible methods: registered fingerprints or face recognition. The correct word should indicate 'one or the other' of the two options.<br><ul><li><b>both</b> (determiner/pronoun): Means 'the two together' or 'all of the options.' Using 'both' would mean the phone requires both fingerprints and face recognition at the same time, which is not the intended meaning.</li><li><b>any</b> (determiner/pronoun): Means 'one, some, or all' of a group, usually more than two. 'Any' is not suitable here because there are only two options.</li><li><b>every</b> (determiner): Means 'all of the individual items in a group.' 'Every' is incorrect because it would mean the phone needs all fingerprints and face recognition, which is not logical.</li><li><b>either</b> (determiner/pronoun): Means 'one or the other of two.' This fits the context because the phone can be unlocked by either registered fingerprints or face recognition.</li></ul><b>Related structure or vocabulary:</b> either ... or ...: used to refer to one or the other of two people or things. Structure: either A or B = A hoặc B (chỉ một trong hai).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012ed",
+        "questionNumber": 16,
+        "questionText": "Neither copying __________ using materials is allowed in the exam time.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "or",
+            "raw": "A. or ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "nor",
+            "raw": "B. nor",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "and",
+            "raw": "C. and ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "so",
+            "raw": "D. so",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Neither copying __________ using materials is allowed in the exam time.' requires a word that correctly completes the correlative conjunction 'neither ... nor'. This structure is used to connect two negative actions or items. In this case, 'neither copying nor using materials' means both actions are not allowed during the exam.<br><ul><li><b>or</b> (conjunction): Used to present alternatives, but not in negative correlative pairs like 'neither ... nor'.</li><li><b>nor</b> (conjunction): Used with 'neither' to connect two negative alternatives. The correct pair is 'neither ... nor'.</li><li><b>and</b> (conjunction): Used to connect two positive or neutral items, not suitable for negative correlative structures.</li><li><b>so</b> (conjunction): Used to show result or consequence, not for connecting alternatives.</li></ul><b>Related structure or vocabulary:</b> Correlative conjunctions: 'neither ... nor' is used to join two negative alternatives. Example: Neither he nor she was present.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Neither copying __________ using materials is allowed in the exam time.' cần một từ để hoàn thành đúng cặp liên từ tương quan 'neither ... nor'. Cấu trúc này dùng để nối hai hành động hoặc sự vật đều mang nghĩa phủ định. Trong trường hợp này, 'neither copying nor using materials' có nghĩa là cả việc sao chép lẫn sử dụng tài liệu đều không được phép trong giờ thi.<br><ul><li><b>or</b> (liên từ): Dùng để đưa ra lựa chọn, nhưng không dùng trong cặp phủ định tương quan như 'neither ... nor'.</li><li><b>nor</b> (liên từ): Dùng với 'neither' để nối hai lựa chọn phủ định. Cặp đúng là 'neither ... nor'.</li><li><b>and</b> (liên từ): Dùng để nối hai sự vật hoặc hành động mang nghĩa khẳng định hoặc trung tính, không phù hợp với cấu trúc phủ định tương quan.</li><li><b>so</b> (liên từ): Dùng để chỉ kết quả hoặc hệ quả, không dùng để nối các lựa chọn.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ tương quan: 'neither ... nor' dùng để nối hai lựa chọn phủ định. Ví dụ: Neither he nor she was present.<br><br><b>Tạm dịch:</b> Neither copying nor using materials is allowed in the exam time. --> Cả việc sao chép lẫn sử dụng tài liệu đều không được phép trong giờ thi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Neither copying __________ using materials is allowed in the exam time.' requires a word that correctly completes the correlative conjunction 'neither ... nor'. This structure is used to connect two negative actions or items. In this case, 'neither copying nor using materials' means both actions are not allowed during the exam.<br><ul><li><b>or</b> (conjunction): Used to present alternatives, but not in negative correlative pairs like 'neither ... nor'.</li><li><b>nor</b> (conjunction): Used with 'neither' to connect two negative alternatives. The correct pair is 'neither ... nor'.</li><li><b>and</b> (conjunction): Used to connect two positive or neutral items, not suitable for negative correlative structures.</li><li><b>so</b> (conjunction): Used to show result or consequence, not for connecting alternatives.</li></ul><b>Related structure or vocabulary:</b> Correlative conjunctions: 'neither ... nor' is used to join two negative alternatives. Example: Neither he nor she was present.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012ee",
+        "questionNumber": 17,
+        "questionText": "The recruitment department is looking for candidates for new officers __________ monthly profits decreased.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "still",
+            "raw": "A. still",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "however",
+            "raw": "B. however",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "instead of",
+            "raw": "C. instead of",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "even though",
+            "raw": "D. even though",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that connects two contrasting ideas: the recruitment department is looking for candidates for new officers, and monthly profits decreased. The correct conjunction to show contrast is 'even though', which means 'despite the fact that'.<br><ul><li><b>still</b> (adverb): An adverb meaning 'nevertheless' or 'continuing', but it cannot be used to connect two clauses directly.</li><li><b>however</b> (adverb): An adverb used to introduce a statement that contrasts with or seems to contradict something that has been said previously. It is not used to join two clauses in one sentence without punctuation.</li><li><b>instead of</b> (preposition): A preposition meaning 'in place of', not suitable for connecting two clauses.</li><li><b>even though</b> (conjunction): A subordinating conjunction meaning 'despite the fact that', used to introduce a contrast between two clauses.</li></ul><b>Related structure or vocabulary:</b> even though + clause: used to introduce a subordinate clause expressing contrast<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để nối hai ý trái ngược nhau: phòng tuyển dụng đang tìm kiếm ứng viên cho vị trí nhân viên mới, và lợi nhuận hàng tháng lại giảm. Liên từ phù hợp để diễn tả sự tương phản là 'even though', nghĩa là 'mặc dù'.<br><ul><li><b>still</b> (trạng từ): Trạng từ mang nghĩa 'vẫn', 'tuy nhiên', nhưng không dùng để nối hai mệnh đề trực tiếp.</li><li><b>however</b> (trạng từ): Trạng từ dùng để giới thiệu một ý trái ngược với ý trước đó, nhưng không dùng để nối hai mệnh đề trong cùng một câu mà không có dấu câu.</li><li><b>instead of</b> (giới từ): Giới từ mang nghĩa 'thay vì', không phù hợp để nối hai mệnh đề.</li><li><b>even though</b> (liên từ): Liên từ mang nghĩa 'mặc dù', dùng để nối hai mệnh đề trái ngược nhau.</li></ul><b>Cấu trúc và từ vựng:</b> even though + mệnh đề: dùng để giới thiệu một mệnh đề phụ diễn tả sự tương phản<br><br><b>Tạm dịch:</b> Phòng tuyển dụng đang tìm kiếm ứng viên cho vị trí nhân viên mới MẶC DÙ lợi nhuận hàng tháng giảm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that connects two contrasting ideas: the recruitment department is looking for candidates for new officers, and monthly profits decreased. The correct conjunction to show contrast is 'even though', which means 'despite the fact that'.<br><ul><li><b>still</b> (adverb): An adverb meaning 'nevertheless' or 'continuing', but it cannot be used to connect two clauses directly.</li><li><b>however</b> (adverb): An adverb used to introduce a statement that contrasts with or seems to contradict something that has been said previously. It is not used to join two clauses in one sentence without punctuation.</li><li><b>instead of</b> (preposition): A preposition meaning 'in place of', not suitable for connecting two clauses.</li><li><b>even though</b> (conjunction): A subordinating conjunction meaning 'despite the fact that', used to introduce a contrast between two clauses.</li></ul><b>Related structure or vocabulary:</b> even though + clause: used to introduce a subordinate clause expressing contrast<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012ef",
+        "questionNumber": 18,
+        "questionText": "__________ she was smoking, the supervisor passed by.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Provided that",
+            "raw": "A. Provided that ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "While",
+            "raw": "B. While",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Since",
+            "raw": "C. Since ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "For",
+            "raw": "D. For",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that correctly links two actions happening at the same time. The sentence is: '__________ she was smoking, the supervisor passed by.' The correct conjunction should indicate that the supervisor passed by during the time she was smoking.<br><ul><li><b>Provided that</b> (conjunction (conditional)): Means 'if' or 'on the condition that'. It is used to express a condition, not simultaneous actions.</li><li><b>While</b> (conjunction (time)): Means 'during the time that'. It is used to show that two actions are happening at the same time.</li><li><b>Since</b> (conjunction (reason/time)): Means 'because' or 'from a certain time in the past'. It is not suitable for indicating simultaneous actions.</li><li><b>For</b> (conjunction/preposition): Means 'because' or 'during a period of time'. It is not used to connect two actions happening at the same time in this context.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'while' is used to connect two actions happening at the same time. Structure: while + subject + verb, subject + verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ để nối hai hành động xảy ra đồng thời. Câu hỏi là: '__________ she was smoking, the supervisor passed by.' Liên từ đúng phải diễn tả rằng người giám sát đi ngang qua trong lúc cô ấy đang hút thuốc.<br><ul><li><b>Provided that</b> (liên từ (điều kiện)): Có nghĩa là 'nếu' hoặc 'miễn là'. Được dùng để diễn tả điều kiện, không phải hai hành động đồng thời.</li><li><b>While</b> (liên từ (thời gian)): Có nghĩa là 'trong khi'. Được dùng để chỉ hai hành động xảy ra cùng lúc.</li><li><b>Since</b> (liên từ (lý do/thời gian)): Có nghĩa là 'bởi vì' hoặc 'kể từ khi'. Không phù hợp để diễn tả hai hành động đồng thời.</li><li><b>For</b> (liên từ/giới từ): Có nghĩa là 'bởi vì' hoặc 'trong khoảng thời gian'. Không dùng để nối hai hành động xảy ra đồng thời trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Liên từ chỉ thời gian: 'while' dùng để nối hai hành động xảy ra cùng lúc. Cấu trúc: while + chủ ngữ + động từ, chủ ngữ + động từ.<br><br><b>Tạm dịch:</b> Trong khi cô ấy đang hút thuốc, người giám sát đã đi ngang qua.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that correctly links two actions happening at the same time. The sentence is: '__________ she was smoking, the supervisor passed by.' The correct conjunction should indicate that the supervisor passed by during the time she was smoking.<br><ul><li><b>Provided that</b> (conjunction (conditional)): Means 'if' or 'on the condition that'. It is used to express a condition, not simultaneous actions.</li><li><b>While</b> (conjunction (time)): Means 'during the time that'. It is used to show that two actions are happening at the same time.</li><li><b>Since</b> (conjunction (reason/time)): Means 'because' or 'from a certain time in the past'. It is not suitable for indicating simultaneous actions.</li><li><b>For</b> (conjunction/preposition): Means 'because' or 'during a period of time'. It is not used to connect two actions happening at the same time in this context.</li></ul><b>Related structure or vocabulary:</b> Conjunctions of time: 'while' is used to connect two actions happening at the same time. Structure: while + subject + verb, subject + verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bc54d1bfab7a5b0012f0",
+        "questionNumber": 19,
+        "questionText": "We trust all the products of that brand, __________ they are produced in Japan.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "provided that",
+            "raw": "A. provided that",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "while",
+            "raw": "B. while ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "as soon as",
+            "raw": "C. as soon as ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "after",
+            "raw": "D. after",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows the condition under which the action in the main clause is true. The sentence 'We trust all the products of that brand, __________ they are produced in Japan.' means that our trust depends on whether the products are produced in Japan. The correct conjunction to express this condition is 'provided that', which means 'only if' or 'on the condition that'.<br><ul><li><b>provided that</b> (conjunction): means 'only if' or 'on the condition that'; used to introduce a condition.</li><li><b>while</b> (conjunction): means 'during the time that' or 'although'; used to show contrast or simultaneous actions.</li><li><b>as soon as</b> (conjunction): means 'immediately after'; used to indicate time.</li><li><b>after</b> (conjunction): means 'following in time'; used to indicate time.</li></ul><b>Related structure or vocabulary:</b> provided that + clause: used to introduce a condition for something to happen.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một liên từ chỉ điều kiện để hành động ở mệnh đề chính xảy ra. Câu 'We trust all the products of that brand, __________ they are produced in Japan.' có nghĩa là chúng tôi chỉ tin tưởng các sản phẩm của thương hiệu đó nếu chúng được sản xuất tại Nhật Bản. Liên từ phù hợp để diễn đạt điều kiện này là 'provided that', mang nghĩa 'miễn là' hoặc 'với điều kiện là'.<br><ul><li><b>provided that</b> (liên từ): có nghĩa là 'miễn là', 'với điều kiện là'; dùng để đưa ra điều kiện.</li><li><b>while</b> (liên từ): có nghĩa là 'trong khi', 'mặc dù'; dùng để chỉ sự tương phản hoặc hai hành động xảy ra đồng thời.</li><li><b>as soon as</b> (liên từ): có nghĩa là 'ngay khi'; dùng để chỉ thời gian.</li><li><b>after</b> (liên từ): có nghĩa là 'sau khi'; dùng để chỉ thời gian.</li></ul><b>Cấu trúc và từ vựng:</b> provided that + mệnh đề: dùng để đưa ra điều kiện cho một sự việc xảy ra.<br><br><b>Tạm dịch:</b> Chúng tôi tin tưởng tất cả các sản phẩm của thương hiệu đó, MIỄN LÀ chúng được sản xuất tại Nhật Bản.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a conjunction that shows the condition under which the action in the main clause is true. The sentence 'We trust all the products of that brand, __________ they are produced in Japan.' means that our trust depends on whether the products are produced in Japan. The correct conjunction to express this condition is 'provided that', which means 'only if' or 'on the condition that'.<br><ul><li><b>provided that</b> (conjunction): means 'only if' or 'on the condition that'; used to introduce a condition.</li><li><b>while</b> (conjunction): means 'during the time that' or 'although'; used to show contrast or simultaneous actions.</li><li><b>as soon as</b> (conjunction): means 'immediately after'; used to indicate time.</li><li><b>after</b> (conjunction): means 'following in time'; used to indicate time.</li></ul><b>Related structure or vocabulary:</b> provided that + clause: used to introduce a condition for something to happen.<br><br>"
+      }
+    }
+  ]
+}

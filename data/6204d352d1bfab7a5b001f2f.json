@@ -1,0 +1,808 @@
+{
+  "topicId": "6204d352d1bfab7a5b001f2f",
+  "title": "PAST SIMPLE TENSE - Practice 5",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67dd1bfab7a5b0020f5",
+        "questionNumber": 1,
+        "questionText": "They ________ their homework last night.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "weren't do",
+            "raw": "A. weren't do",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "not did",
+            "raw": "B. not did",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "didn't did",
+            "raw": "C. didn't did",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "didn't do",
+            "raw": "D. didn't do",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs the correct negative form of the past simple tense. In English, to make a negative sentence in the past simple, we use 'did not' (didn't) + the base form of the verb. The verb 'do' is the base form. Therefore, the correct answer is 'didn't do'.<br><ul><li><b>weren't do</b> (auxiliary verb + base verb (incorrect combination)): 'Weren't' is the contraction of 'were not', which is used with the verb to be, not with action verbs like 'do'.</li><li><b>not did</b> (adverb + past verb (incorrect structure)): This is not a correct negative form in English. 'Not' cannot be used directly before 'did' in this way.</li><li><b>didn't did</b> (auxiliary verb (negative) + past verb (incorrect combination)): After 'didn't', we must use the base form of the verb, not the past form. 'Did' is the past form, so this is incorrect.</li><li><b>didn't do</b> (auxiliary verb (negative) + base verb (correct combination)): 'Didn't' is the negative form of 'did', and 'do' is the base form of the verb. This is the correct structure for negative sentences in the past simple.</li></ul><b>Related structure or vocabulary:</b> Negative form in the past simple: Subject + didn't + base verb<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng phủ định của thì quá khứ đơn. Trong tiếng Anh, để tạo câu phủ định ở thì quá khứ đơn, ta dùng 'did not' (didn't) + động từ nguyên thể. Động từ 'do' là động từ nguyên thể. Vì vậy, đáp án đúng là 'didn't do'.<br><ul><li><b>weren't do</b> (trợ động từ + động từ nguyên thể (kết hợp sai)): 'Weren't' là viết tắt của 'were not', dùng với động từ to be, không dùng với động từ thường như 'do'.</li><li><b>not did</b> (trạng từ + động từ quá khứ (cấu trúc sai)): Đây không phải là dạng phủ định đúng trong tiếng Anh. 'Not' không thể đứng trực tiếp trước 'did' như thế này.</li><li><b>didn't did</b> (trợ động từ (phủ định) + động từ quá khứ (kết hợp sai)): Sau 'didn't', phải dùng động từ nguyên thể, không dùng động từ quá khứ. 'Did' là động từ quá khứ nên đáp án này sai.</li><li><b>didn't do</b> (trợ động từ (phủ định) + động từ nguyên thể (kết hợp đúng)): 'Didn't' là dạng phủ định của 'did', và 'do' là động từ nguyên thể. Đây là cấu trúc đúng cho câu phủ định ở thì quá khứ đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc phủ định thì quá khứ đơn: Chủ ngữ + didn't + động từ nguyên thể<br><br><b>Tạm dịch:</b> Họ đã không làm bài tập về nhà tối qua.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs the correct negative form of the past simple tense. In English, to make a negative sentence in the past simple, we use 'did not' (didn't) + the base form of the verb. The verb 'do' is the base form. Therefore, the correct answer is 'didn't do'.<br><ul><li><b>weren't do</b> (auxiliary verb + base verb (incorrect combination)): 'Weren't' is the contraction of 'were not', which is used with the verb to be, not with action verbs like 'do'.</li><li><b>not did</b> (adverb + past verb (incorrect structure)): This is not a correct negative form in English. 'Not' cannot be used directly before 'did' in this way.</li><li><b>didn't did</b> (auxiliary verb (negative) + past verb (incorrect combination)): After 'didn't', we must use the base form of the verb, not the past form. 'Did' is the past form, so this is incorrect.</li><li><b>didn't do</b> (auxiliary verb (negative) + base verb (correct combination)): 'Didn't' is the negative form of 'did', and 'do' is the base form of the verb. This is the correct structure for negative sentences in the past simple.</li></ul><b>Related structure or vocabulary:</b> Negative form in the past simple: Subject + didn't + base verb<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67dd1bfab7a5b0020f6",
+        "questionNumber": 2,
+        "questionText": "Philip and Robert ___________ hide and seek when they were little.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "plays",
+            "raw": "A. plays",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "played",
+            "raw": "B. played",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "were play",
+            "raw": "C. were play",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were played",
+            "raw": "D. were played",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to describe a past habitual action. The sentence refers to an activity Philip and Robert did when they were little, so we need the simple past tense to indicate a repeated action in the past.<br><ul><li><b>plays</b> (verb (present simple)): Present simple tense, used for current habits or general truths, not for past actions.</li><li><b>played</b> (verb (simple past)): Simple past tense, used to describe actions that happened and finished in the past. This fits the context of the sentence.</li><li><b>were play</b> (auxiliary verb + base verb (incorrect form)): Incorrect verb form. 'Were' should be followed by a verb in the -ing form (present participle) to form the past continuous tense.</li><li><b>were played</b> (auxiliary verb + past participle (passive voice)): Passive voice in the past tense, which does not fit the meaning of the sentence because Philip and Robert are the ones doing the action, not receiving it.</li></ul><b>Related structure or vocabulary:</b> Simple past tense is used to describe actions that happened in the past, especially habitual actions when someone was younger (e.g., 'When I was a child, I played outside every day.')<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng động từ đúng để diễn tả một hành động thường xuyên trong quá khứ. Câu này nói về một hoạt động mà Philip và Robert đã làm khi còn nhỏ, vì vậy ta cần dùng thì quá khứ đơn để chỉ hành động lặp đi lặp lại trong quá khứ.<br><ul><li><b>plays</b> (động từ (thì hiện tại đơn)): Thì hiện tại đơn, dùng cho thói quen hiện tại hoặc sự thật chung, không phù hợp để diễn tả hành động trong quá khứ.</li><li><b>played</b> (động từ (thì quá khứ đơn)): Thì quá khứ đơn, dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ. Phù hợp với ngữ cảnh câu.</li><li><b>were play</b> (trợ động từ + động từ nguyên mẫu (dạng sai)): Dạng động từ sai. 'Were' phải đi với động từ dạng -ing (hiện tại phân từ) để tạo thành thì quá khứ tiếp diễn.</li><li><b>were played</b> (trợ động từ + quá khứ phân từ (dạng bị động)): Dạng bị động ở thì quá khứ, không phù hợp vì Philip và Robert là người thực hiện hành động, không phải là người nhận hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn dùng để diễn tả hành động đã xảy ra trong quá khứ, đặc biệt là các thói quen khi còn nhỏ (ví dụ: 'Khi tôi còn nhỏ, tôi thường chơi ngoài trời mỗi ngày.')<br><br><b>Tạm dịch:</b> Philip và Robert đã chơi trò trốn tìm khi họ còn nhỏ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct verb form to describe a past habitual action. The sentence refers to an activity Philip and Robert did when they were little, so we need the simple past tense to indicate a repeated action in the past.<br><ul><li><b>plays</b> (verb (present simple)): Present simple tense, used for current habits or general truths, not for past actions.</li><li><b>played</b> (verb (simple past)): Simple past tense, used to describe actions that happened and finished in the past. This fits the context of the sentence.</li><li><b>were play</b> (auxiliary verb + base verb (incorrect form)): Incorrect verb form. 'Were' should be followed by a verb in the -ing form (present participle) to form the past continuous tense.</li><li><b>were played</b> (auxiliary verb + past participle (passive voice)): Passive voice in the past tense, which does not fit the meaning of the sentence because Philip and Robert are the ones doing the action, not receiving it.</li></ul><b>Related structure or vocabulary:</b> Simple past tense is used to describe actions that happened in the past, especially habitual actions when someone was younger (e.g., 'When I was a child, I played outside every day.')<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67dd1bfab7a5b0020f7",
+        "questionNumber": 3,
+        "questionText": "My father ____________ to New York yesterday.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "flyed",
+            "raw": "A. flyed",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "flewed",
+            "raw": "B. flewed",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "flew",
+            "raw": "C. flew",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "flied",
+            "raw": "D. flied",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My father ____________ to New York yesterday.' requires the past simple form of the verb 'fly' because the action happened in the past (indicated by 'yesterday'). The correct past simple form of 'fly' is 'flew'.<br><ul><li><b>flyed</b> (verb (incorrect past form)): 'Flyed' is not a correct form. The verb 'fly' is irregular and does not take '-ed' in the past.</li><li><b>flewed</b> (verb (incorrect past form)): 'Flewed' is not a correct word in English. The past simple of 'fly' is 'flew', not 'flewed'.</li><li><b>flew</b> (verb (past simple)): 'Flew' is the correct past simple form of the verb 'fly', used to describe an action that happened in the past.</li><li><b>flied</b> (verb (incorrect past form)): 'Flied' is not the correct past form of 'fly' (except in baseball context, which is not relevant here).</li></ul><b>Related structure or vocabulary:</b> Past simple tense: Used to describe actions that happened at a specific time in the past. Irregular verbs: Some verbs do not follow the regular '-ed' ending in the past simple (e.g., fly → flew).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'My father ____________ to New York yesterday.' cần điền dạng quá khứ đơn của động từ 'fly' vì hành động đã xảy ra trong quá khứ (dấu hiệu là từ 'yesterday'). Dạng quá khứ đơn đúng của 'fly' là 'flew'.<br><ul><li><b>flyed</b> (động từ (dạng quá khứ sai)): 'Flyed' không phải là dạng đúng. Động từ 'fly' là động từ bất quy tắc và không thêm '-ed' ở thì quá khứ.</li><li><b>flewed</b> (động từ (dạng quá khứ sai)): 'Flewed' không phải là từ đúng trong tiếng Anh. Dạng quá khứ của 'fly' là 'flew', không phải 'flewed'.</li><li><b>flew</b> (động từ (quá khứ đơn)): 'Flew' là dạng quá khứ đơn đúng của động từ 'fly', dùng để diễn tả hành động đã xảy ra trong quá khứ.</li><li><b>flied</b> (động từ (dạng quá khứ sai)): 'Flied' không phải là dạng quá khứ đúng của 'fly' (trừ trường hợp đặc biệt trong bóng chày, không liên quan ở đây).</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Dùng để diễn tả hành động đã xảy ra tại một thời điểm xác định trong quá khứ. Động từ bất quy tắc: Một số động từ không theo quy tắc thêm '-ed' ở thì quá khứ (ví dụ: fly → flew).<br><br><b>Tạm dịch:</b> Bố tôi đã bay đến New York vào ngày hôm qua.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'My father ____________ to New York yesterday.' requires the past simple form of the verb 'fly' because the action happened in the past (indicated by 'yesterday'). The correct past simple form of 'fly' is 'flew'.<br><ul><li><b>flyed</b> (verb (incorrect past form)): 'Flyed' is not a correct form. The verb 'fly' is irregular and does not take '-ed' in the past.</li><li><b>flewed</b> (verb (incorrect past form)): 'Flewed' is not a correct word in English. The past simple of 'fly' is 'flew', not 'flewed'.</li><li><b>flew</b> (verb (past simple)): 'Flew' is the correct past simple form of the verb 'fly', used to describe an action that happened in the past.</li><li><b>flied</b> (verb (incorrect past form)): 'Flied' is not the correct past form of 'fly' (except in baseball context, which is not relevant here).</li></ul><b>Related structure or vocabulary:</b> Past simple tense: Used to describe actions that happened at a specific time in the past. Irregular verbs: Some verbs do not follow the regular '-ed' ending in the past simple (e.g., fly → flew).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67dd1bfab7a5b0020f8",
+        "questionNumber": 4,
+        "questionText": "People travelled on horses ________________.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a hundred years ago",
+            "raw": "A. a hundred years ago",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "tomorrow",
+            "raw": "B. tomorrow",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "next year",
+            "raw": "C. next year",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "at the moment",
+            "raw": "D. at the moment",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'People travelled on horses ________________.' requires a time expression that fits the context of people using horses as a means of transportation. Historically, people used horses for travel in the past, not in the present or future. Therefore, the correct answer should refer to a time in the past.<br><ul><li><b>a hundred years ago</b> (time expression (past)): This phrase means '100 years in the past.' It is a time expression used to talk about something that happened a long time ago.</li><li><b>tomorrow</b> (time expression (future)): This word means 'the day after today.' It refers to the future.</li><li><b>next year</b> (time expression (future)): This phrase means 'the year after the current year.' It also refers to the future.</li><li><b>at the moment</b> (time expression (present)): This phrase means 'right now' or 'currently.' It refers to the present.</li></ul><b>Related structure or vocabulary:</b> Time expressions: 'ago' is used to indicate how many years, days, etc., before now something happened. Structure: [time period] + ago (e.g., ten years ago, a week ago).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'People travelled on horses ________________.' cần một cụm từ chỉ thời gian phù hợp với ngữ cảnh người ta sử dụng ngựa làm phương tiện di chuyển. Trong thực tế lịch sử, con người dùng ngựa để đi lại vào thời gian trong quá khứ, không phải hiện tại hay tương lai. Vì vậy, đáp án đúng phải là một mốc thời gian trong quá khứ.<br><ul><li><b>a hundred years ago</b> (cụm từ chỉ thời gian (quá khứ)): Cụm từ này có nghĩa là '100 năm trước đây'. Đây là một cụm từ chỉ thời gian dùng để nói về điều gì đó đã xảy ra từ rất lâu.</li><li><b>tomorrow</b> (cụm từ chỉ thời gian (tương lai)): Từ này có nghĩa là 'ngày mai', chỉ thời gian trong tương lai.</li><li><b>next year</b> (cụm từ chỉ thời gian (tương lai)): Cụm từ này có nghĩa là 'năm sau', cũng chỉ thời gian trong tương lai.</li><li><b>at the moment</b> (cụm từ chỉ thời gian (hiện tại)): Cụm từ này có nghĩa là 'hiện tại', chỉ thời gian ở hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Các cụm từ chỉ thời gian: 'ago' dùng để chỉ một khoảng thời gian trước thời điểm hiện tại. Cấu trúc: [khoảng thời gian] + ago (ví dụ: ten years ago, a week ago).<br><br><b>Tạm dịch:</b> Người ta đã di chuyển bằng ngựa cách đây một trăm năm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'People travelled on horses ________________.' requires a time expression that fits the context of people using horses as a means of transportation. Historically, people used horses for travel in the past, not in the present or future. Therefore, the correct answer should refer to a time in the past.<br><ul><li><b>a hundred years ago</b> (time expression (past)): This phrase means '100 years in the past.' It is a time expression used to talk about something that happened a long time ago.</li><li><b>tomorrow</b> (time expression (future)): This word means 'the day after today.' It refers to the future.</li><li><b>next year</b> (time expression (future)): This phrase means 'the year after the current year.' It also refers to the future.</li><li><b>at the moment</b> (time expression (present)): This phrase means 'right now' or 'currently.' It refers to the present.</li></ul><b>Related structure or vocabulary:</b> Time expressions: 'ago' is used to indicate how many years, days, etc., before now something happened. Structure: [time period] + ago (e.g., ten years ago, a week ago).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67dd1bfab7a5b0020f9",
+        "questionNumber": 5,
+        "questionText": "Alexander Graham Bell ___________ the telephone in 1876.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was invent",
+            "raw": "A. was invent",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "inventor",
+            "raw": "B. inventor",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "invented",
+            "raw": "C. invented",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "inventing",
+            "raw": "D. inventing",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the simple past tense of the verb because the action happened in the past (in 1876). The correct verb form to use is the simple past tense.<br><ul><li><b>was invent</b> (verb phrase): This is an incorrect verb form. 'Was invent' is not a proper past tense or passive construction.</li><li><b>inventor</b> (noun): 'Inventor' is a noun, meaning a person who invents things. It does not fit grammatically in this sentence.</li><li><b>invented</b> (verb (past tense)): 'Invented' is the simple past tense of the verb 'invent', which means 'to create something for the first time'. This fits the sentence because it describes an action completed in the past.</li><li><b>inventing</b> (verb (present participle/gerund)): 'Inventing' is the present participle or gerund form of 'invent'. It is not correct here because the sentence needs a simple past verb.</li></ul><b>Related structure or vocabulary:</b> Simple past tense is used to describe actions that happened at a specific time in the past. Structure: Subject + verb (past tense) + object.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một động từ ở thì quá khứ đơn vì hành động này đã xảy ra trong quá khứ (năm 1876). Dạng động từ đúng cần sử dụng là thì quá khứ đơn.<br><ul><li><b>was invent</b> (cụm động từ): 'Was invent' là dạng động từ sai. Đây không phải là thì quá khứ đơn hay bị động đúng.</li><li><b>inventor</b> (danh từ): 'Inventor' là danh từ, nghĩa là 'nhà phát minh'. Không phù hợp về mặt ngữ pháp trong câu này.</li><li><b>invented</b> (động từ (quá khứ đơn)): 'Invented' là thì quá khứ đơn của động từ 'invent', nghĩa là 'phát minh'. Phù hợp với câu vì mô tả hành động đã hoàn thành trong quá khứ.</li><li><b>inventing</b> (động từ (V-ing)): 'Inventing' là dạng V-ing (hiện tại phân từ/động danh từ) của 'invent'. Không đúng vì câu cần động từ ở thì quá khứ đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn dùng để diễn tả hành động đã xảy ra tại một thời điểm xác định trong quá khứ. Cấu trúc: Chủ ngữ + động từ (quá khứ đơn) + tân ngữ.<br><br><b>Tạm dịch:</b> Alexander Graham Bell đã phát minh ra điện thoại vào năm 1876.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires the simple past tense of the verb because the action happened in the past (in 1876). The correct verb form to use is the simple past tense.<br><ul><li><b>was invent</b> (verb phrase): This is an incorrect verb form. 'Was invent' is not a proper past tense or passive construction.</li><li><b>inventor</b> (noun): 'Inventor' is a noun, meaning a person who invents things. It does not fit grammatically in this sentence.</li><li><b>invented</b> (verb (past tense)): 'Invented' is the simple past tense of the verb 'invent', which means 'to create something for the first time'. This fits the sentence because it describes an action completed in the past.</li><li><b>inventing</b> (verb (present participle/gerund)): 'Inventing' is the present participle or gerund form of 'invent'. It is not correct here because the sentence needs a simple past verb.</li></ul><b>Related structure or vocabulary:</b> Simple past tense is used to describe actions that happened at a specific time in the past. Structure: Subject + verb (past tense) + object.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67dd1bfab7a5b0020fa",
+        "questionNumber": 6,
+        "questionText": "The reality show ___________ a large audience.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "attract",
+            "raw": "A. attract",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "attracting",
+            "raw": "B. attracting",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "attracted",
+            "raw": "C. attracted",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "was attract",
+            "raw": "D. was attract",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The reality show ___________ a large audience.' requires a verb in the past simple tense to describe an action that happened in the past. The subject 'The reality show' is singular, so the verb must agree with it. The correct structure is: Subject + past simple verb.<br><ul><li><b>attract</b> (verb (base form)): This is the base form of the verb, which is not correct for a simple past sentence.</li><li><b>attracting</b> (verb (V-ing)): This is the present participle or gerund form, which is not correct here because the sentence needs a past simple verb.</li><li><b>attracted</b> (verb (V-ed)): This is the past simple form of the verb 'attract', which is correct for describing a completed action in the past.</li><li><b>was attract</b> (verb phrase): This is an incorrect verb phrase. 'Was' should be followed by a past participle (attracted) to form the passive voice, but the sentence does not require passive voice.</li></ul><b>Related structure or vocabulary:</b> Simple past tense: Subject + V-ed (for regular verbs) is used to describe actions that happened in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The reality show ___________ a large audience.' cần một động từ ở thì quá khứ đơn để diễn tả một hành động đã xảy ra trong quá khứ. Chủ ngữ 'The reality show' là số ít, nên động từ phải phù hợp. Cấu trúc đúng là: Chủ ngữ + động từ ở thì quá khứ đơn.<br><ul><li><b>attract</b> (động từ (nguyên thể)): Đây là dạng nguyên thể của động từ, không phù hợp với câu ở thì quá khứ đơn.</li><li><b>attracting</b> (động từ (V-ing)): Đây là dạng V-ing (hiện tại phân từ/động danh từ), không phù hợp vì câu cần động từ ở thì quá khứ đơn.</li><li><b>attracted</b> (động từ (V-ed)): Đây là dạng quá khứ đơn của động từ 'attract', phù hợp để diễn tả hành động đã hoàn thành trong quá khứ.</li><li><b>was attract</b> (cụm động từ): Đây là cụm động từ sai ngữ pháp. 'Was' phải đi với quá khứ phân từ (attracted) để thành lập câu bị động, nhưng câu này không cần bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Chủ ngữ + V-ed (với động từ có quy tắc) dùng để diễn tả hành động đã xảy ra trong quá khứ.<br><br><b>Tạm dịch:</b> Chương trình truyền hình thực tế đã thu hút một lượng lớn khán giả.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The reality show ___________ a large audience.' requires a verb in the past simple tense to describe an action that happened in the past. The subject 'The reality show' is singular, so the verb must agree with it. The correct structure is: Subject + past simple verb.<br><ul><li><b>attract</b> (verb (base form)): This is the base form of the verb, which is not correct for a simple past sentence.</li><li><b>attracting</b> (verb (V-ing)): This is the present participle or gerund form, which is not correct here because the sentence needs a past simple verb.</li><li><b>attracted</b> (verb (V-ed)): This is the past simple form of the verb 'attract', which is correct for describing a completed action in the past.</li><li><b>was attract</b> (verb phrase): This is an incorrect verb phrase. 'Was' should be followed by a past participle (attracted) to form the passive voice, but the sentence does not require passive voice.</li></ul><b>Related structure or vocabulary:</b> Simple past tense: Subject + V-ed (for regular verbs) is used to describe actions that happened in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67dd1bfab7a5b0020fb",
+        "questionNumber": 7,
+        "questionText": "I ________ early because I was cold.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "leaved",
+            "raw": "A. leaved",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "left",
+            "raw": "B. left",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "was leave",
+            "raw": "C. was leave",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "leaves",
+            "raw": "D. leaves",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb in the past simple tense to match the context of the sentence, which describes a completed action in the past ('I ________ early because I was cold.'). The subject is 'I', and the verb should agree with it. The correct past simple form of 'leave' is 'left'.<br><ul><li><b>leaved</b> (verb (incorrect past form)): 'Leaved' is not the correct past tense of 'leave'. The correct form is 'left'.</li><li><b>left</b> (verb (past simple)): 'Left' is the past simple form of 'leave', meaning 'to go away from a place'.</li><li><b>was leave</b> (auxiliary verb + base verb (incorrect structure)): 'Was leave' is incorrect because 'was' is used with the present participle (V-ing) to form the past continuous tense, not with the base form.</li><li><b>leaves</b> (verb (present simple, third person singular)): 'Leaves' is the present simple form for third person singular (he/she/it), not suitable for 'I' in the past.</li></ul><b>Related structure or vocabulary:</b> Past simple tense: Subject + past simple verb (for completed actions in the past).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ ở thì quá khứ đơn để phù hợp với ngữ cảnh của câu, mô tả một hành động đã hoàn thành trong quá khứ ('I ________ early because I was cold.'). Chủ ngữ là 'I', động từ cần chia phù hợp. Dạng quá khứ đơn đúng của 'leave' là 'left'.<br><ul><li><b>leaved</b> (động từ (dạng quá khứ sai)): 'Leaved' không phải là dạng quá khứ đúng của 'leave'. Dạng đúng là 'left'.</li><li><b>left</b> (động từ (quá khứ đơn)): 'Left' là dạng quá khứ đơn của 'leave', nghĩa là 'rời đi'.</li><li><b>was leave</b> (trợ động từ + động từ nguyên mẫu (cấu trúc sai)): 'Was leave' sai vì 'was' phải đi với động từ dạng V-ing để tạo thì quá khứ tiếp diễn, không đi với động từ nguyên mẫu.</li><li><b>leaves</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): 'Leaves' là dạng hiện tại đơn cho ngôi thứ ba số ít (he/she/it), không phù hợp với 'I' ở thì quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Chủ ngữ + động từ quá khứ đơn (diễn tả hành động đã hoàn thành trong quá khứ).<br><br><b>Tạm dịch:</b> Tôi đã rời đi sớm vì tôi lạnh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb in the past simple tense to match the context of the sentence, which describes a completed action in the past ('I ________ early because I was cold.'). The subject is 'I', and the verb should agree with it. The correct past simple form of 'leave' is 'left'.<br><ul><li><b>leaved</b> (verb (incorrect past form)): 'Leaved' is not the correct past tense of 'leave'. The correct form is 'left'.</li><li><b>left</b> (verb (past simple)): 'Left' is the past simple form of 'leave', meaning 'to go away from a place'.</li><li><b>was leave</b> (auxiliary verb + base verb (incorrect structure)): 'Was leave' is incorrect because 'was' is used with the present participle (V-ing) to form the past continuous tense, not with the base form.</li><li><b>leaves</b> (verb (present simple, third person singular)): 'Leaves' is the present simple form for third person singular (he/she/it), not suitable for 'I' in the past.</li></ul><b>Related structure or vocabulary:</b> Past simple tense: Subject + past simple verb (for completed actions in the past).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67dd1bfab7a5b0020fc",
+        "questionNumber": 8,
+        "questionText": "Where ______ you __________ yesterday?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "did / go",
+            "raw": "A. did / go",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "did / went",
+            "raw": "B. did / went",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was / go",
+            "raw": "C. was / go",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were / go",
+            "raw": "D. were / go",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Where ______ you __________ yesterday?' requires the correct form of the verb 'to do' in the past simple tense, followed by the base form of the main verb. In questions about past actions, we use 'did' as the auxiliary verb, and the main verb remains in its base form (go).<br><ul><li><b>did / go</b> (auxiliary verb / base verb): 'Did' is the past simple auxiliary verb used for questions, and 'go' is the base form of the verb. This is the correct structure for past simple questions.</li><li><b>did / went</b> (auxiliary verb / past verb): 'Went' is the past form of 'go', but after 'did', we must use the base form, not the past form.</li><li><b>was / go</b> (verb to be / base verb): 'Was' is the past form of 'to be', not used for forming questions with action verbs like 'go'.</li><li><b>were / go</b> (verb to be / base verb): 'Were' is also a past form of 'to be', not used for forming questions with action verbs like 'go'.</li></ul><b>Related structure or vocabulary:</b> Past simple question structure: Did + subject + base verb + ...? Example: Did you go to school yesterday?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'Where ______ you __________ yesterday?' cần điền đúng dạng của động từ 'to do' ở thì quá khứ đơn, theo sau là động từ chính ở dạng nguyên thể. Khi đặt câu hỏi về hành động trong quá khứ, ta dùng 'did' làm trợ động từ, và động từ chính giữ nguyên ở dạng nguyên thể (go).<br><ul><li><b>did / go</b> (trợ động từ / động từ nguyên thể): 'Did' là trợ động từ ở thì quá khứ đơn dùng để đặt câu hỏi, 'go' là động từ nguyên thể. Đây là cấu trúc đúng cho câu hỏi ở thì quá khứ đơn.</li><li><b>did / went</b> (trợ động từ / động từ quá khứ): 'Went' là dạng quá khứ của 'go', nhưng sau 'did' phải dùng động từ nguyên thể, không dùng dạng quá khứ.</li><li><b>was / go</b> (động từ to be / động từ nguyên thể): 'Was' là động từ 'to be' ở thì quá khứ, không dùng để đặt câu hỏi với động từ chỉ hành động như 'go'.</li><li><b>were / go</b> (động từ to be / động từ nguyên thể): 'Were' cũng là động từ 'to be' ở thì quá khứ, không dùng để đặt câu hỏi với động từ chỉ hành động như 'go'.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi thì quá khứ đơn: Did + chủ ngữ + động từ nguyên thể + ...? Ví dụ: Did you go to school yesterday?<br><br><b>Tạm dịch:</b> Where did you go yesterday? --> Bạn đã đi đâu vào ngày hôm qua?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'Where ______ you __________ yesterday?' requires the correct form of the verb 'to do' in the past simple tense, followed by the base form of the main verb. In questions about past actions, we use 'did' as the auxiliary verb, and the main verb remains in its base form (go).<br><ul><li><b>did / go</b> (auxiliary verb / base verb): 'Did' is the past simple auxiliary verb used for questions, and 'go' is the base form of the verb. This is the correct structure for past simple questions.</li><li><b>did / went</b> (auxiliary verb / past verb): 'Went' is the past form of 'go', but after 'did', we must use the base form, not the past form.</li><li><b>was / go</b> (verb to be / base verb): 'Was' is the past form of 'to be', not used for forming questions with action verbs like 'go'.</li><li><b>were / go</b> (verb to be / base verb): 'Were' is also a past form of 'to be', not used for forming questions with action verbs like 'go'.</li></ul><b>Related structure or vocabulary:</b> Past simple question structure: Did + subject + base verb + ...? Example: Did you go to school yesterday?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b0020fd",
+        "questionNumber": 9,
+        "questionText": "I buy flowers every week. Last week, I ________ some roses.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "buy",
+            "raw": "A. buy",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "did buy",
+            "raw": "B. did buy",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "was buy",
+            "raw": "C. was buy",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "bought",
+            "raw": "D. bought",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I buy flowers every week. Last week, I ________ some roses.' requires the correct past tense form of the verb 'buy' to match the time expression 'last week.' In English, when talking about a completed action in the past, we use the simple past tense.<br><ul><li><b>buy</b> (verb (base form)): This is the base form (infinitive) of the verb, which is not correct after a past time expression like 'last week.'</li><li><b>did buy</b> (verb (emphatic past)): This is the emphatic form of the past tense, used for emphasis or in questions/negatives, not in a simple affirmative statement.</li><li><b>was buy</b> (auxiliary + base form (incorrect structure)): This is grammatically incorrect. 'Was' should be followed by the present participle (V-ing), not the base form.</li><li><b>bought</b> (verb (simple past)): This is the simple past tense of 'buy,' which is correct for describing a completed action in the past.</li></ul><b>Related structure or vocabulary:</b> Simple past tense: Used to describe actions that happened and finished in the past. Time expressions like 'last week,' 'yesterday,' or 'ago' often signal the use of the simple past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I buy flowers every week. Last week, I ________ some roses.' cần điền dạng quá khứ đơn của động từ 'buy' để phù hợp với cụm từ chỉ thời gian 'last week' (tuần trước). Trong tiếng Anh, khi nói về một hành động đã hoàn thành trong quá khứ, ta sử dụng thì quá khứ đơn.<br><ul><li><b>buy</b> (động từ (nguyên thể)): Đây là dạng nguyên thể của động từ, không phù hợp sau cụm từ chỉ thời gian quá khứ như 'last week.'</li><li><b>did buy</b> (động từ (quá khứ nhấn mạnh)): Đây là dạng nhấn mạnh của thì quá khứ, thường dùng trong câu hỏi hoặc phủ định, không dùng trong câu khẳng định đơn giản.</li><li><b>was buy</b> (trợ động từ + động từ nguyên thể (cấu trúc sai)): Cấu trúc này sai ngữ pháp. 'Was' phải đi với động từ dạng V-ing (hiện tại phân từ), không phải dạng nguyên thể.</li><li><b>bought</b> (động từ (quá khứ đơn)): Đây là dạng quá khứ đơn của 'buy', phù hợp để diễn tả hành động đã hoàn thành trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ. Các cụm từ chỉ thời gian như 'last week', 'yesterday', hoặc 'ago' thường báo hiệu sử dụng thì quá khứ đơn.<br><br><b>Tạm dịch:</b> Tôi mua hoa mỗi tuần. Tuần trước, tôi đã mua một số hoa hồng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I buy flowers every week. Last week, I ________ some roses.' requires the correct past tense form of the verb 'buy' to match the time expression 'last week.' In English, when talking about a completed action in the past, we use the simple past tense.<br><ul><li><b>buy</b> (verb (base form)): This is the base form (infinitive) of the verb, which is not correct after a past time expression like 'last week.'</li><li><b>did buy</b> (verb (emphatic past)): This is the emphatic form of the past tense, used for emphasis or in questions/negatives, not in a simple affirmative statement.</li><li><b>was buy</b> (auxiliary + base form (incorrect structure)): This is grammatically incorrect. 'Was' should be followed by the present participle (V-ing), not the base form.</li><li><b>bought</b> (verb (simple past)): This is the simple past tense of 'buy,' which is correct for describing a completed action in the past.</li></ul><b>Related structure or vocabulary:</b> Simple past tense: Used to describe actions that happened and finished in the past. Time expressions like 'last week,' 'yesterday,' or 'ago' often signal the use of the simple past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b0020fe",
+        "questionNumber": 10,
+        "questionText": "She __________ Tom on his bike this evening.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was see",
+            "raw": "A. was see",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "seing",
+            "raw": "B. seing",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "saw",
+            "raw": "C. saw",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "didn't saw",
+            "raw": "D. didn't saw",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She __________ Tom on his bike this evening.' requires the correct verb form to fit the context. The sentence is in the past tense, as it refers to an action that happened this evening. The correct verb form should be the simple past tense.<br><ul><li><b>was see</b> (verb phrase): 'was see' is incorrect because after 'was', we need the present participle (V-ing) to form the past continuous tense (was seeing), not the base form 'see'.</li><li><b>seing</b> (verb (present participle)): 'seing' is a misspelling of 'seeing'. Even if it were spelled correctly, 'seeing' alone does not fit the sentence structure, as we need the simple past tense here.</li><li><b>saw</b> (verb (simple past)): 'saw' is the simple past tense of 'see', which correctly fits the sentence referring to a completed action in the past.</li><li><b>didn't saw</b> (verb phrase): 'didn't saw' is incorrect because after 'didn't', we use the base form 'see', not the past tense 'saw'.</li></ul><b>Related structure or vocabulary:</b> Simple past tense: Subject + V2 (past form) is used to describe a completed action in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'She __________ Tom on his bike this evening.' cần một động từ ở thì quá khứ đơn để diễn tả một hành động đã xảy ra vào tối nay. Do đó, ta cần sử dụng động từ ở dạng quá khứ đơn.<br><ul><li><b>was see</b> (cụm động từ): 'was see' sai vì sau 'was' phải là động từ V-ing (was seeing) để tạo thành thì quá khứ tiếp diễn, không phải động từ nguyên thể 'see'.</li><li><b>seing</b> (động từ (V-ing)): 'seing' là viết sai chính tả của 'seeing'. Dù viết đúng là 'seeing' thì cũng không phù hợp với cấu trúc câu này vì cần động từ ở thì quá khứ đơn.</li><li><b>saw</b> (động từ (quá khứ đơn)): 'saw' là động từ ở thì quá khứ đơn của 'see', phù hợp với câu diễn tả hành động đã hoàn thành trong quá khứ.</li><li><b>didn't saw</b> (cụm động từ): 'didn't saw' sai vì sau 'didn't' phải dùng động từ nguyên thể 'see', không dùng động từ quá khứ 'saw'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Chủ ngữ + V2 (động từ ở dạng quá khứ) dùng để diễn tả hành động đã hoàn thành trong quá khứ.<br><br><b>Tạm dịch:</b> Cô ấy đã nhìn thấy Tom trên chiếc xe đạp của cậu ấy vào tối nay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She __________ Tom on his bike this evening.' requires the correct verb form to fit the context. The sentence is in the past tense, as it refers to an action that happened this evening. The correct verb form should be the simple past tense.<br><ul><li><b>was see</b> (verb phrase): 'was see' is incorrect because after 'was', we need the present participle (V-ing) to form the past continuous tense (was seeing), not the base form 'see'.</li><li><b>seing</b> (verb (present participle)): 'seing' is a misspelling of 'seeing'. Even if it were spelled correctly, 'seeing' alone does not fit the sentence structure, as we need the simple past tense here.</li><li><b>saw</b> (verb (simple past)): 'saw' is the simple past tense of 'see', which correctly fits the sentence referring to a completed action in the past.</li><li><b>didn't saw</b> (verb phrase): 'didn't saw' is incorrect because after 'didn't', we use the base form 'see', not the past tense 'saw'.</li></ul><b>Related structure or vocabulary:</b> Simple past tense: Subject + V2 (past form) is used to describe a completed action in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b0020ff",
+        "questionNumber": 11,
+        "questionText": "Last weekend, we ________ an old castle.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "visited",
+            "raw": "A. visited",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "were visit",
+            "raw": "B. were visit",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "visit",
+            "raw": "C. visit",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "did visit",
+            "raw": "D. did visit",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Last weekend, we ________ an old castle.' requires a verb in the past simple tense because the time expression 'last weekend' indicates a completed action in the past. In English, regular verbs in the past simple tense are formed by adding '-ed' to the base form. Therefore, the correct answer is 'visited'.<br><ul><li><b>visited</b> (verb (past simple)): Past simple form of the verb 'visit', used to describe a completed action in the past.</li><li><b>were visit</b> (auxiliary verb + base verb (incorrect form)): 'Were' is the past tense of 'be', but it cannot be used directly with the base form 'visit'. The correct form would be 'were visiting' for past continuous, but that does not fit the context.</li><li><b>visit</b> (verb (base form)): Base form of the verb 'visit', used for present simple or with modal verbs, not suitable for a completed action in the past.</li><li><b>did visit</b> (auxiliary verb + base verb (emphatic past simple)): 'Did visit' is the emphatic form of the past simple, used for emphasis or in questions/negatives. In a normal affirmative sentence, 'visited' is preferred.</li></ul><b>Related structure or vocabulary:</b> Past simple tense: Used to describe actions that happened and finished in the past. Time expressions like 'last weekend', 'yesterday', 'last year' often signal the use of past simple.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Last weekend, we ________ an old castle.' cần một động từ ở thì quá khứ đơn vì cụm từ chỉ thời gian 'last weekend' (cuối tuần trước) diễn tả một hành động đã hoàn thành trong quá khứ. Động từ thường ở thì quá khứ đơn được tạo bằng cách thêm '-ed' vào động từ nguyên mẫu. Vì vậy, đáp án đúng là 'visited'.<br><ul><li><b>visited</b> (động từ (quá khứ đơn)): Dạng quá khứ đơn của động từ 'visit', dùng để diễn tả hành động đã hoàn thành trong quá khứ.</li><li><b>were visit</b> (trợ động từ + động từ nguyên mẫu (dạng sai)): 'Were' là thì quá khứ của 'be', nhưng không thể dùng trực tiếp với động từ nguyên mẫu 'visit'. Dạng đúng là 'were visiting' (quá khứ tiếp diễn), nhưng không phù hợp với ngữ cảnh.</li><li><b>visit</b> (động từ (nguyên mẫu)): Động từ nguyên mẫu 'visit', dùng cho thì hiện tại đơn hoặc với động từ khuyết thiếu, không phù hợp để diễn tả hành động đã hoàn thành trong quá khứ.</li><li><b>did visit</b> (trợ động từ + động từ nguyên mẫu (quá khứ đơn nhấn mạnh)): 'Did visit' là dạng nhấn mạnh của thì quá khứ đơn, thường dùng trong câu hỏi, phủ định hoặc để nhấn mạnh. Trong câu khẳng định thông thường, nên dùng 'visited'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ. Các cụm từ chỉ thời gian như 'last weekend', 'yesterday', 'last year' thường báo hiệu dùng thì quá khứ đơn.<br><br><b>Tạm dịch:</b> Cuối tuần trước, chúng tôi đã thăm một lâu đài cổ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Last weekend, we ________ an old castle.' requires a verb in the past simple tense because the time expression 'last weekend' indicates a completed action in the past. In English, regular verbs in the past simple tense are formed by adding '-ed' to the base form. Therefore, the correct answer is 'visited'.<br><ul><li><b>visited</b> (verb (past simple)): Past simple form of the verb 'visit', used to describe a completed action in the past.</li><li><b>were visit</b> (auxiliary verb + base verb (incorrect form)): 'Were' is the past tense of 'be', but it cannot be used directly with the base form 'visit'. The correct form would be 'were visiting' for past continuous, but that does not fit the context.</li><li><b>visit</b> (verb (base form)): Base form of the verb 'visit', used for present simple or with modal verbs, not suitable for a completed action in the past.</li><li><b>did visit</b> (auxiliary verb + base verb (emphatic past simple)): 'Did visit' is the emphatic form of the past simple, used for emphasis or in questions/negatives. In a normal affirmative sentence, 'visited' is preferred.</li></ul><b>Related structure or vocabulary:</b> Past simple tense: Used to describe actions that happened and finished in the past. Time expressions like 'last weekend', 'yesterday', 'last year' often signal the use of past simple.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002100",
+        "questionNumber": 12,
+        "questionText": "I ___________ my scooter.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "didn't rode",
+            "raw": "A. didn't rode",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "wasn't rode",
+            "raw": "B. wasn't rode",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "didn't ride",
+            "raw": "C. didn't ride",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "wasn't ride",
+            "raw": "D. wasn't ride",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct past simple negative form of the verb 'ride'. In English, the past simple negative is formed with 'did not' (didn't) + base form of the verb. The verb 'ride' is an irregular verb, but in negative sentences, we always use the base form after 'didn't'.<br><ul><li><b>didn't rode</b> (verb (incorrect form)): 'Rode' is the past form of 'ride', but after 'didn't', we must use the base form, not the past form.</li><li><b>wasn't rode</b> (auxiliary verb + verb (incorrect structure)): 'Wasn't rode' is incorrect because 'wasn't' is the negative form of 'to be', and 'rode' is the past form of 'ride'. This structure does not make sense in English.</li><li><b>didn't ride</b> (auxiliary verb + base verb (correct form)): 'Didn't ride' is the correct past simple negative form: 'did not' + base form 'ride'.</li><li><b>wasn't ride</b> (auxiliary verb + base verb (incorrect structure)): 'Wasn't ride' is incorrect because 'wasn't' is the negative form of 'to be', and 'ride' is the base form. This structure is not used for actions in the past.</li></ul><b>Related structure or vocabulary:</b> Past simple negative: Subject + did not (didn't) + base form of verb<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng phủ định của thì quá khứ đơn của động từ 'ride'. Trong tiếng Anh, thì quá khứ đơn phủ định được tạo bằng 'did not' (didn't) + động từ nguyên thể. Dù 'ride' là động từ bất quy tắc, nhưng sau 'didn't', ta luôn dùng động từ nguyên thể.<br><ul><li><b>didn't rode</b> (động từ (dạng sai)): 'Rode' là dạng quá khứ của 'ride', nhưng sau 'didn't', phải dùng động từ nguyên thể, không dùng dạng quá khứ.</li><li><b>wasn't rode</b> (trợ động từ + động từ (cấu trúc sai)): 'Wasn't rode' sai vì 'wasn't' là dạng phủ định của 'to be', còn 'rode' là quá khứ của 'ride'. Cấu trúc này không đúng trong tiếng Anh.</li><li><b>didn't ride</b> (trợ động từ + động từ nguyên thể (đúng)): 'Didn't ride' là dạng phủ định đúng của thì quá khứ đơn: 'did not' + động từ nguyên thể 'ride'.</li><li><b>wasn't ride</b> (trợ động từ + động từ nguyên thể (cấu trúc sai)): 'Wasn't ride' sai vì 'wasn't' là phủ định của 'to be', còn 'ride' là động từ nguyên thể. Cấu trúc này không dùng để diễn tả hành động trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn phủ định: Chủ ngữ + did not (didn't) + động từ nguyên thể<br><br><b>Tạm dịch:</b> Tôi đã không lái xe tay ga của mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct past simple negative form of the verb 'ride'. In English, the past simple negative is formed with 'did not' (didn't) + base form of the verb. The verb 'ride' is an irregular verb, but in negative sentences, we always use the base form after 'didn't'.<br><ul><li><b>didn't rode</b> (verb (incorrect form)): 'Rode' is the past form of 'ride', but after 'didn't', we must use the base form, not the past form.</li><li><b>wasn't rode</b> (auxiliary verb + verb (incorrect structure)): 'Wasn't rode' is incorrect because 'wasn't' is the negative form of 'to be', and 'rode' is the past form of 'ride'. This structure does not make sense in English.</li><li><b>didn't ride</b> (auxiliary verb + base verb (correct form)): 'Didn't ride' is the correct past simple negative form: 'did not' + base form 'ride'.</li><li><b>wasn't ride</b> (auxiliary verb + base verb (incorrect structure)): 'Wasn't ride' is incorrect because 'wasn't' is the negative form of 'to be', and 'ride' is the base form. This structure is not used for actions in the past.</li></ul><b>Related structure or vocabulary:</b> Past simple negative: Subject + did not (didn't) + base form of verb<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002101",
+        "questionNumber": 13,
+        "questionText": "I ____________ shopping two days ago.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "go",
+            "raw": "A. go",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "went",
+            "raw": "B. went",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "has gone",
+            "raw": "C. has gone",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was go",
+            "raw": "D. was go",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ____________ shopping two days ago.' requires the correct past tense form of the verb 'go' to match the time expression 'two days ago', which indicates a completed action in the past. In English, the simple past tense is used for actions that happened at a specific time in the past.<br><ul><li><b>go</b> (verb (base form)): 'Go' is the base form (infinitive) of the verb. It is not used after a subject and a past time expression.</li><li><b>went</b> (verb (simple past)): 'Went' is the simple past tense of 'go', used to describe an action that happened in the past.</li><li><b>has gone</b> (verb (present perfect)): 'Has gone' is the present perfect tense, used for actions that happened at an unspecified time before now. It does not fit with a specific past time expression like 'two days ago'.</li><li><b>was go</b> (incorrect verb phrase): 'Was go' is grammatically incorrect. After 'was', we need a present participle (going) or a past participle, not the base form.</li></ul><b>Related structure or vocabulary:</b> Simple Past Tense: Subject + past tense verb + (time expression in the past). Example: I went shopping yesterday.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I ____________ shopping two days ago.' cần điền dạng thì quá khứ đơn của động từ 'go' để phù hợp với cụm từ chỉ thời gian 'two days ago' (hai ngày trước), chỉ một hành động đã hoàn thành trong quá khứ. Trong tiếng Anh, thì quá khứ đơn được dùng cho các hành động xảy ra tại một thời điểm xác định trong quá khứ.<br><ul><li><b>go</b> (động từ (nguyên thể)): 'Go' là dạng nguyên thể của động từ, không dùng sau chủ ngữ và cụm từ chỉ thời gian quá khứ.</li><li><b>went</b> (động từ (quá khứ đơn)): 'Went' là thì quá khứ đơn của 'go', dùng để diễn tả hành động đã xảy ra trong quá khứ.</li><li><b>has gone</b> (động từ (hiện tại hoàn thành)): 'Has gone' là thì hiện tại hoàn thành, dùng cho hành động xảy ra vào một thời điểm không xác định trước hiện tại. Không phù hợp với cụm từ chỉ thời gian xác định như 'two days ago'.</li><li><b>was go</b> (cụm động từ sai): 'Was go' là cấu trúc sai ngữ pháp. Sau 'was' cần dùng động từ dạng V-ing (going) hoặc quá khứ phân từ, không dùng nguyên thể.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Chủ ngữ + động từ quá khứ + (cụm từ chỉ thời gian trong quá khứ). Ví dụ: I went shopping yesterday.<br><br><b>Tạm dịch:</b> Tôi đã đi mua sắm hai ngày trước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ____________ shopping two days ago.' requires the correct past tense form of the verb 'go' to match the time expression 'two days ago', which indicates a completed action in the past. In English, the simple past tense is used for actions that happened at a specific time in the past.<br><ul><li><b>go</b> (verb (base form)): 'Go' is the base form (infinitive) of the verb. It is not used after a subject and a past time expression.</li><li><b>went</b> (verb (simple past)): 'Went' is the simple past tense of 'go', used to describe an action that happened in the past.</li><li><b>has gone</b> (verb (present perfect)): 'Has gone' is the present perfect tense, used for actions that happened at an unspecified time before now. It does not fit with a specific past time expression like 'two days ago'.</li><li><b>was go</b> (incorrect verb phrase): 'Was go' is grammatically incorrect. After 'was', we need a present participle (going) or a past participle, not the base form.</li></ul><b>Related structure or vocabulary:</b> Simple Past Tense: Subject + past tense verb + (time expression in the past). Example: I went shopping yesterday.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002102",
+        "questionNumber": 14,
+        "questionText": "The boy __________ in the garden two minutes ago.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was",
+            "raw": "A. was",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "is",
+            "raw": "B. is",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "did",
+            "raw": "C. did",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "were",
+            "raw": "D. were",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The boy __________ in the garden two minutes ago.' requires a verb in the past tense because of the time expression 'two minutes ago,' which indicates a completed action in the past. The correct form is the past continuous tense ('was + V-ing') to describe an action that was happening at a specific time in the past.<br><ul><li><b>was</b> (verb (past tense of 'to be')): 'Was' is the past tense of 'is' (to be) used with singular subjects (he, she, it, the boy). It is used in the past continuous tense as 'was + V-ing.'</li><li><b>is</b> (verb (present tense of 'to be')): 'Is' is the present tense of 'to be' used with singular subjects. It does not fit with 'two minutes ago,' which refers to the past.</li><li><b>did</b> (verb (past tense of 'do')): 'Did' is the past tense of 'do,' used to form questions or negatives in the simple past, not as a main verb in this context.</li><li><b>were</b> (verb (past tense of 'to be')): 'Were' is the past tense of 'to be' used with plural subjects (we, you, they). 'The boy' is singular, so 'were' is incorrect.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing is used to describe an action that was happening at a specific time in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The boy __________ in the garden two minutes ago.' cần một động từ ở thì quá khứ vì có cụm từ chỉ thời gian 'two minutes ago' (hai phút trước), chỉ một hành động đã hoàn thành trong quá khứ. Dạng đúng là thì quá khứ tiếp diễn ('was + V-ing') để diễn tả một hành động đang xảy ra tại một thời điểm xác định trong quá khứ.<br><ul><li><b>was</b> (động từ (thì quá khứ của 'to be')): 'Was' là thì quá khứ của 'is' (to be), dùng với chủ ngữ số ít (he, she, it, the boy). Được dùng trong thì quá khứ tiếp diễn: 'was + V-ing'.</li><li><b>is</b> (động từ (thì hiện tại của 'to be')): 'Is' là thì hiện tại của 'to be', dùng với chủ ngữ số ít. Không phù hợp với 'two minutes ago' vì đây là mốc thời gian quá khứ.</li><li><b>did</b> (động từ (thì quá khứ của 'do')): 'Did' là thì quá khứ của 'do', thường dùng để tạo câu hỏi hoặc phủ định ở thì quá khứ đơn, không dùng làm động từ chính trong trường hợp này.</li><li><b>were</b> (động từ (thì quá khứ của 'to be')): 'Were' là thì quá khứ của 'to be', dùng với chủ ngữ số nhiều (we, you, they). 'The boy' là chủ ngữ số ít nên không dùng 'were'.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ tiếp diễn: was/were + V-ing dùng để diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ.<br><br><b>Tạm dịch:</b> Cậu bé đang ở trong vườn hai phút trước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The boy __________ in the garden two minutes ago.' requires a verb in the past tense because of the time expression 'two minutes ago,' which indicates a completed action in the past. The correct form is the past continuous tense ('was + V-ing') to describe an action that was happening at a specific time in the past.<br><ul><li><b>was</b> (verb (past tense of 'to be')): 'Was' is the past tense of 'is' (to be) used with singular subjects (he, she, it, the boy). It is used in the past continuous tense as 'was + V-ing.'</li><li><b>is</b> (verb (present tense of 'to be')): 'Is' is the present tense of 'to be' used with singular subjects. It does not fit with 'two minutes ago,' which refers to the past.</li><li><b>did</b> (verb (past tense of 'do')): 'Did' is the past tense of 'do,' used to form questions or negatives in the simple past, not as a main verb in this context.</li><li><b>were</b> (verb (past tense of 'to be')): 'Were' is the past tense of 'to be' used with plural subjects (we, you, they). 'The boy' is singular, so 'were' is incorrect.</li></ul><b>Related structure or vocabulary:</b> Past continuous tense: was/were + V-ing is used to describe an action that was happening at a specific time in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002103",
+        "questionNumber": 15,
+        "questionText": "His mother ___________ take any photos.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "wasn't",
+            "raw": "A. wasn't",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "don't",
+            "raw": "B. don't",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "didn't",
+            "raw": "C. didn't",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "weren't",
+            "raw": "D. weren't",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb 'do' in the negative past simple tense to match the subject 'his mother.' In English, for negative sentences in the past simple, we use 'did not' (didn't) + base verb. The subject 'his mother' is singular, so we do not use 'weren't' or 'don't.'<br><ul><li><b>wasn't</b> (verb (to be, past simple, negative)): Contraction of 'was not,' used for the past simple of 'to be' with singular subjects. Not used with action verbs like 'take.'</li><li><b>don't</b> (verb (do, present simple, negative)): Contraction of 'do not,' used for present simple negative with plural subjects or 'I/you/we/they.' Not correct for past tense or singular third person.</li><li><b>didn't</b> (verb (do, past simple, negative)): Contraction of 'did not,' used for past simple negative with all subjects. Correct form for negative past simple sentences.</li><li><b>weren't</b> (verb (to be, past simple, negative)): Contraction of 'were not,' used for the past simple of 'to be' with plural subjects. Not used with action verbs like 'take.'</li></ul><b>Related structure or vocabulary:</b> Negative form in past simple: Subject + did not (didn't) + base verb<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng phủ định của động từ 'do' ở thì quá khứ đơn phù hợp với chủ ngữ 'his mother.' Trong tiếng Anh, để tạo câu phủ định ở thì quá khứ đơn, ta dùng 'did not' (didn't) + động từ nguyên mẫu. Chủ ngữ 'his mother' là số ít, nên không dùng 'weren't' hoặc 'don't.'<br><ul><li><b>wasn't</b> (động từ (to be, quá khứ đơn, phủ định)): Dạng rút gọn của 'was not,' dùng cho động từ 'to be' ở thì quá khứ với chủ ngữ số ít. Không dùng với động từ chỉ hành động như 'take.'</li><li><b>don't</b> (động từ (do, hiện tại đơn, phủ định)): Dạng rút gọn của 'do not,' dùng cho thì hiện tại đơn phủ định với chủ ngữ số nhiều hoặc 'I/you/we/they.' Không đúng cho thì quá khứ hoặc chủ ngữ số ít ngôi thứ ba.</li><li><b>didn't</b> (động từ (do, quá khứ đơn, phủ định)): Dạng rút gọn của 'did not,' dùng cho thì quá khứ đơn phủ định với mọi chủ ngữ. Đây là dạng đúng cho câu phủ định ở thì quá khứ đơn.</li><li><b>weren't</b> (động từ (to be, quá khứ đơn, phủ định)): Dạng rút gọn của 'were not,' dùng cho động từ 'to be' ở thì quá khứ với chủ ngữ số nhiều. Không dùng với động từ chỉ hành động như 'take.'</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc phủ định ở thì quá khứ đơn: Chủ ngữ + did not (didn't) + động từ nguyên mẫu<br><br><b>Tạm dịch:</b> His mother didn't take any photos. --> Mẹ của anh ấy đã không chụp bất kỳ bức ảnh nào.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb 'do' in the negative past simple tense to match the subject 'his mother.' In English, for negative sentences in the past simple, we use 'did not' (didn't) + base verb. The subject 'his mother' is singular, so we do not use 'weren't' or 'don't.'<br><ul><li><b>wasn't</b> (verb (to be, past simple, negative)): Contraction of 'was not,' used for the past simple of 'to be' with singular subjects. Not used with action verbs like 'take.'</li><li><b>don't</b> (verb (do, present simple, negative)): Contraction of 'do not,' used for present simple negative with plural subjects or 'I/you/we/they.' Not correct for past tense or singular third person.</li><li><b>didn't</b> (verb (do, past simple, negative)): Contraction of 'did not,' used for past simple negative with all subjects. Correct form for negative past simple sentences.</li><li><b>weren't</b> (verb (to be, past simple, negative)): Contraction of 'were not,' used for the past simple of 'to be' with plural subjects. Not used with action verbs like 'take.'</li></ul><b>Related structure or vocabulary:</b> Negative form in past simple: Subject + did not (didn't) + base verb<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002104",
+        "questionNumber": 16,
+        "questionText": "He didn't _______________ the question.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "understood",
+            "raw": "A. understood",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "understanding",
+            "raw": "B. understanding",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "understands",
+            "raw": "C. understands",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "understand",
+            "raw": "D. understand",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the verb 'didn't' is an auxiliary verb used to form the negative past simple tense. After 'didn't', we must use the base form of the main verb (bare infinitive), not the past tense, -ing form, or third person singular form.<br><ul><li><b>understood</b> (verb (past tense)): 'Understood' is the past tense and past participle form of 'understand'. It cannot be used after 'didn't', which requires the base form.</li><li><b>understanding</b> (verb (V-ing/gerund)): 'Understanding' is the present participle or gerund form. It is not used after 'didn't'.</li><li><b>understands</b> (verb (present simple, third person singular)): 'Understands' is the third person singular present tense form. It is not used after 'didn't'.</li><li><b>understand</b> (verb (base form)): 'Understand' is the base form (bare infinitive) of the verb. After 'didn't', we always use the base form. Therefore, this is the correct answer.</li></ul><b>Related structure or vocabulary:</b> After 'did' or 'didn't' (past simple negative or question), always use the base form of the verb (bare infinitive).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, 'didn't' là trợ động từ dùng để tạo thì quá khứ đơn phủ định. Sau 'didn't', chúng ta phải dùng động từ nguyên thể không 'to' (bare infinitive), không dùng thì quá khứ, dạng V-ing hay dạng số ít của thì hiện tại.<br><ul><li><b>understood</b> (động từ (quá khứ)): 'Understood' là dạng quá khứ và quá khứ phân từ của 'understand'. Không dùng được sau 'didn't', vì sau 'didn't' phải là động từ nguyên thể.</li><li><b>understanding</b> (động từ (V-ing/danh động từ)): 'Understanding' là dạng V-ing hoặc danh động từ. Không dùng được sau 'didn't'.</li><li><b>understands</b> (động từ (hiện tại đơn, ngôi thứ ba số ít)): 'Understands' là dạng hiện tại đơn ngôi thứ ba số ít. Không dùng được sau 'didn't'.</li><li><b>understand</b> (động từ (nguyên thể)): 'Understand' là động từ nguyên thể không 'to'. Sau 'didn't', luôn dùng động từ nguyên thể. Đây là đáp án đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Sau 'did' hoặc 'didn't' (thì quá khứ đơn phủ định hoặc nghi vấn), luôn dùng động từ nguyên thể không 'to' (bare infinitive).<br><br><b>Tạm dịch:</b> He didn't understand the question. --> Anh ấy đã không hiểu câu hỏi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the verb 'didn't' is an auxiliary verb used to form the negative past simple tense. After 'didn't', we must use the base form of the main verb (bare infinitive), not the past tense, -ing form, or third person singular form.<br><ul><li><b>understood</b> (verb (past tense)): 'Understood' is the past tense and past participle form of 'understand'. It cannot be used after 'didn't', which requires the base form.</li><li><b>understanding</b> (verb (V-ing/gerund)): 'Understanding' is the present participle or gerund form. It is not used after 'didn't'.</li><li><b>understands</b> (verb (present simple, third person singular)): 'Understands' is the third person singular present tense form. It is not used after 'didn't'.</li><li><b>understand</b> (verb (base form)): 'Understand' is the base form (bare infinitive) of the verb. After 'didn't', we always use the base form. Therefore, this is the correct answer.</li></ul><b>Related structure or vocabulary:</b> After 'did' or 'didn't' (past simple negative or question), always use the base form of the verb (bare infinitive).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002105",
+        "questionNumber": 17,
+        "questionText": "The family __________ fish for dinner yesterday.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "has",
+            "raw": "A. has",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "had",
+            "raw": "B. had",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "was had",
+            "raw": "C. was had",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "have",
+            "raw": "D. have",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The family __________ fish for dinner yesterday.' requires a verb in the past tense to match the time expression 'yesterday.' The subject 'the family' is considered a singular noun, so the verb should also be singular and in the past tense.<br><ul><li><b>has</b> (verb (present tense)): 'Has' is the present tense form of the verb 'have' for singular subjects. It does not match the past time expression 'yesterday.'</li><li><b>had</b> (verb (past tense)): 'Had' is the past tense form of the verb 'have.' It matches both the singular subject 'the family' and the past time expression 'yesterday.'</li><li><b>was had</b> (verb phrase (incorrect passive)): 'Was had' is incorrect because 'had' is not used in the passive form in this context. The family is the subject who did the action, not the object.</li><li><b>have</b> (verb (present tense)): 'Have' is the base form or present tense for plural subjects. It does not match the singular subject or the past tense required.</li></ul><b>Related structure or vocabulary:</b> Simple Past Tense: Subject + past tense verb (for actions completed in the past). 'The family' is a collective noun and usually takes a singular verb in American English.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The family __________ fish for dinner yesterday.' cần một động từ ở thì quá khứ để phù hợp với trạng từ chỉ thời gian 'yesterday' (hôm qua). Chủ ngữ 'the family' được coi là danh từ số ít, nên động từ cũng phải ở dạng số ít và thì quá khứ.<br><ul><li><b>has</b> (động từ (thì hiện tại)): 'Has' là thì hiện tại của động từ 'have' dùng cho chủ ngữ số ít. Không phù hợp với trạng từ chỉ thời gian quá khứ 'yesterday'.</li><li><b>had</b> (động từ (thì quá khứ)): 'Had' là thì quá khứ của động từ 'have'. Phù hợp với cả chủ ngữ số ít 'the family' và trạng từ chỉ thời gian quá khứ 'yesterday'.</li><li><b>was had</b> (cụm động từ (bị động sai)): 'Was had' là cấu trúc bị động không đúng trong trường hợp này vì 'had' không dùng ở dạng bị động với nghĩa này. 'The family' là chủ thể thực hiện hành động, không phải đối tượng bị tác động.</li><li><b>have</b> (động từ (thì hiện tại)): 'Have' là dạng nguyên thể hoặc thì hiện tại dùng cho chủ ngữ số nhiều. Không phù hợp với chủ ngữ số ít hoặc thì quá khứ cần thiết.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn: Chủ ngữ + động từ ở thì quá khứ (dùng cho hành động đã hoàn thành trong quá khứ). 'The family' là danh từ tập hợp, thường dùng động từ số ít trong tiếng Anh Mỹ.<br><br><b>Tạm dịch:</b> Gia đình đã ăn cá vào bữa tối hôm qua.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The family __________ fish for dinner yesterday.' requires a verb in the past tense to match the time expression 'yesterday.' The subject 'the family' is considered a singular noun, so the verb should also be singular and in the past tense.<br><ul><li><b>has</b> (verb (present tense)): 'Has' is the present tense form of the verb 'have' for singular subjects. It does not match the past time expression 'yesterday.'</li><li><b>had</b> (verb (past tense)): 'Had' is the past tense form of the verb 'have.' It matches both the singular subject 'the family' and the past time expression 'yesterday.'</li><li><b>was had</b> (verb phrase (incorrect passive)): 'Was had' is incorrect because 'had' is not used in the passive form in this context. The family is the subject who did the action, not the object.</li><li><b>have</b> (verb (present tense)): 'Have' is the base form or present tense for plural subjects. It does not match the singular subject or the past tense required.</li></ul><b>Related structure or vocabulary:</b> Simple Past Tense: Subject + past tense verb (for actions completed in the past). 'The family' is a collective noun and usually takes a singular verb in American English.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002106",
+        "questionNumber": 18,
+        "questionText": "Where _______ you stay in London?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was",
+            "raw": "A. was",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "were",
+            "raw": "B. were",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "are",
+            "raw": "C. are",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "did",
+            "raw": "D. did",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question 'Where _______ you stay in London?' is asking about a past event, specifically where someone stayed during their time in London. In English, when forming questions about past actions, we use the auxiliary verb 'did' followed by the base form of the main verb. Therefore, the correct answer is 'did'.<br><ul><li><b>was</b> (verb (past tense of 'to be')): 'Was' is the past tense of 'to be' used with singular subjects. It is not used to form questions about actions with 'you'.</li><li><b>were</b> (verb (past tense of 'to be')): 'Were' is the past tense of 'to be' used with plural subjects or 'you'. However, it is not used to form questions about actions like 'stay'.</li><li><b>are</b> (verb (present tense of 'to be')): 'Are' is the present tense of 'to be', used for present situations, not for past events.</li><li><b>did</b> (auxiliary verb (past simple question)): 'Did' is the auxiliary verb used to form questions in the past simple tense. It is followed by the base form of the main verb.</li></ul><b>Related structure or vocabulary:</b> Past Simple Question Structure: Did + subject + base verb...? Example: Did you stay in London?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi 'Where _______ you stay in London?' đang hỏi về một sự kiện đã xảy ra trong quá khứ, cụ thể là bạn đã ở đâu khi ở London. Trong tiếng Anh, khi đặt câu hỏi về hành động trong quá khứ, ta sử dụng trợ động từ 'did' và động từ chính ở dạng nguyên thể. Vì vậy, đáp án đúng là 'did'.<br><ul><li><b>was</b> (động từ (quá khứ của 'to be')): 'Was' là thì quá khứ của động từ 'to be', dùng cho chủ ngữ số ít. Không dùng để đặt câu hỏi về hành động với 'you'.</li><li><b>were</b> (động từ (quá khứ của 'to be')): 'Were' là thì quá khứ của 'to be', dùng cho chủ ngữ số nhiều hoặc 'you'. Tuy nhiên, không dùng để đặt câu hỏi về hành động như 'stay'.</li><li><b>are</b> (động từ (hiện tại của 'to be')): 'Are' là thì hiện tại của 'to be', dùng cho các tình huống hiện tại, không dùng cho quá khứ.</li><li><b>did</b> (trợ động từ (câu hỏi thì quá khứ đơn)): 'Did' là trợ động từ dùng để đặt câu hỏi ở thì quá khứ đơn. Sau 'did' là động từ nguyên thể.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi thì quá khứ đơn: Did + chủ ngữ + động từ nguyên thể...? Ví dụ: Did you stay in London?<br><br><b>Tạm dịch:</b> Bạn đã ở đâu khi ở London?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question 'Where _______ you stay in London?' is asking about a past event, specifically where someone stayed during their time in London. In English, when forming questions about past actions, we use the auxiliary verb 'did' followed by the base form of the main verb. Therefore, the correct answer is 'did'.<br><ul><li><b>was</b> (verb (past tense of 'to be')): 'Was' is the past tense of 'to be' used with singular subjects. It is not used to form questions about actions with 'you'.</li><li><b>were</b> (verb (past tense of 'to be')): 'Were' is the past tense of 'to be' used with plural subjects or 'you'. However, it is not used to form questions about actions like 'stay'.</li><li><b>are</b> (verb (present tense of 'to be')): 'Are' is the present tense of 'to be', used for present situations, not for past events.</li><li><b>did</b> (auxiliary verb (past simple question)): 'Did' is the auxiliary verb used to form questions in the past simple tense. It is followed by the base form of the main verb.</li></ul><b>Related structure or vocabulary:</b> Past Simple Question Structure: Did + subject + base verb...? Example: Did you stay in London?<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002107",
+        "questionNumber": 19,
+        "questionText": "She ____________ a new car last week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "bought",
+            "raw": "A. bought",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "buy",
+            "raw": "B. buy",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "buys",
+            "raw": "C. buys",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "was buy",
+            "raw": "D. was buy",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She ____________ a new car last week.' requires a verb in the past simple tense because the time expression 'last week' indicates a completed action in the past. In English, the past simple form of 'buy' is 'bought'.<br><ul><li><b>bought</b> (verb (past simple)): Past simple form of 'buy', used for actions completed in the past.</li><li><b>buy</b> (verb (base form)): Base form (infinitive) of the verb, not correct for past simple tense.</li><li><b>buys</b> (verb (present simple)): Present simple form, used for third person singular in the present.</li><li><b>was buy</b> (auxiliary verb + base form (incorrect)): Incorrect form; 'was' should be followed by the present participle (buying) for past continuous, not the base form.</li></ul><b>Related structure or vocabulary:</b> Past simple tense is used to describe actions that happened and finished in the past. Time expressions like 'last week', 'yesterday', 'ago' often signal the use of past simple.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'She ____________ a new car last week.' cần một động từ ở thì quá khứ đơn vì 'last week' (tuần trước) là dấu hiệu của một hành động đã hoàn thành trong quá khứ. Động từ 'buy' ở thì quá khứ đơn là 'bought'.<br><ul><li><b>bought</b> (động từ (quá khứ đơn)): Dạng quá khứ đơn của 'buy', dùng cho hành động đã hoàn thành trong quá khứ.</li><li><b>buy</b> (động từ (nguyên thể)): Dạng nguyên thể của động từ, không phù hợp với thì quá khứ đơn.</li><li><b>buys</b> (động từ (hiện tại đơn)): Dạng hiện tại đơn, dùng cho ngôi thứ ba số ít ở hiện tại.</li><li><b>was buy</b> (trợ động từ + động từ nguyên thể (sai)): Dạng sai; 'was' phải đi với V-ing (buying) để thành thì quá khứ tiếp diễn, không dùng với nguyên thể.</li></ul><b>Cấu trúc và từ vựng:</b> Thì quá khứ đơn dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ. Các trạng từ chỉ thời gian như 'last week', 'yesterday', 'ago' thường báo hiệu dùng thì quá khứ đơn.<br><br><b>Tạm dịch:</b> Cô ấy đã mua một chiếc xe hơi mới vào tuần trước.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'She ____________ a new car last week.' requires a verb in the past simple tense because the time expression 'last week' indicates a completed action in the past. In English, the past simple form of 'buy' is 'bought'.<br><ul><li><b>bought</b> (verb (past simple)): Past simple form of 'buy', used for actions completed in the past.</li><li><b>buy</b> (verb (base form)): Base form (infinitive) of the verb, not correct for past simple tense.</li><li><b>buys</b> (verb (present simple)): Present simple form, used for third person singular in the present.</li><li><b>was buy</b> (auxiliary verb + base form (incorrect)): Incorrect form; 'was' should be followed by the present participle (buying) for past continuous, not the base form.</li></ul><b>Related structure or vocabulary:</b> Past simple tense is used to describe actions that happened and finished in the past. Time expressions like 'last week', 'yesterday', 'ago' often signal the use of past simple.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204d67ed1bfab7a5b002108",
+        "questionNumber": 20,
+        "questionText": "What did they ______ in the aquarium?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "see",
+            "raw": "A. see",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "were see",
+            "raw": "B. were see",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "saw",
+            "raw": "C. saw",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "seeing",
+            "raw": "D. seeing",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What did they ______ in the aquarium?' requires the base form of the verb (bare infinitive) after the auxiliary verb 'did' in a past simple question. In English, when forming questions in the past simple tense, we use 'did' + subject + base verb.<br><ul><li><b>see</b> (verb (bare infinitive)): Base form of the verb 'to see', used after 'did' in past simple questions.</li><li><b>were see</b> (auxiliary verb + base verb (incorrect combination)): Incorrect structure; 'were' is a past form of 'to be' and cannot be used with the base form 'see' in this context.</li><li><b>saw</b> (verb (past simple)): Past simple form of 'see'. Not used after 'did' because 'did' already indicates the past tense.</li><li><b>seeing</b> (verb (V-ing)): Present participle or gerund form of 'see'. Not used after 'did' in past simple questions.</li></ul><b>Related structure or vocabulary:</b> Structure: Did + subject + base verb (bare infinitive) + ...? Example: What did you eat for breakfast?<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu hỏi 'What did they ______ in the aquarium?' cần điền động từ nguyên thể không 'to' (bare infinitive) sau trợ động từ 'did' trong câu hỏi thì quá khứ đơn. Trong tiếng Anh, khi đặt câu hỏi ở thì quá khứ đơn, ta dùng cấu trúc 'did' + chủ ngữ + động từ nguyên thể.<br><ul><li><b>see</b> (động từ nguyên thể (bare infinitive)): Động từ nguyên thể của 'to see', dùng sau 'did' trong câu hỏi thì quá khứ đơn.</li><li><b>were see</b> (trợ động từ + động từ nguyên thể (kết hợp sai)): Cấu trúc sai; 'were' là động từ to be ở thì quá khứ, không thể đi với động từ nguyên thể 'see' trong trường hợp này.</li><li><b>saw</b> (động từ (quá khứ đơn)): Động từ 'see' ở thì quá khứ đơn. Không dùng sau 'did' vì 'did' đã mang nghĩa quá khứ.</li><li><b>seeing</b> (động từ (V-ing)): Dạng V-ing (hiện tại phân từ/động danh từ) của 'see'. Không dùng sau 'did' trong câu hỏi thì quá khứ đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: Did + chủ ngữ + động từ nguyên thể (bare infinitive) + ...? Ví dụ: What did you eat for breakfast?<br><br><b>Tạm dịch:</b> Câu hỏi: What did they see in the aquarium? --> Họ đã nhìn thấy gì trong bể cá?",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the question 'What did they ______ in the aquarium?' requires the base form of the verb (bare infinitive) after the auxiliary verb 'did' in a past simple question. In English, when forming questions in the past simple tense, we use 'did' + subject + base verb.<br><ul><li><b>see</b> (verb (bare infinitive)): Base form of the verb 'to see', used after 'did' in past simple questions.</li><li><b>were see</b> (auxiliary verb + base verb (incorrect combination)): Incorrect structure; 'were' is a past form of 'to be' and cannot be used with the base form 'see' in this context.</li><li><b>saw</b> (verb (past simple)): Past simple form of 'see'. Not used after 'did' because 'did' already indicates the past tense.</li><li><b>seeing</b> (verb (V-ing)): Present participle or gerund form of 'see'. Not used after 'did' in past simple questions.</li></ul><b>Related structure or vocabulary:</b> Structure: Did + subject + base verb (bare infinitive) + ...? Example: What did you eat for breakfast?<br><br>"
+      }
+    }
+  ]
+}

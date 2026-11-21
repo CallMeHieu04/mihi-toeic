@@ -1,0 +1,1594 @@
+{
+  "topicId": "613f227d65d71f3a51f621b8",
+  "title": "Part 3: Conversations - Test 9",
+  "totalCards": 13,
+  "totalQuestions": 39,
+  "data": [
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f6232b",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0301.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> W: Hello, Mr. Penn. <b> Q1 I wanted to ask about changing my work hours.</b> I will be entering university starting next month and my availability is going to change. <br>M: Well, Naml, we really value you as a hard-working employee at this restaurant, so I want you to continue working here. What do you think your schedule will be? <br>W: Thank you for saying so. <b> Q2 I haven’t registered for classes yet, so I’m not completely sure.</b><br>M: I see. <b> Q3 Once you find out, please let me know.</b> I’m sure we can figure something out so that you can attend university and continue working here.",
+      "transcriptViHtml": "<b>Transcript:</b><br> W: Xin chào, ông Penn. <b> Q1 Tôi muốn xin phép thay đổi giờ làm việc của mình.</b> Tôi sẽ vào đại học bắt đầu từ tháng tới và thời gian rảnh của tôi sẽ thay đổi. <br> M: Chà, Naml, chúng tôi thực sự đánh giá cô như một nhân viên chăm chỉ tại nhà hàng này, vì vậy tôi mong là cô có thể tiếp tục làm việc ở đây. Cô nghĩ lịch trình của cô sẽ như thế nào? <br> W: Cảm ơn ông lời động viên của ông. <b> Q2 Tôi vẫn chưa đăng ký lớp học, vì vậy tôi không chắc chắn lắm.</b><br> M: Tôi hiểu rồi. <b> Q3 Khi cô sắp xếp xong lịch trình thì hãy cho tôi biết nhé.</b> Tôi chắc chắn chúng ta có thể tìm ra cách để cô có thể vừa theo học đại học và vừa tiếp tục làm việc ở đây.",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f62338",
+          "questionNumber": 1,
+          "questionText": "What is the woman requesting?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0301.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Time off from work",
+              "raw": "(A) Time off from work",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A recommendation letter",
+              "raw": "(B) A recommendation letter",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A schedule change",
+              "raw": "(C) A schedule change",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A pay raise",
+              "raw": "(D) A pay raise",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Xin chào, ông Penn. <b> Q1 Tôi muốn xin phép thay đổi giờ làm việc của mình.</b> Tôi sẽ vào đại học bắt đầu từ tháng tới và thời gian rảnh của tôi sẽ thay đổi. <br> M: Chà, Naml, chúng tôi thực sự đánh giá cô như một nhân viên chăm chỉ tại nhà hàng này, vì vậy tôi mong là cô có thể tiếp tục làm việc ở đây. Cô nghĩ lịch trình của cô sẽ như thế nào? <br> W: Cảm ơn ông lời động viên của ông. <b> Q2 Tôi vẫn chưa đăng ký lớp học, vì vậy tôi không chắc chắn lắm.</b><br> M: Tôi hiểu rồi. <b> Q3 Khi cô sắp xếp xong lịch trình thì hãy cho tôi biết nhé.</b> Tôi chắc chắn chúng ta có thể tìm ra cách để cô có thể vừa theo học đại học và vừa tiếp tục làm việc ở đây.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62339",
+          "questionNumber": 2,
+          "questionText": "Why is the woman unsure about the man’s question?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0301.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "She wants to quit her job.",
+              "raw": "(A) She wants to quit her job.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "She is waiting for her exam results.",
+              "raw": "(B) She is waiting for her exam results.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "She got a job offer from another restaurant.",
+              "raw": "(C) She got a job offer from another restaurant.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She has not registered for classes.",
+              "raw": "(D) She has not registered for classes.",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Xin chào, ông Penn. <b> Q1 Tôi muốn xin phép thay đổi giờ làm việc của mình.</b> Tôi sẽ vào đại học bắt đầu từ tháng tới và thời gian rảnh của tôi sẽ thay đổi. <br> M: Chà, Naml, chúng tôi thực sự đánh giá cô như một nhân viên chăm chỉ tại nhà hàng này, vì vậy tôi mong là cô có thể tiếp tục làm việc ở đây. Cô nghĩ lịch trình của cô sẽ như thế nào? <br> W: Cảm ơn ông lời động viên của ông. <b> Q2 Tôi vẫn chưa đăng ký lớp học, vì vậy tôi không chắc chắn lắm.</b><br> M: Tôi hiểu rồi. <b> Q3 Khi cô sắp xếp xong lịch trình thì hãy cho tôi biết nhé.</b> Tôi chắc chắn chúng ta có thể tìm ra cách để cô có thể vừa theo học đại học và vừa tiếp tục làm việc ở đây.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6233a",
+          "questionNumber": 3,
+          "questionText": "What does the man ask the woman to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0301.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Work overtime this week",
+              "raw": "(A) Work overtime this week",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Inform him about her availability",
+              "raw": "(B) Inform him about her availability",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Recommend her acquaintance",
+              "raw": "(C) Recommend her acquaintance",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Create a new menu design",
+              "raw": "(D) Create a new menu design",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Xin chào, ông Penn. <b> Q1 Tôi muốn xin phép thay đổi giờ làm việc của mình.</b> Tôi sẽ vào đại học bắt đầu từ tháng tới và thời gian rảnh của tôi sẽ thay đổi. <br> M: Chà, Naml, chúng tôi thực sự đánh giá cô như một nhân viên chăm chỉ tại nhà hàng này, vì vậy tôi mong là cô có thể tiếp tục làm việc ở đây. Cô nghĩ lịch trình của cô sẽ như thế nào? <br> W: Cảm ơn ông lời động viên của ông. <b> Q2 Tôi vẫn chưa đăng ký lớp học, vì vậy tôi không chắc chắn lắm.</b><br> M: Tôi hiểu rồi. <b> Q3 Khi cô sắp xếp xong lịch trình thì hãy cho tôi biết nhé.</b> Tôi chắc chắn chúng ta có thể tìm ra cách để cô có thể vừa theo học đại học và vừa tiếp tục làm việc ở đây.",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f6232c",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0302.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> M: Hello, my name is Jordan Briggs. <b> Q1 I’ll be getting married next week and we are looking for someone to photograph our wedding.</b> A friend of mine showed me photographs you took and I was really impressed. <br>W: Thanks for calling me, Mr. Briggs. What type of photographs are you interested in exactly? <br>M: Well, we would want you to take photographs of everything including the guests, the food, the ceremony, and the after-party. <b> Q2 How much would that cost?</b><br>W: Well, it could be quite expensive. <b> Q3 In order to photograph the event that extensively, I would need to hire two or three assistants.</b>",
+      "transcriptViHtml": "<b>Transcript:</b><br> M: Xin chào, tôi là Jordan Briggs. <b> Q1 Tôi sẽ kết hôn vào tuần tới và chúng tôi đang tìm một nhiếp ảnh gia chụp ảnh cưới.</b> Một người bạn của tôi đã cho tôi xem những bức ảnh cô chụp và tôi thực sự ấn tượng. <br> W: Cảm ơn anh đã gọi cho tôi, anh Briggs. Chính xác thì anh quan tâm đến loại ảnh nào? <br> M: Vâng, chúng tôi muốn anh chụp ảnh mọi thứ bao gồm khách mời, đồ ăn, buổi lễ và tiệc sau đó. <b> Q2 Chi phí cho việc chụp ảnh như thế là bao nhiêu?</b><br> W: Vâng, có thể khá tốn kém. <b> Q3 Để chụp ảnh bao quát sự kiện như vậy, tôi sẽ cần thuê hai hoặc ba trợ lý.</b>",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f6233b",
+          "questionNumber": 4,
+          "questionText": "Why is the man calling?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0302.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To order a product",
+              "raw": "(A) To order a product",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To postpone an appointment",
+              "raw": "(B) To postpone an appointment",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To book a wedding hall",
+              "raw": "(C) To book a wedding hall",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To hire a photographer",
+              "raw": "(D) To hire a photographer",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Xin chào, tôi là Jordan Briggs. <b> Q1 Tôi sẽ kết hôn vào tuần tới và chúng tôi đang tìm một nhiếp ảnh gia chụp ảnh cưới.</b> Một người bạn của tôi đã cho tôi xem những bức ảnh cô chụp và tôi thực sự ấn tượng. <br> W: Cảm ơn anh đã gọi cho tôi, anh Briggs. Chính xác thì anh quan tâm đến loại ảnh nào? <br> M: Vâng, chúng tôi muốn anh chụp ảnh mọi thứ bao gồm khách mời, đồ ăn, buổi lễ và tiệc sau đó. <b> Q2 Chi phí cho việc chụp ảnh như thế là bao nhiêu?</b><br> W: Vâng, có thể khá tốn kém. <b> Q3 Để chụp ảnh bao quát sự kiện như vậy, tôi sẽ cần thuê hai hoặc ba trợ lý.</b>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6233c",
+          "questionNumber": 5,
+          "questionText": "What does the man inquire about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0302.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A price quote",
+              "raw": "(A) A price quote",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "A product sample",
+              "raw": "(B) A product sample",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A list of employees",
+              "raw": "(C) A list of employees",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "An event schedule",
+              "raw": "(D) An event schedule",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Xin chào, tôi là Jordan Briggs. <b> Q1 Tôi sẽ kết hôn vào tuần tới và chúng tôi đang tìm một nhiếp ảnh gia chụp ảnh cưới.</b> Một người bạn của tôi đã cho tôi xem những bức ảnh cô chụp và tôi thực sự ấn tượng. <br> W: Cảm ơn anh đã gọi cho tôi, anh Briggs. Chính xác thì anh quan tâm đến loại ảnh nào? <br> M: Vâng, chúng tôi muốn anh chụp ảnh mọi thứ bao gồm khách mời, đồ ăn, buổi lễ và tiệc sau đó. <b> Q2 Chi phí cho việc chụp ảnh như thế là bao nhiêu?</b><br> W: Vâng, có thể khá tốn kém. <b> Q3 Để chụp ảnh bao quát sự kiện như vậy, tôi sẽ cần thuê hai hoặc ba trợ lý.</b>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6233d",
+          "questionNumber": 6,
+          "questionText": "Why does the woman say the service might be quite expensive?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0302.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Her services are in high demand.",
+              "raw": "(A) Her services are in high demand.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "She will need additional staff.",
+              "raw": "(B) She will need additional staff.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "She uses high-end equipment.",
+              "raw": "(C) She uses high-end equipment.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "She has to meet a tight deadline",
+              "raw": "(D) She has to meet a tight deadline",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Xin chào, tôi là Jordan Briggs. <b> Q1 Tôi sẽ kết hôn vào tuần tới và chúng tôi đang tìm một nhiếp ảnh gia chụp ảnh cưới.</b> Một người bạn của tôi đã cho tôi xem những bức ảnh cô chụp và tôi thực sự ấn tượng. <br> W: Cảm ơn anh đã gọi cho tôi, anh Briggs. Chính xác thì anh quan tâm đến loại ảnh nào? <br> M: Vâng, chúng tôi muốn anh chụp ảnh mọi thứ bao gồm khách mời, đồ ăn, buổi lễ và tiệc sau đó. <b> Q2 Chi phí cho việc chụp ảnh như thế là bao nhiêu?</b><br> W: Vâng, có thể khá tốn kém. <b> Q3 Để chụp ảnh bao quát sự kiện như vậy, tôi sẽ cần thuê hai hoặc ba trợ lý.</b>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f6232d",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0303.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> M: We will have a new quality control Inspector joining our staff as of tomorrow.<b> Q1 His name is Nathan Gates and he’ll be examining products for any defects before being shipped.</b><br>W: I’m glad to hear that. We have had a lot of customers returning defective items lately. It’s not good for our company’s image and reputation. <br>M: <b> Q2 When he comes to work tomorrow, please introduce him to everyone in the factory.</b><br>W: Sure, I will. <b> Q3 I’ll also make sure to give him all the proper safety gear he needs to wear inside the factory.</b>",
+      "transcriptViHtml": "<b>Transcript:</b><br> M: Sẽ có một Thanh tra kiểm soát chất lượng mới gia nhập đội ngũ nhân viên của chúng ta kể từ ngày mai. <b> Q1 Tên anh ấy là Nathan Gates và anh ấy sẽ kiểm tra các sản phẩm để rà soát lỗi trước khi được vận chuyển.</b><br> W: Tôi rất vui khi nghe điều đó. Gần đây, có rất nhiều khách hàng hoàn trả lại các sản phẩm bị lỗi. Điều này không tốt cho hình ảnh và danh tiếng của công ty chúng ta. <br> M: <b> Q2 Khi anh ấy đến làm việc vào ngày mai, vui lòng giới thiệu anh ấy với mọi người trong nhà máy nhé.</b><br> W: Chắc chắn rồi, tôi sẽ làm vậy. <b> Q3 Tôi cũng sẽ đảm bảo cung cấp cho anh ấy tất cả các thiết bị bảo hộ phù hợp để mặc bên trong nhà máy.</b>",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f6233e",
+          "questionNumber": 7,
+          "questionText": "Who is Nathan Gates?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0303.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A sales clerk",
+              "raw": "(A) A sales clerk",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A customer",
+              "raw": "(B) A customer",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A private detective",
+              "raw": "(C) A private detective",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A product inspector",
+              "raw": "(D) A product inspector",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Sẽ có một Thanh tra kiểm soát chất lượng mới gia nhập đội ngũ nhân viên của chúng ta kể từ ngày mai. <b> Q1 Tên anh ấy là Nathan Gates và anh ấy sẽ kiểm tra các sản phẩm để rà soát lỗi trước khi được vận chuyển.</b><br> W: Tôi rất vui khi nghe điều đó. Gần đây, có rất nhiều khách hàng hoàn trả lại các sản phẩm bị lỗi. Điều này không tốt cho hình ảnh và danh tiếng của công ty chúng ta. <br> M: <b> Q2 Khi anh ấy đến làm việc vào ngày mai, vui lòng giới thiệu anh ấy với mọi người trong nhà máy nhé.</b><br> W: Chắc chắn rồi, tôi sẽ làm vậy. <b> Q3 Tôi cũng sẽ đảm bảo cung cấp cho anh ấy tất cả các thiết bị bảo hộ phù hợp để mặc bên trong nhà máy.</b>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6233f",
+          "questionNumber": 8,
+          "questionText": "What does the man ask the woman to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0303.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Run a training session",
+              "raw": "(A) Run a training session",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Enforce safety measures",
+              "raw": "(B) Enforce safety measures",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Introduce a new employee",
+              "raw": "(C) Introduce a new employee",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Inspect a construction site",
+              "raw": "(D) Inspect a construction site",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Sẽ có một Thanh tra kiểm soát chất lượng mới gia nhập đội ngũ nhân viên của chúng ta kể từ ngày mai. <b> Q1 Tên anh ấy là Nathan Gates và anh ấy sẽ kiểm tra các sản phẩm để rà soát lỗi trước khi được vận chuyển.</b><br> W: Tôi rất vui khi nghe điều đó. Gần đây, có rất nhiều khách hàng hoàn trả lại các sản phẩm bị lỗi. Điều này không tốt cho hình ảnh và danh tiếng của công ty chúng ta. <br> M: <b> Q2 Khi anh ấy đến làm việc vào ngày mai, vui lòng giới thiệu anh ấy với mọi người trong nhà máy nhé.</b><br> W: Chắc chắn rồi, tôi sẽ làm vậy. <b> Q3 Tôi cũng sẽ đảm bảo cung cấp cho anh ấy tất cả các thiết bị bảo hộ phù hợp để mặc bên trong nhà máy.</b>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62340",
+          "questionNumber": 9,
+          "questionText": "What will the woman give Mr. Gates?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0303.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A training manual",
+              "raw": "(A)  A training manual",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Safety gear",
+              "raw": "(B) Safety gear",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "A work schedule",
+              "raw": "(C) A work schedule",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "An identification card",
+              "raw": "(D) An identification card",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Sẽ có một Thanh tra kiểm soát chất lượng mới gia nhập đội ngũ nhân viên của chúng ta kể từ ngày mai. <b> Q1 Tên anh ấy là Nathan Gates và anh ấy sẽ kiểm tra các sản phẩm để rà soát lỗi trước khi được vận chuyển.</b><br> W: Tôi rất vui khi nghe điều đó. Gần đây, có rất nhiều khách hàng hoàn trả lại các sản phẩm bị lỗi. Điều này không tốt cho hình ảnh và danh tiếng của công ty chúng ta. <br> M: <b> Q2 Khi anh ấy đến làm việc vào ngày mai, vui lòng giới thiệu anh ấy với mọi người trong nhà máy nhé.</b><br> W: Chắc chắn rồi, tôi sẽ làm vậy. <b> Q3 Tôi cũng sẽ đảm bảo cung cấp cho anh ấy tất cả các thiết bị bảo hộ phù hợp để mặc bên trong nhà máy.</b>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f6232e",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0304.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> M:  We finally were able to pump all of the water from the basement today. <b> Q1 Unfortunately, a lot of our inventory was damaged by the water.</b><br>W: <b> Q2 I’ve never seen a flood occur so fast like that.</b> Because of the damaged inventory, we won’t be able to be open for a few days. <br>M: Well, at least it didn’t happen over the weekend when no one was in the office. The damage could have been much worse. <br>W: That’s true. <b> Q3 I heard from our supplier and they said they can restock our storage room this Friday.</b> I guess we’ll just have to wait patiently until then.",
+      "transcriptViHtml": "<b>Transcript:</b><br> M: Cuối cùng hôm nay chúng ta đã có thể bơm hết nước từ tầng hầm. <b> Q1 Thật không may, rất nhiều hàng tồn kho của chúng ta đã bị nước làm hỏng.</b><br> W: <b> Q2 Tôi chưa bao giờ thấy nước dâng lên nhanh như vậy.</b> Vì hàng tồn kho bị hư hỏng, chúng ta sẽ không thể mở cửa trong vài ngày. <br> M: Vâng, ít nhất thì nó còn không xảy ra vào cuối tuần khi không có ai ở văn phòng. Thiệt hại có thể còn tệ hơn nhiều. <br> W: Đúng vậy. <b> Q3 Nhà cung cấp nói rằng họ có thể bổ sung hàng hoá cho kho của chúng ta vào thứ sáu này.</b> Tôi đoán chúng ta sẽ phải kiên nhẫn chờ đợi cho đến lúc đó.",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f62341",
+          "questionNumber": 10,
+          "questionText": "What problem are the speakers discussing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0304.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Unsatisfied customers",
+              "raw": "(A) Unsatisfied customers",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "An unexpected drop in sales",
+              "raw": "(B) An unexpected drop in sales",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Damaged inventory",
+              "raw": "(C) Damaged inventory",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A delayed shipment",
+              "raw": "(D) A delayed shipment",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Cuối cùng hôm nay chúng ta đã có thể bơm hết nước từ tầng hầm. <b> Q1 Thật không may, rất nhiều hàng tồn kho của chúng ta đã bị nước làm hỏng.</b><br> W: <b> Q2 Tôi chưa bao giờ thấy nước dâng lên nhanh như vậy.</b> Vì hàng tồn kho bị hư hỏng, chúng ta sẽ không thể mở cửa trong vài ngày. <br> M: Vâng, ít nhất thì nó còn không xảy ra vào cuối tuần khi không có ai ở văn phòng. Thiệt hại có thể còn tệ hơn nhiều. <br> W: Đúng vậy. <b> Q3 Nhà cung cấp nói rằng họ có thể bổ sung hàng hoá cho kho của chúng ta vào thứ sáu này.</b> Tôi đoán chúng ta sẽ phải kiên nhẫn chờ đợi cho đến lúc đó.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62342",
+          "questionNumber": 11,
+          "questionText": "What caused the problem?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0304.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "An electrical fire",
+              "raw": "(A) An electrical fire",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A burst water pipe",
+              "raw": "(B) A burst water pipe",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A sudden flood",
+              "raw": "(C) A sudden flood",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A gas leak",
+              "raw": "(D) A gas leak",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Cuối cùng hôm nay chúng ta đã có thể bơm hết nước từ tầng hầm. <b> Q1 Thật không may, rất nhiều hàng tồn kho của chúng ta đã bị nước làm hỏng.</b><br> W: <b> Q2 Tôi chưa bao giờ thấy nước dâng lên nhanh như vậy.</b> Vì hàng tồn kho bị hư hỏng, chúng ta sẽ không thể mở cửa trong vài ngày. <br> M: Vâng, ít nhất thì nó còn không xảy ra vào cuối tuần khi không có ai ở văn phòng. Thiệt hại có thể còn tệ hơn nhiều. <br> W: Đúng vậy. <b> Q3 Nhà cung cấp nói rằng họ có thể bổ sung hàng hoá cho kho của chúng ta vào thứ sáu này.</b> Tôi đoán chúng ta sẽ phải kiên nhẫn chờ đợi cho đến lúc đó.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62343",
+          "questionNumber": 12,
+          "questionText": "What will happen on Friday?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0304.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Construction will be completed.",
+              "raw": "(A) Construction will be completed.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Stock prices will increase.",
+              "raw": "(B) Stock prices will increase.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A shipment will arrive.",
+              "raw": "(C) A shipment will arrive.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A supplier will be changed.",
+              "raw": "(D) A supplier will be changed.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Cuối cùng hôm nay chúng ta đã có thể bơm hết nước từ tầng hầm. <b> Q1 Thật không may, rất nhiều hàng tồn kho của chúng ta đã bị nước làm hỏng.</b><br> W: <b> Q2 Tôi chưa bao giờ thấy nước dâng lên nhanh như vậy.</b> Vì hàng tồn kho bị hư hỏng, chúng ta sẽ không thể mở cửa trong vài ngày. <br> M: Vâng, ít nhất thì nó còn không xảy ra vào cuối tuần khi không có ai ở văn phòng. Thiệt hại có thể còn tệ hơn nhiều. <br> W: Đúng vậy. <b> Q3 Nhà cung cấp nói rằng họ có thể bổ sung hàng hoá cho kho của chúng ta vào thứ sáu này.</b> Tôi đoán chúng ta sẽ phải kiên nhẫn chờ đợi cho đến lúc đó.",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f6232f",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0305.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> M: <b> Q1 Next week at Harrison University, Charlie Klein will be conducting an introductory lecture on creative writing. It’s open to the public and it isn’t very expensive.</b><br>W: Charlie Klein? <b> Q2 Doesn’t he currently have a book on the bestseller list?</b> I heard his stories are very moving and powerful. I’d like to attend it. <br>M: Yes. I recently bought one of his books and was really impressed. That’s why I don’t want to miss this opportunity to learn from him. Would you like to read it before the lecture? <br>W: Sure. <b> Q3 I’ll stop by your home tomorrow and pick up the book from you.</b> Thanks for letting me know.",
+      "transcriptViHtml": "<b>Transcript:</b><br> M: <b> Q1 Tuần tới tại Đại học Harrison, Charlie Klein sẽ có bài giảng về sáng tác văn học. Bài giảng diễn ra công khai và giá vé cũng không quá đắt.</b><br>W: Charlie Klein? <b> Q2 Không phải ông ấy hiện đang có một cuốn sách nằm trong danh sách bán chạy nhất sao?</b> Tôi nghe nói những câu chuyện của ông ấy rất cảm động và mạnh mẽ. Tôi muốn nghe bài giảng của ông ấy. <br>M: Đúng thế. Tôi vừa mua một trong những cuốn sách của ông ấy và thực sự ấn tượng. Đó là lý do tại sao tôi không muốn bỏ lỡ cơ hội học hỏi từ ông ấy. Cô có muốn đọc cuốn sách trước buổi thuyết giảng không? <br>W: Chắc chắn rồi. <b> Q3 Ngày mai tôi sẽ ghé qua nhà anh và lấy sách.</b> Cảm ơn anh đã cho tôi biết nhé.",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f62344",
+          "questionNumber": 13,
+          "questionText": "What are the speakers discussing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0305.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "public lecture",
+              "raw": "(A)  public lecture",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "An upcoming exam",
+              "raw": "(B) An upcoming exam",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A graduation requirement",
+              "raw": "(C) A graduation requirement",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A recent publishing trend",
+              "raw": "(D) A recent publishing trend",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: <b> Q1 Tuần tới tại Đại học Harrison, Charlie Klein sẽ có bài giảng về sáng tác văn học. Bài giảng diễn ra công khai và giá vé cũng không quá đắt.</b><br>W: Charlie Klein? <b> Q2 Không phải ông ấy hiện đang có một cuốn sách nằm trong danh sách bán chạy nhất sao?</b> Tôi nghe nói những câu chuyện của ông ấy rất cảm động và mạnh mẽ. Tôi muốn nghe bài giảng của ông ấy. <br>M: Đúng thế. Tôi vừa mua một trong những cuốn sách của ông ấy và thực sự ấn tượng. Đó là lý do tại sao tôi không muốn bỏ lỡ cơ hội học hỏi từ ông ấy. Cô có muốn đọc cuốn sách trước buổi thuyết giảng không? <br>W: Chắc chắn rồi. <b> Q3 Ngày mai tôi sẽ ghé qua nhà anh và lấy sách.</b> Cảm ơn anh đã cho tôi biết nhé.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62345",
+          "questionNumber": 14,
+          "questionText": "Who is Charlie Klein?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0305.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A scientist",
+              "raw": "(A) A scientist",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "An inventor",
+              "raw": "(B) An inventor",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A professor",
+              "raw": "(C) A professor",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A writer",
+              "raw": "(D) A writer",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: <b> Q1 Tuần tới tại Đại học Harrison, Charlie Klein sẽ có bài giảng về sáng tác văn học. Bài giảng diễn ra công khai và giá vé cũng không quá đắt.</b><br>W: Charlie Klein? <b> Q2 Không phải ông ấy hiện đang có một cuốn sách nằm trong danh sách bán chạy nhất sao?</b> Tôi nghe nói những câu chuyện của ông ấy rất cảm động và mạnh mẽ. Tôi muốn nghe bài giảng của ông ấy. <br>M: Đúng thế. Tôi vừa mua một trong những cuốn sách của ông ấy và thực sự ấn tượng. Đó là lý do tại sao tôi không muốn bỏ lỡ cơ hội học hỏi từ ông ấy. Cô có muốn đọc cuốn sách trước buổi thuyết giảng không? <br>W: Chắc chắn rồi. <b> Q3 Ngày mai tôi sẽ ghé qua nhà anh và lấy sách.</b> Cảm ơn anh đã cho tôi biết nhé.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62346",
+          "questionNumber": 15,
+          "questionText": "Why is the woman planning to visit the man tomorrow?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0305.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To return an item",
+              "raw": "(A) To return an item",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "To borrow a book",
+              "raw": "(B) To borrow a book",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "To meet Mr. Klein",
+              "raw": "(C) To meet Mr. Klein",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To sign up for a course",
+              "raw": "(D) To sign up for a course",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: <b> Q1 Tuần tới tại Đại học Harrison, Charlie Klein sẽ có bài giảng về sáng tác văn học. Bài giảng diễn ra công khai và giá vé cũng không quá đắt.</b><br>W: Charlie Klein? <b> Q2 Không phải ông ấy hiện đang có một cuốn sách nằm trong danh sách bán chạy nhất sao?</b> Tôi nghe nói những câu chuyện của ông ấy rất cảm động và mạnh mẽ. Tôi muốn nghe bài giảng của ông ấy. <br>M: Đúng thế. Tôi vừa mua một trong những cuốn sách của ông ấy và thực sự ấn tượng. Đó là lý do tại sao tôi không muốn bỏ lỡ cơ hội học hỏi từ ông ấy. Cô có muốn đọc cuốn sách trước buổi thuyết giảng không? <br>W: Chắc chắn rồi. <b> Q3 Ngày mai tôi sẽ ghé qua nhà anh và lấy sách.</b> Cảm ơn anh đã cho tôi biết nhé.",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f62330",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0306.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> W: I saw an advertisement on the subway today for back pain relief at Frank Logan Hospital. The advertisement offers a free consultation to assess a patient’s situation and suggest a course of treatment. I’m thinking of going. <br>M: <b> Q1 Actually, I was treated by Dr. Moran at the hospital for back pain last year.</b>  After five years of enduring the pain, my pain was drastically reduced under the care of Dr. Moran. In addition to medication, he showed me some useful stretching exercises. I really recommend seeing him. <br>W: You’re right. I shouldn’t hesitate anymore. <b> Q2 My work is disrupted by my back pain almost every day.</b><br>M: <b> Q3 If you would like, I can give you the number for Dr. Moran’s office.</b> That way you can set up an appointment with him directly.",
+      "transcriptViHtml": "<b>Transcript:</b><br> W: Hôm nay tôi thấy một quảng cáo trên tàu điện ngầm về việc giảm đau lưng tại Bệnh viện Frank Logan. Quảng cáo cung cấp dịch vụ tư vấn miễn phí để đánh giá tình trạng của bệnh nhân và đề xuất liệu trình điều trị. Tôi đang nghĩ đến việc đi khám. <br>M: <b> Q1 Thực ra, tôi đã được Bác sĩ Moran điều trị đau lưng tại bệnh viện vào năm ngoái.</b> Sau năm năm chịu đựng cơn đau, bệnh của tôi đã giảm đáng kể dưới sự chăm sóc của Bác sĩ Moran. Ngoài việc dùng thuốc, ông ấy còn chỉ cho tôi một số bài tập giãn cơ hữu ích. Tôi thực sự khuyên cô nên đến gặp ông ấy. <br>W: Anh nói đúng. Tôi không nên chần chừ nữa. <b> Q2 Công việc của tôi bị gián đoạn do đau lưng hầu như mỗi ngày.</b><br>M: <b> Q3 Nếu cô muốn, tôi có thể cho cô số điện thoại của phòng khám Bác sĩ Moran.</b> Bằng cách đó, cô có thể đặt lịch hẹn trực tiếp với ông ấy.",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f62347",
+          "questionNumber": 16,
+          "questionText": "Who is Dr. Moran?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0306.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "A university professor",
+              "raw": "(A) A university professor",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A patient",
+              "raw": "(B) A patient",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "A pharmacist",
+              "raw": "(C) A pharmacist",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "A medical practitioner",
+              "raw": "(D) A medical practitioner",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Hôm nay tôi thấy một quảng cáo trên tàu điện ngầm về việc giảm đau lưng tại Bệnh viện Frank Logan. Quảng cáo cung cấp dịch vụ tư vấn miễn phí để đánh giá tình trạng của bệnh nhân và đề xuất liệu trình điều trị. Tôi đang nghĩ đến việc đi khám. <br>M: <b> Q1 Thực ra, tôi đã được Bác sĩ Moran điều trị đau lưng tại bệnh viện vào năm ngoái.</b> Sau năm năm chịu đựng cơn đau, bệnh của tôi đã giảm đáng kể dưới sự chăm sóc của Bác sĩ Moran. Ngoài việc dùng thuốc, ông ấy còn chỉ cho tôi một số bài tập giãn cơ hữu ích. Tôi thực sự khuyên cô nên đến gặp ông ấy. <br>W: Anh nói đúng. Tôi không nên chần chừ nữa. <b> Q2 Công việc của tôi bị gián đoạn do đau lưng hầu như mỗi ngày.</b><br>M: <b> Q3 Nếu cô muốn, tôi có thể cho cô số điện thoại của phòng khám Bác sĩ Moran.</b> Bằng cách đó, cô có thể đặt lịch hẹn trực tiếp với ông ấy.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62348",
+          "questionNumber": 17,
+          "questionText": "What problem does the woman mention?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0306.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "An incorrect diagnosis",
+              "raw": "(A) An incorrect diagnosis",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "A family problem",
+              "raw": "(B) A family problem",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Persistent pain",
+              "raw": "(C) Persistent pain",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "An outstanding balance",
+              "raw": "(D) An outstanding balance",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Hôm nay tôi thấy một quảng cáo trên tàu điện ngầm về việc giảm đau lưng tại Bệnh viện Frank Logan. Quảng cáo cung cấp dịch vụ tư vấn miễn phí để đánh giá tình trạng của bệnh nhân và đề xuất liệu trình điều trị. Tôi đang nghĩ đến việc đi khám. <br>M: <b> Q1 Thực ra, tôi đã được Bác sĩ Moran điều trị đau lưng tại bệnh viện vào năm ngoái.</b> Sau năm năm chịu đựng cơn đau, bệnh của tôi đã giảm đáng kể dưới sự chăm sóc của Bác sĩ Moran. Ngoài việc dùng thuốc, ông ấy còn chỉ cho tôi một số bài tập giãn cơ hữu ích. Tôi thực sự khuyên cô nên đến gặp ông ấy. <br>W: Anh nói đúng. Tôi không nên chần chừ nữa. <b> Q2 Công việc của tôi bị gián đoạn do đau lưng hầu như mỗi ngày.</b><br>M: <b> Q3 Nếu cô muốn, tôi có thể cho cô số điện thoại của phòng khám Bác sĩ Moran.</b> Bằng cách đó, cô có thể đặt lịch hẹn trực tiếp với ông ấy.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62349",
+          "questionNumber": 18,
+          "questionText": "What does the man offer to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0306.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Provide contact information",
+              "raw": "(A) Provide contact information",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Drive the woman to the hospital",
+              "raw": "(B) Drive the woman to the hospital",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Set up an appointment",
+              "raw": "(C) Set up an appointment",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Offer a free consultation",
+              "raw": "(D) Offer a free consultation",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Hôm nay tôi thấy một quảng cáo trên tàu điện ngầm về việc giảm đau lưng tại Bệnh viện Frank Logan. Quảng cáo cung cấp dịch vụ tư vấn miễn phí để đánh giá tình trạng của bệnh nhân và đề xuất liệu trình điều trị. Tôi đang nghĩ đến việc đi khám. <br>M: <b> Q1 Thực ra, tôi đã được Bác sĩ Moran điều trị đau lưng tại bệnh viện vào năm ngoái.</b> Sau năm năm chịu đựng cơn đau, bệnh của tôi đã giảm đáng kể dưới sự chăm sóc của Bác sĩ Moran. Ngoài việc dùng thuốc, ông ấy còn chỉ cho tôi một số bài tập giãn cơ hữu ích. Tôi thực sự khuyên cô nên đến gặp ông ấy. <br>W: Anh nói đúng. Tôi không nên chần chừ nữa. <b> Q2 Công việc của tôi bị gián đoạn do đau lưng hầu như mỗi ngày.</b><br>M: <b> Q3 Nếu cô muốn, tôi có thể cho cô số điện thoại của phòng khám Bác sĩ Moran.</b> Bằng cách đó, cô có thể đặt lịch hẹn trực tiếp với ông ấy.",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f62331",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0307.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> M:  Sarah, I need your help. <b> Q1 There is something wrong with the phone transfer software.</b><br>W: What exactly is the problem? <br>M: I can’t get through to Human Resources and Accounting. When I try to call through to them I just hear a strange noise and then the phone just goes silent. <br>W: Oh. They are on a different version now I think. <b> Q2 You might need to update your software so it’s compatible with theirs.</b><br>M: Oh... Yeah, I haven’t updated for over a year. <br>W: That is definitely the problem then. <b> Q3 I will send you the link for a free upgrade and you shouldn’t have any more problems.</b><br>M: Great! Thanks, Sarah!",
+      "transcriptViHtml": "<b>Transcript:</b><br> M: Sarah, tôi cần cô giúp. <b> Q1 Có vấn đề gì đó với phần mềm chuyển cuộc gọi.</b><br> W: Vấn đề chính xác là gì? <br> M: Tôi không thể liên lạc được với phòng Nhân sự và Kế toán. Khi tôi cố gọi cho họ, tôi chỉ nghe thấy một tiếng động lạ và sau đó điện thoại im lặng. <br> W: Ồ. Tôi nghĩ là họ đang sử dụng phiên bản khác rồi. <b> Q2 Có thể anh cần cập nhật phần mềm của mình để tương thích với phần mềm của họ.</b><br> M: Ồ... Vâng, tôi đã không cập nhật trong hơn một năm. <br> W: Vậy thì đó chắc chắn là vấn đề rồi. <b> Q3 Tôi sẽ gửi cho anh link nâng cấp miễn phí và anh sẽ không gặp bất kỳ vấn đề nào nữa.</b><br> M: Tuyệt vời! Cảm ơn, Sarah!",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f6234a",
+          "questionNumber": 19,
+          "questionText": "What is the man concerned about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0307.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "The messaging system",
+              "raw": "(A) The messaging system",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Cell phone reception",
+              "raw": "(B) Cell phone reception",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Phone transfer software",
+              "raw": "(C) Phone transfer software",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "A new computer system",
+              "raw": "(D) A new computer system",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Sarah, tôi cần cô giúp. <b> Q1 Có vấn đề gì đó với phần mềm chuyển cuộc gọi.</b><br> W: Vấn đề chính xác là gì? <br> M: Tôi không thể liên lạc được với phòng Nhân sự và Kế toán. Khi tôi cố gọi cho họ, tôi chỉ nghe thấy một tiếng động lạ và sau đó điện thoại im lặng. <br> W: Ồ. Tôi nghĩ là họ đang sử dụng phiên bản khác rồi. <b> Q2 Có thể anh cần cập nhật phần mềm của mình để tương thích với phần mềm của họ.</b><br> M: Ồ... Vâng, tôi đã không cập nhật trong hơn một năm. <br> W: Vậy thì đó chắc chắn là vấn đề rồi. <b> Q3 Tôi sẽ gửi cho anh link nâng cấp miễn phí và anh sẽ không gặp bất kỳ vấn đề nào nữa.</b><br> M: Tuyệt vời! Cảm ơn, Sarah!",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6234b",
+          "questionNumber": 20,
+          "questionText": "What does the woman suggest?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0307.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Deleting all his hardware",
+              "raw": "(A) Deleting all his hardware",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Get a new computer",
+              "raw": "(B) Get a new computer",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Download a movie",
+              "raw": "(C) Download a movie",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Upgrade his software",
+              "raw": "(D) Upgrade his software",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Sarah, tôi cần cô giúp. <b> Q1 Có vấn đề gì đó với phần mềm chuyển cuộc gọi.</b><br> W: Vấn đề chính xác là gì? <br> M: Tôi không thể liên lạc được với phòng Nhân sự và Kế toán. Khi tôi cố gọi cho họ, tôi chỉ nghe thấy một tiếng động lạ và sau đó điện thoại im lặng. <br> W: Ồ. Tôi nghĩ là họ đang sử dụng phiên bản khác rồi. <b> Q2 Có thể anh cần cập nhật phần mềm của mình để tương thích với phần mềm của họ.</b><br> M: Ồ... Vâng, tôi đã không cập nhật trong hơn một năm. <br> W: Vậy thì đó chắc chắn là vấn đề rồi. <b> Q3 Tôi sẽ gửi cho anh link nâng cấp miễn phí và anh sẽ không gặp bất kỳ vấn đề nào nữa.</b><br> M: Tuyệt vời! Cảm ơn, Sarah!",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6234c",
+          "questionNumber": 21,
+          "questionText": "What does the woman say she will do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0307.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Send him a link for a free upgrade",
+              "raw": "(A) Send him a link for a free upgrade",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Upgrade his phone model",
+              "raw": "(B) Upgrade his phone model",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Revise the schedule",
+              "raw": "(C) Revise the schedule",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Check with the management",
+              "raw": "(D) Check with the management",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Sarah, tôi cần cô giúp. <b> Q1 Có vấn đề gì đó với phần mềm chuyển cuộc gọi.</b><br> W: Vấn đề chính xác là gì? <br> M: Tôi không thể liên lạc được với phòng Nhân sự và Kế toán. Khi tôi cố gọi cho họ, tôi chỉ nghe thấy một tiếng động lạ và sau đó điện thoại im lặng. <br> W: Ồ. Tôi nghĩ là họ đang sử dụng phiên bản khác rồi. <b> Q2 Có thể anh cần cập nhật phần mềm của mình để tương thích với phần mềm của họ.</b><br> M: Ồ... Vâng, tôi đã không cập nhật trong hơn một năm. <br> W: Vậy thì đó chắc chắn là vấn đề rồi. <b> Q3 Tôi sẽ gửi cho anh link nâng cấp miễn phí và anh sẽ không gặp bất kỳ vấn đề nào nữa.</b><br> M: Tuyệt vời! Cảm ơn, Sarah!",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f62332",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0308.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> M: I’m concerned about the output of some of our machinery. <b> Q1 Production has slowed by 8% since June. I think there must be a problem with the software. </b> We are losing money over this, and I’m not sure who to ask about it. <br>W: We had it repaired once in the past but it was so expensive we ended up just buying a new one. Now it Is slowing down as well. Do you think we should just replace the machine again? <br>M: <b> Q2 Yeah, it doesn’t make sense to keep going like this.</b><br>W: <b> Q3 I’ll call the machine repair shop and get a quote on the repairs and we can decide what to do.</b><br>M: OK, but let’s get it done as quickly as possible please.",
+      "transcriptViHtml": "<b>Transcript:</b><br> M: Tôi lo ngại về công suất hoạt động của một số máy móc của chúng ta. <b> Q1 Công suất đã chậm lại 8% kể từ tháng 6. Tôi nghĩ rằng có vấn đề với phần mềm. </b> Vấn đề này đang gây thất thoát tiền bạc và tôi không biết tìm phương án giải quyết như thế nào. <br> W: Nó đã được sửa một lần trong quá khứ nhưng vì chi phí quá đắt nên chúng ta đã mua một cái mới. Bây giờ máy móc cũng đang hoạt động chậm lại. Bạn có nghĩ rằng chúng ta nên thay thế máy một lần nữa không? <br> M: <b> Q2 Chà, thật vô nghĩa khi cứ tiếp tục như thế này.</b><br> W: <b> Q3 Tôi sẽ gọi đến cửa hàng sửa chữa máy móc và nhận báo giá về việc sửa chữa rồi chúng ta có thể quyết định phải làm gì.</b><br> M: Được, nhưng hãy quyết định việc này càng nhanh càng tốt.",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f6234d",
+          "questionNumber": 22,
+          "questionText": "What is the man worried about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0308.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Buying new software",
+              "raw": "(A) Buying new software",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "The production rate of the machine",
+              "raw": "(B) The production rate of the machine",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Finding a repair shop",
+              "raw": "(C) Finding a repair shop",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "An increase in production",
+              "raw": "(D) An increase in production",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Tôi lo ngại về công suất hoạt động của một số máy móc của chúng ta. <b> Q1 Công suất đã chậm lại 8% kể từ tháng 6. Tôi nghĩ rằng có vấn đề với phần mềm. </b> Vấn đề này đang gây thất thoát tiền bạc và tôi không biết tìm phương án giải quyết như thế nào. <br> W: Nó đã được sửa một lần trong quá khứ nhưng vì chi phí quá đắt nên chúng ta đã mua một cái mới. Bây giờ máy móc cũng đang hoạt động chậm lại. Bạn có nghĩ rằng chúng ta nên thay thế máy một lần nữa không? <br> M: <b> Q2 Chà, thật vô nghĩa khi cứ tiếp tục như thế này.</b><br> W: <b> Q3 Tôi sẽ gọi đến cửa hàng sửa chữa máy móc và nhận báo giá về việc sửa chữa rồi chúng ta có thể quyết định phải làm gì.</b><br> M: Được, nhưng hãy quyết định việc này càng nhanh càng tốt.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6234e",
+          "questionNumber": 23,
+          "questionText": "What does the man imply when he says “It doesn’t make sense to keep going like this”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0308.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He wants to take action immediately.",
+              "raw": "(A) He wants to take action immediately.",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "He wants to continue business as usual,",
+              "raw": "(B) He wants to continue business as usual,",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "He wants to repair the software.",
+              "raw": "(C) He wants to repair the software.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He doesn’t agree with the woman.",
+              "raw": "(D) He doesn’t agree with the woman.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Tôi lo ngại về công suất hoạt động của một số máy móc của chúng ta. <b> Q1 Công suất đã chậm lại 8% kể từ tháng 6. Tôi nghĩ rằng có vấn đề với phần mềm. </b> Vấn đề này đang gây thất thoát tiền bạc và tôi không biết tìm phương án giải quyết như thế nào. <br> W: Nó đã được sửa một lần trong quá khứ nhưng vì chi phí quá đắt nên chúng ta đã mua một cái mới. Bây giờ máy móc cũng đang hoạt động chậm lại. Bạn có nghĩ rằng chúng ta nên thay thế máy một lần nữa không? <br> M: <b> Q2 Chà, thật vô nghĩa khi cứ tiếp tục như thế này.</b><br> W: <b> Q3 Tôi sẽ gọi đến cửa hàng sửa chữa máy móc và nhận báo giá về việc sửa chữa rồi chúng ta có thể quyết định phải làm gì.</b><br> M: Được, nhưng hãy quyết định việc này càng nhanh càng tốt.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6234f",
+          "questionNumber": 24,
+          "questionText": "What does the woman say she will do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0308.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Call the software engineer",
+              "raw": "(A) Call the software engineer",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Contact the IT department",
+              "raw": "(B) Contact the IT department",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Call the machine repair shop",
+              "raw": "(C) Call the machine repair shop",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Buy new software",
+              "raw": "(D) Buy new software",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Tôi lo ngại về công suất hoạt động của một số máy móc của chúng ta. <b> Q1 Công suất đã chậm lại 8% kể từ tháng 6. Tôi nghĩ rằng có vấn đề với phần mềm. </b> Vấn đề này đang gây thất thoát tiền bạc và tôi không biết tìm phương án giải quyết như thế nào. <br> W: Nó đã được sửa một lần trong quá khứ nhưng vì chi phí quá đắt nên chúng ta đã mua một cái mới. Bây giờ máy móc cũng đang hoạt động chậm lại. Bạn có nghĩ rằng chúng ta nên thay thế máy một lần nữa không? <br> M: <b> Q2 Chà, thật vô nghĩa khi cứ tiếp tục như thế này.</b><br> W: <b> Q3 Tôi sẽ gọi đến cửa hàng sửa chữa máy móc và nhận báo giá về việc sửa chữa rồi chúng ta có thể quyết định phải làm gì.</b><br> M: Được, nhưng hãy quyết định việc này càng nhanh càng tốt.",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f62333",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0309.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> W: Hey Joe! <b> Q1 How did your presentation go last weekend?</b><br>M: It was great! We sold a lot of books after the seminar. <br>W: <b> Q2 Wow, sounds like you’ve really made it!</b> So what are your plans for the future? <br>M: <b> Q3 I’m writing another book now that is due for release next year, so I will just continue doing seminars and trying to get more exposure.</b><br>W: Excellent. If you need any help, let me know. I have a few connections in the publishing industry.",
+      "transcriptViHtml": "<b>Transcript:</b><br> W: Này Joe! <b> Q1 Bài thuyết trình của anh vào cuối tuần trước thế nào?</b><br>M: Rất tuyệt! Chúng tôi đã bán được rất nhiều sách sau buổi hội thảo. <br>W: <b> Q2 Chà, nghe có vẻ như anh thực sự đã thành công!</b> Kế hoạch cho tương lai của anh là gì? <br>M: <b> Q3 Tôi đang viết một cuốn sách khác dự kiến phát hành vào năm sau, vì vậy tôi sẽ tiếp tục tổ chức các buổi hội thảo và cố gắng tiếp cận nhiều độc giả hơn.</b><br>W: Tuyệt vời. Nếu anh cần bất kỳ sự trợ giúp nào, hãy cho tôi biết. Tôi có một vài mối quan hệ trong ngành xuất bản. ",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f62350",
+          "questionNumber": 25,
+          "questionText": "What did the man do last weekend?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0309.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Went to a conference",
+              "raw": "(A) Went to a conference",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Finished his sales reports",
+              "raw": "(B) Finished his sales reports",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Gave a presentation",
+              "raw": "(C) Gave a presentation",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Visited his family",
+              "raw": "(D) Visited his family",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Này Joe! <b> Q1 Bài thuyết trình của anh vào cuối tuần trước thế nào?</b><br>M: Rất tuyệt! Chúng tôi đã bán được rất nhiều sách sau buổi hội thảo. <br>W: <b> Q2 Chà, nghe có vẻ như anh thực sự đã thành công!</b> Kế hoạch cho tương lai của anh là gì? <br>M: <b> Q3 Tôi đang viết một cuốn sách khác dự kiến phát hành vào năm sau, vì vậy tôi sẽ tiếp tục tổ chức các buổi hội thảo và cố gắng tiếp cận nhiều độc giả hơn.</b><br>W: Tuyệt vời. Nếu anh cần bất kỳ sự trợ giúp nào, hãy cho tôi biết. Tôi có một vài mối quan hệ trong ngành xuất bản. ",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62351",
+          "questionNumber": 26,
+          "questionText": "What does the woman imply when she says “Wow, sounds like you’ve really made it!”?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0309.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He failed at succeeding.",
+              "raw": "(A) He failed at succeeding.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "He has been successful with his presentation.",
+              "raw": "(B) He has been successful with his presentation.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "His presentation was not popular.",
+              "raw": "(C) His presentation was not popular.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "His book sold well.",
+              "raw": "(D) His book sold well.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Này Joe! <b> Q1 Bài thuyết trình của anh vào cuối tuần trước thế nào?</b><br>M: Rất tuyệt! Chúng tôi đã bán được rất nhiều sách sau buổi hội thảo. <br>W: <b> Q2 Chà, nghe có vẻ như anh thực sự đã thành công!</b> Kế hoạch cho tương lai của anh là gì? <br>M: <b> Q3 Tôi đang viết một cuốn sách khác dự kiến phát hành vào năm sau, vì vậy tôi sẽ tiếp tục tổ chức các buổi hội thảo và cố gắng tiếp cận nhiều độc giả hơn.</b><br>W: Tuyệt vời. Nếu anh cần bất kỳ sự trợ giúp nào, hãy cho tôi biết. Tôi có một vài mối quan hệ trong ngành xuất bản. ",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62352",
+          "questionNumber": 27,
+          "questionText": "What does the man plan on doing next year?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0309.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Retire from writing",
+              "raw": "(A) Retire from writing",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Move to another country",
+              "raw": "(B) Move to another country",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Have a child with his wife",
+              "raw": "(C) Have a child with his wife",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Release another book",
+              "raw": "(D) Release another book",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Này Joe! <b> Q1 Bài thuyết trình của anh vào cuối tuần trước thế nào?</b><br>M: Rất tuyệt! Chúng tôi đã bán được rất nhiều sách sau buổi hội thảo. <br>W: <b> Q2 Chà, nghe có vẻ như anh thực sự đã thành công!</b> Kế hoạch cho tương lai của anh là gì? <br>M: <b> Q3 Tôi đang viết một cuốn sách khác dự kiến phát hành vào năm sau, vì vậy tôi sẽ tiếp tục tổ chức các buổi hội thảo và cố gắng tiếp cận nhiều độc giả hơn.</b><br>W: Tuyệt vời. Nếu anh cần bất kỳ sự trợ giúp nào, hãy cho tôi biết. Tôi có một vài mối quan hệ trong ngành xuất bản. ",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f62334",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0310.mp3",
+      "imageUrl": "",
+      "passageHtml": "",
+      "transcriptHtml": "<b>Transcript:</b><br> M1:  Hi, Mrs. Kraft? This is Logan from Yellow Bank Realtors. <b> Q1 I am calling about some problems with the apartment you will be renting in the Swiss Tower Building.</b> Let me put you through to our manager and he will tell you. <br>W: Okay, I’ll wait. <br>M2:  Hi, Mrs. Kraft. <b> Q2 They are having some renovations done at the Swiss Tower Building so we need to change your move-in date to the end of October.</b> Will that be okay with you? <br>W: Well... not really. I will have nowhere to live, and it’s far too expensive to stay in a hotel. <br>M2: OK. <b> Q3 We will be happy to pay for your hotel expenses until you can move into the apartment. </b> I’m really sorry for the inconvenience. We only found out about this today. <br>W: That sounds fine.",
+      "transcriptViHtml": "<b>Transcript:</b><br> M1: Xin chào bà Kraft? Tôi là Logan từ Yellow Bank Realtors. <b> Q1 Tôi gọi vì một số vấn đề của căn hộ mà bà sẽ thuê tại Tòa nhà Swiss Tower.</b> Để tôi chuyển máy cho bà và người quản lý của chúng tôi sẽ trao đổi trực tiếp với bà. <br> W: Được, tôi sẽ đợi máy. <br> M2: Xin chào, bà Kraft. <b> Q2 Tòa nhà Swiss Tower đang được cải tạo nên ngày chuyển vào căn hộ của bà sẽ phải đổi sang cuối tháng 10.</b> Bà có đồng ý không? <br> W: Ồ... thực ra thì không. Tôi sẽ không có nơi nào để ở, và ở khách sạn thì quá đắt đỏ. <br> M2: Đừng lo. <b> Q3 Chúng tôi sẵn lòng thanh toán chi phí khách sạn cho bà cho đến khi bà có thể chuyển vào căn hộ. </b> Tôi thực sự xin lỗi vì sự bất tiện này. Chúng tôi cũng chỉ mới biết về sự thay đổi này trong hôm nay. <br> W: Tôi thấy như vậy cũng ổn.",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f62353",
+          "questionNumber": 28,
+          "questionText": "Why most likely is the man calling?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0310.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To discuss an issue with the apartment",
+              "raw": "(A) To discuss an issue with the apartment",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "To offer a lower rental price",
+              "raw": "(B) To offer a lower rental price",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "To negotiate a contract",
+              "raw": "(C) To negotiate a contract",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "To make an appointment",
+              "raw": "(D) To make an appointment",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M1: Xin chào bà Kraft? Tôi là Logan từ Yellow Bank Realtors. <b> Q1 Tôi gọi vì một số vấn đề của căn hộ mà bà sẽ thuê tại Tòa nhà Swiss Tower.</b> Để tôi chuyển máy cho bà và người quản lý của chúng tôi sẽ trao đổi trực tiếp với bà. <br> W: Được, tôi sẽ đợi máy. <br> M2: Xin chào, bà Kraft. <b> Q2 Tòa nhà Swiss Tower đang được cải tạo nên ngày chuyển vào căn hộ của bà sẽ phải đổi sang cuối tháng 10.</b> Bà có đồng ý không? <br> W: Ồ... thực ra thì không. Tôi sẽ không có nơi nào để ở, và ở khách sạn thì quá đắt đỏ. <br> M2: Đừng lo. <b> Q3 Chúng tôi sẵn lòng thanh toán chi phí khách sạn cho bà cho đến khi bà có thể chuyển vào căn hộ. </b> Tôi thực sự xin lỗi vì sự bất tiện này. Chúng tôi cũng chỉ mới biết về sự thay đổi này trong hôm nay. <br> W: Tôi thấy như vậy cũng ổn.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62354",
+          "questionNumber": 29,
+          "questionText": "What does the man say about the Swiss Tower Building?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0310.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It is too far away from her office.",
+              "raw": "(A) It is too far away from her office.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "It is being renovated at the moment.",
+              "raw": "(B) It is being renovated at the moment.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "It is being closed down.",
+              "raw": "(C) It is being closed down.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "It is located close to a dry cleaner.",
+              "raw": "(D) It is located close to a dry cleaner.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M1: Xin chào bà Kraft? Tôi là Logan từ Yellow Bank Realtors. <b> Q1 Tôi gọi vì một số vấn đề của căn hộ mà bà sẽ thuê tại Tòa nhà Swiss Tower.</b> Để tôi chuyển máy cho bà và người quản lý của chúng tôi sẽ trao đổi trực tiếp với bà. <br> W: Được, tôi sẽ đợi máy. <br> M2: Xin chào, bà Kraft. <b> Q2 Tòa nhà Swiss Tower đang được cải tạo nên ngày chuyển vào căn hộ của bà sẽ phải đổi sang cuối tháng 10.</b> Bà có đồng ý không? <br> W: Ồ... thực ra thì không. Tôi sẽ không có nơi nào để ở, và ở khách sạn thì quá đắt đỏ. <br> M2: Đừng lo. <b> Q3 Chúng tôi sẵn lòng thanh toán chi phí khách sạn cho bà cho đến khi bà có thể chuyển vào căn hộ. </b> Tôi thực sự xin lỗi vì sự bất tiện này. Chúng tôi cũng chỉ mới biết về sự thay đổi này trong hôm nay. <br> W: Tôi thấy như vậy cũng ổn.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62355",
+          "questionNumber": 30,
+          "questionText": "What does the man offer the woman?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0310.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "To give her a lower rental price",
+              "raw": "(A) To give her a lower rental price",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Extend the lease",
+              "raw": "(B) Extend the lease",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Pay for her hotel costs",
+              "raw": "(C)  Pay for her hotel costs",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Arrange to move her furniture",
+              "raw": "(D) Arrange to move her furniture",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M1: Xin chào bà Kraft? Tôi là Logan từ Yellow Bank Realtors. <b> Q1 Tôi gọi vì một số vấn đề của căn hộ mà bà sẽ thuê tại Tòa nhà Swiss Tower.</b> Để tôi chuyển máy cho bà và người quản lý của chúng tôi sẽ trao đổi trực tiếp với bà. <br> W: Được, tôi sẽ đợi máy. <br> M2: Xin chào, bà Kraft. <b> Q2 Tòa nhà Swiss Tower đang được cải tạo nên ngày chuyển vào căn hộ của bà sẽ phải đổi sang cuối tháng 10.</b> Bà có đồng ý không? <br> W: Ồ... thực ra thì không. Tôi sẽ không có nơi nào để ở, và ở khách sạn thì quá đắt đỏ. <br> M2: Đừng lo. <b> Q3 Chúng tôi sẵn lòng thanh toán chi phí khách sạn cho bà cho đến khi bà có thể chuyển vào căn hộ. </b> Tôi thực sự xin lỗi vì sự bất tiện này. Chúng tôi cũng chỉ mới biết về sự thay đổi này trong hôm nay. <br> W: Tôi thấy như vậy cũng ổn.",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f62335",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0311.mp3",
+      "imageUrl": "",
+      "passageHtml": "@PS@/estudyme/legacy-data/kstoeic/images/2550649_1564545882838.png@PE@",
+      "transcriptHtml": "<b>Transcript:</b><br> W: OK, sir.<b> Q1 This suit comes up to $385. Would you like to pay cash or card?</b><br>M: I have a gift certificate here for a 10% discount. Wait, I can’t find it... OK, here it is. <br>W: Thank you, sir... Hmm, unfortunately, you won’t be able to use this with this suit. <br>M: <b> Q2 Ah-I see the problem. Well, I need some more dress pants for work; do you mind if I go and pick some items out so I can use my gift certificate? </b><br>W: Of course, sir. Please follow me. <b> Q3 I will help you pick out some pants I think will suit you well.</b> ",
+      "transcriptViHtml": "<b>Transcript:</b><br> W: Vâng, thưa ông. <b> Q1 Bộ vest này có giá là 385 đô la. Ông muốn trả bằng tiền mặt hay thẻ?</b><br>M: Tôi có một phiếu quà tặng giảm giá 10% ở đây. Chờ chút, tôi không tìm thấy nó... Vâng, nó đây rồi. <br>W: Cảm ơn ông, thưa ông... Ồ, thật không may, ông sẽ không thể sử dụng nó với bộ vest này. <br>M: <b> Q2 À - Tôi hiểu vấn đề rồi. Chà, tôi cần thêm một số quần âu để đi làm; cô có phiền nếu tôi chọn thêm một số món đồ để tôi có thể sử dụng phiếu quà tặng của mình không?</b><br>W: Tất nhiên rồi, thưa ông. Vui lòng đi theo tôi. <b> Q3 Tôi sẽ giúp ông chọn một vài chiếc quần mà tôi nghĩ là sẽ hợp với ông.</b>",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f62356",
+          "questionNumber": 31,
+          "questionText": "What is the woman doing?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0311.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Giving away free suits",
+              "raw": "(A) Giving away free suits",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Helping a customer",
+              "raw": "(B) Helping a customer",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Updating software",
+              "raw": "(C) Updating software",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Celebrating with friends",
+              "raw": "(D) Celebrating with friends",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Vâng, thưa ông. <b> Q1 Bộ vest này có giá là 385 đô la. Ông muốn trả bằng tiền mặt hay thẻ?</b><br>M: Tôi có một phiếu quà tặng giảm giá 10% ở đây. Chờ chút, tôi không tìm thấy nó... Vâng, nó đây rồi. <br>W: Cảm ơn ông, thưa ông... Ồ, thật không may, ông sẽ không thể sử dụng nó với bộ vest này. <br>M: <b> Q2 À - Tôi hiểu vấn đề rồi. Chà, tôi cần thêm một số quần âu để đi làm; cô có phiền nếu tôi chọn thêm một số món đồ để tôi có thể sử dụng phiếu quà tặng của mình không?</b><br>W: Tất nhiên rồi, thưa ông. Vui lòng đi theo tôi. <b> Q3 Tôi sẽ giúp ông chọn một vài chiếc quần mà tôi nghĩ là sẽ hợp với ông.</b>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62357",
+          "questionNumber": 32,
+          "questionText": "Look at the graphic. Why is the gift certificate rejected?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0311.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "It is expired.",
+              "raw": "(A)  It is expired.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Because he is in the wrong store.",
+              "raw": "(B) Because he is in the wrong store.",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Because he didn’t purchase enough.",
+              "raw": "(C) Because he didn’t purchase enough.",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "The certificate is damaged.",
+              "raw": "(D) The certificate is damaged.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Vâng, thưa ông. <b> Q1 Bộ vest này có giá là 385 đô la. Ông muốn trả bằng tiền mặt hay thẻ?</b><br>M: Tôi có một phiếu quà tặng giảm giá 10% ở đây. Chờ chút, tôi không tìm thấy nó... Vâng, nó đây rồi. <br>W: Cảm ơn ông, thưa ông... Ồ, thật không may, ông sẽ không thể sử dụng nó với bộ vest này. <br>M: <b> Q2 À - Tôi hiểu vấn đề rồi. Chà, tôi cần thêm một số quần âu để đi làm; cô có phiền nếu tôi chọn thêm một số món đồ để tôi có thể sử dụng phiếu quà tặng của mình không?</b><br>W: Tất nhiên rồi, thưa ông. Vui lòng đi theo tôi. <b> Q3 Tôi sẽ giúp ông chọn một vài chiếc quần mà tôi nghĩ là sẽ hợp với ông.</b>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f62358",
+          "questionNumber": 33,
+          "questionText": "What does the woman offer to do?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0311.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Give him another certificate",
+              "raw": "(A) Give him another certificate",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Help him try on a suit",
+              "raw": "(B) Help him try on a suit",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Show him some pants",
+              "raw": "(C) Show him some pants",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Give him a refund",
+              "raw": "(D) Give him a refund",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Vâng, thưa ông. <b> Q1 Bộ vest này có giá là 385 đô la. Ông muốn trả bằng tiền mặt hay thẻ?</b><br>M: Tôi có một phiếu quà tặng giảm giá 10% ở đây. Chờ chút, tôi không tìm thấy nó... Vâng, nó đây rồi. <br>W: Cảm ơn ông, thưa ông... Ồ, thật không may, ông sẽ không thể sử dụng nó với bộ vest này. <br>M: <b> Q2 À - Tôi hiểu vấn đề rồi. Chà, tôi cần thêm một số quần âu để đi làm; cô có phiền nếu tôi chọn thêm một số món đồ để tôi có thể sử dụng phiếu quà tặng của mình không?</b><br>W: Tất nhiên rồi, thưa ông. Vui lòng đi theo tôi. <b> Q3 Tôi sẽ giúp ông chọn một vài chiếc quần mà tôi nghĩ là sẽ hợp với ông.</b>",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f62336",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0312.mp3",
+      "imageUrl": "",
+      "passageHtml": "<table align =\"center\"  width=\"90%\" width=\"90%\" border=1 cellspacing=0 cellpadding=0  style=border-collapse:collapse > <tr> <td colspan=\"2\" align =\"center\"> <h3>  Nutrition Information </h3> <p> <b>Serving Size: 1 Rounded Scoop (29.4g) </p> </b> </td></tr><tr><td align =\"center\"><b>  Calories </b> </td><td align =\"center\"> <b> 120 </td></tr><tr><td align =\"center\"> Fat </b> </td><td align =\"center\"> 10 grams </td></tr><tr><td align =\"center\">Carbohydrate </td><td align =\"center\"> 3 grams</td></tr><tr><td align =\"center\"> Protein </td><td align =\"center\"> 24 grams </td></tr><tr><td align =\"center\"> Calcium </td><td align =\"center\"> 10% </td></tr><tr> <td colspan=\"2\" align =\"center\"> Contains milk and soy products </td></tr> </table>",
+      "transcriptHtml": "<b>Transcript:</b><br> M: Excuse me? <b> Q1 I’ve just started a new exercise program and my trainer told me I should buy some protein powder to have after I work out.</b> Most importantly, I need something that is high in protein, but doesn’t have a lot of carbohydrates. Do you have anything you can recommend? <br>W:  We have a wide variety of protein powders, but there is one I particularly like the taste of. It is a protein drink made from milk and soy. <br>M:  Oh... <b> Q2 Actually, I’m lactose intolerant. Are there any other options?</b><br>W: <b> Q3 I suggest you purchase a powder that is only soy-based. </b> You won’t have any problems with that.",
+      "transcriptViHtml": "<b>Transcript:</b><br> M: Xin lỗi? <b> Q1 Tôi vừa mới bắt đầu tham gia vào một chương trình tập luyện mới và huấn luyện viên của tôi bảo tôi nên mua một ít bột protein để dùng sau khi tập luyện.</b> Quan trọng nhất là tôi cần thứ gì đó giàu protein nhưng không có nhiều carbohydrate. Cô có thể giới thiệu cho tôi một sản phẩm nào đó không? <br> W: Chúng tôi có nhiều loại bột protein, nhưng có một loại mà tôi đặc biệt yêu thích. Đó là thức uống protein làm từ sữa và đậu nành. <br> M: Ồ... <b> Q2 Thực ra, tôi không dung nạp lactose. Có lựa chọn nào khác không?</b><br> W: <b> Q3 Tôi khuyên anh nên mua loại bột chỉ có đậu nành.</b> Anh sẽ không gặp vấn đề gì với các sản phẩm như vậy đâu.",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f62359",
+          "questionNumber": 34,
+          "questionText": "Why is the man looking for a certain product?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0312.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "He stopped working out.",
+              "raw": "(A) He stopped working out.",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "His trainer told him to.",
+              "raw": "(B) His trainer told him to.",
+              "isCorrect": true
+            },
+            {
+              "letter": "C",
+              "text": "Because he is a trainer.",
+              "raw": "(C) Because he is a trainer.",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "He had a favorite brand.",
+              "raw": "(D) He had a favorite brand.",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "B",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Xin lỗi? <b> Q1 Tôi vừa mới bắt đầu tham gia vào một chương trình tập luyện mới và huấn luyện viên của tôi bảo tôi nên mua một ít bột protein để dùng sau khi tập luyện.</b> Quan trọng nhất là tôi cần thứ gì đó giàu protein nhưng không có nhiều carbohydrate. Cô có thể giới thiệu cho tôi một sản phẩm nào đó không? <br> W: Chúng tôi có nhiều loại bột protein, nhưng có một loại mà tôi đặc biệt yêu thích. Đó là thức uống protein làm từ sữa và đậu nành. <br> M: Ồ... <b> Q2 Thực ra, tôi không dung nạp lactose. Có lựa chọn nào khác không?</b><br> W: <b> Q3 Tôi khuyên anh nên mua loại bột chỉ có đậu nành.</b> Anh sẽ không gặp vấn đề gì với các sản phẩm như vậy đâu.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6235a",
+          "questionNumber": 35,
+          "questionText": "Look at the graphic. Which ingredient is the man worried about?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0312.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Carbohydrate",
+              "raw": "(A) Carbohydrate",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Fat",
+              "raw": "(B) Fat",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Milk",
+              "raw": "(C) Milk",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Protein",
+              "raw": "(D) Protein",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Xin lỗi? <b> Q1 Tôi vừa mới bắt đầu tham gia vào một chương trình tập luyện mới và huấn luyện viên của tôi bảo tôi nên mua một ít bột protein để dùng sau khi tập luyện.</b> Quan trọng nhất là tôi cần thứ gì đó giàu protein nhưng không có nhiều carbohydrate. Cô có thể giới thiệu cho tôi một sản phẩm nào đó không? <br> W: Chúng tôi có nhiều loại bột protein, nhưng có một loại mà tôi đặc biệt yêu thích. Đó là thức uống protein làm từ sữa và đậu nành. <br> M: Ồ... <b> Q2 Thực ra, tôi không dung nạp lactose. Có lựa chọn nào khác không?</b><br> W: <b> Q3 Tôi khuyên anh nên mua loại bột chỉ có đậu nành.</b> Anh sẽ không gặp vấn đề gì với các sản phẩm như vậy đâu.",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6235b",
+          "questionNumber": 36,
+          "questionText": "What does the woman suggest?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0312.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Purchasing a milk-based product",
+              "raw": "(A) Purchasing a milk-based product",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Getting a full refund",
+              "raw": "(B) Getting a full refund",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Using soy beans",
+              "raw": "(C) Using soy beans",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Buying a soy-based powder",
+              "raw": "(D) Buying a soy-based powder",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswer": "D",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> M: Xin lỗi? <b> Q1 Tôi vừa mới bắt đầu tham gia vào một chương trình tập luyện mới và huấn luyện viên của tôi bảo tôi nên mua một ít bột protein để dùng sau khi tập luyện.</b> Quan trọng nhất là tôi cần thứ gì đó giàu protein nhưng không có nhiều carbohydrate. Cô có thể giới thiệu cho tôi một sản phẩm nào đó không? <br> W: Chúng tôi có nhiều loại bột protein, nhưng có một loại mà tôi đặc biệt yêu thích. Đó là thức uống protein làm từ sữa và đậu nành. <br> M: Ồ... <b> Q2 Thực ra, tôi không dung nạp lactose. Có lựa chọn nào khác không?</b><br> W: <b> Q3 Tôi khuyên anh nên mua loại bột chỉ có đậu nành.</b> Anh sẽ không gặp vấn đề gì với các sản phẩm như vậy đâu.",
+          "transcriptHtml": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "groupId": "613f248c65d71f3a51f62337",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0313.mp3",
+      "imageUrl": "",
+      "passageHtml": "@PS@/estudyme/legacy-data/kstoeic/images/7389051_1564545884169.png@PE@",
+      "transcriptHtml": "<b>Transcript:</b><br> W: Hi, Harold. <b> Q1&2 Just wanted to let you know I’m nearly finished with all of Farnod Computing’s windows. I’m going to move up to the next floor in about twenty minutes. </b> Are you finished with Raptas’ window? <br> M:  Hi, Batty. Yeah, I have finished Raptas’ and I’m going upstairs to the next floor. The windows are already pretty clean up there so I think we can get the job done pretty soon. <br>W:  Great. Before you start on the 4th floor, can you please bring me some more window cleaner? I have run out. <br>M: Sure, I’ll be up in about twenty minutes. It will be good to see how clean your windows are compared to mine. <b> Q3 When we are finished with the windows, we need to start on the carpets.</b>",
+      "transcriptViHtml": "<b>Transcript:</b><br> W: Xin chào, Harold. <b> Q1&2 Tôi chỉ muốn cho anh biết là tôi sắp hoàn thành toàn bộ cửa sổ cho Farnod Computing rồi. Tôi sẽ di chuyển lên tầng tiếp theo trong khoảng hai mươi phút nữa. </b> Anh đã lau xong cửa sổ cho bên Raptas chưa? <br> M: Chào Batty. Vâng, tôi đã lau xong cửa sổ của Raptas và tôi sẽ di chuyển lên tầng tiếp theo. Cửa sổ trên đó đã khá sạch rồi nên tôi nghĩ chúng ta có thể xong việc sớm thôi. <br> W: Tuyệt. Trước khi anh bắt đầu ở tầng 4, anh có thể mang cho tôi thêm một ít nước lau cửa sổ không? Tôi hết rồi. <br> M: Được thôi, tôi sẽ lên đó trong khoảng hai mươi phút nữa. Sẽ rất tuyệt nếu được so sánh độ sạch sẽ của những chiếc của sổ mà chúng ta đã lau <b> Q3 Khi chúng ta hoàn thành xong phần cửa sổ, chúng ta cần bắt đầu lau thảm.</b>",
+      "questions": [
+        {
+          "id": "613f248c65d71f3a51f6235c",
+          "questionNumber": 37,
+          "questionText": "Who most likely are the speakers?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0313.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Window cleaners",
+              "raw": "(A) Window cleaners",
+              "isCorrect": true
+            },
+            {
+              "letter": "B",
+              "text": "Computer repair technicians",
+              "raw": "(B) Computer repair technicians",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Telephone operators",
+              "raw": "(C) Telephone operators",
+              "isCorrect": false
+            },
+            {
+              "letter": "D",
+              "text": "Athletes",
+              "raw": "(D) Athletes",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "A",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Xin chào, Harold. <b> Q1&2 Tôi chỉ muốn cho anh biết là tôi sắp hoàn thành toàn bộ cửa sổ cho Farnod Computing rồi. Tôi sẽ di chuyển lên tầng tiếp theo trong khoảng hai mươi phút nữa. </b> Anh đã lau xong cửa sổ cho bên Raptas chưa? <br> M: Chào Batty. Vâng, tôi đã lau xong cửa sổ của Raptas và tôi sẽ di chuyển lên tầng tiếp theo. Cửa sổ trên đó đã khá sạch rồi nên tôi nghĩ chúng ta có thể xong việc sớm thôi. <br> W: Tuyệt. Trước khi anh bắt đầu ở tầng 4, anh có thể mang cho tôi thêm một ít nước lau cửa sổ không? Tôi hết rồi. <br> M: Được thôi, tôi sẽ lên đó trong khoảng hai mươi phút nữa. Sẽ rất tuyệt nếu được so sánh độ sạch sẽ của những chiếc của sổ mà chúng ta đã lau <b> Q3 Khi chúng ta hoàn thành xong phần cửa sổ, chúng ta cần bắt đầu lau thảm.</b>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6235d",
+          "questionNumber": 38,
+          "questionText": "Look at the graphic. Where is the woman going next?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0313.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Raptas",
+              "raw": "(A) Raptas",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Farnod Computing",
+              "raw": "(B) Farnod Computing",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Chaims & Son",
+              "raw": "(C) Chaims & Son",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Hecadi Constructing",
+              "raw": "(D) Hecadi Constructing",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Xin chào, Harold. <b> Q1&2 Tôi chỉ muốn cho anh biết là tôi sắp hoàn thành toàn bộ cửa sổ cho Farnod Computing rồi. Tôi sẽ di chuyển lên tầng tiếp theo trong khoảng hai mươi phút nữa. </b> Anh đã lau xong cửa sổ cho bên Raptas chưa? <br> M: Chào Batty. Vâng, tôi đã lau xong cửa sổ của Raptas và tôi sẽ di chuyển lên tầng tiếp theo. Cửa sổ trên đó đã khá sạch rồi nên tôi nghĩ chúng ta có thể xong việc sớm thôi. <br> W: Tuyệt. Trước khi anh bắt đầu ở tầng 4, anh có thể mang cho tôi thêm một ít nước lau cửa sổ không? Tôi hết rồi. <br> M: Được thôi, tôi sẽ lên đó trong khoảng hai mươi phút nữa. Sẽ rất tuyệt nếu được so sánh độ sạch sẽ của những chiếc của sổ mà chúng ta đã lau <b> Q3 Khi chúng ta hoàn thành xong phần cửa sổ, chúng ta cần bắt đầu lau thảm.</b>",
+          "transcriptHtml": ""
+        },
+        {
+          "id": "613f248c65d71f3a51f6235e",
+          "questionNumber": 39,
+          "questionText": "What are the speakers probably going to do next?",
+          "imageUrl": "",
+          "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/sound/eco2018_Test09_0313.mp3",
+          "choices": [
+            {
+              "letter": "A",
+              "text": "Go home",
+              "raw": "(A) Go home",
+              "isCorrect": false
+            },
+            {
+              "letter": "B",
+              "text": "Eat lunch",
+              "raw": "(B) Eat lunch",
+              "isCorrect": false
+            },
+            {
+              "letter": "C",
+              "text": "Clean the carpets",
+              "raw": "(C) Clean the carpets",
+              "isCorrect": true
+            },
+            {
+              "letter": "D",
+              "text": "Leave the building",
+              "raw": "(D) Leave the building",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswer": "C",
+          "explanationHtml": "",
+          "explanationViHtml": "<b>Transcript:</b><br> W: Xin chào, Harold. <b> Q1&2 Tôi chỉ muốn cho anh biết là tôi sắp hoàn thành toàn bộ cửa sổ cho Farnod Computing rồi. Tôi sẽ di chuyển lên tầng tiếp theo trong khoảng hai mươi phút nữa. </b> Anh đã lau xong cửa sổ cho bên Raptas chưa? <br> M: Chào Batty. Vâng, tôi đã lau xong cửa sổ của Raptas và tôi sẽ di chuyển lên tầng tiếp theo. Cửa sổ trên đó đã khá sạch rồi nên tôi nghĩ chúng ta có thể xong việc sớm thôi. <br> W: Tuyệt. Trước khi anh bắt đầu ở tầng 4, anh có thể mang cho tôi thêm một ít nước lau cửa sổ không? Tôi hết rồi. <br> M: Được thôi, tôi sẽ lên đó trong khoảng hai mươi phút nữa. Sẽ rất tuyệt nếu được so sánh độ sạch sẽ của những chiếc của sổ mà chúng ta đã lau <b> Q3 Khi chúng ta hoàn thành xong phần cửa sổ, chúng ta cần bắt đầu lau thảm.</b>",
+          "transcriptHtml": ""
+        }
+      ]
+    }
+  ]
+}

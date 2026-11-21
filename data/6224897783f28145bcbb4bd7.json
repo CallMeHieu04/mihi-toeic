@@ -1,0 +1,808 @@
+{
+  "topicId": "6224897783f28145bcbb4bd7",
+  "title": "MODAL VERBS - Practice 2",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e95",
+        "questionNumber": 1,
+        "questionText": "Peter________come with us tonight, but he isn't very sure.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "must",
+            "raw": "A. must\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "may",
+            "raw": "B. may",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "can",
+            "raw": "C. can\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will",
+            "raw": "D. will",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Peter________come with us tonight, but he isn't very sure.' requires a modal verb that expresses possibility or uncertainty. The phrase 'but he isn't very sure' indicates that Peter is not certain about coming, so we need a modal verb that shows possibility, not certainty or obligation.<br><ul><li><b>must</b> (modal verb): 'Must' is used to express necessity or strong obligation. It does not fit here because the sentence is about possibility, not obligation.</li><li><b>may</b> (modal verb): 'May' is used to express possibility or uncertainty, which matches the meaning of the sentence. It means that it is possible Peter will come, but he is not sure.</li><li><b>can</b> (modal verb): 'Can' is used to express ability or permission, not possibility in this context. It does not fit the meaning of uncertainty in the sentence.</li><li><b>will</b> (modal verb): 'Will' is used to express future certainty or intention. Since Peter is not sure, 'will' is not appropriate here.</li></ul><b>Related structure or vocabulary:</b> Modal verbs expressing possibility: may, might. Structure: may/might + base verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Peter________come with us tonight, but he isn't very sure.' cần một động từ khuyết thiếu (modal verb) diễn tả khả năng hoặc sự không chắc chắn. Cụm 'but he isn't very sure' cho thấy Peter không chắc chắn sẽ đi, nên cần một động từ khuyết thiếu diễn tả khả năng, không phải sự chắc chắn hay bắt buộc.<br><ul><li><b>must</b> (động từ khuyết thiếu): 'Must' dùng để diễn tả sự bắt buộc hoặc cần thiết. Không phù hợp vì câu này nói về khả năng, không phải sự bắt buộc.</li><li><b>may</b> (động từ khuyết thiếu): 'May' dùng để diễn tả khả năng hoặc sự không chắc chắn, rất phù hợp với ý nghĩa của câu. Nghĩa là Peter có thể sẽ đi, nhưng chưa chắc chắn.</li><li><b>can</b> (động từ khuyết thiếu): 'Can' dùng để diễn tả khả năng hoặc sự cho phép, không phải khả năng xảy ra trong trường hợp không chắc chắn như câu này.</li><li><b>will</b> (động từ khuyết thiếu): 'Will' dùng để diễn tả sự chắc chắn hoặc ý định trong tương lai. Vì Peter không chắc chắn nên 'will' không phù hợp.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu diễn tả khả năng: may, might. Cấu trúc: may/might + động từ nguyên thể.<br><br><b>Tạm dịch:</b> Peter có thể sẽ đi cùng chúng ta tối nay, nhưng anh ấy không chắc lắm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Peter________come with us tonight, but he isn't very sure.' requires a modal verb that expresses possibility or uncertainty. The phrase 'but he isn't very sure' indicates that Peter is not certain about coming, so we need a modal verb that shows possibility, not certainty or obligation.<br><ul><li><b>must</b> (modal verb): 'Must' is used to express necessity or strong obligation. It does not fit here because the sentence is about possibility, not obligation.</li><li><b>may</b> (modal verb): 'May' is used to express possibility or uncertainty, which matches the meaning of the sentence. It means that it is possible Peter will come, but he is not sure.</li><li><b>can</b> (modal verb): 'Can' is used to express ability or permission, not possibility in this context. It does not fit the meaning of uncertainty in the sentence.</li><li><b>will</b> (modal verb): 'Will' is used to express future certainty or intention. Since Peter is not sure, 'will' is not appropriate here.</li></ul><b>Related structure or vocabulary:</b> Modal verbs expressing possibility: may, might. Structure: may/might + base verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e96",
+        "questionNumber": 2,
+        "questionText": "\"Could I borrow your dictionary?\" - \"Yes, of course you\t________.”",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "might",
+            "raw": "A. might\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "will",
+            "raw": "B. will\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "can",
+            "raw": "C. can",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "should",
+            "raw": "D. should",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the question is 'Could I borrow your dictionary?' and the response is 'Yes, of course you ________.' The blank needs a modal verb that fits the context of giving permission. The correct modal verb to use when giving permission is 'can.'<br><ul><li><b>might</b> (modal verb): 'Might' is used to express possibility, not permission. It is not suitable in this context.</li><li><b>will</b> (modal verb): 'Will' is used to express future actions or willingness, not permission. It does not fit here.</li><li><b>can</b> (modal verb): 'Can' is commonly used to give or ask for permission. In this context, 'Yes, of course you can' means 'Yes, you are allowed to borrow my dictionary.'</li><li><b>should</b> (modal verb): 'Should' is used to give advice or recommendations, not permission.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for permission: 'can' is used to ask for and give permission. Structure: 'Can I + verb...?'; 'Yes, you can.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, câu hỏi là 'Could I borrow your dictionary?' (Tôi có thể mượn từ điển của bạn không?) và câu trả lời là 'Yes, of course you ________.' (Vâng, tất nhiên là bạn ________). Chỗ trống cần một động từ khuyết thiếu phù hợp để diễn đạt sự cho phép. Động từ khuyết thiếu đúng để dùng khi cho phép là 'can'.<br><ul><li><b>might</b> (động từ khuyết thiếu): 'Might' dùng để diễn tả khả năng xảy ra, không phải để cho phép. Không phù hợp trong ngữ cảnh này.</li><li><b>will</b> (động từ khuyết thiếu): 'Will' dùng để diễn tả hành động trong tương lai hoặc sự sẵn lòng, không phải để cho phép. Không phù hợp ở đây.</li><li><b>can</b> (động từ khuyết thiếu): 'Can' thường được dùng để xin phép hoặc cho phép. Trong ngữ cảnh này, 'Yes, of course you can' nghĩa là 'Vâng, bạn được phép mượn từ điển của tôi.'</li><li><b>should</b> (động từ khuyết thiếu): 'Should' dùng để đưa ra lời khuyên hoặc gợi ý, không phải để cho phép.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu dùng để xin phép: 'can' được dùng để hỏi và cho phép. Cấu trúc: 'Can I + động từ...?'; 'Yes, you can.'<br><br><b>Tạm dịch:</b> Câu hỏi: 'Could I borrow your dictionary?' - 'Yes, of course you can.' Dịch: 'Tôi có thể mượn từ điển của bạn không?' - 'Vâng, tất nhiên là bạn có thể.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the question is 'Could I borrow your dictionary?' and the response is 'Yes, of course you ________.' The blank needs a modal verb that fits the context of giving permission. The correct modal verb to use when giving permission is 'can.'<br><ul><li><b>might</b> (modal verb): 'Might' is used to express possibility, not permission. It is not suitable in this context.</li><li><b>will</b> (modal verb): 'Will' is used to express future actions or willingness, not permission. It does not fit here.</li><li><b>can</b> (modal verb): 'Can' is commonly used to give or ask for permission. In this context, 'Yes, of course you can' means 'Yes, you are allowed to borrow my dictionary.'</li><li><b>should</b> (modal verb): 'Should' is used to give advice or recommendations, not permission.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for permission: 'can' is used to ask for and give permission. Structure: 'Can I + verb...?'; 'Yes, you can.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e97",
+        "questionNumber": 3,
+        "questionText": "We________last night, but we went to the concert instead.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "must have studied",
+            "raw": "A. must have studied\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "might study",
+            "raw": "B. might study",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "should have studied",
+            "raw": "C. should have studied",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "would study",
+            "raw": "D. would study",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We________last night, but we went to the concert instead.' requires a perfect modal form to express a past unrealized action (something we should have done, but didn't). The structure 'should have + past participle' is used to talk about an action that was expected or recommended in the past, but did not happen.<br><ul><li><b>must have studied</b> (modal perfect): 'Must have studied' is used to express a logical conclusion about a past event, not a missed obligation.</li><li><b>might study</b> (modal + base verb): 'Might study' is used for possibility in the present or future, not for past unrealized actions.</li><li><b>should have studied</b> (modal perfect): 'Should have studied' expresses a past obligation or recommendation that was not fulfilled. This fits the context of the sentence.</li><li><b>would study</b> (modal + base verb): 'Would study' is used for habitual actions in the past or for conditional sentences, not for expressing missed obligations in the past.</li></ul><b>Related structure or vocabulary:</b> should have + past participle: used to express regret or a missed obligation in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'We________last night, but we went to the concert instead.' cần một cấu trúc hoàn thành với động từ khuyết thiếu để diễn tả một hành động nên làm trong quá khứ nhưng đã không thực hiện. Cấu trúc 'should have + V3/ed' được dùng để nói về một việc lẽ ra nên làm trong quá khứ nhưng đã không làm.<br><ul><li><b>must have studied</b> (động từ khuyết thiếu hoàn thành): 'Must have studied' dùng để diễn tả một suy luận logic về một sự việc đã xảy ra trong quá khứ, không phải là một nghĩa vụ bị bỏ lỡ.</li><li><b>might study</b> (động từ khuyết thiếu + động từ nguyên mẫu): 'Might study' dùng để diễn tả khả năng ở hiện tại hoặc tương lai, không phù hợp để nói về hành động đã không xảy ra trong quá khứ.</li><li><b>should have studied</b> (động từ khuyết thiếu hoàn thành): 'Should have studied' diễn tả một nghĩa vụ hoặc lời khuyên trong quá khứ nhưng đã không thực hiện. Đây là đáp án phù hợp với ngữ cảnh câu.</li><li><b>would study</b> (động từ khuyết thiếu + động từ nguyên mẫu): 'Would study' dùng để nói về thói quen trong quá khứ hoặc trong câu điều kiện, không dùng để diễn tả nghĩa vụ bị bỏ lỡ trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> should have + V3/ed: dùng để diễn tả sự tiếc nuối hoặc một nghĩa vụ đã không thực hiện trong quá khứ.<br><br><b>Tạm dịch:</b> Chúng ta lẽ ra nên học tối qua, nhưng thay vào đó chúng ta đã đi xem hòa nhạc.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'We________last night, but we went to the concert instead.' requires a perfect modal form to express a past unrealized action (something we should have done, but didn't). The structure 'should have + past participle' is used to talk about an action that was expected or recommended in the past, but did not happen.<br><ul><li><b>must have studied</b> (modal perfect): 'Must have studied' is used to express a logical conclusion about a past event, not a missed obligation.</li><li><b>might study</b> (modal + base verb): 'Might study' is used for possibility in the present or future, not for past unrealized actions.</li><li><b>should have studied</b> (modal perfect): 'Should have studied' expresses a past obligation or recommendation that was not fulfilled. This fits the context of the sentence.</li><li><b>would study</b> (modal + base verb): 'Would study' is used for habitual actions in the past or for conditional sentences, not for expressing missed obligations in the past.</li></ul><b>Related structure or vocabulary:</b> should have + past participle: used to express regret or a missed obligation in the past.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e98",
+        "questionNumber": 4,
+        "questionText": "A computer_________think for itself; it must be told what to do.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "can’t",
+            "raw": "A. can’t",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "shouldn’t",
+            "raw": "B. shouldn’t\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "must",
+            "raw": "C. must\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "will",
+            "raw": "D. will",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A computer_________think for itself; it must be told what to do.' requires a modal verb that expresses the computer's inability to think independently. The sentence is talking about a general truth or fact about computers. The correct modal verb to use here is 'can't' (cannot), which means 'is not able to.'<br><ul><li><b>can’t</b> (modal verb): Cannot; expresses inability or impossibility.</li><li><b>shouldn’t</b> (modal verb): Should not; expresses advice or prohibition, not inability.</li><li><b>must</b> (modal verb): Expresses necessity or obligation, not inability.</li><li><b>will</b> (modal verb): Expresses future intention or willingness, not inability.</li></ul><b>Related structure or vocabulary:</b> Modal verbs (can, can't, should, must, will) are used to express ability, possibility, necessity, advice, or future intention. 'Can't' is used to express inability or impossibility.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'A computer_________think for itself; it must be told what to do.' cần một động từ khuyết thiếu (modal verb) diễn tả sự không có khả năng tự suy nghĩ của máy tính. Câu này nói về một sự thật chung về máy tính. Động từ khuyết thiếu phù hợp là 'can't' (không thể), mang nghĩa 'không có khả năng'.<br><ul><li><b>can’t</b> (động từ khuyết thiếu): Không thể; diễn tả sự không có khả năng hoặc không thể xảy ra.</li><li><b>shouldn’t</b> (động từ khuyết thiếu): Không nên; diễn tả lời khuyên hoặc sự cấm đoán, không phải sự không có khả năng.</li><li><b>must</b> (động từ khuyết thiếu): Phải; diễn tả sự bắt buộc hoặc cần thiết, không phải sự không có khả năng.</li><li><b>will</b> (động từ khuyết thiếu): Sẽ; diễn tả ý định trong tương lai hoặc sự sẵn lòng, không phải sự không có khả năng.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu (can, can't, should, must, will) dùng để diễn tả khả năng, sự cho phép, nghĩa vụ, lời khuyên hoặc ý định trong tương lai. 'Can't' dùng để diễn tả sự không có khả năng hoặc không thể xảy ra.<br><br><b>Tạm dịch:</b> Một chiếc máy tính không thể tự suy nghĩ; nó phải được chỉ dẫn phải làm gì.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'A computer_________think for itself; it must be told what to do.' requires a modal verb that expresses the computer's inability to think independently. The sentence is talking about a general truth or fact about computers. The correct modal verb to use here is 'can't' (cannot), which means 'is not able to.'<br><ul><li><b>can’t</b> (modal verb): Cannot; expresses inability or impossibility.</li><li><b>shouldn’t</b> (modal verb): Should not; expresses advice or prohibition, not inability.</li><li><b>must</b> (modal verb): Expresses necessity or obligation, not inability.</li><li><b>will</b> (modal verb): Expresses future intention or willingness, not inability.</li></ul><b>Related structure or vocabulary:</b> Modal verbs (can, can't, should, must, will) are used to express ability, possibility, necessity, advice, or future intention. 'Can't' is used to express inability or impossibility.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e99",
+        "questionNumber": 5,
+        "questionText": "Jane______have kept her word. I wonder why she changed her mind.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "must",
+            "raw": "A. must\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "should",
+            "raw": "B. should",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "need",
+            "raw": "C. need\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "would",
+            "raw": "D. would",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is expressing surprise or confusion about Jane's change of mind, implying that it was expected or necessary for her to keep her word. The correct modal verb to use here is 'should,' which is used to express obligation, expectation, or advisability in the past. The structure 'should have + past participle' is used to talk about something that was expected or the right thing to do in the past, but did not happen.<br><ul><li><b>must</b> (modal verb): 'Must have + past participle' is used to express a logical conclusion about a past event, not obligation or expectation.</li><li><b>should</b> (modal verb): 'Should have + past participle' is used to express that something was expected or the right thing to do in the past, but did not happen.</li><li><b>need</b> (modal verb): 'Need have + past participle' is not commonly used in this context. 'Need' as a modal verb is rare and usually used in negative or question forms.</li><li><b>would</b> (modal verb): 'Would have + past participle' is used to talk about hypothetical situations in the past, not about obligation or expectation.</li></ul><b>Related structure or vocabulary:</b> should have + past participle: used to express obligation, expectation, or advisability in the past that did not happen.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, người nói đang thể hiện sự ngạc nhiên hoặc băn khoăn về việc Jane đã thay đổi ý định, ngụ ý rằng lẽ ra Jane phải giữ lời hứa của mình. Động từ khuyết thiếu phù hợp ở đây là 'should', dùng để diễn tả sự bắt buộc, kỳ vọng hoặc lời khuyên trong quá khứ. Cấu trúc 'should have + quá khứ phân từ' dùng để nói về điều lẽ ra nên xảy ra hoặc được mong đợi trong quá khứ nhưng thực tế lại không xảy ra.<br><ul><li><b>must</b> (động từ khuyết thiếu): 'Must have + quá khứ phân từ' dùng để diễn tả suy luận logic về một sự việc đã xảy ra trong quá khứ, không phải để nói về nghĩa vụ hay kỳ vọng.</li><li><b>should</b> (động từ khuyết thiếu): 'Should have + quá khứ phân từ' dùng để diễn tả điều lẽ ra nên làm hoặc được mong đợi trong quá khứ nhưng thực tế không xảy ra.</li><li><b>need</b> (động từ khuyết thiếu): 'Need have + quá khứ phân từ' không thường được sử dụng trong ngữ cảnh này. 'Need' với vai trò động từ khuyết thiếu rất hiếm và thường dùng trong câu phủ định hoặc nghi vấn.</li><li><b>would</b> (động từ khuyết thiếu): 'Would have + quá khứ phân từ' dùng để nói về tình huống giả định trong quá khứ, không phải về nghĩa vụ hay kỳ vọng.</li></ul><b>Cấu trúc và từ vựng:</b> should have + quá khứ phân từ: dùng để diễn tả nghĩa vụ, kỳ vọng hoặc lời khuyên trong quá khứ nhưng thực tế không xảy ra.<br><br><b>Tạm dịch:</b> Jane lẽ ra nên giữ lời hứa của mình. Tôi tự hỏi tại sao cô ấy lại thay đổi ý định.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is expressing surprise or confusion about Jane's change of mind, implying that it was expected or necessary for her to keep her word. The correct modal verb to use here is 'should,' which is used to express obligation, expectation, or advisability in the past. The structure 'should have + past participle' is used to talk about something that was expected or the right thing to do in the past, but did not happen.<br><ul><li><b>must</b> (modal verb): 'Must have + past participle' is used to express a logical conclusion about a past event, not obligation or expectation.</li><li><b>should</b> (modal verb): 'Should have + past participle' is used to express that something was expected or the right thing to do in the past, but did not happen.</li><li><b>need</b> (modal verb): 'Need have + past participle' is not commonly used in this context. 'Need' as a modal verb is rare and usually used in negative or question forms.</li><li><b>would</b> (modal verb): 'Would have + past participle' is used to talk about hypothetical situations in the past, not about obligation or expectation.</li></ul><b>Related structure or vocabulary:</b> should have + past participle: used to express obligation, expectation, or advisability in the past that did not happen.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e9a",
+        "questionNumber": 6,
+        "questionText": "He______you more help, even though he was very busy.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "might have given",
+            "raw": "A. might have given",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "might give",
+            "raw": "B. might give",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "can't have given",
+            "raw": "C. can't have given\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "may give",
+            "raw": "D. may give",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb phrase that fits the context of a past unreal situation. The sentence 'He______you more help, even though he was very busy.' suggests that he did not actually give more help, but it was possible in the past. The correct structure for this meaning is 'might have + past participle', which expresses a possibility or ability that did not happen in the past.<br><ul><li><b>might have given</b> (modal perfect): This is the correct form to express a past possibility that did not happen. 'Might have given' means it was possible for him to give more help, but he did not.</li><li><b>might give</b> (modal + base verb): This is present or future possibility, not suitable for a past situation.</li><li><b>can't have given</b> (modal perfect (negative)): This expresses impossibility in the past, meaning it was impossible that he gave more help. This does not fit the context.</li><li><b>may give</b> (modal + base verb): This expresses present or future possibility, not suitable for a past situation.</li></ul><b>Related structure or vocabulary:</b> Modal verbs + have + past participle: used to talk about possibility, ability, or certainty in the past. Example: might have done, could have gone, must have seen.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm động từ phù hợp với ngữ cảnh giả định không có thật trong quá khứ. Câu 'He______you more help, even though he was very busy.' ngụ ý rằng anh ấy đã không thực sự giúp đỡ nhiều hơn, nhưng điều đó đã có thể xảy ra trong quá khứ. Cấu trúc đúng để diễn đạt ý nghĩa này là 'might have + quá khứ phân từ', dùng để nói về một khả năng hoặc điều gì đó có thể đã xảy ra nhưng thực tế không xảy ra trong quá khứ.<br><ul><li><b>might have given</b> (modal perfect): Đây là cấu trúc đúng để diễn đạt một khả năng trong quá khứ nhưng không xảy ra. 'Might have given' nghĩa là anh ấy đã có thể giúp đỡ nhiều hơn, nhưng thực tế không làm.</li><li><b>might give</b> (modal + động từ nguyên mẫu): Diễn đạt khả năng ở hiện tại hoặc tương lai, không phù hợp với ngữ cảnh quá khứ.</li><li><b>can't have given</b> (modal perfect (phủ định)): Diễn đạt sự không thể xảy ra trong quá khứ, nghĩa là không thể nào anh ấy đã giúp nhiều hơn. Không phù hợp với ý nghĩa câu.</li><li><b>may give</b> (modal + động từ nguyên mẫu): Diễn đạt khả năng ở hiện tại hoặc tương lai, không phù hợp với ngữ cảnh quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Modal verbs + have + past participle: dùng để nói về khả năng, sự chắc chắn hoặc điều gì đó có thể đã xảy ra trong quá khứ. Ví dụ: might have done, could have gone, must have seen.<br><br><b>Tạm dịch:</b> Anh ấy đã có thể giúp bạn nhiều hơn, mặc dù anh ấy rất bận.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb phrase that fits the context of a past unreal situation. The sentence 'He______you more help, even though he was very busy.' suggests that he did not actually give more help, but it was possible in the past. The correct structure for this meaning is 'might have + past participle', which expresses a possibility or ability that did not happen in the past.<br><ul><li><b>might have given</b> (modal perfect): This is the correct form to express a past possibility that did not happen. 'Might have given' means it was possible for him to give more help, but he did not.</li><li><b>might give</b> (modal + base verb): This is present or future possibility, not suitable for a past situation.</li><li><b>can't have given</b> (modal perfect (negative)): This expresses impossibility in the past, meaning it was impossible that he gave more help. This does not fit the context.</li><li><b>may give</b> (modal + base verb): This expresses present or future possibility, not suitable for a past situation.</li></ul><b>Related structure or vocabulary:</b> Modal verbs + have + past participle: used to talk about possibility, ability, or certainty in the past. Example: might have done, could have gone, must have seen.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e9b",
+        "questionNumber": 7,
+        "questionText": "I didn't hear the phone. I________asleep.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "must be",
+            "raw": "A. must be\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "must have been",
+            "raw": "B. must have been",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "should be",
+            "raw": "C. should be\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "should have been",
+            "raw": "D. should have been",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a modal verb phrase in the past perfect form to indicate a logical deduction about a past event. The speaker did not hear the phone, so they are guessing the reason in the past (they were probably asleep). The correct structure for expressing a logical deduction about the past is 'must have + past participle'.<br><ul><li><b>must be</b> (modal verb + base verb): Used to express a logical deduction about the present.</li><li><b>must have been</b> (modal verb + have + past participle): Used to express a logical deduction about the past.</li><li><b>should be</b> (modal verb + base verb): Used to express expectation or advice about the present or future.</li><li><b>should have been</b> (modal verb + have + past participle): Used to express expectation or advice about the past (something that was supposed to happen but may not have).</li></ul><b>Related structure or vocabulary:</b> Modal verbs for deduction: 'must have + past participle' is used to make logical conclusions about past events.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm động từ khuyết thiếu ở thì hoàn thành để diễn tả một suy luận hợp lý về một sự việc trong quá khứ. Người nói không nghe thấy điện thoại, nên họ đoán lý do trong quá khứ (có lẽ họ đã ngủ). Cấu trúc đúng để diễn tả suy luận hợp lý về quá khứ là 'must have + V3/ed'.<br><ul><li><b>must be</b> (động từ khuyết thiếu + động từ nguyên mẫu): Dùng để diễn tả suy luận hợp lý về hiện tại.</li><li><b>must have been</b> (động từ khuyết thiếu + have + quá khứ phân từ): Dùng để diễn tả suy luận hợp lý về quá khứ.</li><li><b>should be</b> (động từ khuyết thiếu + động từ nguyên mẫu): Dùng để diễn tả kỳ vọng hoặc lời khuyên về hiện tại hoặc tương lai.</li><li><b>should have been</b> (động từ khuyết thiếu + have + quá khứ phân từ): Dùng để diễn tả kỳ vọng hoặc lời khuyên về quá khứ (điều lẽ ra nên xảy ra nhưng có thể đã không xảy ra).</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu dùng để suy luận: 'must have + V3/ed' dùng để đưa ra kết luận hợp lý về sự việc đã xảy ra trong quá khứ.<br><br><b>Tạm dịch:</b> Tôi đã không nghe thấy điện thoại. Tôi chắc hẳn đã ngủ rồi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a modal verb phrase in the past perfect form to indicate a logical deduction about a past event. The speaker did not hear the phone, so they are guessing the reason in the past (they were probably asleep). The correct structure for expressing a logical deduction about the past is 'must have + past participle'.<br><ul><li><b>must be</b> (modal verb + base verb): Used to express a logical deduction about the present.</li><li><b>must have been</b> (modal verb + have + past participle): Used to express a logical deduction about the past.</li><li><b>should be</b> (modal verb + base verb): Used to express expectation or advice about the present or future.</li><li><b>should have been</b> (modal verb + have + past participle): Used to express expectation or advice about the past (something that was supposed to happen but may not have).</li></ul><b>Related structure or vocabulary:</b> Modal verbs for deduction: 'must have + past participle' is used to make logical conclusions about past events.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e9c",
+        "questionNumber": 8,
+        "questionText": "Mother________us stories when we were young.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "was used to tell",
+            "raw": "A. was used to tell ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "is used to telling",
+            "raw": "B. is used to telling ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "used to tell",
+            "raw": "C. used to tell",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "used to telling",
+            "raw": "D. used to telling",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb to complete the sentence: 'Mother________us stories when we were young.' The sentence talks about a repeated action in the past that no longer happens. The correct structure to express this is 'used to + V (bare infinitive)'.<br><ul><li><b>was used to tell</b> (phrase (past passive + infinitive)): 'was used to' means 'became accustomed to', and is followed by a noun or V-ing, not a bare verb. This is incorrect here.</li><li><b>is used to telling</b> (phrase (present passive + V-ing)): 'is used to' means 'is accustomed to', and is used for present habits, not past repeated actions. Also, the sentence is about the past.</li><li><b>used to tell</b> (phrase (past habit)): 'used to + V' is the correct structure to talk about past habits or repeated actions that no longer happen.</li><li><b>used to telling</b> (phrase (habit/accustomed to)): 'used to' should be followed by a bare verb, not V-ing. 'Be used to + V-ing' means 'accustomed to', which is not the intended meaning here.</li></ul><b>Related structure or vocabulary:</b> used to + V (bare infinitive): to talk about past habits or repeated actions that no longer happen.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền dạng đúng của động từ để hoàn thành câu: 'Mother________us stories when we were young.' Câu này nói về một hành động lặp đi lặp lại trong quá khứ nhưng hiện tại không còn nữa. Cấu trúc đúng để diễn đạt ý này là 'used to + V (nguyên thể không to)'.<br><ul><li><b>was used to tell</b> (cụm từ (bị động quá khứ + động từ nguyên thể)): 'was used to' nghĩa là 'đã quen với', và theo sau là danh từ hoặc V-ing, không phải động từ nguyên thể. Không phù hợp ở đây.</li><li><b>is used to telling</b> (cụm từ (bị động hiện tại + V-ing)): 'is used to' nghĩa là 'quen với', dùng cho thói quen hiện tại, không phải hành động lặp lại trong quá khứ. Câu này nói về quá khứ.</li><li><b>used to tell</b> (cụm từ (thói quen quá khứ)): 'used to + V' là cấu trúc đúng để nói về thói quen hoặc hành động lặp lại trong quá khứ mà hiện tại không còn nữa.</li><li><b>used to telling</b> (cụm từ (thói quen/quen với)): 'used to' phải theo sau là động từ nguyên thể, không phải V-ing. 'Be used to + V-ing' nghĩa là 'quen với', không đúng ý ở đây.</li></ul><b>Cấu trúc và từ vựng:</b> used to + V (nguyên thể không to): dùng để nói về thói quen hoặc hành động lặp lại trong quá khứ mà hiện tại không còn nữa.<br><br><b>Tạm dịch:</b> Mẹ đã từng kể chuyện cho chúng tôi khi chúng tôi còn nhỏ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires the correct form of the verb to complete the sentence: 'Mother________us stories when we were young.' The sentence talks about a repeated action in the past that no longer happens. The correct structure to express this is 'used to + V (bare infinitive)'.<br><ul><li><b>was used to tell</b> (phrase (past passive + infinitive)): 'was used to' means 'became accustomed to', and is followed by a noun or V-ing, not a bare verb. This is incorrect here.</li><li><b>is used to telling</b> (phrase (present passive + V-ing)): 'is used to' means 'is accustomed to', and is used for present habits, not past repeated actions. Also, the sentence is about the past.</li><li><b>used to tell</b> (phrase (past habit)): 'used to + V' is the correct structure to talk about past habits or repeated actions that no longer happen.</li><li><b>used to telling</b> (phrase (habit/accustomed to)): 'used to' should be followed by a bare verb, not V-ing. 'Be used to + V-ing' means 'accustomed to', which is not the intended meaning here.</li></ul><b>Related structure or vocabulary:</b> used to + V (bare infinitive): to talk about past habits or repeated actions that no longer happen.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e9d",
+        "questionNumber": 9,
+        "questionText": "You\t_____return the book now. You can keep it till next week.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "can't",
+            "raw": "A. can't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "mustn't",
+            "raw": "B. mustn't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "needn't",
+            "raw": "C. needn't",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "may not",
+            "raw": "D. may not",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a modal verb to indicate that it is not necessary to return the book now. The sentence 'You _____ return the book now. You can keep it till next week.' suggests that returning the book is not required at this moment.<br><ul><li><b>can't</b> (modal verb): Cannot; used to express impossibility or prohibition.</li><li><b>mustn't</b> (modal verb): Must not; used to express strong prohibition.</li><li><b>needn't</b> (modal verb): Need not; used to express lack of necessity or obligation.</li><li><b>may not</b> (modal verb): May not; used to express lack of permission or possibility.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for necessity: 'needn't' is used to say that something is not necessary. Structure: needn't + bare infinitive (needn't return).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ khuyết thiếu để diễn tả rằng không cần thiết phải trả sách ngay bây giờ. Câu 'You _____ return the book now. You can keep it till next week.' cho thấy việc trả sách lúc này là không bắt buộc.<br><ul><li><b>can't</b> (động từ khuyết thiếu): Không thể; dùng để diễn tả sự không thể hoặc cấm đoán.</li><li><b>mustn't</b> (động từ khuyết thiếu): Không được phép; dùng để diễn tả sự cấm đoán mạnh mẽ.</li><li><b>needn't</b> (động từ khuyết thiếu): Không cần thiết; dùng để diễn tả việc không cần phải làm gì đó.</li><li><b>may not</b> (động từ khuyết thiếu): Có thể không được phép; dùng để diễn tả sự không cho phép hoặc khả năng không xảy ra.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu chỉ sự cần thiết: 'needn't' dùng để nói rằng không cần thiết phải làm gì. Cấu trúc: needn't + động từ nguyên thể (needn't return).<br><br><b>Tạm dịch:</b> Bạn không cần phải trả sách ngay bây giờ. Bạn có thể giữ nó đến tuần sau.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a modal verb to indicate that it is not necessary to return the book now. The sentence 'You _____ return the book now. You can keep it till next week.' suggests that returning the book is not required at this moment.<br><ul><li><b>can't</b> (modal verb): Cannot; used to express impossibility or prohibition.</li><li><b>mustn't</b> (modal verb): Must not; used to express strong prohibition.</li><li><b>needn't</b> (modal verb): Need not; used to express lack of necessity or obligation.</li><li><b>may not</b> (modal verb): May not; used to express lack of permission or possibility.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for necessity: 'needn't' is used to say that something is not necessary. Structure: needn't + bare infinitive (needn't return).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e9e",
+        "questionNumber": 10,
+        "questionText": "The plant is dead. I\t___it more water.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "will give",
+            "raw": "A. will give\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "would have given",
+            "raw": "B. would have given\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "must give",
+            "raw": "C. must give\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "should have given",
+            "raw": "D. should have given",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'The plant is dead. I ___ it more water.' refers to a past situation where the plant has already died. The speaker is expressing regret about not giving the plant enough water in the past. In English, to express regret about something that did not happen in the past, we use the structure 'should have + past participle.'<br><ul><li><b>will give</b> (verb (future simple)): 'Will give' is the simple future tense, used for actions that will happen in the future. It does not fit here because the plant is already dead (past event).</li><li><b>would have given</b> (modal perfect): 'Would have given' is used in third conditional sentences to talk about hypothetical situations in the past, often with an 'if' clause. There is no 'if' clause here, so it is not suitable.</li><li><b>must give</b> (modal verb (present/future)): 'Must give' expresses obligation in the present or future. It is not appropriate because the action needed to happen in the past.</li><li><b>should have given</b> (modal perfect): 'Should have given' is used to express regret or criticism about something that did not happen in the past. This fits the context of the sentence.</li></ul><b>Related structure or vocabulary:</b> should have + past participle: used to express regret or criticism about a past action that did not happen.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'The plant is dead. I ___ it more water.' nói về một tình huống trong quá khứ khi cây đã chết. Người nói đang thể hiện sự hối tiếc vì đã không tưới đủ nước cho cây trong quá khứ. Trong tiếng Anh, để diễn tả sự hối tiếc về một việc đã không xảy ra trong quá khứ, ta dùng cấu trúc 'should have + quá khứ phân từ (past participle)'.<br><ul><li><b>will give</b> (động từ (thì tương lai đơn)): 'Will give' là thì tương lai đơn, dùng cho hành động sẽ xảy ra trong tương lai. Không phù hợp vì cây đã chết (sự việc trong quá khứ).</li><li><b>would have given</b> (modal perfect): 'Would have given' dùng trong câu điều kiện loại 3 để nói về tình huống giả định trong quá khứ, thường đi với mệnh đề 'if'. Ở đây không có mệnh đề 'if', nên không phù hợp.</li><li><b>must give</b> (động từ khuyết thiếu (hiện tại/tương lai)): 'Must give' diễn tả sự bắt buộc ở hiện tại hoặc tương lai. Không phù hợp vì hành động cần xảy ra trong quá khứ.</li><li><b>should have given</b> (modal perfect): 'Should have given' dùng để diễn tả sự hối tiếc hoặc phê bình về một việc đã không xảy ra trong quá khứ. Phù hợp với ngữ cảnh câu.</li></ul><b>Cấu trúc và từ vựng:</b> should have + past participle: dùng để diễn tả sự hối tiếc hoặc phê bình về một hành động đã không xảy ra trong quá khứ.<br><br><b>Tạm dịch:</b> Cây đã chết. Tôi LẼ RA NÊN tưới cho nó nhiều nước hơn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'The plant is dead. I ___ it more water.' refers to a past situation where the plant has already died. The speaker is expressing regret about not giving the plant enough water in the past. In English, to express regret about something that did not happen in the past, we use the structure 'should have + past participle.'<br><ul><li><b>will give</b> (verb (future simple)): 'Will give' is the simple future tense, used for actions that will happen in the future. It does not fit here because the plant is already dead (past event).</li><li><b>would have given</b> (modal perfect): 'Would have given' is used in third conditional sentences to talk about hypothetical situations in the past, often with an 'if' clause. There is no 'if' clause here, so it is not suitable.</li><li><b>must give</b> (modal verb (present/future)): 'Must give' expresses obligation in the present or future. It is not appropriate because the action needed to happen in the past.</li><li><b>should have given</b> (modal perfect): 'Should have given' is used to express regret or criticism about something that did not happen in the past. This fits the context of the sentence.</li></ul><b>Related structure or vocabulary:</b> should have + past participle: used to express regret or criticism about a past action that did not happen.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4e9f",
+        "questionNumber": 11,
+        "questionText": "- \"Must we do it now?\" -\"No, you________.”",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "won't",
+            "raw": "A. won't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "needn't",
+            "raw": "B. needn't",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "can't",
+            "raw": "C. can't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "don't",
+            "raw": "D. don't",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In the question, the phrase 'Must we do it now?' is asking if it is necessary to do something immediately. The correct response should indicate that it is not necessary. The word 'needn't' is the contracted form of 'need not', which is used to express lack of necessity or obligation. Therefore, 'No, you needn't.' means 'No, you do not need to do it now.'<br><ul><li><b>won't</b> (modal verb (future negative)): 'Won't' is the contraction of 'will not', which expresses future refusal or unwillingness, not lack of necessity.</li><li><b>needn't</b> (modal verb (negative necessity)): 'Needn't' is the contraction of 'need not', used to express that something is not necessary or required.</li><li><b>can't</b> (modal verb (impossibility/permission)): 'Can't' is the contraction of 'cannot', which expresses impossibility or lack of permission, not lack of necessity.</li><li><b>don't</b> (auxiliary verb (negative)): 'Don't' is the contraction of 'do not', which is a general negative form but does not fit the modal structure required after 'must' in this context.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for necessity and lack of necessity: 'must' (necessity), 'needn't' (lack of necessity). Structure: 'Must we...? – No, you needn't.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu hỏi, cụm 'Must we do it now?' hỏi rằng liệu chúng ta có bắt buộc phải làm điều đó ngay bây giờ không. Đáp án đúng cần thể hiện rằng không cần thiết phải làm ngay. 'Needn't' là dạng rút gọn của 'need not', dùng để diễn đạt sự không cần thiết hoặc không bắt buộc. Vì vậy, 'No, you needn't.' nghĩa là 'Không, bạn không cần phải làm ngay bây giờ.'<br><ul><li><b>won't</b> (động từ khuyết thiếu (phủ định tương lai)): 'Won't' là dạng rút gọn của 'will not', dùng để diễn đạt sự từ chối hoặc không sẵn lòng trong tương lai, không phải là sự không cần thiết.</li><li><b>needn't</b> (động từ khuyết thiếu (phủ định sự cần thiết)): 'Needn't' là dạng rút gọn của 'need not', dùng để diễn đạt điều gì đó không cần thiết hoặc không bắt buộc.</li><li><b>can't</b> (động từ khuyết thiếu (không thể/không cho phép)): 'Can't' là dạng rút gọn của 'cannot', dùng để diễn đạt sự không thể hoặc không được phép, không phải là sự không cần thiết.</li><li><b>don't</b> (trợ động từ (phủ định)): 'Don't' là dạng rút gọn của 'do not', là dạng phủ định chung nhưng không phù hợp với cấu trúc động từ khuyết thiếu sau 'must' trong ngữ cảnh này.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu chỉ sự cần thiết và không cần thiết: 'must' (cần thiết), 'needn't' (không cần thiết). Cấu trúc: 'Must we...? – No, you needn't.'<br><br><b>Tạm dịch:</b> Câu hỏi: 'Chúng ta phải làm điều đó ngay bây giờ à?' – 'Không, bạn không cần.'",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In the question, the phrase 'Must we do it now?' is asking if it is necessary to do something immediately. The correct response should indicate that it is not necessary. The word 'needn't' is the contracted form of 'need not', which is used to express lack of necessity or obligation. Therefore, 'No, you needn't.' means 'No, you do not need to do it now.'<br><ul><li><b>won't</b> (modal verb (future negative)): 'Won't' is the contraction of 'will not', which expresses future refusal or unwillingness, not lack of necessity.</li><li><b>needn't</b> (modal verb (negative necessity)): 'Needn't' is the contraction of 'need not', used to express that something is not necessary or required.</li><li><b>can't</b> (modal verb (impossibility/permission)): 'Can't' is the contraction of 'cannot', which expresses impossibility or lack of permission, not lack of necessity.</li><li><b>don't</b> (auxiliary verb (negative)): 'Don't' is the contraction of 'do not', which is a general negative form but does not fit the modal structure required after 'must' in this context.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for necessity and lack of necessity: 'must' (necessity), 'needn't' (lack of necessity). Structure: 'Must we...? – No, you needn't.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea0",
+        "questionNumber": 12,
+        "questionText": "Hurry up! Tom________for us at the school gate.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "must wait",
+            "raw": "A. must wait\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "must be waiting",
+            "raw": "B. must be waiting",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "must be waited",
+            "raw": "C. must be waited\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "must have been waited",
+            "raw": "D. must have been waited",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb phrase that describes an action happening right now. The sentence 'Hurry up! Tom ________ for us at the school gate.' suggests that Tom is currently waiting for us. The correct structure to express an action happening at the moment with a degree of certainty is 'must be + V-ing' (present continuous tense with modal verb 'must').<br><ul><li><b>must wait</b> (modal verb + base verb): 'must wait' is the base form of the verb, which means Tom is required to wait, but it does not fit the context of an action happening right now.</li><li><b>must be waiting</b> (modal verb + be + V-ing): 'must be waiting' is the correct present continuous form with 'must', indicating Tom is very likely waiting for us at this moment.</li><li><b>must be waited</b> (modal verb + be + V-ed (passive)): 'must be waited' is a passive form, which is incorrect here because Tom is the one doing the action, not receiving it.</li><li><b>must have been waited</b> (modal verb + have been + V-ed (perfect passive)): 'must have been waited' is a perfect passive form, which is not suitable for the present continuous action described in the sentence.</li></ul><b>Related structure or vocabulary:</b> Modal verb 'must' + be + V-ing: used to express a logical conclusion about an action happening right now.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm động từ diễn tả hành động đang xảy ra ở hiện tại. Câu 'Hurry up! Tom ________ for us at the school gate.' cho thấy Tom đang đợi chúng ta ngay lúc này. Cấu trúc đúng để diễn tả hành động đang xảy ra với mức độ chắc chắn là 'must be + V-ing' (thì hiện tại tiếp diễn với động từ khuyết thiếu 'must').<br><ul><li><b>must wait</b> (động từ khuyết thiếu + động từ nguyên thể): 'must wait' là động từ nguyên thể, mang nghĩa Tom phải đợi, nhưng không phù hợp với ngữ cảnh hành động đang diễn ra ngay lúc này.</li><li><b>must be waiting</b> (động từ khuyết thiếu + be + V-ing): 'must be waiting' là thì hiện tại tiếp diễn với 'must', diễn tả Tom rất có thể đang đợi chúng ta ngay lúc này.</li><li><b>must be waited</b> (động từ khuyết thiếu + be + V-ed (bị động)): 'must be waited' là dạng bị động, không phù hợp vì Tom là người thực hiện hành động, không phải người bị tác động.</li><li><b>must have been waited</b> (động từ khuyết thiếu + have been + V-ed (hoàn thành bị động)): 'must have been waited' là dạng hoàn thành bị động, không phù hợp với hành động đang diễn ra ở hiện tại.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: Modal verb 'must' + be + V-ing: dùng để diễn tả suy luận logic về hành động đang xảy ra ở hiện tại.<br><br><b>Tạm dịch:</b> Hurry up! Tom must be waiting for us at the school gate. --> Nhanh lên! Tom chắc hẳn đang đợi chúng ta ở cổng trường.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a verb phrase that describes an action happening right now. The sentence 'Hurry up! Tom ________ for us at the school gate.' suggests that Tom is currently waiting for us. The correct structure to express an action happening at the moment with a degree of certainty is 'must be + V-ing' (present continuous tense with modal verb 'must').<br><ul><li><b>must wait</b> (modal verb + base verb): 'must wait' is the base form of the verb, which means Tom is required to wait, but it does not fit the context of an action happening right now.</li><li><b>must be waiting</b> (modal verb + be + V-ing): 'must be waiting' is the correct present continuous form with 'must', indicating Tom is very likely waiting for us at this moment.</li><li><b>must be waited</b> (modal verb + be + V-ed (passive)): 'must be waited' is a passive form, which is incorrect here because Tom is the one doing the action, not receiving it.</li><li><b>must have been waited</b> (modal verb + have been + V-ed (perfect passive)): 'must have been waited' is a perfect passive form, which is not suitable for the present continuous action described in the sentence.</li></ul><b>Related structure or vocabulary:</b> Modal verb 'must' + be + V-ing: used to express a logical conclusion about an action happening right now.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea1",
+        "questionNumber": 13,
+        "questionText": "\"I think Jane is at home.\"\"No, she_________be at home, for she phoned me from the airport just ten minutes ago.\"",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "mustn't",
+            "raw": "A. mustn't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "needn't",
+            "raw": "B. needn't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "can't",
+            "raw": "C. can't",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "daren't",
+            "raw": "D. daren't",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are looking for a modal verb that expresses impossibility in the present. The context is: Jane cannot be at home because she called from the airport just ten minutes ago. The modal verb 'can't' is used to express strong disbelief or impossibility about a present situation.<br><ul><li><b>mustn't</b> (modal verb): 'Mustn't' is used to express prohibition, not impossibility. For example: 'You mustn't smoke here.'</li><li><b>needn't</b> (modal verb): 'Needn't' is used to express lack of necessity. For example: 'You needn't come early.'</li><li><b>can't</b> (modal verb): 'Can't' is used to express impossibility or disbelief in the present. For example: 'She can't be at home.'</li><li><b>daren't</b> (modal verb): 'Daren't' is a contraction of 'dare not', used to express lack of courage to do something. For example: 'I daren't tell him the truth.'</li></ul><b>Related structure or vocabulary:</b> Modal verbs for deduction: 'must', 'can't', 'might', 'could' + bare infinitive. 'Can't' is used for strong negative deduction in the present.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta cần một động từ khuyết thiếu diễn tả sự không thể xảy ra ở hiện tại. Ngữ cảnh là: Jane không thể ở nhà vì cô ấy vừa gọi điện từ sân bay cách đây mười phút. Động từ khuyết thiếu 'can't' được dùng để diễn tả sự không tin hoặc không thể xảy ra ở hiện tại.<br><ul><li><b>mustn't</b> (động từ khuyết thiếu): 'Mustn't' dùng để diễn tả sự cấm đoán, không phải sự không thể. Ví dụ: 'You mustn't smoke here.' (Bạn không được hút thuốc ở đây.)</li><li><b>needn't</b> (động từ khuyết thiếu): 'Needn't' dùng để diễn tả sự không cần thiết. Ví dụ: 'You needn't come early.' (Bạn không cần đến sớm.)</li><li><b>can't</b> (động từ khuyết thiếu): 'Can't' dùng để diễn tả sự không thể hoặc không tin ở hiện tại. Ví dụ: 'She can't be at home.' (Cô ấy không thể ở nhà được.)</li><li><b>daren't</b> (động từ khuyết thiếu): 'Daren't' là dạng rút gọn của 'dare not', dùng để diễn tả sự không dám làm gì đó. Ví dụ: 'I daren't tell him the truth.' (Tôi không dám nói sự thật với anh ấy.)</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu dùng để suy luận: 'must', 'can't', 'might', 'could' + động từ nguyên thể không 'to'. 'Can't' dùng để diễn tả sự suy luận phủ định mạnh ở hiện tại.<br><br><b>Tạm dịch:</b> Tôi nghĩ Jane đang ở nhà. Không, cô ấy không thể ở nhà được, vì cô ấy vừa gọi cho tôi từ sân bay cách đây mười phút.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are looking for a modal verb that expresses impossibility in the present. The context is: Jane cannot be at home because she called from the airport just ten minutes ago. The modal verb 'can't' is used to express strong disbelief or impossibility about a present situation.<br><ul><li><b>mustn't</b> (modal verb): 'Mustn't' is used to express prohibition, not impossibility. For example: 'You mustn't smoke here.'</li><li><b>needn't</b> (modal verb): 'Needn't' is used to express lack of necessity. For example: 'You needn't come early.'</li><li><b>can't</b> (modal verb): 'Can't' is used to express impossibility or disbelief in the present. For example: 'She can't be at home.'</li><li><b>daren't</b> (modal verb): 'Daren't' is a contraction of 'dare not', used to express lack of courage to do something. For example: 'I daren't tell him the truth.'</li></ul><b>Related structure or vocabulary:</b> Modal verbs for deduction: 'must', 'can't', 'might', 'could' + bare infinitive. 'Can't' is used for strong negative deduction in the present.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea2",
+        "questionNumber": 14,
+        "questionText": "There are so many types here, and I really don't know which one I _______ choose.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "should",
+            "raw": "A. should",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "can",
+            "raw": "B. can\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "may",
+            "raw": "C. may\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "must",
+            "raw": "D. must",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is expressing uncertainty about which option to select among many types. The blank requires a modal verb that fits the context of making a choice. 'Should' is used to ask for or give advice or to talk about what is the best or right thing to do in a situation. Here, 'should' fits best because the speaker is unsure and is considering what is the most appropriate choice.<br><ul><li><b>should</b> (modal verb): Used to give or ask for advice, or to talk about what is the best or right thing to do.</li><li><b>can</b> (modal verb): Used to express ability or possibility, not about advice or making the best choice.</li><li><b>may</b> (modal verb): Used to express permission or possibility, but not commonly used for making choices.</li><li><b>must</b> (modal verb): Used to express necessity or obligation, which does not fit the context of uncertainty or choice.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for advice: should + base verb (e.g., should choose).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, người nói đang bày tỏ sự không chắc chắn về việc nên chọn loại nào trong số rất nhiều loại. Chỗ trống cần một động từ khuyết thiếu phù hợp với ngữ cảnh đưa ra lựa chọn. 'Should' được dùng để xin hoặc đưa ra lời khuyên, hoặc nói về điều tốt nhất hoặc đúng đắn nên làm trong một tình huống. Ở đây, 'should' là phù hợp nhất vì người nói đang phân vân và cân nhắc điều gì là lựa chọn thích hợp nhất.<br><ul><li><b>should</b> (động từ khuyết thiếu): Được dùng để đưa ra hoặc xin lời khuyên, hoặc nói về điều tốt nhất hoặc đúng đắn nên làm.</li><li><b>can</b> (động từ khuyết thiếu): Được dùng để diễn tả khả năng hoặc sự cho phép, không phù hợp với ngữ cảnh xin lời khuyên hoặc lựa chọn tốt nhất.</li><li><b>may</b> (động từ khuyết thiếu): Được dùng để diễn tả sự cho phép hoặc khả năng, nhưng không thường dùng để nói về việc lựa chọn.</li><li><b>must</b> (động từ khuyết thiếu): Được dùng để diễn tả sự bắt buộc hoặc cần thiết, không phù hợp với ngữ cảnh phân vân hoặc lựa chọn.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu dùng để xin lời khuyên: should + động từ nguyên mẫu (ví dụ: should choose).<br><br><b>Tạm dịch:</b> Có rất nhiều loại ở đây, và tôi thực sự không biết mình nên chọn loại nào.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, the speaker is expressing uncertainty about which option to select among many types. The blank requires a modal verb that fits the context of making a choice. 'Should' is used to ask for or give advice or to talk about what is the best or right thing to do in a situation. Here, 'should' fits best because the speaker is unsure and is considering what is the most appropriate choice.<br><ul><li><b>should</b> (modal verb): Used to give or ask for advice, or to talk about what is the best or right thing to do.</li><li><b>can</b> (modal verb): Used to express ability or possibility, not about advice or making the best choice.</li><li><b>may</b> (modal verb): Used to express permission or possibility, but not commonly used for making choices.</li><li><b>must</b> (modal verb): Used to express necessity or obligation, which does not fit the context of uncertainty or choice.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for advice: should + base verb (e.g., should choose).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea3",
+        "questionNumber": 15,
+        "questionText": "I _______ play basketball than football.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would rather",
+            "raw": "A. would rather",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "had better",
+            "raw": "B. had better\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "like better",
+            "raw": "C. like better\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "prefer",
+            "raw": "D. prefer",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _______ play basketball than football.' requires a structure that expresses preference between two activities. The correct structure is 'would rather + V (bare infinitive) + than + V (bare infinitive)', which means you prefer one activity over another.<br><ul><li><b>would rather</b> (modal phrase): Used to express preference between two actions. The correct structure is 'would rather + V (bare infinitive) + than + V (bare infinitive)'.</li><li><b>had better</b> (modal phrase): Used to give advice or suggest what is best to do, not to express preference.</li><li><b>like better</b> (verb phrase): Not a standard structure in English. The correct form is 'like ... better than ...', but it does not fit the blank grammatically.</li><li><b>prefer</b> (verb): Used to express preference, but the correct structure is 'prefer + V-ing + to + V-ing' or 'prefer + noun + to + noun'.</li></ul><b>Related structure or vocabulary:</b> would rather + V (bare infinitive) + than + V (bare infinitive): used to express preference between two actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I _______ play basketball than football.' cần một cấu trúc diễn đạt sự ưu tiên giữa hai hoạt động. Cấu trúc đúng là 'would rather + V (nguyên thể không to) + than + V (nguyên thể không to)', nghĩa là bạn thích làm việc này hơn việc kia.<br><ul><li><b>would rather</b> (cụm động từ khuyết thiếu): Dùng để diễn đạt sự ưu tiên giữa hai hành động. Cấu trúc đúng là 'would rather + V (nguyên thể không to) + than + V (nguyên thể không to)'.</li><li><b>had better</b> (cụm động từ khuyết thiếu): Dùng để đưa ra lời khuyên hoặc gợi ý điều tốt nhất nên làm, không dùng để diễn đạt sự ưu tiên.</li><li><b>like better</b> (cụm động từ): Không phải là cấu trúc chuẩn trong tiếng Anh. Dạng đúng là 'like ... better than ...', nhưng không phù hợp với chỗ trống về mặt ngữ pháp.</li><li><b>prefer</b> (động từ): Dùng để diễn đạt sự ưu tiên, nhưng cấu trúc đúng là 'prefer + V-ing + to + V-ing' hoặc 'prefer + danh từ + to + danh từ'.</li></ul><b>Cấu trúc và từ vựng:</b> would rather + V (nguyên thể không to) + than + V (nguyên thể không to): dùng để diễn đạt sự ưu tiên giữa hai hành động.<br><br><b>Tạm dịch:</b> Tôi thích chơi bóng rổ hơn là bóng đá.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I _______ play basketball than football.' requires a structure that expresses preference between two activities. The correct structure is 'would rather + V (bare infinitive) + than + V (bare infinitive)', which means you prefer one activity over another.<br><ul><li><b>would rather</b> (modal phrase): Used to express preference between two actions. The correct structure is 'would rather + V (bare infinitive) + than + V (bare infinitive)'.</li><li><b>had better</b> (modal phrase): Used to give advice or suggest what is best to do, not to express preference.</li><li><b>like better</b> (verb phrase): Not a standard structure in English. The correct form is 'like ... better than ...', but it does not fit the blank grammatically.</li><li><b>prefer</b> (verb): Used to express preference, but the correct structure is 'prefer + V-ing + to + V-ing' or 'prefer + noun + to + noun'.</li></ul><b>Related structure or vocabulary:</b> would rather + V (bare infinitive) + than + V (bare infinitive): used to express preference between two actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea4",
+        "questionNumber": 16,
+        "questionText": "You'd better_________late next time.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "don't",
+            "raw": "A. don't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "not be",
+            "raw": "B. not be",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "not being",
+            "raw": "C. not being\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "won't be",
+            "raw": "D. won't be",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank comes after the phrase 'You'd better', which is a modal-like structure used to give advice or warnings. After 'had better', we use the base form of the verb (bare infinitive) without 'to'.<br><ul><li><b>don't</b> (auxiliary verb): 'Don't' is the negative form of the present simple tense, not the bare infinitive. It is not used after 'had better'.</li><li><b>not be</b> (bare infinitive (negative)): 'Not be' is the correct form. After 'had better', we use the bare infinitive. To make it negative, we put 'not' before the verb: 'had better not be'.</li><li><b>not being</b> (gerund/participle): 'Not being' is the gerund/participle form, which is not used after 'had better'.</li><li><b>won't be</b> (future simple (negative)): 'Won't be' is the negative form of the future simple tense, which is not used after 'had better'.</li></ul><b>Related structure or vocabulary:</b> had better + (not) + bare infinitive: used to give advice or warnings<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống nằm sau cụm 'You'd better', đây là cấu trúc dùng để đưa ra lời khuyên hoặc cảnh báo. Sau 'had better', ta dùng động từ nguyên thể không 'to' (bare infinitive). Để phủ định, đặt 'not' trước động từ.<br><ul><li><b>don't</b> (trợ động từ): 'Don't' là dạng phủ định của thì hiện tại đơn, không phải động từ nguyên thể. Không dùng sau 'had better'.</li><li><b>not be</b> (động từ nguyên thể phủ định): 'Not be' là đáp án đúng. Sau 'had better', dùng động từ nguyên thể không 'to'. Để phủ định, đặt 'not' trước động từ: 'had better not be'.</li><li><b>not being</b> (danh động từ/hiện tại phân từ): 'Not being' là dạng V-ing (danh động từ/hiện tại phân từ), không dùng sau 'had better'.</li><li><b>won't be</b> (tương lai đơn phủ định): 'Won't be' là dạng phủ định của thì tương lai đơn, không dùng sau 'had better'.</li></ul><b>Cấu trúc và từ vựng:</b> had better + (not) + động từ nguyên thể không 'to': dùng để đưa ra lời khuyên hoặc cảnh báo<br><br><b>Tạm dịch:</b> Bạn không nên đến muộn lần sau.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank comes after the phrase 'You'd better', which is a modal-like structure used to give advice or warnings. After 'had better', we use the base form of the verb (bare infinitive) without 'to'.<br><ul><li><b>don't</b> (auxiliary verb): 'Don't' is the negative form of the present simple tense, not the bare infinitive. It is not used after 'had better'.</li><li><b>not be</b> (bare infinitive (negative)): 'Not be' is the correct form. After 'had better', we use the bare infinitive. To make it negative, we put 'not' before the verb: 'had better not be'.</li><li><b>not being</b> (gerund/participle): 'Not being' is the gerund/participle form, which is not used after 'had better'.</li><li><b>won't be</b> (future simple (negative)): 'Won't be' is the negative form of the future simple tense, which is not used after 'had better'.</li></ul><b>Related structure or vocabulary:</b> had better + (not) + bare infinitive: used to give advice or warnings<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea5",
+        "questionNumber": 17,
+        "questionText": "I ________ like to know where you were born.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "shall",
+            "raw": "A. shall\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "would",
+            "raw": "B. would",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "could",
+            "raw": "C. could\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "may",
+            "raw": "D. may",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ________ like to know where you were born.' requires a modal verb that fits the polite request or wish structure. In English, 'would like to' is a common polite way to express a desire or wish to do something.<br><ul><li><b>shall</b> (modal verb): 'Shall' is a modal verb often used for offers or suggestions, especially in British English, but it is not used in the structure 'shall like to'.</li><li><b>would</b> (modal verb): 'Would' is a modal verb used in the polite expression 'would like to', which means 'want to' in a more formal or polite way.</li><li><b>could</b> (modal verb): 'Could' is a modal verb used to express ability or polite requests, but 'could like to' is not a correct structure.</li><li><b>may</b> (modal verb): 'May' is a modal verb used to express permission or possibility, but 'may like to' is not a standard expression.</li></ul><b>Related structure or vocabulary:</b> 'Would like to' is a polite way to express a desire or wish. Structure: would like to + V (bare infinitive).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I ________ like to know where you were born.' cần một động từ khuyết thiếu phù hợp với cấu trúc diễn đạt mong muốn hoặc yêu cầu lịch sự. Trong tiếng Anh, 'would like to' là cách phổ biến và lịch sự để diễn đạt mong muốn hoặc ước muốn làm điều gì đó.<br><ul><li><b>shall</b> (động từ khuyết thiếu): 'Shall' là động từ khuyết thiếu thường dùng để đề nghị hoặc gợi ý (đặc biệt trong tiếng Anh-Anh), nhưng không dùng trong cấu trúc 'shall like to'.</li><li><b>would</b> (động từ khuyết thiếu): 'Would' là động từ khuyết thiếu dùng trong cấu trúc lịch sự 'would like to', mang nghĩa là 'muốn' một cách trang trọng, lịch sự.</li><li><b>could</b> (động từ khuyết thiếu): 'Could' là động từ khuyết thiếu dùng để diễn đạt khả năng hoặc yêu cầu lịch sự, nhưng 'could like to' không phải là cấu trúc đúng.</li><li><b>may</b> (động từ khuyết thiếu): 'May' là động từ khuyết thiếu dùng để diễn đạt sự cho phép hoặc khả năng, nhưng 'may like to' không phải là cách diễn đạt chuẩn.</li></ul><b>Cấu trúc và từ vựng:</b> 'Would like to' là cấu trúc lịch sự để diễn đạt mong muốn hoặc ước muốn. Cấu trúc: would like to + V (động từ nguyên thể không 'to').<br><br><b>Tạm dịch:</b> Tôi muốn biết bạn sinh ra ở đâu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I ________ like to know where you were born.' requires a modal verb that fits the polite request or wish structure. In English, 'would like to' is a common polite way to express a desire or wish to do something.<br><ul><li><b>shall</b> (modal verb): 'Shall' is a modal verb often used for offers or suggestions, especially in British English, but it is not used in the structure 'shall like to'.</li><li><b>would</b> (modal verb): 'Would' is a modal verb used in the polite expression 'would like to', which means 'want to' in a more formal or polite way.</li><li><b>could</b> (modal verb): 'Could' is a modal verb used to express ability or polite requests, but 'could like to' is not a correct structure.</li><li><b>may</b> (modal verb): 'May' is a modal verb used to express permission or possibility, but 'may like to' is not a standard expression.</li></ul><b>Related structure or vocabulary:</b> 'Would like to' is a polite way to express a desire or wish. Structure: would like to + V (bare infinitive).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea6",
+        "questionNumber": 18,
+        "questionText": "You__________the look on his face when he won the prize.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "would have seen",
+            "raw": "A. would have seen",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "can be seeing",
+            "raw": "B. can be seeing\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "must see",
+            "raw": "C. must see\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "should have seen",
+            "raw": "D. should have seen",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb phrase that fits the context of expressing a strong recommendation or regret about a past event. The sentence refers to a specific moment in the past ('when he won the prize'), so the correct answer must be a modal verb with a perfect infinitive (have + past participle) to indicate a past action that did not happen, but the speaker thinks it would have been good if it had.<br><ul><li><b>would have seen</b> (modal verb + perfect infinitive): This is the modal 'would' + perfect infinitive, used to talk about hypothetical situations in the past. However, it is usually used in conditional sentences, not in this context.</li><li><b>can be seeing</b> (modal verb + continuous infinitive): This is the modal 'can' + be + present participle, which is not grammatically correct in this context and does not fit the meaning.</li><li><b>must see</b> (modal verb + base verb): This is the modal 'must' + base verb, used for strong necessity or deduction in the present or future, not the past.</li><li><b>should have seen</b> (modal verb + perfect infinitive): This is the modal 'should' + perfect infinitive, used to express a recommendation or expectation about a past event. It means 'It would have been good if you had seen the look on his face.' This fits the context perfectly.</li></ul><b>Related structure or vocabulary:</b> Modal verbs + perfect infinitive (should have + past participle): used to talk about past events that did not happen, expressing regret, criticism, or recommendation.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm động từ phù hợp với ngữ cảnh diễn tả sự khuyên nhủ hoặc tiếc nuối về một sự việc đã xảy ra trong quá khứ. Câu này nói về một thời điểm cụ thể trong quá khứ ('khi anh ấy thắng giải'), nên đáp án đúng phải là một động từ khuyết thiếu đi với dạng hoàn thành (have + V3) để chỉ một hành động trong quá khứ mà người nói nghĩ rằng sẽ tốt nếu nó đã xảy ra.<br><ul><li><b>would have seen</b> (động từ khuyết thiếu + động từ hoàn thành): Đây là cấu trúc 'would' + động từ hoàn thành, thường dùng để nói về tình huống giả định trong quá khứ, chủ yếu dùng trong câu điều kiện, không phù hợp với ngữ cảnh này.</li><li><b>can be seeing</b> (động từ khuyết thiếu + động từ tiếp diễn): Đây là cấu trúc 'can' + be + V-ing, không đúng ngữ pháp trong trường hợp này và không phù hợp về nghĩa.</li><li><b>must see</b> (động từ khuyết thiếu + động từ nguyên thể): Đây là cấu trúc 'must' + động từ nguyên thể, dùng để diễn tả sự cần thiết hoặc suy luận mạnh ở hiện tại hoặc tương lai, không dùng cho quá khứ.</li><li><b>should have seen</b> (động từ khuyết thiếu + động từ hoàn thành): Đây là cấu trúc 'should' + động từ hoàn thành, dùng để diễn tả lời khuyên, mong đợi hoặc tiếc nuối về một việc đã xảy ra trong quá khứ. Nghĩa là 'Lẽ ra bạn nên nhìn thấy vẻ mặt của anh ấy khi anh ấy thắng giải.' Rất phù hợp với ngữ cảnh.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu + have + V3 (should have + quá khứ phân từ): dùng để nói về sự việc trong quá khứ không xảy ra, thể hiện sự tiếc nuối, phê bình hoặc khuyên nhủ.<br><br><b>Tạm dịch:</b> Bạn lẽ ra nên nhìn thấy vẻ mặt của anh ấy khi anh ấy thắng giải.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a verb phrase that fits the context of expressing a strong recommendation or regret about a past event. The sentence refers to a specific moment in the past ('when he won the prize'), so the correct answer must be a modal verb with a perfect infinitive (have + past participle) to indicate a past action that did not happen, but the speaker thinks it would have been good if it had.<br><ul><li><b>would have seen</b> (modal verb + perfect infinitive): This is the modal 'would' + perfect infinitive, used to talk about hypothetical situations in the past. However, it is usually used in conditional sentences, not in this context.</li><li><b>can be seeing</b> (modal verb + continuous infinitive): This is the modal 'can' + be + present participle, which is not grammatically correct in this context and does not fit the meaning.</li><li><b>must see</b> (modal verb + base verb): This is the modal 'must' + base verb, used for strong necessity or deduction in the present or future, not the past.</li><li><b>should have seen</b> (modal verb + perfect infinitive): This is the modal 'should' + perfect infinitive, used to express a recommendation or expectation about a past event. It means 'It would have been good if you had seen the look on his face.' This fits the context perfectly.</li></ul><b>Related structure or vocabulary:</b> Modal verbs + perfect infinitive (should have + past participle): used to talk about past events that did not happen, expressing regret, criticism, or recommendation.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea7",
+        "questionNumber": 19,
+        "questionText": "When my father was young, he_________work in the garden for long hours.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "can",
+            "raw": "A. can\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "could",
+            "raw": "B. could",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "will",
+            "raw": "C. will\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "should",
+            "raw": "D. should",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a modal verb in the past tense to express an ability that existed in the past. 'When my father was young' indicates a past time, so we need a modal verb that matches this context. 'Could' is the past tense of 'can' and is used to talk about general abilities in the past.<br><ul><li><b>can</b> (modal verb (present)): 'Can' is a modal verb used to express ability in the present.</li><li><b>could</b> (modal verb (past)): 'Could' is the past tense of 'can', used to express ability in the past.</li><li><b>will</b> (modal verb (future)): 'Will' is a modal verb used to express future actions or abilities.</li><li><b>should</b> (modal verb (advice/obligation)): 'Should' is a modal verb used to give advice or express obligation.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for ability: can (present), could (past). Structure: could + base verb (expressing past ability).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một động từ khuyết thiếu ở thì quá khứ để diễn tả khả năng trong quá khứ. Cụm 'When my father was young' (Khi bố tôi còn trẻ) chỉ thời gian trong quá khứ, vì vậy ta cần một động từ khuyết thiếu phù hợp với ngữ cảnh này. 'Could' là thì quá khứ của 'can' và được dùng để nói về khả năng chung trong quá khứ.<br><ul><li><b>can</b> (động từ khuyết thiếu (hiện tại)): 'Can' là động từ khuyết thiếu dùng để diễn tả khả năng ở hiện tại.</li><li><b>could</b> (động từ khuyết thiếu (quá khứ)): 'Could' là thì quá khứ của 'can', dùng để diễn tả khả năng trong quá khứ.</li><li><b>will</b> (động từ khuyết thiếu (tương lai)): 'Will' là động từ khuyết thiếu dùng để diễn tả hành động hoặc khả năng trong tương lai.</li><li><b>should</b> (động từ khuyết thiếu (lời khuyên/nghĩa vụ)): 'Should' là động từ khuyết thiếu dùng để đưa ra lời khuyên hoặc diễn tả sự nên làm.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu diễn tả khả năng: can (hiện tại), could (quá khứ). Cấu trúc: could + động từ nguyên thể (diễn tả khả năng trong quá khứ).<br><br><b>Tạm dịch:</b> Khi bố tôi còn trẻ, ông ấy có thể làm việc trong vườn hàng giờ liền.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a modal verb in the past tense to express an ability that existed in the past. 'When my father was young' indicates a past time, so we need a modal verb that matches this context. 'Could' is the past tense of 'can' and is used to talk about general abilities in the past.<br><ul><li><b>can</b> (modal verb (present)): 'Can' is a modal verb used to express ability in the present.</li><li><b>could</b> (modal verb (past)): 'Could' is the past tense of 'can', used to express ability in the past.</li><li><b>will</b> (modal verb (future)): 'Will' is a modal verb used to express future actions or abilities.</li><li><b>should</b> (modal verb (advice/obligation)): 'Should' is a modal verb used to give advice or express obligation.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for ability: can (present), could (past). Structure: could + base verb (expressing past ability).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62248cf783f28145bcbb4ea8",
+        "questionNumber": 20,
+        "questionText": "He________ have committed the crime because he was with me that day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "mustn't",
+            "raw": "A. mustn't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "shouldn't",
+            "raw": "B. shouldn't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "won't",
+            "raw": "C. won't\t",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "couldn't",
+            "raw": "D. couldn't",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about the impossibility of someone committing a crime because they have an alibi (they were with the speaker that day). In English, to express that something was impossible in the past, we use 'couldn't have + past participle'.<br><ul><li><b>mustn't</b> (modal verb): 'Mustn't' is used to express prohibition in the present or future, not impossibility in the past.</li><li><b>shouldn't</b> (modal verb): 'Shouldn't' is used to express advice or expectation, not impossibility.</li><li><b>won't</b> (modal verb): 'Won't' is the contraction of 'will not', used for future refusal or prediction, not for past impossibility.</li><li><b>couldn't</b> (modal verb + perfect infinitive): 'Couldn't have + past participle' is used to express that something was impossible in the past.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for deduction in the past: 'couldn't have + past participle' is used to say that something was impossible in the past.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Trong câu này, chúng ta đang nói về việc ai đó không thể phạm tội vì họ có bằng chứng ngoại phạm (họ ở cùng người nói vào ngày hôm đó). Trong tiếng Anh, để diễn đạt điều gì đó là không thể xảy ra trong quá khứ, ta dùng cấu trúc 'couldn't have + quá khứ phân từ'.<br><ul><li><b>mustn't</b> (động từ khuyết thiếu): 'Mustn't' dùng để diễn đạt sự cấm đoán ở hiện tại hoặc tương lai, không dùng để nói về điều không thể xảy ra trong quá khứ.</li><li><b>shouldn't</b> (động từ khuyết thiếu): 'Shouldn't' dùng để khuyên nhủ hoặc diễn đạt sự mong đợi, không dùng để nói về điều không thể.</li><li><b>won't</b> (động từ khuyết thiếu): 'Won't' là dạng rút gọn của 'will not', dùng cho sự từ chối hoặc dự đoán trong tương lai, không dùng cho điều không thể trong quá khứ.</li><li><b>couldn't</b> (động từ khuyết thiếu + động từ nguyên mẫu hoàn thành): 'Couldn't have + quá khứ phân từ' dùng để diễn đạt điều gì đó là không thể xảy ra trong quá khứ.</li></ul><b>Cấu trúc và từ vựng:</b> Động từ khuyết thiếu diễn đạt suy luận trong quá khứ: 'couldn't have + quá khứ phân từ' dùng để nói điều gì đó là không thể xảy ra trong quá khứ.<br><br><b>Tạm dịch:</b> Anh ấy không thể đã phạm tội vì anh ấy đã ở cùng tôi vào ngày hôm đó.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>In this sentence, we are talking about the impossibility of someone committing a crime because they have an alibi (they were with the speaker that day). In English, to express that something was impossible in the past, we use 'couldn't have + past participle'.<br><ul><li><b>mustn't</b> (modal verb): 'Mustn't' is used to express prohibition in the present or future, not impossibility in the past.</li><li><b>shouldn't</b> (modal verb): 'Shouldn't' is used to express advice or expectation, not impossibility.</li><li><b>won't</b> (modal verb): 'Won't' is the contraction of 'will not', used for future refusal or prediction, not for past impossibility.</li><li><b>couldn't</b> (modal verb + perfect infinitive): 'Couldn't have + past participle' is used to express that something was impossible in the past.</li></ul><b>Related structure or vocabulary:</b> Modal verbs for deduction in the past: 'couldn't have + past participle' is used to say that something was impossible in the past.<br><br>"
+      }
+    }
+  ]
+}

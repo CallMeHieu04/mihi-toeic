@@ -1,0 +1,772 @@
+{
+  "topicId": "62247b4583f28145bcbb3299",
+  "title": "PASSIVE VOICE - Practice 4",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32c5",
+        "questionNumber": 1,
+        "questionText": "Somebody cleans the room every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The room every day is cleaned.",
+            "raw": "A. The room every day is cleaned.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The room is every day cleaned.",
+            "raw": "B. The room is every day cleaned.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The room is cleaned every day.",
+            "raw": "C. The room is cleaned every day.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence asks you to change the active voice sentence 'Somebody cleans the room every day.' into the passive voice. In passive voice, the object of the active sentence becomes the subject, and the verb is changed to the form 'be + past participle'. The adverb of frequency (every day) is usually placed at the end of the sentence.<br><ul><li><b>A. The room every day is cleaned.</b> (sentence): This sentence places the adverb 'every day' between the subject and the verb, which is not the usual word order in English passive sentences.</li><li><b>B. The room is every day cleaned.</b> (sentence): This sentence puts 'every day' between 'is' and 'cleaned', which is not natural in English. Adverbs of frequency like 'every day' are usually placed at the end of the sentence.</li><li><b>C. The room is cleaned every day.</b> (sentence): This is the correct passive form. The object 'the room' becomes the subject, 'is cleaned' is the passive verb, and 'every day' is correctly placed at the end.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle; Adverb placement: Adverbs of frequency (every day, always, often, etc.) are usually placed at the end of the sentence.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi này yêu cầu bạn chuyển câu chủ động 'Somebody cleans the room every day.' sang câu bị động. Trong câu bị động, tân ngữ của câu chủ động sẽ trở thành chủ ngữ, và động từ được chuyển sang dạng 'be + quá khứ phân từ'. Trạng từ chỉ tần suất (every day) thường được đặt ở cuối câu.<br><ul><li><b>A. The room every day is cleaned.</b> (câu): Câu này đặt trạng từ 'every day' giữa chủ ngữ và động từ, không đúng với trật tự từ thông thường trong câu bị động tiếng Anh.</li><li><b>B. The room is every day cleaned.</b> (câu): Câu này đặt 'every day' giữa 'is' và 'cleaned', không tự nhiên trong tiếng Anh. Trạng từ chỉ tần suất như 'every day' thường được đặt ở cuối câu.</li><li><b>C. The room is cleaned every day.</b> (câu): Đây là dạng bị động đúng. Tân ngữ 'the room' trở thành chủ ngữ, 'is cleaned' là động từ bị động, và 'every day' được đặt đúng ở cuối câu.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: be + quá khứ phân từ; Vị trí trạng từ: Trạng từ chỉ tần suất (every day, always, often,...) thường được đặt ở cuối câu.<br><br><b>Tạm dịch:</b> Căn phòng được dọn dẹp mỗi ngày.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence asks you to change the active voice sentence 'Somebody cleans the room every day.' into the passive voice. In passive voice, the object of the active sentence becomes the subject, and the verb is changed to the form 'be + past participle'. The adverb of frequency (every day) is usually placed at the end of the sentence.<br><ul><li><b>A. The room every day is cleaned.</b> (sentence): This sentence places the adverb 'every day' between the subject and the verb, which is not the usual word order in English passive sentences.</li><li><b>B. The room is every day cleaned.</b> (sentence): This sentence puts 'every day' between 'is' and 'cleaned', which is not natural in English. Adverbs of frequency like 'every day' are usually placed at the end of the sentence.</li><li><b>C. The room is cleaned every day.</b> (sentence): This is the correct passive form. The object 'the room' becomes the subject, 'is cleaned' is the passive verb, and 'every day' is correctly placed at the end.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle; Adverb placement: Adverbs of frequency (every day, always, often, etc.) are usually placed at the end of the sentence.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32c6",
+        "questionNumber": 2,
+        "questionText": "They cancelled all flights because of fog.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "All flights because of fog were cancelled.",
+            "raw": "A. All flights because of fog were cancelled.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "All flights were cancelled because of fog.",
+            "raw": "B. All flights were cancelled because of fog.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "All flights were because of fog cancelled.",
+            "raw": "C. All flights were because of fog cancelled.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They cancelled all flights because of fog.' is in the active voice. To change it to the passive voice, the object 'all flights' becomes the subject, and the verb 'cancelled' is changed to the passive form 'were cancelled'. The reason 'because of fog' remains at the end of the sentence. The correct passive sentence is: 'All flights were cancelled because of fog.'<br><ul><li><b>A. All flights because of fog were cancelled.</b> (sentence): This sentence is not correct because the phrase 'because of fog' is placed in the middle of the subject and verb, which is not natural in English sentence structure.</li><li><b>B. All flights were cancelled because of fog.</b> (sentence): This is the correct answer. It uses the correct passive structure: Subject + be (were) + past participle (cancelled) + reason (because of fog).</li><li><b>C. All flights were because of fog cancelled.</b> (sentence): This sentence is incorrect because the phrase 'because of fog' is placed between the auxiliary verb 'were' and the past participle 'cancelled', which is not grammatically correct.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + be + past participle (+ by + agent). 'Because of' is used to give a reason.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They cancelled all flights because of fog.' là câu chủ động. Khi chuyển sang câu bị động, tân ngữ 'all flights' trở thành chủ ngữ, động từ 'cancelled' chuyển sang dạng bị động 'were cancelled'. Lý do 'because of fog' vẫn giữ nguyên ở cuối câu. Câu bị động đúng là: 'All flights were cancelled because of fog.'<br><ul><li><b>A. All flights because of fog were cancelled.</b> (câu): Câu này không đúng vì cụm 'because of fog' đặt giữa chủ ngữ và động từ, không tự nhiên trong cấu trúc câu tiếng Anh.</li><li><b>B. All flights were cancelled because of fog.</b> (câu): Đây là đáp án đúng. Câu sử dụng đúng cấu trúc bị động: Chủ ngữ + be (were) + quá khứ phân từ (cancelled) + lý do (because of fog).</li><li><b>C. All flights were because of fog cancelled.</b> (câu): Câu này sai vì cụm 'because of fog' đặt giữa trợ động từ 'were' và quá khứ phân từ 'cancelled', không đúng ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: Chủ ngữ + be + quá khứ phân từ (+ by + tác nhân). 'Because of' dùng để nêu lý do.<br><br><b>Tạm dịch:</b> Họ đã hủy tất cả các chuyến bay vì sương mù.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They cancelled all flights because of fog.' is in the active voice. To change it to the passive voice, the object 'all flights' becomes the subject, and the verb 'cancelled' is changed to the passive form 'were cancelled'. The reason 'because of fog' remains at the end of the sentence. The correct passive sentence is: 'All flights were cancelled because of fog.'<br><ul><li><b>A. All flights because of fog were cancelled.</b> (sentence): This sentence is not correct because the phrase 'because of fog' is placed in the middle of the subject and verb, which is not natural in English sentence structure.</li><li><b>B. All flights were cancelled because of fog.</b> (sentence): This is the correct answer. It uses the correct passive structure: Subject + be (were) + past participle (cancelled) + reason (because of fog).</li><li><b>C. All flights were because of fog cancelled.</b> (sentence): This sentence is incorrect because the phrase 'because of fog' is placed between the auxiliary verb 'were' and the past participle 'cancelled', which is not grammatically correct.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + be + past participle (+ by + agent). 'Because of' is used to give a reason.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32c7",
+        "questionNumber": 3,
+        "questionText": "People don't use this road very often.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "This road is not used very often.",
+            "raw": "A. This road is not used very often.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Not very often this road is not used.",
+            "raw": "B. Not very often this road is not used.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "This road very often is not used.",
+            "raw": "C. This road very often is not used.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "This road not very often is used.",
+            "raw": "D. This road not very often is used.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'People don't use this road very often.' is in the active voice. To change it to the passive voice, the object 'this road' becomes the subject, and the verb 'use' is changed to the passive form 'is used'. The adverb 'very often' is placed after the verb. The correct passive sentence is: 'This road is not used very often.'<br><ul><li><b>A. This road is not used very often.</b> (Passive sentence): This is the correct passive form. The subject 'this road' is followed by the passive verb 'is not used', and the adverb 'very often' is placed at the end.</li><li><b>B. Not very often this road is not used.</b> (Incorrect sentence structure): This is not a correct English sentence. The word order is incorrect and does not follow passive voice structure.</li><li><b>C. This road very often is not used.</b> (Incorrect adverb placement): The adverb 'very often' is placed incorrectly in the sentence. In English, adverbs of frequency usually come after the verb 'to be' or before the main verb.</li><li><b>D. This road not very often is used.</b> (Incorrect sentence structure): This sentence has incorrect word order and does not follow the standard passive voice structure.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + be + past participle (+ by + agent). Adverb placement: Adverbs of frequency (like 'very often') usually come after the verb 'to be' or before the main verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'People don't use this road very often.' là câu chủ động. Khi chuyển sang câu bị động, tân ngữ 'this road' sẽ trở thành chủ ngữ, động từ 'use' chuyển sang dạng bị động là 'is used'. Trạng từ 'very often' được đặt sau động từ. Câu bị động đúng là: 'This road is not used very often.'<br><ul><li><b>A. This road is not used very often.</b> (Câu bị động): Đây là dạng bị động đúng. Chủ ngữ 'this road' đi với động từ bị động 'is not used', trạng từ 'very often' đặt ở cuối câu.</li><li><b>B. Not very often this road is not used.</b> (Cấu trúc câu sai): Câu này không đúng ngữ pháp tiếng Anh. Trật tự từ sai và không theo cấu trúc bị động.</li><li><b>C. This road very often is not used.</b> (Vị trí trạng từ sai): Trạng từ 'very often' đặt sai vị trí trong câu. Trong tiếng Anh, trạng từ chỉ tần suất thường đặt sau động từ 'to be' hoặc trước động từ chính.</li><li><b>D. This road not very often is used.</b> (Cấu trúc câu sai): Câu này có trật tự từ sai và không theo cấu trúc bị động chuẩn.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: Chủ ngữ + be + quá khứ phân từ (+ by + tác nhân). Vị trí trạng từ: Trạng từ chỉ tần suất (như 'very often') thường đặt sau động từ 'to be' hoặc trước động từ chính.<br><br><b>Tạm dịch:</b> Người ta không thường xuyên sử dụng con đường này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'People don't use this road very often.' is in the active voice. To change it to the passive voice, the object 'this road' becomes the subject, and the verb 'use' is changed to the passive form 'is used'. The adverb 'very often' is placed after the verb. The correct passive sentence is: 'This road is not used very often.'<br><ul><li><b>A. This road is not used very often.</b> (Passive sentence): This is the correct passive form. The subject 'this road' is followed by the passive verb 'is not used', and the adverb 'very often' is placed at the end.</li><li><b>B. Not very often this road is not used.</b> (Incorrect sentence structure): This is not a correct English sentence. The word order is incorrect and does not follow passive voice structure.</li><li><b>C. This road very often is not used.</b> (Incorrect adverb placement): The adverb 'very often' is placed incorrectly in the sentence. In English, adverbs of frequency usually come after the verb 'to be' or before the main verb.</li><li><b>D. This road not very often is used.</b> (Incorrect sentence structure): This sentence has incorrect word order and does not follow the standard passive voice structure.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Subject + be + past participle (+ by + agent). Adverb placement: Adverbs of frequency (like 'very often') usually come after the verb 'to be' or before the main verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32c8",
+        "questionNumber": 4,
+        "questionText": "Somebody accused me of stealing money.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I was accused stealing money.",
+            "raw": "A. I was accused stealing money.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "I was accused of stealing money.",
+            "raw": "B. I was accused of stealing money.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "I was accused of stealing money by somebody.",
+            "raw": "C. I was accused of stealing money by somebody.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence is a passive voice transformation. The active sentence is 'Somebody accused me of stealing money.' To change it to passive voice, the object 'me' becomes the subject 'I', and the verb 'accused' is changed to 'was accused'. The phrase 'of stealing money' remains the same because 'accuse of' is a fixed phrase, and the verb after 'of' must be in the V-ing form.<br><ul><li><b>A. I was accused stealing money.</b> (sentence): This choice is incorrect because it is missing the preposition 'of' after 'accused'. The correct structure is 'accused of'.</li><li><b>B. I was accused of stealing money.</b> (sentence): This is the correct answer. It uses the correct passive structure and the fixed phrase 'accused of'.</li><li><b>C. I was accused of stealing money by somebody.</b> (sentence): This sentence is grammatically correct, but it is not the best answer because 'by somebody' is unnecessary and unnatural in English when the agent is unknown or not important.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Object + was/were + past participle (+ by + agent). Accuse somebody of + V-ing: buộc tội ai đó làm gì.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này là dạng chuyển từ chủ động sang bị động. Câu chủ động là 'Somebody accused me of stealing money.' Khi chuyển sang bị động, tân ngữ 'me' trở thành chủ ngữ 'I', động từ 'accused' chuyển thành 'was accused'. Cụm 'of stealing money' giữ nguyên vì 'accuse of' là một cụm cố định, và động từ sau 'of' phải ở dạng V-ing.<br><ul><li><b>A. I was accused stealing money.</b> (câu): Đáp án này sai vì thiếu giới từ 'of' sau 'accused'. Cấu trúc đúng là 'accused of'.</li><li><b>B. I was accused of stealing money.</b> (câu): Đây là đáp án đúng. Sử dụng đúng cấu trúc bị động và cụm cố định 'accused of'.</li><li><b>C. I was accused of stealing money by somebody.</b> (câu): Câu này đúng về mặt ngữ pháp, nhưng không phải đáp án tốt nhất vì 'by somebody' là không cần thiết và không tự nhiên trong tiếng Anh khi không biết rõ hoặc không quan trọng người thực hiện hành động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: Tân ngữ + was/were + quá khứ phân từ (+ by + tác nhân). Accuse somebody of + V-ing: buộc tội ai đó làm gì.<br><br><b>Tạm dịch:</b> Tôi bị buộc tội ăn cắp tiền.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence is a passive voice transformation. The active sentence is 'Somebody accused me of stealing money.' To change it to passive voice, the object 'me' becomes the subject 'I', and the verb 'accused' is changed to 'was accused'. The phrase 'of stealing money' remains the same because 'accuse of' is a fixed phrase, and the verb after 'of' must be in the V-ing form.<br><ul><li><b>A. I was accused stealing money.</b> (sentence): This choice is incorrect because it is missing the preposition 'of' after 'accused'. The correct structure is 'accused of'.</li><li><b>B. I was accused of stealing money.</b> (sentence): This is the correct answer. It uses the correct passive structure and the fixed phrase 'accused of'.</li><li><b>C. I was accused of stealing money by somebody.</b> (sentence): This sentence is grammatically correct, but it is not the best answer because 'by somebody' is unnecessary and unnatural in English when the agent is unknown or not important.</li></ul><b>Related structure or vocabulary:</b> Passive voice: Object + was/were + past participle (+ by + agent). Accuse somebody of + V-ing: buộc tội ai đó làm gì.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32c9",
+        "questionNumber": 5,
+        "questionText": "How do people learn languages?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "How are languages learned?",
+            "raw": "A. How are languages learned?",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "How were languages learned by people?",
+            "raw": "B. How were languages learned by people?",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "How languages are learned?",
+            "raw": "C. How languages are learned?",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Languages are learned how?",
+            "raw": "D. Languages are learned how?",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question 'How do people learn languages?' is an active voice question in the present simple tense. The correct answer should be a question form that matches the original meaning and structure. 'How are languages learned?' is the passive voice equivalent of the original question, which is commonly used in English to ask about general processes.<br><ul><li><b>A. How are languages learned?</b> (Question (Passive Voice)): This is a correct passive voice question in the present simple tense. It asks about the general process of language learning.</li><li><b>B. How were languages learned by people?</b> (Question (Passive Voice, Past Simple)): This is a passive voice question but in the past simple tense, which does not match the original present simple tense.</li><li><b>C. How languages are learned?</b> (Incorrect Question Structure): This is not a correct question form in English. The auxiliary verb 'are' should come before the subject for a question.</li><li><b>D. Languages are learned how?</b> (Incorrect Question Structure): This is not a standard question structure in English. The word order is incorrect for forming a question.</li></ul><b>Related structure or vocabulary:</b> Passive voice question structure: How + be (am/is/are) + past participle + ...? Used to ask about general processes or actions.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi 'How do people learn languages?' là câu hỏi ở thể chủ động, thì hiện tại đơn. Đáp án đúng cần là một câu hỏi có cấu trúc tương đương về nghĩa và thì. 'How are languages learned?' là câu hỏi ở thể bị động, thì hiện tại đơn, thường được dùng trong tiếng Anh để hỏi về quá trình hoặc cách thức chung.<br><ul><li><b>A. How are languages learned?</b> (Câu hỏi (Thể bị động)): Đây là câu hỏi ở thể bị động, thì hiện tại đơn. Câu này hỏi về quá trình học ngôn ngữ nói chung.</li><li><b>B. How were languages learned by people?</b> (Câu hỏi (Thể bị động, Quá khứ đơn)): Đây là câu hỏi ở thể bị động nhưng ở thì quá khứ đơn, không phù hợp với thì hiện tại của câu gốc.</li><li><b>C. How languages are learned?</b> (Cấu trúc câu hỏi sai): Đây không phải là cấu trúc câu hỏi đúng trong tiếng Anh. Động từ 'are' cần đứng trước chủ ngữ để tạo thành câu hỏi.</li><li><b>D. Languages are learned how?</b> (Cấu trúc câu hỏi sai): Đây không phải là cấu trúc câu hỏi chuẩn trong tiếng Anh. Trật tự từ không đúng để tạo thành câu hỏi.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc câu hỏi bị động: How + be (am/is/are) + past participle + ...? Dùng để hỏi về quá trình hoặc hành động chung.<br><br><b>Tạm dịch:</b> Câu hỏi: Làm thế nào mọi người học ngôn ngữ? Đáp án đúng là A. How are languages learned? (Ngôn ngữ được học như thế nào?) Đây là câu hỏi bị động, dùng để hỏi về quá trình học ngôn ngữ nói chung.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question 'How do people learn languages?' is an active voice question in the present simple tense. The correct answer should be a question form that matches the original meaning and structure. 'How are languages learned?' is the passive voice equivalent of the original question, which is commonly used in English to ask about general processes.<br><ul><li><b>A. How are languages learned?</b> (Question (Passive Voice)): This is a correct passive voice question in the present simple tense. It asks about the general process of language learning.</li><li><b>B. How were languages learned by people?</b> (Question (Passive Voice, Past Simple)): This is a passive voice question but in the past simple tense, which does not match the original present simple tense.</li><li><b>C. How languages are learned?</b> (Incorrect Question Structure): This is not a correct question form in English. The auxiliary verb 'are' should come before the subject for a question.</li><li><b>D. Languages are learned how?</b> (Incorrect Question Structure): This is not a standard question structure in English. The word order is incorrect for forming a question.</li></ul><b>Related structure or vocabulary:</b> Passive voice question structure: How + be (am/is/are) + past participle + ...? Used to ask about general processes or actions.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32ca",
+        "questionNumber": 6,
+        "questionText": "People warned us not to go out alone.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "We were warned not going out alone.",
+            "raw": "A. We were warned not going out alone.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "We were warned not to go out alone by people.",
+            "raw": "B. We were warned not to go out alone by people.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "We weren't warned to go out alone.",
+            "raw": "C. We weren't warned to go out alone.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "We were warned not to go out alone.",
+            "raw": "D. We were warned not to go out alone.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'People warned us not to go out alone.' is in the active voice. To change it to the passive voice, we need to make 'us' the subject and use the passive structure: 'We were warned not to go out alone.' The verb 'warn' in the passive is followed by an object (us → we) and then the infinitive 'not to go out alone.'<br><ul><li><b>A. We were warned not going out alone.</b> (incorrect verb form): 'Not going' is incorrect here. After 'warned', we use 'not to go', not 'not going'.</li><li><b>B. We were warned not to go out alone by people.</b> (redundant agent): Although grammatically correct, adding 'by people' is unnecessary because 'people' is a general subject and usually omitted in passive sentences.</li><li><b>C. We weren't warned to go out alone.</b> (incorrect meaning): This changes the meaning. It says we were not warned to go out alone, which is the opposite of the original sentence.</li><li><b>D. We were warned not to go out alone.</b> (correct answer): This is the correct passive form. It keeps the original meaning and uses the correct structure: 'warned' + 'not to go'.</li></ul><b>Related structure or vocabulary:</b> Passive voice: S + was/were + past participle (+ to-infinitive). After 'warn', use 'not to do something' to express negative advice.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'People warned us not to go out alone.' là câu chủ động. Khi chuyển sang bị động, chủ ngữ 'us' sẽ thành 'we' và sử dụng cấu trúc bị động: 'We were warned not to go out alone.' Động từ 'warn' khi ở dạng bị động sẽ theo sau bởi tân ngữ (us → we) và động từ nguyên mẫu có 'to': 'not to go out alone.'<br><ul><li><b>A. We were warned not going out alone.</b> (sai dạng động từ): 'Not going' là sai ngữ pháp. Sau 'warned', phải dùng 'not to go', không dùng 'not going'.</li><li><b>B. We were warned not to go out alone by people.</b> (thừa tác nhân): Mặc dù đúng về ngữ pháp, nhưng 'by people' là không cần thiết vì 'people' là chủ ngữ chung chung, thường được lược bỏ trong câu bị động.</li><li><b>C. We weren't warned to go out alone.</b> (sai nghĩa): Câu này sai nghĩa. Nó có nghĩa là chúng tôi không được cảnh báo đi ra ngoài một mình, trái ngược với ý gốc.</li><li><b>D. We were warned not to go out alone.</b> (đáp án đúng): Đây là đáp án đúng. Câu bị động giữ nguyên nghĩa gốc và dùng đúng cấu trúc: 'warned' + 'not to go'.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: S + was/were + V3/ed (+ to-infinitive). Sau 'warn', dùng 'not to do something' để diễn đạt lời khuyên mang ý phủ định.<br><br><b>Tạm dịch:</b> Chúng tôi đã được cảnh báo không nên đi ra ngoài một mình.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'People warned us not to go out alone.' is in the active voice. To change it to the passive voice, we need to make 'us' the subject and use the passive structure: 'We were warned not to go out alone.' The verb 'warn' in the passive is followed by an object (us → we) and then the infinitive 'not to go out alone.'<br><ul><li><b>A. We were warned not going out alone.</b> (incorrect verb form): 'Not going' is incorrect here. After 'warned', we use 'not to go', not 'not going'.</li><li><b>B. We were warned not to go out alone by people.</b> (redundant agent): Although grammatically correct, adding 'by people' is unnecessary because 'people' is a general subject and usually omitted in passive sentences.</li><li><b>C. We weren't warned to go out alone.</b> (incorrect meaning): This changes the meaning. It says we were not warned to go out alone, which is the opposite of the original sentence.</li><li><b>D. We were warned not to go out alone.</b> (correct answer): This is the correct passive form. It keeps the original meaning and uses the correct structure: 'warned' + 'not to go'.</li></ul><b>Related structure or vocabulary:</b> Passive voice: S + was/were + past participle (+ to-infinitive). After 'warn', use 'not to do something' to express negative advice.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32cb",
+        "questionNumber": 7,
+        "questionText": "Somebody is using the computer at the moment.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The computer is being use at the moment.",
+            "raw": "A. The computer is being use at the moment.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "The computer at the moment is being used.",
+            "raw": "B. The computer at the moment is being used.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The computer is being used by somebody at the moment.",
+            "raw": "C. The computer is being used by somebody at the moment.",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "The computer is used at the moment.",
+            "raw": "D. The computer is used at the moment.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Somebody is using the computer at the moment.' is in the present continuous tense and is in the active voice. To change it to the passive voice, we use the structure: 'S + am/is/are + being + past participle (V3) + (by + agent)'. Here, 'the computer' becomes the subject, 'is being used' is the correct passive form of 'is using', and 'at the moment' is an adverb of time. The agent 'by somebody' is optional and can be omitted.<br><ul><li><b>A. The computer is being use at the moment.</b> (verb (incorrect form)): 'use' is the base form, but after 'being', we need the past participle 'used'.</li><li><b>B. The computer at the moment is being used.</b> (sentence structure): The adverb 'at the moment' is placed awkwardly in the sentence, making it less natural.</li><li><b>C. The computer is being used by somebody at the moment.</b> (passive sentence): This is the correct passive form: 'is being used' (present continuous passive), and 'by somebody' is optional.</li><li><b>D. The computer is used at the moment.</b> (verb tense): 'is used' is the present simple passive, not present continuous passive.</li></ul><b>Related structure or vocabulary:</b> Present continuous passive: S + am/is/are + being + V3 (past participle).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Somebody is using the computer at the moment.' ở thì hiện tại tiếp diễn (present continuous) và là câu chủ động. Khi chuyển sang câu bị động, ta dùng cấu trúc: 'S + am/is/are + being + quá khứ phân từ (V3) + (by + tác nhân)'. Ở đây, 'the computer' trở thành chủ ngữ, 'is being used' là dạng bị động đúng của 'is using', và 'at the moment' là trạng từ chỉ thời gian. Thành phần 'by somebody' có thể có hoặc không.<br><ul><li><b>A. The computer is being use at the moment.</b> (động từ (sai dạng)): 'use' là dạng nguyên thể, nhưng sau 'being' phải là quá khứ phân từ 'used'.</li><li><b>B. The computer at the moment is being used.</b> (cấu trúc câu): Trạng từ 'at the moment' đặt ở giữa câu khiến câu không tự nhiên.</li><li><b>C. The computer is being used by somebody at the moment.</b> (câu bị động): Đây là dạng bị động đúng: 'is being used' (hiện tại tiếp diễn bị động), 'by somebody' là tùy chọn.</li><li><b>D. The computer is used at the moment.</b> (thì động từ): 'is used' là thì hiện tại đơn bị động, không phải hiện tại tiếp diễn bị động.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động thì hiện tại tiếp diễn: S + am/is/are + being + V3 (quá khứ phân từ).<br><br><b>Tạm dịch:</b> Ai đó đang sử dụng máy tính vào lúc này. --> Máy tính đang được ai đó sử dụng vào lúc này.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Somebody is using the computer at the moment.' is in the present continuous tense and is in the active voice. To change it to the passive voice, we use the structure: 'S + am/is/are + being + past participle (V3) + (by + agent)'. Here, 'the computer' becomes the subject, 'is being used' is the correct passive form of 'is using', and 'at the moment' is an adverb of time. The agent 'by somebody' is optional and can be omitted.<br><ul><li><b>A. The computer is being use at the moment.</b> (verb (incorrect form)): 'use' is the base form, but after 'being', we need the past participle 'used'.</li><li><b>B. The computer at the moment is being used.</b> (sentence structure): The adverb 'at the moment' is placed awkwardly in the sentence, making it less natural.</li><li><b>C. The computer is being used by somebody at the moment.</b> (passive sentence): This is the correct passive form: 'is being used' (present continuous passive), and 'by somebody' is optional.</li><li><b>D. The computer is used at the moment.</b> (verb tense): 'is used' is the present simple passive, not present continuous passive.</li></ul><b>Related structure or vocabulary:</b> Present continuous passive: S + am/is/are + being + V3 (past participle).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32cc",
+        "questionNumber": 8,
+        "questionText": "I didn't realize that somebody was recording our conversation.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "I didn’t realize that our conversation was recorded.",
+            "raw": "A. I didn’t realize that our conversation was recorded.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "I didn't realize that our conversation was being recorded.",
+            "raw": "B. I didn't realize that our conversation was being recorded.",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Our conversation wasn't realized to be recorded.",
+            "raw": "C. Our conversation wasn't realized to be recorded.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'I didn't realize that somebody was recording our conversation.' is in the past continuous passive form. To change this sentence into the passive voice, we need to focus on the object 'our conversation' and use the correct passive structure for the past continuous tense, which is 'was/were being + past participle'.<br><ul><li><b>A. I didn’t realize that our conversation was recorded.</b> (sentence): This is in the past simple passive. It means the conversation was recorded at some point in the past, but it does not emphasize the ongoing action at the time.</li><li><b>B. I didn't realize that our conversation was being recorded.</b> (sentence): This is in the past continuous passive. It means the conversation was in the process of being recorded at that specific time, which matches the meaning of the original sentence.</li><li><b>C. Our conversation wasn't realized to be recorded.</b> (sentence): This sentence is grammatically incorrect and does not convey the intended meaning.</li></ul><b>Related structure or vocabulary:</b> Passive voice in past continuous: was/were being + past participle. Example: 'The cake was being baked when I arrived.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'I didn't realize that somebody was recording our conversation.' đang ở thì quá khứ tiếp diễn chủ động. Khi chuyển sang bị động, ta cần tập trung vào tân ngữ 'our conversation' và sử dụng cấu trúc bị động của thì quá khứ tiếp diễn là 'was/were being + past participle (V3)'.<br><ul><li><b>A. I didn’t realize that our conversation was recorded.</b> (câu): Đây là câu bị động ở thì quá khứ đơn. Nghĩa là cuộc trò chuyện đã được ghi âm vào một thời điểm nào đó trong quá khứ, không nhấn mạnh hành động đang diễn ra.</li><li><b>B. I didn't realize that our conversation was being recorded.</b> (câu): Đây là câu bị động ở thì quá khứ tiếp diễn. Nghĩa là cuộc trò chuyện đang được ghi âm tại thời điểm đó, phù hợp với ý nghĩa của câu gốc.</li><li><b>C. Our conversation wasn't realized to be recorded.</b> (câu): Câu này sai ngữ pháp và không truyền đạt đúng ý nghĩa.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì quá khứ tiếp diễn: was/were being + V3. Ví dụ: 'The cake was being baked when I arrived.'<br><br><b>Tạm dịch:</b> Tôi đã không nhận ra rằng cuộc trò chuyện của chúng tôi đang bị ghi âm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'I didn't realize that somebody was recording our conversation.' is in the past continuous passive form. To change this sentence into the passive voice, we need to focus on the object 'our conversation' and use the correct passive structure for the past continuous tense, which is 'was/were being + past participle'.<br><ul><li><b>A. I didn’t realize that our conversation was recorded.</b> (sentence): This is in the past simple passive. It means the conversation was recorded at some point in the past, but it does not emphasize the ongoing action at the time.</li><li><b>B. I didn't realize that our conversation was being recorded.</b> (sentence): This is in the past continuous passive. It means the conversation was in the process of being recorded at that specific time, which matches the meaning of the original sentence.</li><li><b>C. Our conversation wasn't realized to be recorded.</b> (sentence): This sentence is grammatically incorrect and does not convey the intended meaning.</li></ul><b>Related structure or vocabulary:</b> Passive voice in past continuous: was/were being + past participle. Example: 'The cake was being baked when I arrived.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32cd",
+        "questionNumber": 9,
+        "questionText": "We found that they had cancelled the game.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "We found that the game had been cancelled.",
+            "raw": "A. We found that the game had been cancelled.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The game had been cancelled.",
+            "raw": "B. The game had been cancelled.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The game were found to be cancelled.",
+            "raw": "C. The game were found to be cancelled.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'We found that they had cancelled the game.' is in the active voice. To change it to the passive voice, the object 'the game' becomes the subject, and the verb is changed to the passive form. In reported speech, the past perfect tense ('had cancelled') remains the same in the passive ('had been cancelled').<br><ul><li><b>A. We found that the game had been cancelled.</b> (sentence): This is the correct passive form of the original sentence. 'The game' becomes the subject, and 'had cancelled' becomes 'had been cancelled' in the passive voice.</li><li><b>B. The game had been cancelled.</b> (sentence): This is a correct passive sentence, but it does not include the reporting verb 'We found that', so it is incomplete as a transformation.</li><li><b>C. The game were found to be cancelled.</b> (sentence): 'Were' is incorrect because 'the game' is singular, so it should be 'was'. Also, 'to be cancelled' is not the correct passive form for the past perfect tense.</li></ul><b>Related structure or vocabulary:</b> Passive voice in reported speech: Subject + reporting verb + that + object + had been + past participle.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'We found that they had cancelled the game.' là câu chủ động. Khi chuyển sang bị động, tân ngữ 'the game' sẽ trở thành chủ ngữ, và động từ được chuyển sang dạng bị động. Trong câu tường thuật, thì quá khứ hoàn thành ('had cancelled') khi chuyển sang bị động sẽ là 'had been cancelled'.<br><ul><li><b>A. We found that the game had been cancelled.</b> (câu): Đây là dạng bị động đúng của câu gốc. 'The game' trở thành chủ ngữ, và 'had cancelled' chuyển thành 'had been cancelled' ở thể bị động.</li><li><b>B. The game had been cancelled.</b> (câu): Đây là câu bị động đúng về mặt ngữ pháp, nhưng thiếu phần 'We found that', nên chưa đầy đủ khi chuyển đổi.</li><li><b>C. The game were found to be cancelled.</b> (câu): 'Were' là sai vì 'the game' là danh từ số ít, phải dùng 'was'. Ngoài ra, 'to be cancelled' không phải là dạng bị động đúng của thì quá khứ hoàn thành.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động trong câu tường thuật: Chủ ngữ + động từ tường thuật + that + tân ngữ + had been + quá khứ phân từ.<br><br><b>Tạm dịch:</b> Chúng tôi phát hiện ra rằng trận đấu đã bị hủy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'We found that they had cancelled the game.' is in the active voice. To change it to the passive voice, the object 'the game' becomes the subject, and the verb is changed to the passive form. In reported speech, the past perfect tense ('had cancelled') remains the same in the passive ('had been cancelled').<br><ul><li><b>A. We found that the game had been cancelled.</b> (sentence): This is the correct passive form of the original sentence. 'The game' becomes the subject, and 'had cancelled' becomes 'had been cancelled' in the passive voice.</li><li><b>B. The game had been cancelled.</b> (sentence): This is a correct passive sentence, but it does not include the reporting verb 'We found that', so it is incomplete as a transformation.</li><li><b>C. The game were found to be cancelled.</b> (sentence): 'Were' is incorrect because 'the game' is singular, so it should be 'was'. Also, 'to be cancelled' is not the correct passive form for the past perfect tense.</li></ul><b>Related structure or vocabulary:</b> Passive voice in reported speech: Subject + reporting verb + that + object + had been + past participle.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32ce",
+        "questionNumber": 10,
+        "questionText": "They are building a new highway around the city.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "A new highway is being built around the city.",
+            "raw": "A. A new highway is being built around the city.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "A new highway was being built around the city by them.",
+            "raw": "B. A new highway was being built around the city by them.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "A new highway around the city is being built.",
+            "raw": "C. A new highway around the city is being built.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Around the city a new highway is being built.",
+            "raw": "D. Around the city a new highway is being built.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They are building a new highway around the city.' is in the present continuous tense (are building). To change this sentence into the passive voice, we need to use the structure: 'am/is/are + being + past participle (V3)'. The object 'a new highway' becomes the subject of the passive sentence. The phrase 'around the city' remains at the end of the sentence.<br><ul><li><b>A. A new highway is being built around the city.</b> (Sentence): This sentence correctly uses the passive voice in the present continuous tense: 'is being built'. The subject is 'a new highway', and the phrase 'around the city' is in the correct position.</li><li><b>B. A new highway was being built around the city by them.</b> (Sentence): 'Was being built' is the past continuous passive, which does not match the original tense (present continuous).</li><li><b>C. A new highway around the city is being built.</b> (Sentence): Although grammatically correct, this changes the meaning. It suggests that the highway is already around the city, not that it is being built around the city.</li><li><b>D. Around the city a new highway is being built.</b> (Sentence): This is grammatically correct but less natural in English. The adverbial phrase 'around the city' is placed at the beginning, which is unusual in this context.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present continuous tense: am/is/are + being + past participle (V3).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They are building a new highway around the city.' ở thì hiện tại tiếp diễn (are building). Khi chuyển sang câu bị động, ta sử dụng cấu trúc: 'am/is/are + being + quá khứ phân từ (V3)'. Tân ngữ 'a new highway' trở thành chủ ngữ của câu bị động. Cụm từ 'around the city' giữ nguyên vị trí cuối câu.<br><ul><li><b>A. A new highway is being built around the city.</b> (Câu): Câu này sử dụng đúng cấu trúc bị động ở thì hiện tại tiếp diễn: 'is being built'. Chủ ngữ là 'a new highway', cụm 'around the city' đặt đúng vị trí.</li><li><b>B. A new highway was being built around the city by them.</b> (Câu): 'Was being built' là thì quá khứ tiếp diễn bị động, không đúng với thì gốc (hiện tại tiếp diễn).</li><li><b>C. A new highway around the city is being built.</b> (Câu): Câu này đúng ngữ pháp nhưng sai nghĩa. Nó mang nghĩa là con đường cao tốc đã có sẵn quanh thành phố đang được xây dựng, không đúng với ý gốc.</li><li><b>D. Around the city a new highway is being built.</b> (Câu): Câu này đúng ngữ pháp nhưng cách đặt cụm 'around the city' lên đầu câu không tự nhiên trong tiếng Anh.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì hiện tại tiếp diễn: am/is/are + being + quá khứ phân từ (V3).<br><br><b>Tạm dịch:</b> Họ đang xây dựng một con đường cao tốc mới quanh thành phố. → Một con đường cao tốc mới đang được xây dựng quanh thành phố.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They are building a new highway around the city.' is in the present continuous tense (are building). To change this sentence into the passive voice, we need to use the structure: 'am/is/are + being + past participle (V3)'. The object 'a new highway' becomes the subject of the passive sentence. The phrase 'around the city' remains at the end of the sentence.<br><ul><li><b>A. A new highway is being built around the city.</b> (Sentence): This sentence correctly uses the passive voice in the present continuous tense: 'is being built'. The subject is 'a new highway', and the phrase 'around the city' is in the correct position.</li><li><b>B. A new highway was being built around the city by them.</b> (Sentence): 'Was being built' is the past continuous passive, which does not match the original tense (present continuous).</li><li><b>C. A new highway around the city is being built.</b> (Sentence): Although grammatically correct, this changes the meaning. It suggests that the highway is already around the city, not that it is being built around the city.</li><li><b>D. Around the city a new highway is being built.</b> (Sentence): This is grammatically correct but less natural in English. The adverbial phrase 'around the city' is placed at the beginning, which is unusual in this context.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present continuous tense: am/is/are + being + past participle (V3).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32cf",
+        "questionNumber": 11,
+        "questionText": "They have built a new hospital near the airport.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "A new hospital had been built near the airport by them.",
+            "raw": "A. A new hospital had been built near the airport by them.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "A new hospital near the airport has been built.",
+            "raw": "B. A new hospital near the airport has been built.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "A new hospital has been built near the airport.",
+            "raw": "C. A new hospital has been built near the airport.",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Near the airport a new hospital has been.",
+            "raw": "D. Near the airport a new hospital has been.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They have built a new hospital near the airport.' is in the present perfect tense (have/has + past participle). To change this sentence into the passive voice, we use the structure: have/has + been + past participle. The object 'a new hospital' becomes the subject of the passive sentence, and the agent 'by them' is usually omitted unless it is necessary to mention. The correct passive form is: 'A new hospital has been built near the airport.'<br><ul><li><b>A. A new hospital had been built near the airport by them.</b> (sentence): 'had been built' is past perfect, not present perfect, so it is incorrect.</li><li><b>B. A new hospital near the airport has been built.</b> (sentence): The word order is awkward and does not clearly state the location. It is grammatically possible but less natural.</li><li><b>C. A new hospital has been built near the airport.</b> (sentence): This is the correct passive form in present perfect tense, with the correct word order.</li><li><b>D. Near the airport a new hospital has been.</b> (sentence): This sentence is incomplete and lacks the past participle 'built'.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present perfect tense: have/has + been + past participle. The agent (by + someone) is often omitted if not necessary.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They have built a new hospital near the airport.' ở thì hiện tại hoàn thành (have/has + quá khứ phân từ). Khi chuyển sang câu bị động, ta dùng cấu trúc: have/has + been + quá khứ phân từ. Tân ngữ 'a new hospital' trở thành chủ ngữ của câu bị động, và chủ thể 'by them' thường được lược bỏ nếu không cần thiết. Dạng bị động đúng là: 'A new hospital has been built near the airport.'<br><ul><li><b>A. A new hospital had been built near the airport by them.</b> (câu): 'had been built' là thì quá khứ hoàn thành, không phải thì hiện tại hoàn thành nên sai.</li><li><b>B. A new hospital near the airport has been built.</b> (câu): Trật tự từ không tự nhiên và không rõ ràng về vị trí. Về ngữ pháp thì có thể chấp nhận nhưng không tự nhiên.</li><li><b>C. A new hospital has been built near the airport.</b> (câu): Đây là dạng bị động đúng ở thì hiện tại hoàn thành, trật tự từ hợp lý.</li><li><b>D. Near the airport a new hospital has been.</b> (câu): Câu này thiếu động từ phân từ 'built', nên không đầy đủ ý nghĩa.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì hiện tại hoàn thành: have/has + been + quá khứ phân từ. Chủ thể (by + ai đó) thường được lược bỏ nếu không cần thiết.<br><br><b>Tạm dịch:</b> Họ đã xây một bệnh viện mới gần sân bay. → Một bệnh viện mới đã được xây dựng gần sân bay.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They have built a new hospital near the airport.' is in the present perfect tense (have/has + past participle). To change this sentence into the passive voice, we use the structure: have/has + been + past participle. The object 'a new hospital' becomes the subject of the passive sentence, and the agent 'by them' is usually omitted unless it is necessary to mention. The correct passive form is: 'A new hospital has been built near the airport.'<br><ul><li><b>A. A new hospital had been built near the airport by them.</b> (sentence): 'had been built' is past perfect, not present perfect, so it is incorrect.</li><li><b>B. A new hospital near the airport has been built.</b> (sentence): The word order is awkward and does not clearly state the location. It is grammatically possible but less natural.</li><li><b>C. A new hospital has been built near the airport.</b> (sentence): This is the correct passive form in present perfect tense, with the correct word order.</li><li><b>D. Near the airport a new hospital has been.</b> (sentence): This sentence is incomplete and lacks the past participle 'built'.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present perfect tense: have/has + been + past participle. The agent (by + someone) is often omitted if not necessary.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d0",
+        "questionNumber": 12,
+        "questionText": "People should send their complaints to the head office.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Complaints should be sent to the head office.",
+            "raw": "A. Complaints should be sent to the head office.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "Complaints should being sent to the head office by people.",
+            "raw": "B. Complaints should being sent to the head office by people.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Their complaints to the head office should be sent.",
+            "raw": "C. Their complaints to the head office should be sent.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'People should send their complaints to the head office.' is in the active voice. To change it to the passive voice, the object 'complaints' becomes the subject, and the verb 'should send' is changed to 'should be sent'. The agent 'by people' can be omitted because it is general and not necessary. The correct passive structure is: 'Complaints should be sent to the head office.'<br><ul><li><b>A. Complaints should be sent to the head office.</b> (Sentence): This is the correct passive form. 'Complaints' is the subject, 'should be sent' is the correct passive modal structure, and 'to the head office' is the place.</li><li><b>B. Complaints should being sent to the head office by people.</b> (Sentence): 'Should being sent' is incorrect. After 'should', we use the base form 'be' + past participle, not 'being'.</li><li><b>C. Their complaints to the head office should be sent.</b> (Sentence): This sentence is grammatically correct but changes the meaning by adding 'their', which is not in the original sentence. The original sentence uses 'their' to refer to people in general, but in the passive, we usually omit the possessive unless it is necessary.</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: Modal + be + past participle (should be sent).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'People should send their complaints to the head office.' là câu chủ động. Khi chuyển sang bị động, tân ngữ 'complaints' sẽ trở thành chủ ngữ, và động từ 'should send' sẽ chuyển thành 'should be sent'. Thành phần 'by people' có thể được lược bỏ vì nó mang nghĩa chung chung, không cần thiết. Cấu trúc bị động đúng là: 'Complaints should be sent to the head office.'<br><ul><li><b>A. Complaints should be sent to the head office.</b> (Câu): Đây là dạng bị động đúng. 'Complaints' là chủ ngữ, 'should be sent' là cấu trúc bị động với động từ khuyết thiếu, 'to the head office' là nơi nhận.</li><li><b>B. Complaints should being sent to the head office by people.</b> (Câu): 'Should being sent' là sai ngữ pháp. Sau 'should', phải dùng động từ nguyên mẫu 'be' + quá khứ phân từ, không dùng 'being'.</li><li><b>C. Their complaints to the head office should be sent.</b> (Câu): Câu này đúng về ngữ pháp nhưng thay đổi nghĩa gốc bằng cách thêm 'their', trong khi câu gốc không có. Trong câu bị động, thường không dùng tính từ sở hữu trừ khi cần thiết.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ khuyết thiếu: Modal + be + past participle (should be sent).<br><br><b>Tạm dịch:</b> Người ta nên gửi các khiếu nại của mình đến trụ sở chính.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'People should send their complaints to the head office.' is in the active voice. To change it to the passive voice, the object 'complaints' becomes the subject, and the verb 'should send' is changed to 'should be sent'. The agent 'by people' can be omitted because it is general and not necessary. The correct passive structure is: 'Complaints should be sent to the head office.'<br><ul><li><b>A. Complaints should be sent to the head office.</b> (Sentence): This is the correct passive form. 'Complaints' is the subject, 'should be sent' is the correct passive modal structure, and 'to the head office' is the place.</li><li><b>B. Complaints should being sent to the head office by people.</b> (Sentence): 'Should being sent' is incorrect. After 'should', we use the base form 'be' + past participle, not 'being'.</li><li><b>C. Their complaints to the head office should be sent.</b> (Sentence): This sentence is grammatically correct but changes the meaning by adding 'their', which is not in the original sentence. The original sentence uses 'their' to refer to people in general, but in the passive, we usually omit the possessive unless it is necessary.</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: Modal + be + past participle (should be sent).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d1",
+        "questionNumber": 13,
+        "questionText": "They had to postpone the meeting because of illness.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The meeting had to be postponed because of illness.",
+            "raw": "A. The meeting had to be postponed because of illness.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The meeting had to because of illness be postponed.",
+            "raw": "B. The meeting had to because of illness be postponed.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The meeting has to be postponed by them because of illness.",
+            "raw": "C. The meeting has to be postponed by them because of illness.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The meeting because of illness had to be postponed.",
+            "raw": "D. The meeting because of illness had to be postponed.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They had to postpone the meeting because of illness.' is in the active voice. To change it to the passive voice, the object 'the meeting' becomes the subject, and the verb 'had to postpone' becomes 'had to be postponed.' The reason 'because of illness' remains at the end. The correct passive structure is: 'The meeting had to be postponed because of illness.'<br><ul><li><b>A. The meeting had to be postponed because of illness.</b> (sentence): This is the correct passive form. The subject 'the meeting' is followed by 'had to be postponed,' which is the correct passive construction for 'had to postpone.'</li><li><b>B. The meeting had to because of illness be postponed.</b> (sentence): This sentence is grammatically incorrect. The phrase 'because of illness' interrupts the verb phrase and makes the sentence ungrammatical.</li><li><b>C. The meeting has to be postponed by them because of illness.</b> (sentence): 'Has to be postponed' is present tense, not past tense. The original sentence is in the past ('had to postpone'), so this is incorrect.</li><li><b>D. The meeting because of illness had to be postponed.</b> (sentence): The placement of 'because of illness' is awkward and not standard English. The reason should come at the end.</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: Subject + modal verb + be + past participle (e.g., had to be postponed).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They had to postpone the meeting because of illness.' là câu chủ động. Khi chuyển sang bị động, tân ngữ 'the meeting' trở thành chủ ngữ, và động từ 'had to postpone' chuyển thành 'had to be postponed.' Lý do 'because of illness' giữ nguyên ở cuối câu. Cấu trúc bị động đúng là: 'The meeting had to be postponed because of illness.'<br><ul><li><b>A. The meeting had to be postponed because of illness.</b> (câu): Đây là dạng bị động đúng. Chủ ngữ 'the meeting' đi với 'had to be postponed', đúng cấu trúc bị động của 'had to postpone'.</li><li><b>B. The meeting had to because of illness be postponed.</b> (câu): Câu này sai ngữ pháp vì cụm 'because of illness' chen vào giữa động từ, làm câu không đúng cấu trúc.</li><li><b>C. The meeting has to be postponed by them because of illness.</b> (câu): 'Has to be postponed' là thì hiện tại, không đúng với thì quá khứ của câu gốc ('had to postpone'), nên không đúng.</li><li><b>D. The meeting because of illness had to be postponed.</b> (câu): Vị trí của 'because of illness' trong câu này không tự nhiên, không đúng chuẩn tiếng Anh. Lý do nên đặt ở cuối câu.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ khuyết thiếu: Chủ ngữ + động từ khuyết thiếu + be + V3 (had to be postponed).<br><br><b>Tạm dịch:</b> Cuộc họp đã phải hoãn lại vì lý do ốm đau.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They had to postpone the meeting because of illness.' is in the active voice. To change it to the passive voice, the object 'the meeting' becomes the subject, and the verb 'had to postpone' becomes 'had to be postponed.' The reason 'because of illness' remains at the end. The correct passive structure is: 'The meeting had to be postponed because of illness.'<br><ul><li><b>A. The meeting had to be postponed because of illness.</b> (sentence): This is the correct passive form. The subject 'the meeting' is followed by 'had to be postponed,' which is the correct passive construction for 'had to postpone.'</li><li><b>B. The meeting had to because of illness be postponed.</b> (sentence): This sentence is grammatically incorrect. The phrase 'because of illness' interrupts the verb phrase and makes the sentence ungrammatical.</li><li><b>C. The meeting has to be postponed by them because of illness.</b> (sentence): 'Has to be postponed' is present tense, not past tense. The original sentence is in the past ('had to postpone'), so this is incorrect.</li><li><b>D. The meeting because of illness had to be postponed.</b> (sentence): The placement of 'because of illness' is awkward and not standard English. The reason should come at the end.</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: Subject + modal verb + be + past participle (e.g., had to be postponed).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d2",
+        "questionNumber": 14,
+        "questionText": "Somebody might have stolen our car.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Somebody might have been stolen our car.",
+            "raw": "A. Somebody might have been stolen our car.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Our car might be stolen.",
+            "raw": "B. Our car might be stolen.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Our car might have being stolen by somebody.",
+            "raw": "C. Our car might have being stolen by somebody.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Our car might have been stolen.",
+            "raw": "D. Our car might have been stolen.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'Somebody might have stolen our car.' is in the active voice. To change it to the passive voice, we need to make 'our car' the subject and use the correct passive structure for the modal verb 'might have.' The passive form is: subject + might + have + been + past participle. Therefore, the correct answer is 'Our car might have been stolen.'<br><ul><li><b>Somebody might have been stolen our car.</b> (sentence): This sentence is incorrect because 'somebody' cannot be the subject of a passive verb in this context. The structure is also grammatically incorrect.</li><li><b>Our car might be stolen.</b> (sentence): This sentence uses the present passive form (might be + past participle), which is not correct for an action that happened in the past.</li><li><b>Our car might have being stolen by somebody.</b> (sentence): This sentence is incorrect because 'have being' is not a correct verb form. The correct passive form is 'have been.'</li><li><b>Our car might have been stolen.</b> (sentence): This is the correct passive form for a past possibility: subject + might + have + been + past participle.</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: subject + modal (might, may, must, etc.) + have + been + past participle.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'Somebody might have stolen our car.' là câu chủ động. Để chuyển sang câu bị động, chúng ta cần đưa 'our car' làm chủ ngữ và sử dụng cấu trúc bị động đúng với động từ khuyết thiếu 'might have.' Dạng bị động là: chủ ngữ + might + have + been + quá khứ phân từ. Vì vậy, đáp án đúng là 'Our car might have been stolen.'<br><ul><li><b>Somebody might have been stolen our car.</b> (câu): Câu này sai vì 'somebody' không thể là chủ ngữ của động từ bị động trong trường hợp này. Cấu trúc câu cũng không đúng ngữ pháp.</li><li><b>Our car might be stolen.</b> (câu): Câu này dùng dạng bị động hiện tại (might be + quá khứ phân từ), không phù hợp với hành động đã xảy ra trong quá khứ.</li><li><b>Our car might have being stolen by somebody.</b> (câu): Câu này sai vì 'have being' không phải là dạng động từ đúng. Dạng bị động đúng là 'have been.'</li><li><b>Our car might have been stolen.</b> (câu): Đây là dạng bị động đúng cho khả năng xảy ra trong quá khứ: chủ ngữ + might + have + been + quá khứ phân từ.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ khuyết thiếu: chủ ngữ + modal (might, may, must,...) + have + been + quá khứ phân từ.<br><br><b>Tạm dịch:</b> Ai đó có thể đã lấy trộm xe của chúng ta. → Xe của chúng ta có thể đã bị lấy trộm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'Somebody might have stolen our car.' is in the active voice. To change it to the passive voice, we need to make 'our car' the subject and use the correct passive structure for the modal verb 'might have.' The passive form is: subject + might + have + been + past participle. Therefore, the correct answer is 'Our car might have been stolen.'<br><ul><li><b>Somebody might have been stolen our car.</b> (sentence): This sentence is incorrect because 'somebody' cannot be the subject of a passive verb in this context. The structure is also grammatically incorrect.</li><li><b>Our car might be stolen.</b> (sentence): This sentence uses the present passive form (might be + past participle), which is not correct for an action that happened in the past.</li><li><b>Our car might have being stolen by somebody.</b> (sentence): This sentence is incorrect because 'have being' is not a correct verb form. The correct passive form is 'have been.'</li><li><b>Our car might have been stolen.</b> (sentence): This is the correct passive form for a past possibility: subject + might + have + been + past participle.</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: subject + modal (might, may, must, etc.) + have + been + past participle.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d3",
+        "questionNumber": 15,
+        "questionText": "An electrical fault could have caused the fire.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "An electrical fault could have been caused by the fire.",
+            "raw": "A. An electrical fault could have been caused by the fire.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "An electrical fault could have caused the fire.",
+            "raw": "B. An electrical fault could have caused the fire.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The fire could have been caused by a electrical fault.",
+            "raw": "C. The fire could have been caused by a electrical fault.",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "The fire could have caused an electrical fault.",
+            "raw": "D. The fire could have caused an electrical fault.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The question asks about the possible cause of the fire. The original sentence is in the active voice: 'An electrical fault could have caused the fire.' To change the focus to the fire and use the passive voice, we need to make the fire the subject and show that it was possibly caused by an electrical fault.<br><ul><li><b>A. An electrical fault could have been caused by the fire.</b> (sentence): This sentence means the fire happened first and then caused an electrical fault. This is the opposite of the original meaning.</li><li><b>B. An electrical fault could have caused the fire.</b> (sentence): This is the same as the original sentence, in active voice. It is correct but does not use the passive structure.</li><li><b>C. The fire could have been caused by a electrical fault.</b> (sentence): This sentence uses the passive voice correctly. It means the fire was possibly caused by an electrical fault, which matches the original meaning.</li><li><b>D. The fire could have caused an electrical fault.</b> (sentence): This means the fire happened first and then caused an electrical fault. This is the opposite of the original meaning.</li></ul><b>Related structure or vocabulary:</b> Passive voice: [subject] + could have been + past participle (by [agent]) is used to focus on the action and not the doer. In this case, 'The fire could have been caused by an electrical fault.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu hỏi yêu cầu xác định nguyên nhân có thể gây ra vụ cháy. Câu gốc ở thể chủ động: 'An electrical fault could have caused the fire.' Để chuyển sang bị động và nhấn mạnh vào vụ cháy, ta cần đưa 'the fire' lên làm chủ ngữ và thể hiện rằng nó có thể đã bị gây ra bởi một sự cố điện.<br><ul><li><b>A. An electrical fault could have been caused by the fire.</b> (câu): Câu này có nghĩa là vụ cháy xảy ra trước, sau đó mới gây ra sự cố điện. Ý nghĩa này ngược lại với câu gốc.</li><li><b>B. An electrical fault could have caused the fire.</b> (câu): Câu này giống với câu gốc, ở thể chủ động. Đúng về nghĩa nhưng không phải là câu bị động cần tìm.</li><li><b>C. The fire could have been caused by a electrical fault.</b> (câu): Câu này sử dụng đúng cấu trúc bị động. Nghĩa là vụ cháy có thể đã bị gây ra bởi một sự cố điện, phù hợp với ý nghĩa câu gốc.</li><li><b>D. The fire could have caused an electrical fault.</b> (câu): Câu này có nghĩa là vụ cháy xảy ra trước, sau đó mới gây ra sự cố điện. Ý nghĩa này ngược lại với câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: [chủ ngữ] + could have been + quá khứ phân từ (by [tác nhân]) dùng để nhấn mạnh vào hành động, không nhấn mạnh người thực hiện. Trong trường hợp này: 'The fire could have been caused by an electrical fault.'<br><br><b>Tạm dịch:</b> Một sự cố điện có thể đã gây ra vụ cháy. --> Vụ cháy có thể đã bị gây ra bởi một sự cố điện.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The question asks about the possible cause of the fire. The original sentence is in the active voice: 'An electrical fault could have caused the fire.' To change the focus to the fire and use the passive voice, we need to make the fire the subject and show that it was possibly caused by an electrical fault.<br><ul><li><b>A. An electrical fault could have been caused by the fire.</b> (sentence): This sentence means the fire happened first and then caused an electrical fault. This is the opposite of the original meaning.</li><li><b>B. An electrical fault could have caused the fire.</b> (sentence): This is the same as the original sentence, in active voice. It is correct but does not use the passive structure.</li><li><b>C. The fire could have been caused by a electrical fault.</b> (sentence): This sentence uses the passive voice correctly. It means the fire was possibly caused by an electrical fault, which matches the original meaning.</li><li><b>D. The fire could have caused an electrical fault.</b> (sentence): This means the fire happened first and then caused an electrical fault. This is the opposite of the original meaning.</li></ul><b>Related structure or vocabulary:</b> Passive voice: [subject] + could have been + past participle (by [agent]) is used to focus on the action and not the doer. In this case, 'The fire could have been caused by an electrical fault.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d4",
+        "questionNumber": 16,
+        "questionText": "They are going to hold next year's congress in San Francisco.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Congress is going to be held next year in San Francisco.",
+            "raw": "A. Congress is going to be held next year in San Francisco.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Congress in San Francisco is going to be held next year.",
+            "raw": "B. Congress in San Francisco is going to be held next year.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Next year's congress is going to be held by them held next year.",
+            "raw": "C. Next year's congress is going to be held by them held next year.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Next year's congress is going to be held in San Francisco.",
+            "raw": "D. Next year's congress is going to be held in San Francisco.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'They are going to hold next year's congress in San Francisco.' is in the active voice. To change it to the passive voice, the object 'next year's congress' becomes the subject, and the verb 'are going to hold' changes to 'is going to be held.' The agent 'by them' can be omitted because it is not necessary. The correct passive structure is: 'Next year's congress is going to be held in San Francisco.'<br><ul><li><b>A. Congress is going to be held next year in San Francisco.</b> (Sentence): This sentence changes the subject to 'Congress' and uses the correct passive form 'is going to be held.' However, it does not specify 'next year's congress,' which is important for accuracy.</li><li><b>B. Congress in San Francisco is going to be held next year.</b> (Sentence): This sentence changes the order of information, making it less clear that the congress is specifically 'next year's congress.' The meaning is slightly changed.</li><li><b>C. Next year's congress is going to be held by them held next year.</b> (Sentence): This sentence is incorrect because it repeats 'held' and is grammatically incorrect.</li><li><b>D. Next year's congress is going to be held in San Francisco.</b> (Sentence): This sentence correctly changes the active sentence to passive, keeps all the necessary information, and is grammatically correct.</li></ul><b>Related structure or vocabulary:</b> Passive voice with 'be going to': Subject + be going to be + past participle (by + agent).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'They are going to hold next year's congress in San Francisco.' là câu chủ động. Khi chuyển sang câu bị động, tân ngữ 'next year's congress' sẽ trở thành chủ ngữ, và động từ 'are going to hold' sẽ chuyển thành 'is going to be held.' Thành phần 'by them' có thể được lược bỏ vì không cần thiết. Cấu trúc bị động đúng là: 'Next year's congress is going to be held in San Francisco.'<br><ul><li><b>A. Congress is going to be held next year in San Francisco.</b> (Câu): Câu này chuyển chủ ngữ thành 'Congress' và dùng đúng dạng bị động 'is going to be held.' Tuy nhiên, không chỉ rõ 'next year's congress', nên chưa chính xác hoàn toàn.</li><li><b>B. Congress in San Francisco is going to be held next year.</b> (Câu): Câu này thay đổi trật tự thông tin, khiến ý nghĩa không rõ ràng là 'next year's congress'. Ý nghĩa bị thay đổi nhẹ.</li><li><b>C. Next year's congress is going to be held by them held next year.</b> (Câu): Câu này sai ngữ pháp vì lặp lại 'held' và cấu trúc không đúng.</li><li><b>D. Next year's congress is going to be held in San Francisco.</b> (Câu): Câu này chuyển đúng từ chủ động sang bị động, giữ nguyên đầy đủ thông tin và đúng ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với 'be going to': Chủ ngữ + be going to be + quá khứ phân từ (by + tác nhân).<br><br><b>Tạm dịch:</b> Họ sẽ tổ chức đại hội năm sau tại San Francisco. → Đại hội năm sau sẽ được tổ chức tại San Francisco.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'They are going to hold next year's congress in San Francisco.' is in the active voice. To change it to the passive voice, the object 'next year's congress' becomes the subject, and the verb 'are going to hold' changes to 'is going to be held.' The agent 'by them' can be omitted because it is not necessary. The correct passive structure is: 'Next year's congress is going to be held in San Francisco.'<br><ul><li><b>A. Congress is going to be held next year in San Francisco.</b> (Sentence): This sentence changes the subject to 'Congress' and uses the correct passive form 'is going to be held.' However, it does not specify 'next year's congress,' which is important for accuracy.</li><li><b>B. Congress in San Francisco is going to be held next year.</b> (Sentence): This sentence changes the order of information, making it less clear that the congress is specifically 'next year's congress.' The meaning is slightly changed.</li><li><b>C. Next year's congress is going to be held by them held next year.</b> (Sentence): This sentence is incorrect because it repeats 'held' and is grammatically incorrect.</li><li><b>D. Next year's congress is going to be held in San Francisco.</b> (Sentence): This sentence correctly changes the active sentence to passive, keeps all the necessary information, and is grammatically correct.</li></ul><b>Related structure or vocabulary:</b> Passive voice with 'be going to': Subject + be going to be + past participle (by + agent).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d5",
+        "questionNumber": 17,
+        "questionText": "They shouldn't have played the football match in such bad weather.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The football match shouldn't have been played in such bad weather.",
+            "raw": "A. The football match shouldn't have been played in such bad weather.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The football match shouldn't have being played by them in such bad weather.",
+            "raw": "B. The football match shouldn't have being played by them in such bad weather.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The football match shouldn't be played in such bad weather.",
+            "raw": "C. The football match shouldn't be played in such bad weather.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The football match shouldn't have played in such bad weather.",
+            "raw": "D. The football match shouldn't have played in such bad weather.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence requires changing the active voice sentence 'They shouldn't have played the football match in such bad weather.' into the passive voice. In passive voice, the object of the active sentence becomes the subject, and the verb is changed to the appropriate passive form. The correct passive structure for 'shouldn't have played' is 'shouldn't have been played.'<br><ul><li><b>A. The football match shouldn't have been played in such bad weather.</b> (Passive verb phrase): This is the correct passive form. 'Shouldn't have been played' is the passive of 'shouldn't have played.'</li><li><b>B. The football match shouldn't have being played by them in such bad weather.</b> (Incorrect verb phrase): 'Shouldn't have being played' is grammatically incorrect. The correct form is 'shouldn't have been played.'</li><li><b>C. The football match shouldn't be played in such bad weather.</b> (Present passive verb phrase): This is present tense, not matching the past perfect modal 'shouldn't have played.'</li><li><b>D. The football match shouldn't have played in such bad weather.</b> (Incorrect verb phrase): This is incorrect because 'played' is not in the passive form. It should be 'been played.'</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: Modal + have + been + past participle (e.g., should have been played)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này yêu cầu chuyển câu chủ động 'They shouldn't have played the football match in such bad weather.' sang câu bị động. Trong câu bị động, tân ngữ của câu chủ động trở thành chủ ngữ, và động từ được chuyển sang dạng bị động phù hợp. Cấu trúc bị động đúng của 'shouldn't have played' là 'shouldn't have been played.'<br><ul><li><b>A. The football match shouldn't have been played in such bad weather.</b> (Cụm động từ bị động): Đây là dạng bị động đúng. 'Shouldn't have been played' là bị động của 'shouldn't have played.'</li><li><b>B. The football match shouldn't have being played by them in such bad weather.</b> (Cụm động từ sai): 'Shouldn't have being played' là sai ngữ pháp. Dạng đúng phải là 'shouldn't have been played.'</li><li><b>C. The football match shouldn't be played in such bad weather.</b> (Cụm động từ bị động thì hiện tại): Đây là thì hiện tại, không phù hợp với thì quá khứ hoàn thành có modal 'shouldn't have played.'</li><li><b>D. The football match shouldn't have played in such bad weather.</b> (Cụm động từ sai): Sai vì 'played' không phải dạng bị động. Phải là 'been played.'</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động với động từ khuyết thiếu: Modal + have + been + V3 (e.g., should have been played)<br><br><b>Tạm dịch:</b> Họ không nên tổ chức trận bóng đá trong thời tiết xấu như vậy. --> Trận bóng đá không nên được tổ chức trong thời tiết xấu như vậy.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence requires changing the active voice sentence 'They shouldn't have played the football match in such bad weather.' into the passive voice. In passive voice, the object of the active sentence becomes the subject, and the verb is changed to the appropriate passive form. The correct passive structure for 'shouldn't have played' is 'shouldn't have been played.'<br><ul><li><b>A. The football match shouldn't have been played in such bad weather.</b> (Passive verb phrase): This is the correct passive form. 'Shouldn't have been played' is the passive of 'shouldn't have played.'</li><li><b>B. The football match shouldn't have being played by them in such bad weather.</b> (Incorrect verb phrase): 'Shouldn't have being played' is grammatically incorrect. The correct form is 'shouldn't have been played.'</li><li><b>C. The football match shouldn't be played in such bad weather.</b> (Present passive verb phrase): This is present tense, not matching the past perfect modal 'shouldn't have played.'</li><li><b>D. The football match shouldn't have played in such bad weather.</b> (Incorrect verb phrase): This is incorrect because 'played' is not in the passive form. It should be 'been played.'</li></ul><b>Related structure or vocabulary:</b> Passive voice with modal verbs: Modal + have + been + past participle (e.g., should have been played)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d6",
+        "questionNumber": 18,
+        "questionText": "The bill includes service.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Service is included by the bill.",
+            "raw": "A. Service is included by the bill.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Service included in the bill.",
+            "raw": "B. Service included in the bill.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Service is included in the bill.",
+            "raw": "C. Service is included in the bill.",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "Service is in the bill.",
+            "raw": "D. Service is in the bill.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The sentence 'The bill includes service.' means that the service charge is already part of the bill. To rewrite this sentence in the passive voice, we need to use the structure: 'Service is included in the bill.' This structure shows that 'service' is the subject and it is being included by the bill.<br><ul><li><b>A. Service is included by the bill.</b> (Passive sentence): This is a passive sentence, but 'by the bill' is awkward and not natural in English. We usually say 'included in the bill', not 'by the bill'.</li><li><b>B. Service included in the bill.</b> (Sentence fragment): This is a fragment, not a complete sentence. It is missing the verb 'is'.</li><li><b>C. Service is included in the bill.</b> (Passive sentence): This is the correct passive form. It means that the service charge is part of the bill.</li><li><b>D. Service is in the bill.</b> (Simple present sentence): This is a grammatically correct sentence, but it does not clearly express that the service charge is included as a fee. It just means that service is present in the bill.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle (is included); 'include' means to have something as part of a whole; 'in the bill' means inside the bill.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu 'The bill includes service.' có nghĩa là phí dịch vụ đã được tính vào hóa đơn. Để chuyển câu này sang thể bị động, ta cần dùng cấu trúc: 'Service is included in the bill.' Cấu trúc này thể hiện rằng 'service' là chủ ngữ và nó được bao gồm bởi hóa đơn.<br><ul><li><b>A. Service is included by the bill.</b> (Câu bị động): Đây là câu bị động, nhưng 'by the bill' nghe không tự nhiên trong tiếng Anh. Thông thường, ta nói 'included in the bill', không phải 'by the bill'.</li><li><b>B. Service included in the bill.</b> (Mệnh đề thiếu): Đây là một mệnh đề thiếu động từ 'is', không phải câu hoàn chỉnh.</li><li><b>C. Service is included in the bill.</b> (Câu bị động): Đây là đáp án đúng, là dạng bị động chuẩn. Nó có nghĩa là phí dịch vụ đã được tính vào hóa đơn.</li><li><b>D. Service is in the bill.</b> (Câu hiện tại đơn): Đây là câu đúng ngữ pháp, nhưng không diễn đạt rõ ràng ý phí dịch vụ đã được tính vào hóa đơn. Nó chỉ có nghĩa là dịch vụ có trong hóa đơn.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động: be + past participle (is included); 'include' nghĩa là bao gồm; 'in the bill' nghĩa là trong hóa đơn.<br><br><b>Tạm dịch:</b> Câu 'The bill includes service.' có nghĩa là phí dịch vụ đã được tính vào hóa đơn. Đáp án đúng là 'Service is included in the bill.' (Phí dịch vụ đã được tính vào hóa đơn.)",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The sentence 'The bill includes service.' means that the service charge is already part of the bill. To rewrite this sentence in the passive voice, we need to use the structure: 'Service is included in the bill.' This structure shows that 'service' is the subject and it is being included by the bill.<br><ul><li><b>A. Service is included by the bill.</b> (Passive sentence): This is a passive sentence, but 'by the bill' is awkward and not natural in English. We usually say 'included in the bill', not 'by the bill'.</li><li><b>B. Service included in the bill.</b> (Sentence fragment): This is a fragment, not a complete sentence. It is missing the verb 'is'.</li><li><b>C. Service is included in the bill.</b> (Passive sentence): This is the correct passive form. It means that the service charge is part of the bill.</li><li><b>D. Service is in the bill.</b> (Simple present sentence): This is a grammatically correct sentence, but it does not clearly express that the service charge is included as a fee. It just means that service is present in the bill.</li></ul><b>Related structure or vocabulary:</b> Passive voice: be + past participle (is included); 'include' means to have something as part of a whole; 'in the bill' means inside the bill.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d7",
+        "questionNumber": 19,
+        "questionText": "They have changed the date of the meeting.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The date of the meeting has been changed.",
+            "raw": "A. The date of the meeting has been changed.",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "The date of the meeting had been changed by them.",
+            "raw": "B. The date of the meeting had been changed by them.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "The meeting has been changed the date.",
+            "raw": "C. The meeting has been changed the date.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The date of the meeting has changed.",
+            "raw": "D. The date of the meeting has changed.",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>This sentence requires changing from active to passive voice. In the active sentence, 'They have changed the date of the meeting,' the subject 'They' performs the action on 'the date of the meeting.' In passive voice, the object becomes the subject, and the verb is changed to the passive form: 'has/have been + past participle.'<br><ul><li><b>A. The date of the meeting has been changed.</b> (Sentence): This is the correct passive form. 'The date of the meeting' becomes the subject, 'has been changed' is the correct passive structure for present perfect tense.</li><li><b>B. The date of the meeting had been changed by them.</b> (Sentence): 'Had been changed' is past perfect passive, which does not match the original tense (present perfect).</li><li><b>C. The meeting has been changed the date.</b> (Sentence): This is grammatically incorrect. The object 'the date' cannot be placed after 'has been changed' in this way.</li><li><b>D. The date of the meeting has changed.</b> (Sentence): This is active voice, not passive. It also means the date changed by itself, not by someone.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present perfect tense: has/have been + past participle<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu này yêu cầu chuyển từ câu chủ động sang câu bị động. Trong câu chủ động 'They have changed the date of the meeting', chủ ngữ 'They' thực hiện hành động lên 'the date of the meeting'. Khi chuyển sang bị động, tân ngữ trở thành chủ ngữ, và động từ được chuyển sang dạng bị động: 'has/have been + quá khứ phân từ'.<br><ul><li><b>A. The date of the meeting has been changed.</b> (Câu): Đây là dạng bị động đúng. 'The date of the meeting' trở thành chủ ngữ, 'has been changed' là cấu trúc bị động đúng của thì hiện tại hoàn thành.</li><li><b>B. The date of the meeting had been changed by them.</b> (Câu): 'Had been changed' là thì quá khứ hoàn thành bị động, không đúng với thì gốc (hiện tại hoàn thành).</li><li><b>C. The meeting has been changed the date.</b> (Câu): Câu này sai ngữ pháp. Tân ngữ 'the date' không thể đặt sau 'has been changed' như vậy.</li><li><b>D. The date of the meeting has changed.</b> (Câu): Đây là câu chủ động, không phải bị động. Nó cũng mang nghĩa là ngày họp tự thay đổi, không phải do ai đó thay đổi.</li></ul><b>Cấu trúc và từ vựng:</b> Câu bị động ở thì hiện tại hoàn thành: has/have been + quá khứ phân từ<br><br><b>Tạm dịch:</b> Họ đã thay đổi ngày họp. --> Ngày họp đã được thay đổi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>This sentence requires changing from active to passive voice. In the active sentence, 'They have changed the date of the meeting,' the subject 'They' performs the action on 'the date of the meeting.' In passive voice, the object becomes the subject, and the verb is changed to the passive form: 'has/have been + past participle.'<br><ul><li><b>A. The date of the meeting has been changed.</b> (Sentence): This is the correct passive form. 'The date of the meeting' becomes the subject, 'has been changed' is the correct passive structure for present perfect tense.</li><li><b>B. The date of the meeting had been changed by them.</b> (Sentence): 'Had been changed' is past perfect passive, which does not match the original tense (present perfect).</li><li><b>C. The meeting has been changed the date.</b> (Sentence): This is grammatically incorrect. The object 'the date' cannot be placed after 'has been changed' in this way.</li><li><b>D. The date of the meeting has changed.</b> (Sentence): This is active voice, not passive. It also means the date changed by itself, not by someone.</li></ul><b>Related structure or vocabulary:</b> Passive voice in present perfect tense: has/have been + past participle<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "62247b6583f28145bcbb32d8",
+        "questionNumber": 20,
+        "questionText": "Brian told me that somebody had attacked him in the street.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Brian told me that somebody has attacked him in the street.",
+            "raw": "A. Brian told me that somebody has attacked him in the street.",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "I was told by Brian that he has been attacked in the street.",
+            "raw": "B. I was told by Brian that he has been attacked in the street.",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Brain told me to have been attacked in the street.",
+            "raw": "C. Brain told me to have been attacked in the street.",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Brian told me that he had been attacked in the street.",
+            "raw": "D. Brian told me that he had been attacked in the street.",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The original sentence is in reported speech: 'Brian told me that somebody had attacked him in the street.' When changing direct speech to reported speech, we often need to backshift the tense. The past perfect ('had attacked') is used to show that the action happened before the time Brian told me. In passive voice, 'somebody had attacked him' becomes 'he had been attacked.' Therefore, the correct answer must keep the past perfect passive structure.<br><ul><li><b>A. Brian told me that somebody has attacked him in the street.</b> (verb phrase): 'has attacked' is present perfect tense, which is not correct in reported speech when the reporting verb is in the past ('told').</li><li><b>B. I was told by Brian that he has been attacked in the street.</b> (sentence structure): This changes the subject from 'Brian' to 'I' and uses present perfect passive ('has been attacked'), which is incorrect for the context and tense.</li><li><b>C. Brain told me to have been attacked in the street.</b> (verb phrase): 'to have been attacked' is not a correct structure after 'told me.'</li><li><b>D. Brian told me that he had been attacked in the street.</b> (verb phrase): This is the correct answer. It uses past perfect passive ('had been attacked'), which matches the original meaning and tense.</li></ul><b>Related structure or vocabulary:</b> Reported speech (câu tường thuật), tense backshift (lùi thì), past perfect passive (quá khứ hoàn thành bị động)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Câu gốc là câu tường thuật: 'Brian told me that somebody had attacked him in the street.' Khi chuyển từ câu trực tiếp sang câu tường thuật, chúng ta thường phải lùi thì. Thì quá khứ hoàn thành ('had attacked') được dùng để diễn tả hành động xảy ra trước thời điểm Brian kể lại. Ở thể bị động, 'somebody had attacked him' sẽ thành 'he had been attacked.' Vì vậy, đáp án đúng phải giữ nguyên cấu trúc quá khứ hoàn thành bị động.<br><ul><li><b>A. Brian told me that somebody has attacked him in the street.</b> (cụm động từ): 'has attacked' là thì hiện tại hoàn thành, không phù hợp trong câu tường thuật khi động từ tường thuật ở thì quá khứ ('told').</li><li><b>B. I was told by Brian that he has been attacked in the street.</b> (cấu trúc câu): Câu này đổi chủ ngữ từ 'Brian' sang 'I' và dùng thì hiện tại hoàn thành bị động ('has been attacked'), không đúng với ngữ cảnh và thì của câu gốc.</li><li><b>C. Brain told me to have been attacked in the street.</b> (cụm động từ): 'to have been attacked' không phải là cấu trúc đúng sau 'told me.'</li><li><b>D. Brian told me that he had been attacked in the street.</b> (cụm động từ): Đây là đáp án đúng. Sử dụng thì quá khứ hoàn thành bị động ('had been attacked'), phù hợp với nghĩa và thì của câu gốc.</li></ul><b>Cấu trúc và từ vựng:</b> Câu tường thuật (reported speech), lùi thì (tense backshift), quá khứ hoàn thành bị động (past perfect passive)<br><br><b>Tạm dịch:</b> Brian nói với tôi rằng anh ấy đã bị tấn công trên đường.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The original sentence is in reported speech: 'Brian told me that somebody had attacked him in the street.' When changing direct speech to reported speech, we often need to backshift the tense. The past perfect ('had attacked') is used to show that the action happened before the time Brian told me. In passive voice, 'somebody had attacked him' becomes 'he had been attacked.' Therefore, the correct answer must keep the past perfect passive structure.<br><ul><li><b>A. Brian told me that somebody has attacked him in the street.</b> (verb phrase): 'has attacked' is present perfect tense, which is not correct in reported speech when the reporting verb is in the past ('told').</li><li><b>B. I was told by Brian that he has been attacked in the street.</b> (sentence structure): This changes the subject from 'Brian' to 'I' and uses present perfect passive ('has been attacked'), which is incorrect for the context and tense.</li><li><b>C. Brain told me to have been attacked in the street.</b> (verb phrase): 'to have been attacked' is not a correct structure after 'told me.'</li><li><b>D. Brian told me that he had been attacked in the street.</b> (verb phrase): This is the correct answer. It uses past perfect passive ('had been attacked'), which matches the original meaning and tense.</li></ul><b>Related structure or vocabulary:</b> Reported speech (câu tường thuật), tense backshift (lùi thì), past perfect passive (quá khứ hoàn thành bị động)<br><br>"
+      }
+    }
+  ]
+}

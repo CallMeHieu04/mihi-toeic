@@ -1,0 +1,808 @@
+{
+  "topicId": "6204bce9d1bfab7a5b001321",
+  "title": "NUMERIC EXPRESSIONS BEFORE NOUNS - Practice 2",
+  "totalCards": 20,
+  "totalQuestions": 20,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00134d",
+        "questionNumber": 1,
+        "questionText": "If you are looking for shirts that fit____suit you have, you have come to the right place.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "all",
+            "raw": "A. all ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "any",
+            "raw": "B. any",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "other",
+            "raw": "C. other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "many",
+            "raw": "D. many",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If you are looking for shirts that fit____suit you have, you have come to the right place.' requires a word that describes the type or quantity of suits the person has. The word must fit grammatically and logically with 'suit you have.'<br><ul><li><b>all</b> (determiner): 'All' means every one of a group. 'Shirts that fit all suit you have' is incorrect because 'all' should be used with a plural noun ('all suits you have').</li><li><b>any</b> (determiner): 'Any' means one, some, or every of a group, and can be used with singular or plural nouns. 'Shirts that fit any suit you have' is correct and means shirts that match whichever suit you own.</li><li><b>other</b> (adjective): 'Other' means different or additional. 'Shirts that fit other suit you have' is incorrect because 'other' is usually used with plural nouns or with 'another' for singular.</li><li><b>many</b> (determiner): 'Many' means a large number of. 'Shirts that fit many suit you have' is incorrect because 'many' should be used with plural nouns ('many suits you have').</li></ul><b>Related structure or vocabulary:</b> any + singular/plural noun: used to refer to one, some, or every thing or person in a group<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'If you are looking for shirts that fit____suit you have, you have come to the right place.' cần một từ chỉ loại hoặc số lượng bộ vest mà người đó có. Từ này phải phù hợp về ngữ pháp và ý nghĩa với cụm 'suit you have'.<br><ul><li><b>all</b> (từ xác định): 'All' nghĩa là tất cả, dùng cho danh từ số nhiều. 'Shirts that fit all suit you have' không đúng vì 'all' phải đi với danh từ số nhiều ('all suits you have').</li><li><b>any</b> (từ xác định): 'Any' nghĩa là bất kỳ, có thể dùng với danh từ số ít hoặc số nhiều. 'Shirts that fit any suit you have' là đúng, nghĩa là áo sơ mi phù hợp với bất kỳ bộ vest nào bạn có.</li><li><b>other</b> (tính từ): 'Other' nghĩa là khác hoặc thêm vào. 'Shirts that fit other suit you have' không đúng vì 'other' thường đi với danh từ số nhiều hoặc dùng 'another' cho số ít.</li><li><b>many</b> (từ xác định): 'Many' nghĩa là nhiều, dùng với danh từ số nhiều. 'Shirts that fit many suit you have' không đúng vì 'many' phải đi với danh từ số nhiều ('many suits you have').</li></ul><b>Cấu trúc và từ vựng:</b> any + danh từ số ít/số nhiều: dùng để chỉ bất kỳ một hoặc nhiều người/vật trong một nhóm<br><br><b>Tạm dịch:</b> Nếu bạn đang tìm kiếm những chiếc áo sơ mi phù hợp với bất kỳ bộ vest nào bạn có, bạn đã đến đúng nơi.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'If you are looking for shirts that fit____suit you have, you have come to the right place.' requires a word that describes the type or quantity of suits the person has. The word must fit grammatically and logically with 'suit you have.'<br><ul><li><b>all</b> (determiner): 'All' means every one of a group. 'Shirts that fit all suit you have' is incorrect because 'all' should be used with a plural noun ('all suits you have').</li><li><b>any</b> (determiner): 'Any' means one, some, or every of a group, and can be used with singular or plural nouns. 'Shirts that fit any suit you have' is correct and means shirts that match whichever suit you own.</li><li><b>other</b> (adjective): 'Other' means different or additional. 'Shirts that fit other suit you have' is incorrect because 'other' is usually used with plural nouns or with 'another' for singular.</li><li><b>many</b> (determiner): 'Many' means a large number of. 'Shirts that fit many suit you have' is incorrect because 'many' should be used with plural nouns ('many suits you have').</li></ul><b>Related structure or vocabulary:</b> any + singular/plural noun: used to refer to one, some, or every thing or person in a group<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00134e",
+        "questionNumber": 2,
+        "questionText": "We are sorry that ____of the items you ordered are not currently in stock.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "another",
+            "raw": "A. another ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "much",
+            "raw": "B. much ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "each",
+            "raw": "C. each ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "some",
+            "raw": "D. some",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that fits grammatically and logically with 'of the items you ordered are not currently in stock.' We need a word that can refer to a part or quantity of the items. 'Some' is the correct choice because it is used to refer to an unspecified quantity or number of countable nouns (like 'items').<br><ul><li><b>another</b> (determiner/pronoun): 'Another' is used with singular countable nouns to mean 'one more' or 'an additional one.' It does not fit here because 'items' is plural.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns to refer to a large quantity. 'Items' is a countable noun, so 'much' is incorrect.</li><li><b>each</b> (determiner/pronoun): 'Each' refers to every one of two or more people or things considered separately. It is not suitable here because the sentence is talking about some, not every, item.</li><li><b>some</b> (determiner/pronoun): 'Some' is used with plural countable nouns or uncountable nouns to refer to an unspecified amount or number. It fits the context of the sentence.</li></ul><b>Related structure or vocabulary:</b> Use 'some' with plural countable nouns to refer to an unspecified quantity. Structure: some of + plural noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ phù hợp về ngữ pháp và ý nghĩa với cụm 'of the items you ordered are not currently in stock.' Ta cần một từ chỉ một phần hoặc số lượng của các món hàng. 'Some' là đáp án đúng vì nó dùng để chỉ một số lượng không xác định của danh từ đếm được số nhiều (như 'items').<br><ul><li><b>another</b> (từ hạn định/đại từ): 'Another' dùng với danh từ đếm được số ít, mang nghĩa 'một cái nữa' hoặc 'một cái khác.' Không phù hợp vì 'items' là số nhiều.</li><li><b>much</b> (từ hạn định): 'Much' dùng với danh từ không đếm được để chỉ số lượng lớn. 'Items' là danh từ đếm được nên không dùng 'much.'</li><li><b>each</b> (từ hạn định/đại từ): 'Each' dùng để chỉ từng cái một trong hai hoặc nhiều người/vật, không phù hợp vì câu nói về một số món hàng chứ không phải từng món.</li><li><b>some</b> (từ hạn định/đại từ): 'Some' dùng với danh từ đếm được số nhiều hoặc danh từ không đếm được để chỉ một số lượng không xác định. Phù hợp với ngữ cảnh câu.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'some' với danh từ đếm được số nhiều để chỉ một số lượng không xác định. Cấu trúc: some of + danh từ số nhiều.<br><br><b>Tạm dịch:</b> Chúng tôi xin lỗi vì một số món hàng bạn đặt hiện không có trong kho.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that fits grammatically and logically with 'of the items you ordered are not currently in stock.' We need a word that can refer to a part or quantity of the items. 'Some' is the correct choice because it is used to refer to an unspecified quantity or number of countable nouns (like 'items').<br><ul><li><b>another</b> (determiner/pronoun): 'Another' is used with singular countable nouns to mean 'one more' or 'an additional one.' It does not fit here because 'items' is plural.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns to refer to a large quantity. 'Items' is a countable noun, so 'much' is incorrect.</li><li><b>each</b> (determiner/pronoun): 'Each' refers to every one of two or more people or things considered separately. It is not suitable here because the sentence is talking about some, not every, item.</li><li><b>some</b> (determiner/pronoun): 'Some' is used with plural countable nouns or uncountable nouns to refer to an unspecified amount or number. It fits the context of the sentence.</li></ul><b>Related structure or vocabulary:</b> Use 'some' with plural countable nouns to refer to an unspecified quantity. Structure: some of + plural noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00134f",
+        "questionNumber": 3,
+        "questionText": "Even though Mr. Drawbaugh examined the two healthcare papers with great care, he did not notice ____ differences between them.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "any",
+            "raw": "A. any",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "no",
+            "raw": "B. no ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "much",
+            "raw": "C. much ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "a",
+            "raw": "D. a",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that fits grammatically and semantically with 'differences.' The phrase 'did not notice ____ differences' suggests a negative context, so we need a word that works with negatives. In English, 'any' is commonly used in negative sentences to refer to an indefinite quantity or number. The other options do not fit grammatically or semantically.<br><ul><li><b>any</b> (determiner): 'Any' is used in negative sentences and questions to refer to an indefinite quantity or number. It fits naturally after 'did not notice' and before the plural noun 'differences.'</li><li><b>no</b> (determiner): 'No' is used to make a sentence negative, but since the sentence already has 'did not,' using 'no' would create a double negative, which is incorrect in standard English.</li><li><b>much</b> (determiner/quantifier): 'Much' is used with uncountable nouns, but 'differences' is a countable noun, so 'much' is not appropriate here.</li><li><b>a</b> (article): 'A' is an indefinite article used with singular countable nouns, but 'differences' is plural, so 'a' cannot be used.</li></ul><b>Related structure or vocabulary:</b> In negative sentences, 'any' is used before plural or uncountable nouns to indicate an indefinite amount or number. Structure: not + any + plural/uncountable noun.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu cần một từ phù hợp về ngữ pháp và nghĩa với từ 'differences.' Cụm từ 'did not notice ____ differences' mang nghĩa phủ định, nên cần một từ thường dùng trong câu phủ định. Trong tiếng Anh, 'any' thường được sử dụng trong câu phủ định để chỉ số lượng không xác định. Các lựa chọn khác không phù hợp về ngữ pháp hoặc nghĩa.<br><ul><li><b>any</b> (từ hạn định): 'Any' được dùng trong câu phủ định và câu hỏi để chỉ số lượng không xác định. Nó phù hợp khi đứng sau 'did not notice' và trước danh từ số nhiều 'differences.'</li><li><b>no</b> (từ hạn định): 'No' dùng để tạo câu phủ định, nhưng câu đã có 'did not,' nếu dùng thêm 'no' sẽ thành phủ định kép, không đúng trong tiếng Anh chuẩn.</li><li><b>much</b> (từ hạn định/từ chỉ số lượng): 'Much' dùng với danh từ không đếm được, trong khi 'differences' là danh từ đếm được số nhiều, nên không phù hợp.</li><li><b>a</b> (mạo từ): 'A' là mạo từ bất định dùng với danh từ đếm được số ít, còn 'differences' là danh từ số nhiều nên không dùng được.</li></ul><b>Cấu trúc và từ vựng:</b> Trong câu phủ định, 'any' được dùng trước danh từ số nhiều hoặc không đếm được để chỉ số lượng không xác định. Cấu trúc: not + any + danh từ số nhiều/không đếm được.<br><br><b>Tạm dịch:</b> Mặc dù ông Drawbaugh đã xem xét rất kỹ hai bài báo về y tế, ông ấy đã không nhận thấy bất kỳ sự khác biệt nào giữa chúng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence requires a word that fits grammatically and semantically with 'differences.' The phrase 'did not notice ____ differences' suggests a negative context, so we need a word that works with negatives. In English, 'any' is commonly used in negative sentences to refer to an indefinite quantity or number. The other options do not fit grammatically or semantically.<br><ul><li><b>any</b> (determiner): 'Any' is used in negative sentences and questions to refer to an indefinite quantity or number. It fits naturally after 'did not notice' and before the plural noun 'differences.'</li><li><b>no</b> (determiner): 'No' is used to make a sentence negative, but since the sentence already has 'did not,' using 'no' would create a double negative, which is incorrect in standard English.</li><li><b>much</b> (determiner/quantifier): 'Much' is used with uncountable nouns, but 'differences' is a countable noun, so 'much' is not appropriate here.</li><li><b>a</b> (article): 'A' is an indefinite article used with singular countable nouns, but 'differences' is plural, so 'a' cannot be used.</li></ul><b>Related structure or vocabulary:</b> In negative sentences, 'any' is used before plural or uncountable nouns to indicate an indefinite amount or number. Structure: not + any + plural/uncountable noun.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001350",
+        "questionNumber": 4,
+        "questionText": "____of the island was hit by the storm, but some suffered more serious damage than____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Every – the rest",
+            "raw": "A. Every – the rest ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Each – others",
+            "raw": "B. Each – others",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "None – the other",
+            "raw": "C. None – the other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "All – other",
+            "raw": "D. All – other",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a word that refers to the whole island being affected by the storm, and then a comparison with the remaining parts. 'All' is used to refer to the entire group collectively, and 'the others' or 'the rest' is used to refer to the remaining parts. However, the correct phrase is 'the rest' when talking about the remaining parts of a singular noun like 'the island.' So, the correct answer is 'All – the rest.'<br><ul><li><b>Every – the rest</b> (determiner – noun phrase): 'Every' is used with singular countable nouns and refers to each individual item in a group, not the group as a whole. 'The rest' is correct for the second blank, but 'every' does not fit with 'of the island.'</li><li><b>Each – others</b> (determiner – pronoun): 'Each' is used for individual items, not for the whole group. 'Others' is plural and refers to other people or things, but does not fit the context of comparing parts of the island.</li><li><b>None – the other</b> (pronoun – pronoun): 'None' means not any, which does not fit the context because the sentence says the island was hit by the storm. 'The other' is used when referring to two items, but here we are talking about more than two parts.</li><li><b>All – other</b> (determiner – adjective): 'All' correctly refers to the whole island, but 'other' is not correct here. The correct phrase is 'the rest' when referring to the remaining parts.</li></ul><b>Related structure or vocabulary:</b> all of + singular/plural noun: toàn bộ; the rest: phần còn lại; every/each: mỗi (dùng với danh từ số ít); others/the other: những cái khác/cái còn lại<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống đầu tiên cần một từ chỉ toàn bộ hòn đảo bị ảnh hưởng bởi cơn bão, sau đó so sánh với phần còn lại. 'All' được dùng để chỉ toàn bộ nhóm, còn 'the rest' dùng để chỉ phần còn lại của một danh từ số ít như 'the island'. Vì vậy, đáp án đúng là 'All – the rest'.<br><ul><li><b>Every – the rest</b> (từ hạn định – cụm danh từ): 'Every' dùng với danh từ đếm được số ít và chỉ từng phần riêng lẻ trong nhóm, không phải toàn bộ nhóm. 'The rest' đúng cho chỗ trống thứ hai, nhưng 'every' không phù hợp với 'of the island'.</li><li><b>Each – others</b> (từ hạn định – đại từ): 'Each' dùng cho từng phần riêng lẻ, không phải toàn bộ nhóm. 'Others' là số nhiều, chỉ những cái khác, nhưng không phù hợp với ngữ cảnh so sánh các phần của đảo.</li><li><b>None – the other</b> (đại từ – đại từ): 'None' nghĩa là không cái nào, không phù hợp vì câu nói đảo đã bị ảnh hưởng bởi bão. 'The other' dùng khi nói về hai đối tượng, nhưng ở đây nói về nhiều phần của đảo.</li><li><b>All – other</b> (từ hạn định – tính từ): 'All' đúng khi nói về toàn bộ đảo, nhưng 'other' không đúng ở đây. Cụm đúng phải là 'the rest' khi nói về phần còn lại.</li></ul><b>Cấu trúc và từ vựng:</b> all of + danh từ số ít/số nhiều: toàn bộ; the rest: phần còn lại; every/each: mỗi (dùng với danh từ số ít); others/the other: những cái khác/cái còn lại<br><br><b>Tạm dịch:</b> Toàn bộ hòn đảo đã bị ảnh hưởng bởi cơn bão, nhưng một số phần bị thiệt hại nghiêm trọng hơn phần còn lại.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a word that refers to the whole island being affected by the storm, and then a comparison with the remaining parts. 'All' is used to refer to the entire group collectively, and 'the others' or 'the rest' is used to refer to the remaining parts. However, the correct phrase is 'the rest' when talking about the remaining parts of a singular noun like 'the island.' So, the correct answer is 'All – the rest.'<br><ul><li><b>Every – the rest</b> (determiner – noun phrase): 'Every' is used with singular countable nouns and refers to each individual item in a group, not the group as a whole. 'The rest' is correct for the second blank, but 'every' does not fit with 'of the island.'</li><li><b>Each – others</b> (determiner – pronoun): 'Each' is used for individual items, not for the whole group. 'Others' is plural and refers to other people or things, but does not fit the context of comparing parts of the island.</li><li><b>None – the other</b> (pronoun – pronoun): 'None' means not any, which does not fit the context because the sentence says the island was hit by the storm. 'The other' is used when referring to two items, but here we are talking about more than two parts.</li><li><b>All – other</b> (determiner – adjective): 'All' correctly refers to the whole island, but 'other' is not correct here. The correct phrase is 'the rest' when referring to the remaining parts.</li></ul><b>Related structure or vocabulary:</b> all of + singular/plural noun: toàn bộ; the rest: phần còn lại; every/each: mỗi (dùng với danh từ số ít); others/the other: những cái khác/cái còn lại<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001351",
+        "questionNumber": 5,
+        "questionText": "In order to ensure equality of education, ____school in the district will be better equipped or funded than____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "no – any other",
+            "raw": "A. no – any other",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "a – some other",
+            "raw": "B. a – some other ",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "some – another",
+            "raw": "C. some – another ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "every – other",
+            "raw": "D. every – other",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a structure that expresses 'no school will be better equipped or funded than any other school.' The phrase 'no ... any other' is a common structure used to compare one thing to all others in a group, emphasizing equality. In this context, 'no school ... any other' means that all schools are treated equally, with none receiving better equipment or funding than the rest.<br><ul><li><b>no – any other</b> (determiner + pronoun): 'No' is used to indicate none of the schools, and 'any other' refers to all the other schools in the district. This structure is commonly used to express equality or lack of exception.</li><li><b>a – some other</b> (article + pronoun): 'A' refers to one school, and 'some other' is not a standard comparative structure in this context. It does not clearly express the intended meaning of equality.</li><li><b>some – another</b> (determiner + pronoun): 'Some' refers to an unspecified number of schools, and 'another' refers to one more school. This pairing does not fit the context of comparing all schools equally.</li><li><b>every – other</b> (determiner + pronoun): 'Every' refers to all schools individually, but 'other' alone is incomplete without 'any' or 'another' to clarify the comparison.</li></ul><b>Related structure or vocabulary:</b> Structure: 'No ... any other' is used to compare one member of a group to all others, emphasizing that none is different or superior. Example: 'No student in the class is taller than any other.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền một cấu trúc diễn đạt ý 'không trường nào được trang bị hoặc tài trợ tốt hơn bất kỳ trường nào khác.' Cụm từ 'no ... any other' là một cấu trúc phổ biến dùng để so sánh một đối tượng với tất cả các đối tượng còn lại trong nhóm, nhấn mạnh sự bình đẳng. Trong ngữ cảnh này, 'no school ... any other' có nghĩa là tất cả các trường đều được đối xử như nhau, không trường nào được trang bị hoặc tài trợ tốt hơn các trường khác.<br><ul><li><b>no – any other</b> (từ hạn định + đại từ): 'No' dùng để chỉ không có trường nào, và 'any other' ám chỉ tất cả các trường còn lại trong quận. Đây là cấu trúc thường dùng để diễn đạt sự bình đẳng hoặc không có ngoại lệ.</li><li><b>a – some other</b> (mạo từ + đại từ): 'A' chỉ một trường, còn 'some other' không phải là cấu trúc so sánh chuẩn trong trường hợp này. Nó không diễn đạt rõ ý bình đẳng.</li><li><b>some – another</b> (từ hạn định + đại từ): 'Some' chỉ một số trường không xác định, còn 'another' chỉ một trường nữa. Cặp này không phù hợp với ngữ cảnh so sánh tất cả các trường một cách bình đẳng.</li><li><b>every – other</b> (từ hạn định + đại từ): 'Every' chỉ từng trường một, nhưng 'other' đứng một mình thì không đủ nghĩa, cần có 'any' hoặc 'another' để làm rõ phép so sánh.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: 'No ... any other' dùng để so sánh một thành viên trong nhóm với tất cả các thành viên còn lại, nhấn mạnh rằng không có ai khác biệt hoặc vượt trội. Ví dụ: 'No student in the class is taller than any other.'<br><br><b>Tạm dịch:</b> Để đảm bảo sự bình đẳng trong giáo dục, không trường nào trong quận sẽ được trang bị hoặc tài trợ tốt hơn bất kỳ trường nào khác.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a structure that expresses 'no school will be better equipped or funded than any other school.' The phrase 'no ... any other' is a common structure used to compare one thing to all others in a group, emphasizing equality. In this context, 'no school ... any other' means that all schools are treated equally, with none receiving better equipment or funding than the rest.<br><ul><li><b>no – any other</b> (determiner + pronoun): 'No' is used to indicate none of the schools, and 'any other' refers to all the other schools in the district. This structure is commonly used to express equality or lack of exception.</li><li><b>a – some other</b> (article + pronoun): 'A' refers to one school, and 'some other' is not a standard comparative structure in this context. It does not clearly express the intended meaning of equality.</li><li><b>some – another</b> (determiner + pronoun): 'Some' refers to an unspecified number of schools, and 'another' refers to one more school. This pairing does not fit the context of comparing all schools equally.</li><li><b>every – other</b> (determiner + pronoun): 'Every' refers to all schools individually, but 'other' alone is incomplete without 'any' or 'another' to clarify the comparison.</li></ul><b>Related structure or vocabulary:</b> Structure: 'No ... any other' is used to compare one member of a group to all others, emphasizing that none is different or superior. Example: 'No student in the class is taller than any other.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001352",
+        "questionNumber": 6,
+        "questionText": "___of the countries in the United Nations are represented in the General Assembly, but only____are on the Security Council.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Some – the rest",
+            "raw": "A. Some – the rest ",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "All – a few",
+            "raw": "B. All – a few",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Most – none",
+            "raw": "C. Most – none ",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The whole – some",
+            "raw": "D. The whole – some",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires words that correctly describe the representation of countries in the United Nations General Assembly and the Security Council. The General Assembly includes all member countries, while only a few countries serve on the Security Council at any given time.<br><ul><li><b>Some – the rest</b> (pronoun): \"Some\" means a part of the total, and \"the rest\" means the remaining part. This does not fit because all countries are represented in the General Assembly, not just some.</li><li><b>All – a few</b> (pronoun): \"All\" means every country, which is correct for the General Assembly. \"A few\" means only a small number, which is correct for the Security Council, as only 15 countries serve at a time.</li><li><b>Most – none</b> (pronoun): \"Most\" means the majority, but not all, which is incorrect because all countries are represented in the General Assembly. \"None\" means zero, which is incorrect for the Security Council.</li><li><b>The whole – some</b> (pronoun): \"The whole\" is not commonly used to refer to a group of countries. \"Some\" is too vague for the Security Council.</li></ul><b>Related structure or vocabulary:</b> all + plural noun: tất cả, a few + plural noun: một vài. The structure 'all ... but only a few ...' is used to show contrast between a total group and a smaller subset.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần điền các từ mô tả đúng về sự đại diện của các quốc gia trong Đại hội đồng Liên Hợp Quốc và Hội đồng Bảo an. Đại hội đồng bao gồm tất cả các quốc gia thành viên, trong khi chỉ một vài quốc gia được tham gia vào Hội đồng Bảo an tại một thời điểm.<br><ul><li><b>Some – the rest</b> (đại từ): \"Some\" nghĩa là một phần trong tổng số, \"the rest\" là phần còn lại. Không phù hợp vì tất cả các quốc gia đều có mặt ở Đại hội đồng, không chỉ một số.</li><li><b>All – a few</b> (đại từ): \"All\" nghĩa là tất cả các quốc gia, đúng với Đại hội đồng. \"A few\" nghĩa là chỉ một số ít, đúng với Hội đồng Bảo an vì chỉ có 15 quốc gia tham gia cùng lúc.</li><li><b>Most – none</b> (đại từ): \"Most\" nghĩa là phần lớn nhưng không phải tất cả, không đúng vì tất cả các quốc gia đều có mặt ở Đại hội đồng. \"None\" nghĩa là không có ai, không đúng với Hội đồng Bảo an.</li><li><b>The whole – some</b> (đại từ): \"The whole\" không thường dùng để chỉ một nhóm quốc gia. \"Some\" quá mơ hồ với Hội đồng Bảo an.</li></ul><b>Cấu trúc và từ vựng:</b> all + danh từ số nhiều: tất cả, a few + danh từ số nhiều: một vài. Cấu trúc 'all ... but only a few ...' dùng để nhấn mạnh sự đối lập giữa toàn bộ nhóm và một phần nhỏ hơn.<br><br><b>Tạm dịch:</b> Tất cả các quốc gia trong Liên Hợp Quốc đều được đại diện tại Đại hội đồng, nhưng chỉ một vài quốc gia là thành viên của Hội đồng Bảo an.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires words that correctly describe the representation of countries in the United Nations General Assembly and the Security Council. The General Assembly includes all member countries, while only a few countries serve on the Security Council at any given time.<br><ul><li><b>Some – the rest</b> (pronoun): \"Some\" means a part of the total, and \"the rest\" means the remaining part. This does not fit because all countries are represented in the General Assembly, not just some.</li><li><b>All – a few</b> (pronoun): \"All\" means every country, which is correct for the General Assembly. \"A few\" means only a small number, which is correct for the Security Council, as only 15 countries serve at a time.</li><li><b>Most – none</b> (pronoun): \"Most\" means the majority, but not all, which is incorrect because all countries are represented in the General Assembly. \"None\" means zero, which is incorrect for the Security Council.</li><li><b>The whole – some</b> (pronoun): \"The whole\" is not commonly used to refer to a group of countries. \"Some\" is too vague for the Security Council.</li></ul><b>Related structure or vocabulary:</b> all + plural noun: tất cả, a few + plural noun: một vài. The structure 'all ... but only a few ...' is used to show contrast between a total group and a smaller subset.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001353",
+        "questionNumber": 7,
+        "questionText": "Since taking office last year, the government has made____ changes in employment policy that concerns the public",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a few",
+            "raw": "A. a few",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "few",
+            "raw": "B. few",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "little",
+            "raw": "C. little",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "a little",
+            "raw": "D. a little",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a quantifier that correctly modifies 'changes', which is a countable plural noun. The context is about the number of changes made by the government in employment policy. The sentence suggests that these changes are significant enough to concern the public.<br><ul><li><b>a few</b> (quantifier (for countable nouns)): 'A few' is used with plural countable nouns to mean 'some, but not many'. It has a positive meaning, indicating that there is a small number, but enough to be significant.</li><li><b>few</b> (quantifier (for countable nouns)): 'Few' is also used with plural countable nouns, but it has a negative meaning, implying 'not many, almost none'.</li><li><b>little</b> (quantifier (for uncountable nouns)): 'Little' is used with uncountable nouns, meaning 'not much'. It cannot be used with countable nouns like 'changes'.</li><li><b>a little</b> (quantifier (for uncountable nouns)): 'A little' is used with uncountable nouns, meaning 'some, but not much'. It cannot be used with countable nouns like 'changes'.</li></ul><b>Related structure or vocabulary:</b> Quantifiers for countable and uncountable nouns: 'a few' and 'few' are used with countable nouns; 'a little' and 'little' are used with uncountable nouns.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ chỉ số lượng phù hợp để bổ nghĩa cho 'changes', là danh từ đếm được số nhiều. Ngữ cảnh nói về số lượng thay đổi mà chính phủ đã thực hiện trong chính sách việc làm. Câu này ngụ ý rằng những thay đổi này đủ để khiến công chúng quan tâm.<br><ul><li><b>a few</b> (từ chỉ số lượng (dùng cho danh từ đếm được)): 'A few' dùng với danh từ đếm được số nhiều, nghĩa là 'một vài', mang nghĩa tích cực, chỉ số lượng nhỏ nhưng đủ để đáng kể.</li><li><b>few</b> (từ chỉ số lượng (dùng cho danh từ đếm được)): 'Few' cũng dùng với danh từ đếm được số nhiều, nhưng mang nghĩa tiêu cực, chỉ 'rất ít, hầu như không có'.</li><li><b>little</b> (từ chỉ số lượng (dùng cho danh từ không đếm được)): 'Little' dùng với danh từ không đếm được, nghĩa là 'rất ít', không dùng với danh từ đếm được như 'changes'.</li><li><b>a little</b> (từ chỉ số lượng (dùng cho danh từ không đếm được)): 'A little' dùng với danh từ không đếm được, nghĩa là 'một ít', không dùng với danh từ đếm được như 'changes'.</li></ul><b>Cấu trúc và từ vựng:</b> Các từ chỉ số lượng cho danh từ đếm được và không đếm được: 'a few' và 'few' dùng với danh từ đếm được; 'a little' và 'little' dùng với danh từ không đếm được.<br><br><b>Tạm dịch:</b> Kể từ khi nhậm chức vào năm ngoái, chính phủ đã thực hiện một vài thay đổi trong chính sách việc làm khiến công chúng quan tâm.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a quantifier that correctly modifies 'changes', which is a countable plural noun. The context is about the number of changes made by the government in employment policy. The sentence suggests that these changes are significant enough to concern the public.<br><ul><li><b>a few</b> (quantifier (for countable nouns)): 'A few' is used with plural countable nouns to mean 'some, but not many'. It has a positive meaning, indicating that there is a small number, but enough to be significant.</li><li><b>few</b> (quantifier (for countable nouns)): 'Few' is also used with plural countable nouns, but it has a negative meaning, implying 'not many, almost none'.</li><li><b>little</b> (quantifier (for uncountable nouns)): 'Little' is used with uncountable nouns, meaning 'not much'. It cannot be used with countable nouns like 'changes'.</li><li><b>a little</b> (quantifier (for uncountable nouns)): 'A little' is used with uncountable nouns, meaning 'some, but not much'. It cannot be used with countable nouns like 'changes'.</li></ul><b>Related structure or vocabulary:</b> Quantifiers for countable and uncountable nouns: 'a few' and 'few' are used with countable nouns; 'a little' and 'little' are used with uncountable nouns.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001354",
+        "questionNumber": 8,
+        "questionText": "Oh no, we just have ____ flour left, not enough for a cake.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a few",
+            "raw": "A. a few",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "few",
+            "raw": "B. few",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "little",
+            "raw": "C. little",
+            "isCorrect": true
+          },
+          {
+            "letter": "D",
+            "text": "a little",
+            "raw": "D. a little",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a quantifier that matches with 'flour', which is an uncountable noun. 'Flour' cannot be counted as individual units, so we use quantifiers for uncountable nouns. The sentence expresses a negative idea: there is not enough flour for a cake. 'Little' means 'not much', and is used for uncountable nouns to show a small amount, often with a negative meaning. 'A little' also means 'some', but with a more positive meaning (enough for something). Since the sentence says 'not enough for a cake', the negative sense is needed, so 'little' is correct.<br><ul><li><b>a few</b> (quantifier): 'A few' is used with plural countable nouns, not uncountable nouns like 'flour'.</li><li><b>few</b> (quantifier): 'Few' is used with plural countable nouns, not uncountable nouns like 'flour'.</li><li><b>little</b> (quantifier): 'Little' is used with uncountable nouns to mean 'not much', often with a negative meaning.</li><li><b>a little</b> (quantifier): 'A little' is used with uncountable nouns to mean 'some', usually with a positive meaning (enough for something).</li></ul><b>Related structure or vocabulary:</b> Quantifiers for uncountable nouns: 'little' (negative), 'a little' (positive); for countable nouns: 'few' (negative), 'a few' (positive).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ chỉ số lượng phù hợp với 'flour' (bột mì), là danh từ không đếm được. 'Flour' không thể đếm từng đơn vị, nên phải dùng các từ chỉ số lượng cho danh từ không đếm được. Câu này mang ý nghĩa tiêu cực: không đủ bột để làm bánh. 'Little' nghĩa là 'rất ít', dùng cho danh từ không đếm được, thường mang nghĩa tiêu cực (không đủ). 'A little' cũng dùng cho danh từ không đếm được, nhưng mang nghĩa tích cực hơn (có một ít, đủ dùng). Vì câu nói 'không đủ để làm bánh', nên cần nghĩa tiêu cực, đáp án đúng là 'little'.<br><ul><li><b>a few</b> (từ chỉ số lượng): 'A few' dùng với danh từ đếm được số nhiều, không dùng với danh từ không đếm được như 'flour'.</li><li><b>few</b> (từ chỉ số lượng): 'Few' dùng với danh từ đếm được số nhiều, không dùng với danh từ không đếm được như 'flour'.</li><li><b>little</b> (từ chỉ số lượng): 'Little' dùng với danh từ không đếm được, nghĩa là 'rất ít', thường mang nghĩa tiêu cực (không đủ).</li><li><b>a little</b> (từ chỉ số lượng): 'A little' dùng với danh từ không đếm được, nghĩa là 'một ít', thường mang nghĩa tích cực (đủ dùng).</li></ul><b>Cấu trúc và từ vựng:</b> Từ chỉ số lượng cho danh từ không đếm được: 'little' (tiêu cực), 'a little' (tích cực); cho danh từ đếm được: 'few' (tiêu cực), 'a few' (tích cực).<br><br><b>Tạm dịch:</b> Ôi không, chúng ta chỉ còn rất ít bột mì, không đủ để làm bánh.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a quantifier that matches with 'flour', which is an uncountable noun. 'Flour' cannot be counted as individual units, so we use quantifiers for uncountable nouns. The sentence expresses a negative idea: there is not enough flour for a cake. 'Little' means 'not much', and is used for uncountable nouns to show a small amount, often with a negative meaning. 'A little' also means 'some', but with a more positive meaning (enough for something). Since the sentence says 'not enough for a cake', the negative sense is needed, so 'little' is correct.<br><ul><li><b>a few</b> (quantifier): 'A few' is used with plural countable nouns, not uncountable nouns like 'flour'.</li><li><b>few</b> (quantifier): 'Few' is used with plural countable nouns, not uncountable nouns like 'flour'.</li><li><b>little</b> (quantifier): 'Little' is used with uncountable nouns to mean 'not much', often with a negative meaning.</li><li><b>a little</b> (quantifier): 'A little' is used with uncountable nouns to mean 'some', usually with a positive meaning (enough for something).</li></ul><b>Related structure or vocabulary:</b> Quantifiers for uncountable nouns: 'little' (negative), 'a little' (positive); for countable nouns: 'few' (negative), 'a few' (positive).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001355",
+        "questionNumber": 9,
+        "questionText": "I enjoy my life here. I have ___ friends and we meet quite often.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "a few",
+            "raw": "A. a few",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "few",
+            "raw": "B. few",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "little",
+            "raw": "C. little",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "a little",
+            "raw": "D. a little",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a quantifier to describe 'friends.' 'Friends' is a countable noun, so we use quantifiers that go with countable nouns. The sentence is positive and suggests the speaker has some friends and meets them often, so the correct quantifier should have a positive meaning.<br><ul><li><b>a few</b> (quantifier (for countable nouns)): 'A few' means 'some,' and is used with countable nouns. It has a positive meaning, indicating that the speaker has enough friends to be satisfied.</li><li><b>few</b> (quantifier (for countable nouns)): 'Few' also goes with countable nouns, but it has a negative meaning, suggesting not many or almost none.</li><li><b>little</b> (quantifier (for uncountable nouns)): 'Little' is used with uncountable nouns, not countable nouns like 'friends.'</li><li><b>a little</b> (quantifier (for uncountable nouns)): 'A little' is also used with uncountable nouns, not with countable nouns like 'friends.'</li></ul><b>Related structure or vocabulary:</b> Quantifiers for countable and uncountable nouns: 'a few' and 'few' for countable nouns; 'a little' and 'little' for uncountable nouns. Positive vs. negative meaning: 'a few' (some, enough), 'few' (not many, almost none).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ chỉ số lượng (quantifier) để mô tả 'friends.' 'Friends' là danh từ đếm được, nên ta dùng các từ chỉ số lượng đi với danh từ đếm được. Câu này mang nghĩa tích cực, nói rằng người nói có bạn và thường xuyên gặp họ, nên từ chỉ số lượng phải mang nghĩa tích cực.<br><ul><li><b>a few</b> (từ chỉ số lượng (danh từ đếm được)): 'A few' nghĩa là 'một vài,' dùng với danh từ đếm được. Mang nghĩa tích cực, chỉ rằng người nói có đủ bạn để cảm thấy hài lòng.</li><li><b>few</b> (từ chỉ số lượng (danh từ đếm được)): 'Few' cũng dùng với danh từ đếm được, nhưng mang nghĩa tiêu cực, chỉ rằng không có nhiều hoặc gần như không có.</li><li><b>little</b> (từ chỉ số lượng (danh từ không đếm được)): 'Little' dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'friends.'</li><li><b>a little</b> (từ chỉ số lượng (danh từ không đếm được)): 'A little' cũng dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'friends.'</li></ul><b>Cấu trúc và từ vựng:</b> Các từ chỉ số lượng cho danh từ đếm được và không đếm được: 'a few' và 'few' dùng cho danh từ đếm được; 'a little' và 'little' dùng cho danh từ không đếm được. Nghĩa tích cực và tiêu cực: 'a few' (một vài, đủ dùng), 'few' (không nhiều, gần như không có).<br><br><b>Tạm dịch:</b> Tôi thích cuộc sống của mình ở đây. Tôi có một vài người bạn và chúng tôi thường xuyên gặp nhau.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a quantifier to describe 'friends.' 'Friends' is a countable noun, so we use quantifiers that go with countable nouns. The sentence is positive and suggests the speaker has some friends and meets them often, so the correct quantifier should have a positive meaning.<br><ul><li><b>a few</b> (quantifier (for countable nouns)): 'A few' means 'some,' and is used with countable nouns. It has a positive meaning, indicating that the speaker has enough friends to be satisfied.</li><li><b>few</b> (quantifier (for countable nouns)): 'Few' also goes with countable nouns, but it has a negative meaning, suggesting not many or almost none.</li><li><b>little</b> (quantifier (for uncountable nouns)): 'Little' is used with uncountable nouns, not countable nouns like 'friends.'</li><li><b>a little</b> (quantifier (for uncountable nouns)): 'A little' is also used with uncountable nouns, not with countable nouns like 'friends.'</li></ul><b>Related structure or vocabulary:</b> Quantifiers for countable and uncountable nouns: 'a few' and 'few' for countable nouns; 'a little' and 'little' for uncountable nouns. Positive vs. negative meaning: 'a few' (some, enough), 'few' (not many, almost none).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001356",
+        "questionNumber": 10,
+        "questionText": "Let's wait for___ five minutes.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "another",
+            "raw": "A. another",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "an amount of",
+            "raw": "B. an amount of",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "more",
+            "raw": "C. more",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "every",
+            "raw": "D. every",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Let's wait for___ five minutes.' requires a word that fits grammatically and makes sense in the context. The phrase 'wait for' is often followed by a period of time, and we need a word that can modify 'five minutes' to indicate an additional amount of time.<br><ul><li><b>another</b> (determiner): 'Another' is used before singular countable nouns to mean 'one more' or 'an additional.' However, it can also be used before a number and a plural noun to mean 'an additional amount of.' For example: 'another five minutes' means 'five more minutes.'</li><li><b>an amount of</b> (phrase): 'An amount of' is used with uncountable nouns, not with countable nouns like 'minutes.'</li><li><b>more</b> (adjective): 'More' can be used to indicate an additional quantity, but it is not used directly before a specific number and a plural noun in this structure.</li><li><b>every</b> (determiner): 'Every' is used before singular countable nouns to refer to all the members of a group, not to indicate an additional period of time.</li></ul><b>Related structure or vocabulary:</b> another + number + plural noun: used to indicate an additional quantity of something. Example: 'another ten days', 'another two hours'.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'Let's wait for___ five minutes.' cần một từ phù hợp về ngữ pháp và ý nghĩa trong ngữ cảnh. Cụm 'wait for' thường đi với một khoảng thời gian, và chúng ta cần một từ để bổ nghĩa cho 'five minutes' nhằm chỉ thêm một khoảng thời gian nữa.<br><ul><li><b>another</b> (determiner (từ hạn định)): 'Another' dùng trước danh từ đếm được số ít để chỉ 'một cái nữa', nhưng cũng có thể dùng trước số đếm và danh từ số nhiều để chỉ 'thêm một lượng nữa'. Ví dụ: 'another five minutes' nghĩa là 'thêm năm phút nữa'.</li><li><b>an amount of</b> (cụm từ): 'An amount of' dùng với danh từ không đếm được, không dùng với danh từ đếm được như 'minutes'.</li><li><b>more</b> (tính từ): 'More' có thể dùng để chỉ số lượng thêm, nhưng không dùng trực tiếp trước số đếm và danh từ số nhiều trong cấu trúc này.</li><li><b>every</b> (từ hạn định): 'Every' dùng trước danh từ đếm được số ít để chỉ tất cả các thành viên trong một nhóm, không dùng để chỉ thêm một khoảng thời gian.</li></ul><b>Cấu trúc và từ vựng:</b> another + số đếm + danh từ số nhiều: dùng để chỉ thêm một lượng nào đó. Ví dụ: 'another ten days', 'another two hours'.<br><br><b>Tạm dịch:</b> Hãy đợi thêm năm phút nữa.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'Let's wait for___ five minutes.' requires a word that fits grammatically and makes sense in the context. The phrase 'wait for' is often followed by a period of time, and we need a word that can modify 'five minutes' to indicate an additional amount of time.<br><ul><li><b>another</b> (determiner): 'Another' is used before singular countable nouns to mean 'one more' or 'an additional.' However, it can also be used before a number and a plural noun to mean 'an additional amount of.' For example: 'another five minutes' means 'five more minutes.'</li><li><b>an amount of</b> (phrase): 'An amount of' is used with uncountable nouns, not with countable nouns like 'minutes.'</li><li><b>more</b> (adjective): 'More' can be used to indicate an additional quantity, but it is not used directly before a specific number and a plural noun in this structure.</li><li><b>every</b> (determiner): 'Every' is used before singular countable nouns to refer to all the members of a group, not to indicate an additional period of time.</li></ul><b>Related structure or vocabulary:</b> another + number + plural noun: used to indicate an additional quantity of something. Example: 'another ten days', 'another two hours'.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001357",
+        "questionNumber": 11,
+        "questionText": "___two weeks, we go to the theatre.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Every",
+            "raw": "A. Every",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "All",
+            "raw": "B. All",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Each",
+            "raw": "C. Each",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Any",
+            "raw": "D. Any",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '___ two weeks, we go to the theatre.' requires a word that expresses frequency or regularity. The correct structure to indicate something happens every two weeks is 'Every two weeks.'<br><ul><li><b>Every</b> (Determiner): Used to refer to all the individual members of a set without exception, especially in regular intervals (e.g., every day, every week, every two weeks).</li><li><b>All</b> (Determiner): Refers to the whole quantity or extent of a particular group or thing. 'All two weeks' is not a correct phrase in English.</li><li><b>Each</b> (Determiner): Refers to every one of two or more people or things, considered separately. 'Each two weeks' is not a standard expression for frequency.</li><li><b>Any</b> (Determiner): Refers to one or some of a thing or number of things, no matter how much or how many. 'Any two weeks' does not express regular frequency.</li></ul><b>Related structure or vocabulary:</b> every + time period (e.g., every day, every week, every two weeks): used to express how often something happens<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '___ two weeks, we go to the theatre.' cần một từ diễn tả tần suất hoặc sự đều đặn. Cấu trúc đúng để nói rằng một việc gì đó xảy ra đều đặn mỗi hai tuần là 'Every two weeks.'<br><ul><li><b>Every</b> (Từ hạn định): Dùng để chỉ tất cả các thành viên riêng lẻ của một tập hợp mà không có ngoại lệ, đặc biệt là trong các khoảng thời gian đều đặn (ví dụ: every day, every week, every two weeks).</li><li><b>All</b> (Từ hạn định): Chỉ toàn bộ số lượng hoặc phạm vi của một nhóm hoặc vật nào đó. 'All two weeks' không phải là một cụm từ đúng trong tiếng Anh.</li><li><b>Each</b> (Từ hạn định): Chỉ từng người hoặc vật trong hai hoặc nhiều người/vật, được xem xét riêng lẻ. 'Each two weeks' không phải là cách diễn đạt chuẩn để nói về tần suất.</li><li><b>Any</b> (Từ hạn định): Chỉ một hoặc một số vật/người nào đó, không quan trọng là bao nhiêu. 'Any two weeks' không diễn đạt ý nghĩa về sự đều đặn.</li></ul><b>Cấu trúc và từ vựng:</b> every + khoảng thời gian (ví dụ: every day, every week, every two weeks): dùng để diễn tả mức độ thường xuyên của một hành động<br><br><b>Tạm dịch:</b> Cứ mỗi hai tuần, chúng tôi lại đi xem kịch.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '___ two weeks, we go to the theatre.' requires a word that expresses frequency or regularity. The correct structure to indicate something happens every two weeks is 'Every two weeks.'<br><ul><li><b>Every</b> (Determiner): Used to refer to all the individual members of a set without exception, especially in regular intervals (e.g., every day, every week, every two weeks).</li><li><b>All</b> (Determiner): Refers to the whole quantity or extent of a particular group or thing. 'All two weeks' is not a correct phrase in English.</li><li><b>Each</b> (Determiner): Refers to every one of two or more people or things, considered separately. 'Each two weeks' is not a standard expression for frequency.</li><li><b>Any</b> (Determiner): Refers to one or some of a thing or number of things, no matter how much or how many. 'Any two weeks' does not express regular frequency.</li></ul><b>Related structure or vocabulary:</b> every + time period (e.g., every day, every week, every two weeks): used to express how often something happens<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001358",
+        "questionNumber": 12,
+        "questionText": "___parties were satisfied with the contract.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "Each",
+            "raw": "A. Each",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "Every",
+            "raw": "B. Every",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Any",
+            "raw": "C. Any",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "Both",
+            "raw": "D. Both",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '___ parties were satisfied with the contract.' requires a word that refers to two parties together. The context is about a contract, which usually involves two sides. The correct word should indicate that both sides (not just one or any) were satisfied.<br><ul><li><b>Each</b> (pronoun/determiner): 'Each' is used to refer to every one of two or more people or things, considered separately. However, in this context, we want to refer to the two parties together, not individually.</li><li><b>Every</b> (determiner): 'Every' is used to refer to all the members of a group of three or more. It is not used for two items.</li><li><b>Any</b> (pronoun/determiner): 'Any' is used to refer to one or some of a thing or number of things, no matter how much or how many. It does not fit the context of both parties being satisfied.</li><li><b>Both</b> (pronoun/determiner): 'Both' is used to refer to two people or things together. In this sentence, it means that the two parties involved in the contract were satisfied.</li></ul><b>Related structure or vocabulary:</b> Use 'both' when referring to two people or things together. Structure: both + plural noun (e.g., both parties, both students).<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu '___ parties were satisfied with the contract.' cần một từ chỉ hai bên cùng nhau. Trong ngữ cảnh này, hợp đồng thường liên quan đến hai bên, nên từ đúng phải chỉ rằng cả hai bên đều hài lòng.<br><ul><li><b>Each</b> (đại từ/từ hạn định): 'Each' dùng để chỉ từng người hoặc vật trong hai hoặc nhiều hơn, xét riêng lẻ. Tuy nhiên, ở đây chúng ta muốn nói đến hai bên cùng nhau, không phải từng bên riêng lẻ.</li><li><b>Every</b> (từ hạn định): 'Every' dùng để chỉ tất cả thành viên của một nhóm từ ba trở lên. Không dùng cho hai đối tượng.</li><li><b>Any</b> (đại từ/từ hạn định): 'Any' dùng để chỉ một hoặc một số trong các vật hoặc người, không quan trọng số lượng. Không phù hợp với ý nghĩa cả hai bên đều hài lòng.</li><li><b>Both</b> (đại từ/từ hạn định): 'Both' dùng để chỉ hai người hoặc vật cùng nhau. Trong câu này, nó có nghĩa là cả hai bên tham gia hợp đồng đều hài lòng.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'both' khi nói về hai người hoặc vật cùng nhau. Cấu trúc: both + danh từ số nhiều (ví dụ: both parties, both students).<br><br><b>Tạm dịch:</b> Cả hai bên đều hài lòng với hợp đồng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence '___ parties were satisfied with the contract.' requires a word that refers to two parties together. The context is about a contract, which usually involves two sides. The correct word should indicate that both sides (not just one or any) were satisfied.<br><ul><li><b>Each</b> (pronoun/determiner): 'Each' is used to refer to every one of two or more people or things, considered separately. However, in this context, we want to refer to the two parties together, not individually.</li><li><b>Every</b> (determiner): 'Every' is used to refer to all the members of a group of three or more. It is not used for two items.</li><li><b>Any</b> (pronoun/determiner): 'Any' is used to refer to one or some of a thing or number of things, no matter how much or how many. It does not fit the context of both parties being satisfied.</li><li><b>Both</b> (pronoun/determiner): 'Both' is used to refer to two people or things together. In this sentence, it means that the two parties involved in the contract were satisfied.</li></ul><b>Related structure or vocabulary:</b> Use 'both' when referring to two people or things together. Structure: both + plural noun (e.g., both parties, both students).<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001359",
+        "questionNumber": 13,
+        "questionText": "The head division wants to talk to___ employee in the office.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "both",
+            "raw": "A. both",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "each",
+            "raw": "B. each",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "every",
+            "raw": "C. every",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "much",
+            "raw": "D. much",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The head division wants to talk to___ employee in the office.' requires a word that fits grammatically and makes sense in context. The sentence is talking about the intention to speak to all employees, one by one, in the office. The correct word should refer to individuals within a group.<br><ul><li><b>both</b> (determiner/pronoun): 'Both' is used when referring to two people or things together. It is not suitable here because the sentence does not specify only two employees.</li><li><b>each</b> (determiner/pronoun): 'Each' is used to refer to every one of two or more people or things, considered individually. It fits the context because the head division wants to talk to every single employee, one by one.</li><li><b>every</b> (determiner): 'Every' is used to refer to all the members of a group considered collectively. However, 'every' is not used directly before a singular countable noun when preceded by 'to'. The correct structure is 'to each employee', not 'to every employee'.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns and does not fit with 'employee', which is a countable noun.</li></ul><b>Related structure or vocabulary:</b> to + each + singular noun: used when referring to every individual in a group, one by one.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'The head division wants to talk to___ employee in the office.' cần một từ phù hợp về mặt ngữ pháp và ý nghĩa. Câu này nói về việc trưởng bộ phận muốn nói chuyện với từng nhân viên trong văn phòng, tức là từng người một. Từ đúng phải chỉ từng cá nhân trong một nhóm.<br><ul><li><b>both</b> (từ xác định/đại từ): 'Both' dùng để chỉ hai người hoặc hai vật cùng nhau. Không phù hợp ở đây vì câu không nói chỉ có hai nhân viên.</li><li><b>each</b> (từ xác định/đại từ): 'Each' dùng để chỉ từng người hoặc từng vật trong hai hoặc nhiều hơn, xét riêng từng cá nhân. Phù hợp với ngữ cảnh vì trưởng bộ phận muốn nói chuyện với từng nhân viên một.</li><li><b>every</b> (từ xác định): 'Every' dùng để chỉ tất cả các thành viên trong một nhóm xét chung. Tuy nhiên, 'every' không dùng trực tiếp trước danh từ đếm được số ít khi đứng sau 'to'. Cấu trúc đúng là 'to each employee', không phải 'to every employee'.</li><li><b>much</b> (từ xác định): 'Much' dùng với danh từ không đếm được và không phù hợp với 'employee' là danh từ đếm được.</li></ul><b>Cấu trúc và từ vựng:</b> to + each + danh từ số ít: dùng khi nói về từng cá nhân trong một nhóm, từng người một.<br><br><b>Tạm dịch:</b> Trưởng bộ phận muốn nói chuyện với từng nhân viên trong văn phòng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'The head division wants to talk to___ employee in the office.' requires a word that fits grammatically and makes sense in context. The sentence is talking about the intention to speak to all employees, one by one, in the office. The correct word should refer to individuals within a group.<br><ul><li><b>both</b> (determiner/pronoun): 'Both' is used when referring to two people or things together. It is not suitable here because the sentence does not specify only two employees.</li><li><b>each</b> (determiner/pronoun): 'Each' is used to refer to every one of two or more people or things, considered individually. It fits the context because the head division wants to talk to every single employee, one by one.</li><li><b>every</b> (determiner): 'Every' is used to refer to all the members of a group considered collectively. However, 'every' is not used directly before a singular countable noun when preceded by 'to'. The correct structure is 'to each employee', not 'to every employee'.</li><li><b>much</b> (determiner): 'Much' is used with uncountable nouns and does not fit with 'employee', which is a countable noun.</li></ul><b>Related structure or vocabulary:</b> to + each + singular noun: used when referring to every individual in a group, one by one.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00135a",
+        "questionNumber": 14,
+        "questionText": "I understood most of what they mentioned but not __ word.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "all",
+            "raw": "A. all",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "each",
+            "raw": "B. each",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "some",
+            "raw": "C. some",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "every",
+            "raw": "D. every",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I understood most of what they mentioned but not __ word.' requires a word that fits with the negative structure 'not ... word.' The correct answer is 'every.' The phrase 'not every word' means that the speaker did not understand all the words, but understood most of them. This fits the context of the sentence, which says 'I understood most...' so the speaker missed a few words, not all.<br><ul><li><b>all</b> (determiner): 'Not all word' is grammatically incorrect because 'all' is not used with singular countable nouns like 'word.' The correct phrase would be 'not all words.'</li><li><b>each</b> (determiner): 'Not each word' is possible but less natural in this context. 'Each' emphasizes individual items, but 'not every word' is the standard phrase to express missing some words.</li><li><b>some</b> (determiner): 'Not some word' is incorrect because 'some' is not used with singular countable nouns in this way. The correct phrase would be 'not some words.'</li><li><b>every</b> (determiner): 'Not every word' is the correct and natural phrase. It means the speaker did not understand all the words, only most of them.</li></ul><b>Related structure or vocabulary:</b> not every + singular noun: used to express that something does not apply to all items individually. Example: Not every student passed the exam.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'I understood most of what they mentioned but not __ word.' cần một từ phù hợp với cấu trúc phủ định 'not ... word.' Đáp án đúng là 'every.' Cụm từ 'not every word' có nghĩa là người nói không hiểu tất cả các từ, mà chỉ hiểu hầu hết. Điều này phù hợp với ngữ cảnh câu, khi người nói nói 'I understood most...' tức là chỉ bỏ lỡ một vài từ, không phải tất cả.<br><ul><li><b>all</b> (từ xác định (determiner)): 'Not all word' là không đúng ngữ pháp vì 'all' không dùng với danh từ đếm được số ít như 'word.' Cụm đúng phải là 'not all words.'</li><li><b>each</b> (từ xác định (determiner)): 'Not each word' có thể dùng nhưng không tự nhiên trong ngữ cảnh này. 'Each' nhấn mạnh từng phần tử riêng lẻ, nhưng 'not every word' là cụm từ chuẩn để diễn đạt việc bỏ lỡ một vài từ.</li><li><b>some</b> (từ xác định (determiner)): 'Not some word' là không đúng vì 'some' không dùng với danh từ đếm được số ít theo cách này. Cụm đúng phải là 'not some words.'</li><li><b>every</b> (từ xác định (determiner)): 'Not every word' là cụm từ đúng và tự nhiên. Nó có nghĩa là người nói không hiểu tất cả các từ, chỉ hiểu hầu hết.</li></ul><b>Cấu trúc và từ vựng:</b> not every + danh từ số ít: dùng để diễn đạt rằng điều gì đó không áp dụng cho tất cả các phần tử riêng lẻ. Ví dụ: Not every student passed the exam.<br><br><b>Tạm dịch:</b> Tôi hiểu hầu hết những gì họ đề cập nhưng không phải TỪ NÀO cũng hiểu.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'I understood most of what they mentioned but not __ word.' requires a word that fits with the negative structure 'not ... word.' The correct answer is 'every.' The phrase 'not every word' means that the speaker did not understand all the words, but understood most of them. This fits the context of the sentence, which says 'I understood most...' so the speaker missed a few words, not all.<br><ul><li><b>all</b> (determiner): 'Not all word' is grammatically incorrect because 'all' is not used with singular countable nouns like 'word.' The correct phrase would be 'not all words.'</li><li><b>each</b> (determiner): 'Not each word' is possible but less natural in this context. 'Each' emphasizes individual items, but 'not every word' is the standard phrase to express missing some words.</li><li><b>some</b> (determiner): 'Not some word' is incorrect because 'some' is not used with singular countable nouns in this way. The correct phrase would be 'not some words.'</li><li><b>every</b> (determiner): 'Not every word' is the correct and natural phrase. It means the speaker did not understand all the words, only most of them.</li></ul><b>Related structure or vocabulary:</b> not every + singular noun: used to express that something does not apply to all items individually. Example: Not every student passed the exam.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00135b",
+        "questionNumber": 15,
+        "questionText": "The novel is divided in four parts and___ of these has two sections.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "all",
+            "raw": "A. all",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "each",
+            "raw": "B. each",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "every",
+            "raw": "C. every",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "any",
+            "raw": "D. any",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a word that refers to 'each individual part' of the four parts in the novel. The correct word should indicate that every single part (out of the four) has two sections. 'Each' is used when referring to every one of two or more people or things considered separately.<br><ul><li><b>all</b> (determiner/pronoun): 'All' refers to the total number or the whole group, not to individual items separately.</li><li><b>each</b> (determiner/pronoun): 'Each' refers to every one of a group considered individually, which fits the context here.</li><li><b>every</b> (determiner): 'Every' is used to refer to all the members of a group as a whole, but not as individually as 'each'. It is not usually used when the number is small and specific (like four).</li><li><b>any</b> (determiner/pronoun): 'Any' refers to one or some of a thing or number of things, no matter how much or how many. It does not fit the context of referring to all four parts individually.</li></ul><b>Related structure or vocabulary:</b> Use 'each' when referring to individual items in a small, specific group. Structure: each of + plural noun + singular verb (e.g., Each of the students has a book.)<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ chỉ 'mỗi phần riêng lẻ' trong bốn phần của cuốn tiểu thuyết. Từ đúng phải diễn đạt rằng từng phần trong bốn phần đều có hai đoạn. 'Each' được dùng khi nói về từng phần tử trong một nhóm một cách riêng lẻ.<br><ul><li><b>all</b> (từ xác định/đại từ): 'All' dùng để chỉ toàn bộ số lượng hoặc cả nhóm, không dùng để nói về từng phần riêng lẻ.</li><li><b>each</b> (từ xác định/đại từ): 'Each' dùng để chỉ từng phần tử trong một nhóm một cách riêng lẻ, phù hợp với ngữ cảnh này.</li><li><b>every</b> (từ xác định): 'Every' dùng để nói về tất cả các thành viên của một nhóm như một tổng thể, không nhấn mạnh tính riêng lẻ như 'each'. Thường không dùng khi số lượng nhỏ và xác định (như bốn).</li><li><b>any</b> (từ xác định/đại từ): 'Any' dùng để chỉ một hoặc một vài trong số một nhóm, không quan trọng là bao nhiêu. Không phù hợp với ngữ cảnh nói về từng phần trong bốn phần.</li></ul><b>Cấu trúc và từ vựng:</b> Dùng 'each' khi nói về từng phần tử trong một nhóm nhỏ, xác định. Cấu trúc: each of + danh từ số nhiều + động từ số ít (VD: Each of the students has a book.)<br><br><b>Tạm dịch:</b> Cuốn tiểu thuyết được chia thành bốn phần và MỖI phần trong số đó đều có hai đoạn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a word that refers to 'each individual part' of the four parts in the novel. The correct word should indicate that every single part (out of the four) has two sections. 'Each' is used when referring to every one of two or more people or things considered separately.<br><ul><li><b>all</b> (determiner/pronoun): 'All' refers to the total number or the whole group, not to individual items separately.</li><li><b>each</b> (determiner/pronoun): 'Each' refers to every one of a group considered individually, which fits the context here.</li><li><b>every</b> (determiner): 'Every' is used to refer to all the members of a group as a whole, but not as individually as 'each'. It is not usually used when the number is small and specific (like four).</li><li><b>any</b> (determiner/pronoun): 'Any' refers to one or some of a thing or number of things, no matter how much or how many. It does not fit the context of referring to all four parts individually.</li></ul><b>Related structure or vocabulary:</b> Use 'each' when referring to individual items in a small, specific group. Structure: each of + plural noun + singular verb (e.g., Each of the students has a book.)<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00135c",
+        "questionNumber": 16,
+        "questionText": "___of the top four students will receive an automatic A as well as a unique scholarship.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "every",
+            "raw": "A. every",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "all",
+            "raw": "B. all",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "any",
+            "raw": "C. any",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "each",
+            "raw": "D. each",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "D",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a word that refers to individual members of a specific group (the top four students) and emphasizes that each one will receive an automatic A and a unique scholarship. The correct word should fit grammatically and logically in the sentence.<br><ul><li><b>every</b> (determiner): Used to refer to all the individual members of a group, but not suitable here because 'every' is usually followed by a singular noun, not 'of the'.</li><li><b>all</b> (determiner/pronoun): Refers to the whole group collectively, but 'all of the top four students' would mean the group as a whole, not individually. Also, 'all' is not typically used when emphasizing individual treatment within a small, specific group.</li><li><b>any</b> (determiner/pronoun): Means one or some of a group, but not specific or all. 'Any of the top four students' would mean one or more, but not necessarily all.</li><li><b>each</b> (determiner/pronoun): Refers to every one of two or more people or things, considered separately. 'Each of the top four students' emphasizes that every individual student will receive the award and scholarship.</li></ul><b>Related structure or vocabulary:</b> each of + plural noun: used to refer to every individual member of a group separately.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một từ chỉ từng thành viên riêng lẻ trong một nhóm cụ thể (bốn học sinh đứng đầu) và nhấn mạnh rằng mỗi người sẽ nhận được điểm A tự động và học bổng riêng biệt. Từ đúng phải phù hợp về ngữ pháp và ý nghĩa trong câu.<br><ul><li><b>every</b> (từ hạn định): Dùng để chỉ tất cả các thành viên riêng lẻ trong một nhóm, nhưng không phù hợp ở đây vì 'every' thường đi với danh từ số ít, không dùng với 'of the'.</li><li><b>all</b> (từ hạn định/đại từ): Chỉ toàn bộ nhóm một cách tổng thể, nhưng 'all of the top four students' sẽ mang nghĩa cả nhóm cùng nhận, không nhấn mạnh từng cá nhân. Ngoài ra, 'all' không thường dùng khi muốn nhấn mạnh sự đối xử riêng biệt với từng thành viên trong một nhóm nhỏ, cụ thể.</li><li><b>any</b> (từ hạn định/đại từ): Có nghĩa là một hoặc một số trong nhóm, nhưng không phải tất cả. 'Any of the top four students' sẽ mang nghĩa một hoặc một vài người, không phải tất cả.</li><li><b>each</b> (từ hạn định/đại từ): Chỉ từng người hoặc từng vật trong hai hoặc nhiều hơn, xét riêng lẻ. 'Each of the top four students' nhấn mạnh rằng từng học sinh trong bốn người đứng đầu đều sẽ nhận được phần thưởng và học bổng riêng.</li></ul><b>Cấu trúc và từ vựng:</b> each of + danh từ số nhiều: dùng để chỉ từng thành viên riêng lẻ trong một nhóm.<br><br><b>Tạm dịch:</b> Mỗi học sinh trong bốn học sinh đứng đầu sẽ nhận được điểm A tự động cũng như một suất học bổng riêng biệt.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a word that refers to individual members of a specific group (the top four students) and emphasizes that each one will receive an automatic A and a unique scholarship. The correct word should fit grammatically and logically in the sentence.<br><ul><li><b>every</b> (determiner): Used to refer to all the individual members of a group, but not suitable here because 'every' is usually followed by a singular noun, not 'of the'.</li><li><b>all</b> (determiner/pronoun): Refers to the whole group collectively, but 'all of the top four students' would mean the group as a whole, not individually. Also, 'all' is not typically used when emphasizing individual treatment within a small, specific group.</li><li><b>any</b> (determiner/pronoun): Means one or some of a group, but not specific or all. 'Any of the top four students' would mean one or more, but not necessarily all.</li><li><b>each</b> (determiner/pronoun): Refers to every one of two or more people or things, considered separately. 'Each of the top four students' emphasizes that every individual student will receive the award and scholarship.</li></ul><b>Related structure or vocabulary:</b> each of + plural noun: used to refer to every individual member of a group separately.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00135d",
+        "questionNumber": 17,
+        "questionText": "___ employees taking legal action over work-related diseases is increasing.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The number of",
+            "raw": "A. The number of",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "A number of",
+            "raw": "B. A number of",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Number of",
+            "raw": "C. Number of",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The number",
+            "raw": "D. The number",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank needs a noun phrase that acts as the subject of the sentence. The phrase '___ employees taking legal action over work-related diseases is increasing.' requires a singular subject because the verb 'is increasing' is singular. 'The number of' is a fixed phrase used to indicate the total count of something and is always followed by a plural noun, but the whole phrase is treated as singular. Therefore, 'The number of employees' is correct.<br><ul><li><b>The number of</b> (noun phrase): A fixed phrase meaning the total count of something. It is followed by a plural noun but is treated as a singular subject.</li><li><b>A number of</b> (noun phrase): Means 'several' or 'some.' It is followed by a plural noun and is treated as a plural subject.</li><li><b>Number of</b> (noun phrase): Incorrect because it lacks an article ('the' or 'a') and is not a standard phrase.</li><li><b>The number</b> (noun phrase): Incomplete; it should be 'the number of' to be grammatically correct.</li></ul><b>Related structure or vocabulary:</b> The number of + plural noun + singular verb: used to talk about the total count. A number of + plural noun + plural verb: used to mean 'several' or 'some.'<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm danh từ làm chủ ngữ của câu. Câu '___ employees taking legal action over work-related diseases is increasing.' yêu cầu một chủ ngữ số ít vì động từ 'is increasing' là số ít. 'The number of' là một cụm cố định dùng để chỉ tổng số lượng của một cái gì đó, luôn đi với danh từ số nhiều nhưng cả cụm được coi là chủ ngữ số ít. Vì vậy, 'The number of employees' là đáp án đúng.<br><ul><li><b>The number of</b> (cụm danh từ): Cụm cố định có nghĩa là tổng số lượng của một cái gì đó. Đi với danh từ số nhiều nhưng được coi là chủ ngữ số ít.</li><li><b>A number of</b> (cụm danh từ): Có nghĩa là 'một vài' hoặc 'một số.' Đi với danh từ số nhiều và được coi là chủ ngữ số nhiều.</li><li><b>Number of</b> (cụm danh từ): Sai vì thiếu mạo từ ('the' hoặc 'a') và không phải là cụm cố định.</li><li><b>The number</b> (cụm danh từ): Không đầy đủ; phải là 'the number of' mới đúng ngữ pháp.</li></ul><b>Cấu trúc và từ vựng:</b> The number of + danh từ số nhiều + động từ số ít: dùng để nói về tổng số lượng. A number of + danh từ số nhiều + động từ số nhiều: dùng để nói 'một vài' hoặc 'một số.'<br><br><b>Tạm dịch:</b> Số lượng nhân viên khởi kiện về các bệnh liên quan đến công việc đang gia tăng.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank needs a noun phrase that acts as the subject of the sentence. The phrase '___ employees taking legal action over work-related diseases is increasing.' requires a singular subject because the verb 'is increasing' is singular. 'The number of' is a fixed phrase used to indicate the total count of something and is always followed by a plural noun, but the whole phrase is treated as singular. Therefore, 'The number of employees' is correct.<br><ul><li><b>The number of</b> (noun phrase): A fixed phrase meaning the total count of something. It is followed by a plural noun but is treated as a singular subject.</li><li><b>A number of</b> (noun phrase): Means 'several' or 'some.' It is followed by a plural noun and is treated as a plural subject.</li><li><b>Number of</b> (noun phrase): Incorrect because it lacks an article ('the' or 'a') and is not a standard phrase.</li><li><b>The number</b> (noun phrase): Incomplete; it should be 'the number of' to be grammatically correct.</li></ul><b>Related structure or vocabulary:</b> The number of + plural noun + singular verb: used to talk about the total count. A number of + plural noun + plural verb: used to mean 'several' or 'some.'<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00135e",
+        "questionNumber": 18,
+        "questionText": "___ applicants have already been interviewed.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The number of",
+            "raw": "A. The number of",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "A number of",
+            "raw": "B. A number of",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "Number of",
+            "raw": "C. Number of",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The number",
+            "raw": "D. The number",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a phrase that correctly quantifies the noun 'applicants.' The phrase must agree in number and meaning with the verb 'have been interviewed.' 'A number of' is a quantifier meaning 'several' or 'many,' and it is always followed by a plural noun and a plural verb. Therefore, 'A number of applicants have already been interviewed.' is correct.<br><ul><li><b>The number of</b> (phrase): Means 'the total quantity of.' It is followed by a plural noun but takes a singular verb (e.g., 'The number of applicants is...').</li><li><b>A number of</b> (phrase): Means 'several' or 'many.' It is followed by a plural noun and takes a plural verb (e.g., 'A number of applicants have...').</li><li><b>Number of</b> (phrase): Incorrect because it lacks an article ('a' or 'the') and is not a standard quantifying phrase.</li><li><b>The number</b> (phrase): Incomplete phrase; needs 'of' to be correct.</li></ul><b>Related structure or vocabulary:</b> Quantifiers: 'A number of' + plural noun + plural verb; 'The number of' + plural noun + singular verb.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm từ định lượng phù hợp với danh từ 'applicants.' Cụm từ này phải hòa hợp về số với động từ 'have been interviewed.' 'A number of' có nghĩa là 'nhiều' hoặc 'một số,' luôn đi với danh từ số nhiều và động từ số nhiều. Vì vậy, đáp án đúng là 'A number of applicants have already been interviewed.'<br><ul><li><b>The number of</b> (cụm từ): Có nghĩa là 'số lượng tổng cộng.' Đi với danh từ số nhiều nhưng động từ lại chia số ít (ví dụ: 'The number of applicants is...').</li><li><b>A number of</b> (cụm từ): Có nghĩa là 'nhiều' hoặc 'một số.' Đi với danh từ số nhiều và động từ số nhiều (ví dụ: 'A number of applicants have...').</li><li><b>Number of</b> (cụm từ): Sai vì thiếu mạo từ ('a' hoặc 'the'), không phải là cụm từ định lượng chuẩn.</li><li><b>The number</b> (cụm từ): Cụm từ chưa hoàn chỉnh; cần có 'of' mới đúng.</li></ul><b>Cấu trúc và từ vựng:</b> Định lượng: 'A number of' + danh từ số nhiều + động từ số nhiều; 'The number of' + danh từ số nhiều + động từ số ít.<br><br><b>Tạm dịch:</b> ___ applicants have already been interviewed. --> Một số ứng viên đã được phỏng vấn.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a phrase that correctly quantifies the noun 'applicants.' The phrase must agree in number and meaning with the verb 'have been interviewed.' 'A number of' is a quantifier meaning 'several' or 'many,' and it is always followed by a plural noun and a plural verb. Therefore, 'A number of applicants have already been interviewed.' is correct.<br><ul><li><b>The number of</b> (phrase): Means 'the total quantity of.' It is followed by a plural noun but takes a singular verb (e.g., 'The number of applicants is...').</li><li><b>A number of</b> (phrase): Means 'several' or 'many.' It is followed by a plural noun and takes a plural verb (e.g., 'A number of applicants have...').</li><li><b>Number of</b> (phrase): Incorrect because it lacks an article ('a' or 'the') and is not a standard quantifying phrase.</li><li><b>The number</b> (phrase): Incomplete phrase; needs 'of' to be correct.</li></ul><b>Related structure or vocabulary:</b> Quantifiers: 'A number of' + plural noun + plural verb; 'The number of' + plural noun + singular verb.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b00135f",
+        "questionNumber": 19,
+        "questionText": "___ residents who have been questioned on this problem is quite small.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "The number of",
+            "raw": "A. The number of",
+            "isCorrect": true
+          },
+          {
+            "letter": "B",
+            "text": "A number of",
+            "raw": "B. A number of",
+            "isCorrect": false
+          },
+          {
+            "letter": "C",
+            "text": "Number of",
+            "raw": "C. Number of",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "The number",
+            "raw": "D. The number",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank requires a noun phrase that acts as the subject of the sentence. The phrase must refer to the total quantity of residents who have been questioned. The correct structure is 'The number of + plural noun' to indicate the total count. The verb 'is' after the blank also signals that the subject is singular, which matches 'The number of'.<br><ul><li><b>A. The number of</b> (noun phrase): This is the correct phrase to indicate the total quantity of something. It is followed by a plural noun and takes a singular verb.</li><li><b>B. A number of</b> (noun phrase): This phrase means 'several' or 'some' and is used with plural nouns and plural verbs. It does not fit here because the verb 'is' is singular.</li><li><b>C. Number of</b> (noun phrase (incorrect form)): This is not a correct phrase in English. It is missing an article ('the' or 'a') before 'number'.</li><li><b>D. The number</b> (noun phrase (incomplete)): This is incomplete because it is not followed by 'of' and a noun. It cannot be used alone in this context.</li></ul><b>Related structure or vocabulary:</b> The number of + plural noun + singular verb: Used to talk about the total quantity. Example: The number of students is increasing.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống cần một cụm danh từ làm chủ ngữ cho câu. Cụm này phải chỉ tổng số cư dân đã được hỏi về vấn đề này. Cấu trúc đúng là 'The number of + danh từ số nhiều' để chỉ tổng số lượng. Động từ 'is' sau chỗ trống cũng cho thấy chủ ngữ là số ít, phù hợp với 'The number of'.<br><ul><li><b>A. The number of</b> (cụm danh từ): Đây là cụm từ đúng để chỉ tổng số lượng của một cái gì đó. Nó đi với danh từ số nhiều và động từ số ít.</li><li><b>B. A number of</b> (cụm danh từ): Cụm này có nghĩa là 'một vài' hoặc 'một số', đi với danh từ số nhiều và động từ số nhiều. Không phù hợp vì động từ phía sau là 'is' (số ít).</li><li><b>C. Number of</b> (cụm danh từ (không đúng)): Đây không phải là cụm đúng trong tiếng Anh vì thiếu mạo từ ('the' hoặc 'a') trước 'number'.</li><li><b>D. The number</b> (cụm danh từ (không đầy đủ)): Cụm này chưa đầy đủ vì thiếu 'of' và danh từ phía sau. Không thể dùng riêng trong trường hợp này.</li></ul><b>Cấu trúc và từ vựng:</b> The number of + danh từ số nhiều + động từ số ít: Dùng để nói về tổng số lượng. Ví dụ: The number of students is increasing.<br><br><b>Tạm dịch:</b> Số lượng cư dân đã được hỏi về vấn đề này là khá nhỏ.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank requires a noun phrase that acts as the subject of the sentence. The phrase must refer to the total quantity of residents who have been questioned. The correct structure is 'The number of + plural noun' to indicate the total count. The verb 'is' after the blank also signals that the subject is singular, which matches 'The number of'.<br><ul><li><b>A. The number of</b> (noun phrase): This is the correct phrase to indicate the total quantity of something. It is followed by a plural noun and takes a singular verb.</li><li><b>B. A number of</b> (noun phrase): This phrase means 'several' or 'some' and is used with plural nouns and plural verbs. It does not fit here because the verb 'is' is singular.</li><li><b>C. Number of</b> (noun phrase (incorrect form)): This is not a correct phrase in English. It is missing an article ('the' or 'a') before 'number'.</li><li><b>D. The number</b> (noun phrase (incomplete)): This is incomplete because it is not followed by 'of' and a noun. It cannot be used alone in this context.</li></ul><b>Related structure or vocabulary:</b> The number of + plural noun + singular verb: Used to talk about the total quantity. Example: The number of students is increasing.<br><br>"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "6204bf34d1bfab7a5b001360",
+        "questionNumber": 20,
+        "questionText": "European is seeing___ migrants and refugees coming from SyriA.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the growing number of",
+            "raw": "A. the growing number of",
+            "isCorrect": false
+          },
+          {
+            "letter": "B",
+            "text": "a growing number of",
+            "raw": "B. a growing number of",
+            "isCorrect": true
+          },
+          {
+            "letter": "C",
+            "text": "growing number of",
+            "raw": "C. growing number of",
+            "isCorrect": false
+          },
+          {
+            "letter": "D",
+            "text": "a growing number",
+            "raw": "D. a growing number",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswer": "B",
+        "explanationHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'European is seeing___ migrants and refugees coming from Syria.' requires a noun phrase that fits grammatically and makes sense in context. The phrase should indicate an increasing quantity of migrants and refugees. The correct structure is 'a growing number of + plural noun,' which means 'an increasing quantity of.'<br><ul><li><b>the growing number of</b> (noun phrase): This phrase uses 'the,' which refers to a specific, previously mentioned number. However, in this context, we are talking about a general increase, not a specific number.</li><li><b>a growing number of</b> (noun phrase): This is the correct phrase. 'A growing number of' means 'an increasing quantity of' and is used with plural countable nouns.</li><li><b>growing number of</b> (noun phrase): This phrase is missing an article ('a' or 'the'), making it grammatically incorrect in this context.</li><li><b>a growing number</b> (noun phrase): This phrase is incomplete because it lacks 'of' and the noun it describes.</li></ul><b>Related structure or vocabulary:</b> Structure: a growing number of + plural countable noun (e.g., a growing number of students). This phrase is used to indicate that the quantity of something is increasing.<br><br>",
+        "explanationViHtml": "<b>Giải thích chi tiết:</b><br>Chỗ trống trong câu 'European is seeing___ migrants and refugees coming from Syria.' cần một cụm danh từ phù hợp về ngữ pháp và ý nghĩa. Cụm từ này phải diễn tả số lượng người di cư và tị nạn đang tăng lên. Cấu trúc đúng là 'a growing number of + danh từ đếm được số nhiều', nghĩa là 'một số lượng ngày càng tăng của...'.<br><ul><li><b>the growing number of</b> (cụm danh từ): 'The' dùng để chỉ một số lượng cụ thể đã được nhắc đến trước đó. Tuy nhiên, trong ngữ cảnh này, chúng ta đang nói về sự gia tăng chung, không phải một số lượng cụ thể.</li><li><b>a growing number of</b> (cụm danh từ): Đây là đáp án đúng. 'A growing number of' nghĩa là 'một số lượng ngày càng tăng của...' và dùng với danh từ đếm được số nhiều.</li><li><b>growing number of</b> (cụm danh từ): Thiếu mạo từ ('a' hoặc 'the'), nên không đúng ngữ pháp trong trường hợp này.</li><li><b>a growing number</b> (cụm danh từ): Cụm này thiếu 'of' và danh từ đi kèm phía sau nên chưa hoàn chỉnh.</li></ul><b>Cấu trúc và từ vựng:</b> Cấu trúc: a growing number of + danh từ đếm được số nhiều (ví dụ: a growing number of students). Cụm này dùng để chỉ số lượng của một cái gì đó đang tăng lên.<br><br><b>Tạm dịch:</b> Châu Âu đang chứng kiến một số lượng ngày càng tăng những người di cư và tị nạn đến từ Syria.",
+        "transcriptHtml": "<b>Detailed Explanation:</b><br>The blank in the sentence 'European is seeing___ migrants and refugees coming from Syria.' requires a noun phrase that fits grammatically and makes sense in context. The phrase should indicate an increasing quantity of migrants and refugees. The correct structure is 'a growing number of + plural noun,' which means 'an increasing quantity of.'<br><ul><li><b>the growing number of</b> (noun phrase): This phrase uses 'the,' which refers to a specific, previously mentioned number. However, in this context, we are talking about a general increase, not a specific number.</li><li><b>a growing number of</b> (noun phrase): This is the correct phrase. 'A growing number of' means 'an increasing quantity of' and is used with plural countable nouns.</li><li><b>growing number of</b> (noun phrase): This phrase is missing an article ('a' or 'the'), making it grammatically incorrect in this context.</li><li><b>a growing number</b> (noun phrase): This phrase is incomplete because it lacks 'of' and the noun it describes.</li></ul><b>Related structure or vocabulary:</b> Structure: a growing number of + plural countable noun (e.g., a growing number of students). This phrase is used to indicate that the quantity of something is increasing.<br><br>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b151",
+  "title": "Từ vựng: Trains",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b330",
+        "questionNumber": 1,
+        "questionText": "comprehensive",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev445.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/comprehensive.mp3",
+        "choices": [
+          {
+            "letter": "C",
+            "text": "overing broadly; Inclusive",
+            "raw": "covering broadly; Inclusive",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "C",
+        "explanationHtml": "<p>The conductor has a <strong>comprehensive</strong> knowledge of rail systems from all over the world.</p>\n",
+        "explanationViHtml": "<p>Người hướng dẫn c&oacute; kiến thức <strong>s&acirc;u rộng</strong> về c&aacute;c hệ thống đường sắt tr&ecirc;n to&agrave;n thế giới.</p>\n",
+        "transcriptHtml": "<p>The conductor has a <strong>comprehensive</strong> knowledge of rail systems from all over the world.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b331",
+        "questionNumber": 2,
+        "questionText": "deluxe",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev446.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/deluxe.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "noticeably, luxurious",
+            "raw": "noticeably, luxurious",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>My parents decided to splurge on <strong>deluxe</strong> accommodations for their trip.</p>\n",
+        "explanationViHtml": "<p>Bố mẹ t&ocirc;i quyết định chi mạnh tay cho chỗ ở <strong>sang trọng</strong> cho chuyến đi của họ.</p>\n",
+        "transcriptHtml": "<p>My parents decided to splurge on <strong>deluxe</strong> accommodations for their trip.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b332",
+        "questionNumber": 3,
+        "questionText": "directory",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev447.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/directory.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "book or collection of information or directions",
+            "raw": "a book or collection of information or directions",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>We consulted the <strong>directory</strong> to see where the train station was located.</p>\n",
+        "explanationViHtml": "<p>Ch&uacute;ng t&ocirc;i tra cứu <strong>hướng dẫn</strong> để biết nh&agrave; ga xe lửa nằm ở đ&acirc;u.</p>\n",
+        "transcriptHtml": "<p>We consulted the <strong>directory</strong> to see where the train station was located.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b333",
+        "questionNumber": 4,
+        "questionText": "duration",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev448.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/duration.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the time during which something lasts",
+            "raw": "the time during which something lasts",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Mother lent me her spare jacket for the <strong>duration</strong> of the trip.</p>\n",
+        "explanationViHtml": "<p>Mẹ đ&atilde; cho t&ocirc;i mượn chiếc &aacute;o kho&aacute;c dự ph&ograve;ng của mẹ<strong> trong suốt</strong> chuyến đi.</p>\n",
+        "transcriptHtml": "<p>Mother lent me her spare jacket for the <strong>duration</strong> of the trip.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b334",
+        "questionNumber": 5,
+        "questionText": "entitle",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev449.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/entitle.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to allow or quality",
+            "raw": "to allow or quality",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>During the holiday rush, a train ticket<strong> entitled</strong> the passenger to a ride, but not necessarily a seat.</p>\n",
+        "explanationViHtml": "<p>Trong m&ugrave;a cao điểm nghỉ lễ, một v&eacute; t&agrave;u <strong>cho ph&eacute;p</strong> h&agrave;nh kh&aacute;ch l&ecirc;n t&agrave;u, nhưng kh&ocirc;ng nhất thiết c&oacute; chỗ ngồi.</p>\n",
+        "transcriptHtml": "<p>During the holiday rush, a train ticket<strong> entitled</strong> the passenger to a ride, but not necessarily a seat.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b335",
+        "questionNumber": 6,
+        "questionText": "fare",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev450.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fare.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the money paid for transportation",
+            "raw": "the money paid for transportation",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The train<strong> fare</strong> has increased since I rode last.</p>\n",
+        "explanationViHtml": "<p><strong>Gi&aacute; v&eacute; </strong>t&agrave;u đ&atilde; tăng kể từ lần cuối t&ocirc;i đi.</p>\n",
+        "transcriptHtml": "<p>The train<strong> fare</strong> has increased since I rode last.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b336",
+        "questionNumber": 7,
+        "questionText": "offset",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev451.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/offset.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to counterbalance",
+            "raw": "to counterbalance",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The cost of the hotel room <strong>offset </strong>the time savings we gained by taking the train instead of the plane.</p>\n",
+        "explanationViHtml": "<p>Chi ph&iacute; của ph&ograve;ng kh&aacute;ch sạn đ&atilde; <strong>b&ugrave; đắp</strong> cho thời gian tiết kiệm m&agrave; ch&uacute;ng t&ocirc;i c&oacute; được khi đi t&agrave;u thay v&igrave; đi m&aacute;y bay.</p>\n",
+        "transcriptHtml": "<p>The cost of the hotel room <strong>offset </strong>the time savings we gained by taking the train instead of the plane.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b337",
+        "questionNumber": 8,
+        "questionText": "operate",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev452.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/operate.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to perform a function",
+            "raw": "to perform a function",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The train <strong>operates</strong> on a punctual schedule.</p>\n",
+        "explanationViHtml": "<p>T&agrave;u <strong>chạy</strong> đ&uacute;ng giờ theo lịch tr&igrave;nh.</p>\n",
+        "transcriptHtml": "<p>The train <strong>operates</strong> on a punctual schedule.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b338",
+        "questionNumber": 9,
+        "questionText": "punctually",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev453.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/punctually.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "promptly; on time",
+            "raw": "promptly; on time",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The&nbsp;meeting&nbsp;started&nbsp;<strong>punctually</strong> at ten.</p>\n",
+        "explanationViHtml": "<p>Cuộc họp bắt đầu <strong>đ&uacute;ng giờ</strong> v&agrave;o l&uacute;c mười giờ.</p>\n",
+        "transcriptHtml": "<p>The&nbsp;meeting&nbsp;started&nbsp;<strong>punctually</strong> at ten.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b339",
+        "questionNumber": 10,
+        "questionText": "relatively",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev454.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/relatively.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "somewhat",
+            "raw": "somewhat",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The train is <strong>relatively</strong> empty for this time of day.</p>\n",
+        "explanationViHtml": "<p>T&agrave;u<strong> tương đối</strong> vắng v&agrave;o thời điểm n&agrave;y trong ng&agrave;y.</p>\n",
+        "transcriptHtml": "<p>The train is <strong>relatively</strong> empty for this time of day.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b33a",
+        "questionNumber": 11,
+        "questionText": "remainder",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev455.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/remainder.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "the remaining part",
+            "raw": "the remaining part",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The Alaskan frontier has train service in the summer, but for the <strong>remainder </strong>of the year the tracks are impassable.</p>\n",
+        "explanationViHtml": "<p>Khu vực bi&ecirc;n giới Alaska c&oacute; dịch vụ t&agrave;u hỏa v&agrave;o m&ugrave;a h&egrave;, v&agrave;o<strong>&nbsp;thời gian c&ograve;n lại</strong>&nbsp;của năm, c&aacute;c tuyến đường ray kh&ocirc;ng thể đi lại được.</p>\n",
+        "transcriptHtml": "<p>The Alaskan frontier has train service in the summer, but for the <strong>remainder </strong>of the year the tracks are impassable.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b33b",
+        "questionNumber": 12,
+        "questionText": "remote",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev456.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/remote.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "far removed",
+            "raw": "far removed",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I was surprised to find train service to such a <strong>remote</strong> location.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i rất ngạc nhi&ecirc;n khi t&igrave;m thấy dịch vụ t&agrave;u hỏa đến một nơi <strong>xa x&ocirc;i </strong>như vậy.</p>\n",
+        "transcriptHtml": "<p>I was surprised to find train service to such a <strong>remote</strong> location.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b330",
+      "word": "comprehensive",
+      "phonetic": "/ˌkɑːmprɪˈhensɪv/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev445.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/comprehensive.mp3",
+      "meaningVi": "sâu rộng",
+      "meaningEn": "covering broadly; Inclusive",
+      "exampleEnHtml": "<p>The conductor has a <strong>comprehensive</strong> knowledge of rail systems from all over the world.</p>\n",
+      "exampleViHtml": "<p>Người hướng dẫn c&oacute; kiến thức <strong>s&acirc;u rộng</strong> về c&aacute;c hệ thống đường sắt tr&ecirc;n to&agrave;n thế giới.</p>\n",
+      "exampleEn": "The conductor has a comprehensive knowledge of rail systems from all over the world.",
+      "exampleVi": "Người hướng dẫn có kiến thức sâu rộng về các hệ thống đường sắt trên toàn thế giới."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b331",
+      "word": "deluxe",
+      "phonetic": "/ˌdəˈlʌks/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev446.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/deluxe.mp3",
+      "meaningVi": "sang trọng",
+      "meaningEn": "noticeably, luxurious",
+      "exampleEnHtml": "<p>My parents decided to splurge on <strong>deluxe</strong> accommodations for their trip.</p>\n",
+      "exampleViHtml": "<p>Bố mẹ t&ocirc;i quyết định chi mạnh tay cho chỗ ở <strong>sang trọng</strong> cho chuyến đi của họ.</p>\n",
+      "exampleEn": "My parents decided to splurge on deluxe accommodations for their trip.",
+      "exampleVi": "Bố mẹ tôi quyết định chi mạnh tay cho chỗ ở sang trọng cho chuyến đi của họ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b332",
+      "word": "directory",
+      "phonetic": "/dəˈrektəri/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev447.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/directory.mp3",
+      "meaningVi": "hướng dẫn",
+      "meaningEn": "a book or collection of information or directions",
+      "exampleEnHtml": "<p>We consulted the <strong>directory</strong> to see where the train station was located.</p>\n",
+      "exampleViHtml": "<p>Ch&uacute;ng t&ocirc;i tra cứu <strong>hướng dẫn</strong> để biết nh&agrave; ga xe lửa nằm ở đ&acirc;u.</p>\n",
+      "exampleEn": "We consulted the directory to see where the train station was located.",
+      "exampleVi": "Chúng tôi tra cứu hướng dẫn để biết nhà ga xe lửa nằm ở đâu."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b333",
+      "word": "duration",
+      "phonetic": "/duˈreɪʃn/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev448.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/duration.mp3",
+      "meaningVi": "trong suốt",
+      "meaningEn": "the time during which something lasts",
+      "exampleEnHtml": "<p>Mother lent me her spare jacket for the <strong>duration</strong> of the trip.</p>\n",
+      "exampleViHtml": "<p>Mẹ đ&atilde; cho t&ocirc;i mượn chiếc &aacute;o kho&aacute;c dự ph&ograve;ng của mẹ<strong> trong suốt</strong> chuyến đi.</p>\n",
+      "exampleEn": "Mother lent me her spare jacket for the duration of the trip.",
+      "exampleVi": "Mẹ đã cho tôi mượn chiếc áo khoác dự phòng của mẹ trong suốt chuyến đi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b334",
+      "word": "entitle",
+      "phonetic": "/ɪnˈtaɪtl/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev449.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/entitle.mp3",
+      "meaningVi": "cho phép",
+      "meaningEn": "to allow or quality",
+      "exampleEnHtml": "<p>During the holiday rush, a train ticket<strong> entitled</strong> the passenger to a ride, but not necessarily a seat.</p>\n",
+      "exampleViHtml": "<p>Trong m&ugrave;a cao điểm nghỉ lễ, một v&eacute; t&agrave;u <strong>cho ph&eacute;p</strong> h&agrave;nh kh&aacute;ch l&ecirc;n t&agrave;u, nhưng kh&ocirc;ng nhất thiết c&oacute; chỗ ngồi.</p>\n",
+      "exampleEn": "During the holiday rush, a train ticket entitled the passenger to a ride, but not necessarily a seat.",
+      "exampleVi": "Trong mùa cao điểm nghỉ lễ, một vé tàu cho phép hành khách lên tàu, nhưng không nhất thiết có chỗ ngồi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b335",
+      "word": "fare",
+      "phonetic": "/fer/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev450.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/fare.mp3",
+      "meaningVi": "Giá vé",
+      "meaningEn": "the money paid for transportation",
+      "exampleEnHtml": "<p>The train<strong> fare</strong> has increased since I rode last.</p>\n",
+      "exampleViHtml": "<p><strong>Gi&aacute; v&eacute; </strong>t&agrave;u đ&atilde; tăng kể từ lần cuối t&ocirc;i đi.</p>\n",
+      "exampleEn": "The train fare has increased since I rode last.",
+      "exampleVi": "Giá vé tàu đã tăng kể từ lần cuối tôi đi."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b336",
+      "word": "offset",
+      "phonetic": "/ˈɔːfset/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev451.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/offset.mp3",
+      "meaningVi": "bù đắp",
+      "meaningEn": "to counterbalance",
+      "exampleEnHtml": "<p>The cost of the hotel room <strong>offset </strong>the time savings we gained by taking the train instead of the plane.</p>\n",
+      "exampleViHtml": "<p>Chi ph&iacute; của ph&ograve;ng kh&aacute;ch sạn đ&atilde; <strong>b&ugrave; đắp</strong> cho thời gian tiết kiệm m&agrave; ch&uacute;ng t&ocirc;i c&oacute; được khi đi t&agrave;u thay v&igrave; đi m&aacute;y bay.</p>\n",
+      "exampleEn": "The cost of the hotel room offset the time savings we gained by taking the train instead of the plane.",
+      "exampleVi": "Chi phí của phòng khách sạn đã bù đắp cho thời gian tiết kiệm mà chúng tôi có được khi đi tàu thay vì đi máy bay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b337",
+      "word": "operate",
+      "phonetic": "/ˈɑːpəreɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev452.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/operate.mp3",
+      "meaningVi": "chạy",
+      "meaningEn": "to perform a function",
+      "exampleEnHtml": "<p>The train <strong>operates</strong> on a punctual schedule.</p>\n",
+      "exampleViHtml": "<p>T&agrave;u <strong>chạy</strong> đ&uacute;ng giờ theo lịch tr&igrave;nh.</p>\n",
+      "exampleEn": "The train operates on a punctual schedule.",
+      "exampleVi": "Tàu chạy đúng giờ theo lịch trình."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b338",
+      "word": "punctually",
+      "phonetic": "/ˈpʌŋktʃuəli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev453.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/punctually.mp3",
+      "meaningVi": "đúng giờ",
+      "meaningEn": "promptly; on time",
+      "exampleEnHtml": "<p>The&nbsp;meeting&nbsp;started&nbsp;<strong>punctually</strong> at ten.</p>\n",
+      "exampleViHtml": "<p>Cuộc họp bắt đầu <strong>đ&uacute;ng giờ</strong> v&agrave;o l&uacute;c mười giờ.</p>\n",
+      "exampleEn": "The meeting started punctually at ten.",
+      "exampleVi": "Cuộc họp bắt đầu đúng giờ vào lúc mười giờ."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b339",
+      "word": "relatively",
+      "phonetic": "/ˈrelətɪvli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev454.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/relatively.mp3",
+      "meaningVi": "tương đối",
+      "meaningEn": "somewhat",
+      "exampleEnHtml": "<p>The train is <strong>relatively</strong> empty for this time of day.</p>\n",
+      "exampleViHtml": "<p>T&agrave;u<strong> tương đối</strong> vắng v&agrave;o thời điểm n&agrave;y trong ng&agrave;y.</p>\n",
+      "exampleEn": "The train is relatively empty for this time of day.",
+      "exampleVi": "Tàu tương đối vắng vào thời điểm này trong ngày."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b33a",
+      "word": "remainder",
+      "phonetic": "/rɪˈmeɪndər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev455.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/remainder.mp3",
+      "meaningVi": "thời gian còn lại",
+      "meaningEn": "the remaining part",
+      "exampleEnHtml": "<p>The Alaskan frontier has train service in the summer, but for the <strong>remainder </strong>of the year the tracks are impassable.</p>\n",
+      "exampleViHtml": "<p>Khu vực bi&ecirc;n giới Alaska c&oacute; dịch vụ t&agrave;u hỏa v&agrave;o m&ugrave;a h&egrave;, v&agrave;o<strong>&nbsp;thời gian c&ograve;n lại</strong>&nbsp;của năm, c&aacute;c tuyến đường ray kh&ocirc;ng thể đi lại được.</p>\n",
+      "exampleEn": "The Alaskan frontier has train service in the summer, but for the remainder of the year the tracks are impassable.",
+      "exampleVi": "Khu vực biên giới Alaska có dịch vụ tàu hỏa vào mùa hè, vào thời gian còn lại của năm, các tuyến đường ray không thể đi lại được."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b33b",
+      "word": "remote",
+      "phonetic": "/rɪˈmoʊt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev456.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/remote.mp3",
+      "meaningVi": "xa xôi",
+      "meaningEn": "far removed",
+      "exampleEnHtml": "<p>I was surprised to find train service to such a <strong>remote</strong> location.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i rất ngạc nhi&ecirc;n khi t&igrave;m thấy dịch vụ t&agrave;u hỏa đến một nơi <strong>xa x&ocirc;i </strong>như vậy.</p>\n",
+      "exampleEn": "I was surprised to find train service to such a remote location.",
+      "exampleVi": "Tôi rất ngạc nhiên khi tìm thấy dịch vụ tàu hỏa đến một nơi xa xôi như vậy."
+    }
+  ],
+  "totalFlashcards": 12
+}

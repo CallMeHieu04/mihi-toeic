@@ -1,0 +1,431 @@
+{
+  "topicId": "61c14bec92d7f67f5140b14c",
+  "title": "Từ vựng: Eating Out",
+  "totalCards": 12,
+  "totalQuestions": 12,
+  "data": [
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b300",
+        "questionNumber": 1,
+        "questionText": "basic",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev373.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/basic.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "sewing as a starting point or basis",
+            "raw": "sewing as a starting point or basis",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The new restaurant offers a very <strong>basic </strong>menu.</p>\n",
+        "explanationViHtml": "<p>Nh&agrave; h&agrave;ng mới c&oacute; thực đơn kh&aacute; <strong>cơ bản</strong>.</p>\n",
+        "transcriptHtml": "<p>The new restaurant offers a very <strong>basic </strong>menu.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b301",
+        "questionNumber": 2,
+        "questionText": "complete",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev374.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/complete.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "having all necessary or normal parts, components, or steps",
+            "raw": "having all necessary or normal parts, components, or steps",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The new restaurant offers a <strong>complete </strong>menu of appetizers, entrees. And desserts.</p>\n",
+        "explanationViHtml": "<p>Nh&agrave; h&agrave;ng mới c&oacute; thực đơn <strong>đầy đủ</strong> từ m&oacute;n khai vị, m&oacute;n ch&iacute;nh cho đến tr&aacute;ng miệng.</p>\n",
+        "transcriptHtml": "<p>The new restaurant offers a <strong>complete </strong>menu of appetizers, entrees. And desserts.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b302",
+        "questionNumber": 3,
+        "questionText": "excite",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev375.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/excite.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to arouse an emotion",
+            "raw": "to arouse an emotion",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Exotic flavors always <strong>excite </strong>me.</p>\n",
+        "explanationViHtml": "<p>Những hương vị lạ lu&ocirc;n l&agrave;m t&ocirc;i <strong>h&agrave;o hứng</strong>.</p>\n",
+        "transcriptHtml": "<p>Exotic flavors always <strong>excite </strong>me.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b303",
+        "questionNumber": 4,
+        "questionText": "flavor",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev376.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/flavor.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "distinctive taste",
+            "raw": "a distinctive taste",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Fusion cooking is distinguished by an interesting mix of <strong>flavors</strong>.</p>\n",
+        "explanationViHtml": "<p>Nấu ăn kiểu h&ograve;a trộn nổi bật bởi sự kết hợp th&uacute; vị giữa c&aacute;c <strong>hương vị</strong>.</p>\n",
+        "transcriptHtml": "<p>Fusion cooking is distinguished by an interesting mix of <strong>flavors</strong>.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b304",
+        "questionNumber": 5,
+        "questionText": "forget",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev377.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/forget.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to be unable to remember",
+            "raw": "to be unable to remember",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The waiter <strong>forgot</strong> to bring the mils, annoying the customer.</p>\n",
+        "explanationViHtml": "<p>Người phục vụ <strong>qu&ecirc;n </strong>mang m&oacute;n ch&iacute;nh, l&agrave;m kh&aacute;ch h&agrave;ng kh&oacute; chịu.</p>\n",
+        "transcriptHtml": "<p>The waiter <strong>forgot</strong> to bring the mils, annoying the customer.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b305",
+        "questionNumber": 6,
+        "questionText": "ingredient",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev378.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ingredient.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "n element in a mixture",
+            "raw": "an element in a mixture",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The chef went to the farmer&rsquo;s market to select the freshest <strong>ingredients </strong>for tonight&rsquo;s menu.</p>\n",
+        "explanationViHtml": "<p>Đầu bếp đ&atilde; đi chợ n&ocirc;ng sản để chọn <strong>nguy&ecirc;n liệu</strong> tươi nhất cho thực đơn tối nay.</p>\n",
+        "transcriptHtml": "<p>The chef went to the farmer&rsquo;s market to select the freshest <strong>ingredients </strong>for tonight&rsquo;s menu.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b306",
+        "questionNumber": 7,
+        "questionText": "judge",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev379.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/judge.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to form an opinion",
+            "raw": "to form an opinion",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Hector was not familiar with Asian cooking, so he was unable to <strong>judge </strong>if the the restaurant review harshly judged the quality of the service.</p>\n",
+        "explanationViHtml": "<p>Hector kh&ocirc;ng quen với ẩm thực ch&acirc;u &Aacute;, n&ecirc;n anh kh&ocirc;ng thể<strong> đ&aacute;nh gi&aacute;</strong> liệu b&agrave;i ph&ecirc; b&igrave;nh c&oacute; ch&ecirc; nh&agrave; h&agrave;ng qu&aacute; khắt khe hay kh&ocirc;ng.</p>\n",
+        "transcriptHtml": "<p>Hector was not familiar with Asian cooking, so he was unable to <strong>judge </strong>if the the restaurant review harshly judged the quality of the service.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b307",
+        "questionNumber": 8,
+        "questionText": "mix-up",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev380.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mix-up.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "confusion; (mix up) to confuse",
+            "raw": "a confusion; (mix up) to confuse",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>There was a <strong>mix-up</strong> in the kitchen so your order will be delayed.</p>\n",
+        "explanationViHtml": "<p>C&oacute; một ch&uacute;t <strong>nhầm lẫn </strong>trong bếp n&ecirc;n m&oacute;n của bạn sẽ bị chậm lại.</p>\n",
+        "transcriptHtml": "<p>There was a <strong>mix-up</strong> in the kitchen so your order will be delayed.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b308",
+        "questionNumber": 9,
+        "questionText": "patron",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev381.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/patron.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "customer, especially a regular customer",
+            "raw": "a customer, especially a regular customer",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Once the word was out about the new chef, <strong>patrons </strong>lined up to get in to the restaurant.</p>\n",
+        "explanationViHtml": "<p>Khi tin tức về đầu bếp mới lan ra,<strong> thực kh&aacute;ch</strong> xếp h&agrave;ng d&agrave;i để v&agrave;o nh&agrave; h&agrave;ng.</p>\n",
+        "transcriptHtml": "<p>Once the word was out about the new chef, <strong>patrons </strong>lined up to get in to the restaurant.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b309",
+        "questionNumber": 10,
+        "questionText": "predict",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev382.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/predict.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to state, tell about, or make known in advance",
+            "raw": "to state, tell about, or make known in advance",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>I <strong>predicted </strong>this restaurant would become popular and l was right.</p>\n",
+        "explanationViHtml": "<p>T&ocirc;i đ&atilde; <strong>đo&aacute;n</strong> trước nh&agrave; h&agrave;ng n&agrave;y sẽ trở n&ecirc;n nổi tiếng, v&agrave; t&ocirc;i đ&atilde; đ&uacute;ng.</p>\n",
+        "transcriptHtml": "<p>I <strong>predicted </strong>this restaurant would become popular and l was right.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b30a",
+        "questionNumber": 11,
+        "questionText": "randomly",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev383.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/randomly.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "without any specific pattern",
+            "raw": "without any specific pattern",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>The winning numbers are <strong>randomly</strong> selected by computer.</p>\n",
+        "explanationViHtml": "<p>C&aacute;c con số tr&uacute;ng thưởng được chọn <strong>ngẫu nhi&ecirc;n</strong> bởi m&aacute;y t&iacute;nh.</p>\n",
+        "transcriptHtml": "<p>The winning numbers are <strong>randomly</strong> selected by computer.</p>\n"
+      }
+    },
+    {
+      "type": "single",
+      "question": {
+        "id": "61c14bef92d7f67f5140b30b",
+        "questionNumber": 12,
+        "questionText": "remind",
+        "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev384.jpg",
+        "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/remind.mp3",
+        "choices": [
+          {
+            "letter": "A",
+            "text": "to cause to remember",
+            "raw": "to cause to remember",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswer": "A",
+        "explanationHtml": "<p>Ms. Smith was annoyed at having to <strong>remind </strong>the waitress to bring the check.</p>\n",
+        "explanationViHtml": "<p>B&agrave; Smith kh&oacute; chịu v&igrave; phải <strong>nhắc</strong> người phục vụ mang h&oacute;a đơn.</p>\n",
+        "transcriptHtml": "<p>Ms. Smith was annoyed at having to <strong>remind </strong>the waitress to bring the check.</p>\n"
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "61c14bef92d7f67f5140b300",
+      "word": "basic",
+      "phonetic": "/ˈbeɪsɪk/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev373.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/basic.mp3",
+      "meaningVi": "cơ bản",
+      "meaningEn": "sewing as a starting point or basis",
+      "exampleEnHtml": "<p>The new restaurant offers a very <strong>basic </strong>menu.</p>\n",
+      "exampleViHtml": "<p>Nh&agrave; h&agrave;ng mới c&oacute; thực đơn kh&aacute; <strong>cơ bản</strong>.</p>\n",
+      "exampleEn": "The new restaurant offers a very basic menu.",
+      "exampleVi": "Nhà hàng mới có thực đơn khá cơ bản."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b301",
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev374.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/complete.mp3",
+      "meaningVi": "đầy đủ",
+      "meaningEn": "having all necessary or normal parts, components, or steps",
+      "exampleEnHtml": "<p>The new restaurant offers a <strong>complete </strong>menu of appetizers, entrees. And desserts.</p>\n",
+      "exampleViHtml": "<p>Nh&agrave; h&agrave;ng mới c&oacute; thực đơn <strong>đầy đủ</strong> từ m&oacute;n khai vị, m&oacute;n ch&iacute;nh cho đến tr&aacute;ng miệng.</p>\n",
+      "exampleEn": "The new restaurant offers a complete menu of appetizers, entrees. And desserts.",
+      "exampleVi": "Nhà hàng mới có thực đơn đầy đủ từ món khai vị, món chính cho đến tráng miệng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b302",
+      "word": "excite",
+      "phonetic": "/ɪkˈsaɪt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev375.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/excite.mp3",
+      "meaningVi": "hào hứng",
+      "meaningEn": "to arouse an emotion",
+      "exampleEnHtml": "<p>Exotic flavors always <strong>excite </strong>me.</p>\n",
+      "exampleViHtml": "<p>Những hương vị lạ lu&ocirc;n l&agrave;m t&ocirc;i <strong>h&agrave;o hứng</strong>.</p>\n",
+      "exampleEn": "Exotic flavors always excite me.",
+      "exampleVi": "Những hương vị lạ luôn làm tôi hào hứng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b303",
+      "word": "flavor",
+      "phonetic": "/ˈfleɪ vər/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev376.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/flavor.mp3",
+      "meaningVi": "hương vị",
+      "meaningEn": "a distinctive taste",
+      "exampleEnHtml": "<p>Fusion cooking is distinguished by an interesting mix of <strong>flavors</strong>.</p>\n",
+      "exampleViHtml": "<p>Nấu ăn kiểu h&ograve;a trộn nổi bật bởi sự kết hợp th&uacute; vị giữa c&aacute;c <strong>hương vị</strong>.</p>\n",
+      "exampleEn": "Fusion cooking is distinguished by an interesting mix of flavors.",
+      "exampleVi": "Nấu ăn kiểu hòa trộn nổi bật bởi sự kết hợp thú vị giữa các hương vị."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b304",
+      "word": "forget",
+      "phonetic": "/fərˈɡet/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev377.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/forget.mp3",
+      "meaningVi": "quên",
+      "meaningEn": "to be unable to remember",
+      "exampleEnHtml": "<p>The waiter <strong>forgot</strong> to bring the mils, annoying the customer.</p>\n",
+      "exampleViHtml": "<p>Người phục vụ <strong>qu&ecirc;n </strong>mang m&oacute;n ch&iacute;nh, l&agrave;m kh&aacute;ch h&agrave;ng kh&oacute; chịu.</p>\n",
+      "exampleEn": "The waiter forgot to bring the mils, annoying the customer.",
+      "exampleVi": "Người phục vụ quên mang món chính, làm khách hàng khó chịu."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b305",
+      "word": "ingredient",
+      "phonetic": "/ɪnˈɡriːdiənt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev378.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/ingredient.mp3",
+      "meaningVi": "nguyên liệu",
+      "meaningEn": "an element in a mixture",
+      "exampleEnHtml": "<p>The chef went to the farmer&rsquo;s market to select the freshest <strong>ingredients </strong>for tonight&rsquo;s menu.</p>\n",
+      "exampleViHtml": "<p>Đầu bếp đ&atilde; đi chợ n&ocirc;ng sản để chọn <strong>nguy&ecirc;n liệu</strong> tươi nhất cho thực đơn tối nay.</p>\n",
+      "exampleEn": "The chef went to the farmer’s market to select the freshest ingredients for tonight’s menu.",
+      "exampleVi": "Đầu bếp đã đi chợ nông sản để chọn nguyên liệu tươi nhất cho thực đơn tối nay."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b306",
+      "word": "judge",
+      "phonetic": "/dʒʌdʒ/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev379.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/judge.mp3",
+      "meaningVi": "đánh giá",
+      "meaningEn": "to form an opinion",
+      "exampleEnHtml": "<p>Hector was not familiar with Asian cooking, so he was unable to <strong>judge </strong>if the the restaurant review harshly judged the quality of the service.</p>\n",
+      "exampleViHtml": "<p>Hector kh&ocirc;ng quen với ẩm thực ch&acirc;u &Aacute;, n&ecirc;n anh kh&ocirc;ng thể<strong> đ&aacute;nh gi&aacute;</strong> liệu b&agrave;i ph&ecirc; b&igrave;nh c&oacute; ch&ecirc; nh&agrave; h&agrave;ng qu&aacute; khắt khe hay kh&ocirc;ng.</p>\n",
+      "exampleEn": "Hector was not familiar with Asian cooking, so he was unable to judge if the the restaurant review harshly judged the quality of the service.",
+      "exampleVi": "Hector không quen với ẩm thực châu Á, nên anh không thể đánh giá liệu bài phê bình có chê nhà hàng quá khắt khe hay không."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b307",
+      "word": "mix-up",
+      "phonetic": "/ˈmɪks.ʌp/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev380.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/mix-up.mp3",
+      "meaningVi": "nhầm lẫn",
+      "meaningEn": "a confusion; (mix up) to confuse",
+      "exampleEnHtml": "<p>There was a <strong>mix-up</strong> in the kitchen so your order will be delayed.</p>\n",
+      "exampleViHtml": "<p>C&oacute; một ch&uacute;t <strong>nhầm lẫn </strong>trong bếp n&ecirc;n m&oacute;n của bạn sẽ bị chậm lại.</p>\n",
+      "exampleEn": "There was a mix-up in the kitchen so your order will be delayed.",
+      "exampleVi": "Có một chút nhầm lẫn trong bếp nên món của bạn sẽ bị chậm lại."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b308",
+      "word": "patron",
+      "phonetic": "/ˈpeɪtrən/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev381.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/patron.mp3",
+      "meaningVi": "thực khách",
+      "meaningEn": "a customer, especially a regular customer",
+      "exampleEnHtml": "<p>Once the word was out about the new chef, <strong>patrons </strong>lined up to get in to the restaurant.</p>\n",
+      "exampleViHtml": "<p>Khi tin tức về đầu bếp mới lan ra,<strong> thực kh&aacute;ch</strong> xếp h&agrave;ng d&agrave;i để v&agrave;o nh&agrave; h&agrave;ng.</p>\n",
+      "exampleEn": "Once the word was out about the new chef, patrons lined up to get in to the restaurant.",
+      "exampleVi": "Khi tin tức về đầu bếp mới lan ra, thực khách xếp hàng dài để vào nhà hàng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b309",
+      "word": "predict",
+      "phonetic": "/prɪˈdɪkt/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev382.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/predict.mp3",
+      "meaningVi": "đoán",
+      "meaningEn": "to state, tell about, or make known in advance",
+      "exampleEnHtml": "<p>I <strong>predicted </strong>this restaurant would become popular and l was right.</p>\n",
+      "exampleViHtml": "<p>T&ocirc;i đ&atilde; <strong>đo&aacute;n</strong> trước nh&agrave; h&agrave;ng n&agrave;y sẽ trở n&ecirc;n nổi tiếng, v&agrave; t&ocirc;i đ&atilde; đ&uacute;ng.</p>\n",
+      "exampleEn": "I predicted this restaurant would become popular and l was right.",
+      "exampleVi": "Tôi đã đoán trước nhà hàng này sẽ trở nên nổi tiếng, và tôi đã đúng."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b30a",
+      "word": "randomly",
+      "phonetic": "/ˈrændəmli/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev383.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/randomly.mp3",
+      "meaningVi": "ngẫu nhiên",
+      "meaningEn": "without any specific pattern",
+      "exampleEnHtml": "<p>The winning numbers are <strong>randomly</strong> selected by computer.</p>\n",
+      "exampleViHtml": "<p>C&aacute;c con số tr&uacute;ng thưởng được chọn <strong>ngẫu nhi&ecirc;n</strong> bởi m&aacute;y t&iacute;nh.</p>\n",
+      "exampleEn": "The winning numbers are randomly selected by computer.",
+      "exampleVi": "Các con số trúng thưởng được chọn ngẫu nhiên bởi máy tính."
+    },
+    {
+      "id": "61c14bef92d7f67f5140b30b",
+      "word": "remind",
+      "phonetic": "/rɪˈmaɪnd/",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev384.jpg",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/remind.mp3",
+      "meaningVi": "nhắc",
+      "meaningEn": "to cause to remember",
+      "exampleEnHtml": "<p>Ms. Smith was annoyed at having to <strong>remind </strong>the waitress to bring the check.</p>\n",
+      "exampleViHtml": "<p>B&agrave; Smith kh&oacute; chịu v&igrave; phải <strong>nhắc</strong> người phục vụ mang h&oacute;a đơn.</p>\n",
+      "exampleEn": "Ms. Smith was annoyed at having to remind the waitress to bring the check.",
+      "exampleVi": "Bà Smith khó chịu vì phải nhắc người phục vụ mang hóa đơn."
+    }
+  ],
+  "totalFlashcards": 12
+}
