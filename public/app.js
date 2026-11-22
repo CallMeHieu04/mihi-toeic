@@ -94,6 +94,7 @@ const TOEIC_PARTS_INFO = [
 document.addEventListener('DOMContentLoaded', async () => {
   if (window.lucide) lucide.createIcons();
   initStreak();
+  initDailyReminders();
   await loadInitialData();
   setupKeyboardShortcuts();
 });
@@ -4375,8 +4376,24 @@ function openStreakModal() {
         </div>
 
         <!-- Motivational Quote -->
-        <div class="p-3 rounded-xl bg-amber-50 border border-amber-200/60 text-center mb-5 text-xs text-amber-800 font-medium">
+        <div class="p-3 rounded-xl bg-amber-50 border border-amber-200/60 text-center mb-4 text-xs text-amber-800 font-medium">
           💡 <em>"Mỗi ngày một chút thói quen nhỏ sẽ tạo nên bước nhảy vọt điểm số TOEIC 600+!"</em>
+        </div>
+
+        <!-- Daily Reminder Quick Status inside Streak Modal -->
+        <div class="p-3 rounded-2xl bg-indigo-50/80 border border-indigo-100 flex items-center justify-between gap-3 mb-5">
+          <div class="flex items-center gap-2.5 text-left">
+            <div class="w-8 h-8 rounded-xl bg-indigo-100 text-[#5648ee] flex items-center justify-center text-sm font-black flex-shrink-0">
+              🔔
+            </div>
+            <div>
+              <div class="text-xs font-black text-slate-800">Nhắc nhở giữ lửa Streak</div>
+              <div class="text-[11px] text-slate-500 font-medium">Bật thông báo lúc 20:00 mỗi tối</div>
+            </div>
+          </div>
+          <button onclick="closeModal('streak-modal'); openReminderSettingsModal()" class="px-3 py-1.5 rounded-xl bg-white border border-indigo-200 text-[#5648ee] font-black text-xs hover:bg-indigo-50 shadow-2xs transition cursor-pointer flex-shrink-0">
+            Cài đặt 🔔
+          </button>
         </div>
 
         <!-- Action Buttons -->
@@ -4401,4 +4418,282 @@ function openStreakModal() {
   document.body.insertAdjacentHTML('beforeend', modalHtml);
   if (window.lucide) lucide.createIcons();
 }
+
+// ================= DAILY REMINDER & WEB NOTIFICATION ENGINE =================
+const REMINDER_STORAGE_KEY = 'mihi_reminder_settings_v1';
+let swRegistration = null;
+
+function getReminderSettings() {
+  try {
+    const raw = localStorage.getItem(REMINDER_STORAGE_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (parsed && typeof parsed.enabled === 'boolean') {
+        return parsed;
+      }
+    }
+  } catch (e) {
+    console.error('Error reading reminder settings:', e);
+  }
+
+  // Default reminder settings
+  const defaults = {
+    enabled: true,
+    reminderTime: '20:00',
+    lastNotifiedDate: null
+  };
+  saveReminderSettings(defaults);
+  return defaults;
+}
+
+function saveReminderSettings(settings) {
+  try {
+    localStorage.setItem(REMINDER_STORAGE_KEY, JSON.stringify(settings));
+  } catch (e) {
+    console.error('Error saving reminder settings:', e);
+  }
+}
+
+async function initDailyReminders() {
+  // Register Service Worker
+  if ('serviceWorker' in navigator) {
+    try {
+      swRegistration = await navigator.serviceWorker.register('/sw.js');
+      console.log('MiHi TOEIC Service Worker registered successfully');
+    } catch (err) {
+      console.log('Service Worker registration skipped or failed:', err);
+    }
+  }
+
+  updateReminderBellUI();
+
+  // Check periodically (every 60 seconds)
+  checkDailyReminderScheduler();
+  setInterval(checkDailyReminderScheduler, 60000);
+}
+
+function updateReminderBellUI() {
+  const dot = document.getElementById('reminder-bell-dot');
+  const btn = document.getElementById('reminder-bell-btn');
+  if (!dot || !btn) return;
+
+  const settings = getReminderSettings();
+  const hasPermission = ('Notification' in window) && Notification.permission === 'granted';
+
+  if (settings.enabled && hasPermission) {
+    dot.classList.remove('hidden');
+    btn.classList.add('text-indigo-600', 'bg-indigo-50');
+    btn.title = `Nhắc nhở học hàng ngày: BẬT (${settings.reminderTime})`;
+  } else {
+    dot.classList.add('hidden');
+    btn.classList.remove('text-indigo-600', 'bg-indigo-50');
+    btn.title = 'Cài đặt thông báo nhắc học';
+  }
+}
+
+async function requestReminderPermission() {
+  if (!('Notification' in window)) {
+    alert('Trình duyệt của bạn hiện chưa hỗ trợ Web Notification.');
+    return false;
+  }
+
+  try {
+    const permission = await Notification.requestPermission();
+    const settings = getReminderSettings();
+    if (permission === 'granted') {
+      settings.enabled = true;
+      saveReminderSettings(settings);
+      updateReminderBellUI();
+      return true;
+    } else {
+      settings.enabled = false;
+      saveReminderSettings(settings);
+      updateReminderBellUI();
+      return false;
+    }
+  } catch (err) {
+    console.error('Error requesting notification permission:', err);
+    return false;
+  }
+}
+
+async function sendBrowserNotification(title, options = {}) {
+  const finalOptions = {
+    icon: 'https://estudyme.com/images/icon/estudyme/favicon.png',
+    badge: 'https://estudyme.com/images/icon/estudyme/favicon.png',
+    vibrate: [200, 100, 200],
+    data: { url: '/' },
+    ...options
+  };
+
+  if (swRegistration && swRegistration.showNotification) {
+    return swRegistration.showNotification(title, finalOptions);
+  } else if ('Notification' in window && Notification.permission === 'granted') {
+    return new Notification(title, finalOptions);
+  }
+}
+
+async function testReminderNotificationNow() {
+  const hasPerm = ('Notification' in window) && Notification.permission === 'granted';
+  if (!hasPerm) {
+    const granted = await requestReminderPermission();
+    if (!granted) {
+      alert('Vui lòng chọn "Cho phép (Allow)" khi trình duyệt hỏi quyền thông báo để nhận lời nhắc học nhé!');
+      return;
+    }
+  }
+
+  const settings = getReminderSettings();
+  const streak = getStreakData();
+
+  await sendBrowserNotification('🔥 MiHi TOEIC: Chào Minh Hiếu!', {
+    body: `Thông báo nhắc học đã hoạt động cực tốt! Mỗi ngày lúc ${settings.reminderTime} tớ sẽ nhắc bạn giữ chuỗi Streak ${streak.currentStreak} ngày nhé!`,
+    tag: 'mihi-test-notification'
+  });
+
+  alert('Đã gửi thông báo thử nghiệm! Kiểm tra thanh thông báo / góc màn hình của bạn nhé 🔔');
+}
+
+async function checkDailyReminderScheduler() {
+  const settings = getReminderSettings();
+  if (!settings.enabled) return;
+  if (!('Notification' in window) || Notification.permission !== 'granted') return;
+
+  const today = getLocalDateString();
+  if (settings.lastNotifiedDate === today) return; // Already reminded today
+
+  // Check if today is already studied
+  const streak = getStreakData();
+  if (streak.lastActiveDate === today) return; // Already finished today's study!
+
+  // Check current time
+  const now = new Date();
+  const currentHours = String(now.getHours()).padStart(2, '0');
+  const currentMins = String(now.getMinutes()).padStart(2, '0');
+  const currentTimeStr = `${currentHours}:${currentMins}`;
+
+  if (currentTimeStr >= settings.reminderTime) {
+    // Send the daily reminder!
+    await sendBrowserNotification('🔥 MiHi TOEIC: Minh Hiếu ơi!', {
+      body: `Ngọn lửa Streak ${streak.currentStreak} ngày của bạn sắp tắt rồi! Vào lướt 5 từ vựng (2 phút) để giữ chuỗi ngay nào!`,
+      tag: 'mihi-daily-streak-reminder'
+    });
+
+    settings.lastNotifiedDate = today;
+    saveReminderSettings(settings);
+  }
+}
+
+function openReminderSettingsModal() {
+  const settings = getReminderSettings();
+  const hasPermission = ('Notification' in window) && (Notification.permission === 'granted');
+  const isDenied = ('Notification' in window) && (Notification.permission === 'denied');
+
+  const existing = document.getElementById('reminder-modal');
+  if (existing) existing.remove();
+
+  const modalHtml = `
+    <div id="reminder-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-150">
+      <div class="bg-white rounded-3xl max-w-md w-full p-6 sm:p-7 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150">
+        <!-- Close button -->
+        <button onclick="closeModal('reminder-modal')" class="absolute top-4 right-4 w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-500 flex items-center justify-center transition cursor-pointer">
+          ✕
+        </button>
+
+        <div class="text-center pt-2 pb-4">
+          <div class="w-16 h-16 mx-auto rounded-3xl bg-indigo-50 text-[#5648ee] flex items-center justify-center text-3xl mb-3 shadow-sm shadow-indigo-100">
+            🔔
+          </div>
+          <h3 class="text-2xl font-black text-slate-900 tracking-tight">
+            Nhắc Nhở Học Hàng Ngày
+          </h3>
+          <p class="text-xs text-slate-500 font-medium mt-1">
+            Gửi thông báo nhắc nhở lên điện thoại để không bao giờ bị tắt ngọn lửa Streak 🔥
+          </p>
+        </div>
+
+        <!-- Permission Status Box -->
+        <div class="p-3.5 rounded-2xl ${hasPermission ? 'bg-emerald-50 border border-emerald-200 text-emerald-800' : (isDenied ? 'bg-rose-50 border border-rose-200 text-rose-800' : 'bg-amber-50 border border-amber-200 text-amber-800')} mb-5 text-xs flex items-center justify-between gap-3">
+          <div class="flex items-center gap-2">
+            <span class="text-base">${hasPermission ? '✅' : (isDenied ? '❌' : '⚠️')}</span>
+            <span class="font-bold">
+              ${hasPermission ? 'Đã cấp quyền thông báo' : (isDenied ? 'Bạn đã chặn quyền thông báo' : 'Chưa cấp quyền thông báo')}
+            </span>
+          </div>
+          ${!hasPermission ? `
+            <button onclick="requestReminderPermission().then(() => openReminderSettingsModal())" class="px-3 py-1.5 rounded-xl bg-white text-slate-800 font-extrabold text-[11px] border border-slate-200 hover:bg-slate-50 shadow-2xs cursor-pointer">
+              Bật quyền
+            </button>
+          ` : ''}
+        </div>
+
+        <!-- Settings Form -->
+        <div class="space-y-4 mb-6">
+          <!-- Toggle reminder -->
+          <div class="flex items-center justify-between p-3.5 rounded-2xl bg-slate-50 border border-slate-200/80">
+            <div>
+              <div class="text-xs font-black text-slate-800">Bật nhắc nhở mỗi ngày</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Tự động nhắc nếu hôm đó chưa học bài</div>
+            </div>
+            <label class="relative inline-flex items-center cursor-pointer">
+              <input type="checkbox" id="reminder-toggle-input" ${settings.enabled ? 'checked' : ''} onchange="toggleReminderSetting(this.checked)" class="sr-only peer">
+              <div class="w-11 h-6 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-[#5648ee]"></div>
+            </label>
+          </div>
+
+          <!-- Time Picker -->
+          <div class="p-3.5 rounded-2xl bg-slate-50 border border-slate-200/80">
+            <div class="text-xs font-black text-slate-800 mb-2">Khung giờ nhắc nhở (Tối hàng ngày)</div>
+            <div class="grid grid-cols-4 gap-2">
+              ${['19:00', '20:00', '21:00', '22:00'].map(t => `
+                <button onclick="setReminderTime('${t}')" class="py-2 rounded-xl text-xs font-black transition cursor-pointer ${settings.reminderTime === t ? 'bg-[#5648ee] text-white shadow-xs' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-100'}">
+                  ${t}
+                </button>
+              `).join('')}
+            </div>
+          </div>
+        </div>
+
+        <!-- Buttons -->
+        <div class="space-y-2.5">
+          <button onclick="testReminderNotificationNow()" class="w-full py-3.5 px-4 rounded-2xl bg-gradient-to-r from-indigo-600 to-[#5648ee] hover:brightness-105 active:scale-98 text-white font-black text-sm shadow-md shadow-indigo-500/25 flex items-center justify-center gap-2 transition cursor-pointer">
+            <i data-lucide="bell" class="w-4 h-4"></i> Gửi thông báo thử nghiệm ngay
+          </button>
+          <button onclick="closeModal('reminder-modal')" class="w-full py-3 px-4 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs transition cursor-pointer">
+            Đóng
+          </button>
+        </div>
+
+        <!-- Note for mobile users -->
+        <div class="mt-4 text-center">
+          <p class="text-[11px] text-slate-400 leading-relaxed">
+            💡 <strong>Mẹo trên điện thoại:</strong> Mở trang web ➔ chọn <em>"Thêm vào Màn hình chính (Add to Home Screen)"</em> để nhận thông báo đẩy mượt mà như app thật nhé!
+          </p>
+        </div>
+      </div>
+    </div>
+  `;
+
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+  if (window.lucide) lucide.createIcons();
+}
+
+function toggleReminderSetting(isEnabled) {
+  const settings = getReminderSettings();
+  settings.enabled = isEnabled;
+  saveReminderSettings(settings);
+  updateReminderBellUI();
+  if (isEnabled && ('Notification' in window) && Notification.permission !== 'granted') {
+    requestReminderPermission().then(() => openReminderSettingsModal());
+  }
+}
+
+function setReminderTime(timeStr) {
+  const settings = getReminderSettings();
+  settings.reminderTime = timeStr;
+  saveReminderSettings(settings);
+  updateReminderBellUI();
+  openReminderSettingsModal();
+}
+
 

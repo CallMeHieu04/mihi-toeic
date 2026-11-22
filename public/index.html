@@ -6,6 +6,8 @@
   <title>MiHi TOEIC – Luyện Thi TOEIC Online 2026 | Design by Minh Hiếu</title>
   <link rel="icon" type="image/png" href="https://estudyme.com/images/icon/estudyme/favicon.png">
   <link rel="apple-touch-icon" href="https://estudyme.com/images/icon/estudyme/favicon.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#5648ee">
   
   <!-- Google Fonts: Plus Jakarta Sans & Inter -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -118,6 +120,12 @@
           <span class="text-base group-hover:scale-125 transition-transform inline-block">🔥</span>
           <span id="header-streak-count" class="text-sm font-black text-orange-600">1</span>
           <span class="hidden sm:inline text-[11px] font-bold text-orange-700">ngày</span>
+        </button>
+
+        <!-- Daily Reminder Bell Button -->
+        <button onclick="openReminderSettingsModal()" id="reminder-bell-btn" class="flex items-center justify-center w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-600 hover:text-indigo-600 transition cursor-pointer relative" title="Nhắc nhở học hàng ngày">
+          <i data-lucide="bell" class="w-4 h-4"></i>
+          <span id="reminder-bell-dot" class="hidden absolute top-1 right-1 w-2 h-2 rounded-full bg-emerald-500 ring-2 ring-white"></span>
         </button>
 
         <!-- Design by Minh Hieu Pill -->
