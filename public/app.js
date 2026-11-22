@@ -95,6 +95,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   if (window.lucide) lucide.createIcons();
   initStreak();
   initDailyReminders();
+  initStudyTimeTracker();
   await loadInitialData();
   setupKeyboardShortcuts();
 });
@@ -159,6 +160,9 @@ function showView(viewName) {
 
   if (viewName === 'history') {
     loadStudyHistory();
+  }
+  if (viewName === 'dashboard') {
+    renderDashboardView();
   }
   updateStreakUI();
 }
@@ -4695,5 +4699,414 @@ function setReminderTime(timeStr) {
   updateReminderBellUI();
   openReminderSettingsModal();
 }
+
+// ================= STUDY TIME TRACKER & DASHBOARD ENGINE =================
+const STUDY_TIME_STORAGE_KEY = 'mihi_study_time_v1';
+let lastUserInteractionTime = Date.now();
+let currentStudyCategory = 'general';
+
+function formatStudyTime(seconds) {
+  if (!seconds || seconds <= 0) return '0m';
+  const h = Math.floor(seconds / 3600);
+  const m = Math.floor((seconds % 3600) / 60);
+  if (h > 0) return `${h}h ${m}m`;
+  return `${m}m`;
+}
+
+function getStudyTimeData() {
+  try {
+    const raw = localStorage.getItem(STUDY_TIME_STORAGE_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (parsed && typeof parsed.totalSeconds === 'number') {
+        return parsed;
+      }
+    }
+  } catch (e) {
+    console.error('Error reading study time data:', e);
+  }
+
+  // Initial defaults
+  const today = getLocalDateString();
+  const defaults = {
+    totalSeconds: 0,
+    categories: {
+      vocabulary: 0,
+      grammar: 0,
+      listening: 0,
+      reading: 0,
+      exam: 0,
+      general: 0
+    },
+    daily: {
+      [today]: {
+        total: 0,
+        vocabulary: 0,
+        grammar: 0,
+        listening: 0,
+        reading: 0,
+        exam: 0,
+        general: 0
+      }
+    }
+  };
+
+  saveStudyTimeData(defaults);
+  return defaults;
+}
+
+function saveStudyTimeData(data) {
+  try {
+    localStorage.setItem(STUDY_TIME_STORAGE_KEY, JSON.stringify(data));
+  } catch (e) {
+    console.error('Error saving study time data:', e);
+  }
+}
+
+function addStudyTime(seconds, category = 'vocabulary') {
+  if (!seconds || seconds <= 0) return;
+  const data = getStudyTimeData();
+  const today = getLocalDateString();
+
+  if (!data.categories) data.categories = {};
+  if (!data.daily) data.daily = {};
+  if (!data.daily[today]) {
+    data.daily[today] = { total: 0, vocabulary: 0, grammar: 0, listening: 0, reading: 0, exam: 0, general: 0 };
+  }
+
+  data.totalSeconds = (data.totalSeconds || 0) + seconds;
+  data.categories[category] = (data.categories[category] || 0) + seconds;
+
+  data.daily[today].total = (data.daily[today].total || 0) + seconds;
+  data.daily[today][category] = (data.daily[today][category] || 0) + seconds;
+
+  saveStudyTimeData(data);
+
+  // If dashboard is currently visible, update numbers in real time
+  const dbView = document.getElementById('view-dashboard');
+  if (dbView && !dbView.classList.contains('hidden')) {
+    const totalEl = document.getElementById('db-total-time');
+    if (totalEl) totalEl.textContent = formatStudyTime(data.totalSeconds);
+  }
+}
+
+function initStudyTimeTracker() {
+  const recordInteraction = () => {
+    lastUserInteractionTime = Date.now();
+  };
+
+  ['mousemove', 'keydown', 'touchstart', 'scroll', 'click'].forEach(evt => {
+    window.addEventListener(evt, recordInteraction, { passive: true });
+  });
+
+  // Track active time every 5 seconds if user is active
+  setInterval(() => {
+    // Check if user interacted within last 2 minutes (120,000ms)
+    const isUserActive = (Date.now() - lastUserInteractionTime) < 120000;
+    if (!isUserActive) return;
+
+    // Detect active category based on current UI view
+    let activeCategory = 'general';
+
+    const fcView = document.getElementById('view-flashcard');
+    const examView = document.getElementById('view-exam');
+    const lessonModal = document.getElementById('lesson-reader-modal');
+
+    if (fcView && !fcView.classList.contains('hidden')) {
+      activeCategory = 'vocabulary';
+    } else if (examView && !examView.classList.contains('hidden')) {
+      if (isSimulationMode) {
+        activeCategory = 'exam';
+      } else if (typeof activeSimulationPart === 'number' && activeSimulationPart <= 4) {
+        activeCategory = 'listening';
+      } else if (typeof activeSimulationPart === 'number' && activeSimulationPart >= 5) {
+        activeCategory = 'reading';
+      } else {
+        activeCategory = 'exam';
+      }
+    } else if (lessonModal) {
+      activeCategory = 'grammar';
+    } else {
+      const activeTabBtn = document.querySelector('.tab-btn.active');
+      const activeTabId = activeTabBtn?.id || '';
+      if (activeTabId.includes('grammar')) activeCategory = 'grammar';
+      else if (activeTabId.includes('vocabulary')) activeCategory = 'vocabulary';
+      else if (activeTabId.includes('simulation') || activeTabId.includes('fulltest') || activeTabId.includes('minitest')) activeCategory = 'exam';
+      else if (activeTabId.includes('practice')) activeCategory = 'listening';
+      else activeCategory = 'vocabulary';
+    }
+
+    currentStudyCategory = activeCategory;
+    addStudyTime(5, activeCategory);
+  }, 5000);
+}
+
+function renderDashboardView() {
+  const data = getStudyTimeData();
+  const streakData = getStreakData();
+  const today = getLocalDateString();
+  const isTodayActive = (streakData.lastActiveDate === today);
+
+  // 1. Date Quote
+  const quoteEl = document.getElementById('dashboard-date-quote');
+  if (quoteEl) {
+    const now = new Date();
+    const dayNames = ['Chủ Nhật', 'Thứ Hai', 'Thứ Ba', 'Thứ Tư', 'Thứ Năm', 'Thứ Sáu', 'Thứ Bảy'];
+    const dayName = dayNames[now.getDay()];
+    const dateFormatted = `${dayName}, ${String(now.getDate()).padStart(2, '0')}/${String(now.getMonth() + 1).padStart(2, '0')}/${now.getFullYear()}`;
+    quoteEl.textContent = `${dateFormatted} • Bắt đầu hôm nay — chỉ vài phút mỗi ngày là đủ tạo thói quen.`;
+  }
+
+  // 2. Top Metrics
+  const streakCountEl = document.getElementById('db-streak-count');
+  if (streakCountEl) streakCountEl.textContent = streakData.currentStreak || 1;
+
+  const totalTimeEl = document.getElementById('db-total-time');
+  if (totalTimeEl) totalTimeEl.textContent = formatStudyTime(data.totalSeconds);
+
+  const xpEl = document.getElementById('db-xp-count');
+  const earnedXp = 60 + Math.floor((data.totalSeconds || 0) / 60) * 2;
+  if (xpEl) xpEl.textContent = `${earnedXp} XP`;
+
+  // 3. Weekly Bar Chart (Monday -> Sunday)
+  const now = new Date();
+  const currentDayOfWeek = now.getDay(); // 0 is Sun, 1 is Mon...
+  const distanceToMonday = (currentDayOfWeek + 6) % 7;
+  const monday = new Date(now);
+  monday.setDate(now.getDate() - distanceToMonday);
+
+  const dayLabels = ['T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'CN'];
+  let weeklyTotalSec = 0;
+  const weekData = [];
+
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(monday);
+    d.setDate(monday.getDate() + i);
+    const dateStr = getLocalDateString(d);
+    const daySec = (data.daily && data.daily[dateStr] && data.daily[dateStr].total) || 0;
+    weeklyTotalSec += daySec;
+    weekData.push({
+      dateStr,
+      dayNum: d.getDate(),
+      dayLabel: dayLabels[i],
+      seconds: daySec,
+      minutes: Math.round(daySec / 60),
+      isToday: (dateStr === today)
+    });
+  }
+
+  const weeklyTotalEl = document.getElementById('db-weekly-total-time');
+  if (weeklyTotalEl) weeklyTotalEl.textContent = formatStudyTime(weeklyTotalSec);
+
+  // Render weekly chart bars
+  const chartEl = document.getElementById('db-weekly-chart');
+  if (chartEl) {
+    const maxMinutes = Math.max(5, ...weekData.map(w => w.minutes));
+    chartEl.innerHTML = weekData.map(w => {
+      const heightPct = Math.max(8, Math.round((w.minutes / maxMinutes) * 100));
+      const barColor = w.isToday 
+        ? 'bg-gradient-to-t from-[#5648ee] to-[#7b6dfc] shadow-sm shadow-indigo-500/20' 
+        : (w.minutes > 0 ? 'bg-gradient-to-t from-slate-400 to-slate-300' : 'bg-slate-100');
+
+      return `
+        <div class="flex-1 flex flex-col items-center h-full justify-end group">
+          <span class="text-[10px] font-bold text-slate-500 mb-1 opacity-0 group-hover:opacity-100 transition">${w.minutes}p</span>
+          <div class="w-full max-w-[38px] rounded-t-xl ${barColor} transition-all duration-500 cursor-pointer" style="height: ${heightPct}%;" title="${w.dayLabel} (${w.dayNum}): ${w.minutes} phút"></div>
+          <span class="text-[11px] font-black mt-2 ${w.isToday ? 'text-[#5648ee]' : 'text-slate-400'}">${w.dayLabel}</span>
+        </div>
+      `;
+    }).join('');
+  }
+
+  // 4. Category Breakdown: Học cái gì bao nhiêu phút
+  const catEl = document.getElementById('db-category-cards');
+  if (catEl) {
+    const cats = [
+      {
+        key: 'vocabulary',
+        name: 'Từ vựng (Flashcard & Quiz)',
+        icon: 'sparkles',
+        color: 'text-orange-600 bg-orange-50 border-orange-100',
+        seconds: data.categories?.vocabulary || 0,
+        sub: '48 chủ đề thông dụng',
+        action: "switchTab('vocabulary')"
+      },
+      {
+        key: 'grammar',
+        name: 'Ngữ pháp TOEIC',
+        icon: 'book-open',
+        color: 'text-emerald-700 bg-emerald-50 border-emerald-100',
+        seconds: data.categories?.grammar || 0,
+        sub: '38 chuyên đề lý thuyết & mẹo',
+        action: "switchTab('grammar')"
+      },
+      {
+        key: 'listening',
+        name: 'Luyện nghe (Part 1 - 4)',
+        icon: 'headphones',
+        color: 'text-blue-600 bg-blue-50 border-blue-100',
+        seconds: data.categories?.listening || 0,
+        sub: 'Mô tả tranh, Hỏi-đáp, Hội thoại',
+        action: "switchTab('practice')"
+      },
+      {
+        key: 'reading',
+        name: 'Luyện đọc (Part 5 - 7)',
+        icon: 'file-text',
+        color: 'text-teal-600 bg-teal-50 border-teal-100',
+        seconds: data.categories?.reading || 0,
+        sub: 'Hoàn thành câu, đoạn văn, bài đọc',
+        action: "switchTab('practice')"
+      },
+      {
+        key: 'exam',
+        name: 'Đề thi thử (Full & Mini Test)',
+        icon: 'award',
+        color: 'text-[#5648ee] bg-indigo-50 border-indigo-100',
+        seconds: data.categories?.exam || 0,
+        sub: 'Thi chuẩn format ETS/IIG 200 câu',
+        action: "switchTab('fulltest')"
+      }
+    ];
+
+    catEl.innerHTML = cats.map(c => `
+      <div class="p-4 rounded-2xl bg-white border border-slate-200/80 shadow-2xs hover:shadow-md hover:border-indigo-200 transition flex items-center justify-between gap-3 group">
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 rounded-xl ${c.color} flex items-center justify-center font-black flex-shrink-0">
+            <i data-lucide="${c.icon}" class="w-5 h-5"></i>
+          </div>
+          <div>
+            <div class="text-xs font-black text-slate-900 group-hover:text-[#5648ee] transition">${c.name}</div>
+            <div class="text-[11px] text-slate-400 mt-0.5">${c.sub}</div>
+          </div>
+        </div>
+        <div class="text-right flex-shrink-0">
+          <div class="text-sm font-black text-slate-800">${formatStudyTime(c.seconds)}</div>
+          <button onclick="${c.action}" class="text-[10px] font-black text-[#5648ee] hover:underline cursor-pointer mt-0.5 block">Vào học →</button>
+        </div>
+      </div>
+    `).join('');
+  }
+
+  // 5. Week Attendance (Tuần này)
+  const attendRowEl = document.getElementById('db-week-attendance-row');
+  const attendStatusEl = document.getElementById('db-attendance-status');
+
+  if (attendStatusEl) {
+    if (isTodayActive) {
+      attendStatusEl.innerHTML = '<span class="text-emerald-600 font-black">✓ Đã điểm danh!</span>';
+    } else {
+      attendStatusEl.innerHTML = '<span class="text-amber-500 font-black">⚡ Chưa điểm danh hôm nay</span>';
+    }
+  }
+
+  if (attendRowEl) {
+    attendRowEl.innerHTML = weekData.map(w => {
+      const isPastOrToday = (new Date(w.dateStr) <= new Date(today));
+      const hasStudied = Array.isArray(streakData.history) && streakData.history.includes(w.dateStr);
+
+      let circleContent = '';
+      if (hasStudied) {
+        circleContent = `
+          <div class="w-8 h-8 rounded-full bg-slate-900 text-white flex items-center justify-center font-black text-xs shadow-xs mx-auto">
+            ✓
+          </div>
+        `;
+      } else if (w.isToday) {
+        circleContent = `
+          <div onclick="openStreakModal()" class="w-8 h-8 rounded-full bg-orange-100 border border-orange-300 text-orange-600 flex items-center justify-center font-black text-xs shadow-xs mx-auto animate-pulse cursor-pointer">
+            🔥
+          </div>
+        `;
+      } else {
+        circleContent = `
+          <div class="w-8 h-8 rounded-full bg-slate-100 text-slate-300 flex items-center justify-center font-bold text-xs mx-auto">
+            •
+          </div>
+        `;
+      }
+
+      return `
+        <div class="flex flex-col items-center gap-1.5 p-1">
+          <span class="text-[10px] font-black text-slate-400">${w.dayLabel}</span>
+          ${circleContent}
+        </div>
+      `;
+    }).join('');
+  }
+
+  // 6. Leaderboard (Bảng xếp hạng)
+  const boardEl = document.getElementById('db-leaderboard-list');
+  if (boardEl) {
+    const userMinutesFormatted = formatStudyTime(data.totalSeconds);
+
+    boardEl.innerHTML = `
+      <!-- User's Highlighted Rank (Exact Match to Screenshot) -->
+      <div class="p-3 rounded-2xl bg-amber-50/80 border border-amber-200/80 flex items-center justify-between gap-3 shadow-2xs">
+        <div class="flex items-center gap-2.5">
+          <span class="text-xs font-black text-slate-500 w-8">#1010</span>
+          <div class="w-8 h-8 rounded-full bg-gradient-to-tr from-[#5648ee] to-purple-600 text-white font-black text-xs flex items-center justify-center shadow-xs">
+            MH
+          </div>
+          <div>
+            <div class="text-xs font-black text-slate-900">Bạn (Minh Hiếu)</div>
+            <div class="text-[10px] text-amber-700 font-bold">Chăm chỉ mỗi ngày</div>
+          </div>
+        </div>
+        <div class="px-2.5 py-1 rounded-full bg-white text-emerald-700 font-black text-xs border border-amber-200/70 shadow-2xs">
+          ${userMinutesFormatted}
+        </div>
+      </div>
+
+      <!-- Rank 1 -->
+      <div class="p-2.5 rounded-xl hover:bg-slate-50 flex items-center justify-between gap-3 transition">
+        <div class="flex items-center gap-2.5">
+          <span class="text-xs font-black text-amber-500 w-8 flex items-center gap-1">🥇 #1</span>
+          <div class="w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center text-sm">
+            🕶️
+          </div>
+          <div>
+            <div class="text-xs font-bold text-slate-800">N.N</div>
+            <div class="text-[10px] text-slate-400">🔥 2d</div>
+          </div>
+        </div>
+        <span class="text-xs font-bold text-slate-600">26h 22m</span>
+      </div>
+
+      <!-- Rank 2 -->
+      <div class="p-2.5 rounded-xl hover:bg-slate-50 flex items-center justify-between gap-3 transition">
+        <div class="flex items-center gap-2.5">
+          <span class="text-xs font-black text-slate-400 w-8 flex items-center gap-1">🥈 #2</span>
+          <div class="w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center text-sm">
+            👤
+          </div>
+          <div>
+            <div class="text-xs font-bold text-slate-800">dat phat</div>
+            <div class="text-[10px] text-slate-400">🔥 8d</div>
+          </div>
+        </div>
+        <span class="text-xs font-bold text-slate-600">25h 18m</span>
+      </div>
+
+      <!-- Rank 3 -->
+      <div class="p-2.5 rounded-xl hover:bg-slate-50 flex items-center justify-between gap-3 transition">
+        <div class="flex items-center gap-2.5">
+          <span class="text-xs font-black text-amber-700 w-8 flex items-center gap-1">🥉 #3</span>
+          <div class="w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center text-sm">
+            👩
+          </div>
+          <div>
+            <div class="text-xs font-bold text-slate-800">Trần Thị Ngọc Dung</div>
+            <div class="text-[10px] text-slate-400">🔥 15d</div>
+          </div>
+        </div>
+        <span class="text-xs font-bold text-slate-600">22h 15m</span>
+      </div>
+    `;
+  }
+
+  if (window.lucide) lucide.createIcons();
+}
+
 
 

@@ -110,6 +110,7 @@
           <button onclick="switchTab('grammar')" class="nav-btn px-3 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition">Ngữ pháp</button>
           <button onclick="switchTab('vocabulary')" class="nav-btn px-3 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition">Từ vựng</button>
           <button onclick="showView('history')" class="nav-btn px-3 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition">Lịch sử</button>
+          <button onclick="showView('dashboard')" class="nav-btn px-3 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition flex items-center gap-1.5"><i data-lucide="layout-dashboard" class="w-3.5 h-3.5 text-[#5648ee]"></i> Dashboard</button>
         </nav>
       </div>
 
@@ -145,7 +146,7 @@
         </div>
 
         <!-- User Avatar (Minh Hiếu) -->
-        <div class="w-9 h-9 rounded-full bg-gradient-to-tr from-[#5648ee] to-purple-600 text-white font-black text-xs flex items-center justify-center shadow-md ring-2 ring-indigo-100" title="Minh Hiếu (Creator)">
+        <div onclick="showView('dashboard')" class="w-9 h-9 rounded-full bg-gradient-to-tr from-[#5648ee] to-purple-600 text-white font-black text-xs flex items-center justify-center shadow-md ring-2 ring-indigo-100 cursor-pointer hover:scale-105 active:scale-95 transition" title="Minh Hiếu (Bấm xem Dashboard)">
           MH
         </div>
       </div>
@@ -1242,6 +1243,180 @@
 
         <div id="history-container"></div>
       </div>
+    </div>
+
+    <!-- ================= VIEW 6: DASHBOARD (STUDY TIME & STATS) ================= -->
+    <div id="view-dashboard" class="view-panel hidden max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      
+      <!-- Top Bar: Greeting & Link -->
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
+        <div class="flex items-center gap-3.5">
+          <div class="w-12 h-12 rounded-2xl bg-gradient-to-tr from-amber-400 to-orange-500 text-white flex items-center justify-center text-2xl shadow-md shadow-orange-500/20">
+            🔥
+          </div>
+          <div>
+            <h1 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+              Xin chào, <span class="text-[#5648ee]">Minh Hiếu Phan</span>!
+            </h1>
+            <p id="dashboard-date-quote" class="text-xs sm:text-sm text-slate-500 font-medium mt-0.5">
+              Chủ Nhật, 22/11/2026 • Bắt đầu hôm nay — chỉ vài phút mỗi ngày là đủ tạo thói quen.
+            </p>
+          </div>
+        </div>
+
+        <button onclick="switchTab('learning-path')" class="self-start sm:self-auto text-xs font-black text-slate-600 hover:text-[#5648ee] transition flex items-center gap-1 cursor-pointer">
+          <span>Xem Lộ Trình Ôn Tập 600+</span> <i data-lucide="arrow-up-right" class="w-4 h-4"></i>
+        </button>
+      </div>
+
+      <!-- Action Required Banner (Red Callout) -->
+      <div class="bg-gradient-to-r from-rose-50 to-orange-50 border border-rose-200/80 rounded-2xl p-4 sm:p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6 shadow-2xs">
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 rounded-xl bg-rose-100 text-[#e52542] flex items-center justify-center text-lg flex-shrink-0">
+            📋
+          </div>
+          <div>
+            <div class="text-sm font-bold text-slate-900">Chưa có bài nào dở dang</div>
+            <div class="text-xs text-slate-500 mt-0.5">Làm một đề thi thử để kiểm tra trình độ xuất phát và đo thời gian ôn luyện nhé.</div>
+          </div>
+        </div>
+        <button onclick="switchTab('minitest')" class="px-5 py-2.5 rounded-xl bg-[#e52542] hover:bg-[#c91833] text-white font-black text-xs shadow-md shadow-rose-500/20 transition flex items-center justify-center gap-1.5 flex-shrink-0 cursor-pointer">
+          Làm đề đầu vào <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
+        </button>
+      </div>
+
+      <!-- Top 4 Metrics Cards -->
+      <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
+        <!-- Card 1: Gói thành viên -->
+        <div class="bg-white p-4 sm:p-5 rounded-2xl border border-slate-200/80 shadow-2xs flex items-center gap-3.5">
+          <div class="w-11 h-11 rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center font-black flex-shrink-0">
+            <i data-lucide="crown" class="w-5 h-5"></i>
+          </div>
+          <div>
+            <div class="text-[10px] font-black uppercase text-amber-600 tracking-wider">MiHi PRO 2026</div>
+            <div class="text-sm sm:text-base font-black text-slate-900">Gói Vĩnh Viễn</div>
+          </div>
+        </div>
+
+        <!-- Card 2: Streak -->
+        <div class="bg-white p-4 sm:p-5 rounded-2xl border border-slate-200/80 shadow-2xs flex items-center gap-3.5 cursor-pointer hover:border-orange-300 transition" onclick="openStreakModal()">
+          <div class="w-11 h-11 rounded-2xl bg-orange-50 text-orange-600 flex items-center justify-center text-xl flex-shrink-0">
+            🔥
+          </div>
+          <div>
+            <div class="text-[10px] font-black uppercase text-orange-600 tracking-wider">Chuỗi hiện tại</div>
+            <div class="text-base sm:text-lg font-black text-slate-900"><span id="db-streak-count">1</span> ngày</div>
+          </div>
+        </div>
+
+        <!-- Card 3: Thời gian luyện tập -->
+        <div class="bg-white p-4 sm:p-5 rounded-2xl border border-slate-200/80 shadow-2xs flex items-center gap-3.5">
+          <div class="w-11 h-11 rounded-2xl bg-blue-50 text-blue-600 flex items-center justify-center font-black flex-shrink-0">
+            <i data-lucide="clock" class="w-5 h-5"></i>
+          </div>
+          <div>
+            <div class="text-[10px] font-black uppercase text-blue-600 tracking-wider">Thời gian luyện tập</div>
+            <div class="text-base sm:text-lg font-black text-slate-900" id="db-total-time">0h 0m</div>
+          </div>
+        </div>
+
+        <!-- Card 4: Level / Điểm tích lũy -->
+        <div class="bg-white p-4 sm:p-5 rounded-2xl border border-slate-200/80 shadow-2xs flex flex-col justify-between">
+          <div class="flex items-center justify-between mb-1">
+            <div class="flex items-center gap-1.5 text-emerald-600 text-xs font-black">
+              <i data-lucide="zap" class="w-4 h-4 fill-current"></i> <span id="db-xp-count">120 XP</span>
+            </div>
+            <span class="text-[10px] font-bold text-slate-400">Lv.1 - Khởi Động</span>
+          </div>
+          <div class="w-full bg-slate-100 h-2 rounded-full overflow-hidden mt-1">
+            <div class="bg-emerald-500 h-full rounded-full transition-all duration-500" style="width: 45%"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main 2-Column Content -->
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        
+        <!-- Left Column (2 Cols): Chart & Detailed Time Categories -->
+        <div class="lg:col-span-2 space-y-6">
+          
+          <!-- Study Time Weekly Chart Card -->
+          <div class="bg-white p-6 rounded-3xl border border-slate-200/80 shadow-2xs">
+            <div class="flex items-center justify-between mb-6">
+              <div>
+                <h3 class="text-base font-black text-slate-900">Thời gian học trong tuần</h3>
+                <p class="text-xs text-slate-400 mt-0.5">Biểu đồ số phút rèn luyện mỗi ngày từ Thứ 2 đến Chủ Nhật</p>
+              </div>
+              <div class="text-xs font-bold text-slate-500 text-right">
+                <span class="text-[10px] uppercase block text-slate-400">Tổng tuần</span>
+                <span id="db-weekly-total-time" class="text-[#5648ee] font-black text-sm">0h 0m</span>
+              </div>
+            </div>
+
+            <!-- Dynamic Weekly Bar Chart -->
+            <div id="db-weekly-chart" class="h-48 flex items-end justify-between gap-3 pt-6 px-2 border-b border-slate-100">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+
+          <!-- Category Time Breakdown: Học cái gì bao nhiêu phút -->
+          <div class="space-y-3">
+            <div class="flex items-center justify-between px-1">
+              <div>
+                <h3 class="text-sm font-black text-slate-800 uppercase tracking-wider">Học cái gì bao nhiêu phút</h3>
+                <p class="text-xs text-slate-400 mt-0.5">Phân bổ chi tiết thời gian ôn tập theo từng kỹ năng</p>
+              </div>
+              <span class="text-xs font-bold text-emerald-600 bg-emerald-50 px-2.5 py-1 rounded-full border border-emerald-100 flex items-center gap-1">
+                <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span> Đang đếm thời gian
+              </span>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3" id="db-category-cards">
+              <!-- Rendered dynamically via JS -->
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Right Column (1 Col): Attendance & Leaderboard -->
+        <div class="space-y-6">
+          
+          <!-- Week Attendance (Tuần này) -->
+          <div class="bg-white p-6 rounded-3xl border border-slate-200/80 shadow-2xs">
+            <div class="flex items-center justify-between mb-4">
+              <h3 class="text-sm font-black text-slate-900">Tuần này</h3>
+              <span id="db-attendance-status" class="text-xs font-black text-emerald-600 flex items-center gap-1">
+                ✓ Đã điểm danh!
+              </span>
+            </div>
+            
+            <div class="grid grid-cols-7 gap-1.5 text-center" id="db-week-attendance-row">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+
+          <!-- Leaderboard (Bảng xếp hạng) -->
+          <div class="bg-white p-6 rounded-3xl border border-slate-200/80 shadow-2xs">
+            <div class="flex items-center justify-between mb-4 pb-2 border-b border-slate-100">
+              <div class="flex items-center gap-1.5 font-black text-sm text-slate-900">
+                <span class="text-amber-500 text-base">🏆</span> Bảng xếp hạng
+              </div>
+              <div class="flex items-center gap-1 text-[11px] font-bold">
+                <span class="px-2.5 py-1 rounded-lg bg-slate-900 text-white cursor-pointer shadow-xs">Tuần</span>
+                <span class="px-2.5 py-1 text-slate-400 hover:text-slate-700 cursor-pointer">Tháng</span>
+              </div>
+            </div>
+
+            <!-- Rank List -->
+            <div class="space-y-2.5" id="db-leaderboard-list">
+              <!-- Rendered dynamically -->
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
     </div>
 
   </main>
