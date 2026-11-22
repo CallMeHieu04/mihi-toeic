@@ -3715,6 +3715,25 @@ function cleanHtmlText(str) {
 }
 
 async function startFlashcardSession(topicId, topicTitle, onlyUnlearned = false) {
+  // Resolve topicId if it's a slug, title or name
+  if (practiceSummary) {
+    const vocabData = practiceSummary.find(p => p.slug === 'vocabulary');
+    if (vocabData) {
+      const allVocabTopics = [...(vocabData.byTopic || []), ...(vocabData.byPart || [])];
+      const match = allVocabTopics.find(t => 
+        t.id === topicId || 
+        t.slug === topicId || 
+        (t.name && t.name.toLowerCase() === (topicId || '').toLowerCase()) ||
+        (t.name && t.name.toLowerCase() === (topicTitle || '').toLowerCase()) ||
+        (topicTitle && t.name && topicTitle.toLowerCase().includes(t.name.toLowerCase()))
+      );
+      if (match) {
+        topicId = match.id;
+        if (!topicTitle) topicTitle = match.name;
+      }
+    }
+  }
+
   currentFlashcardTopicId = topicId;
   currentFlashcardTopicTitle = topicTitle;
 

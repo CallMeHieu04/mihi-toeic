@@ -203,8 +203,34 @@ app.get('/api/practice', (req, res) => {
 
 // API: Get specific test detail (with on-demand crawl + caching)
 app.get('/api/test/:id', async (req, res) => {
-  const { id } = req.params;
-  const filePath = path.join(DATA_DIR, `${id}.json`);
+  let { id } = req.params;
+  let filePath = path.join(DATA_DIR, `${id}.json`);
+
+  // If file doesn't exist directly, resolve slug/name to actual ID from summaries
+  if (!fs.existsSync(filePath)) {
+    try {
+      const practiceSummaryPath = path.join(DATA_DIR, 'practice_summary.json');
+      if (fs.existsSync(practiceSummaryPath)) {
+        const pSummary = JSON.parse(fs.readFileSync(practiceSummaryPath, 'utf-8'));
+        for (const p of pSummary) {
+          const allItems = [...(p.byTopic || []), ...(p.byPart || []), ...(p.topics || []), ...(p.subTopics || []), ...(p.tests || [])];
+          const found = allItems.find(t => 
+            t.id === id || 
+            t.slug === id || 
+            (t.name && t.name.toLowerCase() === id.toLowerCase()) ||
+            (t.slug && t.slug.toLowerCase() === id.toLowerCase())
+          );
+          if (found && found.id) {
+            id = found.id;
+            filePath = path.join(DATA_DIR, `${id}.json`);
+            break;
+          }
+        }
+      }
+    } catch (e) {
+      console.error('Error resolving test/topic slug:', e);
+    }
+  }
 
   // Check local cache first
   if (fs.existsSync(filePath)) {
