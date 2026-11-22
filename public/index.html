@@ -504,11 +504,17 @@
       <!-- PANEL 1: 3D FLASHCARD STUDY MODE -->
       <div id="fc-study-panel" class="max-w-2xl mx-auto w-full px-4 pt-6 flex-1 flex flex-col items-center">
         
-        <!-- Progress Counter -->
+        <!-- Progress Counter & Quick Nav -->
         <div class="w-full flex items-center justify-between text-xs font-black text-slate-600 mb-3 px-2">
-          <div class="flex items-center gap-1.5">
+          <div class="flex items-center gap-2">
+            <button onclick="prevFlashcard()" id="fc-counter-prev" class="w-7 h-7 rounded-lg border border-slate-200 hover:bg-slate-100 flex items-center justify-center text-slate-600 transition disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer" title="Từ trước (<)">
+              <i data-lucide="chevron-left" class="w-4 h-4"></i>
+            </button>
             <span id="fc-progress-text" class="text-sm font-black text-slate-900">0/12</span>
             <span class="text-[#ff7733]">♦</span>
+            <button onclick="nextFlashcard()" id="fc-counter-next" class="w-7 h-7 rounded-lg border border-slate-200 hover:bg-slate-100 flex items-center justify-center text-slate-600 transition disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer" title="Từ tiếp theo (>)">
+              <i data-lucide="chevron-right" class="w-4 h-4"></i>
+            </button>
           </div>
           <button onclick="toggleFlagFlashcard()" id="fc-flag-btn" class="p-1.5 text-slate-400 hover:text-amber-500 rounded-lg transition" title="Đánh dấu từ này">
             <i data-lucide="flag" class="w-4 h-4"></i>
@@ -592,13 +598,21 @@
           </div>
         </div>
 
-        <!-- Rating Action Buttons (Chưa ghi nhớ / Đã ghi nhớ) -->
-        <div class="w-full max-w-[420px] flex items-center gap-3 mt-6">
-          <button onclick="markFlashcard(false)" class="flex-1 py-3 px-4 rounded-2xl bg-[#e52542] hover:bg-[#c91833] active:scale-98 text-white font-extrabold text-sm shadow-md shadow-rose-500/20 transition flex items-center justify-center gap-2">
+        <!-- Rating Action Buttons (Chưa ghi nhớ / Đã ghi nhớ) & Previous/Next Buttons -->
+        <div class="w-full max-w-[460px] flex items-center gap-2.5 mt-6">
+          <button onclick="prevFlashcard()" id="fc-btn-prev" class="w-12 h-12 rounded-2xl bg-white border border-slate-200 hover:bg-slate-100 text-slate-700 font-black shadow-xs flex items-center justify-center transition disabled:opacity-30 disabled:cursor-not-allowed flex-shrink-0 cursor-pointer" title="Quay về từ cũ (<)">
+            <i data-lucide="chevron-left" class="w-5 h-5"></i>
+          </button>
+          
+          <button onclick="markFlashcard(false)" class="flex-1 py-3.5 px-3 rounded-2xl bg-[#e52542] hover:bg-[#c91833] active:scale-98 text-white font-extrabold text-xs sm:text-sm shadow-md shadow-rose-500/20 transition flex items-center justify-center gap-1.5 cursor-pointer">
             <i data-lucide="x-circle" class="w-4 h-4"></i> Chưa ghi nhớ
           </button>
-          <button onclick="markFlashcard(true)" class="flex-1 py-3 px-4 rounded-2xl bg-[#0e9f6e] hover:bg-[#087f5b] active:scale-98 text-white font-extrabold text-sm shadow-md shadow-emerald-500/20 transition flex items-center justify-center gap-2">
+          <button onclick="markFlashcard(true)" class="flex-1 py-3.5 px-3 rounded-2xl bg-[#0e9f6e] hover:bg-[#087f5b] active:scale-98 text-white font-extrabold text-xs sm:text-sm shadow-md shadow-emerald-500/20 transition flex items-center justify-center gap-1.5 cursor-pointer">
             <i data-lucide="check-circle-2" class="w-4 h-4"></i> Đã ghi nhớ
+          </button>
+
+          <button onclick="nextFlashcard()" id="fc-btn-next" class="w-12 h-12 rounded-2xl bg-white border border-slate-200 hover:bg-slate-100 text-slate-700 font-black shadow-xs flex items-center justify-center transition disabled:opacity-30 disabled:cursor-not-allowed flex-shrink-0 cursor-pointer" title="Sang từ tiếp theo (>)">
+            <i data-lucide="chevron-right" class="w-5 h-5"></i>
           </button>
         </div>
 

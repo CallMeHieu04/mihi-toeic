@@ -2875,12 +2875,18 @@ function setupKeyboardShortcuts() {
       if (e.code === 'Space' || e.key.toUpperCase() === 'F') {
         e.preventDefault();
         flipFlashcard();
-      } else if (e.key === 'ArrowLeft' || e.key === '1') {
+      } else if (e.key === 'ArrowLeft' || e.key === '<' || e.key === ',') {
         e.preventDefault();
-        markFlashcard(false); // Chưa ghi nhớ
-      } else if (e.key === 'ArrowRight' || e.key === '2') {
+        prevFlashcard(); // Phím mũi tên trái hoặc < để quay về từ cũ
+      } else if (e.key === 'ArrowRight' || e.key === '>' || e.key === '.') {
         e.preventDefault();
-        markFlashcard(true); // Đã ghi nhớ
+        nextFlashcard(); // Phím mũi tên phải hoặc > để sang từ tiếp theo
+      } else if (e.key === '1') {
+        e.preventDefault();
+        markFlashcard(false); // Số 1: Chưa ghi nhớ
+      } else if (e.key === '2') {
+        e.preventDefault();
+        markFlashcard(true); // Số 2: Đã ghi nhớ
       } else if (e.key === 'ArrowUp' || e.key.toUpperCase() === 'R') {
         e.preventDefault();
         playFlashcardAudio();
@@ -3622,6 +3628,28 @@ function renderCurrentFlashcard() {
     }
   }
 
+  // Update Prev / Next button states
+  const prevBtns = [document.getElementById('fc-btn-prev'), document.getElementById('fc-counter-prev')];
+  const nextBtns = [document.getElementById('fc-btn-next'), document.getElementById('fc-counter-next')];
+  const isFirst = (flashcardIndex <= 0);
+  const isLast = (flashcardIndex >= currentFlashcards.length - 1);
+
+  prevBtns.forEach(btn => {
+    if (btn) {
+      btn.disabled = isFirst;
+      btn.classList.toggle('opacity-30', isFirst);
+      btn.classList.toggle('cursor-not-allowed', isFirst);
+    }
+  });
+
+  nextBtns.forEach(btn => {
+    if (btn) {
+      btn.disabled = isLast;
+      btn.classList.toggle('opacity-30', isLast);
+      btn.classList.toggle('cursor-not-allowed', isLast);
+    }
+  });
+
   // Update Overview Counters
   updateFlashcardOverview();
 
@@ -3674,6 +3702,22 @@ function toggleFlagFlashcard() {
   if (flagBtn) {
     if (flashcardFlags.has(card.id)) flagBtn.classList.add('text-amber-500');
     else flagBtn.classList.remove('text-amber-500');
+  }
+}
+
+function prevFlashcard(e) {
+  if (e) e.stopPropagation();
+  if (flashcardIndex > 0) {
+    flashcardIndex--;
+    renderCurrentFlashcard();
+  }
+}
+
+function nextFlashcard(e) {
+  if (e) e.stopPropagation();
+  if (flashcardIndex < currentFlashcards.length - 1) {
+    flashcardIndex++;
+    renderCurrentFlashcard();
   }
 }
 
