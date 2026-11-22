@@ -3720,21 +3720,42 @@ function cleanHtmlText(str) {
 }
 
 async function startFlashcardSession(topicId, topicTitle, onlyUnlearned = false) {
-  // Resolve topicId if it's a slug, title or name
+  // If practiceSummary is not loaded yet, fetch it
+  if (!practiceSummary) {
+    try {
+      const psResp = await fetch('/api/practice-summary');
+      if (psResp.ok) {
+        practiceSummary = await psResp.json();
+      }
+    } catch (e) {
+      console.warn('Could not preload practiceSummary:', e);
+    }
+  }
+
+  // Resolve topicId if it's a slug, title, localized name or empty
   if (practiceSummary) {
     const vocabData = practiceSummary.find(p => p.slug === 'vocabulary');
     if (vocabData) {
       const allVocabTopics = [...(vocabData.byTopic || []), ...(vocabData.byPart || [])];
+      const cleanTitle = (topicTitle || '').replace(/^Từ vựng:\s*/i, '').replace(/\s*\(.*?\)/g, '').trim().toLowerCase();
+      const cleanId = (topicId || '').replace(/^Từ vựng:\s*/i, '').replace(/\s*\(.*?\)/g, '').trim().toLowerCase();
+
       const match = allVocabTopics.find(t => 
-        t.id === topicId || 
-        t.slug === topicId || 
-        (t.name && t.name.toLowerCase() === (topicId || '').toLowerCase()) ||
-        (t.name && t.name.toLowerCase() === (topicTitle || '').toLowerCase()) ||
+        (t.id && t.id === topicId) || 
+        (t.slug && (t.slug === topicId || t.slug === cleanId)) || 
+        (t.name && t.name.toLowerCase() === cleanId) ||
+        (t.name && t.name.toLowerCase() === cleanTitle) ||
+        (cleanTitle && t.name && cleanTitle.includes(t.name.toLowerCase())) ||
+        (cleanTitle && t.name && t.name.toLowerCase().includes(cleanTitle)) ||
         (topicTitle && t.name && topicTitle.toLowerCase().includes(t.name.toLowerCase()))
       );
       if (match) {
         topicId = match.id;
         if (!topicTitle) topicTitle = match.name;
+      } else if (!topicId && allVocabTopics.length > 0) {
+        // Fallback to first available topic if id is completely missing
+        topicId = allVocabTopics[0].id;
+        if (!topicTitle) topicTitle = allVocabTopics[0].name;
       }
     }
   }
@@ -4424,7 +4445,7 @@ function openStreakModal() {
 }
 
 // ================= DAILY REMINDER & WEB NOTIFICATION ENGINE =================
-const REMINDER_STORAGE_KEY = 'mihi_reminder_settings_v1';
+const REMINDER_STORAGE_KEY = 'mihi_reminder_settings_v2';
 let swRegistration = null;
 
 function getReminderSettings() {
@@ -4433,18 +4454,40 @@ function getReminderSettings() {
     if (raw) {
       const parsed = JSON.parse(raw);
       if (parsed && typeof parsed.enabled === 'boolean') {
+        if (!parsed.morningTime) parsed.morningTime = '08:00';
+        if (!parsed.eveningTime) parsed.eveningTime = parsed.reminderTime || '20:00';
+        if (!('morningEnabled' in parsed)) parsed.morningEnabled = true;
+        if (!('eveningEnabled' in parsed)) parsed.eveningEnabled = true;
         return parsed;
       }
+    }
+    // Check legacy v1 settings
+    const legacyRaw = localStorage.getItem('mihi_reminder_settings_v1');
+    if (legacyRaw) {
+      const legacy = JSON.parse(legacyRaw);
+      return {
+        enabled: legacy.enabled ?? true,
+        morningEnabled: true,
+        morningTime: '08:00',
+        lastMorningNotifiedDate: null,
+        eveningEnabled: true,
+        eveningTime: legacy.reminderTime || '20:00',
+        lastEveningNotifiedDate: legacy.lastNotifiedDate || null
+      };
     }
   } catch (e) {
     console.error('Error reading reminder settings:', e);
   }
 
-  // Default reminder settings
+  // Default reminder settings: 8h sáng & 8h tối (20:00)
   const defaults = {
     enabled: true,
-    reminderTime: '20:00',
-    lastNotifiedDate: null
+    morningEnabled: true,
+    morningTime: '08:00',
+    lastMorningNotifiedDate: null,
+    eveningEnabled: true,
+    eveningTime: '20:00',
+    lastEveningNotifiedDate: null
   };
   saveReminderSettings(defaults);
   return defaults;
@@ -4487,11 +4530,11 @@ function updateReminderBellUI() {
   if (settings.enabled && hasPermission) {
     dot.classList.remove('hidden');
     btn.classList.add('text-indigo-600', 'bg-indigo-50');
-    btn.title = `Nhắc nhở học hàng ngày: BẬT (${settings.reminderTime})`;
+    btn.title = `Nhắc nhở học: 8h Sáng (${settings.morningTime}) & 8h Tối (${settings.eveningTime})`;
   } else {
     dot.classList.add('hidden');
     btn.classList.remove('text-indigo-600', 'bg-indigo-50');
-    btn.title = 'Cài đặt thông báo nhắc học';
+    btn.title = 'Cài đặt thông báo nhắc học (8h Sáng & 8h Tối)';
   }
 }
 
@@ -4537,7 +4580,7 @@ async function sendBrowserNotification(title, options = {}) {
   }
 }
 
-async function testReminderNotificationNow() {
+async function testReminderNotificationNow(type = 'morning') {
   const hasPerm = ('Notification' in window) && Notification.permission === 'granted';
   if (!hasPerm) {
     const granted = await requestReminderPermission();
@@ -4549,13 +4592,29 @@ async function testReminderNotificationNow() {
 
   const settings = getReminderSettings();
   const streak = getStreakData();
+  const now = new Date();
+  const dayOfWeek = now.getDay();
 
-  await sendBrowserNotification('🔥 MiHi TOEIC: Chào Minh Hiếu!', {
-    body: `Thông báo nhắc học đã hoạt động cực tốt! Mỗi ngày lúc ${settings.reminderTime} tớ sẽ nhắc bạn giữ chuỗi Streak ${streak.currentStreak} ngày nhé!`,
-    tag: 'mihi-test-notification'
-  });
+  if (type === 'morning') {
+    await sendBrowserNotification('🌅 MiHi TOEIC: Chào buổi sáng Minh Hiếu!', {
+      body: `Mục tiêu hôm nay: Dành 20-30 phút mở Flashcard học 1 chủ đề từ vựng & ôn từ cũ nhé! 🔥 Chuỗi: ${streak.currentStreak} ngày.`,
+      tag: 'mihi-test-morning-notification'
+    });
+    alert('Đã gửi thông báo Buổi Sáng thử nghiệm (8h00)! Kiểm tra màn hình nhé 🔔');
+  } else {
+    let focusText = 'Đọc 1 chuyên đề Ngữ pháp + Luyện Reading Part 5 & 7';
+    if (dayOfWeek === 0) {
+      focusText = 'Làm 1 đề Mini Test hoặc Full Test 200 câu';
+    } else if (dayOfWeek === 1 || dayOfWeek === 3 || dayOfWeek === 5) {
+      focusText = 'Luyện 2-3 bài Listening Part 1/2 hoặc Part 3/4 + Xem transcript';
+    }
 
-  alert('Đã gửi thông báo thử nghiệm! Kiểm tra thanh thông báo / góc màn hình của bạn nhé 🔔');
+    await sendBrowserNotification('🔥 MiHi TOEIC: Minh Hiếu ơi! Nguy cơ mất Streak!', {
+      body: `Hôm nay bạn chưa học bài! Chuỗi ${streak.currentStreak} ngày sắp tắt. Tối nay theo lịch: ${focusText} (60-80 phút). Vào học ngay nào!`,
+      tag: 'mihi-test-evening-notification'
+    });
+    alert('Đã gửi thông báo Cứu Streak Buổi Tối thử nghiệm (20h00)! Kiểm tra màn hình nhé 🔥');
+  }
 }
 
 async function checkDailyReminderScheduler() {
@@ -4564,26 +4623,50 @@ async function checkDailyReminderScheduler() {
   if (!('Notification' in window) || Notification.permission !== 'granted') return;
 
   const today = getLocalDateString();
-  if (settings.lastNotifiedDate === today) return; // Already reminded today
-
-  // Check if today is already studied
   const streak = getStreakData();
-  if (streak.lastActiveDate === today) return; // Already finished today's study!
-
-  // Check current time
   const now = new Date();
   const currentHours = String(now.getHours()).padStart(2, '0');
   const currentMins = String(now.getMinutes()).padStart(2, '0');
   const currentTimeStr = `${currentHours}:${currentMins}`;
+  const dayOfWeek = now.getDay();
 
-  if (currentTimeStr >= settings.reminderTime) {
-    // Send the daily reminder!
-    await sendBrowserNotification('🔥 MiHi TOEIC: Minh Hiếu ơi!', {
-      body: `Ngọn lửa Streak ${streak.currentStreak} ngày của bạn sắp tắt rồi! Vào lướt 5 từ vựng (2 phút) để giữ chuỗi ngay nào!`,
-      tag: 'mihi-daily-streak-reminder'
+  let changed = false;
+
+  // 1. Morning Reminder (08:00 AM)
+  if (settings.morningEnabled && settings.lastMorningNotifiedDate !== today && currentTimeStr >= (settings.morningTime || '08:00')) {
+    await sendBrowserNotification('🌅 Chào buổi sáng Minh Hiếu! Cùng học MiHi TOEIC nào!', {
+      body: `Dành 20-30 phút mở Flashcard học 1 chủ đề từ vựng và ôn từ cũ nhé! 🔥 Chuỗi Streak hiện tại: ${streak.currentStreak} ngày.`,
+      tag: 'mihi-morning-reminder'
     });
+    settings.lastMorningNotifiedDate = today;
+    changed = true;
+  }
 
-    settings.lastNotifiedDate = today;
+  // 2. Evening Streak Rescue Alert (20:00 PM / 8h Tối)
+  if (settings.eveningEnabled && settings.lastEveningNotifiedDate !== today && currentTimeStr >= (settings.eveningTime || '20:00')) {
+    // ONLY send if user has NOT studied today!
+    if (streak.lastActiveDate !== today) {
+      let eveningMsg = `Chuỗi Streak ${streak.currentStreak} ngày của bạn sắp tắt rồi!`;
+      if (dayOfWeek === 0) {
+        eveningMsg = `Chủ Nhật: Dành 90 phút làm đề Mini Test / Full Test và chữa cặn kẽ để giữ chuỗi Streak ${streak.currentStreak} ngày nhé!`;
+      } else if (dayOfWeek === 1 || dayOfWeek === 3 || dayOfWeek === 5) {
+        eveningMsg = `Thứ ${dayOfWeek + 1} (Listening): Luyện 2-3 bài Part 1/2 hoặc Part 3/4 (60-80 phút) để giữ chuỗi Streak ${streak.currentStreak} ngày nhé!`;
+      } else {
+        eveningMsg = `Thứ ${dayOfWeek + 1} (Reading): Ôn 1 bài Ngữ pháp & Luyện Reading Part 5/7 (60-80 phút) để giữ chuỗi Streak ${streak.currentStreak} ngày nhé!`;
+      }
+
+      await sendBrowserNotification('🔥 Minh Hiếu ơi! Nguy cơ mất chuỗi Streak!', {
+        body: eveningMsg,
+        tag: 'mihi-evening-streak-alert'
+      });
+    }
+
+    // Mark as checked today so it doesn't repeatedly notify
+    settings.lastEveningNotifiedDate = today;
+    changed = true;
+  }
+
+  if (changed) {
     saveReminderSettings(settings);
   }
 }
@@ -4598,7 +4681,7 @@ function openReminderSettingsModal() {
 
   const modalHtml = `
     <div id="reminder-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-150">
-      <div class="bg-white rounded-3xl max-w-md w-full p-6 sm:p-7 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150">
+      <div class="bg-white rounded-3xl max-w-lg w-full p-6 sm:p-7 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150 max-h-[90vh] overflow-y-auto">
         <!-- Close button -->
         <button onclick="closeModal('reminder-modal')" class="absolute top-4 right-4 w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-500 flex items-center justify-center transition cursor-pointer">
           ✕
@@ -4609,10 +4692,10 @@ function openReminderSettingsModal() {
             🔔
           </div>
           <h3 class="text-2xl font-black text-slate-900 tracking-tight">
-            Nhắc Nhở Học Hàng Ngày
+            Lịch Nhắc Nhở Học Tập & Cứu Streak
           </h3>
           <p class="text-xs text-slate-500 font-medium mt-1">
-            Gửi thông báo nhắc nhở lên điện thoại để không bao giờ bị tắt ngọn lửa Streak 🔥
+            Nhắc nhở thông minh: 8h sáng khơi gợi cảm hứng và 8h tối cảnh báo cứu chuỗi Streak 🔥
           </p>
         </div>
 
@@ -4621,7 +4704,7 @@ function openReminderSettingsModal() {
           <div class="flex items-center gap-2">
             <span class="text-base">${hasPermission ? '✅' : (isDenied ? '❌' : '⚠️')}</span>
             <span class="font-bold">
-              ${hasPermission ? 'Đã cấp quyền thông báo' : (isDenied ? 'Bạn đã chặn quyền thông báo' : 'Chưa cấp quyền thông báo')}
+              ${hasPermission ? 'Đã bật quyền thông báo trên thiết bị' : (isDenied ? 'Bạn đã chặn quyền thông báo' : 'Chưa cấp quyền thông báo')}
             </span>
           </div>
           ${!hasPermission ? `
@@ -4633,36 +4716,80 @@ function openReminderSettingsModal() {
 
         <!-- Settings Form -->
         <div class="space-y-4 mb-6">
-          <!-- Toggle reminder -->
+          <!-- Master Toggle -->
           <div class="flex items-center justify-between p-3.5 rounded-2xl bg-slate-50 border border-slate-200/80">
             <div>
-              <div class="text-xs font-black text-slate-800">Bật nhắc nhở mỗi ngày</div>
-              <div class="text-[11px] text-slate-500 mt-0.5">Tự động nhắc nếu hôm đó chưa học bài</div>
+              <div class="text-xs font-black text-slate-800">Bật hệ thống nhắc nhở tự động</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Tự động gửi thông báo theo lịch trình học tập mỗi ngày</div>
             </div>
             <label class="relative inline-flex items-center cursor-pointer">
-              <input type="checkbox" id="reminder-toggle-input" ${settings.enabled ? 'checked' : ''} onchange="toggleReminderSetting(this.checked)" class="sr-only peer">
+              <input type="checkbox" id="reminder-toggle-input" ${settings.enabled ? 'checked' : ''} onchange="toggleMasterReminder(this.checked)" class="sr-only peer">
               <div class="w-11 h-6 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-[#5648ee]"></div>
             </label>
           </div>
 
-          <!-- Time Picker -->
-          <div class="p-3.5 rounded-2xl bg-slate-50 border border-slate-200/80">
-            <div class="text-xs font-black text-slate-800 mb-2">Khung giờ nhắc nhở (Tối hàng ngày)</div>
-            <div class="grid grid-cols-4 gap-2">
-              ${['19:00', '20:00', '21:00', '22:00'].map(t => `
-                <button onclick="setReminderTime('${t}')" class="py-2 rounded-xl text-xs font-black transition cursor-pointer ${settings.reminderTime === t ? 'bg-[#5648ee] text-white shadow-xs' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-100'}">
+          <!-- Morning 8h Schedule Box -->
+          <div class="p-4 rounded-2xl bg-amber-50/60 border border-amber-200/80">
+            <div class="flex items-center justify-between mb-2">
+              <div class="flex items-center gap-2">
+                <span class="text-base">🌅</span>
+                <div>
+                  <div class="text-xs font-black text-amber-950">1. Nhắc nhở Buổi Sáng (Mặc định 8h00)</div>
+                  <div class="text-[11px] text-amber-800 font-medium">Học Flashcard 1 chủ đề từ vựng (20-30 phút)</div>
+                </div>
+              </div>
+              <label class="relative inline-flex items-center cursor-pointer">
+                <input type="checkbox" ${settings.morningEnabled ? 'checked' : ''} onchange="toggleMorningReminder(this.checked)" class="sr-only peer">
+                <div class="w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-amber-600"></div>
+              </label>
+            </div>
+            <div class="grid grid-cols-4 gap-2 mt-2.5">
+              ${['07:00', '07:30', '08:00', '08:30'].map(t => `
+                <button onclick="setMorningTime('${t}')" class="py-1.5 rounded-xl text-xs font-black transition cursor-pointer ${settings.morningTime === t ? 'bg-amber-600 text-white shadow-xs' : 'bg-white border border-amber-200 text-amber-900 hover:bg-amber-100/60'}">
                   ${t}
                 </button>
               `).join('')}
             </div>
           </div>
+
+          <!-- Evening 8h (20h) Streak Rescue Box -->
+          <div class="p-4 rounded-2xl bg-rose-50/60 border border-rose-200/80">
+            <div class="flex items-center justify-between mb-2">
+              <div class="flex items-center gap-2">
+                <span class="text-base">🔥</span>
+                <div>
+                  <div class="text-xs font-black text-rose-950">2. Cảnh Báo Cứu Streak Buổi Tối (Mặc định 20h00)</div>
+                  <div class="text-[11px] text-rose-800 font-medium">Chỉ thông báo nếu bạn chưa học bài hôm đó!</div>
+                </div>
+              </div>
+              <label class="relative inline-flex items-center cursor-pointer">
+                <input type="checkbox" ${settings.eveningEnabled ? 'checked' : ''} onchange="toggleEveningReminder(this.checked)" class="sr-only peer">
+                <div class="w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-rose-600"></div>
+              </label>
+            </div>
+            <div class="grid grid-cols-4 gap-2 mt-2.5">
+              ${['19:30', '20:00', '20:30', '21:00'].map(t => `
+                <button onclick="setEveningTime('${t}')" class="py-1.5 rounded-xl text-xs font-black transition cursor-pointer ${settings.eveningTime === t ? 'bg-rose-600 text-white shadow-xs' : 'bg-white border border-rose-200 text-rose-900 hover:bg-rose-100/60'}">
+                  ${t}
+                </button>
+              `).join('')}
+            </div>
+            <p class="text-[10px] text-rose-700/90 font-medium mt-2">
+              ✨ <em>Nếu hôm đó bạn đã học bài rồi, thông báo buổi tối sẽ tự động tắt để không làm phiền bạn!</em>
+            </p>
+          </div>
         </div>
 
         <!-- Buttons -->
         <div class="space-y-2.5">
-          <button onclick="testReminderNotificationNow()" class="w-full py-3.5 px-4 rounded-2xl bg-gradient-to-r from-indigo-600 to-[#5648ee] hover:brightness-105 active:scale-98 text-white font-black text-sm shadow-md shadow-indigo-500/25 flex items-center justify-center gap-2 transition cursor-pointer">
-            <i data-lucide="bell" class="w-4 h-4"></i> Gửi thông báo thử nghiệm ngay
-          </button>
+          <div class="grid grid-cols-2 gap-2">
+            <button onclick="testReminderNotificationNow('morning')" class="py-3 px-3 rounded-2xl bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-200 font-black text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
+              🌅 Thử thông báo 8h Sáng
+            </button>
+            <button onclick="testReminderNotificationNow('evening')" class="py-3 px-3 rounded-2xl bg-rose-50 hover:bg-rose-100 text-rose-900 border border-rose-200 font-black text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
+              🔥 Thử thông báo 8h Tối
+            </button>
+          </div>
           <button onclick="closeModal('reminder-modal')" class="w-full py-3 px-4 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs transition cursor-pointer">
             Đóng
           </button>
@@ -4671,7 +4798,7 @@ function openReminderSettingsModal() {
         <!-- Note for mobile users -->
         <div class="mt-4 text-center">
           <p class="text-[11px] text-slate-400 leading-relaxed">
-            💡 <strong>Mẹo trên điện thoại:</strong> Mở trang web ➔ chọn <em>"Thêm vào Màn hình chính (Add to Home Screen)"</em> để nhận thông báo đẩy mượt mà như app thật nhé!
+            💡 <strong>Mẹo trên điện thoại:</strong> Mở trang web trên Safari/Chrome ➔ chọn <em>"Thêm vào Màn hình chính (Add to Home Screen)"</em> để nhận thông báo đẩy mượt mà như app thật nhé!
           </p>
         </div>
       </div>
@@ -4682,7 +4809,7 @@ function openReminderSettingsModal() {
   if (window.lucide) lucide.createIcons();
 }
 
-function toggleReminderSetting(isEnabled) {
+function toggleMasterReminder(isEnabled) {
   const settings = getReminderSettings();
   settings.enabled = isEnabled;
   saveReminderSettings(settings);
@@ -4692,9 +4819,33 @@ function toggleReminderSetting(isEnabled) {
   }
 }
 
-function setReminderTime(timeStr) {
+function toggleMorningReminder(isEnabled) {
   const settings = getReminderSettings();
-  settings.reminderTime = timeStr;
+  settings.morningEnabled = isEnabled;
+  saveReminderSettings(settings);
+  updateReminderBellUI();
+  openReminderSettingsModal();
+}
+
+function toggleEveningReminder(isEnabled) {
+  const settings = getReminderSettings();
+  settings.eveningEnabled = isEnabled;
+  saveReminderSettings(settings);
+  updateReminderBellUI();
+  openReminderSettingsModal();
+}
+
+function setMorningTime(timeStr) {
+  const settings = getReminderSettings();
+  settings.morningTime = timeStr;
+  saveReminderSettings(settings);
+  updateReminderBellUI();
+  openReminderSettingsModal();
+}
+
+function setEveningTime(timeStr) {
+  const settings = getReminderSettings();
+  settings.eveningTime = timeStr;
   saveReminderSettings(settings);
   updateReminderBellUI();
   openReminderSettingsModal();

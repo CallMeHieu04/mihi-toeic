@@ -209,6 +209,12 @@ app.get('/api/test/:id', async (req, res) => {
   // If file doesn't exist directly, resolve slug/name to actual ID from summaries
   if (!fs.existsSync(filePath)) {
     try {
+      const cleanId = decodeURIComponent(String(id || ''))
+        .replace(/^Từ vựng:\s*/i, '')
+        .replace(/^Ngữ pháp:\s*/i, '')
+        .replace(/\s*\(.*?\)/g, '')
+        .trim().toLowerCase();
+
       const practiceSummaryPath = path.join(DATA_DIR, 'practice_summary.json');
       if (fs.existsSync(practiceSummaryPath)) {
         const pSummary = JSON.parse(fs.readFileSync(practiceSummaryPath, 'utf-8'));
@@ -218,7 +224,10 @@ app.get('/api/test/:id', async (req, res) => {
             t.id === id || 
             t.slug === id || 
             (t.name && t.name.toLowerCase() === id.toLowerCase()) ||
-            (t.slug && t.slug.toLowerCase() === id.toLowerCase())
+            (t.slug && t.slug.toLowerCase() === id.toLowerCase()) ||
+            (cleanId && t.slug && t.slug.toLowerCase() === cleanId) ||
+            (cleanId && t.name && t.name.toLowerCase() === cleanId) ||
+            (cleanId && t.name && t.name.toLowerCase().includes(cleanId))
           );
           if (found && found.id) {
             id = found.id;
