@@ -440,24 +440,74 @@ app.post('/api/submit', (req, res) => {
   }
   history.unshift({
     id: resultRecord.id,
+    type: 'test',
     testId: resultRecord.testId,
     testTitle: resultRecord.testTitle,
+    title: resultRecord.testTitle,
+    subtitle: `Hoàn thành ${resultRecord.correctCount}/${resultRecord.totalQuestions} câu`,
+    badge: 'Bài thi',
     date: resultRecord.date,
     score: resultRecord.score.totalScore,
     accuracy: Math.round((correctCount / testData.totalQuestions) * 100),
     timeSpentSeconds: resultRecord.timeSpentSeconds
   });
+  if (history.length > 300) history = history.slice(0, 300);
   fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf-8');
 
   res.json(resultRecord);
+});
+
+// API: Save custom study activity (vocabulary, grammar, lessons)
+app.post('/api/history/activity', (req, res) => {
+  const { type, title, subtitle, badge, score, accuracy, details } = req.body;
+  if (!title) {
+    return res.status(400).json({ error: 'Title is required' });
+  }
+
+  const activityRecord = {
+    id: Date.now().toString(),
+    type: type || 'activity', // 'vocabulary' | 'grammar' | 'practice' | 'test'
+    title,
+    subtitle: subtitle || '',
+    badge: badge || (type === 'vocabulary' ? 'Từ vựng' : type === 'grammar' ? 'Ngữ pháp' : 'Hoạt động'),
+    score: score !== undefined ? score : null,
+    accuracy: typeof accuracy === 'number' ? accuracy : null,
+    date: new Date().toISOString(),
+    details: details || {}
+  };
+
+  const historyPath = path.join(DATA_DIR, 'history.json');
+  let history = [];
+  if (fs.existsSync(historyPath)) {
+    try {
+      history = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
+    } catch (e) {}
+  }
+
+  // Prevent duplicate logs if identical activity logged within last 3 minutes
+  const recentDuplicate = history.find(h => 
+    h.title === activityRecord.title && 
+    h.type === activityRecord.type &&
+    (Date.now() - new Date(h.date).getTime()) < 180000
+  );
+
+  if (!recentDuplicate) {
+    history.unshift(activityRecord);
+    if (history.length > 300) history = history.slice(0, 300);
+    fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf-8');
+  }
+
+  res.json({ success: true, record: activityRecord });
 });
 
 // API: Get study history
 app.get('/api/history', (req, res) => {
   const historyPath = path.join(DATA_DIR, 'history.json');
   if (fs.existsSync(historyPath)) {
-    const data = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
-    return res.json(data);
+    try {
+      const data = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
+      return res.json(data);
+    } catch (e) {}
   }
   res.json([]);
 });

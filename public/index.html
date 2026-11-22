@@ -1196,16 +1196,42 @@
 
     <!-- ================= VIEW 5: HISTORY ================= -->
     <div id="view-history" class="view-panel hidden max-w-5xl mx-auto px-4 py-10">
-      <div class="bg-white p-8 rounded-3xl shadow-sm border border-slate-200">
-        <div class="flex items-center justify-between mb-6 pb-4 border-b border-slate-100">
+      <div class="bg-white p-6 sm:p-8 rounded-3xl shadow-sm border border-slate-200">
+        <!-- Header -->
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6 pb-5 border-b border-slate-100">
           <div>
-            <h2 class="text-2xl font-extrabold text-slate-900">Lịch sử Luyện thi & Báo cáo Điểm số</h2>
-            <p class="text-sm text-slate-500 mt-1">Theo dõi tiến trình tăng điểm TOEIC của bạn qua từng bài thi.</p>
+            <div class="flex items-center gap-2 mb-1">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase bg-indigo-50 text-[#5648ee]">Nhật Ký Học Tập</span>
+              <h2 class="text-2xl font-black text-slate-900">Lịch Sử Hoạt Động & Điểm Số</h2>
+            </div>
+            <p class="text-xs sm:text-sm text-slate-500">Lưu lại toàn bộ bài thi thử, chuyên đề ngữ pháp và các chủ đề từ vựng bạn đã hoàn thành.</p>
           </div>
-          <button onclick="showView('home')" class="px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-bold transition">
-            Về trang chủ
+          <button onclick="showView('home')" class="self-start sm:self-auto px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs font-bold transition flex items-center gap-1.5 cursor-pointer">
+            <i data-lucide="arrow-left" class="w-3.5 h-3.5"></i> Về trang chủ
           </button>
         </div>
+
+        <!-- Summary Stats Cards -->
+        <div id="history-summary-stats" class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <!-- Filter Tabs (Tất cả, Đề thi, Từ vựng, Ngữ pháp) -->
+        <div class="flex items-center gap-2 mb-6 overflow-x-auto pb-1 border-b border-slate-100">
+          <button onclick="filterHistory('all')" id="hist-filter-all" class="hist-filter-btn px-4 py-2.5 rounded-xl text-xs font-extrabold bg-[#5648ee] text-white shadow-xs transition cursor-pointer flex items-center gap-1.5">
+            <i data-lucide="layers" class="w-3.5 h-3.5"></i> Tất cả hoạt động
+          </button>
+          <button onclick="filterHistory('test')" id="hist-filter-test" class="hist-filter-btn px-4 py-2.5 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition cursor-pointer flex items-center gap-1.5">
+            <i data-lucide="award" class="w-3.5 h-3.5 text-indigo-600"></i> Đề thi & Luyện tập
+          </button>
+          <button onclick="filterHistory('vocabulary')" id="hist-filter-vocabulary" class="hist-filter-btn px-4 py-2.5 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition cursor-pointer flex items-center gap-1.5">
+            <i data-lucide="sparkles" class="w-3.5 h-3.5 text-orange-500"></i> Từ vựng (Flashcard/Quiz)
+          </button>
+          <button onclick="filterHistory('grammar')" id="hist-filter-grammar" class="hist-filter-btn px-4 py-2.5 rounded-xl text-xs font-extrabold bg-slate-100 hover:bg-slate-200 text-slate-700 transition cursor-pointer flex items-center gap-1.5">
+            <i data-lucide="book-open" class="w-3.5 h-3.5 text-emerald-600"></i> Ngữ pháp
+          </button>
+        </div>
+
         <div id="history-container"></div>
       </div>
     </div>

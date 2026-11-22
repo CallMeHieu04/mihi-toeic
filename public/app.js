@@ -727,6 +727,20 @@ async function openLessonReader(lessonId, lessonTitle) {
   const displayTitle = (activeTopic && activeTopic.titleVi) ? activeTopic.titleVi : lessonTitle;
   const initialContent = contentVi || contentEn || '<p class="text-slate-500">Chưa có bài viết lý thuyết chi tiết cho phần này.</p>';
 
+  // Log grammar study activity
+  recordStudyHistoryActivity({
+    type: 'grammar',
+    title: `Ngữ pháp: ${displayTitle || lessonTitle}`,
+    subtitle: 'Đã hoàn thành xem lý thuyết & phương pháp làm bài',
+    badge: 'Lý thuyết',
+    score: 'Đã xem',
+    accuracy: 100,
+    details: {
+      lessonId,
+      lessonTitle: displayTitle || lessonTitle
+    }
+  });
+
   const modalHtml = `
     <div id="lesson-reader-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/65 backdrop-blur-xs">
       <div class="bg-white rounded-3xl p-6 sm:p-8 max-w-4xl w-full max-h-[90vh] flex flex-col shadow-2xl animate-in fade-in zoom-in duration-150">
@@ -2817,56 +2831,248 @@ function renderReviewList() {
   if (window.lucide) lucide.createIcons();
 }
 
-// ================= STUDY HISTORY =================
+// ================= STUDY HISTORY & COMPREHENSIVE ACTIVITY LOGGER =================
+let studyHistoryList = [];
+let currentHistoryFilter = 'all';
+
+async function recordStudyHistoryActivity(activity) {
+  if (!activity || !activity.title) return;
+
+  const payload = {
+    type: activity.type || 'activity',
+    title: activity.title,
+    subtitle: activity.subtitle || '',
+    badge: activity.badge || (activity.type === 'vocabulary' ? 'Từ vựng' : activity.type === 'grammar' ? 'Ngữ pháp' : 'Bài thi'),
+    score: activity.score !== undefined ? activity.score : null,
+    accuracy: typeof activity.accuracy === 'number' ? activity.accuracy : null,
+    details: activity.details || {}
+  };
+
+  try {
+    fetch('/api/history/activity', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    }).catch(err => console.error('Error posting history activity:', err));
+
+    // Also update client memory
+    const clientRecord = {
+      ...payload,
+      id: Date.now().toString(),
+      date: new Date().toISOString()
+    };
+    
+    // Check local duplicate within 3 mins
+    const dupIdx = studyHistoryList.findIndex(h => 
+      h.title === clientRecord.title && 
+      h.type === clientRecord.type &&
+      (Date.now() - new Date(h.date).getTime()) < 180000
+    );
+    if (dupIdx !== -1) {
+      studyHistoryList[dupIdx] = clientRecord;
+    } else {
+      studyHistoryList.unshift(clientRecord);
+    }
+  } catch (err) {
+    console.error('Error in recordStudyHistoryActivity:', err);
+  }
+}
 
 async function loadStudyHistory() {
   const container = document.getElementById('history-container');
   if (!container) return;
 
+  container.innerHTML = `
+    <div class="text-center py-12 text-slate-400">
+      <div class="w-8 h-8 border-2 border-indigo-600 border-t-transparent rounded-full animate-spin mx-auto mb-3"></div>
+      <p class="font-bold text-xs text-slate-500">Đang tải nhật ký hoạt động...</p>
+    </div>
+  `;
+
   try {
     const resp = await fetch('/api/history');
-    const history = await resp.json();
-
-    if (!history || history.length === 0) {
-      container.innerHTML = `
-        <div class="text-center py-12 text-slate-400">
-          <i data-lucide="inbox" class="w-12 h-12 mx-auto stroke-1 mb-2"></i>
-          <p class="font-semibold text-sm">Chưa có lịch sử làm bài nào.</p>
-          <button onclick="switchTab('fulltest')" class="mt-4 px-5 py-2.5 rounded-xl bg-[#5648ee] text-white font-bold text-xs">
-            Làm bài thi ngay
-          </button>
-        </div>
-      `;
-      if (window.lucide) lucide.createIcons();
-      return;
+    if (resp.ok) {
+      studyHistoryList = await resp.json();
     }
+  } catch (err) {
+    console.error('Error fetching history:', err);
+  }
 
-    container.innerHTML = `
-      <div class="divide-y divide-slate-100">
-        ${history.map(item => `
-          <div class="py-4 flex flex-wrap items-center justify-between gap-4">
-            <div>
-              <h4 class="font-bold text-base text-slate-900">${item.testTitle || 'TOEIC Test'}</h4>
-              <div class="text-xs text-slate-400 mt-1">${new Date(item.date).toLocaleString('vi-VN')}</div>
-            </div>
-            <div class="flex items-center gap-6">
-              <div class="text-right">
-                <div class="text-2xl font-black text-[#5648ee]">${item.score}</div>
-                <div class="text-[11px] font-semibold text-slate-500">Độ chính xác: ${item.accuracy}%</div>
-              </div>
-              <button onclick="startTest('${item.testId}', '${item.testTitle}', false)" class="px-4 py-2 rounded-xl bg-slate-100 hover:bg-[#5648ee] hover:text-white text-slate-700 font-bold text-xs transition">
-                Làm lại
-              </button>
-            </div>
-          </div>
-        `).join('')}
+  renderHistoryView();
+}
+
+function filterHistory(filterType) {
+  currentHistoryFilter = filterType;
+
+  // Update button active states
+  document.querySelectorAll('.hist-filter-btn').forEach(btn => {
+    btn.classList.remove('bg-[#5648ee]', 'text-white', 'shadow-xs');
+    btn.classList.add('bg-slate-100', 'text-slate-700');
+  });
+
+  const activeBtn = document.getElementById(`hist-filter-${filterType}`);
+  if (activeBtn) {
+    activeBtn.classList.remove('bg-slate-100', 'text-slate-700');
+    activeBtn.classList.add('bg-[#5648ee]', 'text-white', 'shadow-xs');
+  }
+
+  renderHistoryView();
+}
+
+function renderHistoryView() {
+  const container = document.getElementById('history-container');
+  const statsContainer = document.getElementById('history-summary-stats');
+  if (!container) return;
+
+  const totalActivities = studyHistoryList.length;
+  const testCount = studyHistoryList.filter(item => (item.type === 'test' || !item.type)).length;
+  const vocabCount = studyHistoryList.filter(item => item.type === 'vocabulary').length;
+  const grammarCount = studyHistoryList.filter(item => item.type === 'grammar').length;
+
+  // Render Stats Cards
+  if (statsContainer) {
+    statsContainer.innerHTML = `
+      <div class="p-3.5 rounded-2xl bg-slate-50 border border-slate-200/80">
+        <div class="text-[10px] font-extrabold uppercase tracking-wider text-slate-400">Tổng hoạt động</div>
+        <div class="text-2xl font-black text-slate-900 mt-1">${totalActivities}</div>
+      </div>
+      <div class="p-3.5 rounded-2xl bg-indigo-50/80 border border-indigo-100">
+        <div class="text-[10px] font-extrabold uppercase tracking-wider text-indigo-500">Đề thi & Luyện tập</div>
+        <div class="text-2xl font-black text-[#5648ee] mt-1">${testCount}</div>
+      </div>
+      <div class="p-3.5 rounded-2xl bg-orange-50/80 border border-orange-100">
+        <div class="text-[10px] font-extrabold uppercase tracking-wider text-orange-500">Chủ đề từ vựng</div>
+        <div class="text-2xl font-black text-orange-600 mt-1">${vocabCount}</div>
+      </div>
+      <div class="p-3.5 rounded-2xl bg-emerald-50/80 border border-emerald-100">
+        <div class="text-[10px] font-extrabold uppercase tracking-wider text-emerald-600">Ngữ pháp đã học</div>
+        <div class="text-2xl font-black text-emerald-700 mt-1">${grammarCount}</div>
       </div>
     `;
-
-    if (window.lucide) lucide.createIcons();
-  } catch (err) {
-    container.innerHTML = `<div class="text-red-500 text-sm">Lỗi tải lịch sử: ${err.message}</div>`;
   }
+
+  // Filter items
+  const filtered = studyHistoryList.filter(item => {
+    if (currentHistoryFilter === 'all') return true;
+    if (currentHistoryFilter === 'test') return (item.type === 'test' || !item.type);
+    return item.type === currentHistoryFilter;
+  });
+
+  if (filtered.length === 0) {
+    container.innerHTML = `
+      <div class="text-center py-16 text-slate-400">
+        <div class="w-14 h-14 mx-auto rounded-2xl bg-slate-100 flex items-center justify-center text-slate-400 mb-3">
+          <i data-lucide="inbox" class="w-7 h-7 stroke-1"></i>
+        </div>
+        <p class="font-extrabold text-base text-slate-700">Chưa có dữ liệu cho mục này</p>
+        <p class="text-xs text-slate-400 mt-1">Hãy bắt đầu học từ vựng, ngữ pháp hoặc làm bài thi thử để ghi lại lịch sử nhé!</p>
+        <div class="flex items-center justify-center gap-3 mt-5 flex-wrap">
+          <button onclick="switchTab('vocabulary')" class="px-4 py-2 rounded-xl bg-orange-500 text-white font-bold text-xs shadow-xs hover:bg-orange-600 transition cursor-pointer">
+            Học từ vựng
+          </button>
+          <button onclick="switchTab('grammar')" class="px-4 py-2 rounded-xl bg-emerald-600 text-white font-bold text-xs shadow-xs hover:bg-emerald-700 transition cursor-pointer">
+            Học ngữ pháp
+          </button>
+          <button onclick="switchTab('fulltest')" class="px-4 py-2 rounded-xl bg-[#5648ee] text-white font-bold text-xs shadow-xs hover:bg-indigo-600 transition cursor-pointer">
+            Làm bài test
+          </button>
+        </div>
+      </div>
+    `;
+    if (window.lucide) lucide.createIcons();
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="divide-y divide-slate-100">
+      ${filtered.map(item => {
+        const itemType = item.type || 'test';
+        let badgeHtml = '';
+        let iconHtml = '';
+        let actionBtnHtml = '';
+
+        if (itemType === 'vocabulary') {
+          badgeHtml = `<span class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase bg-orange-100 text-orange-700">Từ vựng</span>`;
+          iconHtml = `
+            <div class="w-10 h-10 rounded-xl bg-orange-50 text-orange-600 border border-orange-100 flex items-center justify-center font-black flex-shrink-0">
+              <i data-lucide="sparkles" class="w-5 h-5"></i>
+            </div>
+          `;
+          const topicId = item.details?.topicId || '';
+          const topicTitle = (item.details?.topicTitle || item.title).replace(/'/g, "\\'");
+          actionBtnHtml = `
+            <button onclick="startFlashcardSession('${topicId}', '${topicTitle}')" class="px-3.5 py-2 rounded-xl bg-orange-50 hover:bg-orange-100 text-orange-700 font-extrabold text-xs transition flex items-center gap-1.5 cursor-pointer">
+              <i data-lucide="refresh-cw" class="w-3.5 h-3.5"></i> Học lại
+            </button>
+          `;
+        } else if (itemType === 'grammar') {
+          badgeHtml = `<span class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase bg-emerald-100 text-emerald-800">Ngữ pháp</span>`;
+          iconHtml = `
+            <div class="w-10 h-10 rounded-xl bg-emerald-50 text-emerald-700 border border-emerald-100 flex items-center justify-center font-black flex-shrink-0">
+              <i data-lucide="book-open" class="w-5 h-5"></i>
+            </div>
+          `;
+          const lessonId = item.details?.lessonId || '';
+          const lessonTitle = (item.details?.lessonTitle || item.title).replace(/'/g, "\\'");
+          actionBtnHtml = `
+            <button onclick="openLessonReader('${lessonId}', '${lessonTitle}')" class="px-3.5 py-2 rounded-xl bg-emerald-50 hover:bg-emerald-100 text-emerald-700 font-extrabold text-xs transition flex items-center gap-1.5 cursor-pointer">
+              <i data-lucide="book-open" class="w-3.5 h-3.5"></i> Xem lý thuyết
+            </button>
+          `;
+        } else {
+          badgeHtml = `<span class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase bg-indigo-100 text-indigo-700">${item.badge || 'Bài thi'}</span>`;
+          iconHtml = `
+            <div class="w-10 h-10 rounded-xl bg-indigo-50 text-[#5648ee] border border-indigo-100 flex items-center justify-center font-black flex-shrink-0">
+              <i data-lucide="award" class="w-5 h-5"></i>
+            </div>
+          `;
+          const tId = item.testId || item.details?.testId || '';
+          const tTitle = (item.testTitle || item.title || 'TOEIC Test').replace(/'/g, "\\'");
+          actionBtnHtml = `
+            <button onclick="startTest('${tId}', '${tTitle}', false)" class="px-3.5 py-2 rounded-xl bg-slate-100 hover:bg-[#5648ee] hover:text-white text-slate-700 font-extrabold text-xs transition flex items-center gap-1.5 cursor-pointer">
+              <i data-lucide="play" class="w-3.5 h-3.5"></i> Làm lại
+            </button>
+          `;
+        }
+
+        const dateStr = item.date ? new Date(item.date).toLocaleString('vi-VN', {
+          hour: '2-digit', minute: '2-digit', day: '2-digit', month: '2-digit', year: 'numeric'
+        }) : 'Vừa xong';
+
+        return `
+          <div class="py-4 flex flex-col sm:flex-row sm:items-center justify-between gap-4 group hover:bg-slate-50/70 p-3 rounded-2xl transition">
+            <div class="flex items-start gap-3.5">
+              ${iconHtml}
+              <div>
+                <div class="flex items-center gap-2 mb-1 flex-wrap">
+                  ${badgeHtml}
+                  <h4 class="font-bold text-sm sm:text-base text-slate-900 group-hover:text-[#5648ee] transition">${item.title || item.testTitle || 'Hoạt động'}</h4>
+                </div>
+                <div class="text-xs text-slate-500 font-medium">${item.subtitle || ''}</div>
+                <div class="text-[11px] text-slate-400 mt-1 flex items-center gap-1">
+                  <i data-lucide="clock" class="w-3 h-3"></i> ${dateStr}
+                </div>
+              </div>
+            </div>
+
+            <div class="flex items-center justify-between sm:justify-end gap-5 pl-13 sm:pl-0">
+              ${item.score !== null && item.score !== undefined ? `
+                <div class="text-right">
+                  <div class="text-xl sm:text-2xl font-black text-[#5648ee]">${item.score}</div>
+                  ${item.accuracy !== null && item.accuracy !== undefined ? `
+                    <div class="text-[10px] font-bold text-slate-500">Độ chính xác: ${item.accuracy}%</div>
+                  ` : ''}
+                </div>
+              ` : ''}
+              ${actionBtnHtml}
+            </div>
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `;
+
+  if (window.lucide) lucide.createIcons();
 }
 
 // Keyboard shortcuts for Exam & Flashcard
@@ -3399,6 +3605,24 @@ function showQuizSummaryModal() {
 
   const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
 
+  // Record completed vocab quiz
+  recordStudyHistoryActivity({
+    type: 'vocabulary',
+    title: `Kiểm tra từ vựng: ${currentFlashcardTopicTitle || 'Chủ đề từ vựng'}`,
+    subtitle: `Quiz: ${correct}/${total} câu đúng (${pct}%)`,
+    badge: 'Vocab Quiz',
+    score: `${pct}%`,
+    accuracy: pct,
+    details: {
+      topicId: currentFlashcardTopicId,
+      topicTitle: currentFlashcardTopicTitle,
+      mode: 'quiz',
+      correct,
+      wrong,
+      total
+    }
+  });
+
   const modalHtml = `
     <div id="quiz-summary-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/70 backdrop-blur-xs animate-in fade-in duration-200">
       <div class="bg-white rounded-3xl p-6 sm:p-8 max-w-lg w-full shadow-2xl flex flex-col items-center text-center">
@@ -3557,6 +3781,17 @@ async function startFlashcardSession(topicId, topicTitle, onlyUnlearned = false)
 
     loadToast.remove();
     showView('flashcard');
+
+    // Record vocabulary session in study history
+    recordStudyHistoryActivity({
+      type: 'vocabulary',
+      title: `Từ vựng: ${topicTitle || 'Chủ đề từ vựng'}`,
+      subtitle: `Học Flashcard: ${cards.length} từ vựng`,
+      badge: 'Flashcard',
+      score: 'Đang học',
+      accuracy: null,
+      details: { topicId, topicTitle, total: cards.length }
+    });
 
     document.getElementById('fc-topic-title').textContent = topicTitle;
     switchFlashcardMode('study');
@@ -3756,6 +3991,24 @@ function showFlashcardSummaryModal() {
     else if (flashcardStatus[c.id] === false) unlearned++;
   });
   const pct = total > 0 ? Math.round((learned / total) * 100) : 0;
+
+  // Record completed flashcard session
+  recordStudyHistoryActivity({
+    type: 'vocabulary',
+    title: `Từ vựng: ${currentFlashcardTopicTitle || 'Chủ đề từ vựng'}`,
+    subtitle: `Flashcard: ${learned}/${total} từ ghi nhớ (${pct}%)`,
+    badge: 'Flashcard',
+    score: `${learned}/${total} từ`,
+    accuracy: pct,
+    details: {
+      topicId: currentFlashcardTopicId,
+      topicTitle: currentFlashcardTopicTitle,
+      mode: 'flashcard',
+      learned,
+      unlearned,
+      total
+    }
+  });
 
   const modalHtml = `
     <div id="fc-summary-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/70 backdrop-blur-xs animate-in fade-in duration-200">
