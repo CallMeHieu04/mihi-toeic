@@ -112,7 +112,14 @@
       </div>
 
       <!-- Right: Actions & Profile -->
-      <div class="flex items-center gap-3">
+      <div class="flex items-center gap-2 sm:gap-3">
+        <!-- Streak Button (Flame Badge) -->
+        <button onclick="openStreakModal()" id="streak-header-btn" class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-gradient-to-r from-amber-50 to-orange-50 border border-orange-200 text-orange-600 hover:bg-orange-100 font-black text-xs shadow-2xs hover:scale-105 active:scale-95 transition-all cursor-pointer group" title="Chuỗi học tập hàng ngày">
+          <span class="text-base group-hover:scale-125 transition-transform inline-block">🔥</span>
+          <span id="header-streak-count" class="text-sm font-black text-orange-600">1</span>
+          <span class="hidden sm:inline text-[11px] font-bold text-orange-700">ngày</span>
+        </button>
+
         <!-- Design by Minh Hieu Pill -->
         <div class="hidden md:flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100/80 text-[#5648ee] font-black text-xs shadow-2xs">
           <i data-lucide="palette" class="w-3.5 h-3.5 text-[#5648ee]"></i>
@@ -204,6 +211,37 @@
                   <div class="text-xs font-bold text-orange-700">Transcript + Lời dịch</div>
                   <div class="text-[10px] text-slate-600 mt-1">Phân tích bẫy đề thi cặn kẽ</div>
                 </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- DAILY STREAK MOTIVATION BANNER -->
+          <div class="mt-8 max-w-4xl mx-auto text-left">
+            <div onclick="openStreakModal()" class="cursor-pointer group relative overflow-hidden bg-gradient-to-r from-[#ff6b3d] via-[#ff7733] to-[#f59e0b] rounded-3xl p-4 sm:p-5 text-white shadow-xl shadow-orange-500/20 border border-white/20 hover:shadow-orange-500/30 hover:scale-[1.01] transition-all flex flex-col sm:flex-row items-center justify-between gap-4">
+              <!-- Glow circle effect -->
+              <div class="absolute -right-8 -bottom-8 w-36 h-36 bg-white/10 rounded-full blur-2xl pointer-events-none"></div>
+
+              <div class="flex items-center gap-4 z-10 w-full sm:w-auto">
+                <div class="w-13 h-13 rounded-2xl bg-white/20 backdrop-blur-md flex items-center justify-center text-3xl shadow-inner flex-shrink-0 group-hover:scale-110 transition-transform">
+                  🔥
+                </div>
+                <div>
+                  <div class="flex items-center gap-2.5 flex-wrap">
+                    <span class="font-black text-lg sm:text-xl tracking-tight">Chuỗi học tập: <span id="home-streak-days" class="text-yellow-200 font-black">1</span> ngày liên tiếp</span>
+                    <span id="home-streak-status-badge" class="px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-wider bg-white/25 text-white backdrop-blur-xs">
+                      Đã thắp lửa hôm nay
+                    </span>
+                  </div>
+                  <p id="home-streak-subtitle" class="text-xs sm:text-sm text-orange-100 font-medium mt-1">
+                    "Giữ vững phong độ mỗi ngày để cán mốc 600+ TOEIC cùng Minh Hiếu!"
+                  </p>
+                </div>
+              </div>
+
+              <div class="z-10 flex-shrink-0 w-full sm:w-auto text-right">
+                <span class="inline-flex items-center justify-center gap-1.5 w-full sm:w-auto px-4 py-2.5 rounded-2xl bg-white text-[#ff7733] font-black text-xs shadow-md group-hover:bg-orange-50 transition">
+                  <span>Bảng Streak</span> <i data-lucide="chevron-right" class="w-3.5 h-3.5"></i>
+                </span>
               </div>
             </div>
           </div>
@@ -1202,6 +1240,19 @@
       </div>
     </div>
   </footer>
+
+  <!-- STREAK TOAST CONTAINER -->
+  <div id="streak-toast" class="fixed top-20 right-4 sm:right-8 z-50 transform translate-y-[-150%] opacity-0 transition-all duration-300 pointer-events-none max-w-sm w-full">
+    <div class="bg-gradient-to-r from-orange-500 to-amber-500 text-white rounded-2xl p-4 shadow-2xl shadow-orange-500/30 border border-white/20 flex items-center gap-3">
+      <div class="w-10 h-10 rounded-xl bg-white/20 backdrop-blur-md flex items-center justify-center text-2xl flex-shrink-0 animate-bounce">
+        🔥
+      </div>
+      <div>
+        <div class="text-xs font-black uppercase tracking-wider text-yellow-200">Chuỗi học tập hôm nay</div>
+        <div id="streak-toast-msg" class="text-xs font-bold text-white mt-0.5">Tuyệt vời! Bạn đã duy trì chuỗi học tập!</div>
+      </div>
+    </div>
+  </div>
 
   <script src="app.js"></script>
 </body>

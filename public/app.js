@@ -93,6 +93,7 @@ const TOEIC_PARTS_INFO = [
 // Initialize
 document.addEventListener('DOMContentLoaded', async () => {
   if (window.lucide) lucide.createIcons();
+  initStreak();
   await loadInitialData();
   setupKeyboardShortcuts();
 });
@@ -158,6 +159,7 @@ function showView(viewName) {
   if (viewName === 'history') {
     loadStudyHistory();
   }
+  updateStreakUI();
 }
 
 // Switch Category Tabs in Home View
@@ -1688,6 +1690,7 @@ function selectExamChoice(qNumOrLetter, maybeLetter) {
   }
 
   userAnswers[qNum] = letter;
+  recordStreakActivity('làm bài thi');
   const fIdx = flatQuestions.findIndex(f => f.question.questionNumber === qNum);
   if (fIdx !== -1) activeQuestionIndex = fIdx;
 
@@ -3242,6 +3245,7 @@ function selectQuizChoice(choiceIdx) {
     isCorrect: isCorrect,
     chosenText: choice.text
   };
+  recordStreakActivity('luyện từ vựng');
 
   // Immediate visual feedback on items
   const container = document.getElementById('quiz-options-container');
@@ -3726,6 +3730,7 @@ function markFlashcard(isMemorized) {
   if (!card) return;
 
   flashcardStatus[card.id] = isMemorized;
+  recordStreakActivity('học từ vựng');
   updateFlashcardOverview();
 
   if (flashcardIndex < currentFlashcards.length - 1) {
@@ -3827,3 +3832,301 @@ function toggleFullScreen() {
     document.exitFullscreen().catch(err => console.log(err));
   }
 }
+
+// ================= DAILY STREAK ENGINE (🔥 MIHI TOEIC) =================
+const STREAK_STORAGE_KEY = 'mihi_toeic_streak_v1';
+
+function getLocalDateString(date = new Date()) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
+}
+
+function getYesterdayDateString() {
+  const d = new Date();
+  d.setDate(d.getDate() - 1);
+  return getLocalDateString(d);
+}
+
+function getStreakData() {
+  try {
+    const raw = localStorage.getItem(STREAK_STORAGE_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (parsed && typeof parsed.currentStreak === 'number') {
+        return parsed;
+      }
+    }
+  } catch (e) {
+    console.error('Error reading streak data:', e);
+  }
+
+  // Default initial streak for new learner
+  const today = getLocalDateString();
+  const initial = {
+    currentStreak: 1,
+    bestStreak: 1,
+    totalDays: 1,
+    lastActiveDate: today,
+    history: [today]
+  };
+  saveStreakData(initial);
+  return initial;
+}
+
+function saveStreakData(data) {
+  try {
+    localStorage.setItem(STREAK_STORAGE_KEY, JSON.stringify(data));
+  } catch (e) {
+    console.error('Error saving streak data:', e);
+  }
+}
+
+function initStreak() {
+  const data = getStreakData();
+  const today = getLocalDateString();
+  const yesterday = getYesterdayDateString();
+
+  // If lastActiveDate is older than yesterday, the streak is broken
+  if (data.lastActiveDate !== today && data.lastActiveDate !== yesterday) {
+    data.currentStreak = 0; // Waiting for today's activity to restart streak at 1
+    saveStreakData(data);
+  }
+
+  updateStreakUI(data);
+}
+
+function recordStreakActivity(actionName = 'học bài') {
+  const data = getStreakData();
+  const today = getLocalDateString();
+  const yesterday = getYesterdayDateString();
+
+  if (data.lastActiveDate === today) {
+    // Already recorded for today
+    updateStreakUI(data);
+    return;
+  }
+
+  // New day activity!
+  if (data.lastActiveDate === yesterday) {
+    data.currentStreak = (data.currentStreak || 0) + 1;
+  } else {
+    data.currentStreak = 1;
+  }
+
+  data.lastActiveDate = today;
+  if (!Array.isArray(data.history)) data.history = [];
+  if (!data.history.includes(today)) data.history.push(today);
+  data.totalDays = data.history.length;
+
+  if (data.currentStreak > (data.bestStreak || 0)) {
+    data.bestStreak = data.currentStreak;
+  }
+
+  saveStreakData(data);
+  updateStreakUI(data);
+  showStreakToast(data.currentStreak);
+}
+
+function checkInStreakManually() {
+  recordStreakActivity('điểm danh');
+  openStreakModal(); // Re-render modal with updated state
+}
+
+function updateStreakUI(data) {
+  if (!data) data = getStreakData();
+  const today = getLocalDateString();
+  const isTodayActive = (data.lastActiveDate === today);
+
+  // 1. Header Button
+  const headerCount = document.getElementById('header-streak-count');
+  const headerBtn = document.getElementById('streak-header-btn');
+  if (headerCount) headerCount.textContent = data.currentStreak;
+  if (headerBtn) {
+    if (isTodayActive) {
+      headerBtn.className = "flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-gradient-to-r from-amber-50 to-orange-50 border border-orange-300 text-orange-600 hover:bg-orange-100 font-black text-xs shadow-xs hover:scale-105 active:scale-95 transition-all cursor-pointer group";
+    } else {
+      headerBtn.className = "flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-100 border border-slate-200 text-slate-600 hover:bg-slate-200 font-bold text-xs shadow-2xs hover:scale-105 active:scale-95 transition-all cursor-pointer group";
+    }
+  }
+
+  // 2. Home Page Banner
+  const homeDays = document.getElementById('home-streak-days');
+  const homeBadge = document.getElementById('home-streak-status-badge');
+  const homeSubtitle = document.getElementById('home-streak-subtitle');
+
+  if (homeDays) homeDays.textContent = data.currentStreak;
+  if (homeBadge) {
+    if (isTodayActive) {
+      homeBadge.textContent = "✓ Đã thắp lửa hôm nay";
+      homeBadge.className = "px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-wider bg-white/25 text-white backdrop-blur-xs";
+    } else {
+      homeBadge.textContent = "⚡ Chưa thắp lửa hôm nay";
+      homeBadge.className = "px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-wider bg-yellow-300 text-slate-900 shadow-xs animate-pulse";
+    }
+  }
+  if (homeSubtitle) {
+    if (isTodayActive) {
+      homeSubtitle.textContent = `"Tuyệt vời Minh Hiếu! Bạn đã giữ được ngọn lửa hôm nay 🔥. Cố gắng duy trì nhé!"`;
+    } else {
+      homeSubtitle.textContent = `"Hôm nay bạn chưa học! Học ngay 1 từ vựng hoặc làm 1 câu để không bị tắt ngọn lửa nhé!"`;
+    }
+  }
+}
+
+function showStreakToast(streakCount) {
+  const toast = document.getElementById('streak-toast');
+  const msg = document.getElementById('streak-toast-msg');
+  if (!toast || !msg) return;
+
+  msg.textContent = `Tuyệt vời Minh Hiếu! Bạn vừa duy trì chuỗi học ${streakCount} ngày liên tiếp! 🔥`;
+  toast.classList.remove('translate-y-[-150%]', 'opacity-0', 'pointer-events-none');
+  toast.classList.add('translate-y-0', 'opacity-100');
+
+  setTimeout(() => {
+    toast.classList.remove('translate-y-0', 'opacity-100');
+    toast.classList.add('translate-y-[-150%]', 'opacity-0', 'pointer-events-none');
+  }, 4000);
+}
+
+function openStreakModal() {
+  const data = getStreakData();
+  const today = getLocalDateString();
+  const isTodayActive = (data.lastActiveDate === today);
+
+  // Calculate current week days (Monday -> Sunday)
+  const now = new Date();
+  const currentDayOfWeek = now.getDay(); // 0 is Sun, 1 is Mon...
+  const distanceToMonday = (currentDayOfWeek + 6) % 7;
+  const monday = new Date(now);
+  monday.setDate(now.getDate() - distanceToMonday);
+
+  const dayNames = ['T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'CN'];
+  let weekDaysHtml = '';
+
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(monday);
+    d.setDate(monday.getDate() + i);
+    const dateStr = getLocalDateString(d);
+    const dayNum = d.getDate();
+    const isToday = (dateStr === today);
+    const hasLearned = Array.isArray(data.history) && data.history.includes(dateStr);
+    const isFuture = (d > now && !isToday);
+
+    let dayBadge = '';
+    let dayBorder = isToday ? 'border-2 border-orange-500 bg-orange-50/50 shadow-xs' : 'border border-slate-200 bg-white';
+
+    if (hasLearned) {
+      dayBadge = `
+        <div class="w-8 h-8 mx-auto rounded-full bg-gradient-to-tr from-amber-400 to-orange-500 text-white flex items-center justify-center text-sm shadow-sm font-black">
+          🔥
+        </div>
+      `;
+    } else if (isToday) {
+      dayBadge = `
+        <div class="w-8 h-8 mx-auto rounded-full bg-orange-100 text-orange-600 border border-orange-300 flex items-center justify-center text-xs font-black animate-pulse">
+          ⚡
+        </div>
+      `;
+    } else if (isFuture) {
+      dayBadge = `
+        <div class="w-8 h-8 mx-auto rounded-full bg-slate-100 text-slate-300 flex items-center justify-center text-xs font-bold">
+          •
+        </div>
+      `;
+    } else {
+      // Past day missed
+      dayBadge = `
+        <div class="w-8 h-8 mx-auto rounded-full bg-slate-100 text-slate-400 flex items-center justify-center text-xs font-bold">
+          -
+        </div>
+      `;
+    }
+
+    weekDaysHtml += `
+      <div class="p-2 rounded-2xl flex flex-col items-center gap-1.5 ${dayBorder} transition">
+        <span class="text-[10px] font-black ${isToday ? 'text-orange-600' : 'text-slate-400'}">${dayNames[i]}</span>
+        ${dayBadge}
+        <span class="text-[10px] font-bold ${isToday ? 'text-orange-700 font-black' : 'text-slate-500'}">${dayNum}</span>
+      </div>
+    `;
+  }
+
+  // Remove existing modal if any
+  const existing = document.getElementById('streak-modal');
+  if (existing) existing.remove();
+
+  const modalHtml = `
+    <div id="streak-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-150">
+      <div class="bg-white rounded-3xl max-w-md w-full p-6 sm:p-7 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150">
+        <!-- Close button -->
+        <button onclick="closeModal('streak-modal')" class="absolute top-4 right-4 w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-500 flex items-center justify-center transition cursor-pointer">
+          ✕
+        </button>
+        
+        <!-- Header Flame -->
+        <div class="text-center pt-2 pb-4">
+          <div class="w-20 h-20 mx-auto rounded-3xl bg-gradient-to-tr from-amber-400 via-orange-500 to-rose-500 flex items-center justify-center text-4xl shadow-xl shadow-orange-500/30 mb-3 animate-bounce">
+            🔥
+          </div>
+          <h3 class="text-2xl font-black text-slate-900 tracking-tight">
+            ${data.currentStreak} Ngày Liên Tiếp!
+          </h3>
+          <p class="text-xs text-slate-500 font-medium mt-1 px-4">
+            ${isTodayActive 
+              ? '🎉 Tuyệt vời Minh Hiếu! Bạn đã thắp sáng ngọn lửa học tập hôm nay.' 
+              : '⚡ Hôm nay bạn chưa thắp lửa! Hãy học bài hoặc bấm điểm danh để nối dài chuỗi nhé.'}
+          </p>
+        </div>
+
+        <!-- 7-Day Week Progress -->
+        <div class="bg-slate-50/80 rounded-2xl p-3.5 border border-slate-200/70 mb-5">
+          <div class="text-[11px] font-extrabold text-slate-400 uppercase tracking-wider mb-2.5 text-center">
+            Tiến độ tuần này
+          </div>
+          <div class="grid grid-cols-7 gap-1.5 text-center">
+            ${weekDaysHtml}
+          </div>
+        </div>
+
+        <!-- Stats Row -->
+        <div class="grid grid-cols-2 gap-3 mb-5">
+          <div class="p-3.5 rounded-2xl bg-orange-50/80 border border-orange-100 text-center">
+            <div class="text-[11px] font-extrabold text-orange-600">Kỷ lục cao nhất</div>
+            <div class="text-xl font-black text-orange-700 mt-0.5">${data.bestStreak || 1} ngày</div>
+          </div>
+          <div class="p-3.5 rounded-2xl bg-indigo-50/80 border border-indigo-100 text-center">
+            <div class="text-[11px] font-extrabold text-[#5648ee]">Tổng ngày đã học</div>
+            <div class="text-xl font-black text-[#5648ee] mt-0.5">${data.totalDays || 1} ngày</div>
+          </div>
+        </div>
+
+        <!-- Motivational Quote -->
+        <div class="p-3 rounded-xl bg-amber-50 border border-amber-200/60 text-center mb-5 text-xs text-amber-800 font-medium">
+          💡 <em>"Mỗi ngày một chút thói quen nhỏ sẽ tạo nên bước nhảy vọt điểm số TOEIC 600+!"</em>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="space-y-2.5">
+          ${!isTodayActive ? `
+            <button onclick="checkInStreakManually()" class="w-full py-3.5 px-4 rounded-2xl bg-gradient-to-r from-orange-500 to-amber-500 hover:brightness-105 active:scale-98 text-white font-black text-sm shadow-md shadow-orange-500/25 flex items-center justify-center gap-2 transition cursor-pointer">
+              <span class="text-base">🔥</span> Thắp lửa & Điểm danh ngay
+            </button>
+          ` : `
+            <div class="w-full py-3 px-4 rounded-2xl bg-emerald-50 border border-emerald-200 text-emerald-700 font-black text-xs flex items-center justify-center gap-2">
+              <i data-lucide="check-circle" class="w-4 h-4"></i> Đã hoàn thành điểm danh hôm nay!
+            </div>
+          `}
+          <button onclick="closeModal('streak-modal'); switchTab('vocabulary')" class="w-full py-3 px-4 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs transition cursor-pointer flex items-center justify-center gap-2">
+            <i data-lucide="sparkles" class="w-3.5 h-3.5 text-[#5648ee]"></i> Học từ vựng Flashcard ngay (2 phút)
+          </button>
+        </div>
+      </div>
+    </div>
+  `;
+
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+  if (window.lucide) lucide.createIcons();
+}
+
