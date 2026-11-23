@@ -101,6 +101,26 @@ function getVietnamDateStr() {
 
 function isStudiedToday() {
   const todayStr = getVietnamDateStr();
+
+  // 1. Check streak.json (synced from client)
+  const streakPath = path.join(DATA_DIR, 'streak.json');
+  if (fs.existsSync(streakPath)) {
+    try {
+      const s = JSON.parse(fs.readFileSync(streakPath, 'utf-8'));
+      if (s && s.lastActiveDate === todayStr) return true;
+    } catch (e) {}
+  }
+
+  // 2. Check study_time.json (time spent >= 60 seconds)
+  const studyTimePath = path.join(DATA_DIR, 'study_time.json');
+  if (fs.existsSync(studyTimePath)) {
+    try {
+      const studyData = JSON.parse(fs.readFileSync(studyTimePath, 'utf-8'));
+      if (studyData[todayStr] && studyData[todayStr].totalSeconds >= 60) return true;
+    } catch (e) {}
+  }
+
+  // 3. Check history.json (tests taken)
   const historyPath = path.join(DATA_DIR, 'history.json');
   if (fs.existsSync(historyPath)) {
     try {

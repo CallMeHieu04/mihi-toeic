@@ -572,6 +572,38 @@ app.post('/api/study-time/sync', (req, res) => {
   }
 });
 
+// API: Get streak data
+app.get('/api/streak', (req, res) => {
+  const streakPath = path.join(DATA_DIR, 'streak.json');
+  if (fs.existsSync(streakPath)) {
+    try {
+      const data = JSON.parse(fs.readFileSync(streakPath, 'utf-8'));
+      return res.json(data);
+    } catch (e) {}
+  }
+  res.json({ currentStreak: 2, bestStreak: 2, lastActiveDate: '2026-11-23', history: ['2026-11-23'] });
+});
+
+// API: Sync streak from client
+app.post('/api/streak/sync', (req, res) => {
+  try {
+    const { currentStreak, bestStreak, totalDays, lastActiveDate, history } = req.body || {};
+    const streakPath = path.join(DATA_DIR, 'streak.json');
+    let data = {
+      currentStreak: Number(currentStreak) || 2,
+      bestStreak: Number(bestStreak) || 2,
+      totalDays: Number(totalDays) || 2,
+      lastActiveDate: lastActiveDate || new Date().toISOString().split('T')[0],
+      history: Array.isArray(history) ? history : ['2026-11-23'],
+      lastUpdated: new Date().toISOString()
+    };
+    fs.writeFileSync(streakPath, JSON.stringify(data, null, 2), 'utf-8');
+    res.json({ success: true, streak: data });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // ================= TELEGRAM BOT NOTIFICATION APIS =================
 const telegram = require('./telegram');
 

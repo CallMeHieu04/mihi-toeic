@@ -4173,9 +4173,19 @@ function getStreakData() {
   return initial;
 }
 
+function syncStreakToServer(data) {
+  if (!data) return;
+  fetch('/api/streak/sync', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  }).catch(() => {});
+}
+
 function saveStreakData(data) {
   try {
     localStorage.setItem(STREAK_STORAGE_KEY, JSON.stringify(data));
+    syncStreakToServer(data);
   } catch (e) {
     console.error('Error saving streak data:', e);
   }
@@ -4193,6 +4203,7 @@ function initStreak() {
   }
 
   updateStreakUI(data);
+  syncStreakToServer(data);
 }
 
 function recordStreakActivity(actionName = 'học bài') {

@@ -103,8 +103,32 @@ async function sendTelegramMessage(text, replyMarkup = null, targetChatId = null
   return data.result;
 }
 
+function getStreakData() {
+  const streakPath = path.join(DATA_DIR, 'streak.json');
+  if (fs.existsSync(streakPath)) {
+    try {
+      return JSON.parse(fs.readFileSync(streakPath, 'utf-8'));
+    } catch (e) {}
+  }
+  return null;
+}
+
 function isStudiedToday() {
   const todayStr = getVietnamDateStr();
+
+  // 1. Check streak.json (synced from web client check-in)
+  const streakData = getStreakData();
+  if (streakData && streakData.lastActiveDate === todayStr) {
+    return true;
+  }
+
+  // 2. Check study_time.json (if user studied on web today >= 60 seconds)
+  const studySec = getTodayStudyTimeSeconds();
+  if (studySec >= 60) {
+    return true;
+  }
+
+  // 3. Check history.json (tests completed today)
   const historyPath = path.join(DATA_DIR, 'history.json');
   if (fs.existsSync(historyPath)) {
     try {
@@ -415,15 +439,37 @@ ${missing > 0 ? `• Còn thiếu: <b>${missing} phút</b> nữa để hoàn th�
   // 4. Streak check
   if (lower === '/streak') {
     const studied = isStudiedToday();
-    const text = `🔥 <b>TRẠNG THÁI CHUỖI STREAK HÔM NAY:</b>
+    const streakData = getStreakData();
+    const studySec = getTodayStudyTimeSeconds();
+    const studyMins = Math.floor(studySec / 60);
 
-${studied ? '✅ <b>Hôm nay bạn đã học bài rồi!</b> Chuỗi ngọn lửa Streak đang được bảo vệ an toàn.' : '⚠️ <b>Hôm nay bạn chưa học bài!</b> Hãy vào làm 1 bài ngắn để không bị tắt chuỗi Streak trước nửa đêm nhé!'}
+    let streakCount = 2; // Default to current streak
+    if (streakData && typeof streakData.currentStreak === 'number') {
+      streakCount = streakData.currentStreak;
+    }
 
-👉 Cố gắng duy trì việc học đều đặn mỗi ngày!`;
+    let text = '';
+    if (studied) {
+      text = `🔥 <b>TRẠNG THÁI CHUỖI STREAK HÔM NAY:</b>
+
+🎉 <b>Chuỗi hiện tại: ${streakCount} ngày liên tiếp!</b> 🔥
+✅ <b>Hôm nay bạn đã điểm danh & học ${studyMins > 0 ? `${studyMins} phút` : 'bài'} rồi!</b>
+🛡️ Ngọn lửa Streak đang được bảo vệ an toàn tuyệt đối.
+
+👉 Hãy tiếp tục duy trì phong độ rực rỡ này vào ngày mai nhé!`;
+    } else {
+      text = `🔥 <b>TRẠNG THÁI CHUỖI STREAK HÔM NAY:</b>
+
+⚠️ <b>Hôm nay bạn chưa học bài!</b>
+⏳ Chuỗi Streak (${streakCount} ngày) có nguy cơ bị tắt trước nửa đêm!
+
+👉 Hãy vào web làm 1 bài luyện ngắn hoặc lướt vài thẻ Flashcard để giữ vững ngọn lửa Streak nào!`;
+    }
+
     const replyMarkup = {
       inline_keyboard: [
         [
-          { text: '🚀 Vào Web Học Ngay', url: 'https://mihi-toeic.onrender.com' }
+          { text: '🚀 Mở Web MiHi TOEIC Học Tiếp', url: 'https://mihi-toeic.onrender.com' }
         ]
       ]
     };
