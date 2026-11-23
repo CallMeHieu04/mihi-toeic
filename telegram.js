@@ -435,11 +435,11 @@ ${studied ? '✅ <b>Hôm nay bạn đã học bài rồi!</b> Chuỗi ngọn l�
   if (entry) {
     return sendWordCardResponse(chatId, entry);
   } else {
-    const notFoundText = `🔍 Không tìm thấy từ "<b>${rawText}</b>" trong từ điển TOEIC.
+    const notFoundText = `🔍 Không tìm thấy từ "<b>${rawText}</b>".
 
 💡 <b>Mẹo tra cứu:</b>
-• Bạn hãy kiểm tra lại chính tả từ tiếng Anh nhé.
-• Hoặc thử tra một số từ phổ biến như: <code>contract</code>, <code>abide by</code>, <code>agreement</code>, <code>provision</code>, <code>specific</code>...`;
+• Bạn hãy kiểm tra lại chính tả từ tiếng Anh nhé (Ví dụ: <code>school</code>, <code>contract</code>, <code>opportunity</code>...).
+• Bạn có thể gõ bất kỳ từ vựng tiếng Anh nào để tra nghĩa, phiên âm và nghe phát âm chuẩn!`;
     return sendTelegramMessage(notFoundText, null, chatId);
   }
 }
@@ -480,22 +480,36 @@ async function sendWordCardResponse(chatId, entry) {
       await sendVoiceMessage(entry.audioUrl, `🔊 Phát âm: ${entry.word}`, chatId);
     }
   } else {
-    // External dictionary entry
-    let msg = `📖 <b>TỪ ĐIỂN TIẾNG ANH: ${entry.word.toUpperCase()}</b>\n`;
+    // Universal English - Vietnamese dictionary entry
+    let msg = `📖 <b>TỪ ĐIỂN ANH - VIỆT: ${entry.word.toUpperCase()}</b>\n`;
     if (entry.phonetic) {
-      msg += `🗣️ <b>Phiên âm:</b> <code>${entry.phonetic}</code>\n\n`;
+      msg += `🗣️ <b>Phiên âm:</b> <code>${entry.phonetic}</code>\n`;
     }
-    if (Array.isArray(entry.meanings) && entry.meanings.length > 0) {
-      msg += `💡 <b>Định nghĩa:</b>\n`;
-      entry.meanings.forEach((m, idx) => {
-        msg += `${idx + 1}. [<i>${m.partOfSpeech}</i>] ${m.definition}\n`;
-        if (m.example) {
-          msg += `   VD: <i>"${m.example}"</i>\n`;
-        }
+    msg += `💡 <b>Nghĩa tiếng Việt:</b> <b>${entry.meaningVi}</b>\n\n`;
+
+    if (Array.isArray(entry.partsOfSpeech) && entry.partsOfSpeech.length > 0) {
+      msg += `📚 <b>Từ loại & Các nghĩa phổ biến:</b>\n`;
+      entry.partsOfSpeech.forEach(p => {
+        msg += `• [<i>${p.pos}</i>]: ${p.meanings}\n`;
       });
+      msg += `\n`;
     }
 
-    await sendTelegramMessage(msg, null, chatId);
+    if (entry.example) {
+      msg += `📝 <b>Ví dụ:</b> <i>"${entry.example}"</i>\n\n`;
+    }
+
+    msg += `🌐 <i>Tra cứu từ điển toàn năng MiHi TOEIC</i>`;
+
+    const replyMarkup = {
+      inline_keyboard: [
+        [
+          { text: '📚 Mở Web MiHi TOEIC Học Bài', url: 'https://mihi-toeic.onrender.com' }
+        ]
+      ]
+    };
+
+    await sendTelegramMessage(msg, replyMarkup, chatId);
 
     if (entry.audioUrl) {
       await sendVoiceMessage(entry.audioUrl, `🔊 Phát âm: ${entry.word}`, chatId);

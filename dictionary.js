@@ -43,7 +43,6 @@ function initToeicDictionary() {
           const fileData = JSON.parse(fs.readFileSync(topicFile, 'utf-8'));
           const cards = fileData.flashcards || [];
 
-          // Also check data array if flashcards is empty
           const items = cards.length > 0 ? cards : (fileData.data || []).map(d => {
             const q = d.question || {};
             return {
@@ -95,47 +94,83 @@ function initToeicDictionary() {
   return toeicWordMap;
 }
 
-// Fallback search using Free English Dictionary API
-async function searchExternalDictionary(word) {
+// Universal English - Vietnamese Dictionary Lookup
+async function searchUniversalDictionary(queryWord) {
+  let phonetic = '';
+  let audioUrl = '';
+  let example = '';
+
+  // 1. Fetch phonetic, audio & example from DictionaryAPI
   try {
-    const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
-    if (!res.ok) return null;
-    const data = await res.json();
-    if (!Array.isArray(data) || data.length === 0) return null;
-
-    const first = data[0];
-    let phonetic = first.phonetic || '';
-    let audioUrl = '';
-
-    if (Array.isArray(first.phonetics)) {
-      for (const p of first.phonetics) {
-        if (!phonetic && p.text) phonetic = p.text;
-        if (!audioUrl && p.audio) audioUrl = p.audio;
-        if (phonetic && audioUrl) break;
+    const dRes = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(queryWord)}`);
+    if (dRes.ok) {
+      const dJson = await dRes.json();
+      if (Array.isArray(dJson)) {
+        for (const item of dJson) {
+          if (!phonetic && item.phonetic) phonetic = item.phonetic;
+          if (Array.isArray(item.phonetics)) {
+            for (const p of item.phonetics) {
+              if (!phonetic && p.text) phonetic = p.text;
+              if (!audioUrl && p.audio) audioUrl = p.audio;
+            }
+          }
+          if (Array.isArray(item.meanings)) {
+            for (const m of item.meanings) {
+              if (Array.isArray(m.definitions)) {
+                for (const def of m.definitions) {
+                  if (!example && def.example) example = def.example;
+                }
+              }
+            }
+          }
+        }
       }
     }
+  } catch (e) {
+    console.error('[DictionaryAPI Error]:', e.message);
+  }
 
-    const meanings = [];
-    if (Array.isArray(first.meanings)) {
-      first.meanings.slice(0, 3).forEach(m => {
-        const partOfSpeech = m.partOfSpeech || '';
-        const def = (m.definitions && m.definitions[0]) ? m.definitions[0].definition : '';
-        const ex = (m.definitions && m.definitions[0]) ? m.definitions[0].example : '';
-        meanings.push({ partOfSpeech, definition: def, example: ex });
-      });
+  // 2. Fetch accurate Vietnamese translation & part of speech from Google Translate
+  let meaningVi = '';
+  let partsOfSpeech = [];
+  try {
+    const tRes = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&dt=t&dt=bd&q=${encodeURIComponent(queryWord)}`);
+    if (tRes.ok) {
+      const tJson = await tRes.json();
+      if (tJson && tJson[0] && tJson[0][0]) {
+        meaningVi = tJson[0][0][0];
+      }
+      if (tJson && tJson[1] && Array.isArray(tJson[1])) {
+        tJson[1].slice(0, 3).forEach(item => {
+          const pos = item[0] || 'từ';
+          const synonyms = Array.isArray(item[1]) ? item[1].slice(0, 5).join(', ') : '';
+          partsOfSpeech.push({ pos, meanings: synonyms });
+        });
+      }
     }
+  } catch (e) {
+    console.error('[GoogleTranslate Error]:', e.message);
+  }
 
-    return {
-      word: first.word || word,
-      phonetic,
-      audioUrl,
-      meanings,
-      isToeic: false
-    };
-  } catch (err) {
-    console.error('[Dictionary] External API error:', err.message);
+  // If Google Translate didn't find anything and dictionaryapi didn't find anything, return null
+  if (!meaningVi && !phonetic && partsOfSpeech.length === 0) {
     return null;
   }
+
+  // Fallback audio to Google TTS
+  if (!audioUrl) {
+    audioUrl = `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(queryWord)}`;
+  }
+
+  return {
+    word: queryWord,
+    phonetic,
+    meaningVi: meaningVi || queryWord,
+    partsOfSpeech,
+    example,
+    audioUrl,
+    isToeic: false
+  };
 }
 
 // Master lookup function
@@ -155,22 +190,16 @@ async function lookupWord(query) {
     return toeicWordMap.get(clean);
   }
 
-  // 2. Fuzzy match in TOEIC vocabulary (singular/plural or prefix)
+  // 2. Exact match on singular/plural in TOEIC vocabulary
   const singular = clean.endsWith('s') ? clean.slice(0, -1) : clean;
   if (toeicWordMap.has(singular)) {
     return toeicWordMap.get(singular);
   }
 
-  for (const [key, entry] of toeicWordMap.entries()) {
-    if (key.startsWith(clean) || clean.startsWith(key)) {
-      return entry;
-    }
-  }
-
-  // 3. Query external English dictionary API as fallback
-  const ext = await searchExternalDictionary(clean);
-  if (ext) {
-    return ext;
+  // 3. Universal Dictionary search (Vietnamese translation + IPA + audio for ANY word like "school", "friend"...)
+  const universal = await searchUniversalDictionary(clean);
+  if (universal) {
+    return universal;
   }
 
   return null;
