@@ -547,6 +547,136 @@ app.get('/api/history', (req, res) => {
   res.json([]);
 });
 
+// ================= TELEGRAM BOT NOTIFICATION APIS =================
+const telegram = require('./telegram');
+
+// Health check endpoint for external ping / keep-alive
+app.get('/api/health', (req, res) => {
+  res.json({
+    status: 'ok',
+    app: 'MiHi TOEIC',
+    time: new Date().toISOString(),
+    vietnamTime: telegram.getVietnamDate().toISOString()
+  });
+});
+
+// Get Telegram configuration status
+app.get('/api/telegram/status', async (req, res) => {
+  try {
+    const config = telegram.getTelegramConfig();
+    let botInfo = null;
+    let botValid = false;
+
+    if (config.botToken) {
+      const v = await telegram.verifyBot(config.botToken);
+      botValid = v.ok;
+      botInfo = v.bot || null;
+    }
+
+    res.json({
+      configured: Boolean(config.botToken && config.chatId),
+      botValid,
+      botInfo,
+      enabled: config.enabled,
+      morningEnabled: config.morningEnabled,
+      morningTime: config.morningTime,
+      eveningEnabled: config.eveningEnabled,
+      eveningTime: config.eveningTime,
+      chatIdMasked: config.chatId ? `${config.chatId.substring(0, 3)}****${config.chatId.slice(-2)}` : '',
+      chatId: config.chatId,
+      botTokenMasked: config.botToken ? `${config.botToken.substring(0, 6)}...${config.botToken.slice(-4)}` : ''
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Save Telegram configuration
+app.post('/api/telegram/config', async (req, res) => {
+  try {
+    const { botToken, chatId, enabled, morningEnabled, morningTime, eveningEnabled, eveningTime } = req.body;
+    
+    // If new token provided, verify it
+    if (botToken) {
+      const v = await telegram.verifyBot(botToken);
+      if (!v.ok) {
+        return res.status(400).json({ error: 'Bot Token không hợp lệ: ' + (v.error || '') });
+      }
+    }
+
+    const updated = telegram.saveTelegramConfig({
+      ...(botToken !== undefined && { botToken: botToken.trim() }),
+      ...(chatId !== undefined && { chatId: String(chatId).trim() }),
+      ...(enabled !== undefined && { enabled: Boolean(enabled) }),
+      ...(morningEnabled !== undefined && { morningEnabled: Boolean(morningEnabled) }),
+      ...(morningTime !== undefined && { morningTime }),
+      ...(eveningEnabled !== undefined && { eveningEnabled: Boolean(eveningEnabled) }),
+      ...(eveningTime !== undefined && { eveningTime })
+    });
+
+    res.json({ success: true, config: updated });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Test sending a Telegram message
+app.post('/api/telegram/test', async (req, res) => {
+  try {
+    const { botToken, chatId } = req.body || {};
+    if (botToken || chatId) {
+      telegram.saveTelegramConfig({
+        ...(botToken && { botToken: botToken.trim() }),
+        ...(chatId && { chatId: String(chatId).trim() })
+      });
+    }
+
+    const testText = `🤖 <b>KẾT NỐI MIHI TOEIC THÀNH CÔNG!</b>
+
+Xin chào Minh Hiếu! 👋
+Bot thông báo MiHi TOEIC đã được liên kết thành công với tài khoản Telegram của bạn.
+
+⏰ <b>Lịch nhắc nhở mỗi ngày:</b>
+• 🌅 <b>08:00 Sáng:</b> Nhắc học 1 chủ đề từ vựng Flashcard (20-30 phút).
+• 🔥 <b>20:00 Tối:</b> Cảnh báo khẩn cấp cứu chuỗi Streak (nếu hôm đó bạn chưa học).
+
+Chúc bạn ôn luyện chăm chỉ và sớm đạt mục tiêu TOEIC 600+ nhé! 🎉`;
+
+    const baseUrl = `${req.protocol}://${req.get('host')}`;
+    const replyMarkup = {
+      inline_keyboard: [
+        [
+          { text: '📖 Mở Web MiHi TOEIC', url: baseUrl }
+        ]
+      ]
+    };
+
+    const sent = await telegram.sendTelegramMessage(testText, replyMarkup, chatId);
+    res.json({ success: true, message: 'Đã gửi tin nhắn thử nghiệm thành công!', result: sent });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Trigger Telegram Cron (Can be called by cron-job.org / UptimeRobot / Webhook)
+app.all('/api/telegram/cron', async (req, res) => {
+  try {
+    const forceType = req.query.force || req.query.type || null;
+    const baseUrl = `${req.protocol}://${req.get('host')}`;
+    const result = await telegram.checkTelegramScheduler(baseUrl, forceType);
+    res.json({ success: true, cron: result });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Internal Background Scheduler (runs every 60 seconds)
+setInterval(() => {
+  telegram.checkTelegramScheduler().catch(err => {
+    console.error('[Telegram Scheduler Error]:', err.message);
+  });
+}, 60000);
+
 // Fallback to index.html for SPA routing
 app.use((req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));

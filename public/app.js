@@ -4671,7 +4671,22 @@ async function checkDailyReminderScheduler() {
   }
 }
 
-function openReminderSettingsModal() {
+let telegramConfigCache = null;
+
+async function fetchTelegramStatus() {
+  try {
+    const res = await fetch('/api/telegram/status');
+    if (res.ok) {
+      telegramConfigCache = await res.json();
+      return telegramConfigCache;
+    }
+  } catch (e) {
+    console.warn('Could not fetch Telegram status:', e);
+  }
+  return null;
+}
+
+async function openReminderSettingsModal() {
   const settings = getReminderSettings();
   const hasPermission = ('Notification' in window) && (Notification.permission === 'granted');
   const isDenied = ('Notification' in window) && (Notification.permission === 'denied');
@@ -4679,9 +4694,12 @@ function openReminderSettingsModal() {
   const existing = document.getElementById('reminder-modal');
   if (existing) existing.remove();
 
+  // Pre-fetch telegram config
+  const tele = await fetchTelegramStatus() || { configured: false };
+
   const modalHtml = `
     <div id="reminder-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-150">
-      <div class="bg-white rounded-3xl max-w-lg w-full p-6 sm:p-7 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150 max-h-[90vh] overflow-y-auto">
+      <div class="bg-white rounded-3xl max-w-lg w-full p-6 sm:p-7 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150 max-h-[92vh] overflow-y-auto">
         <!-- Close button -->
         <button onclick="closeModal('reminder-modal')" class="absolute top-4 right-4 w-8 h-8 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-500 flex items-center justify-center transition cursor-pointer">
           ✕
@@ -4695,16 +4713,82 @@ function openReminderSettingsModal() {
             Lịch Nhắc Nhở Học Tập & Cứu Streak
           </h3>
           <p class="text-xs text-slate-500 font-medium mt-1">
-            Nhắc nhở thông minh: 8h sáng khơi gợi cảm hứng và 8h tối cảnh báo cứu chuỗi Streak 🔥
+            Gửi thông báo đúng 8h sáng & 8h tối bất kể bạn đang ở đâu 🔥
           </p>
         </div>
 
+        <!-- TELEGRAM BOT SECTION (RECOMMENDED) -->
+        <div class="p-4 rounded-2xl bg-gradient-to-br from-sky-50 to-blue-50 border border-sky-200/80 mb-5">
+          <div class="flex items-center justify-between mb-2">
+            <div class="flex items-center gap-2">
+              <span class="text-xl">✈️</span>
+              <div>
+                <div class="text-xs font-black text-sky-950 flex items-center gap-1.5">
+                  Thông Báo Qua Telegram
+                  <span class="px-2 py-0.5 rounded-full text-[10px] font-black uppercase bg-sky-200 text-sky-800">Khuyên Dùng ⭐</span>
+                </div>
+                <div class="text-[11px] text-sky-800 font-medium">Nhận thông báo cả khi đóng web, tắt máy hay Render đang ngủ</div>
+              </div>
+            </div>
+          </div>
+
+          ${tele.configured ? `
+            <div class="p-3 bg-white/90 rounded-xl border border-sky-200 mb-3 text-xs flex items-center justify-between">
+              <div class="flex items-center gap-2 text-emerald-700 font-bold">
+                <span class="text-base">✅</span>
+                <span>Đã kết nối: ${tele.botInfo ? '@' + tele.botInfo.username : 'Bot cá nhân'} (ID: ${tele.chatIdMasked})</span>
+              </div>
+              <button onclick="document.getElementById('tele-inputs-box').classList.toggle('hidden')" class="text-[11px] text-sky-600 font-bold hover:underline cursor-pointer">
+                Sửa
+              </button>
+            </div>
+          ` : `
+            <div class="p-3 bg-white/90 rounded-xl border border-sky-200 mb-3 text-xs text-sky-900">
+              <span class="font-bold">⚠️ Chưa kết nối:</span> Hãy nhập Bot Token & Chat ID bên dưới để bot gửi tin nhắn riêng cho bạn nhé!
+            </div>
+          `}
+
+          <!-- Telegram Setup Inputs Box -->
+          <div id="tele-inputs-box" class="${tele.configured ? 'hidden' : ''} space-y-2.5 mb-3 bg-white/80 p-3.5 rounded-xl border border-sky-100 text-xs">
+            <div class="text-[11px] text-slate-600 space-y-1 mb-2">
+              <div><strong>Cách lấy Token & Chat ID (1 phút):</strong></div>
+              <div>1. Mở Telegram tìm <a href="https://t.me/BotFather" target="_blank" class="text-sky-600 font-bold underline">@BotFather</a> ➔ gõ <code>/newbot</code> để tạo bot và copy <b>HTTP API Token</b>.</div>
+              <div>2. Mở bot bạn vừa tạo trên Telegram ➔ bấm nút <b>START</b>.</div>
+              <div>3. Tìm bot <a href="https://t.me/userinfobot" target="_blank" class="text-sky-600 font-bold underline">@userinfobot</a> ➔ copy dãy số <b>Id</b> của bạn.</div>
+            </div>
+
+            <div>
+              <label class="block text-[11px] font-bold text-slate-700 mb-1">Telegram Bot Token:</label>
+              <input type="text" id="tele-bot-token" value="${tele.botTokenMasked ? '' : ''}" placeholder="Ví dụ: 7912345678:AAHjklQ..." class="w-full px-3 py-2 rounded-lg border border-slate-200 bg-white text-xs font-mono focus:border-sky-500 focus:outline-none">
+            </div>
+
+            <div>
+              <label class="block text-[11px] font-bold text-slate-700 mb-1">Telegram Chat ID của bạn:</label>
+              <input type="text" id="tele-chat-id" value="${tele.chatId || ''}" placeholder="Ví dụ: 589213456" class="w-full px-3 py-2 rounded-lg border border-slate-200 bg-white text-xs font-mono focus:border-sky-500 focus:outline-none">
+            </div>
+
+            <button onclick="saveTelegramSettingsFromUI()" id="tele-save-btn" class="w-full py-2 bg-sky-600 hover:bg-sky-700 text-white rounded-lg font-bold text-xs shadow-xs transition cursor-pointer">
+              💾 Lưu cấu hình Telegram
+            </button>
+          </div>
+
+          <!-- Telegram Test Button -->
+          <button onclick="testTelegramFromUI()" id="tele-test-btn" class="w-full py-2.5 px-3 rounded-xl bg-sky-600 hover:bg-sky-700 active:scale-98 text-white font-black text-xs shadow-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
+            ✈️ Gửi tin nhắn thử nghiệm qua Telegram
+          </button>
+        </div>
+
+        <!-- BROWSER NOTIFICATION SECTION -->
+        <div class="text-xs font-black text-slate-700 uppercase tracking-wider mb-2 flex items-center gap-1.5">
+          <span>🔔</span> Thông báo trên trình duyệt Web (PWA)
+        </div>
+
         <!-- Permission Status Box -->
-        <div class="p-3.5 rounded-2xl ${hasPermission ? 'bg-emerald-50 border border-emerald-200 text-emerald-800' : (isDenied ? 'bg-rose-50 border border-rose-200 text-rose-800' : 'bg-amber-50 border border-amber-200 text-amber-800')} mb-5 text-xs flex items-center justify-between gap-3">
+        <div class="p-3.5 rounded-2xl ${hasPermission ? 'bg-emerald-50 border border-emerald-200 text-emerald-800' : (isDenied ? 'bg-rose-50 border border-rose-200 text-rose-800' : 'bg-amber-50 border border-amber-200 text-amber-800')} mb-4 text-xs flex items-center justify-between gap-3">
           <div class="flex items-center gap-2">
             <span class="text-base">${hasPermission ? '✅' : (isDenied ? '❌' : '⚠️')}</span>
             <span class="font-bold">
-              ${hasPermission ? 'Đã bật quyền thông báo trên thiết bị' : (isDenied ? 'Bạn đã chặn quyền thông báo' : 'Chưa cấp quyền thông báo')}
+              ${hasPermission ? 'Đã bật quyền thông báo trên trình duyệt' : (isDenied ? 'Bạn đã chặn quyền thông báo trình duyệt' : 'Chưa cấp quyền thông báo trình duyệt')}
             </span>
           </div>
           ${!hasPermission ? `
@@ -4715,12 +4799,12 @@ function openReminderSettingsModal() {
         </div>
 
         <!-- Settings Form -->
-        <div class="space-y-4 mb-6">
+        <div class="space-y-3.5 mb-5">
           <!-- Master Toggle -->
           <div class="flex items-center justify-between p-3.5 rounded-2xl bg-slate-50 border border-slate-200/80">
             <div>
-              <div class="text-xs font-black text-slate-800">Bật hệ thống nhắc nhở tự động</div>
-              <div class="text-[11px] text-slate-500 mt-0.5">Tự động gửi thông báo theo lịch trình học tập mỗi ngày</div>
+              <div class="text-xs font-black text-slate-800">Bật nhắc nhở mỗi ngày</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Tự động gửi thông báo theo lịch trình ôn thi</div>
             </div>
             <label class="relative inline-flex items-center cursor-pointer">
               <input type="checkbox" id="reminder-toggle-input" ${settings.enabled ? 'checked' : ''} onchange="toggleMasterReminder(this.checked)" class="sr-only peer">
@@ -4729,7 +4813,7 @@ function openReminderSettingsModal() {
           </div>
 
           <!-- Morning 8h Schedule Box -->
-          <div class="p-4 rounded-2xl bg-amber-50/60 border border-amber-200/80">
+          <div class="p-3.5 rounded-2xl bg-amber-50/60 border border-amber-200/80">
             <div class="flex items-center justify-between mb-2">
               <div class="flex items-center gap-2">
                 <span class="text-base">🌅</span>
@@ -4743,7 +4827,7 @@ function openReminderSettingsModal() {
                 <div class="w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-amber-600"></div>
               </label>
             </div>
-            <div class="grid grid-cols-4 gap-2 mt-2.5">
+            <div class="grid grid-cols-4 gap-2 mt-2">
               ${['07:00', '07:30', '08:00', '08:30'].map(t => `
                 <button onclick="setMorningTime('${t}')" class="py-1.5 rounded-xl text-xs font-black transition cursor-pointer ${settings.morningTime === t ? 'bg-amber-600 text-white shadow-xs' : 'bg-white border border-amber-200 text-amber-900 hover:bg-amber-100/60'}">
                   ${t}
@@ -4753,7 +4837,7 @@ function openReminderSettingsModal() {
           </div>
 
           <!-- Evening 8h (20h) Streak Rescue Box -->
-          <div class="p-4 rounded-2xl bg-rose-50/60 border border-rose-200/80">
+          <div class="p-3.5 rounded-2xl bg-rose-50/60 border border-rose-200/80">
             <div class="flex items-center justify-between mb-2">
               <div class="flex items-center gap-2">
                 <span class="text-base">🔥</span>
@@ -4767,27 +4851,24 @@ function openReminderSettingsModal() {
                 <div class="w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-rose-600"></div>
               </label>
             </div>
-            <div class="grid grid-cols-4 gap-2 mt-2.5">
+            <div class="grid grid-cols-4 gap-2 mt-2">
               ${['19:30', '20:00', '20:30', '21:00'].map(t => `
                 <button onclick="setEveningTime('${t}')" class="py-1.5 rounded-xl text-xs font-black transition cursor-pointer ${settings.eveningTime === t ? 'bg-rose-600 text-white shadow-xs' : 'bg-white border border-rose-200 text-rose-900 hover:bg-rose-100/60'}">
                   ${t}
                 </button>
               `).join('')}
             </div>
-            <p class="text-[10px] text-rose-700/90 font-medium mt-2">
-              ✨ <em>Nếu hôm đó bạn đã học bài rồi, thông báo buổi tối sẽ tự động tắt để không làm phiền bạn!</em>
-            </p>
           </div>
         </div>
 
         <!-- Buttons -->
         <div class="space-y-2.5">
           <div class="grid grid-cols-2 gap-2">
-            <button onclick="testReminderNotificationNow('morning')" class="py-3 px-3 rounded-2xl bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-200 font-black text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
-              🌅 Thử thông báo 8h Sáng
+            <button onclick="testReminderNotificationNow('morning')" class="py-2.5 px-3 rounded-2xl bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-200 font-black text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
+              🌅 Thử web 8h Sáng
             </button>
-            <button onclick="testReminderNotificationNow('evening')" class="py-3 px-3 rounded-2xl bg-rose-50 hover:bg-rose-100 text-rose-900 border border-rose-200 font-black text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
-              🔥 Thử thông báo 8h Tối
+            <button onclick="testReminderNotificationNow('evening')" class="py-2.5 px-3 rounded-2xl bg-rose-50 hover:bg-rose-100 text-rose-900 border border-rose-200 font-black text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
+              🔥 Thử web 8h Tối
             </button>
           </div>
           <button onclick="closeModal('reminder-modal')" class="w-full py-3 px-4 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs transition cursor-pointer">
@@ -4795,11 +4876,9 @@ function openReminderSettingsModal() {
           </button>
         </div>
 
-        <!-- Note for mobile users -->
-        <div class="mt-4 text-center">
-          <p class="text-[11px] text-slate-400 leading-relaxed">
-            💡 <strong>Mẹo trên điện thoại:</strong> Mở trang web trên Safari/Chrome ➔ chọn <em>"Thêm vào Màn hình chính (Add to Home Screen)"</em> để nhận thông báo đẩy mượt mà như app thật nhé!
-          </p>
+        <!-- Keep-Alive tip -->
+        <div class="mt-4 p-3 bg-slate-50 rounded-2xl text-[11px] text-slate-500 leading-relaxed border border-slate-200/60">
+          💡 <strong>Mẹo giữ server Render không ngủ:</strong> Thêm link <code>https://${window.location.hostname}/api/health</code> vào dịch vụ miễn phí như <a href="https://cron-job.org" target="_blank" class="text-sky-600 font-bold underline">cron-job.org</a> hoặc <a href="https://uptimerobot.com" target="_blank" class="text-sky-600 font-bold underline">UptimeRobot</a> để ping mỗi 10 phút nhé!
         </div>
       </div>
     </div>
@@ -4807,6 +4886,69 @@ function openReminderSettingsModal() {
 
   document.body.insertAdjacentHTML('beforeend', modalHtml);
   if (window.lucide) lucide.createIcons();
+}
+
+async function saveTelegramSettingsFromUI() {
+  const tokenInput = document.getElementById('tele-bot-token');
+  const chatInput = document.getElementById('tele-chat-id');
+  const botToken = tokenInput ? tokenInput.value.trim() : '';
+  const chatId = chatInput ? chatInput.value.trim() : '';
+
+  if (!botToken || !chatId) {
+    alert('Vui lòng điền cả Bot Token và Chat ID nhé!');
+    return;
+  }
+
+  const btn = document.getElementById('tele-save-btn');
+  if (btn) btn.innerHTML = '⏳ Đang lưu & xác thực...';
+
+  try {
+    const res = await fetch('/api/telegram/config', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ botToken, chatId, enabled: true })
+    });
+    const data = await res.json();
+    if (res.ok && data.success) {
+      alert('🎉 Đã kết nối Telegram thành công! Hãy bấm "Gửi tin nhắn thử nghiệm" để kiểm tra trên điện thoại.');
+      await fetchTelegramStatus();
+      openReminderSettingsModal();
+    } else {
+      alert('Lỗi: ' + (data.error || 'Không thể lưu cấu hình'));
+    }
+  } catch (err) {
+    alert('Lỗi kết nối: ' + err.message);
+  } finally {
+    if (btn) btn.innerHTML = '💾 Lưu cấu hình Telegram';
+  }
+}
+
+async function testTelegramFromUI() {
+  const tokenInput = document.getElementById('tele-bot-token');
+  const chatInput = document.getElementById('tele-chat-id');
+  const botToken = tokenInput ? tokenInput.value.trim() : '';
+  const chatId = chatInput ? chatInput.value.trim() : '';
+
+  const btn = document.getElementById('tele-test-btn');
+  if (btn) btn.innerHTML = '⏳ Đang gửi tới Telegram...';
+
+  try {
+    const res = await fetch('/api/telegram/test', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ botToken, chatId })
+    });
+    const data = await res.json();
+    if (res.ok && data.success) {
+      alert('🎉 Đã gửi tin nhắn thành công! Mở ứng dụng Telegram trên điện thoại để kiểm tra nhé!');
+    } else {
+      alert('Lỗi gửi Telegram: ' + (data.error || 'Vui lòng kiểm tra lại Bot Token và Chat ID'));
+    }
+  } catch (err) {
+    alert('Lỗi gửi: ' + err.message);
+  } finally {
+    if (btn) btn.innerHTML = '✈️ Gửi tin nhắn thử nghiệm qua Telegram';
+  }
 }
 
 function toggleMasterReminder(isEnabled) {
