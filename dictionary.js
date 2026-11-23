@@ -94,24 +94,55 @@ function initToeicDictionary() {
   return toeicWordMap;
 }
 
-// Universal English - Vietnamese Dictionary Lookup
+function pickBestUSPhonetic(phoneticsList) {
+  if (!phoneticsList || phoneticsList.length === 0) return '';
+  // 1. If any entry is directly associated with US audio (-us, /us/, en-us)
+  for (const p of phoneticsList) {
+    const audio = (p.audio || '').toLowerCase();
+    const text = (p.text || '').trim();
+    if (text && (audio.includes('-us') || audio.includes('/us/') || audio.includes('en-us') || audio.includes('us.'))) {
+      return text;
+    }
+  }
+  // 2. Check for American IPA markers: ɝ, ɚ, ɹ, ɾ, oʊ, æ
+  for (const p of phoneticsList) {
+    const text = (p.text || '').trim();
+    if (text && (text.includes('ɝ') || text.includes('ɚ') || text.includes('ɹ') || text.includes('ɾ') || text.includes('oʊ'))) {
+      return text;
+    }
+  }
+  // 3. Prefer one that does not have British non-rhotic long vowels without r (like ɜː or ɒ)
+  for (const p of phoneticsList) {
+    const text = (p.text || '').trim();
+    if (text && !text.includes('ɜː') && !text.includes('ɒ')) {
+      return text;
+    }
+  }
+  return (phoneticsList.find(p => (p.text || '').trim()) || {}).text || '';
+}
+
+// Universal English - Vietnamese Dictionary Lookup (Strictly American / US Pronunciation)
 async function searchUniversalDictionary(queryWord) {
   let phonetic = '';
   let audioUrl = '';
   let example = '';
 
-  // 1. Fetch phonetic, audio & example from DictionaryAPI
+  // 1. Fetch phonetic, audio & example from DictionaryAPI (Prioritizing US English)
   try {
     const dRes = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(queryWord)}`);
     if (dRes.ok) {
       const dJson = await dRes.json();
       if (Array.isArray(dJson)) {
+        const allPhonetics = [];
         for (const item of dJson) {
-          if (!phonetic && item.phonetic) phonetic = item.phonetic;
           if (Array.isArray(item.phonetics)) {
             for (const p of item.phonetics) {
-              if (!phonetic && p.text) phonetic = p.text;
-              if (!audioUrl && p.audio) audioUrl = p.audio;
+              allPhonetics.push(p);
+              const audio = (p.audio || '').trim();
+              const isUS = audio && (audio.includes('-us') || audio.includes('/us/') || audio.includes('en-us') || audio.includes('US.'));
+              if (isUS && !audioUrl) {
+                audioUrl = audio;
+              }
             }
           }
           if (Array.isArray(item.meanings)) {
@@ -123,6 +154,12 @@ async function searchUniversalDictionary(queryWord) {
               }
             }
           }
+        }
+
+        // Extract US phonetic IPA
+        phonetic = pickBestUSPhonetic(allPhonetics);
+        if (!phonetic && dJson[0] && dJson[0].phonetic) {
+          phonetic = dJson[0].phonetic;
         }
       }
     }
@@ -157,9 +194,10 @@ async function searchUniversalDictionary(queryWord) {
     return null;
   }
 
-  // Fallback audio to Google TTS
+  // Strictly American English (US) Audio Pronunciation
+  // If no native American audio was found (e.g. DictionaryAPI only had British -uk.mp3), fallback to Google US TTS
   if (!audioUrl) {
-    audioUrl = `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q=${encodeURIComponent(queryWord)}`;
+    audioUrl = `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-US&q=${encodeURIComponent(queryWord)}`;
   }
 
   return {

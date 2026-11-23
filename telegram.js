@@ -451,7 +451,7 @@ async function sendWordCardResponse(chatId, entry) {
       msg += `🎯 <i>Chủ đề: ${entry.topicName}</i>\n\n`;
     }
     if (entry.phonetic) {
-      msg += `🗣️ <b>Phiên âm:</b> <code>${entry.phonetic}</code>\n`;
+      msg += `🗣️ <b>Phiên âm (Anh - Mỹ / US):</b> <code>${entry.phonetic}</code>\n`;
     }
     msg += `💡 <b>Nghĩa tiếng Việt:</b> <b>${entry.meaningVi}</b>\n`;
     if (entry.meaningEn) {
@@ -477,13 +477,13 @@ async function sendWordCardResponse(chatId, entry) {
 
     // Send audio pronunciation if available!
     if (entry.audioUrl) {
-      await sendVoiceMessage(entry.audioUrl, `🔊 Phát âm: ${entry.word}`, chatId);
+      await sendVoiceMessage(entry.audioUrl, `🔊 Phát âm Anh - Mỹ (US): ${entry.word}`, chatId);
     }
   } else {
-    // Universal English - Vietnamese dictionary entry
-    let msg = `📖 <b>TỪ ĐIỂN ANH - VIỆT: ${entry.word.toUpperCase()}</b>\n`;
+    // Universal English - Vietnamese dictionary entry (Strictly US English)
+    let msg = `📖 <b>TỪ ĐIỂN ANH - MỸ: ${entry.word.toUpperCase()}</b>\n`;
     if (entry.phonetic) {
-      msg += `🗣️ <b>Phiên âm:</b> <code>${entry.phonetic}</code>\n`;
+      msg += `🗣️ <b>Phiên âm (Anh - Mỹ / US):</b> <code>${entry.phonetic}</code>\n`;
     }
     msg += `💡 <b>Nghĩa tiếng Việt:</b> <b>${entry.meaningVi}</b>\n\n`;
 
@@ -499,7 +499,7 @@ async function sendWordCardResponse(chatId, entry) {
       msg += `📝 <b>Ví dụ:</b> <i>"${entry.example}"</i>\n\n`;
     }
 
-    msg += `🌐 <i>Tra cứu từ điển toàn năng MiHi TOEIC</i>`;
+    msg += `🇺🇸 <i>Phát âm & phiên âm chuẩn giọng Mỹ (US English)</i>`;
 
     const replyMarkup = {
       inline_keyboard: [
@@ -512,7 +512,7 @@ async function sendWordCardResponse(chatId, entry) {
     await sendTelegramMessage(msg, replyMarkup, chatId);
 
     if (entry.audioUrl) {
-      await sendVoiceMessage(entry.audioUrl, `🔊 Phát âm: ${entry.word}`, chatId);
+      await sendVoiceMessage(entry.audioUrl, `🔊 Phát âm Anh - Mỹ (US): ${entry.word}`, chatId);
     }
   }
 }
