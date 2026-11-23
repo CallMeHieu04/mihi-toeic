@@ -65,7 +65,7 @@ function initToeicDictionary() {
               const entry = {
                 id: c.id,
                 word: rawWord.trim(),
-                phonetic: cleanHtml(c.phonetic || ''),
+                phonetic: cleanPhonetic(cleanHtml(c.phonetic || '')),
                 imageUrl: c.imageUrl || '',
                 audioUrl: c.audioUrl || '',
                 meaningVi: cleanHtml(c.meaningVi || ''),
@@ -94,31 +94,46 @@ function initToeicDictionary() {
   return toeicWordMap;
 }
 
+// Clean HTML / Entity in Phonetic string
+function cleanPhonetic(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&aelig;/gi, 'æ')
+    .replace(/&eth;/gi, 'ð')
+    .replace(/&theta;/gi, 'θ')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .trim();
+}
+
 function pickBestUSPhonetic(phoneticsList) {
   if (!phoneticsList || phoneticsList.length === 0) return '';
   // 1. If any entry is directly associated with US audio (-us, /us/, en-us)
   for (const p of phoneticsList) {
     const audio = (p.audio || '').toLowerCase();
-    const text = (p.text || '').trim();
+    const text = cleanPhonetic(p.text || '');
     if (text && (audio.includes('-us') || audio.includes('/us/') || audio.includes('en-us') || audio.includes('us.'))) {
       return text;
     }
   }
   // 2. Check for American IPA markers: ɝ, ɚ, ɹ, ɾ, oʊ, æ
   for (const p of phoneticsList) {
-    const text = (p.text || '').trim();
+    const text = cleanPhonetic(p.text || '');
     if (text && (text.includes('ɝ') || text.includes('ɚ') || text.includes('ɹ') || text.includes('ɾ') || text.includes('oʊ'))) {
       return text;
     }
   }
   // 3. Prefer one that does not have British non-rhotic long vowels without r (like ɜː or ɒ)
   for (const p of phoneticsList) {
-    const text = (p.text || '').trim();
+    const text = cleanPhonetic(p.text || '');
     if (text && !text.includes('ɜː') && !text.includes('ɒ')) {
       return text;
     }
   }
-  return (phoneticsList.find(p => (p.text || '').trim()) || {}).text || '';
+  return cleanPhonetic((phoneticsList.find(p => (p.text || '').trim()) || {}).text || '');
 }
 
 // Universal English - Vietnamese Dictionary Lookup (Strictly American / US Pronunciation)
@@ -126,83 +141,107 @@ async function searchUniversalDictionary(queryWord) {
   let phonetic = '';
   let audioUrl = '';
   let example = '';
-
-  // 1. Fetch phonetic, audio & example from DictionaryAPI (Prioritizing US English)
-  try {
-    const dRes = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(queryWord)}`);
-    if (dRes.ok) {
-      const dJson = await dRes.json();
-      if (Array.isArray(dJson)) {
-        const allPhonetics = [];
-        for (const item of dJson) {
-          if (Array.isArray(item.phonetics)) {
-            for (const p of item.phonetics) {
-              allPhonetics.push(p);
-              const audio = (p.audio || '').trim();
-              const isUS = audio && (audio.includes('-us') || audio.includes('/us/') || audio.includes('en-us') || audio.includes('US.'));
-              if (isUS && !audioUrl) {
-                audioUrl = audio;
-              }
-            }
-          }
-          if (Array.isArray(item.meanings)) {
-            for (const m of item.meanings) {
-              if (Array.isArray(m.definitions)) {
-                for (const def of m.definitions) {
-                  if (!example && def.example) example = def.example;
-                }
-              }
-            }
-          }
-        }
-
-        // Extract US phonetic IPA
-        phonetic = pickBestUSPhonetic(allPhonetics);
-        if (!phonetic && dJson[0] && dJson[0].phonetic) {
-          phonetic = dJson[0].phonetic;
-        }
-      }
-    }
-  } catch (e) {
-    console.error('[DictionaryAPI Error]:', e.message);
-  }
-
-  // 2. Fetch accurate Vietnamese translation & part of speech from Google Translate
   let meaningVi = '';
   let partsOfSpeech = [];
-  try {
-    const tRes = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&dt=t&dt=bd&q=${encodeURIComponent(queryWord)}`);
-    if (tRes.ok) {
-      const tJson = await tRes.json();
-      if (tJson && tJson[0] && tJson[0][0]) {
-        meaningVi = tJson[0][0][0];
-      }
-      if (tJson && tJson[1] && Array.isArray(tJson[1])) {
-        tJson[1].slice(0, 3).forEach(item => {
-          const pos = item[0] || 'từ';
-          const synonyms = Array.isArray(item[1]) ? item[1].slice(0, 5).join(', ') : '';
-          partsOfSpeech.push({ pos, meanings: synonyms });
-        });
-      }
+
+  // Query DictionaryAPI, Datamuse (CMU American IPA) and Google Translate in parallel
+  const [dictPromise, datamusePromise, transPromise] = await Promise.allSettled([
+    fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(queryWord)}`, {
+      signal: AbortSignal.timeout(3500)
+    }).then(r => r.ok ? r.json() : null).catch(() => null),
+
+    fetch(`https://api.datamuse.com/words?sp=${encodeURIComponent(queryWord)}&qe=sp&md=r&ipa=1&max=1`, {
+      signal: AbortSignal.timeout(3500)
+    }).then(r => r.ok ? r.json() : null).catch(() => null),
+
+    fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&dt=t&dt=bd&dt=rm&q=${encodeURIComponent(queryWord)}`, {
+      signal: AbortSignal.timeout(3500)
+    }).then(r => r.ok ? r.json() : null).catch(() => null)
+  ]);
+
+  // 1. Process Datamuse (CMU Pronouncing Dictionary for American English)
+  let cmuIpa = '';
+  if (datamusePromise.status === 'fulfilled' && Array.isArray(datamusePromise.value) && datamusePromise.value[0]) {
+    const tags = datamusePromise.value[0].tags || [];
+    const ipaTag = tags.find(t => t.startsWith('ipa_pron:'));
+    if (ipaTag) {
+      cmuIpa = `/${ipaTag.replace('ipa_pron:', '').trim()}/`;
     }
-  } catch (e) {
-    console.error('[GoogleTranslate Error]:', e.message);
   }
 
-  // If Google Translate didn't find anything and dictionaryapi didn't find anything, return null
+  // 2. Process DictionaryAPI
+  if (dictPromise.status === 'fulfilled' && Array.isArray(dictPromise.value)) {
+    const dJson = dictPromise.value;
+    const allPhonetics = [];
+    for (const item of dJson) {
+      if (Array.isArray(item.phonetics)) {
+        for (const p of item.phonetics) {
+          allPhonetics.push(p);
+          const audio = (p.audio || '').trim();
+          const isUS = audio && (audio.includes('-us') || audio.includes('/us/') || audio.includes('en-us') || audio.includes('US.'));
+          if (isUS && !audioUrl) {
+            audioUrl = audio;
+          }
+        }
+      }
+      if (Array.isArray(item.meanings)) {
+        for (const m of item.meanings) {
+          if (Array.isArray(m.definitions)) {
+            for (const def of m.definitions) {
+              if (!example && def.example) example = def.example;
+            }
+          }
+        }
+      }
+    }
+
+    phonetic = pickBestUSPhonetic(allPhonetics);
+    if (!phonetic && dJson[0] && dJson[0].phonetic) {
+      phonetic = cleanPhonetic(dJson[0].phonetic);
+    }
+  }
+
+  // Fallback to CMU American IPA if DictionaryAPI had no IPA
+  if (!phonetic && cmuIpa) {
+    phonetic = cmuIpa;
+  }
+
+  // 3. Process Google Translate
+  let transliteration = '';
+  if (transPromise.status === 'fulfilled' && transPromise.value) {
+    const tJson = transPromise.value;
+    if (tJson && tJson[0] && tJson[0][0]) {
+      meaningVi = tJson[0][0][0];
+    }
+    if (tJson && tJson[0] && tJson[0][1] && tJson[0][1][3]) {
+      transliteration = tJson[0][1][3];
+    }
+    if (tJson && tJson[1] && Array.isArray(tJson[1])) {
+      tJson[1].slice(0, 3).forEach(item => {
+        const pos = item[0] || 'từ';
+        const synonyms = Array.isArray(item[1]) ? item[1].slice(0, 5).join(', ') : '';
+        partsOfSpeech.push({ pos, meanings: synonyms });
+      });
+    }
+  }
+
+  if (!phonetic && transliteration) {
+    phonetic = `/${transliteration}/`;
+  }
+
+  // If nothing was found
   if (!meaningVi && !phonetic && partsOfSpeech.length === 0) {
     return null;
   }
 
   // Strictly American English (US) Audio Pronunciation
-  // If no native American audio was found (e.g. DictionaryAPI only had British -uk.mp3), fallback to Google US TTS
   if (!audioUrl) {
     audioUrl = `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-US&q=${encodeURIComponent(queryWord)}`;
   }
 
   return {
     word: queryWord,
-    phonetic,
+    phonetic: phonetic || cmuIpa,
     meaningVi: meaningVi || queryWord,
     partsOfSpeech,
     example,

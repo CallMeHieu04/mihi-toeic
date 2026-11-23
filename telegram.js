@@ -452,6 +452,8 @@ async function sendWordCardResponse(chatId, entry) {
     }
     if (entry.phonetic) {
       msg += `🗣️ <b>Phiên âm (Anh - Mỹ / US):</b> <code>${entry.phonetic}</code>\n`;
+    } else {
+      msg += `🗣️ <b>Phiên âm (Anh - Mỹ / US):</b> <i>(Nghe chi tiết trong audio phát âm đính kèm)</i>\n`;
     }
     msg += `💡 <b>Nghĩa tiếng Việt:</b> <b>${entry.meaningVi}</b>\n`;
     if (entry.meaningEn) {
@@ -484,6 +486,8 @@ async function sendWordCardResponse(chatId, entry) {
     let msg = `📖 <b>TỪ ĐIỂN ANH - MỸ: ${entry.word.toUpperCase()}</b>\n`;
     if (entry.phonetic) {
       msg += `🗣️ <b>Phiên âm (Anh - Mỹ / US):</b> <code>${entry.phonetic}</code>\n`;
+    } else {
+      msg += `🗣️ <b>Phiên âm (Anh - Mỹ / US):</b> <i>(Nghe chi tiết trong audio phát âm đính kèm)</i>\n`;
     }
     msg += `💡 <b>Nghĩa tiếng Việt:</b> <b>${entry.meaningVi}</b>\n\n`;
 
