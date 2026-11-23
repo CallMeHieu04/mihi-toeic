@@ -306,11 +306,18 @@ async function checkTelegramScheduler(baseUrl = 'https://mihi-toeic.onrender.com
   }
 
   // Check Evening (20:00)
-  if (forceType === 'evening' || (config.eveningEnabled && config.lastEveningNotifiedDate !== today && currentTimeStr >= config.eveningTime)) {
+  const isEveningHours = currentTimeStr >= '19:30' && currentTimeStr <= '23:59';
+  if (forceType === 'evening' || (config.eveningEnabled && config.lastEveningNotifiedDate !== today && isEveningHours)) {
     try {
       const res = await sendEveningStreakReminder(baseUrl);
-      saveTelegramConfig({ lastEveningNotifiedDate: today });
-      results.push(res && res.skipped ? 'Evening skipped (Already studied)' : 'Evening streak alert sent');
+      if (res && res.skipped) {
+        results.push('Evening skipped (Already studied)');
+      } else {
+        if (isEveningHours) {
+          saveTelegramConfig({ lastEveningNotifiedDate: today });
+        }
+        results.push('Evening streak alert sent');
+      }
     } catch (err) {
       console.error('[Telegram] Evening reminder error:', err);
       results.push('Evening reminder error: ' + err.message);
@@ -318,11 +325,18 @@ async function checkTelegramScheduler(baseUrl = 'https://mihi-toeic.onrender.com
   }
 
   // Check 9h Tối (21:00) - Chưa học đủ 1 tiếng (Night Target)
-  if (forceType === 'night_target' || forceType === '21h' || (config.nightTargetEnabled && config.lastNightNotifiedDate !== today && currentTimeStr >= (config.nightTargetTime || '21:00'))) {
+  const isNightHours = currentTimeStr >= (config.nightTargetTime || '20:30') && currentTimeStr <= '23:59';
+  if (forceType === 'night_target' || forceType === '21h' || (config.nightTargetEnabled && config.lastNightNotifiedDate !== today && isNightHours)) {
     try {
       const res = await sendNightTargetReminder(baseUrl);
-      saveTelegramConfig({ lastNightNotifiedDate: today });
-      results.push(res && res.skipped ? res.reason : 'Night 1-hour target alert sent');
+      if (res && res.skipped) {
+        results.push(res.reason || 'Night target skipped (Goal reached)');
+      } else {
+        if (isNightHours) {
+          saveTelegramConfig({ lastNightNotifiedDate: today });
+        }
+        results.push('Night 1-hour target alert sent');
+      }
     } catch (err) {
       console.error('[Telegram] Night target reminder error:', err);
       results.push('Night target error: ' + err.message);
