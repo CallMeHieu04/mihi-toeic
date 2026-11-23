@@ -4,8 +4,11 @@
   "enabled": true,
   "morningEnabled": true,
   "morningTime": "08:00",
-  "lastMorningNotifiedDate": null,
+  "lastMorningNotifiedDate": "2026-11-23",
   "eveningEnabled": true,
   "eveningTime": "20:00",
-  "lastEveningNotifiedDate": null
+  "lastEveningNotifiedDate": null,
+  "nightTargetEnabled": true,
+  "nightTargetTime": "21:00",
+  "lastNightNotifiedDate": "2026-11-23"
 }

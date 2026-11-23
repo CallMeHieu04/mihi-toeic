@@ -547,6 +547,31 @@ app.get('/api/history', (req, res) => {
   res.json([]);
 });
 
+// API: Sync study time from client
+app.post('/api/study-time/sync', (req, res) => {
+  try {
+    const { date, seconds, categories } = req.body;
+    if (!date) return res.status(400).json({ error: 'Date is required' });
+    const studyTimePath = path.join(DATA_DIR, 'study_time.json');
+    let studyData = {};
+    if (fs.existsSync(studyTimePath)) {
+      try {
+        studyData = JSON.parse(fs.readFileSync(studyTimePath, 'utf-8'));
+      } catch (e) {}
+    }
+    const currentForDate = studyData[date] || {};
+    studyData[date] = {
+      totalSeconds: Math.max(seconds || 0, currentForDate.totalSeconds || 0),
+      categories: categories || currentForDate.categories || {},
+      lastUpdated: new Date().toISOString()
+    };
+    fs.writeFileSync(studyTimePath, JSON.stringify(studyData, null, 2), 'utf-8');
+    res.json({ success: true, date, totalSeconds: studyData[date].totalSeconds });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // ================= TELEGRAM BOT NOTIFICATION APIS =================
 const telegram = require('./telegram');
 
@@ -642,7 +667,10 @@ Bot thông báo MiHi TOEIC đã được liên kết thành công với tài kho
 
 Chúc bạn ôn luyện chăm chỉ và sớm đạt mục tiêu TOEIC 600+ nhé! 🎉`;
 
-    const baseUrl = `${req.protocol}://${req.get('host')}`;
+    let baseUrl = `${req.protocol}://${req.get('host')}`;
+    if (baseUrl.includes('localhost') || baseUrl.includes('127.0.0.1')) {
+      baseUrl = 'https://mihi-toeic.onrender.com';
+    }
     const replyMarkup = {
       inline_keyboard: [
         [
@@ -662,7 +690,10 @@ Chúc bạn ôn luyện chăm chỉ và sớm đạt mục tiêu TOEIC 600+ nhé
 app.all('/api/telegram/cron', async (req, res) => {
   try {
     const forceType = req.query.force || req.query.type || null;
-    const baseUrl = `${req.protocol}://${req.get('host')}`;
+    let baseUrl = `${req.protocol}://${req.get('host')}`;
+    if (baseUrl.includes('localhost') || baseUrl.includes('127.0.0.1')) {
+      baseUrl = 'https://mihi-toeic.onrender.com';
+    }
     const result = await telegram.checkTelegramScheduler(baseUrl, forceType);
     res.json({ success: true, cron: result });
   } catch (err) {

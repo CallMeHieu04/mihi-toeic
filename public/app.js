@@ -5148,6 +5148,25 @@ function addStudyTime(seconds, category = 'vocabulary') {
     const totalEl = document.getElementById('db-total-time');
     if (totalEl) totalEl.textContent = formatStudyTime(data.totalSeconds);
   }
+
+  // Periodic sync to server for 9h target reminder
+  syncStudyTimeToBackend(data, today);
+}
+
+let lastStudyTimeSync = 0;
+function syncStudyTimeToBackend(data, today) {
+  if (Date.now() - lastStudyTimeSync < 15000) return;
+  lastStudyTimeSync = Date.now();
+  const todaySeconds = data.daily && data.daily[today] ? data.daily[today].total : 0;
+  fetch('/api/study-time/sync', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      date: today,
+      seconds: todaySeconds,
+      categories: data.daily ? data.daily[today] : {}
+    })
+  }).catch(() => {});
 }
 
 function initStudyTimeTracker() {

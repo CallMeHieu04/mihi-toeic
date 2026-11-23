@@ -37,7 +37,10 @@ function getTelegramConfig() {
     lastMorningNotifiedDate: fileConfig.lastMorningNotifiedDate || null,
     eveningEnabled: typeof fileConfig.eveningEnabled === 'boolean' ? fileConfig.eveningEnabled : true,
     eveningTime: fileConfig.eveningTime || '20:00',
-    lastEveningNotifiedDate: fileConfig.lastEveningNotifiedDate || null
+    lastEveningNotifiedDate: fileConfig.lastEveningNotifiedDate || null,
+    nightTargetEnabled: typeof fileConfig.nightTargetEnabled === 'boolean' ? fileConfig.nightTargetEnabled : true,
+    nightTargetTime: fileConfig.nightTargetTime || '21:00',
+    lastNightNotifiedDate: fileConfig.lastNightNotifiedDate || null
   };
 }
 
@@ -113,7 +116,80 @@ function isStudiedToday() {
   return false;
 }
 
+function getTodayStudyTimeSeconds() {
+  const todayStr = getVietnamDateStr();
+  let maxSec = 0;
+
+  // 1. Check study_time.json
+  const studyTimePath = path.join(DATA_DIR, 'study_time.json');
+  if (fs.existsSync(studyTimePath)) {
+    try {
+      const studyData = JSON.parse(fs.readFileSync(studyTimePath, 'utf-8'));
+      if (studyData[todayStr] && typeof studyData[todayStr].totalSeconds === 'number') {
+        maxSec = Math.max(maxSec, studyData[todayStr].totalSeconds);
+      }
+    } catch (e) {}
+  }
+
+  // 2. Also sum history.json for today
+  const historyPath = path.join(DATA_DIR, 'history.json');
+  if (fs.existsSync(historyPath)) {
+    try {
+      const history = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
+      if (Array.isArray(history)) {
+        let histSec = 0;
+        history.forEach(item => {
+          if (item.date && item.date.startsWith(todayStr)) {
+            histSec += (item.timeSpentSeconds || 0);
+          }
+        });
+        maxSec = Math.max(maxSec, histSec);
+      }
+    } catch (e) {}
+  }
+
+  return maxSec;
+}
+
+async function sendNightTargetReminder(baseUrl = 'https://mihi-toeic.onrender.com') {
+  if (!baseUrl || baseUrl.includes('localhost') || baseUrl.includes('127.0.0.1')) baseUrl = 'https://mihi-toeic.onrender.com';
+  const totalSec = getTodayStudyTimeSeconds();
+  const TARGET_SECONDS = 3600; // 1 hour (60 minutes)
+
+  // If already reached 1 hour or more, DO NOT send!
+  if (totalSec >= TARGET_SECONDS) {
+    const mins = Math.floor(totalSec / 60);
+    console.log(`[Telegram] User already studied ${mins} mins (>= 60 mins). Night nag skipped.`);
+    return { skipped: true, reason: `Đã học ${mins} phút (đạt mục tiêu >= 1 tiếng)` };
+  }
+
+  const studiedMins = Math.floor(totalSec / 60);
+  const missingMins = Math.max(1, 60 - studiedMins);
+
+  const text = `⏰ <b>MINH HIẾU ƠI! MỤC TIÊU 1 TIẾNG HỌC MỖI NGÀY!</b>
+
+Bây giờ đã là <b>21:00 tối</b> rồi! 🌙
+Hôm nay bạn học trên web chưa đủ 1 tiếng:
+
+📊 <b>Tiến độ học hôm nay của bạn:</b>
+• Đã học: <b>${studiedMins} phút</b> / 60 phút mục tiêu
+• Còn thiếu: <b>${missingMins} phút</b> nữa để hoàn thành mục tiêu ngày!
+
+🔥 Đừng để ngày hôm nay trôi qua dang dở nhé! Hãy dành ra <b>${missingMins} phút</b> vào lướt nhanh bộ thẻ Flashcard hoặc luyện 1 bài ngắn trước khi ngủ nào!`;
+
+  const replyMarkup = {
+    inline_keyboard: [
+      [
+        { text: `🚀 Vào Học ${missingMins} Phút Nữa Ngay`, url: `${baseUrl}` }
+      ]
+    ]
+  };
+
+  return sendTelegramMessage(text, replyMarkup);
+}
+
 async function sendMorningReminder(baseUrl = 'https://mihi-toeic.onrender.com') {
+  if (!baseUrl || baseUrl.includes('localhost') || baseUrl.includes('127.0.0.1')) baseUrl = 'https://mihi-toeic.onrender.com';
   const text = `🌅 <b>CHÀO BUỔI SÁNG MINH HIẾU!</b>
 
 Hôm nay bạn đã sẵn sàng tiếp tục hành trình bứt phá mục tiêu TOEIC 600+ chưa?
@@ -136,6 +212,7 @@ Hôm nay bạn đã sẵn sàng tiếp tục hành trình bứt phá mục tiêu
 }
 
 async function sendEveningStreakReminder(baseUrl = 'https://mihi-toeic.onrender.com') {
+  if (!baseUrl || baseUrl.includes('localhost') || baseUrl.includes('127.0.0.1')) baseUrl = 'https://mihi-toeic.onrender.com';
   const studied = isStudiedToday();
   const vnDate = getVietnamDate();
   const dayOfWeek = vnDate.getDay(); // 0 = Sunday, 1 = Mon...
@@ -215,6 +292,18 @@ async function checkTelegramScheduler(baseUrl = 'https://mihi-toeic.onrender.com
     }
   }
 
+  // Check 9h Tối (21:00) - Chưa học đủ 1 tiếng (Night Target)
+  if (forceType === 'night_target' || forceType === '21h' || (config.nightTargetEnabled && config.lastNightNotifiedDate !== today && currentTimeStr >= (config.nightTargetTime || '21:00'))) {
+    try {
+      const res = await sendNightTargetReminder(baseUrl);
+      saveTelegramConfig({ lastNightNotifiedDate: today });
+      results.push(res && res.skipped ? res.reason : 'Night 1-hour target alert sent');
+    } catch (err) {
+      console.error('[Telegram] Night target reminder error:', err);
+      results.push('Night target error: ' + err.message);
+    }
+  }
+
   return {
     status: 'ok',
     currentTime: currentTimeStr,
@@ -230,6 +319,8 @@ module.exports = {
   sendTelegramMessage,
   sendMorningReminder,
   sendEveningStreakReminder,
+  sendNightTargetReminder,
+  getTodayStudyTimeSeconds,
   checkTelegramScheduler,
   getVietnamDateStr,
   getVietnamDate
