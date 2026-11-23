@@ -4501,12 +4501,105 @@ function saveReminderSettings(settings) {
   }
 }
 
+function urlBase64ToUint8Array(base64String) {
+  const padding = '='.repeat((4 - base64String.length % 4) % 4);
+  const base64 = (base64String + padding)
+    .replace(/\-/g, '+')
+    .replace(/_/g, '/');
+
+  const rawData = window.atob(base64);
+  const outputArray = new Uint8Array(rawData.length);
+
+  for (let i = 0; i < rawData.length; ++i) {
+    outputArray[i] = rawData.charCodeAt(i);
+  }
+  return outputArray;
+}
+
+let webPushSubscribed = false;
+
+async function registerWebPushSubscription() {
+  if (!('serviceWorker' in navigator) || !('PushManager' in window)) {
+    console.warn('Web Push is not supported in this browser.');
+    return null;
+  }
+
+  try {
+    const reg = await navigator.serviceWorker.ready;
+    let sub = await reg.pushManager.getSubscription();
+
+    if (!sub) {
+      const keyResp = await fetch('/api/push/public-key');
+      if (!keyResp.ok) return null;
+      const { publicKey } = await keyResp.json();
+      const convertedKey = urlBase64ToUint8Array(publicKey);
+
+      sub = await reg.pushManager.subscribe({
+        userVisibleOnly: true,
+        applicationServerKey: convertedKey
+      });
+    }
+
+    if (sub) {
+      await fetch('/api/push/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(sub)
+      });
+      webPushSubscribed = true;
+      console.log('MiHi TOEIC Web Push registered with server successfully');
+      return sub;
+    }
+  } catch (err) {
+    console.warn('Web push register failed or permission not granted:', err);
+  }
+  return null;
+}
+
+async function testWebPushFromUI() {
+  const hasPerm = ('Notification' in window) && Notification.permission === 'granted';
+  if (!hasPerm) {
+    const granted = await requestReminderPermission();
+    if (!granted) {
+      alert('Vui lòng chọn "Cho phép (Allow)" khi trình duyệt hỏi quyền thông báo nhé!');
+      return;
+    }
+  }
+
+  const btn = document.getElementById('webpush-test-btn');
+  if (btn) btn.innerHTML = '⏳ Đang gửi thông báo trang web...';
+
+  try {
+    const sub = await registerWebPushSubscription();
+    const res = await fetch('/api/push/test', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ subscription: sub })
+    });
+    const data = await res.json();
+    if (res.ok && data.success) {
+      alert('🎉 Đã gửi thông báo từ trang web MiHi TOEIC! Bạn hãy nhìn góc màn hình máy tính / thanh thông báo điện thoại nhé!');
+    } else {
+      alert('Lỗi: ' + (data.error || 'Vui lòng kiểm tra lại quyền thông báo'));
+    }
+  } catch (err) {
+    alert('Lỗi gửi Web Push: ' + err.message);
+  } finally {
+    if (btn) btn.innerHTML = '🔔 Gửi thông báo thử nghiệm từ trang web ngay';
+  }
+}
+
 async function initDailyReminders() {
   // Register Service Worker
   if ('serviceWorker' in navigator) {
     try {
       swRegistration = await navigator.serviceWorker.register('/sw.js');
       console.log('MiHi TOEIC Service Worker registered successfully');
+
+      // Auto-register Web Push subscription if permission already granted
+      if (('Notification' in window) && Notification.permission === 'granted') {
+        registerWebPushSubscription();
+      }
     } catch (err) {
       console.log('Service Worker registration skipped or failed:', err);
     }
@@ -4551,6 +4644,8 @@ async function requestReminderPermission() {
       settings.enabled = true;
       saveReminderSettings(settings);
       updateReminderBellUI();
+      // Register with backend Web Push service
+      await registerWebPushSubscription();
       return true;
     } else {
       settings.enabled = false;
@@ -4717,85 +4812,57 @@ async function openReminderSettingsModal() {
           </p>
         </div>
 
-        <!-- TELEGRAM BOT SECTION (RECOMMENDED) -->
-        <div class="p-4 rounded-2xl bg-gradient-to-br from-sky-50 to-blue-50 border border-sky-200/80 mb-5">
+        <!-- BROWSER NOTIFICATION SECTION (MAIN) -->
+        <div class="p-4 rounded-2xl bg-gradient-to-br from-indigo-50 to-purple-50 border border-indigo-200/80 mb-5">
           <div class="flex items-center justify-between mb-2">
             <div class="flex items-center gap-2">
-              <span class="text-xl">✈️</span>
+              <span class="text-xl">🌐</span>
               <div>
-                <div class="text-xs font-black text-sky-950 flex items-center gap-1.5">
-                  Thông Báo Qua Telegram
-                  <span class="px-2 py-0.5 rounded-full text-[10px] font-black uppercase bg-sky-200 text-sky-800">Khuyên Dùng ⭐</span>
+                <div class="text-xs font-black text-indigo-950 flex items-center gap-1.5">
+                  Thông Báo Trực Tiếp Từ Trang Web
+                  <span class="px-2 py-0.5 rounded-full text-[10px] font-black uppercase bg-indigo-200 text-indigo-800">MiHi TOEIC</span>
                 </div>
-                <div class="text-[11px] text-sky-800 font-medium">Nhận thông báo cả khi đóng web, tắt máy hay Render đang ngủ</div>
+                <div class="text-[11px] text-indigo-800 font-medium">Nổ thông báo ngay trên màn hình máy tính / điện thoại cả khi đóng web</div>
               </div>
             </div>
           </div>
 
-          ${tele.configured ? `
-            <div class="p-3 bg-white/90 rounded-xl border border-sky-200 mb-3 text-xs flex items-center justify-between">
-              <div class="flex items-center gap-2 text-emerald-700 font-bold">
-                <span class="text-base">✅</span>
-                <span>Đã kết nối: ${tele.botInfo ? '@' + tele.botInfo.username : 'Bot cá nhân'} (ID: ${tele.chatIdMasked})</span>
-              </div>
-              <button onclick="document.getElementById('tele-inputs-box').classList.toggle('hidden')" class="text-[11px] text-sky-600 font-bold hover:underline cursor-pointer">
-                Sửa
+          <!-- Permission Status Box -->
+          <div class="p-3 bg-white/90 rounded-xl border border-indigo-100 mb-3 text-xs flex items-center justify-between gap-3">
+            <div class="flex items-center gap-2">
+              <span class="text-base">${hasPermission ? '✅' : (isDenied ? '❌' : '⚠️')}</span>
+              <span class="font-bold text-slate-800">
+                ${hasPermission ? 'Trình duyệt đã cho phép trang web gửi thông báo' : (isDenied ? 'Bạn đang chặn thông báo trên trình duyệt' : 'Chưa bật quyền thông báo')}
+              </span>
+            </div>
+            ${!hasPermission ? `
+              <button onclick="requestReminderPermission().then(() => openReminderSettingsModal())" class="px-3 py-1.5 rounded-lg bg-indigo-600 text-white font-extrabold text-[11px] hover:bg-indigo-700 shadow-2xs cursor-pointer">
+                Bật quyền
               </button>
-            </div>
-          ` : `
-            <div class="p-3 bg-white/90 rounded-xl border border-sky-200 mb-3 text-xs text-sky-900">
-              <span class="font-bold">⚠️ Chưa kết nối:</span> Hãy nhập Bot Token & Chat ID bên dưới để bot gửi tin nhắn riêng cho bạn nhé!
-            </div>
-          `}
-
-          <!-- Telegram Setup Inputs Box -->
-          <div id="tele-inputs-box" class="${tele.configured ? 'hidden' : ''} space-y-2.5 mb-3 bg-white/80 p-3.5 rounded-xl border border-sky-100 text-xs">
-            <div class="text-[11px] text-slate-600 space-y-1 mb-2">
-              <div><strong>Cách lấy Token & Chat ID (1 phút):</strong></div>
-              <div>1. Mở Telegram tìm <a href="https://t.me/BotFather" target="_blank" class="text-sky-600 font-bold underline">@BotFather</a> ➔ gõ <code>/newbot</code> để tạo bot và copy <b>HTTP API Token</b>.</div>
-              <div>2. Mở bot bạn vừa tạo trên Telegram ➔ bấm nút <b>START</b>.</div>
-              <div>3. Tìm bot <a href="https://t.me/userinfobot" target="_blank" class="text-sky-600 font-bold underline">@userinfobot</a> ➔ copy dãy số <b>Id</b> của bạn.</div>
-            </div>
-
-            <div>
-              <label class="block text-[11px] font-bold text-slate-700 mb-1">Telegram Bot Token:</label>
-              <input type="text" id="tele-bot-token" value="${tele.botTokenMasked ? '' : ''}" placeholder="Ví dụ: 7912345678:AAHjklQ..." class="w-full px-3 py-2 rounded-lg border border-slate-200 bg-white text-xs font-mono focus:border-sky-500 focus:outline-none">
-            </div>
-
-            <div>
-              <label class="block text-[11px] font-bold text-slate-700 mb-1">Telegram Chat ID của bạn:</label>
-              <input type="text" id="tele-chat-id" value="${tele.chatId || ''}" placeholder="Ví dụ: 589213456" class="w-full px-3 py-2 rounded-lg border border-slate-200 bg-white text-xs font-mono focus:border-sky-500 focus:outline-none">
-            </div>
-
-            <button onclick="saveTelegramSettingsFromUI()" id="tele-save-btn" class="w-full py-2 bg-sky-600 hover:bg-sky-700 text-white rounded-lg font-bold text-xs shadow-xs transition cursor-pointer">
-              💾 Lưu cấu hình Telegram
-            </button>
+            ` : ''}
           </div>
 
-          <!-- Telegram Test Button -->
-          <button onclick="testTelegramFromUI()" id="tele-test-btn" class="w-full py-2.5 px-3 rounded-xl bg-sky-600 hover:bg-sky-700 active:scale-98 text-white font-black text-xs shadow-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
-            ✈️ Gửi tin nhắn thử nghiệm qua Telegram
+          <!-- Web Push Test Button -->
+          <button onclick="testWebPushFromUI()" id="webpush-test-btn" class="w-full py-2.5 px-3 rounded-xl bg-gradient-to-r from-indigo-600 to-[#5648ee] hover:brightness-105 active:scale-98 text-white font-black text-xs shadow-md shadow-indigo-500/20 flex items-center justify-center gap-2 transition cursor-pointer">
+            <i data-lucide="bell" class="w-4 h-4"></i> 🔔 Bấm thử thông báo từ trang web ngay
           </button>
         </div>
 
-        <!-- BROWSER NOTIFICATION SECTION -->
-        <div class="text-xs font-black text-slate-700 uppercase tracking-wider mb-2 flex items-center gap-1.5">
-          <span>🔔</span> Thông báo trên trình duyệt Web (PWA)
-        </div>
-
-        <!-- Permission Status Box -->
-        <div class="p-3.5 rounded-2xl ${hasPermission ? 'bg-emerald-50 border border-emerald-200 text-emerald-800' : (isDenied ? 'bg-rose-50 border border-rose-200 text-rose-800' : 'bg-amber-50 border border-amber-200 text-amber-800')} mb-4 text-xs flex items-center justify-between gap-3">
-          <div class="flex items-center gap-2">
-            <span class="text-base">${hasPermission ? '✅' : (isDenied ? '❌' : '⚠️')}</span>
-            <span class="font-bold">
-              ${hasPermission ? 'Đã bật quyền thông báo trên trình duyệt' : (isDenied ? 'Bạn đã chặn quyền thông báo trình duyệt' : 'Chưa cấp quyền thông báo trình duyệt')}
-            </span>
+        <!-- Cron-job.org URLs Box -->
+        <div class="p-3.5 bg-slate-50 rounded-2xl border border-slate-200/80 mb-5 text-xs">
+          <div class="text-xs font-black text-slate-800 mb-1 flex items-center gap-1.5">
+            <span>⏰</span> Link cài đặt trên cron-job.org (Để web tự gửi lúc 8h sáng & 8h tối):
           </div>
-          ${!hasPermission ? `
-            <button onclick="requestReminderPermission().then(() => openReminderSettingsModal())" class="px-3 py-1.5 rounded-xl bg-white text-slate-800 font-extrabold text-[11px] border border-slate-200 hover:bg-slate-50 shadow-2xs cursor-pointer">
-              Bật quyền
-            </button>
-          ` : ''}
+          <div class="space-y-1.5 text-[11px] font-mono text-slate-600">
+            <div class="p-2 bg-white rounded-lg border border-slate-200 select-all">
+              <span class="text-amber-700 font-bold font-sans">🌅 8h Sáng:</span><br>
+              <code>https://${window.location.host}/api/push/cron?force=morning</code>
+            </div>
+            <div class="p-2 bg-white rounded-lg border border-slate-200 select-all">
+              <span class="text-rose-700 font-bold font-sans">🔥 20h Tối:</span><br>
+              <code>https://${window.location.host}/api/push/cron?force=evening</code>
+            </div>
+          </div>
         </div>
 
         <!-- Settings Form -->

@@ -677,6 +677,66 @@ setInterval(() => {
   });
 }, 60000);
 
+// ================= WEB PUSH NOTIFICATION ENGINE (VAPID) =================
+const pushService = require('./push');
+
+// Get VAPID public key for browser subscription
+app.get('/api/push/public-key', (req, res) => {
+  res.json({ publicKey: pushService.vapidPublicKey });
+});
+
+// Register / Save browser PushSubscription
+app.post('/api/push/subscribe', (req, res) => {
+  const subscription = req.body;
+  if (!subscription || !subscription.endpoint) {
+    return res.status(400).json({ error: 'Subscription data required' });
+  }
+  pushService.saveSubscription(subscription);
+  res.json({ success: true, count: pushService.getSubscriptions().length });
+});
+
+// Test Web Push notification to current browser
+app.post('/api/push/test', async (req, res) => {
+  try {
+    const { subscription } = req.body || {};
+    if (subscription && subscription.endpoint) {
+      pushService.saveSubscription(subscription);
+    }
+
+    const testPayload = {
+      title: '🔥 MiHi TOEIC: Thông báo trang web hoạt động!',
+      body: 'Tuyệt vời! Trang web MiHi TOEIC đã được cấp quyền gửi thông báo trực tiếp đến điện thoại/máy tính của bạn ngay cả khi đóng web!',
+      icon: 'https://estudyme.com/images/icon/estudyme/favicon.png',
+      badge: 'https://estudyme.com/images/icon/estudyme/favicon.png',
+      tag: 'mihi-test-webpush',
+      data: { url: '/' }
+    };
+
+    const result = await pushService.sendPushToAll(testPayload);
+    res.json({ success: true, message: 'Đã gửi thông báo Web Push thành công!', result });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Trigger Web Push Cron (Called by cron-job.org / Webhook at 8am & 8pm)
+app.all('/api/push/cron', async (req, res) => {
+  try {
+    const forceType = req.query.force || req.query.type || null;
+    const result = await pushService.triggerPushScheduler(forceType);
+    res.json({ success: true, pushResult: result });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Internal Background Scheduler for Web Push (runs every 60s if server is awake)
+setInterval(() => {
+  pushService.triggerPushScheduler().catch(err => {
+    console.error('[WebPush Scheduler Error]:', err.message);
+  });
+}, 60000);
+
 // Fallback to index.html for SPA routing
 app.use((req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
