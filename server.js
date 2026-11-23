@@ -783,6 +783,17 @@ setInterval(() => {
   });
 }, 60000);
 
+// Simple lightweight ping endpoint for keep-alive cronjobs (only 2 bytes)
+app.get(['/ping', '/api/ping'], (req, res) => {
+  res.setHeader('Content-Type', 'text/plain');
+  res.send('OK');
+});
+
+// Catch-all for undefined /api routes (prevent returning 98KB index.html)
+app.use('/api', (req, res) => {
+  res.status(404).json({ error: 'API endpoint not found' });
+});
+
 // Fallback to index.html for SPA routing
 app.use((req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
