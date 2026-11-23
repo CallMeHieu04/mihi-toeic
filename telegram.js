@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const dictionary = require('./dictionary');
 
 const DATA_DIR = path.join(__dirname, 'data');
 const CONFIG_FILE = path.join(DATA_DIR, 'telegram_config.json');
@@ -317,6 +318,9 @@ module.exports = {
   saveTelegramConfig,
   verifyBot,
   sendTelegramMessage,
+  sendVoiceMessage,
+  handleIncomingTelegramMessage,
+  sendWordCardResponse,
   sendMorningReminder,
   sendEveningStreakReminder,
   sendNightTargetReminder,
@@ -325,3 +329,176 @@ module.exports = {
   getVietnamDateStr,
   getVietnamDate
 };
+
+async function sendVoiceMessage(voiceUrl, caption = '', targetChatId = null) {
+  const config = getTelegramConfig();
+  const token = config.botToken;
+  const chatId = targetChatId || config.chatId;
+  if (!token || !chatId || !voiceUrl) return;
+
+  try {
+    const res = await fetch(`https://api.telegram.org/bot${token}/sendVoice`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        chat_id: chatId,
+        voice: voiceUrl,
+        caption: caption
+      })
+    });
+    return await res.json();
+  } catch (err) {
+    console.error('[Telegram sendVoice error]:', err.message);
+  }
+}
+
+async function handleIncomingTelegramMessage(msg) {
+  if (!msg || !msg.text) return;
+  const chatId = msg.chat.id;
+  const rawText = msg.text.trim();
+  const lower = rawText.toLowerCase();
+
+  // 1. Welcome / Help
+  if (lower === '/start' || lower === '/help') {
+    const text = `👋 <b>XIN CHÀO MINH HIẾU!</b>
+
+Chào mừng bạn đến với <b>MiHi TOEIC Bot</b> 🤖!
+
+🔍 <b>TRA CỨU TỪ ĐIỂN TOEIC SIÊU TỐC:</b>
+Bạn chỉ cần <b>nhắn bất kỳ từ tiếng Anh nào</b> vào đây (ví dụ: <code>abide by</code>, <code>contract</code>, <code>provision</code>, <code>marketing</code>...):
+Bot sẽ gửi ngay:
+• Nghĩa tiếng Việt & giải thích ngữ cảnh
+• Phiên âm IPA chuẩn
+• Câu ví dụ thực tế trong đề thi TOEIC
+• 🔊 <b>Phát âm giọng bản xứ</b> để bạn luyện nghe & nói theo!
+
+🎯 <b>CÁC LỆNH NHANH:</b>
+• <code>/random</code>: Bốc ngẫu nhiên 1 từ vựng TOEIC kèm phát âm
+• <code>/time</code>: Xem tổng thời gian học hôm nay trên web
+• <code>/streak</code>: Xem chuỗi Streak hiện tại
+• <code>/help</code>: Hướng dẫn sử dụng`;
+
+    const replyMarkup = {
+      inline_keyboard: [
+        [
+          { text: '📚 Mở Web MiHi TOEIC', url: 'https://mihi-toeic.onrender.com' }
+        ]
+      ]
+    };
+    return sendTelegramMessage(text, replyMarkup, chatId);
+  }
+
+  // 2. Random word
+  if (lower === '/random') {
+    const entry = dictionary.getRandomToeicWord();
+    if (!entry) {
+      return sendTelegramMessage('Chưa có từ vựng ngẫu nhiên!', null, chatId);
+    }
+    return sendWordCardResponse(chatId, entry);
+  }
+
+  // 3. Time check
+  if (lower === '/time') {
+    const sec = getTodayStudyTimeSeconds();
+    const mins = Math.floor(sec / 60);
+    const missing = Math.max(0, 60 - mins);
+    const text = `⏱️ <b>TIẾN ĐỘ HỌC HÔM NAY CỦA BẠN:</b>
+
+• Thời gian đã học: <b>${mins} phút</b>
+• Mục tiêu mỗi ngày: <b>60 phút (1 tiếng)</b>
+${missing > 0 ? `• Còn thiếu: <b>${missing} phút</b> nữa để hoàn thành mục tiêu ngày!` : '🎉 <b>Chúc mừng! Bạn đã hoàn thành xuất sắc mục tiêu 1 tiếng hôm nay!</b>'}
+
+🔥 <i>Bền bỉ mỗi ngày cùng MiHi TOEIC nhé!</i>`;
+    return sendTelegramMessage(text, null, chatId);
+  }
+
+  // 4. Streak check
+  if (lower === '/streak') {
+    const studied = isStudiedToday();
+    const text = `🔥 <b>TRẠNG THÁI CHUỖI STREAK HÔM NAY:</b>
+
+${studied ? '✅ <b>Hôm nay bạn đã học bài rồi!</b> Chuỗi ngọn lửa Streak đang được bảo vệ an toàn.' : '⚠️ <b>Hôm nay bạn chưa học bài!</b> Hãy vào làm 1 bài ngắn để không bị tắt chuỗi Streak trước nửa đêm nhé!'}
+
+👉 Cố gắng duy trì việc học đều đặn mỗi ngày!`;
+    const replyMarkup = {
+      inline_keyboard: [
+        [
+          { text: '🚀 Vào Web Học Ngay', url: 'https://mihi-toeic.onrender.com' }
+        ]
+      ]
+    };
+    return sendTelegramMessage(text, replyMarkup, chatId);
+  }
+
+  // 5. Look up word in dictionary!
+  const entry = await dictionary.lookupWord(rawText);
+  if (entry) {
+    return sendWordCardResponse(chatId, entry);
+  } else {
+    const notFoundText = `🔍 Không tìm thấy từ "<b>${rawText}</b>" trong từ điển TOEIC.
+
+💡 <b>Mẹo tra cứu:</b>
+• Bạn hãy kiểm tra lại chính tả từ tiếng Anh nhé.
+• Hoặc thử tra một số từ phổ biến như: <code>contract</code>, <code>abide by</code>, <code>agreement</code>, <code>provision</code>, <code>specific</code>...`;
+    return sendTelegramMessage(notFoundText, null, chatId);
+  }
+}
+
+async function sendWordCardResponse(chatId, entry) {
+  if (entry.isToeic) {
+    let msg = `📖 <b>TỪ VỰNG TOEIC: ${entry.word.toUpperCase()}</b>\n`;
+    if (entry.topicName) {
+      msg += `🎯 <i>Chủ đề: ${entry.topicName}</i>\n\n`;
+    }
+    if (entry.phonetic) {
+      msg += `🗣️ <b>Phiên âm:</b> <code>${entry.phonetic}</code>\n`;
+    }
+    msg += `💡 <b>Nghĩa tiếng Việt:</b> <b>${entry.meaningVi}</b>\n`;
+    if (entry.meaningEn) {
+      msg += `🇺🇸 <b>Nghĩa tiếng Anh:</b> <i>${entry.meaningEn}</i>\n`;
+    }
+    if (entry.exampleEn) {
+      msg += `\n📝 <b>Ví dụ trong đề thi:</b>\n• <i>${entry.exampleEn}</i>\n`;
+      if (entry.exampleVi) {
+        msg += `• 👉 <i>${entry.exampleVi}</i>\n`;
+      }
+    }
+    msg += `\n🔥 <i>Thuộc bộ 600 từ vựng TOEIC trọng tâm</i>`;
+
+    const replyMarkup = {
+      inline_keyboard: [
+        [
+          { text: '📚 Mở Bộ Thẻ Flashcard Trên Web', url: 'https://mihi-toeic.onrender.com' }
+        ]
+      ]
+    };
+
+    await sendTelegramMessage(msg, replyMarkup, chatId);
+
+    // Send audio pronunciation if available!
+    if (entry.audioUrl) {
+      await sendVoiceMessage(entry.audioUrl, `🔊 Phát âm: ${entry.word}`, chatId);
+    }
+  } else {
+    // External dictionary entry
+    let msg = `📖 <b>TỪ ĐIỂN TIẾNG ANH: ${entry.word.toUpperCase()}</b>\n`;
+    if (entry.phonetic) {
+      msg += `🗣️ <b>Phiên âm:</b> <code>${entry.phonetic}</code>\n\n`;
+    }
+    if (Array.isArray(entry.meanings) && entry.meanings.length > 0) {
+      msg += `💡 <b>Định nghĩa:</b>\n`;
+      entry.meanings.forEach((m, idx) => {
+        msg += `${idx + 1}. [<i>${m.partOfSpeech}</i>] ${m.definition}\n`;
+        if (m.example) {
+          msg += `   VD: <i>"${m.example}"</i>\n`;
+        }
+      });
+    }
+
+    await sendTelegramMessage(msg, null, chatId);
+
+    if (entry.audioUrl) {
+      await sendVoiceMessage(entry.audioUrl, `🔊 Phát âm: ${entry.word}`, chatId);
+    }
+  }
+}

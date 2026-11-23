@@ -686,6 +686,21 @@ Chúc bạn ôn luyện chăm chỉ và sớm đạt mục tiêu TOEIC 600+ nhé
   }
 });
 
+// Telegram Webhook receiver for interactive dictionary & bot commands
+app.post('/api/telegram/webhook', async (req, res) => {
+  // Always acknowledge immediately with 200 OK so Telegram doesn't retry
+  res.sendStatus(200);
+
+  try {
+    const update = req.body;
+    if (update && update.message) {
+      await telegram.handleIncomingTelegramMessage(update.message);
+    }
+  } catch (err) {
+    console.error('[Telegram Webhook Error]:', err.message);
+  }
+});
+
 // Trigger Telegram Cron (Can be called by cron-job.org / UptimeRobot / Webhook)
 app.all('/api/telegram/cron', async (req, res) => {
   try {
