@@ -29,8 +29,8 @@ function getTelegramConfig() {
   }
 
   return {
-    botToken: process.env.TELEGRAM_BOT_TOKEN || fileConfig.botToken || '',
-    chatId: process.env.TELEGRAM_CHAT_ID || fileConfig.chatId || '',
+    botToken: process.env.TELEGRAM_BOT_TOKEN || fileConfig.botToken || '9123628902:AAHnEqVmYO2uwfS2n3gVJeAyxQwM6WqDiKo',
+    chatId: process.env.TELEGRAM_CHAT_ID || fileConfig.chatId || '6170605138',
     enabled: typeof fileConfig.enabled === 'boolean' ? fileConfig.enabled : true,
     morningEnabled: typeof fileConfig.morningEnabled === 'boolean' ? fileConfig.morningEnabled : true,
     morningTime: fileConfig.morningTime || '08:00',

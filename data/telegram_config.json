@@ -1,0 +1,11 @@
+{
+  "botToken": "9123628902:AAHnEqVmYO2uwfS2n3gVJeAyxQwM6WqDiKo",
+  "chatId": "6170605138",
+  "enabled": true,
+  "morningEnabled": true,
+  "morningTime": "08:00",
+  "lastMorningNotifiedDate": null,
+  "eveningEnabled": true,
+  "eveningTime": "20:00",
+  "lastEveningNotifiedDate": null
+}
