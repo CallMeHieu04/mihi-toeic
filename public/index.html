@@ -1309,14 +1309,14 @@
           </div>
         </div>
 
-        <!-- Card 3: Thời gian luyện tập -->
+        <!-- Card 3: Thời gian hôm nay -->
         <div class="bg-white p-4 sm:p-5 rounded-2xl border border-slate-200/80 shadow-2xs flex items-center gap-3.5">
           <div class="w-11 h-11 rounded-2xl bg-blue-50 text-blue-600 flex items-center justify-center font-black flex-shrink-0">
             <i data-lucide="clock" class="w-5 h-5"></i>
           </div>
           <div>
-            <div class="text-[10px] font-black uppercase text-blue-600 tracking-wider">Thời gian luyện tập</div>
-            <div class="text-base sm:text-lg font-black text-slate-900" id="db-total-time">0h 0m</div>
+            <div class="text-[10px] font-black uppercase text-blue-600 tracking-wider">Hôm nay luyện tập</div>
+            <div class="text-base sm:text-lg font-black text-slate-900"><span id="db-total-time">0m</span> <span class="text-xs font-semibold text-slate-400">/ 60m</span></div>
           </div>
         </div>
 
@@ -1366,9 +1366,15 @@
                 <h3 class="text-sm font-black text-slate-800 uppercase tracking-wider">Học cái gì bao nhiêu phút</h3>
                 <p class="text-xs text-slate-400 mt-0.5">Phân bổ chi tiết thời gian ôn tập theo từng kỹ năng</p>
               </div>
-              <span class="text-xs font-bold text-emerald-600 bg-emerald-50 px-2.5 py-1 rounded-full border border-emerald-100 flex items-center gap-1">
-                <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span> Đang đếm thời gian
-              </span>
+              <div class="flex items-center gap-2">
+                <div class="flex items-center p-0.5 bg-slate-100 rounded-lg text-[11px] font-bold">
+                  <button id="cat-filter-today" onclick="setCategoryFilter('today')" class="px-2.5 py-1 rounded-md bg-white text-slate-900 shadow-2xs font-black transition">Hôm nay</button>
+                  <button id="cat-filter-all" onclick="setCategoryFilter('all')" class="px-2.5 py-1 rounded-md text-slate-500 hover:text-slate-800 transition font-bold">Tổng cộng</button>
+                </div>
+                <span class="text-xs font-bold text-emerald-600 bg-emerald-50 px-2.5 py-1 rounded-full border border-emerald-100 flex items-center gap-1">
+                  <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span> Đang đếm
+                </span>
+              </div>
             </div>
 
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3" id="db-category-cards">

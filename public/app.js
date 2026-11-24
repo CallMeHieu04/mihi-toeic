@@ -5157,7 +5157,9 @@ function addStudyTime(seconds, category = 'vocabulary') {
   const dbView = document.getElementById('view-dashboard');
   if (dbView && !dbView.classList.contains('hidden')) {
     const totalEl = document.getElementById('db-total-time');
-    if (totalEl) totalEl.textContent = formatStudyTime(data.totalSeconds);
+    const todaySec = (data.daily && data.daily[today] && data.daily[today].total) || 0;
+    if (totalEl) totalEl.textContent = formatStudyTime(todaySec);
+    renderCategoryBreakdown(data, today);
   }
 
   // Periodic sync to server for 9h target reminder
@@ -5231,6 +5233,101 @@ function initStudyTimeTracker() {
   }, 5000);
 }
 
+let currentCategoryTimeFilter = 'today';
+
+function setCategoryFilter(filter) {
+  currentCategoryTimeFilter = filter;
+  const btnToday = document.getElementById('cat-filter-today');
+  const btnAll = document.getElementById('cat-filter-all');
+  if (btnToday && btnAll) {
+    if (filter === 'today') {
+      btnToday.className = 'px-2.5 py-1 rounded-md bg-white text-slate-900 shadow-2xs font-black transition';
+      btnAll.className = 'px-2.5 py-1 rounded-md text-slate-500 hover:text-slate-800 transition font-bold';
+    } else {
+      btnAll.className = 'px-2.5 py-1 rounded-md bg-white text-slate-900 shadow-2xs font-black transition';
+      btnToday.className = 'px-2.5 py-1 rounded-md text-slate-500 hover:text-slate-800 transition font-bold';
+    }
+  }
+  const data = getStudyTimeData();
+  const today = getLocalDateString();
+  renderCategoryBreakdown(data, today);
+}
+
+function renderCategoryBreakdown(data, today) {
+  const catEl = document.getElementById('db-category-cards');
+  if (!catEl) return;
+  const source = (currentCategoryTimeFilter === 'today')
+    ? ((data.daily && data.daily[today]) || {})
+    : (data.categories || {});
+
+  const cats = [
+    {
+      key: 'vocabulary',
+      name: 'Từ vựng (Flashcard & Quiz)',
+      icon: 'sparkles',
+      color: 'text-orange-600 bg-orange-50 border-orange-100',
+      seconds: source.vocabulary || 0,
+      sub: '48 chủ đề thông dụng',
+      action: "switchTab('vocabulary')"
+    },
+    {
+      key: 'grammar',
+      name: 'Ngữ pháp TOEIC',
+      icon: 'book-open',
+      color: 'text-emerald-700 bg-emerald-50 border-emerald-100',
+      seconds: source.grammar || 0,
+      sub: '38 chuyên đề lý thuyết & mẹo',
+      action: "switchTab('grammar')"
+    },
+    {
+      key: 'listening',
+      name: 'Luyện nghe (Part 1 - 4)',
+      icon: 'headphones',
+      color: 'text-blue-600 bg-blue-50 border-blue-100',
+      seconds: source.listening || 0,
+      sub: 'Mô tả tranh, Hỏi-đáp, Hội thoại',
+      action: "switchTab('practice')"
+    },
+    {
+      key: 'reading',
+      name: 'Luyện đọc (Part 5 - 7)',
+      icon: 'file-text',
+      color: 'text-teal-600 bg-teal-50 border-teal-100',
+      seconds: source.reading || 0,
+      sub: 'Hoàn thành câu, đoạn văn, bài đọc',
+      action: "switchTab('practice')"
+    },
+    {
+      key: 'exam',
+      name: 'Đề thi thử (Full & Mini Test)',
+      icon: 'award',
+      color: 'text-[#5648ee] bg-indigo-50 border-indigo-100',
+      seconds: source.exam || 0,
+      sub: 'Thi chuẩn format ETS/IIG 200 câu',
+      action: "switchTab('fulltest')"
+    }
+  ];
+
+  catEl.innerHTML = cats.map(c => `
+    <div class="p-4 rounded-2xl bg-white border border-slate-200/80 shadow-2xs hover:shadow-md hover:border-indigo-200 transition flex items-center justify-between gap-3 group">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl ${c.color} flex items-center justify-center font-black flex-shrink-0">
+          <i data-lucide="${c.icon}" class="w-5 h-5"></i>
+        </div>
+        <div>
+          <div class="text-xs font-black text-slate-900 group-hover:text-[#5648ee] transition">${c.name}</div>
+          <div class="text-[11px] text-slate-400 mt-0.5">${c.sub}</div>
+        </div>
+      </div>
+      <div class="text-right flex-shrink-0">
+        <div class="text-sm font-black text-slate-800">${formatStudyTime(c.seconds)}</div>
+        <button onclick="${c.action}" class="text-[10px] font-black text-[#5648ee] hover:underline cursor-pointer mt-0.5 block">Vào học →</button>
+      </div>
+    </div>
+  `).join('');
+  if (window.lucide) lucide.createIcons();
+}
+
 function renderDashboardView() {
   const data = getStudyTimeData();
   const streakData = getStreakData();
@@ -5251,8 +5348,10 @@ function renderDashboardView() {
   const streakCountEl = document.getElementById('db-streak-count');
   if (streakCountEl) streakCountEl.textContent = streakData.currentStreak || 1;
 
+  const todaySeconds = (data.daily && data.daily[today] && data.daily[today].total) || 0;
+
   const totalTimeEl = document.getElementById('db-total-time');
-  if (totalTimeEl) totalTimeEl.textContent = formatStudyTime(data.totalSeconds);
+  if (totalTimeEl) totalTimeEl.textContent = formatStudyTime(todaySeconds);
 
   const xpEl = document.getElementById('db-xp-count');
   const earnedXp = 60 + Math.floor((data.totalSeconds || 0) / 60) * 2;
@@ -5309,74 +5408,7 @@ function renderDashboardView() {
   }
 
   // 4. Category Breakdown: Học cái gì bao nhiêu phút
-  const catEl = document.getElementById('db-category-cards');
-  if (catEl) {
-    const cats = [
-      {
-        key: 'vocabulary',
-        name: 'Từ vựng (Flashcard & Quiz)',
-        icon: 'sparkles',
-        color: 'text-orange-600 bg-orange-50 border-orange-100',
-        seconds: data.categories?.vocabulary || 0,
-        sub: '48 chủ đề thông dụng',
-        action: "switchTab('vocabulary')"
-      },
-      {
-        key: 'grammar',
-        name: 'Ngữ pháp TOEIC',
-        icon: 'book-open',
-        color: 'text-emerald-700 bg-emerald-50 border-emerald-100',
-        seconds: data.categories?.grammar || 0,
-        sub: '38 chuyên đề lý thuyết & mẹo',
-        action: "switchTab('grammar')"
-      },
-      {
-        key: 'listening',
-        name: 'Luyện nghe (Part 1 - 4)',
-        icon: 'headphones',
-        color: 'text-blue-600 bg-blue-50 border-blue-100',
-        seconds: data.categories?.listening || 0,
-        sub: 'Mô tả tranh, Hỏi-đáp, Hội thoại',
-        action: "switchTab('practice')"
-      },
-      {
-        key: 'reading',
-        name: 'Luyện đọc (Part 5 - 7)',
-        icon: 'file-text',
-        color: 'text-teal-600 bg-teal-50 border-teal-100',
-        seconds: data.categories?.reading || 0,
-        sub: 'Hoàn thành câu, đoạn văn, bài đọc',
-        action: "switchTab('practice')"
-      },
-      {
-        key: 'exam',
-        name: 'Đề thi thử (Full & Mini Test)',
-        icon: 'award',
-        color: 'text-[#5648ee] bg-indigo-50 border-indigo-100',
-        seconds: data.categories?.exam || 0,
-        sub: 'Thi chuẩn format ETS/IIG 200 câu',
-        action: "switchTab('fulltest')"
-      }
-    ];
-
-    catEl.innerHTML = cats.map(c => `
-      <div class="p-4 rounded-2xl bg-white border border-slate-200/80 shadow-2xs hover:shadow-md hover:border-indigo-200 transition flex items-center justify-between gap-3 group">
-        <div class="flex items-center gap-3">
-          <div class="w-10 h-10 rounded-xl ${c.color} flex items-center justify-center font-black flex-shrink-0">
-            <i data-lucide="${c.icon}" class="w-5 h-5"></i>
-          </div>
-          <div>
-            <div class="text-xs font-black text-slate-900 group-hover:text-[#5648ee] transition">${c.name}</div>
-            <div class="text-[11px] text-slate-400 mt-0.5">${c.sub}</div>
-          </div>
-        </div>
-        <div class="text-right flex-shrink-0">
-          <div class="text-sm font-black text-slate-800">${formatStudyTime(c.seconds)}</div>
-          <button onclick="${c.action}" class="text-[10px] font-black text-[#5648ee] hover:underline cursor-pointer mt-0.5 block">Vào học →</button>
-        </div>
-      </div>
-    `).join('');
-  }
+  renderCategoryBreakdown(data, today);
 
   // 5. Week Attendance (Tuần này)
   const attendRowEl = document.getElementById('db-week-attendance-row');
