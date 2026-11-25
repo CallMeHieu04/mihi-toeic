@@ -4133,6 +4133,50 @@ function toggleFullScreen() {
 
 // ================= DAILY STREAK ENGINE (🔥 MIHI TOEIC) =================
 const STREAK_STORAGE_KEY = 'mihi_toeic_streak_v1';
+const DEFAULT_STREAK_START_DATE = '2026-11-22';
+
+function getStreakGoalInfo(startDateStr = DEFAULT_STREAK_START_DATE, todayStr = null) {
+  const today = todayStr || getLocalDateString();
+  const start = new Date((startDateStr || DEFAULT_STREAK_START_DATE) + 'T00:00:00');
+  const cur = new Date(today + 'T00:00:00');
+  const diffDays = Math.max(0, Math.floor((cur - start) / 86400000));
+
+  if (diffDays < 14) {
+    return {
+      requiredMinutes: 15,
+      requiredSeconds: 15 * 60,
+      stage: 1,
+      stageName: 'Giai đoạn 1 (2 tuần đầu)',
+      daysElapsed: diffDays + 1
+    };
+  } else if (diffDays < 28) {
+    return {
+      requiredMinutes: 30,
+      requiredSeconds: 30 * 60,
+      stage: 2,
+      stageName: 'Giai đoạn 2 (Tuần 3 - 4)',
+      daysElapsed: diffDays + 1
+    };
+  } else {
+    return {
+      requiredMinutes: 60,
+      requiredSeconds: 60 * 60,
+      stage: 3,
+      stageName: 'Giai đoạn 3 (Duy trì 1 tiếng)',
+      daysElapsed: diffDays + 1
+    };
+  }
+}
+
+function getTodayLocalStudySeconds() {
+  try {
+    const studyData = getStudyTimeData();
+    const today = getLocalDateString();
+    return (studyData.daily && studyData.daily[today] && studyData.daily[today].total) || 0;
+  } catch (e) {
+    return 0;
+  }
+}
 
 function getLocalDateString(date = new Date()) {
   const y = date.getFullYear();
@@ -4208,13 +4252,24 @@ function initStreak() {
 
 function recordStreakActivity(actionName = 'học bài') {
   const data = getStreakData();
+  if (!data.startDate) {
+    data.startDate = (Array.isArray(data.history) && data.history[0]) || DEFAULT_STREAK_START_DATE;
+  }
   const today = getLocalDateString();
   const yesterday = getYesterdayDateString();
+
+  // Require minimum daily study time (15p -> 30p -> 60p) to light streak
+  const todaySeconds = getTodayLocalStudySeconds();
+  const goalInfo = getStreakGoalInfo(data.startDate, today);
+  if (todaySeconds < goalInfo.requiredSeconds) {
+    updateStreakUI(data);
+    return false;
+  }
 
   if (data.lastActiveDate === today) {
     // Already recorded for today
     updateStreakUI(data);
-    return;
+    return true;
   }
 
   // New day activity!
@@ -4236,9 +4291,22 @@ function recordStreakActivity(actionName = 'học bài') {
   saveStreakData(data);
   updateStreakUI(data);
   showStreakToast(data.currentStreak);
+  return true;
 }
 
 function checkInStreakManually() {
+  const data = getStreakData();
+  const today = getLocalDateString();
+  const goalInfo = getStreakGoalInfo(data.startDate || DEFAULT_STREAK_START_DATE, today);
+  const todaySeconds = getTodayLocalStudySeconds();
+
+  if (todaySeconds < goalInfo.requiredSeconds) {
+    const studiedMins = Math.floor(todaySeconds / 60);
+    const missingMins = Math.max(1, goalInfo.requiredMinutes - studiedMins);
+    alert(`⏳ Bạn mới học được ${studiedMins}/${goalInfo.requiredMinutes} phút hôm nay (${goalInfo.stageName})!\n\nHãy học thêm ${missingMins} phút nữa (Flashcard, Ngữ pháp hoặc Luyện đề), ngọn lửa Streak sẽ TỰ ĐỘNG được thắp sáng! 🔥`);
+    return;
+  }
+
   recordStreakActivity('điểm danh');
   openStreakModal(); // Re-render modal with updated state
 }
@@ -4276,10 +4344,12 @@ function updateStreakUI(data) {
     }
   }
   if (homeSubtitle) {
+    const goalInfo = getStreakGoalInfo(data.startDate || DEFAULT_STREAK_START_DATE, today);
+    const studiedMins = Math.floor(getTodayLocalStudySeconds() / 60);
     if (isTodayActive) {
-      homeSubtitle.textContent = `"Tuyệt vời Minh Hiếu! Bạn đã giữ được ngọn lửa hôm nay 🔥. Cố gắng duy trì nhé!"`;
+      homeSubtitle.textContent = `"Tuyệt vời Minh Hiếu! Bạn đã học ${studiedMins}/${goalInfo.requiredMinutes} phút & giữ được ngọn lửa hôm nay 🔥."`;
     } else {
-      homeSubtitle.textContent = `"Hôm nay bạn chưa học! Học ngay 1 từ vựng hoặc làm 1 câu để không bị tắt ngọn lửa nhé!"`;
+      homeSubtitle.textContent = `"Hôm nay bạn mới học ${studiedMins}/${goalInfo.requiredMinutes} phút (${goalInfo.stageName}). Học đủ ${goalInfo.requiredMinutes} phút để thắp lửa nhé!"`;
     }
   }
 }
@@ -4434,6 +4504,22 @@ function openStreakModal() {
 
         <!-- Action Buttons -->
         <div class="space-y-2.5">
+          ${(() => {
+            const gInfo = getStreakGoalInfo(data.startDate || DEFAULT_STREAK_START_DATE, today);
+            const studiedM = Math.floor(getTodayLocalStudySeconds() / 60);
+            const pct = Math.min(100, Math.round((studiedM / gInfo.requiredMinutes) * 100));
+            return `
+              <div class="p-3 rounded-2xl bg-slate-50 border border-slate-200/80 mb-2">
+                <div class="flex items-center justify-between text-[11px] font-black mb-1.5">
+                  <span class="text-slate-700">${gInfo.stageName}</span>
+                  <span class="${studiedM >= gInfo.requiredMinutes ? 'text-emerald-600' : 'text-orange-600'}">${studiedM} / ${gInfo.requiredMinutes} phút</span>
+                </div>
+                <div class="w-full bg-slate-200 h-2 rounded-full overflow-hidden">
+                  <div class="${studiedM >= gInfo.requiredMinutes ? 'bg-emerald-500' : 'bg-orange-500'} h-full rounded-full transition-all duration-300" style="width: ${pct}%"></div>
+                </div>
+              </div>
+            `;
+          })()}
           ${!isTodayActive ? `
             <button onclick="checkInStreakManually()" class="w-full py-3.5 px-4 rounded-2xl bg-gradient-to-r from-orange-500 to-amber-500 hover:brightness-105 active:scale-98 text-white font-black text-sm shadow-md shadow-orange-500/25 flex items-center justify-center gap-2 transition cursor-pointer">
               <span class="text-base">🔥</span> Thắp lửa & Điểm danh ngay
@@ -5153,11 +5239,18 @@ function addStudyTime(seconds, category = 'vocabulary') {
 
   saveStudyTimeData(data);
 
+  // Auto-light streak when reaching today's progressive threshold (15p -> 30p -> 60p)
+  const streakData = getStreakData();
+  const goalInfo = getStreakGoalInfo(streakData.startDate || DEFAULT_STREAK_START_DATE, today);
+  const todaySec = (data.daily && data.daily[today] && data.daily[today].total) || 0;
+  if (todaySec >= goalInfo.requiredSeconds && streakData.lastActiveDate !== today) {
+    recordStreakActivity('đủ mục tiêu ngày');
+  }
+
   // If dashboard is currently visible, update numbers in real time
   const dbView = document.getElementById('view-dashboard');
   if (dbView && !dbView.classList.contains('hidden')) {
     const totalEl = document.getElementById('db-total-time');
-    const todaySec = (data.daily && data.daily[today] && data.daily[today].total) || 0;
     if (totalEl) totalEl.textContent = formatStudyTime(todaySec);
     renderCategoryBreakdown(data, today);
   }

@@ -103,6 +103,8 @@ async function sendTelegramMessage(text, replyMarkup = null, targetChatId = null
   return data.result;
 }
 
+const DEFAULT_STREAK_START_DATE = '2026-11-22';
+
 function getStreakData() {
   const streakPath = path.join(DATA_DIR, 'streak.json');
   if (fs.existsSync(streakPath)) {
@@ -113,31 +115,51 @@ function getStreakData() {
   return null;
 }
 
+function getStreakGoalInfo(startDateStr = DEFAULT_STREAK_START_DATE, todayStr = null) {
+  const today = todayStr || getVietnamDateStr();
+  const start = new Date((startDateStr || DEFAULT_STREAK_START_DATE) + 'T00:00:00');
+  const cur = new Date(today + 'T00:00:00');
+  const diffDays = Math.max(0, Math.floor((cur - start) / 86400000));
+
+  if (diffDays < 14) {
+    return {
+      requiredMinutes: 15,
+      requiredSeconds: 15 * 60,
+      stage: 1,
+      stageName: 'Giai đoạn 1 (2 tuần đầu): 15 phút/ngày',
+      daysElapsed: diffDays + 1
+    };
+  } else if (diffDays < 28) {
+    return {
+      requiredMinutes: 30,
+      requiredSeconds: 30 * 60,
+      stage: 2,
+      stageName: 'Giai đoạn 2 (Tuần 3 - 4): 30 phút/ngày',
+      daysElapsed: diffDays + 1
+    };
+  } else {
+    return {
+      requiredMinutes: 60,
+      requiredSeconds: 60 * 60,
+      stage: 3,
+      stageName: 'Giai đoạn 3 (Duy trì): 60 phút/ngày',
+      daysElapsed: diffDays + 1
+    };
+  }
+}
+
 function isStudiedToday() {
   const todayStr = getVietnamDateStr();
-
-  // 1. Check streak.json (synced from web client check-in)
   const streakData = getStreakData();
-  if (streakData && streakData.lastActiveDate === todayStr) {
-    return true;
-  }
+  const startDate = (streakData && streakData.startDate) || DEFAULT_STREAK_START_DATE;
+  const goalInfo = getStreakGoalInfo(startDate, todayStr);
 
-  // 2. Check study_time.json (if user studied on web today >= 60 seconds)
+  // Must study at least requiredMinutes (15p -> 30p -> 60p) to light today's streak!
   const studySec = getTodayStudyTimeSeconds();
-  if (studySec >= 60) {
+  if (studySec >= goalInfo.requiredSeconds) {
     return true;
   }
 
-  // 3. Check history.json (tests completed today)
-  const historyPath = path.join(DATA_DIR, 'history.json');
-  if (fs.existsSync(historyPath)) {
-    try {
-      const history = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
-      if (Array.isArray(history)) {
-        return history.some(item => item.date && item.date.startsWith(todayStr));
-      }
-    } catch (e) {}
-  }
   return false;
 }
 
@@ -241,10 +263,14 @@ async function sendEveningStreakReminder(baseUrl = 'https://mihi-toeic.onrender.
   const studied = isStudiedToday();
   const vnDate = getVietnamDate();
   const dayOfWeek = vnDate.getDay(); // 0 = Sunday, 1 = Mon...
+  const streakData = getStreakData();
+  const goalInfo = getStreakGoalInfo((streakData && streakData.startDate) || DEFAULT_STREAK_START_DATE);
+  const studiedMins = Math.floor(getTodayStudyTimeSeconds() / 60);
+  const missingMins = Math.max(1, goalInfo.requiredMinutes - studiedMins);
 
   if (studied) {
-    console.log('[Telegram Bot] User already studied today. Evening streak is safe!');
-    return { skipped: true, reason: 'Already studied today' };
+    console.log('[Telegram Bot] User already reached daily streak goal. Evening streak is safe!');
+    return { skipped: true, reason: 'Already reached daily streak goal' };
   }
 
   let scheduleFocus = '• <b>Thứ 3, 5, 7 (Reading):</b> Đọc 1 chuyên đề Ngữ pháp + Luyện 1 bài Part 5 & 1 bài Part 7 đoạn đơn.';
@@ -256,13 +282,13 @@ async function sendEveningStreakReminder(baseUrl = 'https://mihi-toeic.onrender.
 
   const text = `🔥 <b>MINH HIẾU ƠI! CẢNH BÁO NGUY CƠ MẤT CHUỖI STREAK!</b>
 
-Hôm nay bạn vẫn chưa hoàn thành buổi học nào trên MiHi TOEIC!
-⏰ Chỉ còn vài giờ nữa là kết thúc ngày, đừng để ngọn lửa Streak bị tắt nhé!
+Hôm nay bạn mới học <b>${studiedMins}/${goalInfo.requiredMinutes} phút</b> (${goalInfo.stageName})!
+⏳ Bạn cần học thêm ít nhất <b>${missingMins} phút</b> nữa để thắp sáng chuỗi Streak hôm nay!
 
-📚 <b>Trọng tâm bài học tối nay (60 - 80 phút):</b>
+📚 <b>Trọng tâm bài học tối nay:</b>
 ${scheduleFocus}
 
-👉 Dành ra vài phút vào học ngay để giữ vững chuỗi Streak rực rỡ nào!`;
+👉 Vào web học thêm ${missingMins} phút ngay để giữ vững ngọn lửa Streak trước nửa đêm nhé!`;
 
   const replyMarkup = {
     inline_keyboard: [
@@ -294,10 +320,13 @@ async function checkTelegramScheduler(baseUrl = 'https://mihi-toeic.onrender.com
   const results = [];
 
   // Check Morning (08:00)
-  if (forceType === 'morning' || (config.morningEnabled && config.lastMorningNotifiedDate !== today && currentTimeStr >= config.morningTime)) {
+  const isMorningHours = currentTimeStr >= (config.morningTime || '08:00') && currentTimeStr < '12:00';
+  if (forceType === 'morning' || (config.morningEnabled && config.lastMorningNotifiedDate !== today && isMorningHours)) {
     try {
       await sendMorningReminder(baseUrl);
-      saveTelegramConfig({ lastMorningNotifiedDate: today });
+      if (isMorningHours) {
+        saveTelegramConfig({ lastMorningNotifiedDate: today });
+      }
       results.push('Morning reminder sent');
     } catch (err) {
       console.error('[Telegram] Morning reminder error:', err);
@@ -306,7 +335,7 @@ async function checkTelegramScheduler(baseUrl = 'https://mihi-toeic.onrender.com
   }
 
   // Check Evening (20:00)
-  const isEveningHours = currentTimeStr >= '19:30' && currentTimeStr <= '23:59';
+  const isEveningHours = currentTimeStr >= (config.eveningTime || '20:00') && currentTimeStr <= '23:59';
   if (forceType === 'evening' || (config.eveningEnabled && config.lastEveningNotifiedDate !== today && isEveningHours)) {
     try {
       const res = await sendEveningStreakReminder(baseUrl);
@@ -325,7 +354,7 @@ async function checkTelegramScheduler(baseUrl = 'https://mihi-toeic.onrender.com
   }
 
   // Check 9h Tối (21:00) - Chưa học đủ 1 tiếng (Night Target)
-  const isNightHours = currentTimeStr >= (config.nightTargetTime || '20:30') && currentTimeStr <= '23:59';
+  const isNightHours = currentTimeStr >= (config.nightTargetTime || '21:00') && currentTimeStr <= '23:59';
   if (forceType === 'night_target' || forceType === '21h' || (config.nightTargetEnabled && config.lastNightNotifiedDate !== today && isNightHours)) {
     try {
       const res = await sendNightTargetReminder(baseUrl);
@@ -456,6 +485,8 @@ ${missing > 0 ? `• Còn thiếu: <b>${missing} phút</b> nữa để hoàn th�
     const streakData = getStreakData();
     const studySec = getTodayStudyTimeSeconds();
     const studyMins = Math.floor(studySec / 60);
+    const goalInfo = getStreakGoalInfo((streakData && streakData.startDate) || DEFAULT_STREAK_START_DATE);
+    const missingMins = Math.max(0, goalInfo.requiredMinutes - studyMins);
 
     let streakCount = 2; // Default to current streak
     if (streakData && typeof streakData.currentStreak === 'number') {
@@ -467,17 +498,20 @@ ${missing > 0 ? `• Còn thiếu: <b>${missing} phút</b> nữa để hoàn th�
       text = `🔥 <b>TRẠNG THÁI CHUỖI STREAK HÔM NAY:</b>
 
 🎉 <b>Chuỗi hiện tại: ${streakCount} ngày liên tiếp!</b> 🔥
-✅ <b>Hôm nay bạn đã điểm danh & học ${studyMins > 0 ? `${studyMins} phút` : 'bài'} rồi!</b>
-🛡️ Ngọn lửa Streak đang được bảo vệ an toàn tuyệt đối.
+📌 <b>Mức hiện tại:</b> ${goalInfo.stageName}
+✅ <b>Tiến độ hôm nay:</b> Đã học <b>${studyMins}/${goalInfo.requiredMinutes} phút</b>!
+🛡️ Ngọn lửa Streak hôm nay đã được thắp sáng an toàn!
 
 👉 Hãy tiếp tục duy trì phong độ rực rỡ này vào ngày mai nhé!`;
     } else {
       text = `🔥 <b>TRẠNG THÁI CHUỖI STREAK HÔM NAY:</b>
 
-⚠️ <b>Hôm nay bạn chưa học bài!</b>
-⏳ Chuỗi Streak (${streakCount} ngày) có nguy cơ bị tắt trước nửa đêm!
+⏳ <b>Chuỗi hiện tại: ${streakCount} ngày</b> (Chưa thắp lửa hôm nay)
+📌 <b>Mức hiện tại:</b> ${goalInfo.stageName}
+📊 <b>Tiến độ hôm nay:</b> Mới học <b>${studyMins}/${goalInfo.requiredMinutes} phút</b>
+⚠️ Cần học thêm <b>${missingMins} phút</b> nữa trước nửa đêm để thắp chuỗi Streak!
 
-👉 Hãy vào web làm 1 bài luyện ngắn hoặc lướt vài thẻ Flashcard để giữ vững ngọn lửa Streak nào!`;
+👉 Hãy vào web lướt thẻ Flashcard hoặc luyện bài ngay để đủ ${goalInfo.requiredMinutes} phút nhé!`;
     }
 
     const replyMarkup = {

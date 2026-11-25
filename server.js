@@ -587,12 +587,13 @@ app.get('/api/streak', (req, res) => {
 // API: Sync streak from client
 app.post('/api/streak/sync', (req, res) => {
   try {
-    const { currentStreak, bestStreak, totalDays, lastActiveDate, history } = req.body || {};
+    const { currentStreak, bestStreak, totalDays, lastActiveDate, startDate, history } = req.body || {};
     const streakPath = path.join(DATA_DIR, 'streak.json');
     let data = {
-      currentStreak: Number(currentStreak) || 2,
-      bestStreak: Number(bestStreak) || 2,
-      totalDays: Number(totalDays) || 2,
+      currentStreak: typeof currentStreak === 'number' ? currentStreak : 2,
+      bestStreak: typeof bestStreak === 'number' ? bestStreak : 2,
+      totalDays: typeof totalDays === 'number' ? totalDays : 2,
+      startDate: startDate || '2026-11-22',
       lastActiveDate: lastActiveDate || new Date().toISOString().split('T')[0],
       history: Array.isArray(history) ? history : ['2026-11-23'],
       lastUpdated: new Date().toISOString()

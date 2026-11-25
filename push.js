@@ -99,38 +99,60 @@ function getVietnamDateStr() {
   return `${y}-${m}-${day}`;
 }
 
+function getStreakGoalMinutes(startDateStr = '2026-11-22', todayStr = null) {
+  const today = todayStr || getVietnamDateStr();
+  const start = new Date(startDateStr + 'T00:00:00');
+  const cur = new Date(today + 'T00:00:00');
+  const diffDays = Math.max(0, Math.floor((cur - start) / 86400000));
+  if (diffDays < 14) return 15;
+  if (diffDays < 28) return 30;
+  return 60;
+}
+
 function isStudiedToday() {
   const todayStr = getVietnamDateStr();
+  let startDate = '2026-11-22';
 
-  // 1. Check streak.json (synced from client)
   const streakPath = path.join(DATA_DIR, 'streak.json');
   if (fs.existsSync(streakPath)) {
     try {
       const s = JSON.parse(fs.readFileSync(streakPath, 'utf-8'));
-      if (s && s.lastActiveDate === todayStr) return true;
+      if (s && s.startDate) startDate = s.startDate;
     } catch (e) {}
   }
 
-  // 2. Check study_time.json (time spent >= 60 seconds)
+  const requiredSeconds = getStreakGoalMinutes(startDate, todayStr) * 60;
+  let totalSec = 0;
+
+  // 1. Check study_time.json
   const studyTimePath = path.join(DATA_DIR, 'study_time.json');
   if (fs.existsSync(studyTimePath)) {
     try {
       const studyData = JSON.parse(fs.readFileSync(studyTimePath, 'utf-8'));
-      if (studyData[todayStr] && studyData[todayStr].totalSeconds >= 60) return true;
+      if (studyData[todayStr] && typeof studyData[todayStr].totalSeconds === 'number') {
+        totalSec = Math.max(totalSec, studyData[todayStr].totalSeconds);
+      }
     } catch (e) {}
   }
 
-  // 3. Check history.json (tests taken)
+  // 2. Check history.json (tests taken)
   const historyPath = path.join(DATA_DIR, 'history.json');
   if (fs.existsSync(historyPath)) {
     try {
       const history = JSON.parse(fs.readFileSync(historyPath, 'utf-8'));
       if (Array.isArray(history)) {
-        return history.some(item => item.date && item.date.startsWith(todayStr));
+        let histSec = 0;
+        history.forEach(item => {
+          if (item.date && item.date.startsWith(todayStr)) {
+            histSec += (item.timeSpentSeconds || 0);
+          }
+        });
+        totalSec = Math.max(totalSec, histSec);
       }
     } catch (e) {}
   }
-  return false;
+
+  return totalSec >= requiredSeconds;
 }
 
 async function triggerPushScheduler(forceType = null) {
