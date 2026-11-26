@@ -1,15 +1,18 @@
 {
   "streak": {
-    "currentStreak": 1,
-    "bestStreak": 1,
-    "totalDays": 2,
+    "currentStreak": 5,
+    "bestStreak": 5,
+    "totalDays": 5,
     "startDate": "2026-11-22",
     "lastActiveDate": "2026-11-26",
     "history": [
       "2026-11-22",
+      "2026-11-23",
+      "2026-11-24",
+      "2026-11-25",
       "2026-11-26"
     ],
-    "lastUpdated": "2026-11-26T15:22:44.106Z"
+    "lastUpdated": "2026-11-26T15:29:19.321Z"
   },
   "studyTime": {
     "totalSeconds": 3215,
@@ -398,5 +401,5 @@
       "timeSpentSeconds": 3600
     }
   ],
-  "lastSyncedAt": "2026-11-26T15:26:27.437Z"
+  "lastSyncedAt": "2026-11-26T15:29:19.323Z"
 }

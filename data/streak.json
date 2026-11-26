@@ -1,12 +1,15 @@
 {
-  "currentStreak": 2,
-  "bestStreak": 2,
-  "totalDays": 2,
+  "currentStreak": 5,
+  "bestStreak": 5,
+  "totalDays": 5,
   "startDate": "2026-11-22",
-  "lastActiveDate": "2026-11-23",
+  "lastActiveDate": "2026-11-26",
   "history": [
     "2026-11-22",
-    "2026-11-23"
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25",
+    "2026-11-26"
   ],
-  "lastUpdated": "2026-11-25T13:10:00.000Z"
+  "lastUpdated": "2026-11-26T15:29:19.321Z"
 }
