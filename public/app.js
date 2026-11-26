@@ -5923,11 +5923,17 @@ function renderDashboardView() {
       <div class="p-3 rounded-2xl bg-amber-50/80 border border-amber-200/80 flex items-center justify-between gap-3 shadow-2xs">
         <div class="flex items-center gap-2.5">
           <span class="text-xs font-black text-slate-500 w-8">#1010</span>
-          <div class="w-8 h-8 rounded-full overflow-hidden shadow-xs ring-2 ring-indigo-100 flex-shrink-0">
-            <img src="/mihi.jpg" alt="Minh Hiếu" class="w-full h-full object-cover">
-          </div>
+          ${currentAuthUser ? `
+            <div class="w-8 h-8 rounded-full overflow-hidden shadow-xs ring-2 ring-indigo-100 flex-shrink-0">
+              <img src="${currentAuthUser.avatar || '/mihi.jpg'}" alt="${currentAuthUser.fullName}" class="w-full h-full object-cover">
+            </div>
+          ` : `
+            <div class="w-8 h-8 rounded-full bg-gradient-to-tr from-[#5648ee] to-purple-600 text-white font-black text-xs flex items-center justify-center shadow-xs flex-shrink-0">
+              B
+            </div>
+          `}
           <div>
-            <div class="text-xs font-black text-slate-900">Bạn (Minh Hiếu)</div>
+            <div class="text-xs font-black text-slate-900">${currentAuthUser ? `Bạn (${currentAuthUser.fullName})` : 'Bạn (Khách)'}</div>
             <div class="text-[10px] text-amber-700 font-bold">Chăm chỉ mỗi ngày</div>
           </div>
         </div>
@@ -6284,6 +6290,8 @@ function updateAuthUI() {
   const loginBtn = document.getElementById('header-login-btn');
   const avatarEl = document.getElementById('header-user-avatar');
   const dbGreetingEl = document.getElementById('db-greeting-name');
+  const dbAvatarEl = document.getElementById('db-greeting-avatar');
+  const otherAvatars = document.querySelectorAll('.auth-only-avatar');
 
   if (currentAuthUser) {
     if (loginBtn) loginBtn.classList.add('hidden');
@@ -6296,6 +6304,14 @@ function updateAuthUI() {
     if (dbGreetingEl) {
       dbGreetingEl.textContent = currentAuthUser.fullName || 'Phan Minh Hiếu';
     }
+    if (dbAvatarEl) {
+      dbAvatarEl.innerHTML = `<img src="${currentAuthUser.avatar || '/mihi.jpg'}" alt="${currentAuthUser.fullName}" class="w-full h-full object-cover">`;
+    }
+    otherAvatars.forEach(el => {
+      el.classList.remove('hidden');
+      const img = el.querySelector('img');
+      if (img) img.src = currentAuthUser.avatar || '/mihi.jpg';
+    });
   } else {
     if (loginBtn) loginBtn.classList.remove('hidden');
     if (avatarEl) {
@@ -6304,6 +6320,10 @@ function updateAuthUI() {
     if (dbGreetingEl) {
       dbGreetingEl.textContent = 'bạn mới';
     }
+    if (dbAvatarEl) {
+      dbAvatarEl.innerHTML = 'M';
+    }
+    otherAvatars.forEach(el => el.classList.add('hidden'));
   }
   if (window.lucide) lucide.createIcons();
 }
@@ -6633,6 +6653,8 @@ async function syncAccountProgress(restoreToUi = false) {
 async function logoutUser() {
   const token = getAuthToken();
   if (token) {
+    // Save latest progress to server BEFORE logging out
+    await syncAccountProgress(false);
     fetch('/api/auth/logout', {
       method: 'POST',
       headers: { 'Authorization': `Bearer ${token}` }
@@ -6640,6 +6662,19 @@ async function logoutUser() {
   }
   setAuthSession('', null);
   closeModal('account-modal');
+
+  // Clear local progress cache for guest mode (account progress stays safely on server)
+  try {
+    localStorage.removeItem(STREAK_STORAGE_KEY);
+    localStorage.removeItem(STUDY_TIME_STORAGE_KEY);
+    localStorage.removeItem(WRONG_VOCAB_STORAGE_KEY);
+  } catch (e) {}
+
+  wrongVocabList = [];
+  initStreak();
+  renderHomeWrongVocabSection();
+  showView('home');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 

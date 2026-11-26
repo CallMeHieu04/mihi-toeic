@@ -580,8 +580,8 @@
           <button onclick="toggleFullScreen()" class="w-8 h-8 rounded-full border border-slate-200 flex items-center justify-center text-slate-500 hover:bg-slate-100" title="Toàn màn hình">
             <i data-lucide="maximize" class="w-4 h-4"></i>
           </button>
-          <div class="w-8 h-8 rounded-full overflow-hidden shadow-xs ring-2 ring-indigo-100 flex-shrink-0" title="Minh Hiếu">
-            <img src="/mihi.jpg" alt="Minh Hiếu" class="w-full h-full object-cover">
+          <div class="auth-only-avatar hidden w-8 h-8 rounded-full overflow-hidden shadow-xs ring-2 ring-indigo-100 flex-shrink-0" title="Tài khoản">
+            <img src="/mihi.jpg" alt="Avatar" class="w-full h-full object-cover">
           </div>
         </div>
       </div>
@@ -866,8 +866,8 @@
           <button onclick="toggleFullScreen()" class="w-8 h-8 rounded-full border border-slate-200 flex items-center justify-center text-slate-500 hover:bg-slate-100" title="Toàn màn hình">
             <i data-lucide="maximize" class="w-4 h-4"></i>
           </button>
-          <div class="w-8 h-8 rounded-full overflow-hidden shadow-xs ring-2 ring-indigo-100 flex-shrink-0" title="Minh Hiếu">
-            <img src="/mihi.jpg" alt="Minh Hiếu" class="w-full h-full object-cover">
+          <div class="auth-only-avatar hidden w-8 h-8 rounded-full overflow-hidden shadow-xs ring-2 ring-indigo-100 flex-shrink-0" title="Tài khoản">
+            <img src="/mihi.jpg" alt="Avatar" class="w-full h-full object-cover">
           </div>
         </div>
       </div>
@@ -1316,12 +1316,12 @@
       <!-- Top Bar: Greeting & Link -->
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
         <div class="flex items-center gap-3.5">
-          <div class="w-12 h-12 rounded-2xl overflow-hidden shadow-md ring-2 ring-indigo-200 flex-shrink-0">
-            <img src="/mihi.jpg" alt="Phan Minh Hiếu" class="w-full h-full object-cover">
+          <div id="db-greeting-avatar" class="w-12 h-12 rounded-2xl overflow-hidden shadow-md ring-2 ring-indigo-200 flex-shrink-0 bg-gradient-to-tr from-[#5648ee] to-purple-600 text-white flex items-center justify-center font-black text-xl">
+            M
           </div>
           <div>
             <h1 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              Xin chào, <span id="db-greeting-name" class="text-[#5648ee]">Phan Minh Hiếu</span>!
+              Xin chào, <span id="db-greeting-name" class="text-[#5648ee]">bạn mới</span>!
             </h1>
             <p id="dashboard-date-quote" class="text-xs sm:text-sm text-slate-500 font-medium mt-0.5">
               Chủ Nhật, 22/11/2026 • Bắt đầu hôm nay — chỉ vài phút mỗi ngày là đủ tạo thói quen.
