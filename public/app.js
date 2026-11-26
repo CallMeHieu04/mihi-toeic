@@ -93,6 +93,7 @@ const TOEIC_PARTS_INFO = [
 // Initialize
 document.addEventListener('DOMContentLoaded', async () => {
   if (window.lucide) lucide.createIcons();
+  initThemeMode();
   initStreak();
   initDailyReminders();
   initStudyTimeTracker();
@@ -4451,6 +4452,35 @@ function showFlashcardSummaryModal() {
     </div>
   `;
   document.body.insertAdjacentHTML('beforeend', modalHtml);
+  if (window.lucide) lucide.createIcons();
+}
+
+const THEME_STORAGE_KEY = 'mihi_theme_mode_v1';
+
+function initThemeMode() {
+  let isDark = false;
+  try {
+    isDark = localStorage.getItem(THEME_STORAGE_KEY) === 'dark';
+  } catch (e) {}
+  applyThemeMode(isDark);
+}
+
+function toggleDarkMode() {
+  const isDark = !document.body.classList.contains('dark-mode');
+  try {
+    localStorage.setItem(THEME_STORAGE_KEY, isDark ? 'dark' : 'light');
+  } catch (e) {}
+  applyThemeMode(isDark);
+}
+
+function applyThemeMode(isDark) {
+  document.body.classList.toggle('dark-mode', isDark);
+  document.documentElement.classList.toggle('dark', isDark);
+
+  document.querySelectorAll('.theme-toggle-btn').forEach(btn => {
+    btn.innerHTML = `<i data-lucide="${isDark ? 'moon' : 'sun'}" class="w-4 h-4 ${isDark ? 'text-amber-400' : ''}"></i>`;
+    btn.title = isDark ? 'Chuyển sang nền sáng' : 'Chuyển sang nền tối';
+  });
   if (window.lucide) lucide.createIcons();
 }
 
