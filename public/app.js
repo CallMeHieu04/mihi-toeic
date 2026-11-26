@@ -131,6 +131,9 @@ async function loadInitialData() {
 
 // ================= VIEW SWITCHER =================
 function showView(viewName) {
+  if (viewName !== 'home' && !requireAuth('🔒 Vui lòng đăng nhập tài khoản để vào học, xem Dashboard hoặc Lịch sử!')) {
+    return;
+  }
   document.querySelectorAll('.view-panel').forEach(p => p.classList.add('hidden'));
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
 
@@ -501,6 +504,7 @@ function switchVocabSubTab(tab) {
 
 // Modal for Part Subtopics (Lessons & Practice tests)
 function openPracticeSubtopicsModal(partSlug) {
+  if (!requireAuth('🔒 Vui lòng đăng nhập để luyện tập các phần TOEIC!')) return;
   const part = (practiceSummary || []).find(p => p.slug === partSlug);
   if (!part) return;
 
@@ -606,6 +610,7 @@ function switchModalSubTab(tab) {
 
 // Modal for Grammar Topic (Practice tests & Theory)
 function openGrammarTopicModal(topicId) {
+  if (!requireAuth('🔒 Vui lòng đăng nhập để học chuyên đề ngữ pháp!')) return;
   const grammar = (practiceSummary || []).find(p => p.slug === 'grammar');
   if (!grammar) return;
   const topics = grammar.topics || grammar.subTopics || [];
@@ -704,6 +709,7 @@ function switchGrammarModalTab(tab) {
 
 // Modal for Reading Lessons & Grammar
 async function openLessonReader(lessonId, lessonTitle) {
+  if (!requireAuth('🔒 Vui lòng đăng nhập để đọc lý thuyết bài học!')) return;
   let contentVi = '';
   let contentEn = '';
   let activeTopic = null;
@@ -841,6 +847,7 @@ function closeModal(modalId) {
 // ================= EXAM ENGINE (V2) =================
 
 async function startTest(testId, testTitle, practiceMode = false, simulationMode = false) {
+  if (!requireAuth('🔒 Vui lòng đăng nhập để làm bài thi và lưu kết quả!')) return;
   isPracticeMode = practiceMode;
   isSimulationMode = simulationMode;
   if (!isSimulationMode) {
@@ -3864,6 +3871,7 @@ function cleanHtmlText(str) {
 }
 
 async function startFlashcardSession(topicId, topicTitle, onlyUnlearned = false) {
+  if (!requireAuth('🔒 Vui lòng đăng nhập để học từ vựng và lưu tiến trình!')) return;
   isWrongVocabReviewMode = false;
   // If practiceSummary is not loaded yet, fetch it
   if (!practiceSummary) {
@@ -4732,6 +4740,7 @@ function showStreakToast(streakCount) {
 }
 
 function openStreakModal() {
+  if (!requireAuth('🔒 Vui lòng đăng nhập để xem và điểm danh Streak của bạn!')) return;
   const data = getStreakData();
   const today = getLocalDateString();
   const isTodayActive = (data.lastActiveDate === today);
@@ -5241,6 +5250,7 @@ async function fetchTelegramStatus() {
 }
 
 async function openReminderSettingsModal() {
+  if (!requireAuth('🔒 Vui lòng đăng nhập để cài đặt lịch nhắc nhở!')) return;
   const settings = getReminderSettings();
   const hasPermission = ('Notification' in window) && (Notification.permission === 'granted');
   const isDenied = ('Notification' in window) && (Notification.permission === 'denied');
@@ -5647,8 +5657,9 @@ function initStudyTimeTracker() {
     window.addEventListener(evt, recordInteraction, { passive: true });
   });
 
-  // Track active time every 5 seconds if user is active
+  // Track active time every 5 seconds if user is logged in and active
   setInterval(() => {
+    if (!currentAuthUser || !getAuthToken()) return;
     // Check if user interacted within last 2 minutes (120,000ms)
     const isUserActive = (Date.now() - lastUserInteractionTime) < 120000;
     if (!isUserActive) return;
@@ -6015,6 +6026,11 @@ function saveLocalWrongVocab(list) {
 }
 
 async function loadWrongVocab() {
+  if (!currentAuthUser || !getAuthToken()) {
+    wrongVocabList = [];
+    renderHomeWrongVocabSection();
+    return;
+  }
   // Render immediately from localStorage so UI never hangs on "Đang tải..."
   wrongVocabList = getLocalWrongVocab();
   renderHomeWrongVocabSection();
@@ -6145,6 +6161,21 @@ function renderHomeWrongVocabSection(todayStr = null) {
     }
   }
 
+  if (!currentAuthUser || !getAuthToken()) {
+    if (actionsEl) actionsEl.classList.add('hidden');
+    if (badgeEl) {
+      badgeEl.textContent = 'Cần đăng nhập';
+      badgeEl.className = 'px-2.5 py-0.5 rounded-full text-[10px] font-black bg-slate-100 text-slate-600';
+    }
+    bodyEl.innerHTML = `
+      <div class="p-3.5 rounded-2xl bg-slate-50 border border-slate-100 text-slate-600 text-xs font-semibold flex flex-col sm:flex-row items-center justify-between gap-2">
+        <span>🔒 Vui lòng đăng nhập tài khoản để lưu từ sai và nhận nhắc nhở ôn tập sau 3 ngày.</span>
+        <button onclick="openAuthModal('login')" class="px-3.5 py-1.5 rounded-xl bg-[#5648ee] hover:bg-[#4335df] text-white font-black text-xs transition cursor-pointer flex-shrink-0">Đăng nhập ngay</button>
+      </div>
+    `;
+    return;
+  }
+
   if (total === 0) {
     if (actionsEl) actionsEl.classList.add('hidden');
     bodyEl.innerHTML = `
@@ -6197,6 +6228,7 @@ function renderHomeWrongVocabSection(todayStr = null) {
 }
 
 function startWrongVocabReview(mode = 'quiz') {
+  if (!requireAuth('🔒 Vui lòng đăng nhập để ôn tập từ vựng sai!')) return;
   if (!wrongVocabList || wrongVocabList.length === 0) {
     alert('Hiện tại chưa có từ vựng sai nào để ôn tập!');
     return;
@@ -6251,6 +6283,9 @@ function setAuthSession(token, user) {
   } catch (e) {}
   currentAuthUser = user || null;
   updateAuthUI();
+  if (typeof renderHomeWrongVocabSection === 'function') {
+    renderHomeWrongVocabSection();
+  }
 }
 
 async function initAuth() {
@@ -6328,6 +6363,12 @@ function updateAuthUI() {
   if (window.lucide) lucide.createIcons();
 }
 
+function requireAuth(message = '🔒 Vui lòng đăng nhập tài khoản để sử dụng tính năng này!') {
+  if (currentAuthUser && getAuthToken()) return true;
+  openAuthModal('login', message);
+  return false;
+}
+
 function handleHeaderUserClick() {
   if (currentAuthUser) {
     openAccountModal();
@@ -6336,9 +6377,13 @@ function handleHeaderUserClick() {
   }
 }
 
-function openAuthModal(defaultTab = 'login') {
+function openAuthModal(defaultTab = 'login', noticeMsg = '') {
   const existing = document.getElementById('auth-modal');
   if (existing) existing.remove();
+
+  const noticeHtml = noticeMsg
+    ? `<div class="mb-4 p-3 rounded-xl bg-indigo-50 border border-indigo-200 text-[#5648ee] text-xs font-bold text-center">${noticeMsg}</div>`
+    : '';
 
   const modalHtml = `
     <div id="auth-modal" onclick="if(event.target===this) closeModal('auth-modal')" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-150">
@@ -6355,6 +6400,8 @@ function openAuthModal(defaultTab = 'login') {
           <h3 class="text-xl font-black text-slate-900">Tài khoản MiHi TOEIC</h3>
           <p class="text-xs text-slate-500 mt-0.5">Đăng nhập hoặc tạo tài khoản để đồng bộ tiến độ học tập</p>
         </div>
+
+        ${noticeHtml}
 
         <!-- Tabs: Đăng nhập / Đăng ký -->
         <div class="grid grid-cols-2 p-1 bg-slate-100 rounded-2xl mb-5 text-xs font-black">
