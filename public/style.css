@@ -327,7 +327,7 @@ audio::-webkit-media-controls-panel {
 
 
 
-/* ================= DARK MODE THEME ================= */
+/* ================= DARK MODE THEME (COMPREHENSIVE) ================= */
 body.dark-mode {
   background-color: #0b1120 !important;
   color: #f1f5f9 !important;
@@ -357,6 +357,7 @@ body.dark-mode #view-home > section:first-child {
   border-color: #1e293b !important;
 }
 
+/* All headings & dark text utilities -> bright legible text */
 body.dark-mode h1,
 body.dark-mode h2,
 body.dark-mode h3,
@@ -365,7 +366,16 @@ body.dark-mode .text-slate-900,
 body.dark-mode .text-slate-800,
 body.dark-mode .text-slate-700,
 body.dark-mode .text-\[\#19243f\],
-body.dark-mode .text-\[\#2a3652\] {
+body.dark-mode .text-\[\#2a3652\],
+body.dark-mode .text-indigo-950,
+body.dark-mode .text-amber-950,
+body.dark-mode .text-rose-950,
+body.dark-mode .text-emerald-950,
+body.dark-mode .text-blue-900,
+body.dark-mode .text-orange-900,
+body.dark-mode .text-amber-900,
+body.dark-mode .text-rose-900,
+body.dark-mode .text-red-900 {
   color: #f8fafc !important;
 }
 
@@ -378,10 +388,12 @@ body.dark-mode .text-slate-400 {
   color: #94a3b8 !important;
 }
 
-body.dark-mode .text-\[\#5648ee\] {
-  color: #818cf8 !important;
+body.dark-mode .text-\[\#5648ee\],
+body.dark-mode .text-indigo-800 {
+  color: #a5b4fc !important;
 }
 
+body.dark-mode .text-orange-800,
 body.dark-mode .text-orange-700,
 body.dark-mode .text-orange-600 {
   color: #fb923c !important;
@@ -398,10 +410,9 @@ body.dark-mode .text-emerald-600 {
   color: #34d399 !important;
 }
 
-body.dark-mode .text-rose-900,
+body.dark-mode .text-rose-800,
 body.dark-mode .text-rose-700,
-body.dark-mode .text-rose-600,
-body.dark-mode .text-red-900 {
+body.dark-mode .text-rose-600 {
   color: #fda4af !important;
 }
 
@@ -413,15 +424,17 @@ body.dark-mode .text-teal-600 {
   color: #2dd4bf !important;
 }
 
+/* White & light slate surfaces */
 body.dark-mode .bg-white,
 body.dark-mode .bg-white\/95,
+body.dark-mode .bg-white\/90,
 body.dark-mode .bg-white\/80,
 body.dark-mode .bg-white\/70 {
   background-color: #162032 !important;
   border-color: #26354d !important;
 }
 
-/* Keep white buttons inside orange streak banner crisp */
+/* Keep white CTA inside orange streak banner crisp */
 body.dark-mode .bg-gradient-to-r.from-\[\#ff6b3d\] .bg-white,
 body.dark-mode .bg-gradient-to-r.from-\[\#ff6b3d\] .text-\[\#ff7733\] {
   background-color: #ffffff !important;
@@ -429,7 +442,11 @@ body.dark-mode .bg-gradient-to-r.from-\[\#ff6b3d\] .text-\[\#ff7733\] {
 }
 
 body.dark-mode .bg-slate-50,
+body.dark-mode .bg-slate-50\/50,
+body.dark-mode .bg-slate-50\/60,
+body.dark-mode .bg-slate-50\/70,
 body.dark-mode .bg-slate-50\/80,
+body.dark-mode .bg-slate-50\/90,
 body.dark-mode .bg-slate-100,
 body.dark-mode .bg-slate-100\/90,
 body.dark-mode .bg-\[\#f6f7fb\],
@@ -438,48 +455,75 @@ body.dark-mode .bg-\[\#f1f3f7\] {
   border-color: #334155 !important;
 }
 
-/* Pastel tinted cards in Dark Mode */
+/* Pastel gradient cards & translucent boxes -> dark tinted surfaces */
+body.dark-mode [class*="from-indigo-50"],
+body.dark-mode [class*="from-amber-50"],
+body.dark-mode [class*="from-orange-50"],
+body.dark-mode [class*="from-rose-50"] {
+  background-image: none !important;
+}
+
 body.dark-mode .bg-indigo-50,
-body.dark-mode .bg-indigo-50\/80,
+body.dark-mode .bg-indigo-50\/50,
 body.dark-mode .bg-indigo-50\/70,
+body.dark-mode .bg-indigo-50\/80,
+body.dark-mode .bg-indigo-50\/90,
+body.dark-mode .bg-indigo-100,
 body.dark-mode .bg-purple-50,
 body.dark-mode .bg-blue-50,
-body.dark-mode .bg-\[\#edf0fe\] {
+body.dark-mode .bg-blue-50\/50,
+body.dark-mode .bg-blue-50\/60,
+body.dark-mode .bg-\[\#edf0fe\],
+body.dark-mode [class*="from-indigo-50"] {
   background-color: rgba(79, 70, 229, 0.16) !important;
-  border-color: rgba(129, 140, 248, 0.25) !important;
+  border-color: rgba(129, 140, 248, 0.28) !important;
 }
 
 body.dark-mode .bg-amber-50,
-body.dark-mode .bg-amber-50\/80,
 body.dark-mode .bg-amber-50\/40,
+body.dark-mode .bg-amber-50\/60,
+body.dark-mode .bg-amber-50\/80,
+body.dark-mode .bg-amber-100,
+body.dark-mode .bg-amber-100\/60,
 body.dark-mode .bg-orange-50,
+body.dark-mode .bg-orange-50\/50,
+body.dark-mode .bg-orange-50\/60,
+body.dark-mode .bg-orange-50\/70,
 body.dark-mode .bg-orange-50\/80,
-body.dark-mode .bg-\[\#fff3ec\] {
-  background-color: rgba(245, 158, 11, 0.14) !important;
-  border-color: rgba(251, 191, 36, 0.25) !important;
+body.dark-mode .bg-orange-100,
+body.dark-mode .bg-\[\#fff3ec\],
+body.dark-mode [class*="from-amber-50"],
+body.dark-mode [class*="from-orange-50"] {
+  background-color: rgba(245, 158, 11, 0.15) !important;
+  border-color: rgba(251, 191, 36, 0.28) !important;
 }
 
 body.dark-mode .bg-rose-50,
+body.dark-mode .bg-rose-50\/40,
+body.dark-mode .bg-rose-50\/60,
 body.dark-mode .bg-rose-50\/70,
-body.dark-mode .bg-rose-100 {
+body.dark-mode .bg-rose-50\/80,
+body.dark-mode .bg-rose-100,
+body.dark-mode .bg-rose-100\/60,
+body.dark-mode .bg-rose-100\/90,
+body.dark-mode .bg-red-50,
+body.dark-mode [class*="from-rose-50"] {
   background-color: rgba(244, 63, 94, 0.16) !important;
   border-color: rgba(251, 113, 133, 0.28) !important;
 }
 
 body.dark-mode .bg-emerald-50,
+body.dark-mode .bg-emerald-50\/50,
+body.dark-mode .bg-emerald-50\/70,
 body.dark-mode .bg-emerald-50\/80,
+body.dark-mode .bg-emerald-100,
+body.dark-mode .bg-emerald-100\/90,
 body.dark-mode .bg-teal-50 {
-  background-color: rgba(16, 185, 129, 0.15) !important;
-  border-color: rgba(52, 211, 153, 0.25) !important;
+  background-color: rgba(16, 185, 129, 0.16) !important;
+  border-color: rgba(52, 211, 153, 0.28) !important;
 }
 
-/* Preview gradient cards on Hero */
-body.dark-mode .from-indigo-50.to-blue-50,
-body.dark-mode .from-orange-50.to-amber-50 {
-  background-image: none !important;
-  background-color: #1e293b !important;
-}
-
+/* Borders */
 body.dark-mode .border-slate-200,
 body.dark-mode .border-slate-200\/80,
 body.dark-mode .border-slate-200\/90,
@@ -488,6 +532,33 @@ body.dark-mode .border-slate-100 {
   border-color: #2d3f59 !important;
 }
 
+/* Inputs, selects, tables, grammar prose */
+body.dark-mode input,
+body.dark-mode select,
+body.dark-mode textarea {
+  background-color: #0f172a !important;
+  color: #f8fafc !important;
+  border-color: #334155 !important;
+}
+
+body.dark-mode .lesson-content,
+body.dark-mode .prose,
+body.dark-mode .passage-body {
+  color: #e2e8f0 !important;
+}
+
+body.dark-mode .lesson-content th {
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+  border-color: #334155 !important;
+}
+
+body.dark-mode .lesson-content td {
+  border-color: #334155 !important;
+  color: #e2e8f0 !important;
+}
+
+/* Interactive states */
 body.dark-mode .exam-choice-item:hover,
 body.dark-mode .quiz-choice-item:hover {
   background-color: #243247 !important;
