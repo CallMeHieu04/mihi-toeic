@@ -3306,6 +3306,21 @@ function renderCurrentQuizQuestion() {
 
   // Audio player setup
   setupQuizAudioPlayer(q.audioUrl);
+  if (flashcardActiveMode === 'quiz' && getVocabSettings().autoPronounce && q.audioUrl) {
+    setTimeout(() => {
+      if (flashcardActiveMode === 'quiz') {
+        const audioEl = document.getElementById('quiz-audio-element');
+        const playIcon = document.getElementById('quiz-play-icon');
+        if (audioEl && audioEl.src) {
+          audioEl.currentTime = 0;
+          audioEl.play().then(() => {
+            if (playIcon) playIcon.setAttribute('data-lucide', 'pause');
+            if (window.lucide) lucide.createIcons();
+          }).catch(err => console.log('Quiz audio autoplay prevented:', err));
+        }
+      }
+    }, 150);
+  }
 
   // Render 4 options
   const container = document.getElementById('quiz-options-container');
@@ -3900,6 +3915,13 @@ function renderCurrentFlashcard() {
   if (audioEl) {
     audioEl.src = card.audioUrl || '';
     audioEl.load();
+    if (flashcardActiveMode === 'study' && getVocabSettings().autoPronounce && card.audioUrl) {
+      setTimeout(() => {
+        if (flashcardActiveMode === 'study') {
+          playFlashcardAudio();
+        }
+      }, 150);
+    }
   }
 
   // Flag state
@@ -3963,6 +3985,85 @@ function flipFlashcard(e) {
   if (e) e.stopPropagation();
   const cardEl = document.getElementById('flashcard-card-element');
   if (cardEl) cardEl.classList.toggle('is-flipped');
+}
+
+const VOCAB_SETTINGS_KEY = 'mihi_vocab_settings_v1';
+
+function getVocabSettings() {
+  try {
+    const raw = localStorage.getItem(VOCAB_SETTINGS_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (parsed && typeof parsed.autoPronounce === 'boolean') {
+        return parsed;
+      }
+    }
+  } catch (e) {}
+  return { autoPronounce: true };
+}
+
+function saveVocabSettings(settings) {
+  try {
+    localStorage.setItem(VOCAB_SETTINGS_KEY, JSON.stringify(settings));
+  } catch (e) {}
+}
+
+function toggleVocabAutoPronounce() {
+  const settings = getVocabSettings();
+  settings.autoPronounce = !settings.autoPronounce;
+  saveVocabSettings(settings);
+  renderVocabSettingsSwitch(settings.autoPronounce);
+}
+
+function renderVocabSettingsSwitch(isOn) {
+  const track = document.getElementById('vocab-auto-audio-track');
+  const knob = document.getElementById('vocab-auto-audio-knob');
+  if (!track || !knob) return;
+  if (isOn) {
+    track.className = 'w-12 h-7 rounded-full bg-red-600 p-1 transition-colors duration-200 flex items-center cursor-pointer flex-shrink-0';
+    knob.className = 'w-5 h-5 rounded-full bg-white shadow-sm transform translate-x-5 transition-transform duration-200';
+  } else {
+    track.className = 'w-12 h-7 rounded-full bg-slate-300 p-1 transition-colors duration-200 flex items-center cursor-pointer flex-shrink-0';
+    knob.className = 'w-5 h-5 rounded-full bg-white shadow-sm transform translate-x-0 transition-transform duration-200';
+  }
+}
+
+function openVocabSettingsModal() {
+  const existing = document.getElementById('vocab-settings-modal');
+  if (existing) existing.remove();
+
+  const settings = getVocabSettings();
+  const isOn = !!settings.autoPronounce;
+
+  const modalHtml = `
+    <div id="vocab-settings-modal" onclick="if(event.target===this) closeModal('vocab-settings-modal')" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-xs animate-in fade-in duration-150">
+      <div class="bg-white rounded-3xl max-w-md w-full p-6 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150">
+        <div class="flex items-center justify-between mb-5">
+          <h3 class="text-xl font-black text-slate-900">Cài đặt học từ vựng</h3>
+          <button onclick="closeModal('vocab-settings-modal')" class="w-8 h-8 rounded-full hover:bg-slate-100 text-slate-400 hover:text-slate-700 flex items-center justify-center transition cursor-pointer">
+            ✕
+          </button>
+        </div>
+
+        <div class="text-[11px] font-black uppercase tracking-wider text-slate-500 mb-2.5 px-1">
+          CHUNG
+        </div>
+
+        <div onclick="toggleVocabAutoPronounce()" class="p-3.5 px-4 rounded-2xl bg-slate-100/90 hover:bg-slate-100 flex items-center justify-between gap-4 cursor-pointer select-none transition">
+          <span class="text-sm font-bold text-slate-800">Tự động phát âm</span>
+          <div id="vocab-auto-audio-track" class="w-12 h-7 rounded-full ${isOn ? 'bg-red-600' : 'bg-slate-300'} p-1 transition-colors duration-200 flex items-center cursor-pointer flex-shrink-0">
+            <div id="vocab-auto-audio-knob" class="w-5 h-5 rounded-full bg-white shadow-sm transform ${isOn ? 'translate-x-5' : 'translate-x-0'} transition-transform duration-200"></div>
+          </div>
+        </div>
+
+        <p class="text-[11px] text-slate-400 mt-3 px-1 leading-relaxed">
+          Khi bật, hệ thống sẽ tự động phát âm mỗi khi chuyển sang từ mới ở cả chế độ <b>Học thẻ</b> và <b>Kiểm tra từ mới</b>.
+        </p>
+      </div>
+    </div>
+  `;
+
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
 }
 
 function playFlashcardAudio(e) {
