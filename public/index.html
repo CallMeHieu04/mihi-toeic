@@ -144,9 +144,14 @@
           🇻🇳
         </div>
 
-        <!-- User Avatar (Minh Hiếu) -->
-        <div onclick="showView('dashboard')" class="w-9 h-9 rounded-full overflow-hidden shadow-md ring-2 ring-indigo-200 cursor-pointer hover:scale-105 active:scale-95 transition flex-shrink-0" title="Minh Hiếu (Bấm xem Dashboard)">
-          <img src="/mihi.jpg" alt="Minh Hiếu" class="w-full h-full object-cover">
+        <!-- Auth / Login Button (shown when not logged in) -->
+        <button id="header-login-btn" onclick="openAuthModal('login')" class="flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-indigo-200 bg-indigo-50 hover:bg-indigo-100 text-[#5648ee] font-extrabold text-xs transition cursor-pointer whitespace-nowrap flex-shrink-0">
+          <i data-lucide="log-in" class="w-3.5 h-3.5"></i> <span>Đăng nhập</span>
+        </button>
+
+        <!-- User Avatar (Phan Minh Hiếu) -->
+        <div id="header-user-avatar" onclick="handleHeaderUserClick()" class="w-9 h-9 rounded-full overflow-hidden shadow-md ring-2 ring-indigo-200 cursor-pointer hover:scale-105 active:scale-95 transition flex-shrink-0" title="Tài khoản / Đăng nhập">
+          <img src="/mihi.jpg" alt="Phan Minh Hiếu" class="w-full h-full object-cover">
         </div>
       </div>
     </div>
@@ -1316,7 +1321,7 @@
           </div>
           <div>
             <h1 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              Xin chào, <span class="text-[#5648ee]">Phan Minh Hiếu</span>!
+              Xin chào, <span id="db-greeting-name" class="text-[#5648ee]">Phan Minh Hiếu</span>!
             </h1>
             <p id="dashboard-date-quote" class="text-xs sm:text-sm text-slate-500 font-medium mt-0.5">
               Chủ Nhật, 22/11/2026 • Bắt đầu hôm nay — chỉ vài phút mỗi ngày là đủ tạo thói quen.

@@ -94,6 +94,7 @@ const TOEIC_PARTS_INFO = [
 document.addEventListener('DOMContentLoaded', async () => {
   if (window.lucide) lucide.createIcons();
   initThemeMode();
+  initAuth();
   initStreak();
   initDailyReminders();
   initStudyTimeTracker();
@@ -6223,6 +6224,355 @@ function startWrongVocabReview(mode = 'quiz') {
   showView('flashcard');
   switchFlashcardMode(mode === 'study' ? 'study' : 'quiz');
 }
+
+// ================= USER AUTHENTICATION (LOGIN / REGISTER) =================
+const AUTH_TOKEN_KEY = 'mihi_auth_token_v1';
+const AUTH_USER_KEY = 'mihi_auth_user_v1';
+let currentAuthUser = null;
+
+function getAuthToken() {
+  try { return localStorage.getItem(AUTH_TOKEN_KEY) || ''; } catch (e) { return ''; }
+}
+
+function setAuthSession(token, user) {
+  try {
+    if (token) localStorage.setItem(AUTH_TOKEN_KEY, token);
+    else localStorage.removeItem(AUTH_TOKEN_KEY);
+
+    if (user) localStorage.setItem(AUTH_USER_KEY, JSON.stringify(user));
+    else localStorage.removeItem(AUTH_USER_KEY);
+  } catch (e) {}
+  currentAuthUser = user || null;
+  updateAuthUI();
+}
+
+async function initAuth() {
+  try {
+    const cachedUser = localStorage.getItem(AUTH_USER_KEY);
+    if (cachedUser) {
+      currentAuthUser = JSON.parse(cachedUser);
+      updateAuthUI();
+    }
+  } catch (e) {}
+
+  const token = getAuthToken();
+  if (!token) {
+    updateAuthUI();
+    return;
+  }
+
+  try {
+    const res = await fetch('/api/auth/me', {
+      headers: { 'Authorization': `Bearer ${token}` }
+    });
+    if (res.ok) {
+      const data = await res.json();
+      if (data.authenticated && data.user) {
+        setAuthSession(token, data.user);
+      } else {
+        setAuthSession('', null);
+      }
+    }
+  } catch (e) {
+    console.error('Auth check error:', e);
+  }
+}
+
+function updateAuthUI() {
+  const loginBtn = document.getElementById('header-login-btn');
+  const avatarEl = document.getElementById('header-user-avatar');
+  const dbGreetingEl = document.getElementById('db-greeting-name');
+
+  if (currentAuthUser) {
+    if (loginBtn) loginBtn.classList.add('hidden');
+    if (avatarEl) {
+      avatarEl.title = `${currentAuthUser.fullName} (@${currentAuthUser.username}) — Bấm xem tài khoản`;
+    }
+    if (dbGreetingEl) {
+      dbGreetingEl.textContent = currentAuthUser.fullName || 'Phan Minh Hiếu';
+    }
+  } else {
+    if (loginBtn) loginBtn.classList.remove('hidden');
+    if (avatarEl) {
+      avatarEl.title = 'Tài khoản / Đăng nhập';
+    }
+    if (dbGreetingEl) {
+      dbGreetingEl.textContent = 'Phan Minh Hiếu';
+    }
+  }
+  if (window.lucide) lucide.createIcons();
+}
+
+function handleHeaderUserClick() {
+  if (currentAuthUser) {
+    openAccountModal();
+  } else {
+    openAuthModal('login');
+  }
+}
+
+function openAuthModal(defaultTab = 'login') {
+  const existing = document.getElementById('auth-modal');
+  if (existing) existing.remove();
+
+  const modalHtml = `
+    <div id="auth-modal" onclick="if(event.target===this) closeModal('auth-modal')" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-150">
+      <div class="bg-white rounded-3xl max-w-md w-full p-6 sm:p-7 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150">
+        <button onclick="closeModal('auth-modal')" class="absolute top-4 right-4 w-8 h-8 rounded-full hover:bg-slate-100 text-slate-400 hover:text-slate-700 flex items-center justify-center transition cursor-pointer">
+          ✕
+        </button>
+
+        <!-- Brand Header -->
+        <div class="text-center mb-5">
+          <div class="w-12 h-12 mx-auto rounded-2xl bg-gradient-to-tr from-[#5648ee] via-[#7564fb] to-[#ff6b3d] text-white font-black text-xl flex items-center justify-center shadow-lg shadow-indigo-500/25 mb-2.5">
+            M
+          </div>
+          <h3 class="text-xl font-black text-slate-900">Tài khoản MiHi TOEIC</h3>
+          <p class="text-xs text-slate-500 mt-0.5">Đăng nhập hoặc tạo tài khoản để đồng bộ tiến độ học tập</p>
+        </div>
+
+        <!-- Tabs: Đăng nhập / Đăng ký -->
+        <div class="grid grid-cols-2 p-1 bg-slate-100 rounded-2xl mb-5 text-xs font-black">
+          <button id="auth-tab-login" onclick="switchAuthTab('login')" class="py-2 rounded-xl transition cursor-pointer">Đăng nhập</button>
+          <button id="auth-tab-register" onclick="switchAuthTab('register')" class="py-2 rounded-xl transition cursor-pointer">Đăng ký</button>
+        </div>
+
+        <!-- Error / Success Box -->
+        <div id="auth-error-box" class="hidden mb-4 p-3 rounded-xl bg-rose-50 border border-rose-200 text-rose-700 text-xs font-bold"></div>
+
+        <!-- PANEL 1: LOGIN FORM -->
+        <form id="auth-login-form" onsubmit="submitAuthLogin(event)" class="space-y-3.5">
+          <div>
+            <label class="block text-xs font-extrabold text-slate-700 mb-1">Tên đăng nhập hoặc Email</label>
+            <input id="auth-login-id" type="text" required placeholder="VD: minh_hieu hoặc email@gmail.com" class="w-full px-3.5 py-2.5 rounded-xl border border-slate-200 bg-slate-50 text-sm font-semibold text-slate-900 focus:outline-none focus:border-[#5648ee]">
+          </div>
+          <div>
+            <label class="block text-xs font-extrabold text-slate-700 mb-1">Mật khẩu</label>
+            <div class="relative">
+              <input id="auth-login-pass" type="password" required placeholder="Nhập mật khẩu..." class="w-full px-3.5 py-2.5 pr-10 rounded-xl border border-slate-200 bg-slate-50 text-sm font-semibold text-slate-900 focus:outline-none focus:border-[#5648ee]">
+              <button type="button" onclick="toggleAuthPasswordVisibility('auth-login-pass')" class="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 text-xs font-bold cursor-pointer">👁️</button>
+            </div>
+          </div>
+          <button type="submit" id="auth-login-submit" class="w-full py-3 rounded-2xl bg-gradient-to-r from-[#5648ee] to-[#4335df] hover:brightness-105 text-white font-black text-sm shadow-lg shadow-indigo-500/25 transition cursor-pointer">
+            Đăng nhập ngay
+          </button>
+        </form>
+
+        <!-- PANEL 2: REGISTER FORM -->
+        <form id="auth-register-form" onsubmit="submitAuthRegister(event)" class="space-y-3 hidden">
+          <div>
+            <label class="block text-xs font-extrabold text-slate-700 mb-1">Họ và tên</label>
+            <input id="auth-reg-name" type="text" required placeholder="VD: Phan Minh Hiếu" class="w-full px-3.5 py-2 rounded-xl border border-slate-200 bg-slate-50 text-sm font-semibold text-slate-900 focus:outline-none focus:border-[#5648ee]">
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <div>
+              <label class="block text-xs font-extrabold text-slate-700 mb-1">Tên đăng nhập</label>
+              <input id="auth-reg-user" type="text" required minlength="3" placeholder="minhhieu" class="w-full px-3.5 py-2 rounded-xl border border-slate-200 bg-slate-50 text-sm font-semibold text-slate-900 focus:outline-none focus:border-[#5648ee]">
+            </div>
+            <div>
+              <label class="block text-xs font-extrabold text-slate-700 mb-1">Email (tuỳ chọn)</label>
+              <input id="auth-reg-email" type="email" placeholder="email@gmail.com" class="w-full px-3.5 py-2 rounded-xl border border-slate-200 bg-slate-50 text-sm font-semibold text-slate-900 focus:outline-none focus:border-[#5648ee]">
+            </div>
+          </div>
+          <div>
+            <label class="block text-xs font-extrabold text-slate-700 mb-1">Mật khẩu (tối thiểu 6 ký tự)</label>
+            <div class="relative">
+              <input id="auth-reg-pass" type="password" required minlength="6" placeholder="••••••" class="w-full px-3.5 py-2 pr-10 rounded-xl border border-slate-200 bg-slate-50 text-sm font-semibold text-slate-900 focus:outline-none focus:border-[#5648ee]">
+              <button type="button" onclick="toggleAuthPasswordVisibility('auth-reg-pass')" class="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 text-xs font-bold cursor-pointer">👁️</button>
+            </div>
+          </div>
+          <div>
+            <label class="block text-xs font-extrabold text-slate-700 mb-1">Xác nhận mật khẩu</label>
+            <input id="auth-reg-confirm" type="password" required minlength="6" placeholder="Nhập lại mật khẩu..." class="w-full px-3.5 py-2 rounded-xl border border-slate-200 bg-slate-50 text-sm font-semibold text-slate-900 focus:outline-none focus:border-[#5648ee]">
+          </div>
+          <button type="submit" id="auth-reg-submit" class="w-full py-3 rounded-2xl bg-gradient-to-r from-[#ff6b3d] to-[#f59e0b] hover:brightness-105 text-white font-black text-sm shadow-lg shadow-orange-500/25 transition cursor-pointer mt-1">
+            Tạo tài khoản mới
+          </button>
+        </form>
+      </div>
+    </div>
+  `;
+
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+  switchAuthTab(defaultTab);
+}
+
+function switchAuthTab(tab) {
+  const loginTab = document.getElementById('auth-tab-login');
+  const regTab = document.getElementById('auth-tab-register');
+  const loginForm = document.getElementById('auth-login-form');
+  const regForm = document.getElementById('auth-register-form');
+  const errBox = document.getElementById('auth-error-box');
+  if (errBox) errBox.classList.add('hidden');
+
+  if (tab === 'register') {
+    if (loginForm) loginForm.classList.add('hidden');
+    if (regForm) regForm.classList.remove('hidden');
+    if (regTab) regTab.className = 'py-2 rounded-xl bg-white text-[#5648ee] shadow-2xs transition cursor-pointer';
+    if (loginTab) loginTab.className = 'py-2 rounded-xl text-slate-500 hover:text-slate-800 transition cursor-pointer';
+  } else {
+    if (regForm) regForm.classList.add('hidden');
+    if (loginForm) loginForm.classList.remove('hidden');
+    if (loginTab) loginTab.className = 'py-2 rounded-xl bg-white text-[#5648ee] shadow-2xs transition cursor-pointer';
+    if (regTab) regTab.className = 'py-2 rounded-xl text-slate-500 hover:text-slate-800 transition cursor-pointer';
+  }
+}
+
+function toggleAuthPasswordVisibility(inputId) {
+  const inp = document.getElementById(inputId);
+  if (inp) inp.type = inp.type === 'password' ? 'text' : 'password';
+}
+
+function showAuthError(msg) {
+  const errBox = document.getElementById('auth-error-box');
+  if (errBox) {
+    errBox.textContent = msg;
+    errBox.classList.remove('hidden');
+  }
+}
+
+async function submitAuthLogin(e) {
+  e.preventDefault();
+  const identifier = document.getElementById('auth-login-id')?.value || '';
+  const password = document.getElementById('auth-login-pass')?.value || '';
+  const btn = document.getElementById('auth-login-submit');
+  if (btn) btn.disabled = true;
+
+  try {
+    const res = await fetch('/api/auth/login', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ identifier, password })
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      showAuthError(data.error || 'Đăng nhập thất bại.');
+      if (btn) btn.disabled = false;
+      return;
+    }
+    setAuthSession(data.token, data.user);
+    closeModal('auth-modal');
+  } catch (err) {
+    showAuthError('Lỗi kết nối máy chủ.');
+    if (btn) btn.disabled = false;
+  }
+}
+
+async function submitAuthRegister(e) {
+  e.preventDefault();
+  const fullName = document.getElementById('auth-reg-name')?.value || '';
+  const username = document.getElementById('auth-reg-user')?.value || '';
+  const email = document.getElementById('auth-reg-email')?.value || '';
+  const password = document.getElementById('auth-reg-pass')?.value || '';
+  const confirm = document.getElementById('auth-reg-confirm')?.value || '';
+
+  if (password !== confirm) {
+    showAuthError('Mật khẩu xác nhận không khớp!');
+    return;
+  }
+
+  const btn = document.getElementById('auth-reg-submit');
+  if (btn) btn.disabled = true;
+
+  try {
+    const res = await fetch('/api/auth/register', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ fullName, username, email, password })
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      showAuthError(data.error || 'Đăng ký thất bại.');
+      if (btn) btn.disabled = false;
+      return;
+    }
+    setAuthSession(data.token, data.user);
+    closeModal('auth-modal');
+  } catch (err) {
+    showAuthError('Lỗi kết nối máy chủ.');
+    if (btn) btn.disabled = false;
+  }
+}
+
+function openAccountModal() {
+  if (!currentAuthUser) return openAuthModal('login');
+  const existing = document.getElementById('account-modal');
+  if (existing) existing.remove();
+
+  const modalHtml = `
+    <div id="account-modal" onclick="if(event.target===this) closeModal('account-modal')" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in duration-150">
+      <div class="bg-white rounded-3xl max-w-sm w-full p-6 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150">
+        <button onclick="closeModal('account-modal')" class="absolute top-4 right-4 w-8 h-8 rounded-full hover:bg-slate-100 text-slate-400 hover:text-slate-700 flex items-center justify-center transition cursor-pointer">
+          ✕
+        </button>
+
+        <div class="text-center mb-5">
+          <div class="w-16 h-16 mx-auto rounded-full overflow-hidden ring-4 ring-indigo-100 shadow-md mb-3">
+            <img src="${currentAuthUser.avatar || '/mihi.jpg'}" alt="${currentAuthUser.fullName}" class="w-full h-full object-cover">
+          </div>
+          <h3 class="text-lg font-black text-slate-900">${currentAuthUser.fullName}</h3>
+          <div class="text-xs text-slate-500 font-semibold">@${currentAuthUser.username}${currentAuthUser.email ? ` • ${currentAuthUser.email}` : ''}</div>
+        </div>
+
+        <form onsubmit="submitUpdateProfile(event)" class="space-y-3 mb-4">
+          <div>
+            <label class="block text-xs font-extrabold text-slate-700 mb-1">Đổi tên hiển thị</label>
+            <div class="flex gap-2">
+              <input id="account-fullname-input" type="text" required value="${String(currentAuthUser.fullName).replace(/"/g, '&quot;')}" class="flex-1 px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-xs font-bold text-slate-900 focus:outline-none focus:border-[#5648ee]">
+              <button type="submit" class="px-3.5 py-2 rounded-xl bg-[#5648ee] hover:bg-[#4335df] text-white text-xs font-black transition cursor-pointer">Lưu</button>
+            </div>
+          </div>
+        </form>
+
+        <div class="space-y-2">
+          <button onclick="closeModal('account-modal'); showView('dashboard')" class="w-full py-2.5 rounded-xl bg-indigo-50 hover:bg-indigo-100 text-[#5648ee] font-black text-xs transition cursor-pointer">
+            📊 Xem Dashboard Cá Nhân
+          </button>
+          <button onclick="logoutUser()" class="w-full py-2.5 rounded-xl bg-rose-50 hover:bg-rose-100 text-rose-600 font-black text-xs transition cursor-pointer">
+            🚪 Đăng xuất
+          </button>
+        </div>
+      </div>
+    </div>
+  `;
+
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+}
+
+async function submitUpdateProfile(e) {
+  e.preventDefault();
+  const fullName = document.getElementById('account-fullname-input')?.value || '';
+  const token = getAuthToken();
+  if (!token) return;
+  try {
+    const res = await fetch('/api/auth/update-profile', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${token}`
+      },
+      body: JSON.stringify({ fullName })
+    });
+    const data = await res.json();
+    if (res.ok && data.user) {
+      setAuthSession(token, data.user);
+      openAccountModal();
+    }
+  } catch (err) {}
+}
+
+async function logoutUser() {
+  const token = getAuthToken();
+  if (token) {
+    fetch('/api/auth/logout', {
+      method: 'POST',
+      headers: { 'Authorization': `Bearer ${token}` }
+    }).catch(() => {});
+  }
+  setAuthSession('', null);
+  closeModal('account-modal');
+}
+
 
 
 

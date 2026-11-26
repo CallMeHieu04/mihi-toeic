@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -694,6 +695,191 @@ app.post('/api/wrong-vocab/mastered', (req, res) => {
     });
     writeWrongVocabList(list);
     res.json({ success: true, items: list });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// ================= USER AUTHENTICATION (LOGIN / REGISTER) =================
+const USERS_FILE = path.join(DATA_DIR, 'users.json');
+const SESSIONS_FILE = path.join(DATA_DIR, 'sessions.json');
+
+function readJsonSafe(filePath, fallback) {
+  if (fs.existsSync(filePath)) {
+    try {
+      return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    } catch (e) {}
+  }
+  return fallback;
+}
+
+function writeJsonSafe(filePath, data) {
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
+}
+
+function hashPassword(password, salt = null) {
+  const s = salt || crypto.randomBytes(16).toString('hex');
+  const hash = crypto.scryptSync(String(password), s, 64).toString('hex');
+  return { salt: s, hash };
+}
+
+function verifyPassword(password, salt, storedHash) {
+  const { hash } = hashPassword(password, salt);
+  const a = Buffer.from(hash, 'hex');
+  const b = Buffer.from(storedHash, 'hex');
+  if (a.length !== b.length) return false;
+  return crypto.timingSafeEqual(a, b);
+}
+
+function sanitizeUser(u) {
+  if (!u) return null;
+  return {
+    id: u.id,
+    username: u.username,
+    fullName: u.fullName,
+    email: u.email,
+    avatar: u.avatar || '/mihi.jpg',
+    createdAt: u.createdAt
+  };
+}
+
+function createAuthSession(user) {
+  const token = crypto.randomBytes(32).toString('hex');
+  const sessions = readJsonSafe(SESSIONS_FILE, {});
+  sessions[token] = {
+    userId: user.id,
+    createdAt: new Date().toISOString()
+  };
+  writeJsonSafe(SESSIONS_FILE, sessions);
+  return token;
+}
+
+function getAuthTokenFromReq(req) {
+  const auth = req.headers.authorization || '';
+  if (auth.startsWith('Bearer ')) return auth.slice(7).trim();
+  return null;
+}
+
+app.post('/api/auth/register', (req, res) => {
+  try {
+    const { fullName, username, email, password } = req.body || {};
+    const cleanName = String(fullName || '').trim();
+    const cleanUser = String(username || '').trim();
+    const cleanEmail = String(email || '').trim().toLowerCase();
+    const rawPass = String(password || '');
+
+    if (!cleanName || !cleanUser || !rawPass) {
+      return res.status(400).json({ error: 'Vui lòng nhập đầy đủ Họ tên, Tên đăng nhập và Mật khẩu.' });
+    }
+    if (cleanUser.length < 3 || /\s/.test(cleanUser)) {
+      return res.status(400).json({ error: 'Tên đăng nhập phải từ 3 ký tự trở lên và không chứa khoảng trắng.' });
+    }
+    if (rawPass.length < 6) {
+      return res.status(400).json({ error: 'Mật khẩu phải có ít nhất 6 ký tự.' });
+    }
+
+    const users = readJsonSafe(USERS_FILE, []);
+    if (users.some(u => u.username.toLowerCase() === cleanUser.toLowerCase())) {
+      return res.status(409).json({ error: 'Tên đăng nhập này đã tồn tại.' });
+    }
+    if (cleanEmail && users.some(u => u.email && u.email.toLowerCase() === cleanEmail)) {
+      return res.status(409).json({ error: 'Email này đã được sử dụng.' });
+    }
+
+    const { salt, hash } = hashPassword(rawPass);
+    const newUser = {
+      id: crypto.randomUUID(),
+      username: cleanUser,
+      fullName: cleanName,
+      email: cleanEmail,
+      passwordHash: hash,
+      salt,
+      avatar: '/mihi.jpg',
+      createdAt: new Date().toISOString()
+    };
+
+    users.push(newUser);
+    writeJsonSafe(USERS_FILE, users);
+
+    const token = createAuthSession(newUser);
+    res.json({ success: true, token, user: sanitizeUser(newUser) });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.post('/api/auth/login', (req, res) => {
+  try {
+    const { identifier, password } = req.body || {};
+    const idKey = String(identifier || '').trim().toLowerCase();
+    const rawPass = String(password || '');
+
+    if (!idKey || !rawPass) {
+      return res.status(400).json({ error: 'Vui lòng nhập Tên đăng nhập/Email và Mật khẩu.' });
+    }
+
+    const users = readJsonSafe(USERS_FILE, []);
+    const user = users.find(u =>
+      u.username.toLowerCase() === idKey ||
+      (u.email && u.email.toLowerCase() === idKey)
+    );
+
+    if (!user || !verifyPassword(rawPass, user.salt, user.passwordHash)) {
+      return res.status(401).json({ error: 'Sai tên đăng nhập/email hoặc mật khẩu.' });
+    }
+
+    const token = createAuthSession(user);
+    res.json({ success: true, token, user: sanitizeUser(user) });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.get('/api/auth/me', (req, res) => {
+  const token = getAuthTokenFromReq(req);
+  if (!token) return res.json({ authenticated: false, user: null });
+
+  const sessions = readJsonSafe(SESSIONS_FILE, {});
+  const session = sessions[token];
+  if (!session) return res.json({ authenticated: false, user: null });
+
+  const users = readJsonSafe(USERS_FILE, []);
+  const user = users.find(u => u.id === session.userId);
+  if (!user) return res.json({ authenticated: false, user: null });
+
+  res.json({ authenticated: true, user: sanitizeUser(user) });
+});
+
+app.post('/api/auth/logout', (req, res) => {
+  const token = getAuthTokenFromReq(req);
+  if (token) {
+    const sessions = readJsonSafe(SESSIONS_FILE, {});
+    if (sessions[token]) {
+      delete sessions[token];
+      writeJsonSafe(SESSIONS_FILE, sessions);
+    }
+  }
+  res.json({ success: true });
+});
+
+app.post('/api/auth/update-profile', (req, res) => {
+  try {
+    const token = getAuthTokenFromReq(req);
+    const sessions = readJsonSafe(SESSIONS_FILE, {});
+    const session = token && sessions[token];
+    if (!session) return res.status(401).json({ error: 'Bạn chưa đăng nhập.' });
+
+    const { fullName } = req.body || {};
+    const cleanName = String(fullName || '').trim();
+    if (!cleanName) return res.status(400).json({ error: 'Họ tên không được để trống.' });
+
+    const users = readJsonSafe(USERS_FILE, []);
+    const user = users.find(u => u.id === session.userId);
+    if (!user) return res.status(404).json({ error: 'Không tìm thấy tài khoản.' });
+
+    user.fullName = cleanName;
+    writeJsonSafe(USERS_FILE, users);
+    res.json({ success: true, user: sanitizeUser(user) });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
