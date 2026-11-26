@@ -3102,6 +3102,46 @@ function renderHistoryView() {
   if (window.lucide) lucide.createIcons();
 }
 
+function replayExamAudio() {
+  const player = document.getElementById('exam-audio-player');
+  const playIcon = document.getElementById('exam-audio-play-icon');
+  if (!player || !player.src) return;
+  player.currentTime = 0;
+  player.play().catch(e => console.log('Audio replay error:', e));
+  if (playIcon) playIcon.setAttribute('data-lucide', 'pause');
+  if (window.lucide) lucide.createIcons();
+}
+
+function replayQuizAudio() {
+  const audioEl = document.getElementById('quiz-audio-element');
+  const playIcon = document.getElementById('quiz-play-icon');
+  if (!audioEl || !audioEl.src) return;
+  audioEl.currentTime = 0;
+  audioEl.play().catch(e => console.log('Quiz audio replay error:', e));
+  if (playIcon) playIcon.setAttribute('data-lucide', 'pause');
+  if (window.lucide) lucide.createIcons();
+}
+
+function navigateExamCluster(delta) {
+  if (!Array.isArray(testClusters) || testClusters.length === 0) return;
+  const nextIdx = activeClusterIndex + delta;
+  if (nextIdx >= 0 && nextIdx < testClusters.length) {
+    activeClusterIndex = nextIdx;
+    if (isSimulationMode) {
+      const targetCluster = testClusters[activeClusterIndex];
+      if (targetCluster) {
+        const qNum = targetCluster.startQNum;
+        const pInfo = TOEIC_PARTS_INFO.find(p => qNum >= p.startQ && qNum <= p.endQ);
+        if (pInfo && pInfo.part !== activeSimulationPart) {
+          activeSimulationPart = pInfo.part;
+        }
+      }
+    }
+    renderActiveCluster();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+}
+
 // Keyboard shortcuts for Exam & Flashcard
 function setupKeyboardShortcuts() {
   document.addEventListener('keydown', (e) => {
@@ -3123,9 +3163,12 @@ function setupKeyboardShortcuts() {
         } else if (e.key === 'ArrowRight') {
           e.preventDefault();
           nextQuizQuestion();
-        } else if (e.code === 'Space' || key === 'R' || e.key === 'ArrowUp') {
+        } else if (e.code === 'Space') {
           e.preventDefault();
           toggleQuizAudio();
+        } else if (key === 'R' || e.key === 'ArrowUp') {
+          e.preventDefault();
+          replayQuizAudio();
         }
         return;
       }
@@ -3158,19 +3201,34 @@ function setupKeyboardShortcuts() {
 
     const key = e.key.toUpperCase();
     const numToLetter = { '1': 'A', '2': 'B', '3': 'C', '4': 'D' };
-    if (['A', 'B', 'C', 'D'].includes(key)) {
-      selectChoice(key);
-    } else if (key in numToLetter) {
-      selectChoice(numToLetter[key]);
+    const chosenLetter = ['A', 'B', 'C', 'D'].includes(key) ? key : numToLetter[key];
+
+    if (chosenLetter) {
+      e.preventDefault();
+      const cluster = testClusters[activeClusterIndex];
+      if (cluster && Array.isArray(cluster.questions) && cluster.questions.length > 0) {
+        const targetQ = cluster.questions.find(q => !userAnswers[q.questionNumber]) || cluster.questions[0];
+        if (targetQ) {
+          selectExamChoice(targetQ.questionNumber, chosenLetter);
+        }
+      }
     } else if (e.key === 'ArrowRight') {
-      nextQuestion();
+      e.preventDefault();
+      navigateExamCluster(1);
     } else if (e.key === 'ArrowLeft') {
-      prevQuestion();
-    } else if (e.code === 'Space' || key === 'R') {
+      e.preventDefault();
+      navigateExamCluster(-1);
+    } else if (e.code === 'Space') {
       const bar = document.getElementById('exam-card-audio-bar');
       if (bar && !bar.classList.contains('hidden')) {
         e.preventDefault();
         toggleExamAudio();
+      }
+    } else if (key === 'R') {
+      const bar = document.getElementById('exam-card-audio-bar');
+      if (bar && !bar.classList.contains('hidden')) {
+        e.preventDefault();
+        replayExamAudio();
       }
     }
   });
