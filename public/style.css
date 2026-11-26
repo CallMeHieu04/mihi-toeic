@@ -622,3 +622,46 @@ body.dark-mode .hover\:bg-orange-100:hover {
 body.dark-mode .hover\:bg-emerald-50:hover {
   background-color: rgba(16, 185, 129, 0.25) !important;
 }
+
+
+/* Flashcard 3D Faces & Explanation Accordions in Dark Mode */
+body.dark-mode .flashcard-face {
+  background: #162032 !important;
+  border-color: #2d3f59 !important;
+  color: #f8fafc !important;
+}
+
+body.dark-mode .flashcard-face .example-highlight {
+  color: #e2e8f0 !important;
+}
+
+body.dark-mode .flashcard-face .example-highlight strong,
+body.dark-mode .flashcard-face .example-highlight b,
+body.dark-mode .flashcard-face .example-highlight span {
+  color: #a5b4fc !important;
+}
+
+body.dark-mode .acc-content,
+body.dark-mode .acc-content p,
+body.dark-mode .acc-content li,
+body.dark-mode .acc-content td,
+body.dark-mode .acc-content div:not([class*="bg-"]),
+body.dark-mode .acc-content span:not([class*="text-"]),
+body.dark-mode .lesson-content p,
+body.dark-mode .lesson-content li,
+body.dark-mode .lesson-content span:not([class*="text-"]) {
+  color: #e2e8f0 !important;
+}
+
+body.dark-mode .acc-content strong,
+body.dark-mode .acc-content b,
+body.dark-mode .acc-content th,
+body.dark-mode .lesson-content strong,
+body.dark-mode .lesson-content b {
+  color: #ffffff !important;
+}
+
+body.dark-mode .acc-content th,
+body.dark-mode .acc-content td {
+  border-color: #334155 !important;
+}
