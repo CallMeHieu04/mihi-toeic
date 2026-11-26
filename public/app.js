@@ -5891,8 +5891,8 @@ function renderDashboardView() {
       <div class="p-3 rounded-2xl bg-amber-50/80 border border-amber-200/80 flex items-center justify-between gap-3 shadow-2xs">
         <div class="flex items-center gap-2.5">
           <span class="text-xs font-black text-slate-500 w-8">#1010</span>
-          <div class="w-8 h-8 rounded-full bg-gradient-to-tr from-[#5648ee] to-purple-600 text-white font-black text-xs flex items-center justify-center shadow-xs">
-            MH
+          <div class="w-8 h-8 rounded-full overflow-hidden shadow-xs ring-2 ring-indigo-100 flex-shrink-0">
+            <img src="/mihi.jpg" alt="Minh Hiếu" class="w-full h-full object-cover">
           </div>
           <div>
             <div class="text-xs font-black text-slate-900">Bạn (Minh Hiếu)</div>
