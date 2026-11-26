@@ -73,37 +73,37 @@
 
         <!-- Main Nav Links -->
         <nav class="hidden lg:flex items-center gap-0.5 xl:gap-1 text-[13px] font-bold text-slate-600 whitespace-nowrap">
-          <button onclick="switchTab('learning-path')" class="nav-btn px-2.5 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition whitespace-nowrap">
+          <button onclick="switchTab('learning-path', true)" class="nav-btn px-2.5 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition whitespace-nowrap">
             Lộ trình hoá
           </button>
 
           <!-- Luyện tập Dropdown -->
           <div class="relative group">
-            <button class="nav-btn px-2.5 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition flex items-center gap-1 whitespace-nowrap">
+            <button onclick="switchTab('practice', true)" class="nav-btn px-2.5 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition flex items-center gap-1 whitespace-nowrap">
               Luyện tập <i data-lucide="chevron-down" class="w-3.5 h-3.5"></i>
             </button>
             <div class="absolute left-0 top-full hidden group-hover:block bg-white rounded-2xl p-2 shadow-xl border border-slate-100 min-w-[260px] z-50 animate-in fade-in zoom-in-95 duration-100">
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-1-photos')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 1: Mô Tả Tranh</a>
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-2-question-response')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 2: Hỏi – Đáp</a>
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-3-conversations')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 3: Đoạn Hội Thoại</a>
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-4-short-talks')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 4: Bài nói ngắn</a>
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-5-incomplete-sentences')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 5: Hoàn Thành Câu</a>
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-6-text-completion')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 6: Hoàn Thành Đoạn Văn</a>
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-7-single-passages')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 7: Đoạn Hiểu – Đoạn Đơn</a>
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-7-double-passages')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 7: Đoạn Hiểu – Đoạn Kép</a>
-              <a href="#" onclick="switchTab('practice'); openPracticeSubtopicsModal('part-7-triple-passages')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 7: Đoạn Hiểu – Đoạn Ba</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-1-photos')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 1: Mô Tả Tranh</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-2-question-response')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 2: Hỏi – Đáp</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-3-conversations')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 3: Đoạn Hội Thoại</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-4-short-talks')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 4: Bài nói ngắn</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-5-incomplete-sentences')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 5: Hoàn Thành Câu</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-6-text-completion')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 6: Hoàn Thành Đoạn Văn</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-7-single-passages')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 7: Đoạn Hiểu – Đoạn Đơn</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-7-double-passages')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 7: Đoạn Hiểu – Đoạn Kép</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('practice', true); openPracticeSubtopicsModal('part-7-triple-passages')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Phần 7: Đoạn Hiểu – Đoạn Ba</a>
             </div>
           </div>
 
           <!-- Đề thi thử Dropdown -->
           <div class="relative group">
-            <button class="nav-btn px-2.5 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition flex items-center gap-1 whitespace-nowrap">
+            <button onclick="switchTab('tests-overview', true)" class="nav-btn px-2.5 py-2 rounded-lg hover:text-[#5648ee] hover:bg-slate-50 transition flex items-center gap-1 whitespace-nowrap">
               Đề thi thử <i data-lucide="chevron-down" class="w-3.5 h-3.5"></i>
             </button>
             <div class="absolute left-0 top-full hidden group-hover:block bg-white rounded-2xl p-2 shadow-xl border border-slate-100 min-w-[240px] z-50 animate-in fade-in zoom-in-95 duration-100">
-              <a href="#" onclick="switchTab('simulation')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Thi Mô Phỏng Máy Tính</a>
-              <a href="#" onclick="switchTab('fulltest')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">TOEIC Full Test (200 câu)</a>
-              <a href="#" onclick="switchTab('minitest')" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">TOEIC Mini Test (100 câu)</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('simulation', true)" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">Thi Mô Phỏng Máy Tính</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('fulltest', true)" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">TOEIC Full Test (200 câu)</a>
+              <a href="#" onclick="event.preventDefault(); switchTab('minitest', true)" class="block px-3 py-2 rounded-xl text-xs font-bold text-slate-700 hover:bg-indigo-50 hover:text-[#5648ee]">TOEIC Mini Test (100 câu)</a>
             </div>
           </div>
 
