@@ -6288,7 +6288,10 @@ function updateAuthUI() {
   if (currentAuthUser) {
     if (loginBtn) loginBtn.classList.add('hidden');
     if (avatarEl) {
+      avatarEl.classList.remove('hidden');
       avatarEl.title = `${currentAuthUser.fullName} (@${currentAuthUser.username}) — Bấm xem tài khoản`;
+      const img = avatarEl.querySelector('img');
+      if (img) img.src = currentAuthUser.avatar || '/mihi.jpg';
     }
     if (dbGreetingEl) {
       dbGreetingEl.textContent = currentAuthUser.fullName || 'Phan Minh Hiếu';
@@ -6296,10 +6299,10 @@ function updateAuthUI() {
   } else {
     if (loginBtn) loginBtn.classList.remove('hidden');
     if (avatarEl) {
-      avatarEl.title = 'Tài khoản / Đăng nhập';
+      avatarEl.classList.add('hidden');
     }
     if (dbGreetingEl) {
-      dbGreetingEl.textContent = 'Phan Minh Hiếu';
+      dbGreetingEl.textContent = 'bạn mới';
     }
   }
   if (window.lucide) lucide.createIcons();
