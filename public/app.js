@@ -1459,6 +1459,22 @@ function setupExamCardAudio(audioUrl) {
   }
 
   if (window.lucide) lucide.createIcons();
+
+  // Auto-play audio when entering question/cluster if enabled
+  const examView = document.getElementById('view-exam');
+  if (examView && !examView.classList.contains('hidden') && getExamSettings().autoAudio && player && player.src) {
+    setTimeout(() => {
+      const ev = document.getElementById('view-exam');
+      if (ev && !ev.classList.contains('hidden') && player.src) {
+        player.currentTime = 0;
+        player.play().then(() => {
+          const pIcon = document.getElementById('exam-audio-play-icon');
+          if (pIcon) pIcon.setAttribute('data-lucide', 'pause');
+          if (window.lucide) lucide.createIcons();
+        }).catch(err => console.log('Exam audio autoplay prevented:', err));
+      }
+    }, 150);
+  }
 }
 
 function updateExamAudioTime() {
@@ -1519,6 +1535,7 @@ function renderActiveCluster() {
   // 1. Audio player setup (at cluster level)
   const audioSrc = cluster.audioUrl || (cluster.questions[0] && cluster.questions[0].audioUrl);
   setupExamCardAudio(audioSrc);
+  applyShortcutHintsVisibility();
 
   // 2. Reading Passage (Part 6 & 7)
   const passageWrap = document.getElementById('exam-passage-wrap');
@@ -3083,9 +3100,31 @@ function renderHistoryView() {
 // Keyboard shortcuts for Exam & Flashcard
 function setupKeyboardShortcuts() {
   document.addEventListener('keydown', (e) => {
-    // 1. Flashcard Mode Shortcuts
+    // Ignore shortcuts if user is typing in an input/textarea
+    if (['INPUT', 'TEXTAREA', 'SELECT'].includes((e.target && e.target.tagName) || '')) return;
+
+    // 1. Flashcard & Vocab Quiz Mode Shortcuts
     const flashcardView = document.getElementById('view-flashcard');
     if (flashcardView && !flashcardView.classList.contains('hidden')) {
+      if (flashcardActiveMode === 'quiz') {
+        const key = e.key.toUpperCase();
+        const choiceMap = { 'A': 0, 'B': 1, 'C': 2, 'D': 3, '1': 0, '2': 1, '3': 2, '4': 3 };
+        if (key in choiceMap) {
+          e.preventDefault();
+          selectQuizChoice(choiceMap[key]);
+        } else if (e.key === 'ArrowLeft') {
+          e.preventDefault();
+          prevQuizQuestion();
+        } else if (e.key === 'ArrowRight') {
+          e.preventDefault();
+          nextQuizQuestion();
+        } else if (e.code === 'Space' || key === 'R' || e.key === 'ArrowUp') {
+          e.preventDefault();
+          toggleQuizAudio();
+        }
+        return;
+      }
+
       if (e.code === 'Space' || e.key.toUpperCase() === 'F') {
         e.preventDefault();
         flipFlashcard();
@@ -3108,17 +3147,26 @@ function setupKeyboardShortcuts() {
       return;
     }
 
-    // 2. Exam Mode Shortcuts
+    // 2. Exam & Audio Practice Mode Shortcuts
     const examView = document.getElementById('view-exam');
     if (!examView || examView.classList.contains('hidden')) return;
 
     const key = e.key.toUpperCase();
+    const numToLetter = { '1': 'A', '2': 'B', '3': 'C', '4': 'D' };
     if (['A', 'B', 'C', 'D'].includes(key)) {
       selectChoice(key);
+    } else if (key in numToLetter) {
+      selectChoice(numToLetter[key]);
     } else if (e.key === 'ArrowRight') {
       nextQuestion();
     } else if (e.key === 'ArrowLeft') {
       prevQuestion();
+    } else if (e.code === 'Space' || key === 'R') {
+      const bar = document.getElementById('exam-card-audio-bar');
+      if (bar && !bar.classList.contains('hidden')) {
+        e.preventDefault();
+        toggleExamAudio();
+      }
     }
   });
 }
@@ -3353,6 +3401,7 @@ function renderCurrentQuizQuestion() {
   }
 
   renderQuizPalette();
+  applyShortcutHintsVisibility();
   if (window.lucide) lucide.createIcons();
 }
 
@@ -3958,6 +4007,7 @@ function renderCurrentFlashcard() {
 
   // Update Overview Counters
   updateFlashcardOverview();
+  applyShortcutHintsVisibility();
 
   if (window.lucide) lucide.createIcons();
 }
@@ -3988,18 +4038,22 @@ function flipFlashcard(e) {
 }
 
 const VOCAB_SETTINGS_KEY = 'mihi_vocab_settings_v1';
+const EXAM_SETTINGS_KEY = 'mihi_exam_settings_v1';
 
 function getVocabSettings() {
   try {
     const raw = localStorage.getItem(VOCAB_SETTINGS_KEY);
     if (raw) {
       const parsed = JSON.parse(raw);
-      if (parsed && typeof parsed.autoPronounce === 'boolean') {
-        return parsed;
+      if (parsed && typeof parsed === 'object') {
+        return {
+          autoPronounce: parsed.autoPronounce !== false,
+          showShortcuts: parsed.showShortcuts !== false
+        };
       }
     }
   } catch (e) {}
-  return { autoPronounce: true };
+  return { autoPronounce: true, showShortcuts: true };
 }
 
 function saveVocabSettings(settings) {
@@ -4008,16 +4062,44 @@ function saveVocabSettings(settings) {
   } catch (e) {}
 }
 
-function toggleVocabAutoPronounce() {
-  const settings = getVocabSettings();
-  settings.autoPronounce = !settings.autoPronounce;
-  saveVocabSettings(settings);
-  renderVocabSettingsSwitch(settings.autoPronounce);
+function getExamSettings() {
+  try {
+    const raw = localStorage.getItem(EXAM_SETTINGS_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (parsed && typeof parsed === 'object') {
+        return {
+          autoAudio: parsed.autoAudio !== false,
+          showShortcuts: parsed.showShortcuts !== false
+        };
+      }
+    }
+  } catch (e) {}
+  return { autoAudio: true, showShortcuts: true };
 }
 
-function renderVocabSettingsSwitch(isOn) {
-  const track = document.getElementById('vocab-auto-audio-track');
-  const knob = document.getElementById('vocab-auto-audio-knob');
+function saveExamSettings(settings) {
+  try {
+    localStorage.setItem(EXAM_SETTINGS_KEY, JSON.stringify(settings));
+  } catch (e) {}
+}
+
+function applyShortcutHintsVisibility() {
+  const vocabShow = getVocabSettings().showShortcuts;
+  const examShow = getExamSettings().showShortcuts;
+
+  const fcHints = document.getElementById('fc-shortcut-hints');
+  const quizHints = document.getElementById('quiz-shortcut-hints');
+  const examHints = document.getElementById('exam-shortcut-hints');
+
+  if (fcHints) fcHints.classList.toggle('hidden', !vocabShow);
+  if (quizHints) quizHints.classList.toggle('hidden', !vocabShow);
+  if (examHints) examHints.classList.toggle('hidden', !examShow);
+}
+
+function renderBehaviorSwitch(trackId, knobId, isOn) {
+  const track = document.getElementById(trackId);
+  const knob = document.getElementById(knobId);
   if (!track || !knob) return;
   if (isOn) {
     track.className = 'w-12 h-7 rounded-full bg-red-600 p-1 transition-colors duration-200 flex items-center cursor-pointer flex-shrink-0';
@@ -4028,42 +4110,111 @@ function renderVocabSettingsSwitch(isOn) {
   }
 }
 
-function openVocabSettingsModal() {
-  const existing = document.getElementById('vocab-settings-modal');
-  if (existing) existing.remove();
-
+function toggleVocabAutoPronounce() {
   const settings = getVocabSettings();
-  const isOn = !!settings.autoPronounce;
+  settings.autoPronounce = !settings.autoPronounce;
+  saveVocabSettings(settings);
+  renderBehaviorSwitch('vocab-auto-audio-track', 'vocab-auto-audio-knob', settings.autoPronounce);
+}
 
-  const modalHtml = `
-    <div id="vocab-settings-modal" onclick="if(event.target===this) closeModal('vocab-settings-modal')" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-xs animate-in fade-in duration-150">
+function toggleVocabShortcuts() {
+  const settings = getVocabSettings();
+  settings.showShortcuts = !settings.showShortcuts;
+  saveVocabSettings(settings);
+  renderBehaviorSwitch('vocab-shortcuts-track', 'vocab-shortcuts-knob', settings.showShortcuts);
+  applyShortcutHintsVisibility();
+}
+
+function toggleExamAutoAudio() {
+  const settings = getExamSettings();
+  settings.autoAudio = !settings.autoAudio;
+  saveExamSettings(settings);
+  renderBehaviorSwitch('exam-auto-audio-track', 'exam-auto-audio-knob', settings.autoAudio);
+}
+
+function toggleExamShortcuts() {
+  const settings = getExamSettings();
+  settings.showShortcuts = !settings.showShortcuts;
+  saveExamSettings(settings);
+  renderBehaviorSwitch('exam-shortcuts-track', 'exam-shortcuts-knob', settings.showShortcuts);
+  applyShortcutHintsVisibility();
+}
+
+function buildBehaviorSettingsModalHtml(modalId, title, autoState, shortcutState, onToggleAuto, onToggleShortcut, prefix) {
+  return `
+    <div id="${modalId}" onclick="if(event.target===this) closeModal('${modalId}')" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-xs animate-in fade-in duration-150">
       <div class="bg-white rounded-3xl max-w-md w-full p-6 shadow-2xl border border-slate-100 relative animate-in zoom-in-95 duration-150">
         <div class="flex items-center justify-between mb-5">
-          <h3 class="text-xl font-black text-slate-900">Cài đặt học từ vựng</h3>
-          <button onclick="closeModal('vocab-settings-modal')" class="w-8 h-8 rounded-full hover:bg-slate-100 text-slate-400 hover:text-slate-700 flex items-center justify-center transition cursor-pointer">
+          <h3 class="text-xl font-black text-slate-900">${title}</h3>
+          <button onclick="closeModal('${modalId}')" class="w-8 h-8 rounded-full hover:bg-slate-100 text-slate-400 hover:text-slate-700 flex items-center justify-center transition cursor-pointer">
             ✕
           </button>
         </div>
 
-        <div class="text-[11px] font-black uppercase tracking-wider text-slate-500 mb-2.5 px-1">
-          CHUNG
+        <div class="text-[11px] font-black uppercase tracking-wider text-slate-500 mb-3 px-1">
+          HÀNH VI
         </div>
 
-        <div onclick="toggleVocabAutoPronounce()" class="p-3.5 px-4 rounded-2xl bg-slate-100/90 hover:bg-slate-100 flex items-center justify-between gap-4 cursor-pointer select-none transition">
-          <span class="text-sm font-bold text-slate-800">Tự động phát âm</span>
-          <div id="vocab-auto-audio-track" class="w-12 h-7 rounded-full ${isOn ? 'bg-red-600' : 'bg-slate-300'} p-1 transition-colors duration-200 flex items-center cursor-pointer flex-shrink-0">
-            <div id="vocab-auto-audio-knob" class="w-5 h-5 rounded-full bg-white shadow-sm transform ${isOn ? 'translate-x-5' : 'translate-x-0'} transition-transform duration-200"></div>
+        <div class="space-y-3">
+          <div onclick="${onToggleAuto}()" class="p-3 px-4 rounded-2xl bg-rose-50/70 hover:bg-rose-50 flex items-center justify-between gap-4 cursor-pointer select-none transition">
+            <div class="flex items-center gap-3">
+              <div class="w-9 h-9 rounded-full bg-red-600 text-white flex items-center justify-center flex-shrink-0 shadow-xs">
+                <i data-lucide="play" class="w-4 h-4"></i>
+              </div>
+              <span class="text-sm font-bold text-red-900">Tự phát audio khi vào câu</span>
+            </div>
+            <div id="${prefix}-auto-audio-track" class="w-12 h-7 rounded-full ${autoState ? 'bg-red-600' : 'bg-slate-300'} p-1 transition-colors duration-200 flex items-center cursor-pointer flex-shrink-0">
+              <div id="${prefix}-auto-audio-knob" class="w-5 h-5 rounded-full bg-white shadow-sm transform ${autoState ? 'translate-x-5' : 'translate-x-0'} transition-transform duration-200"></div>
+            </div>
+          </div>
+
+          <div onclick="${onToggleShortcut}()" class="p-3 px-4 rounded-2xl bg-rose-50/70 hover:bg-rose-50 flex items-center justify-between gap-4 cursor-pointer select-none transition">
+            <div class="flex items-center gap-3">
+              <div class="w-9 h-9 rounded-full bg-red-600 text-white flex items-center justify-center flex-shrink-0 shadow-xs">
+                <i data-lucide="file-text" class="w-4 h-4"></i>
+              </div>
+              <span class="text-sm font-bold text-red-900">Hiển thị phím tắt</span>
+            </div>
+            <div id="${prefix}-shortcuts-track" class="w-12 h-7 rounded-full ${shortcutState ? 'bg-red-600' : 'bg-slate-300'} p-1 transition-colors duration-200 flex items-center cursor-pointer flex-shrink-0">
+              <div id="${prefix}-shortcuts-knob" class="w-5 h-5 rounded-full bg-white shadow-sm transform ${shortcutState ? 'translate-x-5' : 'translate-x-0'} transition-transform duration-200"></div>
+            </div>
           </div>
         </div>
-
-        <p class="text-[11px] text-slate-400 mt-3 px-1 leading-relaxed">
-          Khi bật, hệ thống sẽ tự động phát âm mỗi khi chuyển sang từ mới ở cả chế độ <b>Học thẻ</b> và <b>Kiểm tra từ mới</b>.
-        </p>
       </div>
     </div>
   `;
+}
 
-  document.body.insertAdjacentHTML('beforeend', modalHtml);
+function openVocabSettingsModal() {
+  const existing = document.getElementById('vocab-settings-modal');
+  if (existing) existing.remove();
+  const s = getVocabSettings();
+  document.body.insertAdjacentHTML('beforeend', buildBehaviorSettingsModalHtml(
+    'vocab-settings-modal',
+    'Cài đặt học từ vựng',
+    s.autoPronounce,
+    s.showShortcuts,
+    'toggleVocabAutoPronounce',
+    'toggleVocabShortcuts',
+    'vocab'
+  ));
+  if (window.lucide) lucide.createIcons();
+}
+
+function openExamSettingsModal() {
+  const existing = document.getElementById('exam-settings-modal');
+  if (existing) existing.remove();
+  const s = getExamSettings();
+  document.body.insertAdjacentHTML('beforeend', buildBehaviorSettingsModalHtml(
+    'exam-settings-modal',
+    'Cài đặt làm bài & audio',
+    s.autoAudio,
+    s.showShortcuts,
+    'toggleExamAutoAudio',
+    'toggleExamShortcuts',
+    'exam'
+  ));
+  if (window.lucide) lucide.createIcons();
 }
 
 function playFlashcardAudio(e) {
