@@ -173,7 +173,7 @@ function showView(viewName) {
 }
 
 // Switch Category Tabs in Home View
-function switchTab(tabId) {
+function switchTab(tabId, scrollToSection = false) {
   showView('home');
 
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -185,6 +185,14 @@ function switchTab(tabId) {
   if (content) content.classList.remove('hidden');
 
   if (window.lucide) lucide.createIcons();
+
+  if ((scrollToSection || tabId === 'vocabulary') && content) {
+    setTimeout(() => {
+      const rect = content.getBoundingClientRect();
+      const targetTop = window.pageYOffset + rect.top - 85;
+      window.scrollTo({ top: Math.max(0, targetTop), behavior: 'smooth' });
+    }, 50);
+  }
 }
 
 // ================= RENDER HOMEPAGE GRIDS =================
