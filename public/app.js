@@ -5889,16 +5889,51 @@ function renderDashboardView() {
 }
 
 // ================= WRONG VOCABULARY 3-DAY SPACED REPETITION ENGINE =================
+const WRONG_VOCAB_STORAGE_KEY = 'mihi_wrong_vocab_v1';
 let wrongVocabList = [];
 let isWrongVocabReviewMode = false;
 
+function getLocalWrongVocab() {
+  try {
+    const raw = localStorage.getItem(WRONG_VOCAB_STORAGE_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      if (Array.isArray(parsed)) return parsed;
+    }
+  } catch (e) {}
+  return [];
+}
+
+function saveLocalWrongVocab(list) {
+  try {
+    localStorage.setItem(WRONG_VOCAB_STORAGE_KEY, JSON.stringify(list || []));
+  } catch (e) {}
+}
+
 async function loadWrongVocab() {
+  // Render immediately from localStorage so UI never hangs on "Đang tải..."
+  wrongVocabList = getLocalWrongVocab();
+  renderHomeWrongVocabSection();
+
   try {
     const res = await fetch('/api/wrong-vocab');
     if (res.ok) {
       const data = await res.json();
-      wrongVocabList = Array.isArray(data.items) ? data.items : [];
-      renderHomeWrongVocabSection(data.today);
+      if (Array.isArray(data.items)) {
+        // Merge server items with local items if server was empty or behind
+        if (data.items.length > 0 || wrongVocabList.length === 0) {
+          wrongVocabList = data.items;
+          saveLocalWrongVocab(wrongVocabList);
+        } else if (wrongVocabList.length > 0) {
+          // Sync local items up to server
+          fetch('/api/wrong-vocab/add', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ cards: wrongVocabList })
+          }).catch(() => {});
+        }
+        renderHomeWrongVocabSection(data.today);
+      }
     }
   } catch (e) {
     console.error('Error loading wrong vocab:', e);
@@ -5907,19 +5942,38 @@ async function loadWrongVocab() {
 
 async function recordWrongVocabWord(card) {
   if (!card || !card.word) return;
+  const today = getLocalDateString();
+  const dueDateObj = new Date();
+  dueDateObj.setDate(dueDateObj.getDate() + 3);
+  const dueDate = getLocalDateString(dueDateObj);
+
+  const payloadCard = {
+    id: card.id || String(card.word).trim().toLowerCase(),
+    word: card.word,
+    phonetic: card.phonetic || '',
+    meaningVi: card.meaningVi || '',
+    audioUrl: card.audioUrl || '',
+    imageUrl: card.imageUrl || '',
+    exampleEn: card.exampleEn || '',
+    exampleVi: card.exampleVi || '',
+    topicId: currentFlashcardTopicId || '',
+    topicName: currentFlashcardTopicTitle || '',
+    wrongDate: today,
+    reviewDueDate: dueDate,
+    notified: false
+  };
+
+  // Update local immediately
+  const wordKey = String(payloadCard.word).trim().toLowerCase();
+  const localList = getLocalWrongVocab();
+  const idx = localList.findIndex(x => (x.id && payloadCard.id && x.id === payloadCard.id) || (x.word && x.word.toLowerCase() === wordKey));
+  if (idx >= 0) localList[idx] = { ...payloadCard, wrongCount: (localList[idx].wrongCount || 1) + 1 };
+  else localList.unshift({ ...payloadCard, wrongCount: 1 });
+  wrongVocabList = localList;
+  saveLocalWrongVocab(wrongVocabList);
+  renderHomeWrongVocabSection(today);
+
   try {
-    const payloadCard = {
-      id: card.id,
-      word: card.word,
-      phonetic: card.phonetic || '',
-      meaningVi: card.meaningVi || '',
-      audioUrl: card.audioUrl || '',
-      imageUrl: card.imageUrl || '',
-      exampleEn: card.exampleEn || '',
-      exampleVi: card.exampleVi || '',
-      topicId: currentFlashcardTopicId || '',
-      topicName: currentFlashcardTopicTitle || ''
-    };
     const res = await fetch('/api/wrong-vocab/add', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -5927,8 +5981,11 @@ async function recordWrongVocabWord(card) {
     });
     if (res.ok) {
       const data = await res.json();
-      wrongVocabList = Array.isArray(data.items) ? data.items : wrongVocabList;
-      renderHomeWrongVocabSection(data.today);
+      if (Array.isArray(data.items)) {
+        wrongVocabList = data.items;
+        saveLocalWrongVocab(wrongVocabList);
+        renderHomeWrongVocabSection(data.today);
+      }
     }
   } catch (e) {
     console.error('Error saving wrong vocab:', e);
@@ -5936,6 +5993,15 @@ async function recordWrongVocabWord(card) {
 }
 
 async function markWrongVocabMastered(id, word, silent = false) {
+  const wordKey = word ? String(word).trim().toLowerCase() : '';
+  wrongVocabList = getLocalWrongVocab().filter(x => {
+    if (id && x.id === id) return false;
+    if (wordKey && x.word && x.word.toLowerCase() === wordKey) return false;
+    return true;
+  });
+  saveLocalWrongVocab(wrongVocabList);
+  if (!silent) renderHomeWrongVocabSection();
+
   try {
     const res = await fetch('/api/wrong-vocab/mastered', {
       method: 'POST',
@@ -5944,8 +6010,11 @@ async function markWrongVocabMastered(id, word, silent = false) {
     });
     if (res.ok) {
       const data = await res.json();
-      wrongVocabList = Array.isArray(data.items) ? data.items : [];
-      if (!silent) renderHomeWrongVocabSection();
+      if (Array.isArray(data.items)) {
+        wrongVocabList = data.items;
+        saveLocalWrongVocab(wrongVocabList);
+        if (!silent) renderHomeWrongVocabSection();
+      }
     }
   } catch (e) {
     console.error('Error removing wrong vocab:', e);
