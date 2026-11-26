@@ -885,6 +885,114 @@ app.post('/api/auth/update-profile', (req, res) => {
   }
 });
 
+// Per-user Learning Progress Sync (Streak, Study Time, Wrong Vocab, Flashcard Status)
+function getUserProgressPath(userId) {
+  return path.join(DATA_DIR, `user_progress_${userId}.json`);
+}
+
+function mergeStudyTimeObjects(a, b) {
+  const res = {
+    totalSeconds: Math.max((a && a.totalSeconds) || 0, (b && b.totalSeconds) || 0),
+    categories: { ...((a && a.categories) || {}) },
+    daily: { ...((a && a.daily) || {}) }
+  };
+  if (b && b.categories) {
+    Object.keys(b.categories).forEach(k => {
+      res.categories[k] = Math.max(res.categories[k] || 0, b.categories[k] || 0);
+    });
+  }
+  if (b && b.daily) {
+    Object.keys(b.daily).forEach(day => {
+      const curD = res.daily[day] || {};
+      const incD = b.daily[day] || {};
+      const mergedDay = { ...curD };
+      Object.keys(incD).forEach(k => {
+        mergedDay[k] = Math.max(mergedDay[k] || 0, incD[k] || 0);
+      });
+      res.daily[day] = mergedDay;
+    });
+  }
+  return res;
+}
+
+function mergeStreakObjects(a, b) {
+  if (!a) return b || null;
+  if (!b) return a || null;
+  const historySet = new Set([...(Array.isArray(a.history) ? a.history : []), ...(Array.isArray(b.history) ? b.history : [])]);
+  const history = [...historySet].sort();
+  const lastActiveA = a.lastActiveDate || '';
+  const lastActiveB = b.lastActiveDate || '';
+  const lastActiveDate = lastActiveA >= lastActiveB ? lastActiveA : lastActiveB;
+  const startDate = (a.startDate && b.startDate) ? (a.startDate <= b.startDate ? a.startDate : b.startDate) : (a.startDate || b.startDate || '2026-11-22');
+
+  return {
+    currentStreak: Math.max(a.currentStreak || 0, b.currentStreak || 0),
+    bestStreak: Math.max(a.bestStreak || 0, b.bestStreak || 0),
+    totalDays: Math.max(a.totalDays || 0, b.totalDays || 0, history.length),
+    startDate,
+    lastActiveDate: lastActiveDate || null,
+    history
+  };
+}
+
+app.get('/api/auth/progress', (req, res) => {
+  const token = getAuthTokenFromReq(req);
+  const sessions = readJsonSafe(SESSIONS_FILE, {});
+  const session = token && sessions[token];
+  if (!session) return res.status(401).json({ error: 'Chưa đăng nhập.' });
+
+  const progress = readJsonSafe(getUserProgressPath(session.userId), {
+    streak: readJsonSafe(path.join(DATA_DIR, 'streak.json'), null),
+    studyTime: null,
+    wrongVocab: readWrongVocabList(),
+    flashcardProgress: {},
+    history: readJsonSafe(path.join(DATA_DIR, 'history.json'), [])
+  });
+  res.json({ success: true, progress });
+});
+
+app.post('/api/auth/progress', (req, res) => {
+  try {
+    const token = getAuthTokenFromReq(req);
+    const sessions = readJsonSafe(SESSIONS_FILE, {});
+    const session = token && sessions[token];
+    if (!session) return res.status(401).json({ error: 'Chưa đăng nhập.' });
+
+    const incoming = req.body || {};
+    const pPath = getUserProgressPath(session.userId);
+    const existing = readJsonSafe(pPath, {
+      streak: null,
+      studyTime: null,
+      wrongVocab: [],
+      flashcardProgress: {},
+      history: []
+    });
+
+    const merged = {
+      streak: mergeStreakObjects(existing.streak, incoming.streak),
+      studyTime: mergeStudyTimeObjects(existing.studyTime, incoming.studyTime),
+      wrongVocab: (Array.isArray(incoming.wrongVocab) && incoming.wrongVocab.length > 0)
+        ? incoming.wrongVocab
+        : (existing.wrongVocab || []),
+      flashcardProgress: { ...(existing.flashcardProgress || {}), ...(incoming.flashcardProgress || {}) },
+      history: (Array.isArray(existing.history) && existing.history.length >= (Array.isArray(incoming.history) ? incoming.history.length : 0))
+        ? existing.history
+        : (incoming.history || []),
+      lastSyncedAt: new Date().toISOString()
+    };
+
+    writeJsonSafe(pPath, merged);
+
+    // Keep global bot files synced too
+    if (merged.streak) writeJsonSafe(path.join(DATA_DIR, 'streak.json'), merged.streak);
+    if (merged.wrongVocab && merged.wrongVocab.length > 0) writeWrongVocabList(merged.wrongVocab);
+
+    res.json({ success: true, progress: merged });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // ================= TELEGRAM BOT NOTIFICATION APIS =================
 const telegram = require('./telegram');
 

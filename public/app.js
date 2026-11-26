@@ -5635,6 +5635,7 @@ function syncStudyTimeToBackend(data, today) {
       categories: data.daily ? data.daily[today] : {}
     })
   }).catch(() => {});
+  if (typeof syncAccountProgress === 'function') syncAccountProgress(false);
 }
 
 function initStudyTimeTracker() {
@@ -6269,6 +6270,7 @@ async function initAuth() {
       const data = await res.json();
       if (data.authenticated && data.user) {
         setAuthSession(token, data.user);
+        syncAccountProgress(true);
       } else {
         setAuthSession('', null);
       }
@@ -6451,6 +6453,7 @@ async function submitAuthLogin(e) {
       return;
     }
     setAuthSession(data.token, data.user);
+    await syncAccountProgress(true);
     closeModal('auth-modal');
   } catch (err) {
     showAuthError('Lỗi kết nối máy chủ.');
@@ -6487,6 +6490,7 @@ async function submitAuthRegister(e) {
       return;
     }
     setAuthSession(data.token, data.user);
+    await syncAccountProgress(true);
     closeModal('auth-modal');
   } catch (err) {
     showAuthError('Lỗi kết nối máy chủ.');
@@ -6559,6 +6563,68 @@ async function submitUpdateProfile(e) {
       openAccountModal();
     }
   } catch (err) {}
+}
+
+async function syncAccountProgress(restoreToUi = false) {
+  const token = getAuthToken();
+  if (!token) return;
+
+  try {
+    const fcProgress = {};
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && (k.startsWith('mihi_fc_') || k.startsWith('mihi_flashcard_'))) {
+        fcProgress[k] = localStorage.getItem(k);
+      }
+    }
+
+    const payload = {
+      streak: getStreakData(),
+      studyTime: getStudyTimeData(),
+      wrongVocab: getLocalWrongVocab(),
+      flashcardProgress: fcProgress
+    };
+
+    const res = await fetch('/api/auth/progress', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${token}`
+      },
+      body: JSON.stringify(payload)
+    });
+
+    if (res.ok) {
+      const data = await res.json();
+      const merged = data.progress;
+      if (merged) {
+        if (merged.streak) {
+          localStorage.setItem(STREAK_STORAGE_KEY, JSON.stringify(merged.streak));
+        }
+        if (merged.studyTime) {
+          localStorage.setItem(STUDY_TIME_STORAGE_KEY, JSON.stringify(merged.studyTime));
+        }
+        if (Array.isArray(merged.wrongVocab)) {
+          wrongVocabList = merged.wrongVocab;
+          saveLocalWrongVocab(wrongVocabList);
+        }
+        if (merged.flashcardProgress && typeof merged.flashcardProgress === 'object') {
+          Object.keys(merged.flashcardProgress).forEach(k => {
+            if (merged.flashcardProgress[k] !== undefined) {
+              localStorage.setItem(k, merged.flashcardProgress[k]);
+            }
+          });
+        }
+        if (restoreToUi) {
+          updateStreakUI();
+          renderHomeWrongVocabSection();
+          renderDashboardView();
+        }
+      }
+    }
+  } catch (e) {
+    console.error('Account progress sync error:', e);
+  }
 }
 
 async function logoutUser() {

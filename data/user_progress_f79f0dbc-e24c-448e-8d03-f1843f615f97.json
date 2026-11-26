@@ -1,0 +1,402 @@
+{
+  "streak": {
+    "currentStreak": 1,
+    "bestStreak": 1,
+    "totalDays": 2,
+    "startDate": "2026-11-22",
+    "lastActiveDate": "2026-11-26",
+    "history": [
+      "2026-11-22",
+      "2026-11-26"
+    ],
+    "lastUpdated": "2026-11-26T15:22:44.106Z"
+  },
+  "studyTime": {
+    "totalSeconds": 3215,
+    "categories": {
+      "vocabulary": 1665,
+      "grammar": 250,
+      "listening": 1120,
+      "reading": 0,
+      "exam": 180,
+      "general": 0
+    },
+    "daily": {
+      "2026-11-26": {
+        "total": 3215,
+        "vocabulary": 1665,
+        "grammar": 250,
+        "listening": 1120,
+        "reading": 0,
+        "exam": 180,
+        "general": 0
+      }
+    }
+  },
+  "wrongVocab": [
+    {
+      "id": "61c14bed92d7f67f5140b16a",
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "meaningVi": "thỏa thuận",
+      "audioUrl": "https://storage.googleapis.com/estudyme/legacy-data/elearning-react/vocabulary/sounds/agreement.mp3",
+      "imageUrl": "https://storage.googleapis.com/estudyme/legacy-data/kstoeic/images/ToeicVc_ev002.jpg",
+      "exampleEn": "According to the agreement, the caterer will also supply the flowers for the event.",
+      "exampleVi": "Theo thỏa thuận, đơn vị cung cấp dịch vụ ăn uống cũng sẽ cung cấp hoa cho sự kiện.",
+      "topicId": "wrong_vocab_review",
+      "topicName": "Ôn lại từ sai (Sau 3 ngày)",
+      "wrongDate": "2026-11-26",
+      "reviewDueDate": "2026-11-29",
+      "notified": false,
+      "wrongCount": 1
+    }
+  ],
+  "flashcardProgress": {},
+  "history": [
+    {
+      "id": "1795705478219",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts",
+      "subtitle": "Học Flashcard: 12 từ vựng",
+      "badge": "Flashcard",
+      "score": "Đang học",
+      "accuracy": null,
+      "date": "2026-11-26T15:04:38.219Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "total": 12
+      }
+    },
+    {
+      "id": "1795705260691",
+      "type": "grammar",
+      "title": "Ngữ pháp: Danh Từ (Nouns) - Vị Trí, Đuôi Nhận Biết & Phân Loại",
+      "subtitle": "Đã hoàn thành xem lý thuyết & phương pháp làm bài",
+      "badge": "Lý thuyết",
+      "score": "Đã xem",
+      "accuracy": 100,
+      "date": "2026-11-26T15:01:00.692Z",
+      "details": {
+        "lessonId": "620486aade2fe4339535654a",
+        "lessonTitle": "Danh Từ (Nouns) - Vị Trí, Đuôi Nhận Biết & Phân Loại"
+      }
+    },
+    {
+      "id": "1795705225944",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts",
+      "subtitle": "Học Flashcard: 12 từ vựng",
+      "badge": "Flashcard",
+      "score": "Đang học",
+      "accuracy": null,
+      "date": "2026-11-26T15:00:25.944Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "total": 12
+      }
+    },
+    {
+      "id": "1795703691011",
+      "type": "vocabulary",
+      "title": "Kiểm tra từ vựng: Ôn lại từ sai (Sau 3 ngày)",
+      "subtitle": "Quiz: 1/2 câu đúng (50%)",
+      "badge": "Vocab Quiz",
+      "score": "50%",
+      "accuracy": 50,
+      "date": "2026-11-26T14:34:51.011Z",
+      "details": {
+        "topicId": "wrong_vocab_review",
+        "topicTitle": "Ôn lại từ sai (Sau 3 ngày)",
+        "mode": "quiz",
+        "correct": 1,
+        "wrong": 1,
+        "total": 2
+      }
+    },
+    {
+      "id": "1795703665354",
+      "type": "vocabulary",
+      "title": "Kiểm tra từ vựng: Contracts",
+      "subtitle": "Quiz: 10/12 câu đúng (83%)",
+      "badge": "Vocab Quiz",
+      "score": "83%",
+      "accuracy": 83,
+      "date": "2026-11-26T14:34:25.354Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "mode": "quiz",
+        "correct": 10,
+        "wrong": 2,
+        "total": 12
+      }
+    },
+    {
+      "id": "1795703632229",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts",
+      "subtitle": "Học Flashcard: 12 từ vựng",
+      "badge": "Flashcard",
+      "score": "Đang học",
+      "accuracy": null,
+      "date": "2026-11-26T14:33:52.229Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "total": 12
+      }
+    },
+    {
+      "id": "1795703346631",
+      "type": "vocabulary",
+      "title": "Kiểm tra từ vựng: Contracts",
+      "subtitle": "Quiz: 9/12 câu đúng (75%)",
+      "badge": "Vocab Quiz",
+      "score": "75%",
+      "accuracy": 75,
+      "date": "2026-11-26T14:29:06.631Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "mode": "quiz",
+        "correct": 9,
+        "wrong": 3,
+        "total": 12
+      }
+    },
+    {
+      "id": "1795703275926",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts",
+      "subtitle": "Học Flashcard: 12 từ vựng",
+      "badge": "Flashcard",
+      "score": "Đang học",
+      "accuracy": null,
+      "date": "2026-11-26T14:27:55.926Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "total": 12
+      }
+    },
+    {
+      "id": "1795702401894",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts",
+      "subtitle": "Học Flashcard: 12 từ vựng",
+      "badge": "Flashcard",
+      "score": "Đang học",
+      "accuracy": null,
+      "date": "2026-11-26T14:13:21.894Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "total": 12
+      }
+    },
+    {
+      "id": "1795701786090",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts",
+      "subtitle": "Học Flashcard: 12 từ vựng",
+      "badge": "Flashcard",
+      "score": "Đang học",
+      "accuracy": null,
+      "date": "2026-11-26T14:03:06.090Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "total": 12
+      }
+    },
+    {
+      "id": "1795338667364",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts",
+      "subtitle": "Học Flashcard: 12 từ vựng",
+      "badge": "Flashcard",
+      "score": "Đang học",
+      "accuracy": null,
+      "date": "2026-11-22T09:11:07.364Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "total": 12
+      }
+    },
+    {
+      "id": "1795338461353",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts",
+      "subtitle": "Học Flashcard: 12 từ vựng",
+      "badge": "Flashcard",
+      "score": "Đang học",
+      "accuracy": null,
+      "date": "2026-11-22T09:07:41.353Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "total": 12
+      }
+    },
+    {
+      "id": "1795338175067",
+      "type": "grammar",
+      "title": "Ngữ pháp: Conjunctions (Liên từ)",
+      "subtitle": "Đã hoàn thành xem lý thuyết & phương pháp làm bài",
+      "badge": "Lý thuyết",
+      "score": "Đã xem",
+      "accuracy": 100,
+      "date": "2026-11-22T09:02:55.067Z",
+      "details": {
+        "lessonId": "conjunctions",
+        "lessonTitle": "Conjunctions (Liên từ)"
+      }
+    },
+    {
+      "id": "1795338175052",
+      "type": "vocabulary",
+      "title": "Từ vựng: Contracts (Hợp đồng)",
+      "subtitle": "Flashcard: 12/12 từ ghi nhớ (100%)",
+      "badge": "Flashcard",
+      "score": "12/12 từ",
+      "accuracy": 100,
+      "date": "2026-11-22T09:02:55.052Z",
+      "details": {
+        "topicId": "61c14bec92d7f67f5140b12d",
+        "topicTitle": "Contracts",
+        "mode": "flashcard",
+        "total": 12
+      }
+    },
+    {
+      "id": "1794975915636",
+      "testId": "678a329c9bab2300247189ae",
+      "testTitle": "Test 21",
+      "date": "2026-11-18T04:25:15.636Z",
+      "score": 10,
+      "accuracy": 0,
+      "timeSpentSeconds": 25
+    },
+    {
+      "id": "1794975648797",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "TEST 1",
+      "date": "2026-11-18T04:20:48.797Z",
+      "score": 10,
+      "accuracy": 1,
+      "timeSpentSeconds": 4
+    },
+    {
+      "id": "1794975560189",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "TEST 1",
+      "date": "2026-11-18T04:19:20.189Z",
+      "score": 10,
+      "accuracy": 1,
+      "timeSpentSeconds": 4
+    },
+    {
+      "id": "1794975305128",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "TEST 1",
+      "date": "2026-11-18T04:15:05.128Z",
+      "score": 10,
+      "accuracy": 1,
+      "timeSpentSeconds": 4
+    },
+    {
+      "id": "1794974411285",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "TEST 1",
+      "date": "2026-11-18T04:00:11.285Z",
+      "score": 10,
+      "accuracy": 0,
+      "timeSpentSeconds": 42
+    },
+    {
+      "id": "1794973050538",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "TEST 1",
+      "date": "2026-11-18T03:37:30.538Z",
+      "score": 10,
+      "accuracy": 0,
+      "timeSpentSeconds": 6
+    },
+    {
+      "id": "1794972946801",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "TEST 1",
+      "date": "2026-11-18T03:35:46.801Z",
+      "score": 10,
+      "accuracy": 0,
+      "timeSpentSeconds": 6
+    },
+    {
+      "id": "1794972412468",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "SIMULATION TEST 1",
+      "date": "2026-11-18T03:26:52.468Z",
+      "score": 10,
+      "accuracy": 0,
+      "timeSpentSeconds": 65
+    },
+    {
+      "id": "1794972188750",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "TEST 1",
+      "date": "2026-11-18T03:23:08.750Z",
+      "score": 10,
+      "accuracy": 1,
+      "timeSpentSeconds": 7
+    },
+    {
+      "id": "1794972039332",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "TEST 1",
+      "date": "2026-11-18T03:20:39.332Z",
+      "score": 10,
+      "accuracy": 1,
+      "timeSpentSeconds": 7
+    },
+    {
+      "id": "1794826071265",
+      "testId": "614be60365d71f3a51f67196",
+      "testTitle": "Listening: Part 1: Photos - Test 1",
+      "date": "2026-11-16T10:47:51.265Z",
+      "score": "0% (0/6)",
+      "accuracy": 0,
+      "timeSpentSeconds": 2
+    },
+    {
+      "id": "1794825638449",
+      "testId": "614be60365d71f3a51f67196",
+      "testTitle": "Part 1: Photographs - Test 1",
+      "date": "2026-11-16T10:40:38.449Z",
+      "score": "0% (0/6)",
+      "accuracy": 0,
+      "timeSpentSeconds": 75
+    },
+    {
+      "id": "1794824157614",
+      "testId": "614be60365d71f3a51f67196",
+      "testTitle": "Part 1: Photographs - Test 1",
+      "date": "2026-11-16T10:15:57.614Z",
+      "score": "0% (0/6)",
+      "accuracy": 0,
+      "timeSpentSeconds": 28
+    },
+    {
+      "id": "1794819156408",
+      "testId": "62b69492bbc57b27fe10f7ac",
+      "testTitle": "",
+      "date": "2026-11-16T08:52:36.408Z",
+      "score": 10,
+      "accuracy": 3,
+      "timeSpentSeconds": 3600
+    }
+  ],
+  "lastSyncedAt": "2026-11-26T15:26:27.437Z"
+}
