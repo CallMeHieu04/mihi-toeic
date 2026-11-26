@@ -605,6 +605,100 @@ app.post('/api/streak/sync', (req, res) => {
   }
 });
 
+// ================= WRONG VOCABULARY SPACED REPETITION (3 DAYS) =================
+function getVnDateOffsetStr(daysOffset = 0) {
+  const now = new Date();
+  const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
+  const vn = new Date(utc + (3600000 * 7) + (daysOffset * 86400000));
+  const y = vn.getFullYear();
+  const m = String(vn.getMonth() + 1).padStart(2, '0');
+  const d = String(vn.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
+}
+
+function readWrongVocabList() {
+  const filePath = path.join(DATA_DIR, 'wrong_vocab.json');
+  if (fs.existsSync(filePath)) {
+    try {
+      const parsed = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+      if (Array.isArray(parsed)) return parsed;
+    } catch (e) {}
+  }
+  return [];
+}
+
+function writeWrongVocabList(list) {
+  const filePath = path.join(DATA_DIR, 'wrong_vocab.json');
+  fs.writeFileSync(filePath, JSON.stringify(list, null, 2), 'utf-8');
+}
+
+app.get('/api/wrong-vocab', (req, res) => {
+  const list = readWrongVocabList();
+  list.sort((a, b) => (a.reviewDueDate || '').localeCompare(b.reviewDueDate || ''));
+  res.json({ items: list, today: getVnDateOffsetStr(0) });
+});
+
+app.post('/api/wrong-vocab/add', (req, res) => {
+  try {
+    const body = req.body || {};
+    const incoming = Array.isArray(body.cards) ? body.cards : (body.card ? [body.card] : []);
+    if (incoming.length === 0) return res.status(400).json({ error: 'No card provided' });
+
+    const today = getVnDateOffsetStr(0);
+    const dueDate = getVnDateOffsetStr(3);
+    const list = readWrongVocabList();
+
+    incoming.forEach(c => {
+      if (!c || !c.word) return;
+      const wordKey = String(c.word).trim().toLowerCase();
+      const idx = list.findIndex(x => (x.id && c.id && x.id === c.id) || (x.word && x.word.toLowerCase() === wordKey));
+      const entry = {
+        id: c.id || wordKey,
+        word: c.word,
+        phonetic: c.phonetic || '',
+        meaningVi: c.meaningVi || '',
+        audioUrl: c.audioUrl || '',
+        imageUrl: c.imageUrl || '',
+        exampleEn: c.exampleEn || '',
+        exampleVi: c.exampleVi || '',
+        topicId: c.topicId || '',
+        topicName: c.topicName || '',
+        wrongDate: today,
+        reviewDueDate: dueDate,
+        notified: false,
+        wrongCount: idx >= 0 ? (list[idx].wrongCount || 1) + 1 : 1
+      };
+      if (idx >= 0) {
+        list[idx] = entry;
+      } else {
+        list.unshift(entry);
+      }
+    });
+
+    writeWrongVocabList(list);
+    res.json({ success: true, items: list, today });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.post('/api/wrong-vocab/mastered', (req, res) => {
+  try {
+    const { id, word } = req.body || {};
+    const wordKey = word ? String(word).trim().toLowerCase() : '';
+    let list = readWrongVocabList();
+    list = list.filter(x => {
+      if (id && x.id === id) return false;
+      if (wordKey && x.word && x.word.toLowerCase() === wordKey) return false;
+      return true;
+    });
+    writeWrongVocabList(list);
+    res.json({ success: true, items: list });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // ================= TELEGRAM BOT NOTIFICATION APIS =================
 const telegram = require('./telegram');
 

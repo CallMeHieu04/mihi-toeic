@@ -96,6 +96,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   initStreak();
   initDailyReminders();
   initStudyTimeTracker();
+  loadWrongVocab();
   await loadInitialData();
   setupKeyboardShortcuts();
 });
@@ -148,6 +149,10 @@ function showView(viewName) {
   if (viewName !== 'exam' && examTimer) {
     clearInterval(examTimer);
     examTimer = null;
+  }
+
+  if (viewName === 'home' && typeof loadWrongVocab === 'function') {
+    loadWrongVocab();
   }
 
   const matchingNav = Array.from(document.querySelectorAll('.nav-btn')).find(b => 
@@ -3522,6 +3527,13 @@ function selectQuizChoice(choiceIdx) {
   };
   recordStreakActivity('luyện từ vựng');
 
+  // Spaced Repetition (3-day review): Save wrong word or graduate mastered word
+  if (!isCorrect && q.sourceCard) {
+    recordWrongVocabWord(q.sourceCard);
+  } else if (isCorrect && isWrongVocabReviewMode && q.sourceCard) {
+    markWrongVocabMastered(q.sourceCard.id, q.word, true);
+  }
+
   // Immediate visual feedback on items
   const container = document.getElementById('quiz-options-container');
   if (container) {
@@ -3784,6 +3796,7 @@ function cleanHtmlText(str) {
 }
 
 async function startFlashcardSession(topicId, topicTitle, onlyUnlearned = false) {
+  isWrongVocabReviewMode = false;
   // If practiceSummary is not loaded yet, fetch it
   if (!practiceSummary) {
     try {
@@ -5874,6 +5887,178 @@ function renderDashboardView() {
 
   if (window.lucide) lucide.createIcons();
 }
+
+// ================= WRONG VOCABULARY 3-DAY SPACED REPETITION ENGINE =================
+let wrongVocabList = [];
+let isWrongVocabReviewMode = false;
+
+async function loadWrongVocab() {
+  try {
+    const res = await fetch('/api/wrong-vocab');
+    if (res.ok) {
+      const data = await res.json();
+      wrongVocabList = Array.isArray(data.items) ? data.items : [];
+      renderHomeWrongVocabSection(data.today);
+    }
+  } catch (e) {
+    console.error('Error loading wrong vocab:', e);
+  }
+}
+
+async function recordWrongVocabWord(card) {
+  if (!card || !card.word) return;
+  try {
+    const payloadCard = {
+      id: card.id,
+      word: card.word,
+      phonetic: card.phonetic || '',
+      meaningVi: card.meaningVi || '',
+      audioUrl: card.audioUrl || '',
+      imageUrl: card.imageUrl || '',
+      exampleEn: card.exampleEn || '',
+      exampleVi: card.exampleVi || '',
+      topicId: currentFlashcardTopicId || '',
+      topicName: currentFlashcardTopicTitle || ''
+    };
+    const res = await fetch('/api/wrong-vocab/add', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ card: payloadCard })
+    });
+    if (res.ok) {
+      const data = await res.json();
+      wrongVocabList = Array.isArray(data.items) ? data.items : wrongVocabList;
+      renderHomeWrongVocabSection(data.today);
+    }
+  } catch (e) {
+    console.error('Error saving wrong vocab:', e);
+  }
+}
+
+async function markWrongVocabMastered(id, word, silent = false) {
+  try {
+    const res = await fetch('/api/wrong-vocab/mastered', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id, word })
+    });
+    if (res.ok) {
+      const data = await res.json();
+      wrongVocabList = Array.isArray(data.items) ? data.items : [];
+      if (!silent) renderHomeWrongVocabSection();
+    }
+  } catch (e) {
+    console.error('Error removing wrong vocab:', e);
+  }
+}
+
+function renderHomeWrongVocabSection(todayStr = null) {
+  const badgeEl = document.getElementById('home-wrong-vocab-badge');
+  const actionsEl = document.getElementById('home-wrong-vocab-actions');
+  const bodyEl = document.getElementById('home-wrong-vocab-body');
+  if (!bodyEl) return;
+
+  const today = todayStr || getLocalDateString();
+  const total = wrongVocabList.length;
+  const dueItems = wrongVocabList.filter(w => w.reviewDueDate && today >= w.reviewDueDate);
+
+  if (badgeEl) {
+    if (dueItems.length > 0) {
+      badgeEl.textContent = `${dueItems.length} từ đến hạn ôn!`;
+      badgeEl.className = 'px-2.5 py-0.5 rounded-full text-[10px] font-black bg-rose-600 text-white animate-pulse';
+    } else {
+      badgeEl.textContent = `${total} từ chờ ôn`;
+      badgeEl.className = 'px-2.5 py-0.5 rounded-full text-[10px] font-black bg-rose-100 text-rose-700';
+    }
+  }
+
+  if (total === 0) {
+    if (actionsEl) actionsEl.classList.add('hidden');
+    bodyEl.innerHTML = `
+      <div class="p-3 rounded-2xl bg-slate-50 border border-slate-100 text-slate-500 text-xs font-medium text-center">
+        🎉 Tuyệt vời! Hiện tại bạn chưa có từ vựng nào làm sai cần ôn lại. Khi làm <b>Kiểm tra từ mới</b> bị sai, từ đó sẽ tự động lưu vào đây và hẹn nhắc sau 3 ngày.
+      </div>
+    `;
+    return;
+  }
+
+  if (actionsEl) actionsEl.classList.remove('hidden');
+
+  const cardsHtml = wrongVocabList.slice(0, 8).map(w => {
+    const isDue = w.reviewDueDate && today >= w.reviewDueDate;
+    let dueLabel = 'Đến hạn ôn!';
+    let dueClass = 'bg-rose-600 text-white';
+    if (!isDue && w.reviewDueDate) {
+      const diff = Math.max(1, Math.ceil((new Date(w.reviewDueDate + 'T00:00:00') - new Date(today + 'T00:00:00')) / 86400000));
+      dueLabel = `Còn ${diff} ngày`;
+      dueClass = 'bg-amber-100 text-amber-800';
+    }
+    return `
+      <div class="flex items-center justify-between gap-2 p-2.5 px-3 rounded-2xl bg-slate-50 hover:bg-rose-50/40 border border-slate-200/70 transition">
+        <div class="min-w-0">
+          <div class="flex items-center gap-1.5 flex-wrap">
+            <span class="font-black text-slate-900 text-xs">${w.word}</span>
+            <span class="text-[11px] font-mono text-slate-400">${w.phonetic || ''}</span>
+            <span class="px-2 py-0.5 rounded-full text-[10px] font-black ${dueClass}">${dueLabel}</span>
+          </div>
+          <div class="text-[11px] text-slate-600 truncate mt-0.5">${w.meaningVi || ''}</div>
+        </div>
+        <button onclick="markWrongVocabMastered('${w.id}', '${String(w.word).replace(/'/g, "\\'")}')" class="w-7 h-7 rounded-xl bg-white hover:bg-emerald-50 border border-slate-200 hover:border-emerald-300 text-slate-400 hover:text-emerald-600 flex items-center justify-center flex-shrink-0 transition cursor-pointer" title="Đánh dấu đã thuộc & xóa khỏi danh sách">
+          ✓
+        </button>
+      </div>
+    `;
+  }).join('');
+
+  const moreNotice = wrongVocabList.length > 8
+    ? `<div class="text-center text-[11px] text-slate-400 font-semibold mt-2">...và ${wrongVocabList.length - 8} từ khác. Bấm "Kiểm tra lại" để ôn toàn bộ ${wrongVocabList.length} từ!</div>`
+    : '';
+
+  bodyEl.innerHTML = `
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-56 overflow-y-auto pr-1">
+      ${cardsHtml}
+    </div>
+    ${moreNotice}
+  `;
+  if (window.lucide) lucide.createIcons();
+}
+
+function startWrongVocabReview(mode = 'quiz') {
+  if (!wrongVocabList || wrongVocabList.length === 0) {
+    alert('Hiện tại chưa có từ vựng sai nào để ôn tập!');
+    return;
+  }
+
+  isWrongVocabReviewMode = true;
+  currentFlashcardTopicId = 'wrong_vocab_review';
+  currentFlashcardTopicTitle = 'Ôn lại từ sai (Sau 3 ngày)';
+
+  currentFlashcards = wrongVocabList.map(w => ({
+    id: w.id || w.word,
+    word: w.word,
+    phonetic: w.phonetic || '',
+    meaningVi: w.meaningVi || '',
+    audioUrl: w.audioUrl || '',
+    imageUrl: w.imageUrl || '',
+    exampleEn: w.exampleEn || '',
+    exampleVi: w.exampleVi || ''
+  }));
+
+  flashcardIndex = 0;
+  flashcardStatus = {};
+  flashcardFlags = new Set();
+  quizQuestions = [];
+  quizAnswers = {};
+  quizFlags = new Set();
+  quizCurrentIndex = 0;
+
+  const titleEl = document.getElementById('fc-topic-title');
+  if (titleEl) titleEl.textContent = currentFlashcardTopicTitle;
+
+  showView('flashcard');
+  switchFlashcardMode(mode === 'study' ? 'study' : 'quiz');
+}
+
 
 
 

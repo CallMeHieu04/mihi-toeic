@@ -301,6 +301,61 @@ ${scheduleFocus}
   return sendTelegramMessage(text, replyMarkup);
 }
 
+async function checkWrongVocabReminders(baseUrl = 'https://mihi-toeic.onrender.com', force = false) {
+  if (!baseUrl || baseUrl.includes('localhost') || baseUrl.includes('127.0.0.1')) baseUrl = 'https://mihi-toeic.onrender.com';
+  const wrongPath = path.join(DATA_DIR, 'wrong_vocab.json');
+  if (!fs.existsSync(wrongPath)) return { skipped: true, reason: 'No wrong vocab file' };
+
+  let list = [];
+  try {
+    list = JSON.parse(fs.readFileSync(wrongPath, 'utf-8'));
+    if (!Array.isArray(list)) return { skipped: true, reason: 'Invalid wrong vocab data' };
+  } catch (e) {
+    return { skipped: true, reason: e.message };
+  }
+
+  const today = getVietnamDateStr();
+  const dueItems = list.filter(item => {
+    if (force) return true;
+    return item.reviewDueDate && today >= item.reviewDueDate && !item.notified;
+  });
+
+  if (dueItems.length === 0) {
+    return { skipped: true, reason: 'No due wrong vocab today' };
+  }
+
+  const previewLines = dueItems.slice(0, 12).map(w => {
+    const ph = w.phonetic ? ` <code>${w.phonetic}</code>` : '';
+    return `• <b>${w.word}</b>${ph} — ${w.meaningVi || ''}`;
+  }).join('\n');
+  const moreText = dueItems.length > 12 ? `\n<i>...và ${dueItems.length - 12} từ khác</i>` : '';
+
+  const text = `🔁 <b>MINH HIẾU ƠI! ĐẾN HẠN ÔN TẬP TỪ VỰNG SAI SAU 3 NGÀY!</b>
+
+Hôm nay có <b>${dueItems.length} từ vựng</b> bạn từng làm sai cần kiểm tra lại để ghi nhớ sâu hơn:
+
+${previewLines}${moreText}
+
+👉 Vào mục <b>Từ vựng làm sai</b> trên trang chủ để kiểm tra lại ngay nhé!`;
+
+  const replyMarkup = {
+    inline_keyboard: [
+      [
+        { text: '🎯 Vào Kiểm Tra Lại Ngay', url: `${baseUrl}` }
+      ]
+    ]
+  };
+
+  await sendTelegramMessage(text, replyMarkup);
+
+  if (!force) {
+    dueItems.forEach(d => { d.notified = true; });
+    fs.writeFileSync(wrongPath, JSON.stringify(list, null, 2), 'utf-8');
+  }
+
+  return { sent: true, count: dueItems.length };
+}
+
 async function checkTelegramScheduler(baseUrl = 'https://mihi-toeic.onrender.com', forceType = null) {
   const config = getTelegramConfig();
   if (!config.enabled && !forceType) {
@@ -369,6 +424,19 @@ async function checkTelegramScheduler(baseUrl = 'https://mihi-toeic.onrender.com
     } catch (err) {
       console.error('[Telegram] Night target reminder error:', err);
       results.push('Night target error: ' + err.message);
+    }
+  }
+
+  // Check 3-day Spaced Repetition Wrong Vocabulary Reminder (>= 08:00)
+  if (forceType === 'wrong_vocab' || currentTimeStr >= (config.morningTime || '08:00')) {
+    try {
+      const wRes = await checkWrongVocabReminders(baseUrl, forceType === 'wrong_vocab');
+      if (wRes && wRes.sent) {
+        results.push(`Wrong vocab 3-day reminder sent (${wRes.count} words)`);
+      }
+    } catch (err) {
+      console.error('[Telegram] Wrong vocab reminder error:', err);
+      results.push('Wrong vocab error: ' + err.message);
     }
   }
 
