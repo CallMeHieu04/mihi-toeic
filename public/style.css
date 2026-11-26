@@ -330,7 +330,7 @@ audio::-webkit-media-controls-panel {
 /* ================= DARK MODE THEME ================= */
 body.dark-mode {
   background-color: #0b1120 !important;
-  color: #e2e8f0 !important;
+  color: #f1f5f9 !important;
 }
 
 body.dark-mode header,
@@ -349,7 +349,7 @@ body.dark-mode #view-result,
 body.dark-mode #view-dashboard,
 body.dark-mode #view-history {
   background-color: #0b1120 !important;
-  color: #e2e8f0 !important;
+  color: #f1f5f9 !important;
 }
 
 body.dark-mode #view-home > section:first-child {
@@ -357,26 +357,16 @@ body.dark-mode #view-home > section:first-child {
   border-color: #1e293b !important;
 }
 
-body.dark-mode .bg-white,
-body.dark-mode .bg-white\/95,
-body.dark-mode .bg-white\/80 {
-  background-color: #162032 !important;
-  border-color: #26354d !important;
-}
-
-body.dark-mode .bg-slate-50,
-body.dark-mode .bg-slate-50\/80,
-body.dark-mode .bg-slate-100,
-body.dark-mode .bg-\[\#f6f7fb\],
-body.dark-mode .bg-\[\#f1f3f7\] {
-  background-color: #1e293b !important;
-  border-color: #334155 !important;
-}
-
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
 body.dark-mode .text-slate-900,
 body.dark-mode .text-slate-800,
-body.dark-mode .text-slate-700 {
-  color: #f1f5f9 !important;
+body.dark-mode .text-slate-700,
+body.dark-mode .text-\[\#19243f\],
+body.dark-mode .text-\[\#2a3652\] {
+  color: #f8fafc !important;
 }
 
 body.dark-mode .text-slate-600,
@@ -388,11 +378,114 @@ body.dark-mode .text-slate-400 {
   color: #94a3b8 !important;
 }
 
+body.dark-mode .text-\[\#5648ee\] {
+  color: #818cf8 !important;
+}
+
+body.dark-mode .text-orange-700,
+body.dark-mode .text-orange-600 {
+  color: #fb923c !important;
+}
+
+body.dark-mode .text-amber-800,
+body.dark-mode .text-amber-700 {
+  color: #fbbf24 !important;
+}
+
+body.dark-mode .text-emerald-800,
+body.dark-mode .text-emerald-700,
+body.dark-mode .text-emerald-600 {
+  color: #34d399 !important;
+}
+
+body.dark-mode .text-rose-900,
+body.dark-mode .text-rose-700,
+body.dark-mode .text-rose-600,
+body.dark-mode .text-red-900 {
+  color: #fda4af !important;
+}
+
+body.dark-mode .text-blue-600 {
+  color: #60a5fa !important;
+}
+
+body.dark-mode .text-teal-600 {
+  color: #2dd4bf !important;
+}
+
+body.dark-mode .bg-white,
+body.dark-mode .bg-white\/95,
+body.dark-mode .bg-white\/80,
+body.dark-mode .bg-white\/70 {
+  background-color: #162032 !important;
+  border-color: #26354d !important;
+}
+
+/* Keep white buttons inside orange streak banner crisp */
+body.dark-mode .bg-gradient-to-r.from-\[\#ff6b3d\] .bg-white,
+body.dark-mode .bg-gradient-to-r.from-\[\#ff6b3d\] .text-\[\#ff7733\] {
+  background-color: #ffffff !important;
+  color: #ea580c !important;
+}
+
+body.dark-mode .bg-slate-50,
+body.dark-mode .bg-slate-50\/80,
+body.dark-mode .bg-slate-100,
+body.dark-mode .bg-slate-100\/90,
+body.dark-mode .bg-\[\#f6f7fb\],
+body.dark-mode .bg-\[\#f1f3f7\] {
+  background-color: #1e293b !important;
+  border-color: #334155 !important;
+}
+
+/* Pastel tinted cards in Dark Mode */
+body.dark-mode .bg-indigo-50,
+body.dark-mode .bg-indigo-50\/80,
+body.dark-mode .bg-indigo-50\/70,
+body.dark-mode .bg-purple-50,
+body.dark-mode .bg-blue-50,
+body.dark-mode .bg-\[\#edf0fe\] {
+  background-color: rgba(79, 70, 229, 0.16) !important;
+  border-color: rgba(129, 140, 248, 0.25) !important;
+}
+
+body.dark-mode .bg-amber-50,
+body.dark-mode .bg-amber-50\/80,
+body.dark-mode .bg-amber-50\/40,
+body.dark-mode .bg-orange-50,
+body.dark-mode .bg-orange-50\/80,
+body.dark-mode .bg-\[\#fff3ec\] {
+  background-color: rgba(245, 158, 11, 0.14) !important;
+  border-color: rgba(251, 191, 36, 0.25) !important;
+}
+
+body.dark-mode .bg-rose-50,
+body.dark-mode .bg-rose-50\/70,
+body.dark-mode .bg-rose-100 {
+  background-color: rgba(244, 63, 94, 0.16) !important;
+  border-color: rgba(251, 113, 133, 0.28) !important;
+}
+
+body.dark-mode .bg-emerald-50,
+body.dark-mode .bg-emerald-50\/80,
+body.dark-mode .bg-teal-50 {
+  background-color: rgba(16, 185, 129, 0.15) !important;
+  border-color: rgba(52, 211, 153, 0.25) !important;
+}
+
+/* Preview gradient cards on Hero */
+body.dark-mode .from-indigo-50.to-blue-50,
+body.dark-mode .from-orange-50.to-amber-50 {
+  background-image: none !important;
+  background-color: #1e293b !important;
+}
+
 body.dark-mode .border-slate-200,
 body.dark-mode .border-slate-200\/80,
 body.dark-mode .border-slate-200\/90,
+body.dark-mode .border-slate-300,
 body.dark-mode .border-slate-100 {
-  border-color: #293850 !important;
+  border-color: #2d3f59 !important;
 }
 
 body.dark-mode .exam-choice-item:hover,
@@ -408,25 +501,29 @@ body.dark-mode .exam-choice-item.selected {
 
 body.dark-mode .exam-choice-item.correct,
 body.dark-mode .quiz-choice-item.correct {
-  background-color: rgba(16, 185, 129, 0.2) !important;
+  background-color: rgba(16, 185, 129, 0.22) !important;
   border-color: #10b981 !important;
 }
 
 body.dark-mode .exam-choice-item.wrong,
 body.dark-mode .quiz-choice-item.wrong {
-  background-color: rgba(239, 68, 68, 0.2) !important;
+  background-color: rgba(239, 68, 68, 0.22) !important;
   border-color: #ef4444 !important;
 }
 
 body.dark-mode kbd {
   background-color: #0f172a !important;
   border-color: #334155 !important;
-  color: #e2e8f0 !important;
+  color: #f1f5f9 !important;
 }
 
 body.dark-mode #exam-passage-wrap {
-  background-color: rgba(30, 41, 59, 0.9) !important;
+  background-color: rgba(30, 41, 59, 0.92) !important;
   border-color: #334155 !important;
+}
+
+body.dark-mode .tab-btn:not(.active) {
+  color: #cbd5e1 !important;
 }
 
 body.dark-mode .tab-btn:not(.active):hover,
