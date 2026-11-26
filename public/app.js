@@ -4682,14 +4682,16 @@ function checkInStreakManually() {
 }
 
 function updateStreakUI(data) {
+  const isLoggedIn = !!(typeof currentAuthUser !== 'undefined' && currentAuthUser && getAuthToken());
   if (!data) data = getStreakData();
   const today = getLocalDateString();
-  const isTodayActive = (data.lastActiveDate === today);
+  const isTodayActive = isLoggedIn && (data.lastActiveDate === today);
+  const displayStreak = isLoggedIn ? (data.currentStreak || 0) : 0;
 
   // 1. Header Button
   const headerCount = document.getElementById('header-streak-count');
   const headerBtn = document.getElementById('streak-header-btn');
-  if (headerCount) headerCount.textContent = data.currentStreak;
+  if (headerCount) headerCount.textContent = displayStreak;
   if (headerBtn) {
     if (isTodayActive) {
       headerBtn.className = "flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-gradient-to-r from-amber-50 to-orange-50 border border-orange-300 text-orange-600 hover:bg-orange-100 font-black text-xs shadow-xs hover:scale-105 active:scale-95 transition-all cursor-pointer group";
@@ -4703,9 +4705,12 @@ function updateStreakUI(data) {
   const homeBadge = document.getElementById('home-streak-status-badge');
   const homeSubtitle = document.getElementById('home-streak-subtitle');
 
-  if (homeDays) homeDays.textContent = data.currentStreak;
+  if (homeDays) homeDays.textContent = displayStreak;
   if (homeBadge) {
-    if (isTodayActive) {
+    if (!isLoggedIn) {
+      homeBadge.textContent = "🔒 Chưa đăng nhập";
+      homeBadge.className = "px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-wider bg-white/20 text-white backdrop-blur-xs";
+    } else if (isTodayActive) {
       homeBadge.textContent = "✓ Đã thắp lửa hôm nay";
       homeBadge.className = "px-2.5 py-0.5 rounded-full text-[10px] font-black uppercase tracking-wider bg-white/25 text-white backdrop-blur-xs";
     } else {
@@ -4714,12 +4719,17 @@ function updateStreakUI(data) {
     }
   }
   if (homeSubtitle) {
-    const goalInfo = getStreakGoalInfo(data.startDate || DEFAULT_STREAK_START_DATE, today);
-    const studiedMins = Math.floor(getTodayLocalStudySeconds() / 60);
-    if (isTodayActive) {
-      homeSubtitle.textContent = `"Tuyệt vời Minh Hiếu! Bạn đã học ${studiedMins}/${goalInfo.requiredMinutes} phút & giữ được ngọn lửa hôm nay 🔥."`;
+    if (!isLoggedIn) {
+      homeSubtitle.textContent = `"Đăng nhập tài khoản để bắt đầu đếm phút học và thắp lửa Streak mỗi ngày!"`;
     } else {
-      homeSubtitle.textContent = `"Hôm nay bạn mới học ${studiedMins}/${goalInfo.requiredMinutes} phút (${goalInfo.stageName}). Học đủ ${goalInfo.requiredMinutes} phút để thắp lửa nhé!"`;
+      const goalInfo = getStreakGoalInfo(data.startDate || DEFAULT_STREAK_START_DATE, today);
+      const studiedMins = Math.floor(getTodayLocalStudySeconds() / 60);
+      const userName = (currentAuthUser && currentAuthUser.fullName) ? currentAuthUser.fullName : 'bạn';
+      if (isTodayActive) {
+        homeSubtitle.textContent = `"Tuyệt vời ${userName}! Bạn đã học ${studiedMins}/${goalInfo.requiredMinutes} phút & giữ được ngọn lửa hôm nay 🔥."`;
+      } else {
+        homeSubtitle.textContent = `"Hôm nay bạn mới học ${studiedMins}/${goalInfo.requiredMinutes} phút (${goalInfo.stageName}). Học đủ ${goalInfo.requiredMinutes} phút để thắp lửa nhé!"`;
+      }
     }
   }
 }
@@ -6283,6 +6293,9 @@ function setAuthSession(token, user) {
   } catch (e) {}
   currentAuthUser = user || null;
   updateAuthUI();
+  if (typeof updateStreakUI === 'function') {
+    updateStreakUI();
+  }
   if (typeof renderHomeWrongVocabSection === 'function') {
     renderHomeWrongVocabSection();
   }
